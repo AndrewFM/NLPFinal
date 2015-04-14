@@ -1,0 +1,201 @@
+how to rip your own acapella
+How do you produce an immersive soundtrack?
+Is the Pro Tools Field Recorder Track feature only available in HD versions?
+Each instrument in its own track - format and online resources?
+Scales vs. Harmonic Notes
+I have a 4.1 speaker system with a subwoofer. Can I use 2 speakers with the subwoofer instead of 4?
+MixPre D (USB Audio Class compliant device) - Windows XP only shows outputs - no inputs!
+Avantone CK-1 Mic
+How to achieve 180 degree dispersion from one speaker cluster?(live pa)
+Synthesize droning strings
+Exporting audio in Nuendo five
+Recording app with video playback / remote solution
+Problem with Mounting Compact Flash from Sound Devices 702 to OS X
+How do I connect Zoom recorder to Yamaha mixer?
+Sound Design Journals on genre
+Is there a way to connect a FireWire audio interface to a USB port?
+How can i prevent/reduce bass trapping?
+Using an unpowered microphone on a mixer board?
+How can I control the patch in cubase 5?
+How to shift frequency of whole audio file?
+Recording clean sounds as a base for SFX
+Looking for a compact light-weight Mono power amplifier
+Is there such a thing as Balanced stereo cable?
+Approximate the Sound Forge &quot;RMS Normalize&quot; function using Sox?
+Room Frequency Hum
+USB/Midi controller on Ubuntu Linux?
+CuBase LE 5 Static Noises
+Importing an AAF file into Protools 9
+Sound Effect made on vocal and guitar
+hellp setting up mixer and headphone amp
+No sound in VST &amp; Audio (Cubase LE 5)
+Designing the sound of a 20&quot; *ahem*... &quot;Member&quot;
+Creating percussion from found sounds?
+How to record a cajon without it sounding terrible?
+Topics to be covered in a sound design video tutorial?
+What basic hardware should I get for a beginner at audio recording with low budget?
+Looking for film sound design school in Europe
+Microphone becomes inactive when I open a new project in cubase
+Compress more than once? (VO multi-mix)
+How is this sound created?
+VST plugin that hosts VST plugins
+Wave synthesizer software
+Noise Reduction when recording changes volume
+Removing Vocals: Logic Pro X
+Why is loudness war and mp3 bad?
+Room tone/Ambience/Atmosphere loudness question
+Storing ambiences in to a post-prodution house library
+Post-production houses needs in ambiences?
+(First) Hardware setup for ambient
+Need software-based, resonant filter for 90&#39;s ROMpler
+how to rip your own acapella
+How do you produce an immersive soundtrack?
+Is the Pro Tools Field Recorder Track feature only available in HD versions?
+Each instrument in its own track - format and online resources?
+Scales vs. Harmonic Notes
+I have a 4.1 speaker system with a subwoofer. Can I use 2 speakers with the subwoofer instead of 4?
+MixPre D (USB Audio Class compliant device) - Windows XP only shows outputs - no inputs!
+Avantone CK-1 Mic
+How to achieve 180 degree dispersion from one speaker cluster?(live pa)
+Synthesize droning strings
+Exporting audio in Nuendo five
+Recording app with video playback / remote solution
+Problem with Mounting Compact Flash from Sound Devices 702 to OS X
+How do I connect Zoom recorder to Yamaha mixer?
+Sound Design Journals on genre
+Is there a way to connect a FireWire audio interface to a USB port?
+How can i prevent/reduce bass trapping?
+Using an unpowered microphone on a mixer board?
+How can I control the patch in cubase 5?
+How to shift frequency of whole audio file?
+Recording clean sounds as a base for SFX
+Looking for a compact light-weight Mono power amplifier
+Is there such a thing as Balanced stereo cable?
+Approximate the Sound Forge &quot;RMS Normalize&quot; function using Sox?
+Room Frequency Hum
+USB/Midi controller on Ubuntu Linux?
+CuBase LE 5 Static Noises
+Importing an AAF file into Protools 9
+Sound Effect made on vocal and guitar
+hellp setting up mixer and headphone amp
+No sound in VST &amp; Audio (Cubase LE 5)
+Designing the sound of a 20&quot; *ahem*... &quot;Member&quot;
+Creating percussion from found sounds?
+How to record a cajon without it sounding terrible?
+Topics to be covered in a sound design video tutorial?
+What basic hardware should I get for a beginner at audio recording with low budget?
+Looking for film sound design school in Europe
+Microphone becomes inactive when I open a new project in cubase
+Compress more than once? (VO multi-mix)
+How is this sound created?
+VST plugin that hosts VST plugins
+Wave synthesizer software
+Noise Reduction when recording changes volume
+Removing Vocals: Logic Pro X
+Why is loudness war and mp3 bad?
+Room tone/Ambience/Atmosphere loudness question
+Storing ambiences in to a post-prodution house library
+Post-production houses needs in ambiences?
+(First) Hardware setup for ambient
+Need software-based, resonant filter for 90&#39;s ROMpler
+Sony PCM-M10 for ambient recording while WALKING
+What do you use for passbys?
+Location Recording Use USB Audio Interface and DAW
+Is &quot;level&quot; control amplifying or attenuating?
+I&#39;m designing a sonic output device which must contain a piezoelectric crystal
+Are drums often quantized in modern jazz recordings?
+Is my application a Patchbay or Mixer?
+Does anybody know this voice effect?
+How to sample songs in my headphones without it playing through speakers/monitors?
+Bluetooth: best way to set volume
+How can I fix/reset my MIDI setup?
+Fixing low-frequency hum in an undersaddle acoustic guitar pickup
+Convert FL Studio time to just Ticks
+How does A/B montage works?
+Recordings less than 4 seconds long are &quot;ignored&quot; in Pro Tools
+Adobe Audition CS6 turning off playback while recording
+flstudio reduce chord length
+What is the lead synth in Lizardking&#39;s remake of Claustrophobia?
+How to create a transparent multiband splitter?
+(SDL) Mixing 2 audio files with no noise or distortion
+How to setup microphone with pre-amp for general purpose PC input use as well as audio recording?
+DVDs with Original Theatrical Mix for Reference?
+How do expensive headphones compare to cheaper ones?
+What is a &#39;noise sweep&#39;?
+How to route signal to another application from a Sapphire Pro 24
+Matching ADR with original Dialogue
+creating a deep voice with a sample
+I wold like to draw audio stereo workflow chart for broadcast television
+Good tutorials for unity
+Retaining Metadata in .aif to .wav Conversion?
+Copy metadata description field from soundminer to BWAV
+&#39;Tripwire&#39; sound design
+How to get hi-hats in FL studio rewire in cubase?
+How do I record multiple mics to a computer without a mixer?
+sound design effect
+Where would midi cables connect FROM 2 synth wk stations into an interface
+Sound Request.  Young Kids Talking to Parent
+Newbie and don&#39;t know where to start with FL Studio
+FL Studio strange wobbly sound
+Protools DAE 9126 error.
+Why some people high pass and low pass in final mixing? And why some don&#39;t?
+How can I configure a computer to take 1/4&quot; or XLR input without it sounding like I&#39;m using toasters as AV equipment?
+Splitting up multiple inputs on one soundcard
+Beginner Recorder with onboard mics for on location/foley recording
+What&#39;s audio equivalent of FPS in video, and what&#39;s the current limit of capturing the maximum?
+Will multiple similar bluetooth devices interfere with each other?
+Recording microphone input as a second input with Fraps
+Basic all digital mixing and audio interface home recording solution
+Sound Design: How would you create this pluck?
+FL studio route one mixer track to another
+&quot;Stoker&quot; - sound design moves background to foreground
+How to configure Lexicon Omega as a main soundcard?
+logic midi note duplication and mapping between tracks in logic pro x
+FX REQUEST: Jamaican Walla + Stingers
+Using a Rode NTG-2 Shotgun with a Marantz PMD 661
+Opinions re: modular mics and Neumann KM modular series
+What hardware do I need to feed samples + click to a drummer and samples only to the mixer?
+Manipulating sound files (remove &quot;temple background&quot; sound)
+How can I make this sound with Sylenth1 or Massive? (FL STUDIO)
+Sound Design on Tribes: Ascend - Part 3
+How to reproduce a guitar sound
+Medieval skirmish loops
+Mavericks and pro tools 9
+How is this mix so clean?
+Shortwave Radio as a Sound Source
+How do you identify clicks and pops in a spectral analysis?
+WAV file recorded with wrong header
+Is anyone using an iPhone/Pad/Pod to record from a MixPre-D&#39;s USB output?
+Using a cellphone to record on set
+Transcoding detection
+DPA 4060s-ways of placing them during field recording
+Opus vs MP3 (Size &amp; Quality Comparison)
+Live control of rewired application parameter using MIDI controller in Ableton
+Conceptualising sound FX for a short film that has a gaming vibe.
+MP3-format - how the quality is affected
+Dialogue Record with Zoom H4N and 2 Shotgun
+Sony PCM-M10: safety track?
+Can you force a mic/input to be one channel on Mac OS?
+What bag do you use for your field recorder?
+Connect two separate Surround Sound Speakers with one Laptop
+best settings to record indoor interview using Zoom H5 recorder and 2 external mics
+How would you recreate this bass kick sound?
+Lossless convert WMA to WAV on a mac
+can you help me identify the vintage synths used in this opening of the pilot episode of Dino Riders
+What vocal effects do these heavy metal bands use for live shows
+Fostex FM3 Field Mixer
+How do I sync a Mac and Windows laptop running Ableton Live?
+Mixing 5.1 sound for film
+Multiple loop phrases in Ableton looper?
+how to use 2 shotgun mics for videocam with external mic input
+Best Way Add Dynamics to Sustained MIDI Note
+abelton does not pick up the microphone connected to my mackie profx8
+Sound coming from behind using stereo field
+Editing field recordings
+Mbox 2 mini and mac mavericks (mac osx 10.9) not working properly
+How to set the Zoom H4N for recording with external mic &amp; lav? 
+Game commentating with two microphone headsets
+Roland E-16 Midi Out
+How can I make 3d sound
+VST Plugins for creating MIDI Notes (Ableton)
+How to wire a mono signal to a stereo jack so both channels are the same

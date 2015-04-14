@@ -1,0 +1,201 @@
+How do i draw depth complexity(overdraw) in directx 11?
+GestureDetection Issues - How do I make my Actor jump on Swipe?
+How do I setup a changing layout for a game?
+How to implement simple shadows on XNA?
+Unity: Can&#39;t press space to unpause. Is this a Unity UI bug? Or maybe poorly written code?
+What degree do you need to become a game designer,programmer,developer.etc
+What is a good clock implementation for a multiplayer game?
+Unity: Animation Controller: Does &quot;atomic&quot; attribute in 4.6.3 same with &quot;has exit time&quot; attribute in 5.0
+Can a Distributed Interactive Simulation (DIS) protocol be used for an MMO game?
+C++ exensible resource manager class with dynamic registration of factories
+Unity animation editor having trouble to animate twice the same component
+Unity: how do I edit a second scene when my objects are still in the first?
+How to impale and stack targets correctly according to the collider and its coordinate?
+How do I rotate and object around itself, and translate it at the same time?
+In unity3D, is it good to use events more often?
+Optimizing Texture Text Rendering?
+Checking if object passed between two other objects
+How to achieve high Level of Detail on 3D models
+Entity Component System, How to decouple components need for entity as parameter?
+Sprite Kit - containsPoint for SKPhysicsBody?
+Normal mapping for Android and iOS
+How can I implement hexagonal tilemap picking in XNA?
+Why can&#39;t I rotate anything to be &quot;more than 360 degrees or less than 0 degrees&quot;?
+Moving a Polygon based on Camera position [JAVA]
+Recurring stalls in SwapBuffer
+Understanding animations of controllable characters
+Implementing FSM on multiple class UNITY3D
+PBR Metalness Implementation: specColor at Value 1?
+how to pick up multiple coins with Phaser?
+Directx displaying selectable text
+SharpDX - Character Skinning Different in Windows Phone 8.1 Emulator and Real Device
+Is it a good idea to ask the user why he left the game?
+DontDestroyOnLoad() doesn&#39;t work in Unity
+Android online real-time multiplayer game solution
+Need help creating points in an array
+how to add specific line when it cross another line?
+Hundreds or even thousands of &quot;slow&quot; running CPUs emulated on GPU?
+unity 5 C# or Unreal Engine 4 C++
+How do I create a custom tool in Unity?
+Unity Frustum Culling Issue
+What is DirectX 11&#39;s equivalent of D3DCAPS9::MaxVertexIndex of DirectX 9?
+Custom arcade physics rate (e.g. bullet time)?
+Understanding Unity 5 Car controller
+Player Gravity Questions
+cocos2dx - Bypass body contact
+ArmA 3 Scripting: Delete vehicle depending on present players
+Switching renderer off/on for an object in unity using C#
+DirectX9 Skinning Animation(H/W)
+Unity 5 - Error with code to make pitch changes based on distance
+SSAO all jagged
+How do i draw depth complexity(overdraw) in directx 11?
+GestureDetection Issues - How do I make my Actor jump on Swipe?
+How do I setup a changing layout for a game?
+How to implement simple shadows on XNA?
+Unity: Can&#39;t press space to unpause. Is this a Unity UI bug? Or maybe poorly written code?
+What degree do you need to become a game designer,programmer,developer.etc
+What is a good clock implementation for a multiplayer game?
+Unity: Animation Controller: Does &quot;atomic&quot; attribute in 4.6.3 same with &quot;has exit time&quot; attribute in 5.0
+Can a Distributed Interactive Simulation (DIS) protocol be used for an MMO game?
+C++ exensible resource manager class with dynamic registration of factories
+Unity animation editor having trouble to animate twice the same component
+Unity: how do I edit a second scene when my objects are still in the first?
+How to impale and stack targets correctly according to the collider and its coordinate?
+How do I rotate and object around itself, and translate it at the same time?
+In unity3D, is it good to use events more often?
+Optimizing Texture Text Rendering?
+Checking if object passed between two other objects
+How to achieve high Level of Detail on 3D models
+Entity Component System, How to decouple components need for entity as parameter?
+Sprite Kit - containsPoint for SKPhysicsBody?
+Normal mapping for Android and iOS
+How can I implement hexagonal tilemap picking in XNA?
+Why can&#39;t I rotate anything to be &quot;more than 360 degrees or less than 0 degrees&quot;?
+Moving a Polygon based on Camera position [JAVA]
+Recurring stalls in SwapBuffer
+Understanding animations of controllable characters
+Implementing FSM on multiple class UNITY3D
+PBR Metalness Implementation: specColor at Value 1?
+how to pick up multiple coins with Phaser?
+Directx displaying selectable text
+SharpDX - Character Skinning Different in Windows Phone 8.1 Emulator and Real Device
+Is it a good idea to ask the user why he left the game?
+DontDestroyOnLoad() doesn&#39;t work in Unity
+Android online real-time multiplayer game solution
+Need help creating points in an array
+how to add specific line when it cross another line?
+Hundreds or even thousands of &quot;slow&quot; running CPUs emulated on GPU?
+unity 5 C# or Unreal Engine 4 C++
+How do I create a custom tool in Unity?
+Unity Frustum Culling Issue
+What is DirectX 11&#39;s equivalent of D3DCAPS9::MaxVertexIndex of DirectX 9?
+Custom arcade physics rate (e.g. bullet time)?
+Understanding Unity 5 Car controller
+Player Gravity Questions
+cocos2dx - Bypass body contact
+ArmA 3 Scripting: Delete vehicle depending on present players
+Switching renderer off/on for an object in unity using C#
+DirectX9 Skinning Animation(H/W)
+Unity 5 - Error with code to make pitch changes based on distance
+SSAO all jagged
+Are references to other games considered an infringement of copyright?
+how to stop camera at the end of world map when zoomed in
+Why should i set glClearColor and setProjectionMatrix in render method many time in LibGDX?
+Detecting a click on a tile
+Binding C++ and V8 Javascript from Google
+What is the correct multiplication order for a 2D matrix?
+animation control problem
+SelectBox in LibGDX doesn&#39;t display and freezes the program after a click
+Filling a room with random furniture
+Help on transition from one position to another
+Draw many flashlights&#39; focused lights&#39; &quot;circles&quot; on a voxel engine map (and other objects)
+How to achieve best performance in DirectX 9.0 while rendering on multiple monitors?
+Unity3D - How do I make so when user moves the camera it doesn&#39;t go beyond the scene borders?
+Will I have an easier time learning OpenGL in Pygame or Pyglet? (NeHe tutorials downloaded)
+MMORPG Emulator, I need some Legal information....
+Problems with First Person Camera in C++ OpenGL
+Unity3D - How to tessellate 2D sprites?
+Unity: Finding Objects Positions From An Array
+Converted XWM(A) files get silence at the end
+Planar scene graph
+Looking for some insight on level mangment
+SpriteBatch being drawn outside of Stage?
+Game vfx tecniques for 2D and 3D games
+How do I render an object&#39;s position trail of a constant length?
+Client/Server best way of telling client which player it is
+Implementing RPG Maker Auto Tiling
+Monogame - stopping a custom shader (drawable game component) when inside another drawable game component
+Simulation of ball movement in a 3d landscape. The easiest way?
+C# - console application, array problem
+2D Collisions side detection
+Lookrotation of a gameObject in just one axis
+What is AABBvsAABB Collision detection?
+Implementing game state without switch statements everywhere?
+Physics/Logic behind self-bounce
+Problem with textures using DirectX file format in Irrlicht
+Error in unity : The type or namespace name RigidBody could not be found
+When does DirectX convert a vertex/pixel&#39;s depth from range Near-Far to 0-1?
+how to make a sprite jump or fly and fall slowly
+&quot;Accelerated&quot; Ray Tracing
+Circle-Circle collision resolution
+how to make coins explode out of monster in phaser?
+need a Multplayer Poker Game Source Code using Java/GWT
+How to stop 3D model from reflecting light like plastic
+Surfaces not being drawn on game maker
+Usage of math.Atan2 in a 3D coordinate system with Unity
+Texturing issues in cry engine sdk
+How can I shorten distributing iOS builds to our testers?
+Is sidescroller movement just offsetting the background?, MonoGame/XNA
+Cocos2D-JS Windows App in fullscreen mode (Win32)
+FPS issue between computers results in slow down of animations and moving
+Visual Programming tool for creating game quests
+Why is my gameloop slightly faster than 60 per second?
+Game Logic Update Order
+Domain-specific languages for scripting
+Moving players into same square simultaneously?
+Scrolling a WriteableBitmap
+Spawning moving text make it disappear overtime
+Cannot get the specific bounds of my Animation sprite?
+Iteration over grid with randomly moving entities
+Creating polygons with separate outline/fill colors in OpenGL
+Is the standard collision detection in Slick2D too heavy for broadphase?
+C# Triangle Triangle intersection
+Will Android apps made with libGDX be slower the normal Android apps?
+What do these Google Play Buildbox settings mean?
+Instantiate a prefab and call a method from it&#39;s script
+Is there any easy way to understand the Alpha Beta for Othello?
+How to texture a surface generated by marching cubes algorithm?
+Bad quality of the sprite in Unity
+Hard time implementing AABB collision into a platformer
+Combining two independent rotations relative to the world frame
+Use both AddForceAtPoint and change velocity property?
+Bubble shooter clone, structure for storing/adding of bubbles
+Camera.WorldToScreenPoint not working with perspective
+How can I analyze which level on which of three difficulty settings causes players to quit my game?
+Instantiated Prefab Facing Wrong Way
+How do I find the intersection point from the Expanding Polytope Algorithm?
+iOS Facebook SDK, Games Start Playing post
+Unity 5: Error when everything is okay(Object reference not set to an instance of an object)
+trouble getting the lighting and material set up right
+How to find sudoku puzzle database with solutions?
+Calculating shadowmap coordinates for cubemap in shading pass?
+Strategy game tile and unit storage
+How can I create a collision like the ball and peg in Peggle?
+Build the multiplayer part of a chekers game
+Sprite collision with color?
+Browser Game - Model or not Model
+The Validity Of &quot;Else-IF&quot; in Unity (Or any C# for that matter)
+How to figure out if I&#39;m on the right path
+Update animation based on distance traveled instead of elapsed time?
+How to make custom shaped holes in terrain
+Jumping higher when the player touches a trigger collider in Unity
+(Unity) Physics based movement vs Straight position change
+Unity 2D - Object following target instead of moving towards it
+2d camera shaking back and forth
+What is a good design pattern for a typical space shooter (e.g. Ikaruga)?
+Unity sprite with higher sorting layer not firing its OnMouseDown function
+Storing a block world
+Disappearring instances of VertexPositionColor using MonoGame
+How do I draw a full screen quad in DirectX 11?
+Separation of axis theorem implementation at normals
+How can I create a fade effect between scenes in Libgdx?

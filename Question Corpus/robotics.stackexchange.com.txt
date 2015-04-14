@@ -1,0 +1,201 @@
+Irobot creae 2 C# connection
+Low power computer for stereo vision
+To control an omni wheel robot wirelessly using bluetooth and arduino
+Simple way of 3d perception
+Pose estimation, how to populate set of known edges and points?
+Stereo camera Vs Kinect
+Magnetometer to measure high angular velocity in small object
+What main factors/features explain the high price of most industrial computer vision hardware?
+the uncertainty of initializing new landmark in EKF-SLAM
+Euler’s Method Or ode45 for solving ODE for control systems
+algorithm Simple Stereo Vision
+Denavit-Hartenberg parameters for SCARA manipulator
+Detect human in proximity?
+How to decide between LiPo or LiFePo for robot battery
+Quadcopter frame design
+Shallow underwater wireless sensor network
+Easiest way to submit a longer non standard character string via MAVLink
+How to calculate Euler Angles from gyroscope output?
+Micro Quadcopter PID problem
+Turning an epilog laser into a 3d printer?
+EKF over-correcting?
+RGB-D SLAM - Compute Information Matrix
+Compound vision system or Megapixel camera reduction
+My PID Controller in Java is not operating correctly
+How do I work out the kinematic solution of a robot arm?
+Enable Bluetooth Adapter for BeagleBone Black
+Detect polyethylene
+how to implement tracking problem with PID controller
+What middle-ware do you recommend for a swarm of AUVs?
+Calculating thrust generated from electric engines
+Question about dynamic window approach?
+Mapping algorithm without noise
+What are the signs that a servo might be broken?
+Beaglebone not accessible through LAN?
+Square with hinge on all four sides
+Using a Bitmap maze image to navigate the maze
+Programming the Odometry of Rover 5
+Comparison of the efficiency of DC motor current limiting / control methods?
+Help to dimension the right controller for the following Tranfer Function
+using range-only sensors for mapping in SLAM
+Can we use this line sensor as a proximity sensor?
+BeagleBone - PRU questions
+Any image transfer protocol for wireless serial transfer?
+Iterative Learning Control Algorithm
+Can&#39;t connect to VNC server on BeagleBone?
+Rocker bogie suspension system - pitch angle
+where can I get openinterface.py?
+Low power to motors -- motor power jumper issue
+how to make a robot move using arduino other than timing to predefined locations?
+What is the difference between motion planning and trajectory generation?
+Irobot creae 2 C# connection
+Low power computer for stereo vision
+To control an omni wheel robot wirelessly using bluetooth and arduino
+Simple way of 3d perception
+Pose estimation, how to populate set of known edges and points?
+Stereo camera Vs Kinect
+Magnetometer to measure high angular velocity in small object
+What main factors/features explain the high price of most industrial computer vision hardware?
+the uncertainty of initializing new landmark in EKF-SLAM
+Euler’s Method Or ode45 for solving ODE for control systems
+algorithm Simple Stereo Vision
+Denavit-Hartenberg parameters for SCARA manipulator
+Detect human in proximity?
+How to decide between LiPo or LiFePo for robot battery
+Quadcopter frame design
+Shallow underwater wireless sensor network
+Easiest way to submit a longer non standard character string via MAVLink
+How to calculate Euler Angles from gyroscope output?
+Micro Quadcopter PID problem
+Turning an epilog laser into a 3d printer?
+EKF over-correcting?
+RGB-D SLAM - Compute Information Matrix
+Compound vision system or Megapixel camera reduction
+My PID Controller in Java is not operating correctly
+How do I work out the kinematic solution of a robot arm?
+Enable Bluetooth Adapter for BeagleBone Black
+Detect polyethylene
+how to implement tracking problem with PID controller
+What middle-ware do you recommend for a swarm of AUVs?
+Calculating thrust generated from electric engines
+Question about dynamic window approach?
+Mapping algorithm without noise
+What are the signs that a servo might be broken?
+Beaglebone not accessible through LAN?
+Square with hinge on all four sides
+Using a Bitmap maze image to navigate the maze
+Programming the Odometry of Rover 5
+Comparison of the efficiency of DC motor current limiting / control methods?
+Help to dimension the right controller for the following Tranfer Function
+using range-only sensors for mapping in SLAM
+Can we use this line sensor as a proximity sensor?
+BeagleBone - PRU questions
+Any image transfer protocol for wireless serial transfer?
+Iterative Learning Control Algorithm
+Can&#39;t connect to VNC server on BeagleBone?
+Rocker bogie suspension system - pitch angle
+where can I get openinterface.py?
+Low power to motors -- motor power jumper issue
+how to make a robot move using arduino other than timing to predefined locations?
+What is the difference between motion planning and trajectory generation?
+What should I be looking for in a DC motor that will be used in a UROV thruster?
+Does anybody have information on the Delphi car?
+object based indoor scene classification
+Adding reverse function to a brushed motor electronic speed controller
+Determine current roomba state / operating mode
+Do you have to have a rate controller for a Quadcopter?
+How to use scan command in Arduino WifiBee
+Psudo inertia matrix in RP model
+Quadcopter: Stabilization along the z-axis (for holding altitude)
+robotic cell simulation software plc
+Using Armatures in Morse Robotic Simulator
+looking for a circular track and bearing with a spindle
+I want my stepper motor to switch speed while traveling (not acceleration wise)
+How can I send a jpeg image to a microcontroller via USART?
+Robot docking for self-recharging
+joint positions of a robot
+Glasses with eye sensors
+Joint angle correction using LM
+Roomba Create 2 problem reading distance traveled
+Dynamically detect changing obstacles
+iRobot Create PDF Documentation Links don&#39;t work
+How to set up binocular cameras on a car?
+How to send commands to create 2 over Bluetooth
+How to tune PID controller for nonlinear feedback linearization control of a robotic arm?
+How to find the body jacobain, for each link in a robot manipulator?
+Manipulator link applied torque
+Power issues involving Raspberry Pi
+How is it possible to maintain the total thrust when controlling yaw of a quadcopter?
+Adxl345 SPI problem reading values!
+HXT 900 Arduino Sweep Problem
+Simulate IMU (2D gyro and accelerometer) data
+Is it tough to make a robotic workshop of your own
+Image retrieval through a multibeam imaging sonar
+Connect to video stream with Java app instead of console and mplayer
+How important are events like &quot;Robocup&quot; to the advancement of Robotics in general?
+How to find theta1 to theta5 after D-H parameter
+Quadcopter Propeller size + Motor
+How to tune a PIV controller?
+joining an esp8266 wifi module to an access point
+Raspberry Pi for a beginner
+How to estimate yaw angle from tri-axis accelerometer and gyroscope
+Jacobian transpose: how to calculate orientation error
+beaglebone black doesn&#39;t autoboot when powered over jack or vdd pins
+how can ı reduce this block diagram?
+EKF-SLAM Computing the jacobians for landmark updates
+EKF-SLAM, how best to manage the &#39;P&#39; covariance matrix, programatically
+Effect of adding a Pole and Zero to PID
+Monocular vs. stereo computer vision robustness for object detection
+Single Touch Based Sensor and Odometry SLAM in Noisy Rectilinear Enviroment
+SLAM noob here, a few questions regarding EKF-SLAM
+Drive motor voltage / other specifications of Roomba 650
+Verifying motor selection calculations
+Raspberry Pi quadcopter thrashes at high speeds
+Tried Normal Distributions Transform with my own files (in correct PCD format) and it throws errors, why?
+Interfacing high-resolution image sensors with ARM Board
+How to provide power to a robot/raspberry pi?
+RC Transmitter Quadcopter with Arduino
+Controlling the iRobot Create 2 with MATLAB
+Automatic agricultural robot using 8051
+How to choose the right propeller/motor combination for a quadcopter?
+FreeIMU External Magnetometer
+Calculating acceleration and velocity
+Grid mapping probability calculation algorithmic complexity
+What wireless technology to use to control robots in classroom?
+Graph optimization with G2O
+iRobot Create 2 and Open Interface 2 Spec not syncing up with incoming data
+How to calculate the center of mass Jacobian matrix of a robot arm
+Cheapest 3D printer for gears?
+Control a Quadcopter with an xbox 360 controller
+Recommendation for good source of Robotic Components
+Position and Object Data Tracking
+Sending commands to Roomba from PC
+Dock command does not seem to work
+PID control of tank-like robot and IMU
+Controlling an ESC for Brushless Motors with an RPi
+What is the link between a quadcopter transmitter pulse and the roll/pitch/yaw angles?
+aerodynamics of quadcopter
+How to calculate the real time RPM of motor with rotary encoder?
+DYNAMIXEL MX-106-R burnt
+Basic general question about controllers
+the specifications graph showing the battery discharges in volt per time
+Remote Control Relative to Driver
+Is 1 to 3 inches internal diamter slewing ring standard parts?
+I need the specifications for irobot create 2
+How to distribute tension load on a three footed claw?
+Arduino depth sensor
+Is Khepera II still adequate for learning
+Position Controller for a Quadrotor
+Where to buy small propellors for quadcopter
+Sporadic sensing rates for hc-sr04 ultrasonic distance sensor
+How can I power a wheel but let it spin freely when not under power?
+Datalogging from Arduino Mega to Dropbox
+How to convert vertical motion to horizontal
+Implementation of wall and obstacle avoidance
+What is the best software/package to draw the robot manipulator and indicate DH parameters and different axes?
+Parameter $r$ of Denavit-Hartenberg
+Problems using syskit monitors -&gt; failed emission of the foo event of
+Internal Pullup Sufficient for i2c in beaglebone Black?
+What type of servos are used in industrial robot arms like Universal Robot UR5?
+Help with code that is supposed to drive a servo controller
+Can&#39;t connect to BeagleBone Webserver?

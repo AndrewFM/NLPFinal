@@ -1,0 +1,201 @@
+Characterizing earthquakes using accelerometer data
+Why do we recycle paper?
+What are Horton&#39;s laws?
+Is Iceland really an example of a hot-spot overlying a mantle plume?
+What are some of the strongest theories against the existence of mantle plumes?
+How do mantle plumes travel from the core of Earth to the crust?
+Incised valleys and hydrocarbon potential
+What is the distance between 2 cities?
+Sources of $\ce{CO_2}$ during Carboniferous period
+Climate zone classification using the Holdridge method
+Ratio between heat transfer coefficient and thermal conductivity
+Why does sea level correspond to boundary between oceanic and continental crust?
+Where can I find solar radiation data for specific land areas?
+Does within-canopy wind direction correlate with wind above the planetary bounday layer?
+What is the difference between roughness length and zero plane displacement?
+Using sodium chloride load as a point source pollutant variable in SWAT model?
+What type of clouds are these?
+Climate on an Earth without an Axial Tilt
+What is the life-cycle of agricultural water used to grow crops/animals?
+Why are oceanic plates denser than continental plates?
+Why does Aragonite form in one case and an acetate in another?
+What would happen if we removed Earth&#39;s moon?
+Dependence of solar irradiation through the atmosphere on Sun&#39;s altitude
+Does volcanic activity fluctuate?
+Deciphering NCDC data
+How reliable were early measurements of palaeomagnetic directions?
+The Role of the Antarctic Circumpolar Vortex &amp; Ocean Current in Keeping Antarctica Frozen
+Is it possible to see Auroras from the equatorial region?
+What will happen to me if I touch the aurora?
+How does Antarctica stay frozen?
+CDL File Questions
+What is the earliest tropical cyclone in record?
+Why does phosphate rock contain uranium?
+What, if any, paleoclimate data can be derived from igneous rocks?
+(How long) would Earth&#39;s atmosphere last without a global magnetic field?
+Did a crater cause the break up of Gondwanaland &amp; separate Australia from Antarctica
+Has the number of natural disasters per year increased significantly in the years since human-caused climate change started?
+vegetation types and their required or suitable climate condition
+What would the equilibrium temperature be at the poles in a world without seasonality?
+Why does part of the P-wave convert into a S-wave with an increase of incidence angle?
+A faster way to measure the rock magnetic S-ratio?
+Earth ocean basins
+Is there anywhere on Earth *without* a rain shadow where we would otherwise expect one?
+How has and how does the lithosphere affect climate change?
+How can we guess the size of the Earth&#39;s inner core(and what it&#39;s made of)?
+Did an impact crater influence the formation of uranium deposits in South Australia?
+Thermohaline Circulation in the Oceans
+What causes the semi-annual mesospheric meteoric potassium variability?
+What is the geochemical origin of carbon dioxide with the &#39;white smokers&#39; of the Champagne Vent?
+What sort of climate zones would be present if Earth was tilted like Uranus?
+Characterizing earthquakes using accelerometer data
+Why do we recycle paper?
+What are Horton&#39;s laws?
+Is Iceland really an example of a hot-spot overlying a mantle plume?
+What are some of the strongest theories against the existence of mantle plumes?
+How do mantle plumes travel from the core of Earth to the crust?
+Incised valleys and hydrocarbon potential
+What is the distance between 2 cities?
+Sources of $\ce{CO_2}$ during Carboniferous period
+Climate zone classification using the Holdridge method
+Ratio between heat transfer coefficient and thermal conductivity
+Why does sea level correspond to boundary between oceanic and continental crust?
+Where can I find solar radiation data for specific land areas?
+Does within-canopy wind direction correlate with wind above the planetary bounday layer?
+What is the difference between roughness length and zero plane displacement?
+Using sodium chloride load as a point source pollutant variable in SWAT model?
+What type of clouds are these?
+Climate on an Earth without an Axial Tilt
+What is the life-cycle of agricultural water used to grow crops/animals?
+Why are oceanic plates denser than continental plates?
+Why does Aragonite form in one case and an acetate in another?
+What would happen if we removed Earth&#39;s moon?
+Dependence of solar irradiation through the atmosphere on Sun&#39;s altitude
+Does volcanic activity fluctuate?
+Deciphering NCDC data
+How reliable were early measurements of palaeomagnetic directions?
+The Role of the Antarctic Circumpolar Vortex &amp; Ocean Current in Keeping Antarctica Frozen
+Is it possible to see Auroras from the equatorial region?
+What will happen to me if I touch the aurora?
+How does Antarctica stay frozen?
+CDL File Questions
+What is the earliest tropical cyclone in record?
+Why does phosphate rock contain uranium?
+What, if any, paleoclimate data can be derived from igneous rocks?
+(How long) would Earth&#39;s atmosphere last without a global magnetic field?
+Did a crater cause the break up of Gondwanaland &amp; separate Australia from Antarctica
+Has the number of natural disasters per year increased significantly in the years since human-caused climate change started?
+vegetation types and their required or suitable climate condition
+What would the equilibrium temperature be at the poles in a world without seasonality?
+Why does part of the P-wave convert into a S-wave with an increase of incidence angle?
+A faster way to measure the rock magnetic S-ratio?
+Earth ocean basins
+Is there anywhere on Earth *without* a rain shadow where we would otherwise expect one?
+How has and how does the lithosphere affect climate change?
+How can we guess the size of the Earth&#39;s inner core(and what it&#39;s made of)?
+Did an impact crater influence the formation of uranium deposits in South Australia?
+Thermohaline Circulation in the Oceans
+What causes the semi-annual mesospheric meteoric potassium variability?
+What is the geochemical origin of carbon dioxide with the &#39;white smokers&#39; of the Champagne Vent?
+What sort of climate zones would be present if Earth was tilted like Uranus?
+How would weather change on a tidally-locked terrestrial planet?
+Why did people draw so many continuous squares in the sand on the beach at Cape Juby?
+Why is there a seasonal cycle to the amount of CO2 in the atmosphere?
+What are the tallest hydrothermal vents in the world?
+Why do greenhouse gases affect ocean temp so much?
+What causes the &#39;calm before the storm&#39;?
+How will climate change affect the extent of the Sahara Desert?
+How is equilibrium of 21% of oxygen in atmosphere established?
+Why does Australia have extensive uranium ore deposits?
+Why do Volcanoes give out so much Sulphur Dioxide and Carbon Dioxide?
+Was volcanic activity more prevalent when the dinosaurs roamed?
+Why does Volcano Lightning occur?
+What ozone depleting chemicals can salt produce?
+The differences in gases produced by asteroids impacting crystalline and sedimentary rocks
+Did Jupiter really make Earth (in)habitable?
+Software for sediment transport modeling
+Did an impact crater cause the formation of the gas fields in north eastern South Australia
+How do we convert the seismic trace wavelet to zero phase which is in mixed phase?
+Can The UK Be Powered Practically By 100% Renewables?
+When calculating flood recurrence intervals, do you use annual instantaneous peak flows?
+What was the first rock in the rock cycle?
+How to determine the number of bytes in the SEGD Revision 1 interblock gap
+Sea Surface Height Data
+Rock Cycle Recreation
+Vortices in the Atmosphere Sustained only by PGF
+Minimum sea-level pressure and maximum wind speed intensity relationship in Hurricane Katrina (2005)
+Does bathymetry affect ocean topography/height?
+Would life on Earth survive without the Sun?
+Cell Size of Salt Pan Tessellations
+Paleontology science fair ideas?
+Why do most opal deposits occur in Australia?
+What causes the different colours of the salt pits in the Saloum Delta in Senegal
+About meddies: what are they? How do they form? How are they maintained?
+Placement of crustal thickness estimation from 1D inversion of surface wave dispersion curves
+How do I find the volume of ocean between any two layers of ocean depth?
+What is the appropriate vertical datum to use globally?
+How to interpret hourly precipitation forecast?
+Optimized interpolation method with fixed-location sample data points?
+What causes the entrainment of atmospheric gases towards a volcanic ash/tephra plume?
+Locating Missing Airplanes using Remote-Sensing Satellites
+The spiraling cyclone track - Cyclone Nathan
+Has a reduction in car use ever had an effect on the ozone layer?
+How to determine if this fault is normal, sinistral?
+What started the Dust Bowl, and could it happen again?
+Underwater rock conduit
+Is there a standard definition of a &quot;dry-down&quot; event in hydrology?
+What type of sparking stone could this be?
+Why is phase rotation needed to produce the colored inversion operator?
+Why can Thomsen&#39;s parameter $\epsilon$ be negative in VTI media?
+What is a Geophysical Model Function (GMF)?
+What impact on climate did 2011 earthquake and tsunami have?
+Magma resultant from group 1 and group 2 elements?
+How do I prepare for the International Earth Science Olympiad?
+Is wave spectrum always positive and why?
+Is there a correlation between hot springs and earthquakes?
+How to compute the earthquake occurrence probability under ETAS model
+What caused a measurable patch of Mt. St. Helens&#39; ash to be deposited across Oklahoma?
+Why is March colder than September in Northern Hemisphere?
+Water veins underground causing health problems
+How do weather models work?
+How does the Sun heat the Earth?
+Source of water for the Great Artesian Basin in Australia
+Predicting school closures with historical weather prediction data?
+Why don&#39;t scientists use fire entry suits to study volcanoes?
+When will the Final Ice Age happen?
+Why is seawater saline?
+How important is Sahara dust for the Amazon?
+Why does lightning strike from the ground-up?
+Change in weight since the time of the dinosaurs
+How are the banded-iron-formation iron-ores formed?
+How to measure the cycles of earth moving/rotation?
+Do different lavas have different volcanic volatiles associated with them?
+Weak flashes of light in the sky
+What was the Amazon like during Green Sahara?
+What causes &#39;positive&#39; lightning to be rarer, higher charged, and longer lasting than &#39;negative&#39; lightning?
+What caused the high temperatures that resulted in the Cretaceous aged komatiite lavas of Gorgona Island, Colombia?
+The different types of plagioclase
+Why does Earth have abundant oxygen in the atmosphere?
+Does the Great Pacific Garbage Patch increase sedimentation rates over the patch?
+Why do the Siberian methane craters have smooth vertical walls?
+Where can obsidian be found?
+Why would volcano eruption cause cardiac arrest?
+What are these lake-like blue patches in the desert, visible in satellite image?
+What causes these banded clouds?
+Fine particulate matter - Why the lack of attention? What can be done to tackle it?
+Why do gold deposits form only in certain areas of the earth?
+Why deep ocean didn&#39;t freeze during snowball Earth?
+Are the processes of the rock cycle currently in dynamic equilibrium?
+How does a meandering river form?
+Two severe cyclones connected by a monsoonal trough
+Why do some planets have lots of $\mathrm{N_2}$ and others none?
+What is the status of meteorological data exchange standards?
+Current consensus on the Messinian Salinity Crisis
+How does the meridional overturning circulation affect sedimentation rates in the North Atlantic?
+Why are there no hurricanes in the southern Atlantic basin?
+Why was the initial theory of plate tectonics so controversial?
+Is a San Andreas volcano possible?
+Relationship between atmospheric density and atmospheric pressure?
+How much has the total transport of the Antarctic Circumpolar Current changed over time?
+What would be the first thing which will render the Earth uninhabitable?
+Why do tropical cyclones around Australia have erratic paths?

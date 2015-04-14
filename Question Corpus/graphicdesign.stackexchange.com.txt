@@ -1,0 +1,201 @@
+How to create a solid color background for a brush drawing?
+Should graphic artists be scared at all about anyone stealing their artworks?
+Why does the paint brush style revert back to the old setting the moment I start painting?
+Pixel Art in Gimp
+How do I send a file I&#39;ve created in InDesign to someone else, so they can open it up in InDesign and work with the file too?
+How to create/draw this text box shape in Photoshop?
+Saving a GIF File with no background
+How can I best achieve this &quot;Victorian&quot; style?
+How do I create a multi paged pdf from Illustrator with different layers lighted on each page?
+Does Photoshop CS6 Lens Correction need to be done before other edits?
+How to select an edge in Photoshop CS6 that is not quite horizontal or vertical?
+clipping paths GIMP
+InDesign: Do grouped objects maintain individual hyperlinking properties?
+(Illustrator) Why do the colors change when I &quot;Save for Web&quot; by using an action?
+How to put coppied text from anywhere in the same form, without being in one line in photoshop?
+What programs can be used to make animations?
+Converting CMYK PDF to RGB
+Photoshop: Optimally arranging pictures of various sizes&amp;aspects ratios into a new rectangular canvas
+How do I submit EPS to printers if my file has JPEGs?
+Is it better to illustrate on matte paper or glossy paper?
+Can you design print material with the intent to use LC and LM?
+Photoshop/ Illustrator Printing help?
+Photoshop CS6 white around transparent image
+What shading technique/effect was used in this calligraphy?
+Evaluate a Good Web Design
+Scripting In photoshop and Illustrator
+Photo Clarity When Printing at Home Using Indesign
+How to cut some portion of shapes in Sketch 3?
+Things to consider when creating realistic highlights and dark reflections on metallic surfaces
+How to reflect objects on one artboard onto another in Sketch?
+Photoshop: can I move the anchor location for a Canvas Resize using only the keyboard?
+What does it mean to be an illustrator?
+Matching a Digital Image&#39;s Color to a Scan
+How do I please use a given resolution to design under Photoshop?
+I need to resize ppi in Illustrator. Is this possible?
+Export layers to files sized according to content of layer
+Illustrator CC &gt; Save for Web &gt; Convert to sRGB... checked &amp; greyed out!
+Force indesign to backup / autosave / keep backup copy
+Inkscape: how to cut a group?
+InDesign CC: Text not filling all of text boxes
+Analyzing photos for scientific research
+Editing some pages in a PDF document of more than 200 pages
+Illustrator Artboard dimensions for mobile ui design?
+Does anybody know the name of this font??
+Vertical aligning Powerpoint bullets
+Image has background when i print but not on the screen
+Gimp change the opacity of layer
+What techniques can be used to create a proper hierarchy of design elements?
+Scripting Photoshop: path has too many points to be converted to selection?
+Does using Dreamweaver help to produce better aesthetic designs than hardcoding HTML and CSS?
+How to create a solid color background for a brush drawing?
+Should graphic artists be scared at all about anyone stealing their artworks?
+Why does the paint brush style revert back to the old setting the moment I start painting?
+Pixel Art in Gimp
+How do I send a file I&#39;ve created in InDesign to someone else, so they can open it up in InDesign and work with the file too?
+How to create/draw this text box shape in Photoshop?
+Saving a GIF File with no background
+How can I best achieve this &quot;Victorian&quot; style?
+How do I create a multi paged pdf from Illustrator with different layers lighted on each page?
+Does Photoshop CS6 Lens Correction need to be done before other edits?
+How to select an edge in Photoshop CS6 that is not quite horizontal or vertical?
+clipping paths GIMP
+InDesign: Do grouped objects maintain individual hyperlinking properties?
+(Illustrator) Why do the colors change when I &quot;Save for Web&quot; by using an action?
+How to put coppied text from anywhere in the same form, without being in one line in photoshop?
+What programs can be used to make animations?
+Converting CMYK PDF to RGB
+Photoshop: Optimally arranging pictures of various sizes&amp;aspects ratios into a new rectangular canvas
+How do I submit EPS to printers if my file has JPEGs?
+Is it better to illustrate on matte paper or glossy paper?
+Can you design print material with the intent to use LC and LM?
+Photoshop/ Illustrator Printing help?
+Photoshop CS6 white around transparent image
+What shading technique/effect was used in this calligraphy?
+Evaluate a Good Web Design
+Scripting In photoshop and Illustrator
+Photo Clarity When Printing at Home Using Indesign
+How to cut some portion of shapes in Sketch 3?
+Things to consider when creating realistic highlights and dark reflections on metallic surfaces
+How to reflect objects on one artboard onto another in Sketch?
+Photoshop: can I move the anchor location for a Canvas Resize using only the keyboard?
+What does it mean to be an illustrator?
+Matching a Digital Image&#39;s Color to a Scan
+How do I please use a given resolution to design under Photoshop?
+I need to resize ppi in Illustrator. Is this possible?
+Export layers to files sized according to content of layer
+Illustrator CC &gt; Save for Web &gt; Convert to sRGB... checked &amp; greyed out!
+Force indesign to backup / autosave / keep backup copy
+Inkscape: how to cut a group?
+InDesign CC: Text not filling all of text boxes
+Analyzing photos for scientific research
+Editing some pages in a PDF document of more than 200 pages
+Illustrator Artboard dimensions for mobile ui design?
+Does anybody know the name of this font??
+Vertical aligning Powerpoint bullets
+Image has background when i print but not on the screen
+Gimp change the opacity of layer
+What techniques can be used to create a proper hierarchy of design elements?
+Scripting Photoshop: path has too many points to be converted to selection?
+Does using Dreamweaver help to produce better aesthetic designs than hardcoding HTML and CSS?
+Two logos on a website header
+Photoshop 3D object looks high quality only when moving it
+How Do I vary The Stroke Of A Line In Illustrator?
+How can I create a vector long shadow in Illustrator?
+Saving all visible content over and over with ascending names in Photoshop
+Create vector icons and export them later as PNG without antialiasing
+What program makes clean plain SVG files from Inkscape?
+Why is the asset I make in Sketch 3 slightly blurred?
+How to mask a layer with shapes in photoshop?
+How can I preview with audio in After Effects (but be able to pause and resume)?
+Managing Design Assets and Modular Templates for an App
+How to attribute, give credit to creative commons/copyleft/public domain content for web/print?
+How to find out true dimesion, dpi of picture inside a powerpoint slide without it original JPEG file?
+How can I edit smart vector object in Photoshop?
+How to reset Illustrator CS6 rectangle tool to zero degree?
+scale raster image to meet defined ppi in Illustrator
+Tool to draw line and mark distance (in pixel) between layers
+Derive color palette from given set of colors
+Is it possible to do basic math in Photoshop fields?
+Problems with PDF quality on Photoshop or Illustrator
+Should I charge less for being a freelance entry level graphic designer?
+Saving PSD to PNG with layer transparencies loses layer effects
+How do I add a semi-transparent color over an image in gimp?
+What characteristics are common to well-designed and well-formatted textbooks?
+Adobe photoshop CC 3d rendering issue
+Can I reduce the file size of an SVG to be closer to its JPEG equivalent?
+Essential Steps for Long Document Project in InDesign
+Best way to outline a geology map in Inkscape
+How do I make &quot;realistic&quot; long shadows (flat design)
+Methods for improving color choice and combinations?
+Problem with InDesign paragraph numbering
+Is the coordinate system for most image processing systems still called “Cartesian coordinate system”?
+Large Format Printing viewed fairly close- suggestions?
+What&#39;s the best technique for stacking the same multiplied object?
+Illustrator CC resets artboard preset from Desktop to Fire HD
+Is there a way to make all these polygons symmetrical?
+Illustrator Graph Larger than Artboard
+How do I resize my text box in Photoshop without distorting the actual text?
+Symmetry in Cut &amp; angled corners?
+For High resolution Wall Mural Design
+Global Search and Replace in Photoshop
+How do I reduce noise in a normal map with Photoshop?
+How to make frame to a transparent background image in photoshop?
+Text deleting after &#39;Create Shapes from Vector Layer&#39;
+How to change the roundness and size of a brush in Adobe Illustrator?
+Is there a way to click and drag, bulk direct select in the shape of a circle in Illustrator?
+Wall-Sized Canvas Print
+Smoother animation in Photoshop?
+Can you upscale small photos for retina displays?
+Erase contents of only one layer in Flash CS6
+JPEG in InDesign Problems
+What is the difference between DPI (dots per inch) and PPI (pixels per inch)?
+How to draw arcs of arbitrary angle, or defined by tangents in Visio?
+Calligraphic font
+Is there a trim command for lines/paths in Inkscape?
+Deciding a nice color palette/font for a landing page
+Convert Pdf from RGB to CMYK, keeping font color 100% K in Illustrator
+Place psd file into Illustrator without losing quality
+Re-create a molecular / bubbles effect
+Help with laptop?
+Removing One Part Of A Stroke On A Rectangle In Illustrator CS5
+Yosemite translucent menu-bar replica?
+Adobe InDesign 6 not printing booklets to edges of paper, InDesign 5.5 did
+How to switch to the clipped symbol?
+I cannot get the appearance of the body to be shiny in photoviewer 360
+Is it possible to output to animated png (.apng) in after effects?
+Retouch an image pattern so it may be used as a repeating background
+How to Stop PS6 Vanishing Point Tool Pixelating Images
+How do I export a sliced psd file as a single jpeg image optimized for web?
+Match eraser settings to brush settings
+Is there a way in photoshop to convert k values to alpha values?
+How do I clip parts of my Inkscape diagram such that its corners are perfectly rectangular?
+What is differents between mock up and phototype
+How can i reproduce this striated effect using Photoshop or Illustrator?
+How to export blender material files to Unity
+I need some advice on the process of designing window banners for a newsagents
+On dynamic identities
+Inkscape drawn image looks great in MS Word, badly pixelated in PDF. Why?
+In what cases should I pay attention to my design&#39;s colour scheme when presenting it? When I do, what is a good way to do so?
+How to distribute objects with smaller outer borders?
+I&#39;ve designed few tee&#39;s so I wanna print them
+how to set PhotoShop CS5 to Free Transform images by default
+What methods can I use to create balance and consistency between a group of differing logos?
+Illustrator script - create objects, rotated and centred with a selected object
+InDesign: Text Won&#39;t Go to Top to Text Box
+Is there a way to split an image without changing its final size?
+Drawing Area turned white
+Which Monospace fonts pair well with Seravek ExtraLight?
+How to handle multiple page design projects in Photoshop
+Does importing photos in Lightroom duplicate the files on your hard drive?
+Why can&#39;t I ImageTrace an image in my pattern?
+What is an &quot;alpha value of black&quot;?
+Help w/ simple SVG with CSS Animations
+Why does the clipped objects position reset when applying eyedropper color to a mask in InDesign CC?
+How can I add a border around a paragraph style after xml import in InDesign?
+How can I create a soft line in Adobe Illustrator?
+How to set guides at exact positions / coordinates in Photoshop?
+How to make a smooth PMS gradient transition in Illustrator
+iPhone 5s, 6, 6 Plus design confusions around dimensions, resolutions and densities
+Creating a Spiral shape for text on a path
+How to number half of a booklet with Roman numerals, and the other half with normal numbers in Word?

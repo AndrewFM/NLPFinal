@@ -1,0 +1,201 @@
+Unbiased estimator for member of random sample
+Prove ${4n \choose 2n} = {\frac{1\cdot3\cdot5\cdots(4n-1)}{(1\cdot3\cdot5\cdots(2n-1))^{2}}}{2n \choose n}$
+$d_n=(1+(2/n))^n$ converge or diverge and find the limit?
+question on the proof of uniqueness of completion
+How to solve power series expansions.
+Find a one-to-one correspondence (i.e, a bijection)
+Question about $M/GI/ \infty $ queue
+closed sets which are strictly contained in open set
+Difference between Monte Carlo sims and sensitivity analysis
+Complicated inequality, how to prove?
+What is the simplest way to find an inverse matrix?
+Number of ways you can form pairs with a group of people when certain people cannot be paired with each other.
+Why do I get the Fibonacci sequence when I start with 1 and keep using the + sign?
+Is there among first 100000001 Fibonacci numbers one that ends with 0000?
+How to Prove this mathematical expression????
+Let $p$ be a prime. Why is ${p^mn \choose p^m}$, where $p \nmid n$, not divisible by $p$?
+Richard Pavlicek&#39;s combinatorial problem
+How do I show this relation between exterior product and the projection of a tensor product
+The number of ways of dividing a number by three separate integers.
+Understanding products and coproducts
+How many uranium-238 atoms are left after 1.338 x 10^10 years?
+Simple Symmetric Random Walk
+Is this matrix positive semidefinite for all $n$?
+Set of points - exclude a point
+What does the notation $\mathbf{R}^\mathbf{R}$ mean?
+How many multisets of length $d$ of a set of $n+1$ elements?
+For subspaces $S,U,W$ of a $K$-vector space, prove $S\cap\langle U\cup W\rangle=\langle\langle S\cap U\rangle\cup\langle S\cap W\rangle\rangle$
+A number $n$ which is the sum of all numbers $k$ with $\sigma(k)=n$?
+Are all continuous one one functions differentiable?
+Mini Tetris Winning Configuration
+Is $\operatorname{card}(I)=\operatorname{card}(D)$
+seeking for Newton&#39;s like inequalities as sufficient condition for polynomial to have only real zeros
+Minimum variance unbiased estimator (MVUE) of a parameter
+Derivative of a definite integral?
+Proof of $\mathcal{O}_{\mathbb{P}^1 \times \mathbb{P}^1}(a,b)$ is ample $\iff$ $a,b &gt;0$.
+Proving that these curves intersect
+Prove Product Property of Eigen Vectors
+Show that $g(a) = g(b) = 0,\ \int_a^b f(x)g(x)dx=0 $ implies $f(x)=0$
+Is $\mathbb{Q}(\sqrt{2},\sqrt[3]{5})=\mathbb{Q}(\sqrt{2}+\sqrt[3]{5})$?
+Pullback 1-differential form
+Confusing (but probably easy) question regarding boundedness
+Regularized least squares inequality
+let $K$ be a compact set in $\mathbb{R}$. show that $K$ is also compact in $\mathbb{R}^{2}$ when regarded as a subset in $\mathbb{R}^{2}$
+Not all finite exchangeable families can be infinitely extended
+Calculate rotation/translation matrix to match measurement points to nominal points
+How would you use Fubini&#39;s theorem to solve $\int_{0}^{1}\int_{\arcsin(y)}^{\frac{\pi}{2}} e^{\cos(x)} \, dx \, dy$
+About random variable X, which is a certain number of cars that can pass over a bridge in a 5 minute period
+Are the solutions of a Sturm-Liouville equation entire in the spectral parameter?
+What Rule generates the sequence $8,8,10,12,12,14,16,16$?
+Taking module sheaf commutes with tensor product
+Unbiased estimator for member of random sample
+Prove ${4n \choose 2n} = {\frac{1\cdot3\cdot5\cdots(4n-1)}{(1\cdot3\cdot5\cdots(2n-1))^{2}}}{2n \choose n}$
+$d_n=(1+(2/n))^n$ converge or diverge and find the limit?
+question on the proof of uniqueness of completion
+How to solve power series expansions.
+Find a one-to-one correspondence (i.e, a bijection)
+Question about $M/GI/ \infty $ queue
+closed sets which are strictly contained in open set
+Difference between Monte Carlo sims and sensitivity analysis
+Complicated inequality, how to prove?
+What is the simplest way to find an inverse matrix?
+Number of ways you can form pairs with a group of people when certain people cannot be paired with each other.
+Why do I get the Fibonacci sequence when I start with 1 and keep using the + sign?
+Is there among first 100000001 Fibonacci numbers one that ends with 0000?
+How to Prove this mathematical expression????
+Let $p$ be a prime. Why is ${p^mn \choose p^m}$, where $p \nmid n$, not divisible by $p$?
+Richard Pavlicek&#39;s combinatorial problem
+How do I show this relation between exterior product and the projection of a tensor product
+The number of ways of dividing a number by three separate integers.
+Understanding products and coproducts
+How many uranium-238 atoms are left after 1.338 x 10^10 years?
+Simple Symmetric Random Walk
+Is this matrix positive semidefinite for all $n$?
+Set of points - exclude a point
+What does the notation $\mathbf{R}^\mathbf{R}$ mean?
+How many multisets of length $d$ of a set of $n+1$ elements?
+For subspaces $S,U,W$ of a $K$-vector space, prove $S\cap\langle U\cup W\rangle=\langle\langle S\cap U\rangle\cup\langle S\cap W\rangle\rangle$
+A number $n$ which is the sum of all numbers $k$ with $\sigma(k)=n$?
+Are all continuous one one functions differentiable?
+Mini Tetris Winning Configuration
+Is $\operatorname{card}(I)=\operatorname{card}(D)$
+seeking for Newton&#39;s like inequalities as sufficient condition for polynomial to have only real zeros
+Minimum variance unbiased estimator (MVUE) of a parameter
+Derivative of a definite integral?
+Proof of $\mathcal{O}_{\mathbb{P}^1 \times \mathbb{P}^1}(a,b)$ is ample $\iff$ $a,b &gt;0$.
+Proving that these curves intersect
+Prove Product Property of Eigen Vectors
+Show that $g(a) = g(b) = 0,\ \int_a^b f(x)g(x)dx=0 $ implies $f(x)=0$
+Is $\mathbb{Q}(\sqrt{2},\sqrt[3]{5})=\mathbb{Q}(\sqrt{2}+\sqrt[3]{5})$?
+Pullback 1-differential form
+Confusing (but probably easy) question regarding boundedness
+Regularized least squares inequality
+let $K$ be a compact set in $\mathbb{R}$. show that $K$ is also compact in $\mathbb{R}^{2}$ when regarded as a subset in $\mathbb{R}^{2}$
+Not all finite exchangeable families can be infinitely extended
+Calculate rotation/translation matrix to match measurement points to nominal points
+How would you use Fubini&#39;s theorem to solve $\int_{0}^{1}\int_{\arcsin(y)}^{\frac{\pi}{2}} e^{\cos(x)} \, dx \, dy$
+About random variable X, which is a certain number of cars that can pass over a bridge in a 5 minute period
+Are the solutions of a Sturm-Liouville equation entire in the spectral parameter?
+What Rule generates the sequence $8,8,10,12,12,14,16,16$?
+Taking module sheaf commutes with tensor product
+Homemorphism from projective plane to S1 and Moebius strip
+Correlation of Proportions
+my math question is
+All sets of rational numbers are bigger than the set containing infinite integers - or are they?
+Is $\mathbb{Z}\times\mathbb{Z}/((6,5),(3,4))$ is finitely generated?
+Prove that $(n+1)^{n-1}&lt;n^n$
+functions and recursions
+Can a continuous real function take each value exactly 3 times?
+Absolute value of complex Radon measure
+Why is the internal hom of a Kan complex also a Kan complex?
+Question on definition of group acting on a topological space.
+Distance between function and subspace
+Find a meromorphic function $f$ with poles at $\dots,-3,-2,-1$
+What are the three subgroups of $\mathbb{Z}_4\times\mathbb{Z}_6$ of 12 elements?
+Trigonmetric calculus,
+the integral of normal derivative
+Calculate $\sqrt{5}$ using taylor series to the accuracy of 3 digit after the point $(0.5*10^{-3})$.
+Momentum a cotangent vector?
+Martingales and stopping times question
+How many trials given a certain probability
+Gamblers Ruin Special Case
+What&#39;s the Lebesgue measure of this set?
+A pedagogical proof that 9&#39;s can be ignored when calculating digital roots
+Prove that $\int_{a}^{b} f(x)g&#39;(x) dx = 0$ iff $f$ is constant
+When is $\mathbb{Q}(x)$ a finite extension of $\mathbb{Q}$?
+number of integrable functions is greater than number of differentiable functions
+Evaluation of $\int\frac{1}{x^4-5x^2+16}dx$
+Sine Sum : Inverse Circular Function Proof
+If $x,y \in \mathbb{R}$ where $x\leq y$ and $y\leq x$. Does $x=y$?
+An ancient Japanese geometry problem.
+bound for $\cosh(1)$
+Question on finding formula for a Sequences
+Ordered Pairs of Polynomials
+Circle Geometry
+Stochastic Integral Question
+Difference between Frequentist and Bayesian approach to Statistics
+Self-adjoint linear operator $f_A$ of a scalar product $g_A$
+Sum of $\sum_{k=1}^\infty e^{-x} \frac{x^k}{k!} \sum_{j=1}^k \frac{\lambda^j}{j}$
+Which of the following is true for $\int_{1}^{0} x\ln x\, \text dx$?
+Is ${F_{n}}^2 - 28$ always a composite number?
+Is this olympiad-like question about remainders an open problem?
+Inequality $|e^z -1| \le 2 |z|$ for complex $z$ with $|z|\le1$
+a question about real analysis,I need to know whether these two sequences are equidistributed.
+Countablity of sets
+Determine height/width of rectangle in perspective
+Find CFG for language $\#_a(w) = 2\#_b(w)$
+Sphere packing in a cuboid algorithm
+How is problem solving ability on an olympiad level relevant to mathematical graduate study/research?
+Relation between Eigenvectors and the commutivity between square matrices?
+Subobjects(A) $\cong \operatorname{Hom}(A,\Omega)$ in a topos is a natural transformation?
+Question about parallel displacement on a surface
+M&#246;bius strip as a non-trivial principal bundle
+Inverse of a rigid transformation
+Is there handwriting-like rendering of mathjax formulas
+Spaceship transit times
+the cardinal of the set of left cosets the same as the cardinal of the set of right cosets?
+Find the value of $\sum_{m=1}^\infty tan ^ {-1}\frac{2m}{m^4+m^2+2}$
+Dice expirements and random variable?
+Convergence in distribution of BM started in (x,y) to BM started in (0,0)
+Complex modulus Inequality using $|exp(z)-1|$
+Finding the time for an epidemic/computer virus to infect a population
+Inclusion-exclusion principle question
+Understanding dependency graph for a set of events
+Derivation of the equations of APF
+T is multliplication by a primitive element
+Sequence with Prime Numbers
+There exists only two groups of order $p^2$ up to isomoprhism.
+How to check some topological concepts in product and direct sum spaces
+1st order ODE separable
+$f$ satisfies $y&#39;&#39;+by=0 \implies f$ is of class $C^{\infty}$
+Find a number that is evenly divisible by all numbers between 1 and 20
+R.V. X and Y have joint density $f(x, y) = e^{(-x-y)}$, find $P(X+Y\leq 1)$
+Maclaurin Series - finding the co-efficients for functions that require the product rule
+Prove that the greatest lower bound of $F$ (in the subset partial order) is $\cap F$.
+FIR Filter blocking specific frequencies z transforms
+Maximum likelihood estimation when the density is F(x/É∆)=1-(1-x)^É∆
+Twice differentiable functions that are harmonic
+Combinatorics Homework Problem: $n$ People Sit Down. What is the Probability that $m$ Seats are Occupied?
+$u_{xx}+u_{yy}=0,1&lt;r&lt;3,0&lt;\theta&lt;\frac{\pi}{2}$
+why is $f(xx^*)$ is defined and $xf(x^*x)=f(xx^*)x$?
+Find The Critical Numbers: h(p)= (p-4)/(p^2+2)
+Is $4$ the only power of $2$ with a ternary representation consisting of only odd digits?
+Boolean Algebra: a+a&#39;b = a+ab = a?
+What are primitive roots modulo n?
+School Survey percentage problem
+Working with finitely presented groups in GAP
+Is a holomorphic function with zero derivative on a close connected set constant?
+Why did Euler use e to represent complex numbers?
+How to calculate the probability of a 2 sigma event that happens more frequently
+Calculate winning outcomes of plurality voting
+A $2$-variable non-differentiable function whose partial derivatives exist
+Suggestions(Anything) regarding GRE Math Subject test
+Finding all the group elements of a certain order of a finite group
+&quot;Poissonization&quot; and intuition
+Sum of two dedekind cut is a cut
+Are the following isomorphisms?
+Functorizing a choice of sections
+Conditional (Truncated) Expectations &gt; Unconditional Expectations
+Estimate $|S_n(x)|=\left|\sum _{k=1}^n \frac{\cos (2\pi \lambda_k x)}{\lambda_k}\right|$.
+Ring homomorphism from $M_3(\mathbb{R})$ into $\mathbb{R}$
+Key differences between almost complex manifolds and complex manifolds
