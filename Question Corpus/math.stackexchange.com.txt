@@ -2499,3 +2499,2504 @@ Show that $\lim_{n \to \infty}\Phi_{n}(x)=f(x)=\lim_{n \to \infty}\Psi_n(x)$
 Calculating normals for a polygon mesh (3D computer graphics)
 How to calculate anti-log using calculator?
 Proximal operator of spectral norm of a matrix
+Can I use my powers for good?
+A &quot;simple&quot; 3rd grade problem...or is it?
+Visually stunning math concepts which are easy to explain
+What was the first bit of mathematics that made you realize that math is beautiful? (For children&#39;s book)
+Splitting a sandwich and not feeling deceived
+Is $\frac{\textrm{d}y}{\textrm{d}x}$ not a ratio?
+How to study math to really understand it and have a healthy lifestyle with free time?
+Why can you turn clothing right-side-out?
+Mathematical difference between white and black notes in a piano
+Is this Batman equation for real?
+My son&#39;s Sum of Some is beautiful! But what is the proof or explanation?
+What are imaginary numbers?
+&quot;The Egg:&quot; Bizarre behavior of the roots of a family of polynomials.
+Examples of apparent patterns that eventually fail
+Is value of $\pi = 4$?
+Does Pi contain all possible number combinations?
+Do complex numbers really exist?
+Different methods to compute $\sum\limits_{n=1}^\infty \frac{1}{n^2}$
+My sister absolutely refuses to learn math
+Proofs that every mathematician should know?
+What&#39;s an intuitive way to think about the determinant?
+Pedagogy: How to cure students of the &quot;law of universal linearity&quot;?
+On &quot;familiarity&quot; (or How to avoid &quot;going down the Math Rabbit Hole&quot;?)
+Unusual 5th grade problem, how to solve it
+In Russian roulette, is it best to go first?
+Why don&#39;t we define &quot;imaginary&quot; numbers for every &quot;impossibility&quot;?
+A challenge by R. P. Feynman: give counter-intuitive theorems that can be translated into everyday language
+Is &#39;10&#39; a magical number or I am missing something?
+Multiple-choice question about the probability of a random answer to itself being correct
+The Mathematics of Tetris
+Optimizing response times of an ambulance corp: short-term versus average
+Given an infinite number of monkeys and an infinite amount of time, would one of them write Hamlet?
+Riddle: 1 question to know if the number is 1, 2 or 3
+Can every proof by contradiction also be shown without contradiction?
+Surprising identities / equations
+Nice examples of groups which are not obviously groups
+Funny identities
+Integral $\int_{-1}^1\frac1x\sqrt{\frac{1+x}{1-x}}\ln\left(\frac{2\,x^2+2\,x+1}{2\,x^2-2\,x+1}\right) \ \mathrm dx$
+Too old to start math
+&#39;Obvious&#39; theorems that are actually false
+How many fours are needed to represent numbers up to $N$?
+Is $7$ the only prime followed by a cube?
+Best Sets of Lecture Notes and Articles
+Can&#39;t argue with success? Looking for &quot;bad math&quot; that &quot;gets away with it&quot;
+Is it faster to count to the infinite going one by one or two by two?
+Is mathematics one big tautology?
+Proving you *can&#39;t* make $2011$ out of $1,2,3,4$: nice twist on the usual
+Fourier transform for dummies
+Fun but serious mathematics books to gift advanced undergraduates.
+Can you answer my son&#39;s fourth-grade homework question: Which numbers are prime, have digits adding to ten and have a three in the tens place?
+In the history of mathematics, has there ever been a mistake?
+The Integral that Stumped Feynman?
+Why do mathematicians use single-letter variables?
+Does the square or the circle have the greater perimeter? A surprisingly hard problem for high schoolers
+Can we ascertain that there exists an epimorphism $G\rightarrow H$?
+Which one result in mathematics has surprised you the most?
+A short proof for $\dim(R[T])=\dim(R)+1$?
+Is there a 0-1 law for the theory of groups?
+Zero to the zero power - Is $0^0=1$?
+List of Interesting Math Videos/ Documentaries
+Is computer science a branch of mathematics?
+What is the result of infinity minus infinity?
+Can a coin with an unknown bias be treated as fair?
+Rational roots of polynomials
+Best Fake Proofs? (A M.SE April Fools Day collection)
+Intuition for the definition of the Gamma function?
+What is the intuitive relationship between SVD and PCA
+Does the open mapping theorem imply the Baire category theorem?
+A Topology such that the continuous functions are exactly the polynomials
+Why can ALL quadratic equations be solved by the quadratic formula?
+Deleting any digit yields a prime... is there a name for this?
+Stopping the &quot;Will I need this for the test&quot; question
+How to show $e^{e^{e^{79}}}$ is not an integer
+Why does $1+2+3+\cdots = -\frac{1}{12}$?
+Evaluate $ \int_{0}^{\frac{\pi}{2}}\frac{1}{(1+x^2)(1+\tan x)}\,\mathrm dx$
+What&#39;s the intuition behind Pythagoras&#39; theorem?
+Are there any open mathematical puzzles?
+Why can a Venn diagram for 4+ sets not be constructed using circles?
+How to put 9 pigs into 4 pens so that there are an odd number of pigs in each pen?
+Is 2048 the highest power of 2 with all even digits (base ten)?
+The Ring Game on $K[x,y,z]$
+How can you prove that a function has no closed form integral?
+Examples of mathematical discoveries which were kept as a secret
+What does $2^x$ really mean when $x$ is not an integer?
+Symmetry of function defined by integral
+How can a piece of A4 paper be folded in exactly three equal parts?
+Can you provide me historical examples of pure mathematics becoming &quot;useful&quot;?
+Why do people use &quot;it is easy to prove&quot;?
+Do we know if there exist true mathematical statements that can not be proven?
+What do modern-day analysts actually do?
+How can I evaluate $\sum_{n=0}^\infty (n+1)x^n$
+How to prove that $\lim\limits_{x\to0}\frac{\sin x}x=1$?
+Best book ever on Number Theory
+What&#39;s 4 times more likely than 80%?
+Why is cos(90)=0.4 in WebGL?
+In (relatively) simple words: What is an inverse limit?
+What&#39;s your favorite proof accessible to a general audience?
+How many sides does a circle have?
+How do I sell out with abstract algebra?
+Can someone explain the math behind tessellation?
+Can I use my powers for good?
+A &quot;simple&quot; 3rd grade problem...or is it?
+Visually stunning math concepts which are easy to explain
+What was the first bit of mathematics that made you realize that math is beautiful? (For children&#39;s book)
+Splitting a sandwich and not feeling deceived
+Is $\frac{\textrm{d}y}{\textrm{d}x}$ not a ratio?
+How to study math to really understand it and have a healthy lifestyle with free time?
+Why can you turn clothing right-side-out?
+Mathematical difference between white and black notes in a piano
+Is this Batman equation for real?
+My son&#39;s Sum of Some is beautiful! But what is the proof or explanation?
+What are imaginary numbers?
+&quot;The Egg:&quot; Bizarre behavior of the roots of a family of polynomials.
+Examples of apparent patterns that eventually fail
+Is value of $\pi = 4$?
+Does Pi contain all possible number combinations?
+Do complex numbers really exist?
+Different methods to compute $\sum\limits_{n=1}^\infty \frac{1}{n^2}$
+My sister absolutely refuses to learn math
+Proofs that every mathematician should know?
+What&#39;s an intuitive way to think about the determinant?
+Pedagogy: How to cure students of the &quot;law of universal linearity&quot;?
+On &quot;familiarity&quot; (or How to avoid &quot;going down the Math Rabbit Hole&quot;?)
+Unusual 5th grade problem, how to solve it
+In Russian roulette, is it best to go first?
+Why don&#39;t we define &quot;imaginary&quot; numbers for every &quot;impossibility&quot;?
+A challenge by R. P. Feynman: give counter-intuitive theorems that can be translated into everyday language
+Is &#39;10&#39; a magical number or I am missing something?
+Multiple-choice question about the probability of a random answer to itself being correct
+The Mathematics of Tetris
+Optimizing response times of an ambulance corp: short-term versus average
+Given an infinite number of monkeys and an infinite amount of time, would one of them write Hamlet?
+Riddle: 1 question to know if the number is 1, 2 or 3
+Can every proof by contradiction also be shown without contradiction?
+Surprising identities / equations
+Nice examples of groups which are not obviously groups
+Funny identities
+Integral $\int_{-1}^1\frac1x\sqrt{\frac{1+x}{1-x}}\ln\left(\frac{2\,x^2+2\,x+1}{2\,x^2-2\,x+1}\right) \ \mathrm dx$
+Too old to start math
+&#39;Obvious&#39; theorems that are actually false
+How many fours are needed to represent numbers up to $N$?
+Is $7$ the only prime followed by a cube?
+Best Sets of Lecture Notes and Articles
+Can&#39;t argue with success? Looking for &quot;bad math&quot; that &quot;gets away with it&quot;
+Is it faster to count to the infinite going one by one or two by two?
+Is mathematics one big tautology?
+Proving you *can&#39;t* make $2011$ out of $1,2,3,4$: nice twist on the usual
+Fourier transform for dummies
+Fun but serious mathematics books to gift advanced undergraduates.
+Can you answer my son&#39;s fourth-grade homework question: Which numbers are prime, have digits adding to ten and have a three in the tens place?
+In the history of mathematics, has there ever been a mistake?
+The Integral that Stumped Feynman?
+Why do mathematicians use single-letter variables?
+Does the square or the circle have the greater perimeter? A surprisingly hard problem for high schoolers
+Can we ascertain that there exists an epimorphism $G\rightarrow H$?
+Which one result in mathematics has surprised you the most?
+A short proof for $\dim(R[T])=\dim(R)+1$?
+Is there a 0-1 law for the theory of groups?
+Zero to the zero power - Is $0^0=1$?
+List of Interesting Math Videos/ Documentaries
+Is computer science a branch of mathematics?
+What is the result of infinity minus infinity?
+Can a coin with an unknown bias be treated as fair?
+Rational roots of polynomials
+Best Fake Proofs? (A M.SE April Fools Day collection)
+Intuition for the definition of the Gamma function?
+What is the intuitive relationship between SVD and PCA
+Does the open mapping theorem imply the Baire category theorem?
+A Topology such that the continuous functions are exactly the polynomials
+Why can ALL quadratic equations be solved by the quadratic formula?
+Deleting any digit yields a prime... is there a name for this?
+Stopping the &quot;Will I need this for the test&quot; question
+How to show $e^{e^{e^{79}}}$ is not an integer
+Why does $1+2+3+\cdots = -\frac{1}{12}$?
+Evaluate $ \int_{0}^{\frac{\pi}{2}}\frac{1}{(1+x^2)(1+\tan x)}\,\mathrm dx$
+What&#39;s the intuition behind Pythagoras&#39; theorem?
+Are there any open mathematical puzzles?
+Why can a Venn diagram for 4+ sets not be constructed using circles?
+How to put 9 pigs into 4 pens so that there are an odd number of pigs in each pen?
+Is 2048 the highest power of 2 with all even digits (base ten)?
+The Ring Game on $K[x,y,z]$
+How can you prove that a function has no closed form integral?
+Examples of mathematical discoveries which were kept as a secret
+What does $2^x$ really mean when $x$ is not an integer?
+Symmetry of function defined by integral
+How can a piece of A4 paper be folded in exactly three equal parts?
+Can you provide me historical examples of pure mathematics becoming &quot;useful&quot;?
+Why do people use &quot;it is easy to prove&quot;?
+Do we know if there exist true mathematical statements that can not be proven?
+What do modern-day analysts actually do?
+How can I evaluate $\sum_{n=0}^\infty (n+1)x^n$
+How to prove that $\lim\limits_{x\to0}\frac{\sin x}x=1$?
+Best book ever on Number Theory
+What&#39;s 4 times more likely than 80%?
+Why is cos(90)=0.4 in WebGL?
+In (relatively) simple words: What is an inverse limit?
+What&#39;s your favorite proof accessible to a general audience?
+How many sides does a circle have?
+How do I sell out with abstract algebra?
+Can someone explain the math behind tessellation?
+Does a &quot;cubic&quot; matrix exist?
+What remains in a student&#39;s mind
+Are mathematical articles on Wikipedia reliable?
+Proof that ${\left(\pi^\pi\right)}^{\pi^\pi}$ (and now $\pi^{\left(\pi^{\pi^\pi}\right)}$) is a noninteger
+Can $x^{x^{x^x}}$ be a rational number?
+Monty hall problem extended.
+Help find hard integrals that evaluate to $59$?
+Continuous function $f:\mathbb{R}\to\mathbb{R}$ such that $f(f(x)) = -x$?
+what is expected from a PhD student?
+Identification of a curious function
+Is 10 closer to infinity than 1?
+Hyperbolic critters studying Euclidean geometry
+What is the importance of the Collatz conjecture?
+How do you respond to &quot;I was always bad at math&quot;?
+Examples of mathematical results discovered &quot;late&quot;
+How discontinuous can a derivative be?
+Does a four-variable analog of the Hall-Witt identity exist?
+How were &#39;old-school&#39; mathematics graphics created?
+Is there a domain &quot;larger&quot; than (i.e., a supserset of) the complex number domain?
+Why are rings called rings?
+Tablet for reading textbooks and writing math by hand?
+Probability that a stick randomly broken in five places can form a tetrahedron
+List of Interesting Math Blogs
+Slice of pizza with no crust
+A math contest problem $\int_0^1\ln\left(1+\frac{\ln^2x}{4\,\pi^2}\right)\frac{\ln(1-x)}x \ \mathrm dx$
+probability $2/4$ vs $3/6$
+How do you describe your mathematical research in layman&#39;s terms?
+What parts of a pure mathematics undergraduate curriculum have been discovered since 1964?
+All polynomials with no natural roots and integer coefficients such that $\phi(n)|\phi(P(n))$
+How to check if a point is inside a rectangle?
+Really advanced techniques of integration (definite or indefinite)
+Most ambiguous and inconsistent phrases and notations in maths
+Importance of Representation Theory
+Why is Euler&#39;s Gamma function the &quot;best&quot; extension of the factorial function to the reals?
+What is the practical difference between a differential and a derivative?
+How to prove $\int_0^1\tan^{-1}\left[\frac{\tanh^{-1}x-\tan^{-1}x}{\pi+\tanh^{-1}x-\tan^{-1}x}\right]\frac{dx}{x}=\frac{\pi}{8}\ln\frac{\pi^2}{8}?$
+Has Prof. Otelbaev shown existence of strong solutions for Navier-Stokes equations?
+A variation of Fermat&#39;s little theorem
+What is the Riemann-Zeta function?
+Striking applications of integration by parts
+What&#39;s the significance of Tate&#39;s thesis?
+Are half of all numbers odd?
+How often does it happen that the oldest person alive dies?
+Visually deceptive &quot;proofs&quot; which are mathematically wrong
+How to distinguish walking on a sphere or on a torus?
+How prove this matrix inequality $\det\left(6(A^3+B^3+C^3)+I_{n}\right)\ge 5^n\det(A^2+B^2+C^2)$?
+Is $.\overline{9} = 1$?
+How can I find the surface area of a normal chicken egg?
+What are the most overpowered theorems in mathematics?
+A 1,400 years old approximation to the sine function by Mahabhaskariya of Bhaskara I
+Can you be 1/12th Cherokee?
+If $AB = I$ then $BA = I$
+Why study Algebraic Geometry?
+Is there a characterization of groups with the property $\forall N\unlhd G,\:\exists H\leq G\text{ s.t. }H\cong G/N$?
+How to convince a math teacher of this simple and obvious fact?
+What are some examples of notation that really improved mathematics?
+Good Physical Demonstrations of Abstract Mathematics
+Solving the integral $\int_{0}^{\infty} \frac{\sin{x}}{x} \ dx = \frac{\pi}{2}$?
+How far can one get in analysis without leaving $\mathbb{Q}$?
+Proof of $\frac{1}{e^{\pi}+1}+\frac{3}{e^{3\pi}+1}+\frac{5}{e^{5\pi}+1}+\ldots=\frac{1}{24}$
+Why is there no &quot;remainder&quot; in multiplication
+Your favourite application of the Baire Category Theorem
+Topology: The Board Game
+Infiniteness of non-twin primes.
+Do mathematicians, in the end, always agree?
+Is there an elementary proof that $\sum \limits_{k=1}^n \frac1k$ is never an integer?
+Connected metric spaces with disjoint open balls
+How do you find the center of a circle with a pencil and a book?
+Is there another simpler method to solve this elementary school math problem?
+Is non-standard analysis worth learning?
+How do I convince someone that $1+1=2$ may not necessarily be true?
+Are there real-life relations which are symmetric and reflexive but not transitive?
+How to read a book in mathematics?
+Least prime of the form $38^n+31$
+Different kinds of infinities?
+What is the single most influential book every mathematician should read?
+Proving the identity $\sum_{k=1}^n {k^3} = \big(\sum_{k=1}^n k\big)^2$ without induction
+True or false? $x^2\ne x\implies x\ne 1$
+$4494410$ and friends
+Logic puzzle: Which octopus is telling the truth?
+Has lack of mathematical rigour killed anybody before?
+Self-Contained Proof that $\sum\limits_{n=1}^{\infty} \frac1{n^p}$ Converges for $p &gt; 1$
+What are the Axiom of Choice and Axiom of Determinacy?
+Software for drawing geometry diagrams
+What is the smallest number of $45^\circ-60^\circ-75^\circ$ triangles that a square can be divided into?
+Mathematician vs. Computer: A Game
+Number of simple edge-disjoint paths needed to cover a planar graph
+Why can&#39;t you add apples and oranges, but you can multiply and divide them?
+Does $R[x] \cong S[x]$ imply $R \cong S$?
+Learning mathematics as if an absolute beginner?
+What is the importance of eigenvalues/eigenvectors?
+How do you explain the concept of logarithm to a five year old?
+The Best of Dover Books (a.k.a the best cheap mathematical texts)
+Why does factoring eliminate a hole in the limit?
+Why did mathematicians take Russell&#39;s paradox seriously?
+Complete course of self-study
+Prove elementarily that $\sqrt[n+1] {(n+1)!} - \sqrt[n] {n!}$ is strictly decreasing
+Why are mathematical proofs that rely on computers controversial?
+Would you ever stop rolling the die?
+Fastest way to meet, without communication, on a sphere?
+Is infinity an odd or even number?
+Open problems in General Relativity
+Math and mental fatigue
+Is the derivative the natural logarithm of the left-shift?
+Should I put number combinations like 1111111 onto my lottery ticket?
+Why is compactness so important?
+Open mathematical questions for which we really, really have no idea what the answer is
+What should I learn first, Mathematica or MatLab?
+Cutting sticks puzzle
+Does this property characterize a space as Hausdorff?
+Mathematical equivalent of Feynman&#39;s Lectures on Physics?
+Root Calculation by Hand
+Evaluating $\lim_{n\to\infty} e^{-n} \sum\limits_{k=0}^{n} \frac{n^k}{k!}$
+Theorems with an extraordinary exception or a small number of sporadic exceptions
+Formal proof for $(-1) \times (-1) = 1$
+A good way to retain mathematical understanding?
+Problems that become easier in a more general form
+&quot;Advice to young mathematicians&quot;
+Is there a size of rectangle that retains its ratio when it&#39;s folded in half?
+Can you give an example of a complex math problem that is easy to solve?
+Books that every student &quot;needs&quot; to go through
+What are some examples of a mathematical result being counterintuitive?
+Contest problem about convergent series
+What are some examples of mathematics that had unintended useful applications much later?
+Is math built on assumptions?
+What are some conceptualizations that work in mathematics but are not strictly true?
+Good books and lecture notes about category theory.
+Is there an integral that proves $\pi &gt; 333/106$?
+Why would I want to multiply two polynomials?
+Direct proof that the wedge product preserves integral cohomology classes?
+A Case Against the &quot;Math Gene&quot;
+Why does mathematical convention deal so ineptly with multisets?
+Are non-circular manholes possible?
+Why do mathematicians sometimes assume famous conjectures in their research?
+Is There An Injective Cubic Polynomial $\mathbb Z^2 \rightarrow \mathbb Z$?
+Complexity class of comparison of power towers
+Some users are mind bogglingly skilled at integration. How did they get there?
+How to find a general sum formula for the series: 5+55+555+5555+.....?
+Teaching myself differential topology and differential geometry
+Can one deduce Liouville&#39;s theorem (in complex analysis) from the non-emptiness of spectra in complex Banach algebras?
+Using &quot;we have&quot; in maths papers
+Mathematicians ahead of their time?
+Strategies for Effective Self-Study
+More than 99% of groups of order less than 2000 are of order 1024?
+How to determine with certainty that a function has no elementary antiderivative?
+What properties of busy beaver numbers are computable?
+Besides proving new theorems, how can a person contribute to mathematics?
+Conjectures that have been disproved with extremely large counterexamples?
+What is special about the numbers 9801, 998001, 99980001 ..?
+Gerrymandering on a high-genus surface/can I use my powers for evil?
+Results that came out of nowhere.
+Demystify integration of $\int \frac{1}{x} \mathrm dx$
+Why is $1^{\infty}$ considered to be an indeterminate form
+Find the average of $\sin^{100} (x)$ in 5 minutes?
+Surprise exam paradox?
+Given a die, what is the probability that the second roll of a die will be less than the first roll?
+Should an undergrad accept that some things don&#39;t make sense, or study the foundation of mathematics to resolve this?
+Why do we still do symbolic math?
+Don&#39;t see the point of the Fundamental Theorem of Calculus.
+$\int_{-\infty}^{+\infty} e^{-x^2} dx$ with complex analysis
+Is there a definitive guide to speaking mathematics?
+Why are all the interesting constants so small?
+Proving an alternating Euler sum: $\sum_{k=1}^{\infty} \frac{(-1)^{k+1} H_k}{k} = \frac{1}{2} \zeta(2) - \frac{1}{2} \log^2 2$
+Prove $\left(\dfrac{2}{5}\right)^{\frac{2}{5}}&lt;\ln{2}$
+Does $X\times S^1\cong Y\times S^1$ imply that $X\times\mathbb R\cong Y\times\mathbb R$?
+What would have been our number system if humans had more than 10 fingers? Try to solve this puzzle.
+Does L&#39;H&#244;pital&#39;s work the other way?
+In calculus, which questions can the naive ask that the learned cannot answer?
+Will it become impossible to learn math?
+Is zero odd or even?
+How Do You Actually Do Your Mathematics?
+What are the issues in modern set theory?
+How did Hermite calculate $e^{\pi\sqrt{163}}$ in 1859?
+Can an irrational number raised to an irrational power be rational?
+math fallacy problem: $-1= (-1)^3 = (-1)^{6/2} = \sqrt{(-1)^6}= 1$?
+Am I just not smart enough?
+A fan, a horn, and a snowflake - unusual math terms
+Why 1 is not considered to be a prime number?
+Norms Induced by Inner Products and the Parallelogram Law
+Is infinity a number?
+How do we know an $ \aleph_1 $ exists at all?
+$\pi$ in arbitrary metric spaces
+Studying for the Putnam Exam
+Why can&#39;t you pick socks using coin flips?
+Proving $\int_{0}^{\infty} \mathrm{e}^{-x^2} dx = \dfrac{\sqrt \pi}{2}$
+Why is $\omega$ the smallest $\infty$?
+An Introduction to Tensors
+Defining a manifold without reference to the reals
+100 Soldiers riddle
+Exterior Derivative vs. Covariant Derivative vs. Lie Derivative
+How are mathematicians taught to write with such an expository style?
+Does a non-trivial solution exist for $f&#39;(x)=f(f(x))$?
+Evaluate $\int_0^1 \frac{\log \left( 1+x^{2+\sqrt{3}}\right)}{1+x}\mathrm dx$
+How to find this limit: $A=\lim_{n\to \infty}\sqrt{1+\sqrt{\frac{1}{2}+\sqrt{\frac{1}{3}+\cdots+\sqrt{\frac{1}{n}}}}}$
+Dividing 100% by 3 without any left
+Are the &quot;proofs by contradiction&quot; weaker than other proofs?
+Ways to evaluate $\int \sec \theta \, \mathrm d \theta$
+Continuous bijection from $(0,1)$ to $[0,1]$
+How can adding an infinite number of rationals yield an irrational number?
+What made you choose your research field?
+Cute Determinant Question
+How to make notes when learning a new topic
+Is there a great mathematical example for a 12-year-old?
+Can someone explain G&#246;del&#39;s incompleteness theorems in layman terms?
+Help me solve my father&#39;s riddle and get my book back
+How to find ${\large\int}_0^1\frac{\ln^3(1+x)\ln x}x\mathrm dx$
+Is it possible to represent every huge number in abbreviated form?
+Why do books titled &quot;Abstract Algebra&quot; mostly deal with groups/rings/fields?
+Does Fermat&#39;s Last Theorem hold for cyclotomic integers in $\mathbb{Q(\zeta_{37})}$?
+Intuition behind Matrix Multiplication
+What is the chance to get a parking ticket in half an hour if the chance to get a ticket is 80% in 1 hour?
+Getting Students to Not Fear Confusion
+What&#39;s next in this number series?
+Why does the series $\sum_{n=1}^\infty\frac1n$ not converge?
+Help me put these enormous numbers in order:  googol, googol-plex-bang, googol-stack and so on
+Teenager solves Newton dynamics problem - where is the paper?
+Is it generally accepted that if you throw a dart at a number line you will NEVER hit a rational number?
+Why is 987654321/123456789 = 8.0000000729?
+Blue eyes: a logic puzzle
+Are &quot;if&quot; and &quot;iff&quot; interchangeable in definitions?
+How would you explain to a 9th grader the negative exponent rule?
+Is there a shape with infinite area but finite perimeter?
+An example of a problem which is difficult but is made easier when a diagram is drawn
+Induction on Real Numbers
+$\sqrt a$ is either an integer or an irrational number.
+Advantages of IMO students in Mathematical Research
+Is it possible for a function to be in $L^p$ for only one $p$?
+Lesser-known integration tricks
+How to sum this series for $\pi/2$ directly?
+Are the solutions of $x^{x^{x^{x^{\cdot^{{\cdot}^{\cdot}}}}}}=2$ correct?
+What&#39;s the largest possible volume of a taco, and how do I make one that big?
+Why did my friend lose all his money?
+What exactly are eigen-things?
+Closed form for $\int_0^\infty\ln\frac{J_\mu(x)^2+Y_\mu(x)^2}{J_\nu(x)^2+Y_\nu(x)^2}\mathrm dx$
+Can the golden ratio accurately be expressed in terms of e and $\pi$
+Theorem that von Neumann proved in five minutes.
+Area covered by a constant length segment rotating around the center of a square.
+Why rationalize the denominator?
+Intuitive explanation of Cauchy&#39;s Integral Formula in Complex Analysis
+Why is a circle in a plane surrounded by 6 other circles
+How is a group made up of simple groups?
+What is a good complex analysis textbook?
+Proof that $C\exp(x)$ is the only set of functions for which $f(x) = f&#39;(x)$
+Direct proof that $\pi$ is not constructible
+What makes elementary functions elementary?
+Two curious &quot;identities&quot; on $x^x$,$e$,and $\pi$
+$x$, $y$, $x+y$ and $x-y$ are prime numbers. What is their sum?
+About Euclid&#39;s Elements and modern video games
+Prove if $n^2$ is even, then $n$ is even.
+How prove this nice limit $\lim_{n\to\infty}\frac{a_{n}}{n}=\frac{12}{\log{432}}$
+&quot;Simple&quot; beautiful math proof
+A real number $x$ such that $x^n$ and $(x+1)^n$ are rational is itself rational
+&quot;The Bachelorette Problem&quot; (slightly adapted from Tao&#39;s Google+ account)
+Your favourite maths puzzles
+Getting better at proofs
+Elementary proof that $\mathbb{R}^n$ is not homeomorphic to $\mathbb{R}^m$
+Value of $\sum\limits_n x^n$
+Different ways to prove there are infinitely many primes?
+Real life applications of Topology
+Why are asymptotically one half of the integer compositions gap-free?
+Integral $\int_1^\infty\frac{\operatorname{arccot}\left(1+\frac{2\pi}{\operatorname{arcoth}x-\operatorname{arccsc}x}\right)}{\sqrt{x^2-1}}\mathrm dx$
+Mathematical research of Pok&#233;mon
+I lost my love of math; I&#39;m getting it back. How can I determine if math is actually right for me?
+What makes a theorem &quot;fundamental&quot;?
+How do people who study intensely abstract mathematics &quot;imagine&quot; or understand the concepts they are studying or being taught?
+Is there a function with a removable discontinuity at every point?
+Division by $0$
+Simplicial homology of real projective space by Mayer-Vietoris
+Why are groups more important than semigroups?
+How was the Monster&#39;s existence originally suspected?
+What is $x^y$? How to understand it?
+Why study linear algebra?
+Proof by contradiction vs Prove the contrapositive
+What&#39;s a proof that the angles of a triangle add up to 180&#176;?
+Are there real world applications of finite group theory?
+How do I convince my students that the choice of variable of integration is irrelevant?
+Coin flipping probability game ; 7 flips vs 8 flips
+Interesting &quot;real life&quot; applications of serious theorems
+Why is the volume of a sphere $\frac{4}{3}\pi r^3$?
+$5^n+n$ is never prime?
+Is there a quick proof as to why the vector space of $\mathbb{R}$ over $\mathbb{Q}$ is infinite-dimensional?
+Motivation for Ramanujan&#39;s mysterious $\pi$ formula
+Volumes of n-balls: what is so special about n=5?
+Is the following matrix invertible?
+Is it morally right and pedagogically right to google answers to homework?
+Are there infinitely many &quot;super-palindromes&quot;?
+Paul Erdos&#39;s Two-Line Functional Analysis Proof
+Grothendieck &#39;s question - any update?
+Why is Euclid&#39;s proof on the infinitude of primes considered a proof?
+If there are obvious things, why should we prove them?
+Fibonacci number that ends with 2014 zeros?
+Easy example why complex numbers are cool
+Why does the Mandelbrot set contain (slightly deformed) copies of itself?
+Why do we care about dual spaces?
+Connection between Fourier transform and Taylor series
+What makes $9$ special?
+Compute $ \lim\limits_{n \to \infty }\sin \sin \dots\sin n$
+Why “characteristic zero” and not “infinite characteristic”?
+Why are the solutions of polynomial equations so unconstrained over the quaternions?
+How is a system of axioms different from a system of beliefs?
+What is $dx$ in integration?
+How did Euler prove the Mersenne number $2^{31}-1$ is a prime so early in history?
+Predicting Real Numbers
+How can one prove that $e&lt;\pi$?
+The Monster Integral
+What are some good ways to get children excited about math?
+Logic problem: Identifying poisoned wines out of a sample, minimizing test subjects with constraints
+Quadratic reciprocity via generalized Fibonacci numbers?
+Can you explain the &quot;Axiom of choice&quot; in simple terms?
+Why is Pi equal to 3.14159...?
+Is learning (theoretical) physics useful/important for a mathematician?
+String Theory: What to do?
+Trigonometric sums related to the Verlinde formula
+Combinatorial proof that $\sum \limits_{k=0}^n \binom{2k}{k} \binom{2n-2k}{n-k} (-1)^k = 2^n \binom{n}{n/2}$ when $n$ is even
+In what sense are math axioms true?
+Why do we need to learn integration techniques?
+Is there any branch of Mathematics which has no applications in any other field or in real world?
+Surprisingly elementary and direct proofs
+Rigour in mathematics
+Conjecture $\int_0^1\frac{dx}{\sqrt[3]x\,\sqrt[6]{1-x}\,\sqrt{1-x\left(\sqrt{6}\sqrt{12+7\sqrt3}-3\sqrt3-6\right)^2}}=\frac\pi9(3+\sqrt2\sqrt[4]{27})$
+Does $\lfloor \sqrt{p} \rfloor$ generate all natural numbers?
+Mathematicians don&#39;t quit, they fade away
+Can $\sqrt{p}^{\sqrt{p}^{\sqrt{p}}}$ be an integer, if $p$ is a non-square positive integer?
+The myth of no prime formula?
+Can a number have infinitely many digits before the decimal point?
+How come $32.5 = 31.5$?
+What&#39;s so &quot;natural&quot; about the base of natural logarithms?
+What is your favorite application of the Pigeonhole Principle?
+Are all infinities equal?
+Explicit norm on $\mathcal{C}^0(\mathbb{R},\mathbb{R})$
+Reference request for tricky problem in elementary group theory
+phd qualifying exams
+What would base $1$ be?
+Continued fraction fallacy: $1=2$
+Integrals of $\sqrt{x+\sqrt{\phantom|\dots+\sqrt{x+1}}}$ in elementary functions
+Is this of any real importance to the mathematical scientific community?
+Can 18 consecutive integers be separated into two groups,such that their product is equal?
+How far can one see over the ocean?
+How to stop forgetting proofs - for a first course in Real Analysis?
+Is arrow notation for vectors &quot;not mathematically mature&quot;?
+Does it ever make sense NOT to go to the most prestigious graduate school you can get into?
+Intuition in algebra?
+Sheaf cohomology: what is it and where can I learn it?
+How to explain to the layperson what mathematics is, why it&#39;s important, and why it&#39;s interesting
+Why is a full turn of the circle 360&#176;? Why not any other number?
+Am I too young to learn more advanced math and get a teacher?
+Compute $\int \frac{\sin(x)}{\sin(x)+\cos(x)}\mathrm dx$
+Why is $i! = 0.498015668 - 0.154949828i$?
+How can I introduce complex numbers to precalculus students?
+All natural numbers are equal.
+Notations that are mnemonic outside of English
+An integral involving Airy functions $\int_0^\infty\frac{x^p}{\operatorname{Ai}^2 x + \operatorname{Bi}^2 x}\mathrm dx$
+Are all mathematicians human calculators?
+What is the difference between a point and a vector
+Probability that random moves in the game 2048 will win
+Is it possible that &quot;A counter-example exists but it cannot be found&quot;
+How is the G&#246;del&#39;s Completeness Theorem not a tautology?
+What was the book that opened your mind to the beauty of mathematics?
+Geometry problem involving infinite number of circles
+Do we have negative prime numbers?
+Why are primes considered to be the &quot;building blocks&quot; of the integers?
+What is &quot;ultrafinitism&quot; and why do people believe it?
+Are all algebraic integers with absolute value 1 roots of unity?
+Is $[0,1]$ a countable disjoint union of closed sets?
+Are there any series whose convergence is unknown?
+Is Lagrange&#39;s theorem the most basic result in finite group theory?
+Anecdotes about famous mathematicians or physicists
+I need mathematical proof that the distance from zero to 1 is the equal to the distance from 1 to 2
+Prove every odd integer is the difference of two squares
+Why is &#39;abuse of notation&#39; tolerated?
+The last digit of $2^{2006}$
+How much Math do you REALLY do in your job?
+Do groups, rings and fields have practical applications in CS? If so, what are some?
+Integers $n$ such that $i(i+1)(i+2) \cdots (i+n)$ is real or pure imaginary
+Do we need to formally teach the Greek Alphabet?
+Polynomials such that roots=coefficients
+What is the oldest open problem in geometry?
+Why is the construction of the real numbers important?
+Best Maths books for non-mathematicians
+Learning Lambda Calculus
+Where to start learning Linear Algebra?
+What&#39;s the value of this Vi&#232;te-style product involving the golden ratio?
+$x^y = y^x$ for integers $x$ and $y$
+When to learn category theory?
+&quot;Closed&quot; form for $\sum \frac{1}{n^n}$
+Is the box topology good for anything?
+Infinity = -1 paradox
+What kind of &quot;symmetry&quot; is the symmetric group about?
+Good book for self study of a First Course in Real Analysis
+Is a matrix multiplied with its transpose something special?
+Why don&#39;t analysts do category theory?
+Why does $\tan^{-1}(1)+\tan^{-1}(2)+\tan^{-1}(3)=\pi$?
+Is the notorious $n^2 + n + 41$ prime generator the last of its type?
+Trying to define $\mathbb{R}^{0.5}$ topologically
+Theorems&#39; names that don&#39;t credit the right people
+Thurston&#39;s 37th way of thinking about the derivative
+Why does the google calculator give tan 90 degrees = 1.6331779e+16?
+Conjecture $_2F_1\left(\frac14,\frac34;\,\frac23;\,\frac13\right)=\frac1{\sqrt{\sqrt{\frac4{\sqrt{2-\sqrt[3]4}}+\sqrt[3]{4}+4}-\sqrt{2-\sqrt[3]4}-2}}$
+Is the sequence $(a_n)$ defined by $a_n=\tan{a_{n-1}}$, $a_0=1$, dense in $\Bbb{R}$?
+Does the string of prime numbers contain all natural numbers?
+Mathematical subjects you wish you learned earlier
+Nice proofs of $\zeta(4) = \pi^4/90$?
+The square roots of different primes are linearly independent over the field of rationals
+How to think of the group ring as a Hopf algebra?
+Example of infinite field of characteristic $p\neq 0$
+What&#39;s the probability that a sequence of coin flips never has twice as many heads as tails?
+A new imaginary number? $x^c = -x$
+Chance of meeting in a bar
+Pseudo Proofs that are intuitively reasonable
+Is there a categorical definition of submetry?
+Is memory unimportant in doing mathematics?
+How to prove this identity $\pi=\sum\limits_{k=-\infty}^{\infty}\left(\frac{\sin(k)}{k}\right)^{2}\;$?
+Unexpected approximations which have led to important mathematical discoveries
+Why do the French count so strangely?
+Finding the value of $\sqrt{1+2\sqrt{2+3\sqrt{3+4\sqrt{4+5\sqrt{5+\dots}}}}}$
+Is it not effective to learn math top-down?
+Conjecture $\int_0^1\frac{\mathrm dx}{\sqrt{1-x}\ \sqrt[4]x\ \sqrt[4]{2-x\,\sqrt3}}\stackrel?=\frac{2\,\sqrt2}{3\,\sqrt[8]3}\pi$
+$\sqrt{7\sqrt{7\sqrt{7\sqrt{7\sqrt{7\cdots}}}}}$ approximation
+Why do people lose in chess?
+What is a simple example of an unprovable statement?
+Is 128 the only multi-digit power of 2 such that each of its digits is also a power of 2?
+Is $ 0.112123123412345123456\dots $ algebraic or transcendental?
+List of interesting math podcasts?
+How Do You Go About Learning Mathematics?
+Calculating the integral $\int_{0}^{\infty} \frac{\cos x}{1+x^2}\mathrm{d}x$ without using complex analysis
+How to effectively and efficiently learn mathematics
+A fleshed-out version of the Noncommutative Geometry proof of the Gauss-Bonnet Theorem?
+The direct sum $\oplus$ versus the cartesian product $\times$
+Showing that $\int\limits_{-a}^a \frac{f(x)}{1+e^{x}} \mathrm dx = \int\limits_0^a f(x) \mathrm dx$, when $f$ is even
+Does $G\cong G/H$ imply that $H$ is trivial?
+Do you prove all theorems whilst studying?
+Does $|n^2 \cos n|$ diverge to $+\infty$?
+How does one give a mathematical talk?
+Algebra: Best mental images
+Does mathematics require axioms?
+On a long proof
+How to entertain a crowd with mathematics?
+Why learning modern algebraic geometry is so complicated?
+What is $-i$ exactly?
+The Intuition behind l&#39;Hopitals Rule
+How to maintain enthusiasm and joy in teaching when the material grows stale
+What is the most elegant proof of the Pythagorean theorem?
+Can someone please explain the Riemann Hypothesis to me... in English?
+Why is negative times negative = positive?
+Completion of rational numbers via Cauchy sequences
+Online tool for making graphs (vertices and edges)?
+What is the Tor functor?
+$n$th derivative of $e^{1/x}$
+Golden Number Theory
+Example of a compact set that isn&#39;t the spectrum of an operator
+How much does symbolic integration mean to mathematics?
+How to understand and appreciate the prime number industry?
+Why are vector spaces not isomorphic to their duals?
+Proof of 1 = 0 by Mathematical Induction on Limits?
+Fractal behavior along the boundary of convergence?
+How to define a bijection between $(0,1)$ and $(0,1]$?
+A new kind of fractal?
+How to intuitively understand eigenvalue and eigenvector?
+Given real numbers: define integers?
+What is the solution to Nash&#39;s problem presented in &quot;A Beautiful Mind&quot;?
+What is a proof?
+Laplace, Legendre, Fourier, Hankel, Mellin, Hilbert, Borel, Z...: unified treatment of transforms?
+A non-losing strategy for tic-tac-toe $\times$ tic-tac-toe
+Interesting math-facts that are visually attractive
+Fastest way to check if $x^y &gt; y^x$?
+How to weigh up to 100kg with 5 weights
+Does every prime divide some Fibonacci number?
+What is exponentiation?
+Is a proof still valid if only the writer understands it?
+Why do we miss 8 in 0.012345679..., 98 in 0.0001020304050607080910111213..., and so on in fractions like 1/81, 1/9801, and so on?
+Largest &quot;leap-to-generality&quot; in math history?
+Closed form solution for $\sum_{n=1}^\infty\frac{1}{1+\frac{n^2}{1+\frac{1}{\stackrel{\ddots}{1+\frac{1}{1+n^2}}}}}$.
+Arc length contest! Minimize the arc length of $f(x)$ when given three conditions.
+Why is a circle 1-dimensional?
+Is there a general formula for solving 4th degree equations?
+Best Algebraic Geometry text book? (other than Hartshorne)
+Why is $e^{\pi \sqrt{163}}$ almost an integer?
+Designing an Irrational Numbers Wall Clock
+What&#39;s the point of studying topological (as opposed to smooth, PL, or PDiff) manifolds?
+How to effectively study math?
+Differential forms on fuzzy manifolds
+What is the importance of Calculus in today&#39;s Mathematics?
+Construct a function which is continuous in $[1,5]$ but not differentiable at $2, 3, 4$
+Is there a non-commutative ring with a trivial automorphism group?
+Prime as sum of three numbers whose product is a cube
+Algebraic Topology Challenge: Homology of an Infinite Wedge of Spheres
+Have there been efforts to introduce non Greek or Latin alphabets into mathematics?
+Big List of Fun Math Books
+What is the algebraic structure of functions with fixed points?
+Alice and Bob matrix problem.
+How to round 0.4999... ? Is it 0 or 1?
+Computing $999,999\cdot 222,222 + 333,333\cdot 333,334$ by hand.
+Is it possible to prove a mathematical statement by proving that a proof exists?
+Could I be using proof by contradiction too much?
+Second part of the factorial sum divisibility question
+Why can&#39;t you flatten a sphere?
+Is there a function with the property$ f(n)=f^{(n)}(a)$
+How do I motivate myself to do math again?
+How prove this inequality $\sin{\sin{\sin{\sin{x}}}}\le\frac{4}{5}\cos{\cos{\cos{\cos{x}}}}$
+There exists a power of 2 such that the last five digits are all 3&#39;s or 6&#39;s. Find the last 5 digits of this number
+Can a piece of A4 paper be folded so that it&#39;s thick enough to reach the moon?
+How can I write the numbers 5 and 7 as some sequence of operations on three 9s?
+What is integration by parts, really?
+Proof that every number ≥ $8$ can be represented by a sum of fives and threes.
+Convergence of $\sqrt{n}x_{n}$ where $x_{n+1} = \sin(x_{n})$
+Convergence of $np(n)$ where $p(n)=\sum_{j=\lceil n/2\rceil}^{n-1} {p(j)\over j}$
+Factorial and exponential dual identities
+Why is integration so much harder than differentiation?
+Axiom of choice and automorphisms of vector spaces
+Why are gauge integrals not more popular?
+Why is one &quot;$\infty$&quot; number enough for complex numbers?
+Double sum - Miklos Schweitzer 2010
+In classical logic, why is $(p\Rightarrow q)$ True if both $p$ and $q$ are False?
+Polynomial equations $p(A, B) = 0$ for matrices that ensure $AB = BA$
+What is a real world application of polynomial factoring?
+Is there a function with the property $f(n)=f^{(n)}(0)$?
+Evaluate the integral: $\int_{0}^{1} \frac{\ln(x+1)}{x^2+1} \mathrm dx$
+How to write a good mathematical paper?
+The $100$th derivative of $(x^2 + 1)/(x^3 - x)$
+Is $n \sin n$ dense on the real line?
+A discrete math riddle
+Abstract nonsense proof of snake lemma
+What are examples of unexpected algebraic numbers of high degree occured in some math problems?
+I almost quit self-studying mathematics, but should I continue?
+Hanging a picture on the wall using two nails in such a way that removing any nail makes the picture fall down
+What are some applications of elementary linear algebra outside of math?
+Is &quot;A New Kind of Science&quot; a new kind of science?
+For any prime $p &gt; 3$, why is $p^2-1$ always divisible by 24?
+How to determine if coin comes up heads more often than tails?
+Do the M&#246;bius function, totient function, sum of divisors and number of divisors uniquely specify a number?
+Proof that $\sum\limits_{k=1}^nk^2 = \frac{n(n+1)(2n+1)}{6}$?
+Is it wrong to tell children that $1/0 =$ NaN is incorrect, and should be $∞$?
+&quot;Negative&quot; versus &quot;Minus&quot;
+Please explain the intuition behind the dual problem in optimization.
+Identity for simple 1D random walk
+How to show $\lim_{x \to 1} \frac{x + x^2 + \dots + x^n - n}{x - 1} = \frac{n(n + 1)}{2}$?
+To evaluate $\int_0^{+\infty} \frac{\;\mathrm dx}{\sqrt[3]{x^3+a^3}\sqrt[3]{x^3+b^3}\sqrt[3]{x^3+c^3}}$
+Does $\sum _{n=1}^{\infty } \frac{\sin(\text{ln}(n))}{n}$ converge?
+Show that $\sum{\frac{x^n}{(1+x^n)^n}}$ converges uniformly
+Why does being holomorphic imply so much about a function?
+Is there something special about 2015?
+Surprising Generalizations
+What is the meaning of the third derivative of a function at a point
+How come the number $N!$ can terminate in exactly $1,2,3,4,$ or $6$ zeroes but never $5$ zeroes?
+What&#39;s the goal of mathematics?
+How do the Catalan numbers turn up here?
+Examples of results failing in higher dimensions
+What is so special about $\alpha=-1$ in the integral of $x^\alpha$?
+Algebraic Intuition for Homological Algebra and Applications to More Elementary Algebra
+What is the fastest/most efficient algorithm for estimating Euler&#39;s Constant $\gamma$?
+Research done by high-school students
+Calculus conjecture
+Do circles divide the plane into more regions than lines?
+Show that $\int_{0}^{\pi/2}\frac {\log^2\sin x\log^2\cos x}{\cos x\sin x}\mathrm{d}x=\frac14\left( 2\zeta (5)-\zeta(2)\zeta (3)\right)$
+Prove that $\int_0^{\infty} \frac{\sin(2013 x)}{x(\cos x+\cosh x)}dx=\frac{\pi}{4}$
+What is mathematical research like?
+Infinite sets don&#39;t exist!?
+Do two right triangles with the same long hypotenuse have the same area?
+What if $\pi$ was an algebraic number? (significance of algebraic numbers)
+How to tell if I&#39;m good enough for graduate school?
+Is the problem that Prof Otelbaev proved exactly the one stated by Clay Mathematics Institute?
+Nuking the Mosquito — ridiculously complicated ways to achieve very simple results
+Interview riddle
+Why learn to solve differential equations when computers can do it?
+What should an amateur do with a proof of an open problem?
+Does there exist a bijection of $\mathbb{R}^n$ with itself such that the forward map is connected but the inverse is not?
+Is the Law of Large Numbers empirically proven?
+What to answer when people ask what I do in mathematics
+Is π equal to 180&#176;?
+History of the Concept of a Ring
+Computation with a memory wiped computer
+A zero sum subset of a sum-full set
+Prove that $\gcd(a^n - 1, a^m - 1) = a^{\gcd(n, m)} - 1$
+Good book for self study of functional analysis
+Proof of $\int_0^\infty \left(\frac{\sin x}{x}\right)^2 \mathrm dx=\frac{\pi}{2}.$
+Sums of prime powers
+Finding the limit of $\frac {n}{\sqrt[n]{n!}}$
+Is there a bounded function $f$ with $f&#39;$ unbounded and $f&#39;&#39;$ bounded?
+linear algebra over a division ring vs. over a field
+Intuitive interpretation of the Laplacian
+Was Grothendieck familiar with Stone&#39;s work on Boolean algebras?
+AM-GM-HM Triplets
+What does it take to get a job at a top 50 math program in the U.S.?
+Do &quot;Parabolic Trigonometric Functions&quot; exist?
+Motivation and methods for self-study
+How does a non-mathematician go about publishing a proof in a way that ensures it to be up to the mathematical community&#39;s standards?
+Problems regarding $\{x_n \}$ defined by $x_1=1$; $x_n$ is the smallest distinct natural number such that $x_1+...+x_n$ is divisible by $n$.
+Intuition for the Importance of Modular Forms
+Is there such a thing as proof by example (not counter example)
+Why do we negate the imaginary part when conjugating?
+Closed form for $\int_0^1\log\log\left(\frac{1}{x}+\sqrt{\frac{1}{x^2}-1}\right)\mathrm dx$
+Why is $\varphi$ called &quot;the most irrational number&quot;?
+Extending the result $\int_{0}^{\infty} \left( ( 1 - 2C(x))^{2} + (1-2S(x))^{2} \right) \, dx = \frac{4}{\pi} $
+This is stupid but I have a bad cold with cough
+Where to build a bridge to cross a river in the shape of an annulus
+Are there infinite many $n\in\mathbb N$ such that $\pi(n)=\sum_{p\leq\sqrt n}p$?
+Is $dx\,dy$ really a multiplication of $dx$ and $dy$?
+How likely is it not to be anyone&#39;s best friend?
+Understanding the Laplace operator conceptually
+How to create circles and or sections of a circle when the centre is inaccessible
+Free throw interview question
+Effective Research Notes
+Calculating pi manually
+Why is &quot;the set of all sets&quot; a paradox?
+Why is compactness in logic called compactness?
+Ignoring elements of small order in the simple group of order $60$
+Nice expression for minimum of three variables?
+Why is it that $\mathbb{Q}$ cannot be homeomorphic to _any_ complete metric space?
+Understanding G&#246;del&#39;s Incompleteness Theorem
+What do $\pi$ and $e$ stand for in the normal distribution formula?
+A circle rolls along a parabola
+Why are addition and multiplication commutative, but not exponentiation?
+What is the geometric interpretation of the transpose?
+Soft Question - Intuition of the meaning of homology groups
+Continuity of the roots of a polynomial in terms of its coefficients
+$\sin 1^\circ$ is irrational but how do I prove it in a slick way? And $\tan(1^\circ)$ is .....
+What is the proper way to study (more advanced) math?
+Continuous projections in $\ell_1$ with norm $&gt;1$
+Is $1+x+\frac{x^2}2+\dots+\frac{x^n}{n!}$ irreducible?
+A new continued fraction for Ap&#233;ry&#39;s constant, $\zeta(3)$?
+&#39;Linux&#39; math program with interactive terminal?
+What kind of work do modern day algebraists do?
+Original works of great mathematicians
+Combinatorics Problem: Box Riddle
+How to evaluate $I=\displaystyle\int_0^{\pi/2}x^2\ln(\sin x)\ln(\cos x)\ \mathrm dx$
+Is $\sqrt[3]{p+q\sqrt{3}}+\sqrt[3]{p-q\sqrt{3}}=n$, $(p,q,n)\in\mathbb{N} ^3$ solvable?
+Is it possible to simplify $\frac{\Gamma\left(\frac{1}{10}\right)}{\Gamma\left(\frac{2}{15}\right)\ \Gamma\left(\frac{7}{15}\right)}$?
+Why is there never a proof that extending the reals to the complex numbers will not cause contradictions?
+Generalizing the sum of consecutive cubes $\sum_{k=1}^n k^3 = \Big(\sum_{k=1}^n k\Big)^2$ to other odd powers
+Cutting up a circle to make a square
+Why can&#39;t you square both sides of an equation?
+Gross-Zagier formulae outside of number theory
+Interesting and unexpected applications of $\pi$
+Does a randomly chosen series diverge?
+When working proof exercises from a textbook with no solutions manual, how do you know when your proof is sound/acceptable?
+Evaluating $\int_{0}^{1}\cdots\int_{0}^{1}\bigl\{\frac{1}{x_{1}\cdots x_{n}}\bigr\}^{2}\:\mathrm{d}x_{1}\cdots\mathrm{d}x_{n}$
+Why is it that if I count years from 2011 to 2014 as intervals I get 3 years, but if I count each year separately I get 4 years?
+Why are real numbers useful?
+Nobody told me that self teaching could be so damaging...
+Do we really need reals?
+Is there a group with exactly 92 elements of order 3?
+Interesting results easily achieved using complex numbers
+What is the spectral theorem for compact self-adjoint operators on a Hilbert space actually for?
+How hard is the proof of $\pi$ or $e$ being transcendental?
+Partitioning the integers $1$ through $n$ so that the product of the elements in one set is equal to the sum of the elements in the other
+Functions $f:\mathbb{N}\rightarrow \mathbb{Z}$ such that $\left(m-n\right) \mid \left(f(m)-f(n)\right)$
+Counting trails in a triangular grid
+Identity for convolution of central binomial coefficients
+(Theoretical) Multivariable Calculus Textbooks
+I can&#39;t do math?
+Mathematical explanation behind a picture posted (lifted from facebook)
+The Monty Hall problem
+Closed form for $\int_0^\infty {\frac{{{x^n}}}{{1 + {x^m}}}dx }$
+In which ordered fields does absolute convergence imply convergence?
+Banach Spaces - How can $B,B&#39;,B&#39;&#39;, B&#39;&#39;&#39;, B&#39;&#39;&#39;&#39;,B&#39;&#39;&#39;&#39;&#39;,\ldots$ behave?
+Prove $\int_0^1 \left| \frac{f^{&#39;&#39;}(x)}{f(x)} \right| dx \geq4$
+I have learned that 1/0 is infinity, why isn&#39;t it minus infinity?
+Getting the sequence $\{1, 0, -1, 0, 1, 0, -1, 0, \ldots\}$ without trig?
+Pen, pencils and paper to write math
+Proving $\sum\limits_{l=1}^n \sum\limits _{k=1}^{n-1}\tan \frac {lk\pi }{2n+1}\tan \frac {l(k+1)\pi }{2n+1}=0$
+Has any previously unknown result been proven by an automated theorem prover?
+Looking for a function such that...
+Geometric interpretation for sum of fourth powers
+Inequality: $(a^3+a+1)(b^3+b+1)(c^3+c+1) \leq 27$
+Is there a homology theory that counts connected components of a space?
+If $e^A$ and $e^B$ commute, do $A$ and $B$ commute?
+Do factorials really grow faster than exponential functions?
+Intuitive meaning of Exact Sequence
+Is this similarity to the Fourier transform of the von Mangoldt function real?
+Why does this ratio of sums of square roots equal $1+\sqrt2+\sqrt{4+2\sqrt2}=\cot\frac\pi{16}$ for any natural number $n$?
+Ways to make a series diverge &quot;faster&quot; to show divergence
+How to prove that $\sum_{n=1}^{\infty}\frac{(H_n)^2}{n^3}=\frac{7}{2}\zeta(5)-\zeta(2)\zeta(3)$
+Integral $\int_0^1\frac{\ln\left(x+\sqrt2\right)}{\sqrt{2-x}\,\sqrt{1-x}\,\sqrt{\vphantom{1}x}}\mathrm dx$
+What is this beauty curve?
+How to identify surfaces of revolution
+When to give up on a hard math problem?
+Why can&#39;t we define more elementary functions?
+What exactly is a number?
+What are the work habits of the best mathematicians?
+Ramanujan log-trigonometric integrals
+Estimate for $n$th prime
+How many non-rational complex numbers $x$ have the property that $x^n$ and $(x+1)^n$ are rational?
+Is there a commutative operation for which the inverse of the operation is also commutative?
+Why is the derivative of a circle&#39;s area its perimeter (and similarly for spheres)?
+Why are differentiable complex functions infinitely differentiable?
+How to prove Euler&#39;s formula: $e^{it}=\cos t +i\sin t$?
+Good Book On Combinatorics
+Good examples of double induction
+Triangular Factorials
+The Langlands program for beginners
+Is there a good &quot;bridge&quot; between high school math and the more advanced topics?
+Probability for the length of the longest run in $n$ Bernoulli trials
+A variant of the Monty Hall problem
+Convergence/Divergence of infinite series $\sum_{n=1}^{\infty} \frac{(\sin(n)+2)^n}{n3^n}$
+How important is programming for mathematicians?
+Let $f:\mathbb{R}\longrightarrow \mathbb{R}$ a differentiable function such that $f&#39;(x)=0$ for all $x\in\mathbb{Q}$
+Open math problems which high school students can understand
+What is a hexagon?
+Does the series $ \sum\limits_{n=1}^{\infty} \frac{1}{n^{1 + |\sin(n)|}} $ converge or diverge?
+Does there exist $f:(0,\infty)\to(0,\infty)$ such that $f&#39;=f^{-1}$?
+Solutions to $\binom{n}{5} = 2 \binom{m}{5}$
+An integral involving Fresnel integrals $\int_0^\infty \left(\left(2\ S(x)-1\right)^2+\left(2\ C(x)-1\right)^2\right)^2 x\ \mathrm dx,$
+Conjectural closed-form representations of sums, products or integrals
+Does the sum $\sum_{n=1}^{\infty}\frac{\tan n}{n^2}$ converge?
+Integral $\int_0^1\frac{x^9\left(x^4+x^2-x-1-5\ln x\right)}{\left(x^{10}-1\right)\ln x}\mathrm dx$
+Integral $\int_0^\infty\frac{\operatorname{arccot}\left(\sqrt{x}-2\,\sqrt{x+1}\right)}{x+1}\mathrm dx$
+Of any 52 integers, two can be found whose difference of squares is divisible by 100
+How to prove $k!+(2k)!+\cdots+(nk)!$ has a prime divisor greater than $k!$
+How big is infinity?
+What is that curve that appears when I use $\ln$ on Pascal&#39;s triangle?
+Is $n! + 1$ often a prime?
+What is the average of no numbers?
+When does L&#39; Hopital&#39;s rule fail?
+What is $\cdots ((((1/2)/(3/4))/((5/6)/(7/8)))/(((9/10)/(11/12))/((13/14)/(15/16))))/\cdots$?
+In plain language, what&#39;s the significance of a field?
+Evaluate $ \int_{0}^{\pi/2}\frac{1+\tanh x}{1+\tan x}dx $
+If $f(x)=x^2-x-1$ and $f^n(x)=f(f(\cdots f(x)\cdots))$, find all $x$ for which $f^{3n}(x)$ converges.
+What do mathematicians mean by &quot;equipped&quot;
+Inequality from Chapter 5 of the book *How to Think Like a Mathematician*
+Fake induction proofs
+Why, although these functions have the same derivative, do they not differ by a constant?
+Paradox: increasing sequence that goes to $0$?
+Convergence of $\sum \limits_{n=1}^{\infty}\sin(n^k)/n$
+How is $\mathbb{C}$ different than $\mathbb{R}^2$?
+Taking Seats on a Plane
+What is your method?
+Why is the M&#246;bius strip not orientable?
+Prime powers, patterns similar to $\lbrace 0,1,0,2,0,1,0,3\ldots \rbrace$ and formulas for $\sigma_k(n)$
+Inverse of the sum of matrices
+Mathematics problems for very young children?
+Why is the eigenvector of a covariance matrix equal to a principal component?
+Evaluating $\int P(\sin x, \cos x) \text{d}x$
+Limits: How to evaluate $\lim\limits_{x\rightarrow \infty}\sqrt[n]{x^{n}+a_{n-1}x^{n-1}+\cdots+a_{0}}-x$
+Geometric intuition behind The Mordell Conjecture
+Need a result of Euler that is simple enough for a child to understand
+How does Cantor&#39;s diagonal argument work?
+What does &quot;communicated by&quot; mean in math papers?
+How to convince a layman that the $\pi = 4$ proof is wrong?
+Bad Fraction Reduction That Actually Works
+Putting many disks in the unit square
+Making trigonometric substitutions rigorous
+Project Euler, Problem #25
+How do I find partners for study?
+Does &quot;This is a lie&quot; prove the insufficiency of binary logic?
+A Young Math Enthusiast&#39;s Fear
+Why is it hard to prove whether $\pi+e$ is an irrational number?
+How to learn from proofs?
+Eigenvalue problem: Prove that all of the eigenvalues of $A$ are $1$.
+Mind-blowing mathematics experiments
+Evaluate $\int_0^1\left(\frac{1}{\ln x} + \frac{1}{1-x}\right)^2 \mathrm dx$
+Generalizing Ramanujan&#39;s proof of Bertrand&#39;s Postulate: Can Ramanujan&#39;s approach be used to show a prime between $4x$ and $5x$ for $x \ge 3$
+Is $2^{218!} +1$ prime?
+Closed form for $\prod_{n=1}^\infty\sqrt[2^n]{\frac{\Gamma(2^n+\frac{1}{2})}{\Gamma(2^n)}}$
+$\int_0^{\infty}\frac{x^3}{(x^4+1)(e^x-1)}\mathrm dx$
+How does the divisibility graphs work?
+A path to truly understanding probability and statistics
+What&#39;s the difference between $\mathbb{R}^2$ and the complex plane?
+A generalization of IMO 1983 problem 6
+Geometric intuition for the tensor product of vector spaces
+Proof that $123456789098765432111$ is prime?
+Which is larger? $20!$ or $2^{40}$?
+Find all positive integers $n$ s.t. $3^n + 5^n$ is divisible by $n^2 - 1$
+Can I solve an integral (or other tough problem) by playing with knots?
+Is there a mathematical reason why chocolate chip cookies have 37% (1/e) chocolate in them?
+A game with $\delta$, $\epsilon$ and uniform continuity.
+Self-learning mathematics - help needed!
+The Wicked Integral
+A strange integral
+Why are integers subset of reals?
+Is ${F_{n}}^2 - 28$ always a composite number?
+If a prime number is reversed, and then appended to itself, why is the result always a composite number?
+How do we know that we found all solutions of a differential equation?
+Why can you chose how to align infinitely long equations when adding them?
+Representing every positive rational number in the form of $(a^n+b^n)/(c^n+d^n)$
+Proving that 1- and 2-d simple symmetric random walks return to the origin with probability 1
+Why is the volume of a cone one third of the volume of a cylinder?
+How can I understand and prove the &quot;sum and difference formulas&quot; in trigonometry? (cos(a &#177; b) = ..., etc.)?
+What is the best book for studying discrete mathematics?
+$n!$ is never a perfect square if $n\geq2$. Is there a proof of this that doesn&#39;t use Chebyshev&#39;s theorem?
+Is there a third dimension of numbers?
+What is a good book for learning math from the ground up?
+Is there any easy way to understand the definition of Gaussian Curvature?
+Small primes attract large primes
+How many connected components does $\mathrm{GL}_n(\mathbb R)$ have?
+Is there an explicit isomorphism between $L^\infty[0,1]$ and $\ell^\infty$?
+Intuitive reasoning behind $\pi$&#39;s appearance in bouncing balls.
+How to show that $\int_0^1 \left(\sqrt[3]{1-x^7} - \sqrt[7]{1-x^3}\right)\;dx = 0$
+How do different definitions of &quot;degree&quot; coincide?
+Prove that 16, 1156, 111556, 11115556, 1111155556… are squares.
+Decomposing polynomials with integer coefficients
+What is the sum of sum of digits of $4444^{4444^{4444}}$?
+Are difficult exercises good for beginners?
+Why is $\Gamma\left(\frac{1}{2}\right)=\sqrt{\pi}$ ?
+List of interesting integrals for early calculus students
+Tricks to remember Fatou&#39;s lemma
+Prove that $\sum_{k=1}^{\infty} \large\frac{k}{\text{e}^{2\pi k}-1}=\frac{1}{24}-\frac{1}{8\pi}$
+The resemblance between Mordell&#39;s theorem and Dirichlet&#39;s unit theorem
+Is $|1-i|$ larger than $1$?
+Examples of nonabelian groups.
+Should I be worried that I am doing well in analysis and not well in algebra?
+Topology and analytic functions
+Find all real numbers $x$ for which $\frac{8^x+27^x}{12^x+18^x}=\frac76$
+A ring isomorphic to its finite polynomial rings but not to its infinite one.
+What is the function space generated by addition and $(a,b)\mapsto (a+b)^{-1}\cdot a\cdot b$ of elements and their inverses?
+How to teach mathematical induction?
+Is $n(n+1)$ ever a factorial?
+What shape does a piece of paper make when it is pushed from the edges?
+Examples of famous problems resolved easily
+Is the number 100k+11 ever a square?
+In categorical terms, why is there no canonical isomorphism from a finite dimensional vector space to its dual?
+Geometric interpretation of the Riemann-Roch for curves
+An exotic sequence
+Prove $\int_{0}^{\pi/2}\frac{dx}{1+\sin^2{(\tan{x})}}=\frac{\pi}{2\sqrt{2}}\bigl(\frac{e^2+3-2\sqrt{2}}{e^2-3+2\sqrt{2}}\bigr)$
+Why square units?
+Fun Geometric Series Puzzle
+Closed form for ${\large\int}_0^1\frac{\ln(1-x)\,\ln(1+x)\,\ln(1+2x)}{1+2x}dx$
+Are there periodic functions without a smallest period?
+Why can we prove mathematically that a formula to solve an (n+5) order polynomial does not exist?
+What does it take to divide by $2$?
+Is it possible to simulate a floor() function with elementary arithmetic?
+What are some theorems that currently only have computer-assisted proofs?
+Why does this test for Fibonacci work?
+Numbers $n$ such that the digit sums of $n, n^2,\cdots,n^k$ coincide.
+An easy example of a non-constructive proof without an obvious &quot;fix&quot;?
+Why $\sqrt{-1 \times {-1}} \neq \sqrt{-1}^2$?
+Best book for topology?
+When can you switch the order of limits?
+What is the shortest string that contains all permutations of an alphabet?
+How do I integrate the following? $\int{\frac{(1+x^{2})\mathrm dx}{(1-x^{2})\sqrt{1+x^{4}}}}$
+Probability of 3 people in a room of 30 having the same birthday
+Tall fraction puzzle
+Book/tutorial recommendations: acquiring math-oriented reading proficiency in German
+The identity cannot be a commutator in a Banach algebra?
+Is there a clever solution to this elementary probability/combinatorics problem?
+Is $\lim\limits_{k\to\infty}\sum\limits_{n=k+1}^{2k}{\frac{1}{n}} = 0$?
+How much rigour is necessary?
+Attitude towards exercises in mathematics
+Chatting about mathematics (with real-time LaTeX rendering)
+Expectation of the maximum of gaussian random variables
+A question on Taylor Series and polynomial
+False beliefs about Lebesgue measure on $\mathbb{R}$
+Inequality for expected value
+Is there any geometric way to characterize $e$?
+Are the exercises necessary to understand the subject of a mathematical textbook?
+Why is the Continuum Hypothesis (not) true?
+How is  $e^x$ read aloud?
+Why is $\log(\sqrt{x^2+1}+x)$ odd?
+Counterexample Math Books
+Looking for an intuitive explanation why the row rank is equal to the column rank for a matrix
+Do all natural numbers have a nonzero multiple that is a palindrome in base 10?
+Proving that $x$ is an integer, if the differences between any two of $x^{1919}$, $x^{1960}$, and $x^{2100}$ are integers
+Find $\lim\limits_{n \rightarrow \infty}\dfrac{\sin 1+2\sin \frac{1}{2}+\cdots+n\sin \frac{1}{n}}{n}$
+A Question about Doctoral Theses in Mathematics
+Why are topological spaces interesting to study?
+Literary statements that are false as mathematics
+How to prove $\sqrt{5+\sqrt{5+\sqrt{5-\sqrt{5+\sqrt{5+\sqrt{5+\sqrt{5-\cdots}}}}}}} = \frac{2+\sqrt 5 +\sqrt{15-6\sqrt 5}}{2}$
+Integral $\int_{-1}^{1} \frac{1}{x}\sqrt{\frac{1+x}{1-x}} \log \left( \frac{(r-1)x^{2} + sx + 1}{(r-1)x^{2} - sx + 1} \right) \, \mathrm dx$
+Why is there antagonism towards extended real numbers?
+How to find $\int_0^\infty\frac{\log\left(\frac{1+x^{4+\sqrt{15}}}{1+x^{2+\sqrt{3}}}\right)}{\left(1+x^2\right)\log x}\mathrm dx$
+Is &quot;$a + 0i$&quot; in every way equal to just &quot;$a$&quot;?
+Computing $\lim\limits_{n\to\infty} \Big(\sum\limits_{i = 1}^n \sum\limits_{j = 1}^n \frac1{i^2+j^2}-\frac{\pi}{2} \log(n)\Big)$.
+The Stupid Computer Problem : can every polynomial be written with only one $x$?
+Checking a Proof of a Theorem
+Why not both true and false?
+Is Stokes&#39; Theorem natural in the sense of category theory?
+Real life usage of Benford&#39;s Law
+Is the 24 game NP-complete?
+Proof that Pi is constant (the same for all circles), without using limits
+Is there any connection between Green&#39;s Theorem and the Cauchy-Riemann equations?
+$e$ to 50 billion decimal places
+How can a structure have infinite length and infinite surface area, but have finite volume?
+Non-Scientific questions solved by mathematics
+A proof of the Isoperimetric Inequality - how does it work?
+The sum of an uncountable number of positive numbers
+Quotient ring of Gaussian integers
+Intuition behind Conditional Expectation
+Understanding the intuition behind math
+Why do we restrict the definition of Lebesgue Integrability?
+Any positive integer solutions to $x^6+y^{10}=z^{15}$?
+Good books on Math History
+What is the best book to learn probability?
+The 9 Billion Names of God
+Is there an interpretation for this trigonometric identity?
+Does $\zeta(3)$ have a connection with $\pi$?
+What is this mathematical equation from Fringe?
+How does one see Hecke Operators as helping to generalize Quadratic Reciprocity?
+Construction of a Borel set with positive but not full measure in each interval
+Proof of Frullani&#39;s Theorem
+Resources for a curious beginner mathematician
+What are the rules for equals signs with big-O and little-o?
+Why do we write proofs &quot;forward?&quot;
+Are these zeros equal to the imaginary parts of the Riemann zeta zeros?
+What are exact sequences, metaphysically speaking?
+Examples of mathematical induction
+Strange Patience Game
+difference between class, set , family and collection
+Rain droplets falling on a table
+Intuition behind Snake Lemma
+Is Complex Analysis equivalent Real Analysis with $f:\mathbb R^2 \to \mathbb R^2$?
+What are some good math specific study habits?
+Appearance of Formal Derivative in Algebra
+Rank of a $n! \times n$ matrix
+Closed form for $\prod_{n=1}^\infty\sqrt[2^n]{\tanh(2^n)},$
+$\sum_{n=1}^\infty(n\ \text{arccot}\ n-1)$
+Closed form for $\int_0^\infty\frac{\log\left(1+\frac{\pi^2}{4\,x}\right)}{e^{\sqrt{x}}-1}\mathrm dx$
+Does there exist rational $a,b,c$, such that $\sqrt[3]{1}+\sqrt[3]{2}+\sqrt[3]{4}=\sqrt[3]{a}+\sqrt[3]{b}+\sqrt[3]{c}$
+How much weight is on each person in a human pyramid?
+Simplest or nicest proof that $1+x \le e^x$
+Refuting the Anti-Cantor Cranks
+Integral $\int_0^1\frac{\arctan^2x}{\sqrt{1-x^2}}\mathrm dx$
+Generalizing $\int_{0}^{1} \frac{\arctan\sqrt{x^{2} + 2}}{\sqrt{x^{2} + 2}} \, \frac{\operatorname dx}{x^{2}+1} = \frac{5\pi^{2}}{96}$
+Poems related to mathematics
+If $\lvert\operatorname{Hom}(H,G_1)\rvert = \lvert\operatorname{Hom}(H,G_2)\rvert$ for any $H$ then $G_1 \cong G_2$
+How to evaluate $\int_0^\infty\operatorname{erfc}^n x\ \mathrm dx$?
+Converting expressions with square roots
+Can a Rubik&#39;s cube be mapped knowing only two sides?
+Are there surfaces with more than two sides?
+Becoming Better at Math
+Conjecture: Only one Fibonacci number is the sum of two cubes
+Connecting three houses to three utilities
+When does a real function together with its derivatives form a basis?
+Making 400k random choices from 400k samples seems to always end up with 63% distinct choices, why?
+Prove that the 25 people can be seated in this way
+Over ZF, does &quot;every Hilbert space have a basis&quot; imply AC?
+Suggestion for Math Movies
+Ways to write &quot;50&quot;
+If both $a,b&gt;0$, then $a^ab^b \ge a^bb^a$
+What is an odd prime?
+Is there a relationship between trigonometric functions and their &quot;co&quot; functions?
+How can you prove that the square root of two is irrational?
+Why are the only division algebras over the real numbers the real numbers, the complex numbers, and the quaternions?
+Which mathematicians have influenced you the most?
+Why are there only a finite number of sporadic simple groups?
+Good 1st PDE book for self study
+What structure does the alternating group preserve?
+Why is this coin-flipping probability problem unsolved?
+Is there a definition of determinants that does not rely on how they are calculated?
+Is this number transcendental?
+Asymmetric Hessian matrix
+Homology of cube with a twist
+Simple &quot;real life&quot; NP-hard problems?
+An example of a division ring $D$ that is **not** isomorphic to its opposite ring
+How to find the Galois group of a polynomial?
+Integration of forms and integration on a measure space
+Grad school with low undergrad GPA
+Automorphisms inducing automorphisms of quotient groups
+$L^p$ and $L^q$ space inclusion
+Would a proof to the Riemann Hypothesis affect security?
+What is the limit of $n \sin (2 \pi \cdot e \cdot n!)$ as $n$ goes to infinity?
+Why the emphasis on Projective Space in Algebraic Geometry?
+Is the integral $\int_0^\infty \frac{\mathrm{d} x}{(1+x^2)(1+x^a)}$  equal for all $a \neq 0$?
+Solutions to the matrix equation $\mathbf{AB-BA=I}$ over general fields
+Pythagorean Theorem Proof Without Words (request for words)
+Instructive proofs in functional analysis
+What is so interesting about the zeroes of the $\zeta$ function
+Prove the convergence/divergence of $\sum \limits_{k=1}^{\infty} \frac{\tan(k)}{k}$
+Why is $\int_{0}^{\infty} \frac {\ln x}{1+x^2} \mathrm{d}x =0$?
+Is War necessarily finite?
+Why, historically, do we multiply matrices as we do?
+Is this sequence unbounded?
+Can commuting matrices $X,Y$ always be written as polynomials of some matrix $A$?
+To show that the set point distant by 1 of a compact set has Lebesgue measure $0$
+Are there/Why aren&#39;t there any simple groups with orders like this?
+How can I prove this closed form for $\sum_{n=1}^\infty\frac{(4n)!}{\Gamma\left(\frac23+n\right)\,\Gamma\left(\frac43+n\right)\,n!^2\,(-256)^n}$
+Finding the sum- $x+x^{2}+x^{4}+x^{8}+x^{16}\cdots$
+Which one is bigger: $\;35{,}043 &#215; 25{,}430\,$ or $\,35{,}430 &#215; 25{,}043\;$?
+$\mathbb C[X]/(X^2)$ is isomorphic to $\mathbb R[Y]/((Y^2+1)^2)$
+Prove that $\sqrt 2 + \sqrt 3$ is irrational
+When to Stop Using L&#39;H&#244;pital&#39;s Rule
+Evaluating the infinite series $\sum\limits_{n=1}^\infty(\sin\frac1{2n}-\sin\frac1{2n+1})$
+$\lfloor \sqrt n+\sqrt {n+1}+\sqrt{n+2}+\sqrt{n+3}+\sqrt{n+4}\rfloor=\lfloor\sqrt {25n+49}\rfloor$ is true?
+What is $\gcd(0,0)$?
+The log gamma integral $\int_{0}^{z} \log \Gamma (x) \ \mathrm dx$
+How To Present Algebraic Topology To Non-Mathematicians?
+How to find $f$ if $f(f(x))=\frac{x+1}{x+2}$
+Intuitive reasoning why are quintics unsolvable
+What is $\int_0^1\frac{x^7-1}{\log(x)}\mathrm dx$?
+Common Math Mistakes Made by Scientists
+Zero-avoiding integers
+In plain English, why does conversion from hexadecimal to binary work so cleanly?
+Fourier - Are sinusoidals strictly required?
+Interesting but short math papers?
+Symmetry of bicycle-lock numbers
+Maximum board position in 2048 game
+Is there a power of 2 that, written backward, is a power of 5?
+Triangles packed into a unit circle
+Fibonacci numbers from $998999$
+What&#39;s the most efficient way to mow a lawn?
+Limit with a big exponentiation tower
+Integral ${\large\int}_0^\infty\frac{\ln x}{1+x}\sqrt{\frac{x+\sqrt{1+x^2}}{1+x^2}}\ \mathrm dx$
+Examples of &quot;Non-Logical Theorems&quot; Proven by Logic
+Why can&#39;t a set have two elements of the same value?
+Is it true to say that &quot;it&#39;s not logically possible to prove something can&#39;t be done&quot;?
+Monty Hall Problem with Five Doors
+Why isn&#39;t reflexivity redundant in the definition of equivalence relation?
+If all sets were finite, how could the real numbers be defined?
+Proof that the irrational numbers are uncountable
+Using Gr&#246;bner bases for solving polynomial equations
+What is the value of $1^i$?
+Good books on mathematical logic?
+Uses of quadratic reciprocity theorem
+Good books for self-studying algebra?
+Image of a math problem that was stated in Cuneiform, Arabic, Latin and Finally in modern math notation
+how to read a mathematical paper?
+Why do we define quotient groups for normal subgroups only?
+In a family with two children, what are the chances, if one of the children is a girl, that both children are girls?
+How far are the $p$-adic numbers from being algebraically closed?
+History of &quot;Show that $44\dots 88 \dots 9$ is a perfect square&quot;
+Importance of rank of a matrix
+Mathematical precise definition of a PDE being elliptic, parabolic or hyperbolic
+Universal binary operation and finite fields (ring)
+Guessing a subset of $\{1,...,N\}$
+Alternative proof that $(a^2+b^2)/(ab+1)$ is a square when it&#39;s an integer
+For which number does multiplying it by 99 add a 1 to each end of its decimal representation?
+What is the math behind the game Spot It?
+Can someone explain the Yoneda Lemma to an applied mathematician?
+Sums of roots of unity
+Which manifolds are parallelizable?
+Convergence a.e. and of norms implies that in Lebesgue space
+How do people apply the Lebesgue integration theory?
+Evaluating the integral, $\int_{0}^{\infty} \ln\left(1 - e^{-x}\right) \,\mathrm dx $
+How did &quot;one-to-one&quot; come to mean &quot;injective&quot;?
+Existence of non-constant continuous functions
+Development of the Idea of the Determinant
+Can every group be represented by a group of matrices?
+What is an efficient nesting of mathematical theorems?
+Closed form for improper definite integral involving trig functions and exponentials?
+What use is the Yoneda lemma?
+Very curious properties of ordered partitions relating to Fibonacci numbers
+Why are smooth manifolds defined to be paracompact?
+Why do we look at morphisms?
+Do we really know the reliability of PrimeQ[n] (for $n&gt;10^{16}$)?
+Could G. H. Hardy make a product of two primes so big he couldn&#39;t find out which?
+A sub-additivity inequality
+Is it true in an arbitrary field that $-1$ is a sum of two squares iff it is a sum of three squares?
+Prove that $i^i$ is a real number
+How many triangles
+Does multiplying polynomials ever decrease the number of terms?
+What exactly is infinity?
+Ambiguous Curve: can you follow the bicycle?
+Bag of tricks in Advanced Calculus/ Real Analysis/Complex Analysis
+Is the Galois group associated to a random polynomial solvable with probability 0?
+Finding integer solutions for trigonometric equation $8\sin^2\left(\frac{(k+1)\pi}{n}\right)=n\sin\left(\frac{2\pi}{n}\right)$
+About a harmonic series problem : How to prove that $\sum_{n=1}^{\infty}\frac{H_n}{n^3}=\frac{\pi^4}{72}$
+Sudokus as composition tables of finite groups
+Can every number be written as a small sum of sums of squares?
+Struggling with &quot;technique-based&quot; mathematics, can people relate to this? And what, if anything, can be done about it?
+The Meaning of the Fundamental Theorem of Calculus
+What is the role of mathematical intuition and common sense in questions of irrationality or transcendence of values of special functions?
+Are all limits solvable without L&#39;Hospital Rule or Series Expansion
+Yitang Zhang: Prime Gaps
+explaining the derivative of $x^x$
+Is $\sqrt1+\sqrt2+\dots+\sqrt n$ ever an integer?
+Why do you add +1 in counting test questions?
+Homeomorphic to the disk implies existence of fixed point common to all isometries?
+A Challenging Logarithmic Integral $\int_0^1 \frac{\log(x)\log(1-x)\log^2(1+x)}{x}dx$
+Integral $\int_0^{\pi/2}\arctan^2\left(\frac{6\sin x}{3+\cos 2x}\right)\mathrm dx$
+Has SGA 4$\frac 1 2$ been typeset in TeX?
+Why does this not seem to be random?
+What function can be differentiated twice, but not 3 times?
+How to find the determinant of this matrix?
+How to be a successful math undergraduate student?
+Why are mathematician so interested to find theory for solving partial differential equations but not for integral equation?
+Parabola is an ellipse, but with one focal point at infinity
+Is my field algebraically closed?
+Fascinating Lampshade Geometry
+$p_n(x)=p_{n-1}(x)+p_{n-1}^{\prime}(x)$, then all the roots of $p_k(x)$ are real
+Can $S^2$ be turned into a topological group?
+Is it okay to reverse engineer proofs in homework questions?
+Explaining Infinite Sets and The Fault in Our Stars
+Is $\sqrt {2 \sqrt {3 \sqrt {4 \ldots}}}$ algebraic or transcendental?
+Why is Banach–Tarski&#39;s paradox so interesting?
+&quot;Stick it to the man!&quot; Mathematical discoveries that resulted in persecution.
+What did mathematicians study as an undergraduate/graduate before modern mathematics such as modern algebra and analysis?
+What is the &quot;fastest&quot; increasing function that&#39;s useful in some area of math?
+Proving the inequality $\frac{\log (1)}{1!}+\frac{\log ^2(2)}{2!}+\frac{\log^3(3)}{3!}+\cdots&gt; \frac{\pi }{4}$
+Is there a vector field that is equal to its own curl?
+Proof the Fibonacci numbers are not a polynomial.
+Can I recover a group by its homomorphisms?
+Arranging numbers from $1$ to $n$ such that the sum of every two adjacent numbers is a perfect power
+Online resources for learning Mathematics
+Can there be two distinct, continuous functions that are equal at all rationals?
+Where is the flaw in this argument of a proof that 1=2? (Derivative of repeated addition)
+Is there an atlas of Algebraic Groups and corresponding Coordinate rings?
+Fekete&#39;s conjecture on repeated applications of the tangent function
+Comparing $\pi^{e}$ and $e^{\pi}$
+Is speed an important quality in a mathematician?
+Perturbation trick in the proof of Seifert-van-Kampen
+Dominoes and induction, or how does induction work?
+The Hexagonal Property of Pascal&#39;s Triangle
+How to pick a thesis advisor?
+Why is Euclidean geometry scale-invariant?
+First-Order Logic vs. Second-Order Logic
+What is the expected number of steps in the following process?
+What are good books to learn graph theory?
+Why is the error function defined as it is?
+Connections between metrics, norms and scalar products (for understanding e.g. Banach and Hilbert spaces)
+What&#39;s going on with &quot;compact implies sequentially compact&quot;?
+What do Algebra and Calculus mean?
+If every continuous $f:X\to X$ has $\text{Fix}(f)\subseteq X$ closed, must $X$ be Hausdorff?
+Proof of no prime-representing polynomial in 2 variables
+A series problem by Knuth
+Do We Need the Digits of $\pi$?
+A pencil approach to find $\sum \limits_{i=1}^{69} \sqrt{\left( 1+\frac{1}{i^2}+\frac{1}{(i+1)^2}\right)}$
+How many triangles are there?
+Why is this series of square root of twos equal $\pi$?
+A combinatorial proof of $n^n(n+2)^{n+1}&gt;(n+1)^{2n+1}$?
+Does every Abelian group admit a ring structure?
+Why is it considered unlikely that there could be a contradiction in ZF/ZFC?
+Must we use induction to prove a statement for all integers
+Advantage of accepting the axiom of choice
+Is $T^1 S^5$ abstractly diffeomorphic to $S^4\times S^5$?
+What is the larger of the two numbers?
+Is this function decreasing on $(0,1)$?
+Functions that take rationals to rationals
+Constructing $\mathbb N$ from the set of factorials
+Classification of prime ideals of $\mathbb{Z}[X]$
+What are the practical applications of the Taylor Series?
+A Bernoulli number identity and evaluating $\zeta$ at even integers
+Help understanding Algebraic Geometry
+Evaluating $\int_{0}^{1}\frac{1-x}{1+x}\frac{\mathrm dx}{\ln x}$
+A 20+ year old combinatorial problem - the cookie game
+A really complicated calculus book
+Motivation for spectral graph theory.
+How to use math textbooks
+Any open subset of $\Bbb R$ is a countable union of disjoint open intervals. [Collecting Proofs]
+Alternative proofs that $A_5$ is simple
+How to show that $f&#39;(x)&lt;2f(x)$
+Why is every answer of $5^k - 2^k$ divisible by 3?
+How do I calculate the 2nd term of continued fraction for the power tower ${^5}e=e^{e^{e^{e^{e}}}}$
+Are all prime numbers finite?
+When $f(x+1)-f(x)=f&#39;(x)$, what are the solutions for $f(x)$?
+Improper integral diverges
+Minesweeper - Chance of one-click win
+Pi Estimation using Integers
+Why is empty set an open set?
+Mosquito in the Room (Puzzle)
+Does &quot;cheap nonstandard analysis&quot; take place in a topos?
+A conjectural closed form for $\sum\limits_{n=0}^\infty\frac{n!\,(2n)!}{(3n+2)!}$
+Good math bed-time stories for children?
+Prove $\int_0^1\frac{x^2-2\,x+2\ln(1+x)}{x^3\,\sqrt{1-x^2}}\mathrm dx=\frac{\pi^2}8-\frac12$
+The milk sharing problem
+Why does the graph of $e^{1/z}$ look like a dipole?
+What exactly are fractals
+Is it necessary that every function is a derivative of some function?
+Is Frobenius the only magical automorphism?
+Why are integrals called integrals?
+Generalization of Liouville&#39;s theorem
+Very tight prime bounds
+Are weird numbers more rare than prime numbers?
+How to obtain $f(x)$, if it is known that $f(f(x))=x^2+x$?
+Find the value of $\sqrt{10\sqrt{10\sqrt{10...}}}$
+Are most rational quintics unsolvable?
+Evaluating $\int_0^1 x \tan(\pi x) \log(\sin(\pi x))dx$
+Function whose third derivative is itself.
+How can we measure how &quot;irrational&quot; a number is?
+System of 4 tedious nonlinear equations: $ (a+k)(b+k)(c+k)(d+k) = $ constant for $1 \le k \le 4$
+What is the *middle* digit of $3^{100000}$?
+Is every composite number the average of two primes?
+Why can&#39;t three unit regular triangles cover a unit square?
+What is an elliptic curve, and how are they used in cryptography?
+How do you define functions for non-mathematicians?
+Identity involving Euler&#39;s totient function: $\sum \limits_{k=1}^n \left\lfloor \frac{n}{k} \right\rfloor \varphi(k) = \frac{n(n+1)}{2}$
+How do I explain 2 to the power of zero equals 1 to a child
+Checking if a number is a Fibonacci or not?
+Quotient geometries known in popular culture, such as &quot;flat torus = Asteroids video game&quot;
+How do I tell if matrices are similar?
+Set Theoretic Definition of Numbers
+Universal Chord Theorem
+Does the equation $x^4+y^4+1 = z^2$ have a non-trivial solution?
+Why should we care about groups at all?
+Chance of getting a date
+Can the sums of two sequences of reciprocals of consecutive integers be equal?
+Is this space contractible?
+Formerly good at math, but after 12 years I&#39;ve lost most of my skills. Now I need them once again. Any advice to grow them back?
+Expected time to roll all 1 through 6 on a die
+Explicitly reconstructing a function from its moments
+Applying Freyd-Mitchell&#39;s embedding theorem on large categories
+Explain $\iint \mathrm dx\mathrm dy = \iint r \mathrm d\alpha\mathrm dr$
+Prove that if $(ab)^i = a^ib^i \forall a,b\in G$ for three consecutive integers $i$ then G is abelian
+How to find a random axis or unit vector in 3D?
+Why does this distribution of polynomial roots resemble a collection of affine IFS fractals?
+How does $ \sum_{p&lt;x} p^{-s} $ grow asymptotically for $ \text{Re}(s) &lt; 1 $?
+Partial differential equations in &quot;pure mathematics&quot;
+A fun Pascal-like triangle
+Difference between bijection and isomorphism?
+Can you raise a number to an irrational exponent?
+Integrate square of the log-sine integral: $\int_0^{\frac{\pi}{2}}\ln^{2}(\sin(x))dx$
+tough integral involving $\sin(x^2)$ and $\sinh^2 (x)$
+Why do we use a Least Squares fit?
+What are the numbers before and after the decimal point referred to in mathematics?
+Set of continuity points of a real function
+Natural and coordinate free definition for the Riemannian volume form?
+How can I learn to &quot;read maths&quot; at a University level?
+An example of an easy to understand undecidable problem
+When can a sum and integral be interchanged?
+Fermat&#39;s Last Theorem and Kummer&#39;s Objection
+Learning Roadmap for Algebraic Topology
+Why does the Dedekind Cut work well enough to define the Reals?
+Run away from lions in a cage
+will 3 lights illuminate convex solid
+Classical texts that should not be missing from any shelf
+Mathematics understood through poems?
+Does every set have a group structure?
+Does $2x^2-1=y^5$ have a solution in integers, with $y&gt;1$?
+Lemma vs. Theorem
+Proving an &quot;amazing&quot; claim regarding $\zeta( 3)$ and Ap&#233;ry&#39;s proof
+$\int_{0}^{\infty} \frac{\cos x - e^{-x^2}}{x} \ dx$ Evaluate Integral
+Books about the Riemann Hypothesis
+Ideals of $\mathbb{Z}[X]$
+Evaluation of $\int_0^{\pi/3} \ln^2\left(\frac{\sin x }{\sin (x+\pi/3)}\right)\,\mathrm{d}x$
+Which infinity is meant in limits?
+What could be better than base 10?
+Closed form for $\sum_{n=1}^\infty\frac{1}{2^n\left(1+\sqrt[2^n]{2}\right)}$
+Three against the devil: a combinatorial game
+What&#39;s the mean of all real numbers?
+Are We Teaching Pre-Calc Wrong?
+Are there open problems in Linear Algebra?
+Rational + irrational = always irrational?
+Why is $(2+\sqrt{3})^{50}$ so close to an integer?
+Closed form for $\int_0^1\sqrt{\frac{2-x}{(1-x)\,x}}\,\log\left(\frac{(2-x)\,x}{1-x}\right)dx$
+Mathematics textbooks with history and/or motivation?
+Find the limit $L=\lim_{n\to \infty} \sqrt{\frac{1}{2}+\sqrt[3]{\frac{1}{3}+\cdots+\sqrt[n]{\frac{1}{n}}}}$
+Are elementary and generalized hypergeometric functions sufficient to express all algebraic numbers?
+Convergence of a series with repeated sines
+Prove that $\int_0^1{\left\lfloor{1\over x}\right\rfloor}^{-1}\!dx={1\over2^2}+{1\over3^2}+{1\over4^2}+\cdots.$
+Best way to express 2014
+Integral $\int_0^1\frac{1-x^2+\left(1+x^2\right)\ln x}{\left(x+x^2\right)\ln^3x}dx$
+How to prove this inequality? $\frac{x^2}{y}+\frac{y^2}{z}+\frac{z^2}{x}\ge 4+(x-y)^2$
+Create a Huge Problem
+$\ln|x|$ vs.$\ln(x)$? When is the $\ln$ antiderivative marked as an absolute value?
+Algebra: What allows us to do the same thing to both sides of an equation?
+Stronger version of AMM problem 11145 (April 2005)?
+Can a Mersenne number ever be a Carmichael number?
+Closed form for ${\large\int}_0^1\frac{\ln^2x}{\sqrt{1-x+x^2}}dx$
+Does $1.0000000000\cdots 1$ with an infinite number of $0$ in it exist?
+Integral Contest
+Geometric mean of reals between 0 and 1
+Is $i = \sqrt{e^{\pi\sqrt{e^{\pi\sqrt\ldots}}}}$?
+When should I be doing cohomology?
+What is a function?
+How are first digits of $\pi$ found?
+Is the number $-1$ prime?
+What is your favorite online graphing tool?
+Is $0$ a natural number?
+Are there any interesting semigroups that aren&#39;t monoids?
+Explanation of method for showing that 0 / 0 is undefined
+How do you prove that a prime is the sum of two squares iff it is congruent to 1 mod 4?
+Is the rank of a matrix the same of its transpose? If yes, how can I prove it?
+Could you explain why $\frac{d}{dx} e^x = e^x$ &quot;intuitively&quot;?
+&quot;Cayley&#39;s theorem&quot; for Lie algebras?
+What&#39;s the difference between predicate and propositional logic?
+Intuition behind conjugation in group theory
+Is there an easy way to show which spheres can be Lie groups?
+Is every Lebesgue measurable function on $\mathbb{R}$ the pointwise limit of continuous functions?
+$\pi_{1}({\mathbb R}^{2} - {\mathbb Q}^{2})$ is uncountable
+Why is the tensor product important when we already have direct and semidirect products?
+why is $\sum\limits_{k=1}^{n} k^m$ a polynomial with degree $m+1$ in $n$
+Center-commutator duality
+Do odd imaginary numbers exist?
+On calculating $\int_0^1\ln(1-x^2)\;{\mathrm dx}$ -- where is the mistake?
+Given two basis sets for a finite Hilbert space, does an unbiased vector exist?
+Why is Infinity multiplied by Zero not an easy Zero answer?
+Math Major: How to read textbooks in better style or method ? And how to select best books?
+Subjects studied in number theory
+Isomorphic quotients by isomorphic normal subgroups
+Odds of winning at minesweeper with perfect play
+how to find the balls?
+What can we say of a group all of whose proper subgroups are abelian?
+How should I approach taking math tests?
+Are the axioms for abelian group theory independent?
+What algorithm is used by computers to calculate logarithms?
+Sequence of numbers with prime factorization $pq^2$
+Union of two vector subspaces not a subspace?
+What do eigenvalues have to do with pictures?
+Generalizing the trick for integrating $\int_{-\infty}^\infty e^{-x^2}\mathrm dx$?
+Rounding is asymptotically useless?
+Application of Hilbert&#39;s basis theorem in representation theory
+Dividing a square into equal-area rectangles
+How to avoid arithmetic mistakes?
+Are there ways of finding the $n$-th derivative of a function without computing the $(n-1)$-th derivative?
+Why does the Hilbert curve fill the whole square?
+Prove that the product of four consecutive positive integers plus one is a perfect square
+Guaranteed Checkmate with Rooks in High-Dimensional Chess
+Evaluating $\int_0^\infty \sin x^2\, dx$ with real methods?
+Expiring coupon collector&#39;s problem
+Is there a bijective map from $(0,1)$ to $\mathbb{R}$?
+What are the required backgrounds of Robin Hartshorne&#39;s Algebraic Geometry book?
+Math every mathematician should know
+Prove $\int_0^\infty \frac{\ln \tan^2 (ax)}{1+x^2}\,dx = \pi\ln \tanh(a)$
+Where does the word &quot;torsion&quot; in algebra come from?
+How do I understand $e^i$ which is so common?
+Can a collection of points be recovered from its multiset of distances?
+What&#39;s the best way to measure mathematical ability?
+Is this way of teaching how to solve equations dangerous somehow?
+English words in written mathematics
+Why is $\frac{1}{\frac{1}{0}}$ undefined?
+$\int_0^\pi\frac{3\cos x+\sqrt{8+\cos^2 x}}{\sin x}x\ \mathrm dx$
+Why do we believe the Church-Turing Thesis?
+How did we know to invent homological algebra?
+What does it mean to divide a complex number by another complex number?
+Conjecture: Every analytic function on the closed disk is conformally a polynomial.
+Find $a,b,c,d,e$ such that $\dfrac{s}a+1,\dfrac{s}b+1,\dfrac{s}c+1,\dfrac{s}d+1,\dfrac{s}e+1$ are all perfect squares $ (s=abcde)$
+Limit of recursive sequence $a_{n+1} = \frac{a_n}{1- \{a_n\}}$
+Evaluating $‎\sum_{n=2}^{\infty}\frac{\zeta(n)}{k^n}$
+If $\left(1^a+2^a+\cdots+n^{a}\right)^b=1^c+2^c+\cdots+n^c$ for some $n$, then $(a,b,c)=(1,2,3)$?
+Cool mathematics I can show to calculus students.
+What is the antiderivative of $e^{-x^2}$
+Closed form for $\int_0^1\frac{x^{5/6}}{(1-x)^{1/6}\,(1+2\,x)^{4/3}}\log\left(\frac{1+2x}{x\,(1-x)}\right)\,dx$
+A closed form for $\int_0^1{_2F_1}\left(-\frac{1}{4},\frac{5}{4};\,1;\,\frac{x}{2}\right)^2dx$
+What are the applications of continued fractions?
+Can this ant find its way back to the nest?
+Other interesting consequences of $d=163$?
+How prove this function $f(x)=x!-x^n$ is injective
+How prove there is no continuous functions $f:[0,1]\to \mathbb R$, such that $f(x)+f(x^2)=x$.
+Can you give me some concrete examples of magmas?
+Gift advice: present for high school graduate interested in math
+Area of a part of a square
+Why doesn&#39;t mathematical induction work backwards or with increments other than 1?
+**Ended Competition:** What is the shortest proof of $\exists x \forall y (D(x) \to D(y)) $?
+Evaluating the sum $\lim_{n\to \infty}\sqrt[2]{2+\sqrt[3]{2+\sqrt[4]{2+\cdots+\sqrt[n]{2}}}}$
+Complex analysis is more &quot;real&quot; than real analysis
+Determinant of a non-square matrix
+Denesting radicals like $\sqrt[3]{\sqrt[3]{2} - 1}$
+Logic behind dividing negative numbers
+Simulate a 7-sided die with a 6-sided die
+A sum containing harmonic numbers $\sum_{n=1}^\infty\frac{H_n}{n^3\,2^n}$
+Is $\sum_{n=1}^\infty \frac{\sin(2n)}{1+\cos^4(n)}$ convergent?
+How many lists of 100 numbers (1 to 10 only) add to 700?
+Are Mersenne prime exponents always odd?
+Prove Existence of a Circle
+% of % - Please Help Me Prove My Friend Wrong
+Nonobvious examples of metric spaces that do not work like $\mathbb{R}^n$
+Is it OK to evaluate improper integrals this way?
+How to prove that $\frac{\zeta(2) }{2}+\frac{\zeta (4)}{2^3}+\frac{\zeta (6)}{2^5}+\frac{\zeta (8)}{2^7}+\cdots=1$?
+Prove or disprove a claim related to $L^p$ space
+Understanding Dot and Cross Product
+Intuitive understanding of the derivatives of $\sin x$ and $\cos x$
+Cardinality of set of real continuous functions
+Why does a minimal prime ideal consist of zerodivisors?
+Does a Person Need a Mathematics Degree in order to Publish in a Mathematics jounal?
+Existence of a normal subgroup with $|\operatorname{Aut}{(H)}|&gt;|\operatorname{Aut}{(G)}|$
+Square root of a function (in the sense of composition)
+Series converges implies $\lim{n a_n} = 0$
+Are there infinitely many $x$ for which $\pi(x) \mid x$?
+Is there a known well ordering of the reals?
+Areas versus volumes of revolution: why does the area require approximation by a cone?
+Lebesgue integral basics
+why have we chosen our number system to be decimal (base 10)
+Optimal yarn balls
+$e^{e^{e^{79}}}$ and ultrafinitism
+Proving that the sequence $F_{n}(x)=\sum\limits_{k=1}^{n} \frac{\sin{kx}}{k}$ is boundedly convergent on $\mathbb{R}$
+If a 1 meter rope is cut at two uniformly randomly chosen points, what is the average length of the smallest piece?
+Random Variable Inequality
+On nonintersecting loxodromes
+What is to geometric mean as integration is to arithmetic mean?
+Contributions of Galois Theory to Mathematics
+Structure Theorem for abelian torsion groups that are not finitely generated
+Why should I care about adjoint functors
+$\operatorname{tr}(AABABB) = \operatorname{tr}(AABBAB)$ for $2&#215;2$ matrices
+Relation between the Dedekind Zeta Function and Quadratic Reciprocity
+Reference request: introduction to commutative algebra
+The set of differences for a set of positive Lebesgue measure
+Proof of recursive formula for &quot;fusible numbers&quot;
+Why do some Fibonacci numbers appear in an approximation for $e^{\pi\sqrt{163}}$?
+Real world applications of prime numbers?
+Volume of Region in 5D Space
+Geometry or topology behind the &quot;impossible staircase&quot;
+A probabilistic game with balls and urns
+Who invented $\vee$ and $\wedge$, $\forall$ and $\exists$?
+Why is the Jordan Curve Theorem not &quot;obvious&quot;?
+Proving : $ \bigl(1+\frac{1}{n+1}\bigr)^{n+1} \gt (1+\frac{1}{n})^{n} $
+Rejecting infinity
+Why does volume go to zero?
+Seeking a layman&#39;s guide to Measure Theory
+Are these two Banach spaces isometrically isomorphic?
+Proof that a natural number multiplied by some integer results in a number with only one and zero as digits
+&quot;Immediate&quot; Applications of Differential Geometry
+What is the Picard group of $z^3=y(y^2-x^2)(x-1)$?
+The category of compact metric spaces
+Easy way to show that $\mathbb{Z}[\sqrt[3]{2}]$ is the ring of integers of $\mathbb{Q}[\sqrt[3]{2}]$
+What can we learn about a group by studying its monoid of subsets?
+Sanity check about Wikipedia definition of differentiable manifold as a locally ringed space
+Are sines of primes dense in $[-1,1]?$
+Computing $\zeta(6)=\sum\limits_{k=1}^\infty \frac1{k^6}$ with Fourier series.
+What do the eigenvectors of an adjacency matrix tell us?
+Asymptotic (divergent) series
+Why do engineers use the Z-transform and mathematicians use generating functions?
+How to prove that $\int_0^1\left(\sum_{k=n}^\infty {x^k\over k}\right)^2\,dx = \int_0^1 2x^{n-1}\log\left(1+{1\over\sqrt{x}}\right)\,dx.$
+Why isn&#39;t the 3 body problem solvable?
+How to tell $i$ from $-i$?
+Show $\int_{0}^{\frac{\pi}{2}}\frac{x^{2}}{x^{2}+\ln^{2}(2\cos(x))}dx=\frac{\pi}{8}\left(1-\gamma+\ln(2\pi)\right)$
+Why is the last digit of $n^5$ equal to the last digit of $n$?
+When is the product of $n$ subgroups a subgroup?
+What&#39;s a good place to learn Lie groups?
+Limit of sequence of growing matrices
+Six Frogs - Puzzle
+Evaluate:: $ 2 \sum_{n=1}^\infty \frac{(-1)^{n+1}}{n+1}\left( 1 + \frac12 +\cdots + \frac 1n\right) $
+Roadmap to study Atiyah-Singer index theorem
+What is category theory useful for?
+Information-theoretic aspects of mathematical systems?
+Are there infinite sets of axioms?
+Do free online collaborative solution manuals exist?
+Pure Mathematics Vs Applied Mathematics Job Prospects
+When is Stone-Čech compactification the same as one-point compactification?
+What does the group ring $\mathbb{Z}[G]$ of a finite group know about $G$?
+Is $\mathbb{N}$ impossible to pin down?
+Uniform convergence of $\sum_{n=1}^{\infty} \frac{\sin(n x) \sin(n^2 x)}{n+x^2}$
+&quot;It looks straightforward, but actually it isn&#39;t&quot;
+Proving $\sum_{n=-\infty}^\infty e^{-\pi n^2} = \frac{\sqrt[4] \pi}{\Gamma\left(\frac 3 4\right)}$
+Distribution of roots of complex polynomials
+Find $f(x)$ such that $f(f(x)) = x^2 - 2$
+When is $2^n \pm 1$ a perfect power
+Are there other cases similar to Herglotz&#39;s integral $\int_0^1\frac{\ln\left(1+t^{4+\sqrt{15}}\right)}{1+t}\ \mathrm dt$?
+Why is ${x^{\frac{1}{2}}}$ the same as $\sqrt x $?
+Integral $\int_0^1\frac{\ln x}{\left(1+x\right)\left(1+x^{-\left(2+\sqrt3\right)}\right)}dx$
+Show $(1+\frac{1}{3}-\frac{1}{5}-\frac{1}{7}+\frac{1}{9}+\frac{1}{11}-\cdots)^2 = 1+\frac{1}{9}+\frac{1}{25}+\frac{1}{49} + \cdots$
+Why are so many of the oldest unsolved problems in mathematics about number theory?
+Active learning vs Passive learning in Math
+Geometric explanation of $\sqrt 2 + \sqrt 3 \approx \pi$
+Prove that a counterexample exists without knowing one
+Statistics Primer for the Unwary Mathematician
+Closed form for $\int_0^{\pi/2}\frac{\sqrt{1+\sin\phi}}{\sqrt{\sin2\phi}\,\sqrt{\sin\phi+\cos\phi}}d\phi$
+Is $ \sum\limits_{n=1}^\infty \frac{|\sin n|^n}n$ convergent？
+How does one cut onions in a mathematically efficient way?
+Why do differential forms have a much richer structure than vector fields?
+Ways to study mathematics while commuting
+Soviet Russian Mathematical Books
+For integers $a\ge b\ge 2$, is $f(a,b) = a^b + b^a$ injective?
+How much gas does a car use to carry its own gas?
+Closed form for the integral $\int_{0}^{\infty}\frac{\ln^{2}(x)\ln(1+x)}{(1-x)(x^{2}+1)}dx$
+Prove $\displaystyle \int_{0}^{\pi/2} \ln \left(x^{2} + (\ln\cos x)^2 \right) \, dx=\pi\ln\ln2 $
+What Gauss *could* have meant?
+Very *mathematical* general physics book
+Is it possible to write a sum as an integral to solve it?
+Closed form of $\displaystyle\mathscr{R}=\int_0^{\frac{\pi}{2}}\sin^2x\,\ln\big(\sin^2(\tan x)\big)\,\,dx$
+Why do proof authors use natural language sentences to write proofs?
+Genius mathematicians who never published anything
+X&#39;mas Combinatorics
+Avoiding proof by induction
+Prove that $\frac{a^n-1}{b^n-1}$ and $\frac{a^{n+1}-1}{b^{n+1}-1}$ can&#39;t both be prime.
+Simple explanation of a monad
+Why can&#39;t the Polynomial Ring be a Field?
+Does the number pi have any significance besides being the ratio of a circle&#39;s diameter to its circumference?
+The right &quot;weigh&quot; to do integrals
+Why are very large prime numbers important in cryptography?
+Kindle as a Tool for Mathematicians?
+Computing the Chern-Simons invariant of SO(3)
+Have I made a straight line, or a circle?
+Calculator algorithms
+Elementary proof that $2x^2+xy+3y^2$ represents infinitely many primes?
+When is an elliptic integral expressible in terms of elementary functions?
+Simplicity of $A_n$
+Ramanujan&#39;s First Letter to Hardy and the Number of $3$-Smooth Integers
+Useful sufficient conditions for a topological space to be the underlying space of a topological group?
+Is every Compact $n$-Manifold a Compactification of $\mathbb{R}^n$?
+Cauchy&#39;s Integral Formula for Cayley-Hamilton Theorem
+Which is bigger?
+Intuitive Understanding of the constant &quot;e&quot;
+What is an intuitive explanation for $\operatorname{div} \operatorname{curl} F = 0$?
+Arbitrary intersection of closed, connected subsets of a compact space connected?
+Diophantine applications of Spec?
+Intuitive use of logarithms
+elliptic functions on the 17 wallpaper groups
+Difference between metric and norm made concrete: The case of Euclid
+Is $\pi$ more transcendent than $e$?
+The Duals of $l^\infty$ and $L^{\infty}$
+Consequences of Degree Theory
+Why $\sqrt{-1 \times -1} \neq \sqrt{-1}^2$?
+A Universal Property Defining Connected Sums
+A stronger version of discrete &quot;Liouville&#39;s theorem&quot;
+Prove that every year has at least one Friday the 13th
+How to tell if some power of my integer matrix is the identity?
+In set theory, how are real numbers represented as sets?
+Every power series is the Taylor series of some $C^{\infty}$ function
+If a continuous function is positive on the rationals, is it positive almost everywhere?
+What is the cardinality of the set of all topologies on $\mathbb{R}$?
+How to search the internet for strings that consist mostly of math notation?
+New to probability - Is this true?
+When did Fubini&#39;s name get applied to the theorem without measures?
+Prove: $\binom{n}{k}^{-1}=(n+1)\int_{0}^{1}x^{k}(1-x)^{n-k}dx$ for $0 \leq k \leq n$
+Prove $2^{1/3}$ is irrational.
+When to skip sections of a book when self-studying?
+Is $\mathbf{Q}(\sqrt{2}, \sqrt{3}) = \mathbf{Q}(\sqrt{2}+\sqrt{3})$?
+Are Primes a Self-Fulfilling Prophecy?
+Original works of great mathematician &#201;variste Galois
+Mathematical toys?
+Possibility to simplify $\sum\limits_{k = - \infty }^\infty {\frac{{{{\left( { - 1} \right)}^k}}}{{a + k}} = \frac{\pi }{{\sin \pi a}}} $
+Finding a primitive root of a prime number
+Is Mega Millions Positive Expected Value?
+Computing $ \sum\limits_{i=1}^{\infty}\sum\limits_{j=1}^{\infty} \frac{(-1)^{i+j}}{i+j}$
+Does local convexity imply global convexity?
+A few questions about intuitionistic mathematics
+Are there examples that suggest the Riemann Hypothesis might be false?
+Computing ${\int\limits_{0}^{\chi}\int\limits_{0}^{\chi}\int\limits_{0}^{2\pi}\sqrt{1- \cdots} \, d\phi \, d\theta_1 \, d\theta_2}$?
+Can $G≅H$ and $G≇H$ in two different views?
+Which sets are removable for holomorphic functions?
+What is a good book to study linear algebra?
+Complex Analysis Book
+Famous papers in algebraic geometry
+Why Zariski topology?
+Good ways to help people learn math.
+Why is the Daniell integral not so popular?
+A prime number pattern
+Iterated exponent of $i$
+Is the vector cross product only defined for 3D?
+Calculus proof for the area of a circle
+Showing that $\frac{\sqrt[n]{n!}}{n}$ $\rightarrow \frac{1}{e}$
+Is the set of all valid C++ programs countably infinite?
+When is $1^5 + 2^5 + \ldots + n^5$ a square?
+$\sum k! = 1! +2! +3! + \cdots + n!$ ,is there a generic formula for this?
+Limit of $L^p$ norm
+Two squares in a box.
+Why isn&#39;t the inverse of the function $x\mapsto x+\sin(x)$ expressible in terms of &quot;the functions one finds on a calculator&quot;?
+PDEs on manifold: what changes from Euclidean case?
+Where do Cantor sets naturally occur?
+A nasty integral of a rational function
+A question about series with a strange property.
+Evaluate $\int_0^1\ln(1-x)\ln x\ln(1+x) \mathrm{dx}$
+A limit wrong using Wolfram Alpha
+What is wrong with this fake proof $e^i = 1$?
+If two definite integrals are equal, does there exist a chain of substitutions and/or partial integrations which will get us from one to the other?
+In a group we have $abc=cba$. Is it abelian?
+Square matrices satisfying certain relations must have dimension divisible by $3$
+Can the matrices $A$ and $I+A$ have the same determinant?
+Where are the values of the sine function coming from?
+Patterns of the zeros of the Faulhaber polynomials (modified)
+Intuition on fundamental theorem of arithmetic
+Is every function with the intermediate value property a derivative?
+$\int_0^1\mathrm{d} u_1 \cdots \int_0^1\mathrm{d} u_n \frac{\delta(1-u_1-\cdots-u_n)}{(u_1+u_2)(u_2+u_3)\cdots(u_{n-1}+u_n)(u_n+u_1)}$
+Closed form for $\sum_{n=1}^\infty\frac{\psi(n+\frac{5}{4})}{(1+2n)(1+4n)^2}$
+$\int_0^1\arctan\,_4F_3\left(\frac{1}{5},\frac{2}{5},\frac{3}{5},\frac{4}{5};\frac{1}{2},\frac{3}{4},\frac{5}{4};\frac{x}{64}\right)\,\mathrm dx$
+About the property of $m$: if $n &lt; m$ is co-prime to $m$, then $n$ is prime
+A beautiful limit involving primes and composites
+rock, paper, scissors, well
+Is $ \pi $ definable in $(\Bbb R,0,1,+,&#215;, &lt;,\exp) $?
+Computing $ \int_0^\infty \frac{\log x}{\exp x} \ dx $
+Is $\{0\}$ a field?
+Interesting Math for 3-graders
+How can I show that $\sqrt{1+\sqrt{2+\sqrt{3+\sqrt\ldots}}}$ exists?
+Find the value of $\space\large i^{i^i}$?
+Is mathematical history written by the victors?
+Factorize $(x+1)(x+2)(x+3)(x+6)- 3x^2$
+Generalized Euler sum $\sum_{n=1}^\infty \frac{H_n}{n^q}$
+Level of Rigor in Mathematical Physics
+Linear independence of the numbers $\{1,e,e^2,e^3\}$
+Evaluating $\sum_{n=1}^{\infty} \frac{1}{n^{3} \binom{2n}{n}} $
+Word origin / meaning of &#39;kernel&#39; in linear algebra
+Integral $\int_0^1\ln\ln\,_3F_2\left(\frac{1}{4},\frac{1}{2},\frac{3}{4};\frac{2}{3},\frac{4}{3};x\right)\,dx$
+Integral $\int_0^\infty\left(x+5\,x^5\right)\operatorname{erfc}\left(x+x^5\right)\,dx$
+Integrating $\int_0^ex^{1/x}\ \mathrm dx$
+31,331,3331, 33331,333331,3333331,33333331 are prime
+A closed form for $\int_0^\infty\frac{\ln(x+4)}{\sqrt{x\,(x+3)\,(x+4)}}dx$
+How find this sum $\sum\limits_{n=0}^{\infty}\frac{1}{(3n+1)(3n+2)(3n+3)}$
+Integral $\int_0^\infty{_1F_2}\left(\begin{array}{c}\tfrac12\\1,\tfrac32\end{array}\middle|-x\right)\frac{dx}{1+4\,x}$
+How prove this matrix $\det (A)=\left(\frac{1}{\ln{(a_{i}+a_{j})}}\right)_{n\times n}\neq 0$
+Triple Euler sum result $\sum_{k\geq 1}\frac{H_k^{(2)}H_k }{k^2}=\zeta(2)\zeta(3)+\zeta(5)$
+Cannabis Equation
+I&#39;m a teenager hoping to become a mathematician, but math isn&#39;t my forte. Is it possible?
+Proofs of AM-GM inequality
+Any natural number is greater than or equal to its product of digits.
+Constructing a M&#246;bius strip using a square paper? Is it possible?
+Tell me problems that can trick you
+Are there contradictions in math?
+Should I understand a theorem&#39;s proof before using the theorem?
+What is an example of real application of cubic equations?
+Making Friends around a Circular Table
+A closed form for a lot of integrals on the logarithm
+Geometric intuition for $\pi /4 = 1 - 1/3 + 1/5 - \cdots$?
+Zombie outbreak on a $k$-regular graph
+What is Abstract Algebra essentially?
+Lamport claims there is an error in Kelley&#39;s proof of the Schroeder-Bernstein theorem. What is it?
+Finding every $n$ such that $a_n$ is an integer
+Produce unique number given two integers
+Mathematical literature to lose yourself in
+How to find ${\large\int}_1^\infty\frac{1-x+\ln x}{x \left(1+x^2\right) \ln^2 x} \mathrm dx$
+What is the least $n$ such that it is possible to embed $\operatorname{GL}_2(\mathbb{F}_5)$ into $S_n$?
+Integral of Combination Log and Inverse Trig Function
+A beautiful game of gold and silver coins
+Great contributions to mathematics by older mathematicians
+Generalisation of $(n+3)^2-(n+2)^2-(n+1)^2+n^2=4$
+How to find center of a circle from only an arbitary arc of that circle
+Are there many fewer rational numbers than reals?
+Sum of all integers
+How do mathematicians find formulas?
+Can you recommend a decent online or software calculator?
+How do I count the subsets of a set whose number of elements is divisible by 3? 4?
+Why is the Hilbert Cube homogeneous?
+What is $\sqrt{i}$?
+Purely combinatorial proof that$ (e^x)&#39; = e^x$
+Beautiful identity: $\sum_{k=m}^n (-1)^{k-m} \binom{k}{m} \binom{n}{k} = \delta_{mn}$
+How to start with mathematics?
+Vivid examples of vector spaces?
+Order of elements in abelian groups
+The order of the number of integer pairs satisfying certain arithmetical function relationships
+Smooth functions for which $f(x)$ is rational if and only if $x$ is rational
+What is Jacobian Matrix?
+An example of a real-world map that is not 4-colourable?
+Norms on C[0, 1] inducing the same topology as the sup norm
+Galois groups of polynomials and explicit equations for the roots
+A finite ring is a field if its units $\cup\ \{0\}$ comprise a field of characteristic $\ne 2$
+Number of local maxima of a function 
+What concept does an open set axiomatise?
+Non-linear partial differential equation
+Which simple puzzles have fooled professional mathematicians?
+References for the multivariable calculus
+Ph.D. admission in the US/UK: How is an M.Sc. regarded?
+Teaching Introductory Real Analysis
+In what sense is Taniyama-Shimura the $n=2$ case of Langlands?
+Ellipse 3-partition: same area and perimeter
+$f(x+1)=f(x)+1$ and $f(x^2)=f(x)^2$
+What are Belgium&#39;s chances on getting a medal at the 400m finals, given that they have 2 of the 8 athletes?
+Is there a name for this strange solution to a quadratic equation involving a square root?
+What is a universal property?
+Where can I find the old papers of the Math Tripos?
+Measurability of $\xi$ in the mean value theorem
+Uses of $\lim \limits_{h\to 0} \frac{f(x+h)-f(x-h)}{2h}$
+Does $ \int_0^{\infty}\frac{\sin x}{x}dx $ have an improper Riemann integral or a Lebesgue integral?
+Tricky contour integral resulting from the integration of $\sin ax / (x^2+b^2)$ over the positive halfline
+Why is $\mathbb{Z}[\sqrt{-n}]$ not a UFD?
+How slow/fast can $L^p$ norm grow?
+Prove that $\lim \limits_{n \to \infty} \frac{x^n}{n!} = 0$, $x \in \Bbb R$.
+Smallest order for finite group that needs many elements to generate it
+Percentage of primes among the natural numbers
+How to use the Extended Euclidean Algorithm manually?
+Proving $ \int_{0}^{\infty} \frac{\ln(t)}{\sqrt{t}}e^{-t} \mathrm dt=-\sqrt{\pi}(\gamma+\ln{4})$
+Foundation for analysis without axiom of choice?
+Is a good GRE score enough for a non-math graduate to be accepted in a decent pure mathematics graduate program?
+Is Sage on the same level as Mathematica or Matlab for graph theory and graph visualization?
+How many primes does Euclid&#39;s proof account for?
+Mind maps of Advanced Mathematics and various branches thereof
+If we define $\sin x$ as series, how can we obtain the geometric meaning of $\sin x$?
+Countability of the zero set of a real polynomial
+Direct Proof that $1 + 3 + 5 + \cdots+ (2n - 1) = n\cdot n$
+$ \lim\limits_{n \to{+}\infty}{\sqrt[n]{n!}}$ is infinite
+Where to begin with foundations of mathematics
+How many zeroes are in 100!
+Examples of mathematicians who lost interest in Math and got interested again?
+$m!n! &lt; (m+n)!$ Proof?
+Is it possible for a quadratic equation to have one rational root and one irrational root?
+Polynomials irreducible over $\mathbb{Q}$ but reducible over $\mathbb{F}_p$ for every prime $p$
+Is there a purely algebraic proof of the Fundamental Theorem of Algebra?
+Is there an easy way to see associativity or non-associativity from an operation&#39;s table?
+When is an infinite product of natural numbers regularizable?
+Accidents of small $n$
+Is the square root of -1 rational?
+How to compute rational or integer points on elliptic curves
+Is there no solution to the blue-eyed islander puzzle?
+Does there exist a sequence $\{a_n\}_{n\ge1}$ with $a_n &lt; a_{n+1}+a_{n^2}$ such that $\sum_{n=1}^{\infty}a_n$ converges?
+Prove $\int_0^1 \frac{t^2-1}{(t^2+1)\log t}dt = 2\log\left( \frac{2\Gamma \left( \frac{5}{4}\right)}{\Gamma\left( \frac{3}{4}\right)}\right)$
+Implies vs. Entails vs. Provable
+New twist on a Putnam problem
+Paracompactness of CW complexes (rather long)
+Prove the determinant of this matrix
+Why don&#39;t Venn diagrams count as formal proofs?
+Evaluate $\sum\limits_{k=1}^{\infty} \frac{k^2-1}{k^4+k^2+1}$
+Methods to find $\lim\limits_{n\to\infty} \frac{1}{n} \sum_{k=1}^{n} n^{1/k} $
+Coordinate-free proof of $\operatorname{Tr}(AB)=\operatorname{Tr}(BA)$?
+Is the inverse of a symmetric matrix also symmetric?
+How can I prove that $xy\leq x^2+y^2$?
+Showing a filter on the Power set of $\mathbb{Z}$ is a one point Filter
+Possible Playable Chords on a Guitar
+Integrating $\int^{\infty}_0 e^{-x^2}\,dx$ using Feynman&#39;s parametrization trick
+square cake with raisins
+Comparing $\sqrt{1001}+\sqrt{999}\ , \ 2\sqrt{1000}$
+Is $1847^{2013}+2$ really a prime?
+Understanding mathematics imprecisely
+Is there an exposition of complex analysis firmly separating the algebra, analysis, and topology?
+Why is this true? $(\exists x)(P(x) \Rightarrow (\forall y) P(y))$
+Find closed form for $1, 2, 2, 3, 4, 4, 5, 6, 6, 7, 8, 8, 9, 10, 10, \ldots$
+Prove that $\frac{100!}{50!\cdot2^{50}} \in \Bbb{Z}$
+Is it possible to have multiple decimal points in a number?
+Reasoning that $ \sin2x=2 \sin x \cos x$
+Is there a Hausdorff space $X$ separating points of any Hausdorff space?
+Power towers: to infinity and all the way back
+Is it possible to put $+$ or $-$ signs in such a way that $\pm 1 \pm 2 \pm \cdots \pm 100 = 101$?
+Weber-type integral
+A conjectured closed form of $\int_0^\infty\frac{x-1}{\sqrt{2^x-1}\ \ln\left(2^x-1\right)}dx$
+Algebraic numbers that cannot be expressed using integers and elementary functions
+Integral $\int_0^\infty\frac{1}{x\,\sqrt{2}+\sqrt{2\,x^2+1}}\cdot\frac{\log x}{\sqrt{x^2+1}}\mathrm dx$
+Conjectured closed form for $\int_0^1x^{2\,q-1}\,K(x)^2dx$ where $K(x)$ is the complete elliptic integral of the 1ˢᵗ kind
+Expected length of the shortest polygonal path connecting random points
+How to develop intuition in topology?
+Integral $\int_0^\infty\frac{\ln\left(1+x+\sqrt{x^2+2\,x}\right)\,\ln\left(1+\sqrt{x^2+2\,x+2}\right)}{x^2+2x+1}dx$
+Need help with $\int_0^\infty e^{-x}\ln\ln\left(e^x+\sqrt{e^{2x}-1}\right)\,dx$
+How to prove $\sum_{n=0}^{\infty} \frac{n^2}{2^n} = 6$?
+Are most matrices invertible?
+How many positive integers $&lt; 1{,}000{,}000$ contain the digit $2$?
+If there are entire $G_k$s such that $f=\exp\circ\exp\circ\cdots \circ\exp\circ G_k$ ($k$ times), must $f$ be constant?
+Does the series $\sum_{n=1}^\infty\frac{\sin n}{\ln n+\cos n}$ converge?
+Does this sequence have any mathematical significance?
+Is this graph connected
+Two dice thrown, one comes up 6
+Can&#39;t find mistake in an easy proof.
+Demonstration that 0 = 1
+Prove that both $x+y$ and $xy$ are rational, under some conditions
+Can you cancel out a term if equal to zero?
+Does my &quot;Prime Factor Look-and-Say&quot; sequence always end?
+Can mathematics get from other sciences what it got from physics?
+How to prove $\sum_{n=0}^{\infty} \frac{1}{1+n^2} = \frac{\pi+1}{2}+\frac{\pi}{e^{2\pi}-1}$
+A number $n$ which is the sum of all numbers $k$ with $\sigma(k)=n$?
+Closed form for $\int_0^\infty\arctan\Bigl(\frac{2\pi}{x-\ln\,x+\ln(\frac\pi2)}\Bigr)\frac{dx}{x+1}$
+Motivating Example for Algebraic Geometry/Scheme Theory
+(undergraduate) Algebraic Geometry Textbook Recomendations
+Proof for formula for sum of sequence $1+2+3+\ldots+n$?
+Find taxicab numbers in $O(n)$ time
+What is the image near the essential singularity of z sin(1/z)?
+Proving a known zero of the Riemann Zeta has real part exactly 1/2
+What does closed form solution usually mean?
+Why do we need to prove $e^{u+v} = e^ue^v$?
+What is the (mathematical) point of geometric constructions?
+Probability density function vs. probability mass function
+A double series yielding Riemann&#39;s $\zeta$
+Good books on Philosophy of Mathematics
+Are calculus and real analysis the same thing?
+A simple explanation of eigenvectors and eigenvalues with &#39;big picture&#39; ideas of why on earth they matter
+Surprising but simple group theory result on conjugacy classes
+Is there an equation to describe regular polygons?
+Reference book on measure theory
+Math without infinity
+Finite Groups with exactly $n$ conjugacy classes $(n=2,3,...)$
+To what extent can values of $n$ such that $n^2-n+41$ is composite be predicted?
+How to show that $\det(AB) =\det(A)\det(B)$
+Are there any common practices in mathematics to guard against mistakes?
+Picard&#39;s Little Theorem Proofs
+Why is lambda calculus named after that specific Greek letter? Why not “rho calculus”, for example?
+How difficult is it to get an academic job?
+Always oddly-many ones in the binary expression for $10^{10^{n}}$?
+Proving that $m+n\sqrt{2}$ is dense in R
+Game theory - self study
+How would one be able to prove mathematically that $1+1 = 2$?
+When two functions are equal, but not.
+When can&#39;t a real definite integral be evaluated using contour integration?
+What is the difference between Singular Value and Eigenvalue?
+Use of &quot;without loss of generality&quot;
+What is the topology of a world with portals?
+What does it really mean for something to be &quot;trivial&quot;?
+What did Gauss think about infinity?
+Rudin or Apostol
+Result of the product $0.9 \times 0.99 \times 0.999 \times ...$
+Is Banach-Alaoglu equivalent to AC?
+Is $0.23571113171923293137\dots$ transcendental?
+Why do new rules cause students to forget and misapply older rules?
+How to solve $x^{1/2}-x^{1/3} = 0$
+Find all polynomials $P$ such that $P(x^2+1)=P(x)^2+1$
+Video lectures on Real Analysis?
+Elementary books by good mathematicians
+If $S$ is an infinite $\sigma$ algebra on $X$ then $S$ is not countable
+Minimum of $n$? $123456789x^2 - 987654321y^2 =n$ ($x$,$y$ and $n$ are positive integers)
+How to define addition through multiplication?
+What should be the intuition when working with compactness?
+Application of Liouville&#39;s Theorem
+Series of Cyclotomic polynomials
+Examples of Diophantine equations with a large finite number of solutions
+Is the image of a nowhere dense closed subset of $[0,1]$ under a differentiable map still nowhere dense?
+The final number after $999$ operations.
+In $n&gt;5$, topology = algebra
+Why is $3$ the coefficient of $n$ in the Collatz conjecture?
+A strange little number - $6174$.
+Is there a simple, constructive, 1-1 mapping between the reals and the irrationals?
+A closed form of $\int_0^\infty\frac{\sqrt[\phi]{x}\ \arctan x}{\left(x^\phi+1\right)^2}dx$
+Closed form for $\int_0^\infty\frac{\sin x\,\cdot\,\operatorname{Ci}x-\cos x\,\cdot\,\operatorname{Si}x}{\sqrt{16\,x^2+1}}dx$
+Continuity $\Rightarrow$ Intermediate Value Property. Why is the opposite not true?
+Rigidity of the category of fields
+What is the Coxeter diagram for?
+An awful identity
+Euler&#39;s errors?
+$i&#39;=i^{-1} \bmod p$, prove or disprove that $\lim_{p\to \infty}\dfrac{1}{p^3}\sum_{i=1}^{p-1}ii&#39;=\frac{1}4$
+Using Integration By Parts results in 0 = 1
+Prove ${\large\int}_0^\infty\frac{\ln x}{\sqrt{x}\ \sqrt{x+1}\ \sqrt{2x+1}}dx\stackrel?=\frac{\pi^{3/2}\,\ln2}{2^{3/2}\Gamma^2\left(\tfrac34\right)}$
+Convex surface on which any two points $a,b$ can be joined by a curve of length $(\pi/2-\epsilon)|a-b|$
+Disproving an &quot;almost true&quot; trigonometric identity
+Closed-forms for several tough integrals
+In primary school I was showed this. Why does it work?
+Is Pythagoras the only relation to hold between $\cos$ and $\sin$?
+Examples where it is easier to prove more than less
+Arithmetic Progressions in slowly oscillating sequences
+Solving Special Function Equations Using Lie Symmetries
+Function&#39;s analytic continuation is its own derivative
+Why is &quot;mathematical induction&quot; called &quot;mathematical&quot;?
+Evaluation of $\sqrt{\frac12+\sqrt{\frac14+\sqrt{\frac18+\cdots+\sqrt{\frac{1}{2^n}}}}}$
+Can both $x$ and $\sin(x)$ be rational at the same time?
+Big list of &quot;guided discovery&quot; books
+Checkboard matrix, brand new or old?
+The series $\sum_{n=1}^\infty\frac1n$ diverges
+What does the term &quot;undefined&quot; actually mean?
+How does the wheel paradox work?
+How do you prove that a group specified by a presentation is infinite?
+Is there a known mathematical equation to find the nth prime?
+Prove that this function is bounded
+How to prove that: $\tan(3\pi/11) + 4\sin(2\pi/11) = \sqrt{11}$
+Axiom of choice - to use or not to use
+Why is it harder to prove which integers are sums of three squares rather than sums of two squares or four squares?
+Books on classical geometry
+Are the rationals minus a point homeomorphic to the rationals?
+Going to the Movies!
+How many cubic curves are there?
+Math GRE Subject Exam
+Is there a function with this property?
+Can we construct a function $f:\mathbb{R} \rightarrow \mathbb{R}$ such that it has intermediate value property and discontinuous everywhere?
+Why is the ring of matrices over a field simple?
+Does exceptionalism persist as sample size gets large?
+Apery&#39;s proof of the irrationality of $\zeta(3)$
+Is factoring polynomials as hard as factoring integers?
+Why determinant of a 2 by 2 matrix is the area of a parallelogram?
+How to show that $\sum\limits_{k=1}^{n-1}\frac{k!k^{n-k}}{n!}$ is asymptotically $\sqrt{\frac{\pi n}{2}}$?
+How to think deeply in mathematics way?
+What are natural numbers?
+How to prove that the number 1!+2!+3!+...+n! is never square?
+Rolling a Sphere on the Plane
+Fun Linear Algebra Problems
+Computing (on a computer) the first few (non-trivial) zeros of the zeta function of a number field
+Combination of smartphones&#39; pattern password
+If $\sum a_n b_n &lt;\infty$ for all $(b_n)\in \ell^2$ then $(a_n) \in \ell^2$
+&quot;Standard&quot; ways of telling if an irreducible quartic polynomial has Galois group C_4?
+How do I get the square root of a complex number?
+Theorems true &quot;with probability 1&quot;?
+Find the limit $\lim \limits_{n\to \infty }\cos \left(\pi\sqrt{n^{2}-n} \right)$
+A bestiary about adjunctions
+Math behind rotation in MS Paint
+Elementary proof of $m^n\neq n^m$ for almost all natural numbers $m\neq n$
+Why is it &quot;easier&quot; to work with function fields than with algebraic number fields?
+Is there a natural way to extend repeated exponentiation beyond integers?
+Are some real numbers &quot;uncomputable&quot;?
+Efficient ways to read and learn a new topic
+Origin of the dot and cross product?
+Proofs of $\lim\limits_{n \to \infty} \left(H_n - 2^{-n} \sum\limits_{k=1}^n \binom{n}{k} H_k\right) = \log 2$
+On the meaning of being algebraically closed
+How to prove that $\sum\limits_{n=1}^\infty\frac{(n-1)!}{n\prod\limits_{i=1}^n(a+i)}=\sum\limits_{k=1}^\infty \frac{1}{(a+k)^2}$ for $a&gt;-1$?
+relaxing maths papers
+Crafty solutions to the following limit
+How do I prove that $x^p-x+a$ is irreducible in a field with $p$ elements when $a\neq 0$?
+Good introductory book on geometric algebra
+Is there a uniform distribution over the real line?
+Is there any real number except 1 which is equal to its own irrationality measure?
+What are the interesting applications of hyperbolic geometry?
+Why is an average of an average usually incorrect?
+Drunkard&#39;s walk on the $n^{th}$ roots of unity.
+Does every continuous map from $\mathbb{H}P^{2n+1}$ to itself have a fixed point?
+How to reverse the $n$ choose $k$ formula?
+Popular math books with depth
+Find the number of pairs of positive integers $(a, b)$ such that $a!+b! = a^b$
+Are irrational numbers order-isomorphic to real transcendental numbers?
+Conjugate subgroup strictly contained in the initial subgroup?
+How much math education was typical in the 18th &amp; 19th century?
+Prove that if two miles are run in 7:59 then one mile MUST be run under 4:00.
+Deligne, elliptic curves and modular forms
+Computing the best constant in classical Hardy&#39;s inequality
+Importance of rigor
+Rubik&#39;s Cube Not a Group?
+How do you calculate the decimal expansion of an irrational number?
+If $a_n$ goes to zero, can we find signs $s_n$ such that $\sum s_n a_n$ converges?
+a big number that is obviously prime?
+How can we produce another geek clock with a different pair of numbers?
+How to prove there are an infinite number of squarefree numbers of the form $2^p-1$?
+Research in algebraic topology
+Is $\sin\left(\frac{\pi}{2}\sin\left(\frac{\pi}{2}\cdots\sin x\cdots\right)\right)=\frac4{\pi}\sum\limits_{k=0}^\infty\frac{\sin(2k+1)x}{2k+1}$?
+In which topological spaces is every singleton set a zero set?
+If $a^2$ divides $b^2$, then $a$ divides $b$
+Examples of bijective map from $\mathbb{R}^3\rightarrow \mathbb{R}$
+Looking to attain fluency in mathematics, not academic mastery
+Why is $\pi$ irrational if it is represented as $c/d$?
+Operators with finite spectrum
+Is the statement &quot;1/3 of the natural numbers are divisible by 3&quot; true? Is anything similar to it true?
+When is a sum of consecutive squares equal to a square?
+&quot;Efficient version&quot; of Cayley&#39;s Theorem in Group Theory
+What is (a) geometry?
+Limit of $\log (\log( ... \log((n)^ {(n-1)^ {....}})))$
+A problem of J. E. Littlewood
+How much time is too much (to put into a single problem)?
+Sum of the sum of the sum of the first $n$ natural numbers
+Show that floating point $\sqrt{x \cdot x} \geq x$ for all long $x$.
+What do we lose passing from the reals to the complex numbers?
+a problem from 1977 all Soviet Union Mathematical Olympiad
+Why must we distinguish between rational and irrational numbers?
+Two Representations of the Prime Counting Function
+Calculating $\lim_{n\to\infty}\sqrt{n}\sin(\sin...(\sin(x)..)$
+Prove the following integral inequality
+I want to get good at math, any good book suggestions?
+How is the set of all programs countable?
+$\sum_{k=0}^{100} a_k x^{k}=0, a_i \in \mathbb{Z}$ How many equations?
+Is there a step by step checklist to check if a multivariable limit exists and find its value?
+How to prove that $\frac{(5m)!(5n)!}{(m!)(n!)(3m+n)!(3n+m)!}$ is a natural number?
+How to prove this inequality(7)?
+Can the chain rule be relaxed to allow one of the functions to not be defined on an open set?
+Is any closed-form representation known for the sum $\sum\limits_{n=1}^{\infty}\frac{\mu(n)\log n}{n^2}$?
+How to find the factorial of a fraction?
+Find integer in the form: $\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b}$
+Is the image of a Borel subset of $[0,1]$ under a differentiable map still a Borel set?
+Prove that $\sqrt{7}^{\sqrt{8}}&gt;\sqrt{8}^{\sqrt{7}}$
+Last $n$ digits of $a^b$
+Find $a,n\in \mathbb N^{+}:a!+\dfrac{n!}{a!}=x^2,x\in \mathbb N$
+How to compute $\prod_{n=1}^\infty\left(1+\frac{1}{n!}\right)$?
+Finding an invisible circle by drawing another line
+$G$ is non abelian simple group of order $&lt;100$ then $G\cong A_5$
+How to find $\lim_{n\to\infty}\frac{1!+2!+\cdots+n!}{n!}$?
+Closed form for $\int_{-\infty}^\infty\operatorname{sech}(x)\operatorname{sech}(a\, x)\ dx$
+Puzzles or short exercises illustrating mathematical problem solving to freshman students
+On Shanks&#39; quartic approximation $\pi \approx \frac{6}{\sqrt{3502}}\ln(2u)$
+Why does my calculator show $2^{-329} = 0?$
+What did Newton and Leibniz actually discover?
+Simplify $\frac{_3F_2\left(\frac{1}{2},\frac{3}{4},\frac{5}{4};1,\frac{3}{2};\frac{3}{4}\right)}{\Pi\left(\frac{1}{4}\big|\frac{1}{\sqrt{3}}\right)}$
+Did Euclid prove that $\pi$ is constant?
+A closed form for the sum $\sum_{n=1}^{\infty}\left(\frac{H_n}{n}\right)^2$
+On the Paris constant and $\sqrt[k]{1+\sqrt[k]{1+\sqrt[k]{1+\sqrt[k]{1+\dots}}}}$?
+$\sum_{n=1}^{\infty}\frac{H_n}{n^2 2^n}=\zeta(3)-\frac{1}{2}\log(2)\zeta(2)$
+Is it possible for a function to be smooth everywhere, analytic nowhere, yet Taylor series at any point converges in a nonzero radius?
+Why is the Laplacian important in Riemannian geometry?
+Examples of morphisms of schemes to keep in mind?
+How many squares actually ARE in this picture? Is this a trick question with no right answer?
+Find the exact value of the infinite sum $\sum_{n=1}^\infty \{\mathrm{e}-(1+\frac1n)^{n}\}$
+How does the exponent of a function effect the result?
+Two Circles inside a right angle!
+&quot;Here&#39;s a cool problem&quot;: a collection of short questions with clever solutions
+A fascinating number chain.
+Integral $\int_0^\infty \log(1+x^2)\frac{\cosh{\frac{\pi x}{2}}}{\sinh^2{\frac{\pi x}{2}}}\mathrm dx=2-\frac{4}{\pi}$
+Is $0.1010010001000010000010000001 \ldots$ transcendental?
+What to do after a Master&#39;s Degree in Pure Mathematics?
+If $d$ is a metric, is $d(x,y)/(1+d(x,0)+d(y,0))$ a metric?
+If $f&#39;(x) = 0$ for all $x \in \mathbb{Q}$, is $f$ constant?
+Finding the limit of a sequence with an undesirable $\ln k$
+Category-theoretic description of the real numbers
+Showing that $ϕ(x)=x^n$ is a homomorphism from $G\to Z(G)$
+Approximate value of a slowly-converging sum of $\sum|\sin n|^n/n$
+Does there exist two non-constant polynomials $f(x),g(x)\in\mathbb Z[x]$ such that for all integers $m,n$, gcd$(f(m),g(n))=1$?
+What makes induction a valid proof technique?
+Reinventing The Wheel - Part 2: The Lebesgue Integral
+Which is greater, $20 \uparrow\uparrow\uparrow\uparrow 20$ or $4 \uparrow\uparrow\uparrow\uparrow\uparrow 4$?
+Is this integral $\int_0^1\left(\left\{\frac1x\right\}-\frac12\right)\frac{\log(x)}{x}dx$ equal to zero?
+What in Mathematics cannot be described within set theory?
+Google Interview Question about a town where if a couple has a girl born, they can&#39;t have more children...
+Does an elementary solution exist to $x^2+1=y^3$?
+Open source lecture notes and textbooks
+Limit of $\lim_{x\rightarrow 1}\sqrt{x-\sqrt[3]{x-\sqrt[4]{x-\sqrt[5]{x-.....}}}}$
+An example where $\frac{(2m)!(2n)!}{m!n!(m + n)!}$ is the number of ways of counting something?
+Prove that $2^{2^{\sqrt3}}&gt;10$
+How to make sense of fractions?
+Is there any function which grows &#39;slower&#39; than its derivative?
+What does it mean to represent a number in term of a $2\times2$ matrix?
+The set $\{1,2,3,\ldots,n\}$, where $n \geq 5$, can be divided into two subsets so that the sum of the first is equal to the product of the second
+Nested radicals of 1000 square roots
+How to prove that $\sqrt[3] 2 + \sqrt[3] 4$ is irrational?
+Is there possibly a largest prime number?
+Simple numerical methods for calculating the digits of $\pi$
+Division of Factorials
+Is it misleading to think of rank-2 tensors as matrices?
+Efficiently finding two squares which sum to a prime
+Produce an explicit bijection between rationals and naturals?
+A Laskerian non-Noetherian ring
+Why is the area under a curve the integral?
+Show that product of primes, $\prod_{k=1}^{\pi(n)} p_k &lt; 4^n$
+Computing the product of p/(p - 2) over the odd primes
+Can we make $\tan(x)$ arbitrarily close to an integer when $x\in \mathbb{Z}$?
+Matrix multiplication: interpreting and understanding the process
+Repeated Factorials and Repeated Square Rooting
+Is there a proof that $\pi \times e$ is irrational?
+Are there uncountably many non homeomorphic ways to topologize a countably infinite set?
+is the group of rational numbers the fundamental group of some space?
+FO-definability of the integers in (Q, +, &lt;)
+An information theory inequality which relates to Shannon Entropy
+Global invertibility of a map $\mathbb{R}^n\to \mathbb{R}^n$ from everywhere local invertibility
+Where did mathematicians learn how to do truth tables?
+Isomorphism between complex numbers minus zero and unit circle
+Introductory texts on manifolds
+Density of irrationals
+Does Birkhoff - von Neumann imply any of the fundamental theorems in combinatorics?
+Do harmonic numbers have a “closed-form” expression?
+Why is the Hessian of an irreducible polynomial not zero?
+Similar matrices and field extensions
+How far can probability intransitivity be stretched?
+Motivation behind topology
+Smallest dense subset of $\mathbb{R}$
+Definition of convergence of a nested radical $\sqrt{a_1 + \sqrt{a_2 + \sqrt{a_3 + \sqrt{a_4+\cdots}}}}$?
+Proving Irrationality
+How to show that $\lim\limits_{x \to \infty} f&#39;(x) = 0$ implies $\lim\limits_{x \to \infty} \frac{f(x)}{x} = 0$?
+$Ra=Rb$ if and only if $aR=bR$
+Is it possible $n(n+1)(n+2)...(n+k)$ is a square?
+Why algebraic topology is also called combinatorial topology?
+Proving the snake lemma without a diagram chase
+A proof of $\int_{0}^{1}\left( \frac{\ln t}{1-t}\right)^2\,\mathrm{d}t=\frac{\pi^2}{3}$
+Qual question archives?
+What lies beyond the Sedenions
+Something that I found, and would like to see if it&#39;s known.
+Useful mathematical fora
+Expository articles on Analysis and Probability theory
+Is there anything deep about Fuzzy sets/Fuzzy logic?
+Proof that $\int x^x dx$ can&#39;t be done in terms of elementary functions?
+What are some applications of Mathematics to the medical field?
+Why isn&#39;t $\mathbb{C}[x,y,z]/(xz-y)$ a flat $\mathbb{C}[x,y]$-module
+Permutations with restriction
+Evaluating $\int_0^1 \log \log \left(\frac{1}{x}\right) \frac{dx}{1+x^2}$
+Why everytime the final number comes the same?
+Self Study in Dynamical Systems
+Is the Maclaurin series expansion of $\sin x$ related to the inclusion-exclusion principle?
+Homogeneous forms of degree $n$ in $n$ indeterminates over $\mathbb{Z}$: which ones come from the norm of a number field?
+Tensor products commute with direct limits
+How to tell if a Rubik&#39;s cube is solvable
+$\lim_{n\to\infty} \left(\frac{1^p+2^p+3^p + \cdots + n^p}{n^p} - \frac{n}{p+1}\right)$ Evaluating this limit
+Why is the topological pressure called pressure?
+Primes approximated by eigenvalues?
+Is the sum and difference of two irrationals always irrational?
+How did Ramanujan get this result?
+Connectedness of the spectrum of a tensor product.
+Not every metric is induced from a norm
+$\operatorname{Ann}(M\otimes_A N)=\operatorname{Ann}M+\operatorname{Ann}N$?
+What&#39;s the precise meaning of imaginary number?
+Why algebraic closures?
+I&#39;m teaching a college geometry course. What should I cover?
+How to avoid perceived circularity when defining a formal language?
+Universally measurable sets of $\mathbb{R}^2$
+Evaluation of $\sum\limits_{n=0}^\infty \left(\operatorname{Si}(n)-\frac{\pi}{2}\right)$?
+Brute force method of solving the cube: How many moves would it take?
+Is the fundamental theorem of calculus independent of ZF?
+Random walk: police catching the thief
+Why $a^n - b^n$ is divisible by $a-b$?
+Is every group a Galois group?
+Quasi-coherent sheaves, schemes, and the Gabriel-Rosenberg theorem
+Can someone explain the ABC conjecture to me?
+What are the dangers of visual exposition of mathematics?
+Trying to understand why circle area is not $2 \pi r^2$
+How do people come up with difficult math Olympiad questions?
+Recovering a finite group&#39;s structure from the order of its elements.
+Given $f(f(x))$ can we find $f(x)$?
+Notation for repeated application of function
+Question about a program generating palindromic prime numbers
+Model existence for infinitary logics
+Axiomatic characterization of the rational numbers
+Does there exist a copy of Euclid&#39;s Elements with modern notation and no figures?
+Compute $\sum_{k=0}^{\infty}\frac{1}{2^{k!}}$
+Finding the Transform matrix from 4 projected points (with Javascript)
+Do numbers of this form have a name?
+Material in a first course in algebraic geometry?
+Is $\mathbf{C}$ the algebraic closure of any field other than $\mathbf{R}$?
+Evaluating the sum $\sum_{n=1}^{\infty} \frac{e - \left(1 + \frac{1}{n}\right)^n}{\sqrt{n}}$
+Maybe a rather famous integral
+Mathematical preparation for postgraduate studies in Linguistics
+About translating subsets of $\Bbb R^2.$
+Picture of a 4D knot
+Is $\mathbb{R}^{\infty}$ homeomorphic to $\mathbb{R}^{\infty}\setminus\{0\}$?
+IMO 1987 - function
+How to show that a root of the equation $x (x+1)(x+2) ....... (x+2009) = c $ can have multiplicity at most 2?
+Variation of Pythagorean triplets: $x^2+y^2 = z^3$
+Fractals reference
+Interesting log sine integrals $\int_0^{\pi/3} \log^2 \left(2\sin \frac{x}{2} \right)dx= \frac{7\pi^3}{108}$
+Hilbert&#39;s original proof of basis theorem
+When L&#39;H&#244;pital&#39;s Rule Fails
+Self-study Real analysis Tao or Rudin?
+How many balls of radius 1 can be packed into a sphere of radius 10?
+Closed form for $\int_0^{\infty}\frac{\arctan x\ln(1+x^2)}{1+x^2}\sqrt{x}\,dx$
+Seems that I just proved $2=4$.
+Why do we study prime ideals?
+How can I calculate $\int \frac{\sec x\tan x}{3x+5}\,\mathrm dx$
+How to solve $\int_0^\infty J_0(x)\ \text{sinc}(\pi\,x)\ e^{-x}\,\mathrm dx$?
+How do solve this integral $\int_{-1}^1\frac{1}{\sqrt{1-x^2}}\arctan\frac{11-6\,x}{4\,\sqrt{21}}\mathrm dx$?
+Why is the Derangement Probability so Close to $\frac{1}{e}$?
+How to calculate $\sum_{n=1}^\infty\frac{(-1)^n}n H_n^2$?
+Famous Problems Where We Only Know the Elementary
+Trying to prove that $\sum_{j=2}^\infty \prod_{k=1}^j \frac{2 k}{j+k-1} = \pi$
+Where can I find good exercises for algebraic geometry that require hard, concrete computation?
+How long does it take a person with this &quot;cheating&quot; data-gathering strategy to achieve a desired result?
+A gambler with the devil&#39;s luck?
+The positive root of the transcendental equation $\ln x-\sqrt{x-1}+1=0$
+Associativity of $\iff$
+Rational number to the power of irrational number = irrational number. True?
+If a lottery has 300 tickets, shouldn&#39;t I win every 300 times I play
+How to prove $\int_{-\infty}^{+\infty} f(x)dx = \int_{-\infty}^{+\infty} f\left(x - \frac{1}{x}\right)dx?$
+Simplify $\left({\sum_{k=1}^{2499}\sqrt{10+{\sqrt{50+\sqrt{k}}}}}\right)\left({\sum_{k=1}^{2499}\sqrt{10-{\sqrt{50+\sqrt{k}}}}}\right)^{-1}$
+Teaching a 4 year old maths
+Solutions for x!/y!=(y+1)!
+The next number that has this property?
+Is $\{\tan(x) : x\in \mathbb{Q}\}$ a group under addition?
+If $(\sqrt{y^2-x}-x)(\sqrt{x^2+y}-y)=y$ then $x+y=0$.
+Integral $\int_0^\infty\frac{1}{\sqrt[3]{x}}\left(1+\log\frac{1+e^{x-1}}{1+e^x}\right)dx$
+Intuition for Class Numbers
+Prove if $56x = 65y$ then $x + y$ is divisible by $11$
+Is there an elementary proof that $\sum_{n=1}^\infty {1\over n^s\{n\pi\}}&lt;\infty$ for some $s&gt;0$?
+Sum of consecutive square roots inside a square root
+How prove this $f(n)\le f(n+1)$ where $f(n)=\sum_{k=1}^{n}\frac{n}{n^2+k^2}$
+Number of vectors so that no two subset sums are equal
+if there are 5 points on a sphere then 4 of them belong to a half-sphere.
+Sum of four squares not a prime
+Integral $\int_0^1\frac{\log(1-x)}{\sqrt{x-x^3}}dx$
+Integral $\int_0^1\frac{\ln x}{x-1}\ln\left(1+\frac1{\ln^2x}\right)dx$
+If the infinite cardinals aleph-null, aleph-two, etc. continue indefinitely, is there any meaning in the idea of aleph-aleph-null?
+Is a brute force method considered a proof?
+What comes after tetration ? And after ? And after ? etc.
+Is $\pi$ the best constant in this inequality?
+Which vectors can give zero inner products forever
+Why there is much interest in the study of $\operatorname{Gal}\left(\overline{\mathbb Q}/\mathbb Q\right)$?
+How can Zeno&#39;s dichotomy paradox be disproved using mathematics?
+Is $e^{i\pi}+1=0$ all it&#39;s cracked up to be?
+The expected outcome of a random game of chess?
+Evaluation of $\int_0^1 \frac{\log(1+x)}{1+x}\log\left(\log\left(\frac{1}{x}\right)\right) \ dx$
+Who named &quot;Quotient groups&quot;?
+Why is $\sin(d\Phi) = d\Phi$ where $d\Phi$ is very small?
+Mathematical Intuition Behind Schizophrenic Numbers?
+Prove $_2F_1\left(\frac13,\frac13;\frac56;-27\right)\stackrel{\color{#808080}?}=\frac47$
+Is every factorial divisible by its sum of digits?
+Mathematics - The big picture
+Math symbol in German thesis from 1963
+Closed Form for the Imaginary Part of $\text{Li}_3\Big(\frac{1+i}2\Big)$
+Is a group uniquely determined by the sets {ab,ba} for each pair of elements a and b?
+Is there any integer solutions of $3x^3+3x+7=y^3$?
+Prove that $\int_{0}^{1}\sin{(\pi x)}x^x(1-x)^{1-x}\,dx =\frac{\pi e}{24} $
+Does a set $A \subseteq [0,1]$ exist such that $A$ is homeomorphic to $[0,1] \setminus A$?
+Murder at Hilbert&#39;s Hotel!
+What are the odds of hitting exactly 100 rolling a fair die
+Given any computable number, is there any algorithm to decide whether it is transcendental?
+Examples of Mathematics in Court
+Matlab wrong cube root
+How to solve $\int_0^{\infty}\frac{\cos{ax}}{x^3+1}dx$?
+Unusual pattern in the distribution of odd primes
+$\pi$ in terms of $4$?
+Is every natural number representable as $\sum\limits_{k=1}^{n} \pm k^3$?
+There is a subset of positive integers which no computer program can print
+Is There A Polynomial That Has Infinitely Many Roots?
+Moriarty&#39;s calculator: some bizarre and deceptive graphical anomalies
+Do there exist functions $f$ such that $f(f(x))=x^2-x+1$ for every $x$?
+Elegant Proof of a simple inequality
+Existence of an holomorphic function
+Do the Liouville Numbers form a field?
+Is $\exp(x)$ the same as $e^x$?
+How are we able to calculate specific numbers in the Fibonacci Sequence?
+Why is $x^0 = 1$ except when $x = 0$?
+How do proof verifiers work?
+Why does area differentiate to perimeter for circles and not for squares?
+Is there a direct proof of this lcm identity?
+Prove that $\sum_{k=1}^{n-1}\tan^{2}\frac{k \pi}{2n} = \frac{(n-1)(2n-1)}{3}$
+Why is $\mathbb{Q}(t,\sqrt{t^3-t})$ not a purely transcendental extension of $\mathbb{Q}$?
+Teaching mathematics in intuitive and thought provoking way
+Pullback and Pushforward Isomorphism of Sheaves
+You are standing at the origin of an &quot;infinite forest&quot; holding an &quot;infinite bb-gun&quot;
+Prove that $\prod_{k=1}^{n-1}\sin\frac{k \pi}{n} = \frac{n}{2^{n-1}}$
+Intuitive explanation of the difference between waves in odd and even dimensions
+Product of all elements in an odd finite abelian group is 1
+Math Wizardry - Formula for selecting the best spell
+Size of the closure of a set
+What is limit of $\sum \limits_{n=0}^{\infty}\frac{1}{(2n)!} $?
+Solving a peculiar system of equations
+What&#39;s the nth integral of $\frac1{x}$?
+Proving $\prod_{j=1}^n \left(4-\frac2{j}\right)$ is an integer
+Does a Fourier transformation on a (pseudo-)Riemannian manifold make sense?
+On Dirichlet series and critical strips
+How can we sum up $\sin$ and $\cos$ series when the angles are in arithmetic progression?
+What is a local parameter in algebraic geometry?
+Lebesgue measurable but not Borel measurable
+Theorem of Arzel&#224;-Ascoli
+How does one actually show from associativity that one can drop parentheses?
+How can there be alternatives for the foundations of mathematics?
+Are there any areas of mathematics that are known to be impossible to formalise in terms of set theory?
+coin toss question
+Is there a function with infinite integral on every interval?
+How to compute the series $\sum_{n=0}^\infty q^{n^2}$?
+How to find the inverse modulo m?
+Expected number of rolling a pair of dice to generate all possible sums
+What am I doing when I separate the variables of a differential equation?
+Prove that $\lfloor \sqrt{p} \rfloor + \lfloor \sqrt{2p} \rfloor +...+ \lfloor \sqrt{\frac{p-1}{4}p} \rfloor = \dfrac{p^2 - 1}{12}$
+Norm for pointwise convergence
+Feeding real or even complex numbers to the integer partition function $p(n)$?
+Book recommendation on plane Euclidean geometry
+Lebesgue measure of the graph of a function
+Integral of $\frac{1}{(1+x^2)^2}$
+functoriality of derivations
+Do other non-native english speakers have trouble solving certain kinds of problems?
+Zero probability and impossibility
+Examples and further results about the order of the product of two elements in a group
+Is an integer uniquely determined by its multiplicative order mod every prime
+Primes of the form $n^2+1$ - hard?
+Shrinking Group Actions
+Is a line parallel with itself?
+When is a local homeomorphism a covering map?
+Are there always singularities at the edge of a disk of convergence?
+What are all measurable maps $f:\mathbb C\to\mathbb C$ such that $f(ab)=f(a)f(b)$?
+No continuous function switches $\mathbb{Q}$ and the irrationals
+Dedekind Sum Congruences
+Difficult integral
+A continued fraction involving prime numbers
+Group of order 15 is abelian
+Is it possible to be a mathematician without being mathematically talented?
+prove that $(2n)!/(n!)^2$ is even if $n$ is a positive integer
+Do online lecture recordings hurt or help math students at university?
+Mathematics and Music
+Grad school &amp; success in the long run
+Correspondences between Borel algebras and topological spaces
+Is it worth it to get better at contest math?
+Books to study for Math GRE, self-study, have some time.
+are all $n!$ ($n&gt;3$) the difference of two squares?
+Can decimal numbers be considered &quot;even&quot; or &quot;odd&quot;?
+Is there a discrete version of de l&#39;H&#244;pital&#39;s rule?
+What&#39;s the connection between derivatives and boundaries?
+What is the purpose of Stirling&#39;s approximation to a factorial?
+Discontinuous linear functional
+Showing $\prod\limits_{i&lt;j} \frac{x_i-x_j}{i-j}$ is an integer
+Evaluating $\sum\limits_{n=1}^{\infty} \frac{1}{n\operatorname{ GPF}(n)}$, where $\operatorname{ GPF}(n)$ is the greatest prime factor
+Is Erdős&#39; lemma on intersection graphs a special case of Yoneda&#39;s lemma?
+Infinite tetration, convergence radius
+Direct proof that for a prime $p$ if $p\equiv 1 \bmod 4$ then $l(\sqrt{p})$ is odd.
+When does every group with order divisible by $n$ have a subgroup of order $n$?
+What&#39;s so special about sine? (Concerning $y&#39;&#39; = -y$)
+Algebraic closure for $\mathbb{Q}$ or $\mathbb{F}_p$ without Choice?
+Ring of integers in p-adic field
+interesting square of log sin integral
+Did H. Lebesgue claim &quot;1 is prime&quot; in 1899? Source?
+Integral for function of square
+Asymptotic expression of an oscillatory integral
+Embedding ordinals in $\mathbb{Q}$
+Projective profinite groups
+Proving $\sqrt 3$ is irrational.
+Geometric intuition behind the Lie bracket of vector fields
+How can I lift a path to $\mathrm{Spin}(n)$?
+Why are modular lattices important?
+Multiplying by a $1\times 1$ matrix?
+Can every nonsingular $n\times n$ matrix with real entries be made singular by changing exactly one entry?
+GCD of rationals
+What are the zero divisors of $C[0,1]$?
+What is the usefulness of matrices?
+An interesting topological space with $4$ elements
+Expressing $2002^{2002}$ as a sum of cubes
+An &quot;AGM-GAM&quot; inequality
+A problem in additive number theory.
+Compute $\lim\limits_{n\to\infty} \prod\limits_2^n \left(1-\frac1{k^3}\right)$
+When is matrix multiplication commutative?
+How to prove convergence of polynomials in $e$ (Euler&#39;s number)
+Evaluating :$\int \frac{1}{x^{10} + x}dx$
+an integer sum of products of tangents
+The prime spectrum of a Dedekind Domain
+Complete undergraduate bundle-pack
+Intuition for &#233;tale morphisms
+Tate conjecture for Fermat varieties
+The importance of modular forms
+Definitive source about Dirichlet finally proving the Unit Theorem in the Sistine Chapel
+Evaluating $\int_0^{\frac\pi2}\frac{\ln{(\sin x)}\ \ln{(\cos x})}{\tan x}\ dx$
+What am I losing if I decide to perform all math by computer?
+How can I get sequence $4,4,2,4,4,2,4,4,2\ldots$ into equation?
+There are at most two prime numbers dividing $|G|$
+What are my chances in a Most Excellent Adventure?
+Finding the Robot
+Math contest: Find number of roots of $F(x)=\frac{n}{2}$ involving a strange integral.
+Divide circle into 9 pieces of equal area
+Self-Studying Abstract Algebra; Aye or Nay?
+Integral solution for $|x | + | y | + | z | = 10$
+Academic integrity
+Evaluating $\int{ \frac{\arctan\sqrt{x^{2}-1}}{\sqrt{x^{2}+x}}} \,dx$
+Purely &quot;algebraic&quot; proof of Young&#39;s Inequality
+How does one parameterize the surface formed by a *real paper* M&#246;bius strip?
+The tensor product of two Artinian modules is Artinian
+please solve a 2013 th derivative question?
+How many prime numbers are known?
+Sum of the form $r+r^2+r^4+\dots+r^{2^k} = \sum_{i=1}^k r^{2^k}$
+Lower bounds on the number of elements in Sylow subgroups
+Proving an integer is non-negative by showing there is a vector space with it as its dimension.
+Improving one&#39;s calculation skills
+Trigonometric Inequality. $\sin{1}+\sin{2}+\ldots+\sin{n} &lt;2$ .
+Summation using residues
+Prove that the set of $n$-by-$n$ real matrices with positive determinant is connected
+How much of an $n$-dimensional manifold can we embed into $\mathbb{R}^n$?
+Ways to fill a $n\times n$ square with $1\times 1$ squares and $1\times 2$ rectangles
+Intuitive proofs that $\lim\limits_{n\to\infty}\left(1+\frac xn\right)^n=e^x$
+What does it mean for a set to exist?
+Advice: Difficult Situation
+Mystery about $\sum_{n\geqslant 1}2^{-n!}$
+If $S \times \Bbb{R}$ is homeomorphic to $T \times \Bbb{R}$ and $S$ is compact, can we conclude that $T$ is compact?
+If $S \times \Bbb{R}^k$ is homeomorphic to $T \times \Bbb{R}^k$ and $S$ is compact, can we conclude that $T$ is compact?
+Closed form for $\sum_{n=-\infty}^{\infty}\frac{1}{(n-a)^2+b^2}$.
+Free online mathematical software
+What is the mathematical foundation of Control Theory?
+Closed form for $\int_0^\infty\left(\int_0^1\frac1{\sqrt{1-y^2}\sqrt{1+x^2\,y^2}}\mathrm dy\right)^3\mathrm dx.$
+Combinatorial proof of a Stirling number identity.
+Submit papers: arxiv or vixra?
+What is a closed form of $\int_0^1\ln(-\ln x)\ \text{li}\ x\ dx$
+What does proving the Riemann Hypothesis accomplish?
+My proof of $I \otimes N \cong IN$ is clearly wrong, but where have I gone wrong?
+Is the set of quaternions $\mathbb{H}$ algebraically closed?
+The simplest nontrivial (unstable) integral cohomology operation
+Who realized $\int \frac 1x dx =\ln(x)+c$?
+Mental estimate for tangent of an angle (from $0$ to $90$ degrees)
+Illustrative examples of a phenomenon in the logic of mathematical induction
+How to find $\int x^{1/x}\mathrm dx$
+What newer mathematics fields helped to solve or solved problems from older fields of mathematics?
+Is there any mathematical meaning in this set-theoretical joke?
+Why did Gauss think the reciprocity law so important in number theory?
+Is it always possible to factorize $(a+b)^p - a^p - b^p$ this way?
+How do you define the &quot;boundary&quot; of a topological space?
+A ring with few invertible elements
+Slowest frog on a ladder amongst many, how fast does it climb and how much is it lagging below the others?
+Why is the continuum hypothesis believed to be false by the majority of modern set theorists?
+A definite integral $\int_0^\infty\frac{2-\cos x}{\left(1+x^4\right)\,\left(5-4\cos x\right)}dx$
+A simple example of an uncountable set that is not $\mathbb{R}$
+$\lfloor0.999\dots\rfloor= ?$ $0$ or $1$?
+What are the most ugly equations in mathematics?
+How to solve fifth-degree equations by elliptic functions?
+Is $\sum_{k=1}^{m-1}\frac{1}{\sin^2\frac{k\pi}{m}}=\frac{m^2-1}{3}$ true for $m\in\mathbb N$?
+Conjecture: $\int_0^1\frac{3x^3-2x}{(1+x)\sqrt{1-x}}K\big(\!\frac{2x}{1+x}\!\big)\,dx\stackrel ?=\frac\pi{5\sqrt2}$
+A closed form for $\int_0^\infty\ln x\cdot\ln\left(1+\frac1{2\cosh x}\right)dx$
+A closed form for $\int_0^\infty\left(\frac{2^{-x}-3^{-x}}x\right)^adx,\ a\notin\mathbb{Z}^+$
+An integral $\int_0^\infty P_s(x-1)\,e^{-x}\,dx$ involving Legendre functions
+Integral $\int_0^\infty\frac{\ln\left(\sqrt{x+1\vphantom{x^0}}-1\right)\,\ln\left(\sqrt{x^{-1}+1}+1\right)}{(x+1)^{3/2}}dx$
+How to prove there exists $c$ such $f(c)f&#39;(c)+f&#39;&#39;(c)=0$
+Why do odd dimensions and even dimensions behave differently?
+Finding the limit of $\left(\frac{n}{n+1}\right)^n$
+Why is $i^3$ (the complex number &quot;$i$&quot;) equal to $-i$ instead of $i$?

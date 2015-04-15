@@ -2498,3 +2498,2503 @@ Sony TV RCA output into Yamaha HS80M input via RCA male to XLR male: Is it safe?
 Best Digital recorder for use as a ‘body pack’ + good field recorder?
 How to handle extreme dynamic range in a vocalist?
 Methods of Amplifying Poor Audio from Camcorder Recording?
+Good open source Video Editors?
+Create a DIY Green Screen / Chroma Key
+How can I crop a video with ffmpeg?
+What factors are important for DSLR lenses for shooting video?
+Why do weathermen and amateurs use green screens when professional movie makers use blue screens?
+Are there any mathematical advantages for higher sampling rates?
+What is this strange second camera?
+What&#39;s the difference between an Engineer and a Producer?
+What Beginner Video Editing Software Should I Use?
+Render srt subtitles to video?
+Why filmmaking with DSLR?
+Convert a 60 fps video to a 24 (film) video - is it possible?
+Does version control have a part in the video production workflow?
+How do I get a totally white background without the subject being too bright?
+What exactly is AVCHD?
+About film making techniques
+How can I stitch together several m2ts video files into one large file?
+What are some good accessories for a DSLR video recording setup?
+how can I smoothly move a camera without a dolly?
+What codec will my Youtube uploads be output in and what codec should I use to upload?
+How to get FFMPEG to join non-sequential image files? (skip by 3s)
+Why doesn&#39;t an FFT pitch filter fully &#39;mute&#39; the selected pitch range?
+The ProRes of Premiere Pro?
+Convolution matrix for converting 1080i to DVD?
+Is there any format for videos like RAW format for photos?
+Color correction workflow
+What is the difference between an amateur and a professional camcorder?
+Are there any good video editing apps for photographers?
+How much is a good framerate for slo-mo recording?
+Matching a camera in a 3D scene based on a photo
+Batch resize videos with &quot;pan and scan&quot; cropping
+Windows software for recording multiple video/audio sources?
+How to losslessly encode a jpg image sequence to a video in ffmpeg?
+Is there a way to make Premiere reuse nested previews?
+Stabilizing GoPro videos
+Screen refresh rate above 100 Hz noticeable?
+Hacking up a podcast functionality with the Behringer XENYX 1202FX.
+Best Lossless Video Encoder For Editing
+Simple Squib (gun wound)
+I&#39;m not happy with Final Cut Pro (X). What are my options?
+How do I write up a shot list?
+Video with person &#39;writing on glass&#39; effect
+Why use 35 mm film raw stock and camera?
+Does a real &quot;megapixel lens&quot; exist?
+What sequence presets I must use with a GoPro and Adobe Premiere Pro CS 5.5?
+High quality ogv files - possible?
+How can I use FFmpeg to lower the quality of H264 video but keep it in H264 format?
+Cheap solution for shooting with multiple (&gt;2) cameras in sync (genlock or LANC?)
+Adding a time stamp to a video
+I changed the .mp4 extension of my video to .mpg and it still opens and plays fine (in VLC and in Windows Media Player). Why is this so?
+Automatically cut out sections of a video delineated by a sound.
+What codecs/formats are appropriate for full motion video recording for youtube?
+How to stay objective after viewing your edit hundreds of times?
+Why not filming computer or TV screens?
+How to get closed captions to appear on a live stream
+Premiere 6 - how to add black between clips in a sequence automatically
+Looking for an 80&#39;s VHS effect!
+OGV Format plays properly on my computer but transcoding drops (duplicate?) frames
+Do video formats support colour profiles?
+How to connect a camera to a computer 100ft away?
+Why does all timecode start at 1 hour? (01:00:00:00)
+connect 8 projectors together to create a large image
+Repeat/loop Input Video with ffmpeg?
+Are there only a few standard video frame rates?
+Video archive solution
+Is there an easy method for detecting or marking the actual sample frequency?
+How do I make something sound &quot;cloudy&quot; as though my ears are plugged using Ableton Live?
+Recommendations for good &quot;bad monitors&quot;?
+Best Digital recorder for use as a ‘body pack’ + good field recorder?
+How to handle extreme dynamic range in a vocalist?
+How can I make an actor cry?
+Best H.264 settings for low bit-rate streaming video
+Switching and Cutting Video and Audio Items Separately
+Sources to learn more about Audio/Video compression, codecs, algorithms etc.
+How does Apple Motion compare to Adobe After Effects?
+How to make sense of video file formats?
+How can I align photos for stop motion?
+Is it possible to hook up an external mic to a Nikon D90 to get better sound for video?
+Graphical editor for OggKate
+Effects LEDs are uncomfortably bright - can they be dimmed? (Boss ME-70)
+Common newbie mistakes for cinematography?
+How do you subtitle a video?
+Correcting exposure flickering in time-lapse footage (in After Effects)
+Who owns raw footage?
+How to make a video of an iPad (or other tablet) screen
+Automatic conversion/encode video for Video On Demand streaming
+What video codecs can provide &quot;adaptive quality&quot;?
+What does a phantom technician do on a production set and why would a director need one?
+Camera shake produces ripple-like effect
+What equipment do I need to be able to produce &#39;HD quality&#39; videos?
+Is there a standard resolution for Video Presentations?
+How to create 3D video from two separate stereo images?
+How to change active camera in after effects ( or render a different camera )
+How can I stream to a single channel, from multiple geographical locations?
+How do I speedup encoding of a video that has just 1 static frame with ffmpeg and lib264 library?
+What is a circular motion around a object called when filming?
+How can I find duplicate videos from a large set of videos of varying formats?
+create video from hand drawing
+Lightworks problems importing, editing, and exporting using Canon EOS Rebel T3i
+Copyright of materials used in a video
+Good open source Video Editors?
+Create a DIY Green Screen / Chroma Key
+How can I crop a video with ffmpeg?
+What factors are important for DSLR lenses for shooting video?
+Why do weathermen and amateurs use green screens when professional movie makers use blue screens?
+Are there any mathematical advantages for higher sampling rates?
+What is this strange second camera?
+What&#39;s the difference between an Engineer and a Producer?
+What Beginner Video Editing Software Should I Use?
+Render srt subtitles to video?
+Why filmmaking with DSLR?
+Convert a 60 fps video to a 24 (film) video - is it possible?
+Does version control have a part in the video production workflow?
+How do I get a totally white background without the subject being too bright?
+What exactly is AVCHD?
+About film making techniques
+How can I stitch together several m2ts video files into one large file?
+What are some good accessories for a DSLR video recording setup?
+how can I smoothly move a camera without a dolly?
+What codec will my Youtube uploads be output in and what codec should I use to upload?
+How to get FFMPEG to join non-sequential image files? (skip by 3s)
+Why doesn&#39;t an FFT pitch filter fully &#39;mute&#39; the selected pitch range?
+The ProRes of Premiere Pro?
+Convolution matrix for converting 1080i to DVD?
+Is there any format for videos like RAW format for photos?
+Color correction workflow
+What is the difference between an amateur and a professional camcorder?
+Are there any good video editing apps for photographers?
+How much is a good framerate for slo-mo recording?
+Matching a camera in a 3D scene based on a photo
+Batch resize videos with &quot;pan and scan&quot; cropping
+Windows software for recording multiple video/audio sources?
+How to losslessly encode a jpg image sequence to a video in ffmpeg?
+Is there a way to make Premiere reuse nested previews?
+Stabilizing GoPro videos
+Screen refresh rate above 100 Hz noticeable?
+Hacking up a podcast functionality with the Behringer XENYX 1202FX.
+Best Lossless Video Encoder For Editing
+Simple Squib (gun wound)
+I&#39;m not happy with Final Cut Pro (X). What are my options?
+How do I write up a shot list?
+Video with person &#39;writing on glass&#39; effect
+Why use 35 mm film raw stock and camera?
+Does a real &quot;megapixel lens&quot; exist?
+What sequence presets I must use with a GoPro and Adobe Premiere Pro CS 5.5?
+High quality ogv files - possible?
+How can I use FFmpeg to lower the quality of H264 video but keep it in H264 format?
+Cheap solution for shooting with multiple (&gt;2) cameras in sync (genlock or LANC?)
+Adding a time stamp to a video
+I changed the .mp4 extension of my video to .mpg and it still opens and plays fine (in VLC and in Windows Media Player). Why is this so?
+Automatically cut out sections of a video delineated by a sound.
+What codecs/formats are appropriate for full motion video recording for youtube?
+How to stay objective after viewing your edit hundreds of times?
+Why not filming computer or TV screens?
+How to get closed captions to appear on a live stream
+Premiere 6 - how to add black between clips in a sequence automatically
+Looking for an 80&#39;s VHS effect!
+OGV Format plays properly on my computer but transcoding drops (duplicate?) frames
+Do video formats support colour profiles?
+How to connect a camera to a computer 100ft away?
+Why does all timecode start at 1 hour? (01:00:00:00)
+connect 8 projectors together to create a large image
+Repeat/loop Input Video with ffmpeg?
+Are there only a few standard video frame rates?
+Video archive solution
+Is there an easy method for detecting or marking the actual sample frequency?
+How do I make something sound &quot;cloudy&quot; as though my ears are plugged using Ableton Live?
+Recommendations for good &quot;bad monitors&quot;?
+Best Digital recorder for use as a ‘body pack’ + good field recorder?
+How to handle extreme dynamic range in a vocalist?
+How can I make an actor cry?
+Best H.264 settings for low bit-rate streaming video
+Switching and Cutting Video and Audio Items Separately
+Sources to learn more about Audio/Video compression, codecs, algorithms etc.
+How does Apple Motion compare to Adobe After Effects?
+How to make sense of video file formats?
+How can I align photos for stop motion?
+Is it possible to hook up an external mic to a Nikon D90 to get better sound for video?
+Graphical editor for OggKate
+Effects LEDs are uncomfortably bright - can they be dimmed? (Boss ME-70)
+Common newbie mistakes for cinematography?
+How do you subtitle a video?
+Correcting exposure flickering in time-lapse footage (in After Effects)
+Who owns raw footage?
+How to make a video of an iPad (or other tablet) screen
+Automatic conversion/encode video for Video On Demand streaming
+What video codecs can provide &quot;adaptive quality&quot;?
+What does a phantom technician do on a production set and why would a director need one?
+Camera shake produces ripple-like effect
+What equipment do I need to be able to produce &#39;HD quality&#39; videos?
+Is there a standard resolution for Video Presentations?
+How to create 3D video from two separate stereo images?
+How to change active camera in after effects ( or render a different camera )
+How can I stream to a single channel, from multiple geographical locations?
+How do I speedup encoding of a video that has just 1 static frame with ffmpeg and lib264 library?
+What is a circular motion around a object called when filming?
+How can I find duplicate videos from a large set of videos of varying formats?
+create video from hand drawing
+Lightworks problems importing, editing, and exporting using Canon EOS Rebel T3i
+Copyright of materials used in a video
+Is is possible to trim portions of clips in FCPX to save disk space?
+Adobe Premiere preview video lagging
+Framerate wagon wheel effect
+How can I automatically remove pauses from a video?
+Why is there a “2D” disc in every Blu-Ray 3D package?
+How do I change frame size, preserving width (using ffmpeg)?
+Optimal pace of speech
+How to digitise old NTSC home videos for highest quality (with PAL player)?
+Orbits in After Effects
+How can I convert .MTS file (AVCHD) to .mp4 by ffmpeg without re-encoding H264 video stream?
+What do you call the video effect where water looks like it&#39;s standing still when filmed
+Creating menu for a video file (not for DVD)
+MP4 / h.264 patent issues?
+How is &quot;definition&quot; (SD, HD, UHD) actually defined?
+What is the name of that color test in video production with the beep?
+Does rackmount hardware attach only on the faceplate?
+Methods of Amplifying Poor Audio from Camcorder Recording?
+How do I filter a voice recording to sound like a NES game sample?
+Is there a method (or tool) to convert video from a SWF container to another more portable format (e.g., H.264)
+The color in my Final Cut PX Viewer is way off
+What should I be looking for in a low cost color correcting monitor?
+Question about using the DeShaker plug-in for VirtualDub
+Things to do during shoot to prevent loss of quality during extreme colour grading in post?
+Is there any plugin for After Effects to create a &#39;kinetic typography&#39; video?
+Reasonable hardware for basic video editing?
+Best rendering options for Sony Vegas 8 Pro?
+Combining multiple Videos
+How do I film a friend&#39;s wedding?
+Change sequence frame size Final Cut Express 4
+How to add motion blur in timelapse videos?
+Non-Linear Video Editor for Free or Cheap That Does These Things
+Video Subtitles Specification [CHK and PAC]
+Live video processing
+Creating a split screen video of a multitrack recording
+Camcorder for use as a webcam
+QoS for video streaming
+Is it possible to make changes over several clips at the same time when color correcting?
+D7000 HD video format - can each frame contain metadata?
+How do I record a computer monitor without banding/flickering with a Canon t2i/550D?
+Looking For A Video Editor that will maintain the codecs of the original source video
+What is the best way to clean the outside of audio/video cables
+creating a lossless mp4 screencast
+Projecting image from computer that is a distance away
+Want to try green screen with my elementary students. What do we need. Using Mac OS 10.5.8
+Premiere Elements &quot;Debug Event&quot;: Keyframe error
+Why is my video alternating between blurry and sharp?
+Fixing a badly telecined 8mm film digitization
+Can Sony Vegas Pro be used or compared to the output produced by Final Cut Pro for professional use?
+Shoot moving clouds
+Metal particle Hi8 tape degradation
+Is it possible that the actual video resolution of the t2i/550d is not 1920x1080
+Are there any wearable IP cameras?
+Batch processing individual frames into video
+What&#39;s the difference between Behringer XENYX 1202FX and the Behringer Eurorack UB1202FX?
+Blur effects on a transparent background leaves a black ghosting effect
+Is it possible to record audio-responsive Quartz compositions along with the audio?
+How to create a x264 (mp4) video with the smallest size using ffmpeg that has just 1 image through entire video?
+Shooting with a camera and then pausing while recording
+Is it possible to set more than one motion tracking point in After Affects CS6 at the same time
+How to make a video from a still image and an audio file?
+Duplicate layers X times and move 1 frame each time
+How can I accurately immitate this Picasa filter with Premiere&#39;s color correction filters?
+How to parent a mask to another element in AfterFX?
+Why does the color red always appear pixelated on TV and videos on the PC?
+Using Multicam Editing How to Color Correct an entire angle
+open-source or free AVCHD conversion to image sequence
+Simple way of clipping video files?
+Preventing flicker when recording live presentations
+My Canon Powershot SX40 stops recording regularly and predictably.
+Tips for making multiple video shoots appear Continuous in color?
+Best rendering output for 720px X 480px Sony Vegas Pro 12
+120fps 720p footage with real time playback on Ubuntu? + editing?
+Is there a good collection of examples of the different type of video cuts?
+Bulk/Mass Edit Video Audio?
+Final Cut X Events missing
+Are there any good video editing programs with a command line interface?
+Recommended Encoding for VHS to Digital to be Followed by Post Processing
+Easiest way to stitch GoPro videos that have been split due to length?
+How can I capture/convert HDMI from an HDCP protected input?
+What are the rights to exported video from the Apple&#39;s Keynote app?
+Lossless screen-recording software
+Would it be legal to use Cott-produced, generic beverages in a film?
+How to reduce wind noise from a video?
+How can I achieve the Ken Burn Effect with greater control or in other software?
+Does mjpeg handle interlaced video correctly?
+What is the best method to record a home video of multiple players?
+How to convert an MTS file without loosing quality?
+After Effects: how to create a color via expressions
+Windows Software to record from Webcam &amp; Screen
+How should we back-up our media files for our production studio
+How do I turn audio into video (that is, show the waveforms in a video)?
+Create quickly alternating clips in Premiere Pro
+Low cost DIY high-speed video camera
+Is there a way to do both Extruded Text and Layer Modes natively in After Effects?
+How to make a video from a still image and an audio file?
+Transferring old metal particle Hi8 tapes
+How can I keep my project-specific Motion elements together with my Final Cut projects?
+FCPX =&gt; DaVinci Resolve =&gt; FCPX color grading round trip
+How did cameramen manually focus in the film days?
+Does Adobe Premiere Pro CS6 have a fullscreen mode?
+Selectively blur many but not all of the faces in a video
+Why more than 10 FPS is needed
+Which software application did they use to create LHC data processing animation?
+Black and white DSLR video quality
+Premiere Pro doesn&#39;t play AC3 audio stream from .MTS file
+How do I correctly use an ACES workflow with CinemaDNG footage in Davinci Resolve?
+Advice on how to determine right camera equipment and set up for multi-sport court?
+How do I rig a Kino Flo to a gobo arm like this?
+Is it possible in FFMPEG to change scale over time?
+What is the Marketshare of the big three video editing (NLE) software packages?
+Shutter slower than video FPS
+How to create and film ghost special effects
+Should you shoot flat when shooting with a DSLR?
+How to achieve &quot;Acid Burn&quot; saturation?
+Low cost frame synchronized (genlocked) 3D stereo camera
+How to convert video to ogv and webm versions with a high quality result?
+Can H264 achieve &quot;equivalence&quot; with ProRes 422?
+Converting MLV to Prores
+After Effects - How to avoid annoying gradations if I render a mp4?
+Footprint or breadcrumb animation
+Places to look for sound tracks for videos
+How to encode apple ProRes on windows or linux?
+What is the difference between ffmpeg and ffmbc now?
+Encode settings for HTML5 background video
+How to burn timestamp onto video?
+I Finished My Film. How to Get It to Theatres?
+How can internal software clip the &#39;From Software&#39; channel on my Apogee Duet?
+Templates for video production?
+How can I make &quot;videosongs&quot;?
+How do you load a Bolex H-16?
+Automatically split takes into individual files in Final Cut Pro
+Indexing audio for video editing
+Is it possible to recreate VirtualDub Deshaker functionality in Adobe Premiere/After Effects?
+Converting SECAM VHS to a digital format
+Music video lighting with small budget?
+synchronizing video and audio in a remuxed MKV
+Very Good Free Lossless/Lossy Video Encoding For Editing on Windows 7 (regarding fraps recordings)
+Selecting all clips on the right of the playhead
+Transfer Avid project from one machine to another
+Is there a Jahshaka manual?
+What are some tips for shooting green/blue screen footage?
+Can I use unlicensed music as soundtrack for a video?
+What is the best workflow solution for editing a movie in FCPX and creating specific effects for it in Motion 5?
+Hardware/software to project video wirelessly?
+How to choose a VCR for pulling stock footage from VHS for theatrical release
+Video Booth / Video Guest Book for Events
+Hardware/workflow for HD multicam shooting on a budget
+What metadata can be stored in a .dv file?
+How can I see each frame of a mpeg transport stream under windows?
+How does MKV segment linking work?
+What&#39;s the difference between a DVCAM tape that is mini and a MiniDV tape?
+Creating a &quot;finger using device&quot; effect like in iPhone app ads
+What solution do you use to bring a udp, rtmp, ... stream back into the hd-sdi format
+Choosing the right program for video editing
+Importing an unsupported file type into Premiere Pro CS5
+Windows software to turn a 3gp video on its side before upload?
+Can you link an audio track to a video track in iMovie?
+How do I take optically faithful videos of glow props in the dark?
+Timelapse video with meta information on every frame
+How can I extend the ten minute video limit on a Canon PowerShot ELPH 300 HS?
+How can I sync two videos together in Corel VideoStudio Pro X3
+Understanding Video Formats and Attributes for use in FCP7
+H.264 encoder with CLEAR options for specifying minimum &amp; maximum video bitrate?
+High-end graphics cards: is it needed or useless for video editing at i5 machine with quicksync?
+Adobe Premiere Pro CS4 - Looping a clip
+What are the advantages camcorders have over zoom digital cameras?
+Is there an online video converter?
+Tips to make a stopmotion walk
+An easy way to create videos for YouTube from mp3 files
+How to burn HD videos with menu system onto DVD media?
+video bitrate - how large should my video be?
+Is there a decent computer based, multiple video stream capture solution out there?
+Live Streaming and Recording Simultaneously
+How much film do I need (in feet/meters)?
+Periodicals/magazines/blogs for cinematography?
+Fix timecode in merged vobs
+Where can I publish a 50 fps video?
+What is this device?
+How to technically tell if a video has been sped up or not?
+When making an animation how can I get a zooming effect?
+Choosing a frame-rate for an animation project
+Quality Full HD Camcorder - DSLR or dedicated one?
+Adobe Premiere &amp; Final Cut Pro project file standard?
+Slow HD video whilst editing
+Why is this ffmpeg command outputting such long clips?
+How to reduce noise in old, low-light DV-8 video
+Reverse the blade tool (merge clips together)
+How to create a good short video with limited supplies and time
+How can I reuse an effect sequence in FCPX?
+How do I &#39;downgrade&#39; an Adobe Premiere Pro project file to open in older versions?
+How to record a slide presentation efficiently with video/audio
+How do I remove audio from all files in a directory with ffmpeg?
+Rearange order of audio tracks in Premiere
+Replicated circles are blurry in Motion
+Tracking box to full viewport
+What are or where to find SDI record start/stop ancillary packet specification for Sony, Red or Panasonic
+How to create a ragdoll effect on a human?
+What is the current status of rolling-shutter-free CMOS sensors on the market?
+Audio from PA system to Camcorder
+Upload a video to Youtube without losing contrast
+Visual equivalent of VST
+Difference Matte Keying software
+Adding voiceover without video recompression
+Understanding Region of Interest selection in a Camera
+Animation over video
+Transcription Methods/Times
+Where to place a camera to record Swimming
+How to make an iPad like commercial video?
+Remove audio tracks from multiple MKV files
+filming objects that emit light in low light conditions
+How to automatically synchronize two recordings of the same event?
+Prevent video stutter / lag in h264 on iPad
+Automatically capturing stills from video presentation
+Canon DSLR home-video. Need advice
+Seeking free and simple way to brighten a dark video
+Should I just get a gaming PC for audio/video production?
+Is it possible to alter the playback *preview* speed?
+Clip quality severely degrades when imported into Premiere Pro CS5? (appears interlaced)
+Advantage of converting GoPro video files with GoPro CineForm?
+How to force ffmpeg to insert keyframe at first frame when downsampling a framerate of a video with x264 vcodec
+Possible to use sRGB as mp4 colorspace?
+Why is Audio and Video out of Sync during recording?
+How to alternate between two video clips in Premiere Pro CS6
+How to clean GoPro footage?
+What is this filming technique called and how do I do it?
+Tricky full body video conferencing
+Getting Started with Webcasting and Video conferencing
+Timelapse Countdown Timer in After Effects
+After effects: Moving text along 3D path
+do TV broadcasts provide localized advertisements by altering the TV photo
+Will lens softness be apparent on DSLR video footage?
+Converting a Adobe Premiere CS6 project to a CS5 one
+Repairing brightness problems caused by auto lighting optimizer
+What is the most effective way of slowing down footage?
+720p 60fps playing in slow motion need real time speed?
+Command Line Tool for Converting Image Sequence to Quicktime .mov Video
+Software to combine two videos of the same scene?
+settings for editing in cs4
+Is it good practice to have a film&#39;s supporters contact film festival program directors?
+Does YouTube allow multiple soundtracks
+Old video tape effect in Premiere Pro
+Footage feels &quot;faster&quot; when exporting from After Effects
+Easisest way to convert whole DVD folder (all titles and chapters) to MKV file(s)?
+Lossless extracting of JPEGs from an MJPEG video
+How does GSpot calculate &quot;Recommended display size&quot;
+How much GB or TB is 1 hour of raw uncompressed Ultra HD film?
+How to convert variable frame rate videos?
+Easy way of editing keyframes in adobe Premiere
+Changing QuickTime Conversion Default Settings for export
+After Effects quality drops
+Equipment/setup recommendations (1 camcorder, 1 mic)
+Web Videos via Watch Folders Transcode
+Whiteboard animation: how to zoom and draw a motion?
+Why do my Objects show up black in Cinema-4D?
+Split-screen closed-circuit sports recording
+zooming animation is not smooth in Premiere CS6
+Best way to edit mashup video of downloaded movies?
+Record on laptop from streaming camera via RCA cable
+How to Create a High Quality, Small File Size .mp4 from .mov
+placing text in video filmed environments
+Accessing the Layer Panel in After Effects
+Is it possible to encode video using the same codec and container but different parameters for different scenes?
+GH2 HDMI out on MX02 &amp; Black Magic (Need for studio recording)
+create subtitles track by automatic timing of existing text
+Export rotated video out of Adobe Premiere
+how to do an amplitude modulation in Ableton Live
+Film vs digital - telling the difference
+How are 3-dimensional overlays synchronized with videos?
+How can I rename a footage .ai file for AE without breaking the references?
+Delete unused video clips in Vegas
+How to trim a video with frame precision using ffmpeg?
+Canon 600D/ T3i Video Output and Converting?
+How to make black text accept light in After Effects
+How do I decide if 14ms response time in IPS LCD monitor enough?
+Advice on Weatherproof HD Camera for Streaming Video / Audio
+Why is Adobe Media Encoder so slow?
+Fixing desync in a large, long video file
+What software do movies use for FX?
+how to blur a short scene in a video
+Shutter speed when recording with DSLR
+ALL-I vs IPB. Which one to use
+How could I recreate this stroke effect in After Effects and/or Sony Vegas?
+Using cell phone camera to record and play back in theaters?
+What are the negative effects (if any) for leaving a prosumer comcorder powered 24hrs a day?
+Looking to get Youtube-quality video stabilization from a software based video editing application (on mac)
+What specs should I be looking for in a camera to record board-game sessions?
+DSLR RAW video: 1080p or 720p?
+Do I need to convert 60fps to 30fps so it will be reproducible?
+Sync audio and video, equipment?
+`Format profile` property in MediaInfo
+Creating stereoscopic video from two video files
+Subtitle SubRip (*.srt) Positioning
+How to batch process hundreds of videos?
+Magic Lantern follow focus
+How to release the work anonymously under the free licence?
+Why to music producers not bother with CD-TEXT
+AE : Using a drawn brush as a mask
+Why do some camcorders record in 1080i?
+Is it possible to have an image be picture-in-picture and just tell FCPX to keep it at its original size?
+After Effects - Make one frame brighter
+Invalid timebase converting videos from Galaxy S3
+What Is That Misty, Glowing, Saturated Look 2000s Music and Pro Videos Have?
+Free software to synchronize audio and video recorded at the same time
+Software to Remove a Person from a Video
+Final Cut Pro 10.1: How to move clip framewise in timeline?
+Rendering video from Photoshop CS6 leaves background grey where it should be white
+mp4 - Codec or Container
+How to check video, AB test, on different screens: balancing colors, etc
+Live desktop feed on green screen: thesis presentation
+What equipment should I get for starting out making professional quality films?
+After Effects expression - define two positions, tween back and forth
+Precise Keyframing in Final Cut Pro X
+Start and stop capturing while video is playing
+Is it better to scale video or images when doing time-lapse?
+Remove audio tracks from multiple MKV files
+Transcription Methods/Times
+No audio during footage preview
+I want to add some audio to the end of a video
+Upon export in Premiere Pro, colors lose saturation when previewing in QuickTime
+Building smarter elements for Final Cut Pro X with Motion 5
+What are the key PC specs for best editing HD videos?
+How to concatenate clips from the same video with ffmpeg
+Video fails to play in QT browser plugin. Encoding problem?
+Will remote shutter releases stop and start video?
+How do I properly bake a texture in Cinema 4D?
+How to correct shadows when parts are too bright and other parts too dark?
+How do I make a news-like lower third in kdenlive?
+In cartoons, what is created first - video or sounds?
+Best way to stabilize footage?
+Post-production workflow: VFX before color correction?
+Graphic music visualizer without after effects?
+Handling Frame Rate for Movies with Slow Motion
+What is the productive way of doing multiple speed changes in a video editing project?
+How to duplicate a generator below connected media?
+Using gopro hero 3 white/black with 3d- anything to watch out for?
+How does one recover a multiplexed video stream with missing headers?
+Combine video and audio TS segments coming from HLS stream
+Terminology connected with camera movement
+Spot removal tool
+Recording Audio for Stand-Up Comedy
+How to hold the last frame when using ffmpeg
+How to detect and extract words from audio/video stream online in a webpage itself?
+Slowing down footage with easing (like iPhone 5s)
+Recommendation for a flying camera device
+Scaling &quot;Stroke&quot; Effect &quot;Brush Size&quot; while scaling composition?
+Codec genealogy / kinship: DivX, MPEG-4 Part 2, H.263
+Merge MP4 with M4A
+Add intro and outro to multiple files (batch)
+What do you call it when the footage has a rippling effect?
+Differences Tamron f/2.8 28-75 / 24-70
+Audio monitoring w/ headphones through HDMI port
+Add an image in front of video using ffmpeg
+Create a Video File or PNG Sequence of Writing Out A Word
+Recording and playing video with variable frame rate
+drop similar frames
+Awful Audio in Video post-render (Premiere Pro CC)
+Premiere Pro CC: Multiple instances of a panel in the workspace?
+Are there any video programs to trim and export multiple videos at once?
+Using tablet/smartphone as external dslr monitor
+Does raising the framerate while not changing the bitrate result in quality loss?
+Is using a softbox as a back light a good idea when shooting indoors?
+Using a Flash to Light Video
+scale an image inside a mask
+How can I record audio &amp; video synced with another audio file?
+Why don&#39;t phones correct vertical filming?
+If an image under a CC-SA license gets used in video - must video be CC-SA?
+Tessellation-like animation in after effects
+Linux command-line option to do video lens correction?
+See layers beneath the solid I&#39;m editing in After Effects
+How to handle Rode VideoMic Pro during transport?
+4k vs. 1080p on a 1080p monitor
+Adding a sport watch timer
+After Effects - Audio Spectrum with Circles
+Combine multiple videos as separate streams in one mkv file
+What lighting setup is recommended for filming a presenter in front of a TV screen?
+Is it correct to mix tripod and handheld footage?
+How to scale video showing the underlying layer/track in the cropped area
+ffmpeg input from images stream out video
+How to encode a video at 30 FPS from images taken at 7 FPS
+How to remove an object (Tooth) in After Effects
+What are motion graphics?
+Similar to &quot;levels adjustment&quot; brightness improvement with ffmpeg
+Video desyncs with the audio over time
+What are the names of different ways to fit video when the aspect ratios do not match?
+How come my Adobe Illustrator file doesn&#39;t show up in After Effects?
+Changing the aspect ratio of a video
+How much recording time at 1080p30 on a 32GB card on a GoPro Hero (1)?
+D5200 Color levels change through video
+Multiple Videos On Screen
+YouTube&#39;s 60fps runs smoother than games?
+What&#39;s the benefit of using an external audio recorder compared to an internal one?
+Is it possible to relight filmed footage with NUKE or After Effects?
+Add image under the video with ffmepg
+Nuke particles escaping bounce node with geometry input
+How to stitch images from DIY panorama video rig with 3 canon 60d&#39;s?
+Timelapse on after effects
+Embedded HD video looks fuzzy on full screen but fine at Vimeo
+how to add video title without re-encoding the video
+Battlestar Galactica Style Lens Flare?
+Object moving to a position I didn&#39;t specify
+How to trigger multiple canon cameras at the same time?
+How to resolve Shearing issue while rotating image in Adobe After Effects?
+How can I merge/link two video clips in Premiere?
+Grading Colour To Black And White In Davinci Resolve
+How can loop animations with a different start and end point in after effects?
+Motion tracking in very shaky footage?
+Remove light reflection from eyes
+Downsampling 4K footage for an increase in chroma sub-sampling
+How to shoot a scene of someone riding a bike?
+How to improve sense of timing in motion graphics
+After Effects: Parent a Camera&#39;s position to a Null-Object with specific Off-Set
+After Effects: Create an isometric/orthographic Camera
+Copying h.264 video from TS into MP4 changes frame rate and time
+Adding metadata for films/TV shows on Linux
+camera flashing in film
+vary the color of repeated shape in After Effects
+WMV vs MP4 Streaming &amp; Download
+Negative SMPTE timecode drop-frame handling?
+Sony TV RCA output into Yamaha HS80M input via RCA male to XLR male: Is it safe?
+Problem exporting a mixture of PAL and ProRes 422 in FCP
+Is there any relation between a Exposure &amp; Flicker 
+How to playback/convert a DV4 file?
+Producing DVDs that play everywhere
+Removing an undesired object from a clip in Final Cut
+Premier Pro versus Final Cut Pro
+What is a good workflow for producing High quality High definition Videos suitable for a final upload to the internet.
+Choosing the right format/codec for export
+How to insert dynamic data into a produced video
+Final Cut Pro 7: Zoom without using “scale”
+Cheapest way to convert from toslink to 4 channel analog audio?
+First steps in time lapse
+How to make a single video out of few pics of different resolution and videos of different resolution
+How can I create or where can I download (royalty free) sound that goes well with a &quot;bad TV&quot;-effect?
+Software advice - for creating animations
+Reading material for technical aspects of timecode and alignment
+Livestreaming Youtube
+What is a good utility for trimming .dv files without losing metadata?
+Lossless HDCP stripper?
+Ad Free Video Streaming to Web
+What exactly does &quot;Ethernet-capable HDMI cable&quot; mean?
+What is the best way to capture PC footage?
+What is the orbiting technique involved for this scene [youtube]?
+Which software to batch join videos and add a chapter for each?
+What settings should I use when recording my child&#39;s play in a dark theater?
+Video &amp; Audio Kit on a Budget
+How do video producers cope with matching or normalising inputs from multiple differing devices?
+Choosing an import format: AAF vs OMF
+Which cameras produce video that can be edited on a mac without transcoding?
+Is there a way to manage Final Cut project files under Linux or Windows?
+Dynamic saturation exaggeration
+Best software tool to process image/video and obtain greatest level of zoom?
+How do I specify baseline H264 profile using FFmbc?
+Hardware requirements for multiple TV channels (cable TV) digitization
+What&#39;s the best setup to transfer a digital or analog video over 100 ft?
+How do I edit video footage from an interview?
+Workflow for making interesting videos
+Frame rate conversion during playback for maximal smoothness
+Video Editing/After Effects Forum To Ask For Help
+What are the features you look for in an SLR when you mainly want it to shoot video
+How do I mute my monitors while leaving headphones on?
+How to create timelapse video using CR2 RAW files?
+Best way to output two streams, and add lower thirds keying to one stream?
+Fastest way to add a timestamp to a video
+Whats the difference between a sekonic light meter CINE version vs non-cine version
+merge and convert swf
+AE - Imported mp4 seems to be missing audio
+Unwanted letterboxing using Wirecast
+How can I color correct a footage from a 7D using the CineStyle Picture Style
+Practical algorithms for rate adaptation
+Does the M4V file type have direct support for Audio?
+What is a good efficient way to isolate clips from long movies?
+How to simulate a photo being taken from the photographer&#39;s POV in a film?
+Canon 60 PC Adobe Premiere and After Effects Workflow
+What are the options for manipulating video in live situation? Kinda like a VJ
+What can I use to build a live video recording, streaming, marking application / platform?
+Timing of script pages
+How to figure out video format by video sample?
+Frequency of refreshing for a green wall
+Keyboard shortcut for cut video AND sound at current position in premiere cs5.5
+Simulating a camera flash
+Filming a football game from inside the goal. Which camera is best?
+How to create super smooth slow motion clips in After Effects that will be edited in Premiere Pro
+How do I prevent Quality loss in the beginning of a video?
+Options to speed up Hobbyist Rendering?
+Any way to fix a corrupt Custom Keyboard Settings file in Final Cut Pro v7?
+Gradient banding
+Removing horizontal scan lines from video?
+Recording Video From one PC to Another
+solution for archiving digital video
+Are there any downloadable samples of 48 fps video?
+Problems with rendering a Windows Movie Maker video
+Video clip is smaller dimensions than project. How to change the color of extra space?
+For time-lapse videos, what software should one use?
+Command-line tool to split video at timepoints?
+Recreate basic AVCHD from MTS files
+exporting .mov vr to multiple still frames
+Converting DVD to still images
+Exam Question - end-to-end delay from video capture to video playout
+How can I create this 3D text video presentation?
+After Effects - How do I create animated coding
+How to create a rolling ball with Python in Blender?
+How to create a new stereo mix from one channel in Premiere pro cs5.5
+Recorded video changes dimensions while play
+How can I change the default Production file save location in Camtasia Studio?
+Tool to transcode Canon PF24 MTS files to native 24p?
+What&#39;s a good camera to shoot a low-budget short film with?
+How can I prevent adobe media encoder from trimming the end of the video?
+Panasonic SDR-H100 Multiple Program Files
+Thunderbold to HDMI ---&gt; HDMI Switch ---&gt; Saeco projector = No Video
+Burn a single HD video into a DVD without losing quality
+Compress video while keeping details
+Simple editing without re-encoding from the GoPro AVC codec?
+Errors in Windows Movie Maker
+How can I transcode a PAL-formatted videotape in the United States?
+Best way of presenting both 720p and 1080p screencasts
+Adobe Premiere CS6 search slidebar
+Software to add text from file
+Unable to render file larger than 4 Gigs in Sony Vegas 10
+What does ALL-I mode mean?
+Auto-Orient, Wrong Rotation on Last Keyframe in After Effects
+How do I move (rearrange) the orientation of a video?
+What tool should I use to animate text on an EXTREMELY high resolution &quot;screen&quot;?
+How to export footage and burn a 16:9 PAL DVD for playback on television
+Can I manually change an .mp4 to .m4v by changing the extension in the Finder (mac) or explorer (win)?
+Merge .ass-subtitles into movie
+Is there any way to play corrupted .MOV video file
+Resolving timecode errors when capturing in FCP from MiniDV tape deck
+Focusing away from Premiere causes playback crash
+Removing [&quot;Bounding box&quot;] in Sony Vegas
+how to convert a video to black and white color without any shades
+Software for video cut automation / scripting
+Improve chroma key effect in Sony Vegas
+Windows 7 - multiple programs with conflicting sound output
+Any way to batch stabilize video files?
+What camera to use for classroom/lecture recording?
+Software to capture high quality screen-casts
+Video tutorials: how to add labels, comments, arrows etc
+Certain audio tracks not rendering
+What software can we use to create this slideshow video
+What ffmpeg/avconv format and container will Adobe Premiere Pro accept, out-of-box?
+Orange Bar in Final Cut Pro X 10.0.6
+How would you go about finding out when a digital video was made?
+How do you play a clip backwards in Sony Vegas?
+What kind of camera do I need to record a moving object in order to do motion tracking?
+Cluster laser stage lighting
+Recommendable production codecs for Adobe video products
+How to convert large iMovie-imported videos preservig aspect ratio?
+Is importing to Aperture then editing in iMovie a viable workflow?
+what&#39;s a good basic app to edit stop motion video?
+What is a projector&#39;s &quot;pixel frequency&quot;?
+How to reverse video in different software packages
+Entire Track Velocity in Sony Vegas
+What software do I need to edit commercials out of recorded sports games?
+DVD playback jagged
+Video editor with basic color correction for commodity hardware?
+What&#39;s the right setup for recording programming talks?
+Difference between 4K Edition and 4K Cineform
+Save frame with current camera angle
+How to encode a video for the iPhone with Handbrake
+Effective working at audio/video editing sessions (avoid fatigue making steady progress)
+Can I use the videos marked as &quot;youtube standard license&quot; for a non profit video?
+Easiest way to create a continuous shot effect using multiple cameras?
+Format to view on iOS and PS3?
+What techniques are used to create this 1-minute motion graphic?
+Scan Library for music track
+After Effects Alternative for Windows
+Satellite DVR: Cant play recording on computer
+Adobe After Effects MP4 Export Issue
+Video file format won&#39;t play
+Capture Date For Video
+Record and edit two videos at same time
+Why doesn&#39;t the Play button Play in Premiere CS6?
+Adobe Premiere Elements 10: File &gt; Export is greyed out
+How can I make a video such that the quality degrades if someone tries to record it using screen recording software?
+FPS for the internet
+How to compensate for red oversaturation and contrast increase?
+White Balance/ Filters
+How do I accurately calibrate an external on-camera LCD monitor?
+What hardware/software to get fastest possible access time in AVC/h264 files?
+Sending real time audio from the field unit to the radio studio over 3G
+Flipping Video Animation, How?
+segment does not contain sync frame
+presenter (speaker) change detection from a video clip?
+Video editing objects from black and white to colour
+Looking for a Graphics program
+How to record live video using camcorder?
+Avoiding motion blur from a network camera
+Is there a video player where I can draw on top of video?
+How can I move a floating text or image with the video?
+Should I use a GoPro Hero 3 Black for recording drama?
+How to gradually colourize an object in after effects
+How to assign roto to another layer in After Effects
+Calibrate Graphic EQ without SPL Meter
+GoPro 3 Black gets stuck in &quot;&gt;&quot; Play mode when diving
+Calibrate EQ Using Speaker SPL Graph
+What is the best way to record from a single fixed camera?
+Bluray I/O speed
+RG6 vs RG59 HD-SDI cables for live stream
+Why does After Effects not enable me to work with 60FPS?
+Blur whole text and then &quot;unblur&quot; part of it
+How do I set up an RTMP stream server and URL endpoint?
+Automate turning on and off Twixtor effect in After Effects
+How to use cloning effect if the clips are overlapping themselves?
+Scrolling rainbow when projector screen is in frame
+what hardware can I use to connect a Laserdisc player to my laptop?
+fps resampling dilema
+How can 1080p films be so disproportionally lightweight?
+Software to edit .mov files from a Canon 7D
+Setting up (negative?) midi delay in ableton
+Retaining quality while re-encoding with same codec
+How to make the rest of the mask transparent in Premier Pro CS6?
+How to split MTS files?
+Minimising image noise within the recording of indoor office environments
+Premiere Pro CS6 preview problem: other application shows through
+Record and stream what&#39;s on my screen
+What compression should I use for archiving VHS tapes to HDD?
+Where are the opacity map presets for CC Particle World in CS5 and CS6?
+Video Editor for syncing mult camera videos
+How to change note value in Ableton Live
+Freezing/repeating the last frame of a video clip in Apple Motion 5
+Using 1080i on a 720P monitor will produce better image/video quality?
+What can cause poor quality video in Canon point&amp;shoot camera?
+Convert VfW-codec based video to &quot;normal&quot; (Windows)
+Why does iMovie convert a 1.8GB .MTS (AVCHD) file into a 2.2 GB .mov file by reducing resolution?
+Batch-importing images in sync with audio/markers
+Cross Dissolve not available in between clips [Premiere CS6]
+Export to wide screen (16:9) from Final Cut pro X
+MV 750i image sensor
+Term for upcoming TV summaries (broadcast design)
+Cannot render 16:9 video for youtube
+Minimal working frame rate for H264 codec
+How to make this vector animation?
+How to change lightworks project frame rate?
+How can I accomplish smooth video playback with QLab 2?
+How do I communicate with post-production team? Need a list of effects and examples
+Does animation make use of any Artificial Intelligence?
+Use Canon T3i as a HD Webcam
+Which sequence settings in Adobe Premiere for a YouTube video
+Flagging noteworthy moments during lengthy video recording?
+Origin of &quot;desktop capture engine&quot;
+How can flicker from a slide projector be removed from existing video footage?
+Scrolling the panel in After Effects
+How can I become a video editor with Adobe Premiere?
+How did they make the nice moving shots in this video?
+Which low budget video camera would be appropriate for making travel/advenutre short films?
+best software for multicam video production
+Adding image to a video file using ffmpeg
+What software is used to produce this video?
+Wavy screen and lines showing now and again in live streaming cam
+Techniques and technologies for synchronizing multiple audio and video streams
+Small Kitchen studio setup
+How to position spheres that are created with the CC Ball action?
+Why isn&#39;t ffmpeg used in movie production or broadcasting tool chains?
+Is it possible to wirelessly transmit 1920x1080 32-bit color 30fps video through VGA from laptop to HDTV?
+Best way to get synced audio from multi-cam Premiere project into Audition and back
+After Effects - Making a compilation
+Technique: remove background by combining two images?
+What can be done with .CPI or .clpi files?
+How to re-transcode sequence Encore CS4?
+How to mask an animated layer in After Effects?
+GIF individual frame timing
+What are some free (or cheap) options for hosting home videos that have copyright music in them?
+Ideal video format for Windows Movie Maker
+How to fix choppy/lagging video from Canon t3i?
+Smooth horizontal and vertical camera movement
+converting to .MJP files
+What software do you recommend to easily import and edit tapes?
+How to deal with Youtube making videos &#39;pinkish&#39;?
+Why is my Premiere timeline scrollbar thumb non-proportional?
+FCP X 10.1.1 - Transitioning to libraries without blending
+How can I blur an entire video using iMovie or similar?
+What is a good lossy format for storing DV
+Inexpensive do-it-yourself Steadicam rig
+How do I render each time increment on Premiere Pro CS5/6?
+What is the underlying difference between motion compensation and motion estimation?
+Export high bitrate video in lightworks
+How to Set the defaults for Render Queue in After Effects
+Is it possible to have stereo sound from an external mic on a Canon Vixia HF G20
+Compressor 4.1: Why can&#39;t I select the group I made for distributed processing?
+Sony Vegas Text Parser?
+disabling streams in quicktime movies with ffmpeg
+Achieving the Elf &quot;Angel&quot; effect
+Set variables on imported comp?
+IMovie 11 to FCP 10.1
+restart encoding with ffmpeg when bad source
+How to keep EXIF data in a DSLR video after editing / compressing with Photoshop CC?
+I want to have multiple streams (up to 4) on one YouTube Live broadcast, Is that possible?
+Line between photographer and video
+Vegas Pro 12 vs Vegas Pro 12 Premium
+Video Capture using ffmpeg (V4L2 indev) Results in Bad A/V Sync
+How to stop and start a key frame on a specific time on After Effects?
+Slow Video Render? incl. New &amp; Old PC Specs
+Video from still images - Zooming
+How to mark multiple ins and outs in Adobe Premiere?
+How to get a crisp, exact color match for lossless screen-cast?
+Is there an easy way to import textured 3D geometry from Maya into Nuke?
+Reduce File Size of Dxtory Video Without Causing Lag
+What are some software to create animated videos?
+h264 settings for large flat areas of slowly changing colour
+1080p60 recording has very strong compression artifacts, default Neat Video not reducing them much
+How to achieve the short particle bursts in this gif?
+Is it possible to select particular portion of a video in adobe premiere pro?,
+How to configure crtmpserver for live streaming?
+Unable to concatenate videos due to identical MOOV atoms
+Sound sync problem
+Superimposing 2d photoshop cartoon into video footage
+Black halo / ghosting on transparent layered PSD file imported into FCPX
+Looking for a solution to remotely control timed video capture
+Pinnacle Studio 17 vs Adobe Premire Pro CC
+Reduce quality percentage wise
+Why does variable bitrate still have a bitrate specified?
+In video, can previous frames effect results seen in subsequent shots?
+How to do a video live stream through a VPS?
+Slow Premiere performance after Mavericks upgrade
+Camcorder pass-through or stand alone capture box for VHS source
+Are there technical issues with doing video reviews of software?
+Is it possible 3D Transform a video clip in Final Cut Pro X?
+Chromakey (Green Screen) Best Practices in Adobe After Effects
+Camera features useful when recording a live high school basketball game?
+Resynchronize Audio to Video
+DSLR chip overheating and max clip length
+What video formats should I support (as of 2014)?
+How can I fix a resolution discrepancy between nested sequences?
+How do I temporarily disable Davinci Resolve nodes?
+What software to use for lighting and rendering 3d animation shorts?
+2GB vs 4GB Graphics card Memory for playback and encoding of Videos in Adobe Premiere CC
+Slowing down video vs higher framerate recording
+Title not updating after creation in premiere pro
+Overlay an image onto live video feed
+Which sensor is better for video, cropped or full frame?
+Can I get Handbrake to apply additional filters such as brightness/contrast?
+Import .flac to after effects cs6
+H264 framerate information?
+What is a good wireless solution for video monitoring for BlackMagic Design Cinema Cameras?
+How can I adjust brightness when shooting high FPS video?
+Is automatic switching of audio stereo balance while cutting between camera angles possible?
+How do I create a lower third for a music video in After Effects?
+Can modern cameras (BMCC, Red, Arri, etc) record to a drive over ad-hoc wifi?
+ffmpeg: Normalize audio in an avi file
+Output file longer than source with ffmpeg
+Easy script for making and overlaying video counters?
+Are there any recent 64-bit VFW screen capture codecs out there?
+How to create simple animation with transparent background?
+Why is rendered playback slower than my project?
+Microphone suggestions or software to avoid background noise in audio
+ffmpeg framemd5 format explanation
+Actively Used and Developed Motion Capture Systems
+Is there a program for automatic clip creation from scene detection/recognition result?
+What is the name of a portion of video between camera changes?
+Blocky video artifact problem on Canon 600D
+QuickTime File Format (Atoms &amp; Flags)
+Avidemux &quot;too short&quot; error
+Smoothcam filter vs Warp Stabilizer
+Making lenses (water and dust) splashproof?
+How to use mouse drag gesture to position &amp; size a still image in Premiere Pro CS6
+Cannot capture (HDMI) output of Graphics Card with BlackMagic UltraStudio
+How can I update instances of a text template after changing the master template?
+Simulate parenting, (or un-parent) in after effects
+Invalid DICT array size (83::2) in After Effects
+How to time-remap with Twixtor in Adobe Premiere?
+FFmpeg MP4 to FLV too slow
+Video Encoding - Wasting Space
+After Adding a few Clips to the timeline, audio is no longer imported?
+After Effects - Simple Lighting Effects
+Will I lose quality when converting avi to mkv?
+Benro and Manfrotto Monopods - QR System
+What is good software for video editing under Linux?
+What software is required to make a simple animation clip like this?
+Lossless cutting video (MPEG-4)
+Premiere Pro PC timeline only plays for a few frames and then no Audio after installing Miraizon DNxHD / ProRes Codec
+After Effects - Recreate a &quot;distortion&quot; or a special Radial Blur effect / Slowly pitch sound down
+After Effects Not Rendering Transparency
+Lossy output with FFMPEG JPEG 2000
+How to Differentiate Subtitle Track Language Between Simplified and Traditional Chinese?
+Converting video with different resolutions slightly affects in file size, why?
+can&#39;t import AVI type 1 to premiere CS6
+Poor Resolution Video &quot;.MOV&quot;
+Good Intro Editor that can Join Audio+Video, and Present Two Frames Simultaneously
+Repeat a clip down entire timeline
+GoPro Dual HERO 3D stereo system only compatible with HERO3+ Black Edition units?
+How to mask everything except eyes?
+Reducing the size of content within a composition in After Effects
+Multi-Cam View Disappeared from Premiere CC
+Change output using a .jsx script for After Effects CS6
+Any tutorials on how to animate a vector hand
+YouTube Compression: Why?
+Using triplehead2go with ATEM 1 M/E
+After Effects render on AWS EC2
+Any way to change properties of subcomp based on parent comp?
+Is it possible to embed VTT subtitles &amp; chapters in webm video?
+One Frame Flash
+Find/replace duplicate comps?
+How does YouTube convert between different videos resolutions?
+Loss of quality in after effects 3D layer
+Need a video/audio &#39;time base corrector&#39; with a very large time buffer
+Make a video look like it was taken from further away
+Premiere CC uses vertical aspect ratio in multi-camera shot
+Can not render After Effects CC project as mp4 / h.264 any more?
+Are the properties (bitrate, fps) of my h.264 video OK for the web?
+Console Audio and Commentary Capture - Is it possible to capture both?
+Distorting video with live sound
+Does the project resolution affect the quality of a chromakey?
+Looking for a specific transition for Adobe Premiere
+Mp4 Video Container and the Codecs use with it
+Are mp4 bit rates the same as Flash bytes per frame?
+10 bit 422 vs 8 bit 420
+Microsoft Movie Maker Not Centering Video on Preview Screen
+Does youtube store different video files for different bit rate?
+video lighting output levels
+How to Record a Dark scene without any Noise?
+Bulk cutting and compression
+Rendering without quality loss in Kdenlive
+How to make a film in black and white and add color to some objects?
+Looking for a suitable lossy video codec to quickly record video in-game
+Make video look like it was shot in a dark room
+Good software for a simple, slide-show style video presentation?
+Zooming in on one layer in After Effects
+Line animations
+How to capture / upload videos at scheduled times
+Relative Animation Presets
+How do I change the audio on a H.264 MP4 without re-rendering the file?
+How do you edit in multicamera mode if you have a mask on one track?
+How to force Adobe Media Encoder to use 100% CPU and memory?
+Is GoPro &quot;Cam_Raw&quot; a true RAW image format?
+Recording of Lectures: Tips for compressing video with mostly still images
+avconv: How to blur scenes?
+Scripting - Where is the documentation for the Layer#Effects attribute?
+Encoding 720p 29.97 fps video, options in Adobe Media Encoder are 23.976, 24 or 59.94 fps
+How to see if a video file is progressive or interlaced?
+Why doesn&#39;t the duration of a Premiere Pro encoding scale linearly?
+Can you measure the width of a character in an AE expression?
+Simulate &#39;grass&#39; using a replicator
+Real Time personalized videos
+Lavalier vs. cardioid mic for low-budget amateur DSLR video recording?
+Centered motion tracking with Mocha AE/Pro and After Effects?
+Which part of a computer is critic to work on 4k footage
+ffmpeg adds unneeded zero samples at beginning of resulting m4a file
+How is each type of video camera stabilizer different?
+Layer dimensions in after effects
+How to automate the rendering of all possible combinations of a composition in Adobe After Effects?
+FFMpeg and HLS, videos need to load in their entirety before they start playing
+What artifacts result from image stabilization in iMovie?
+Lightworks detects aspect ratio incorrectly and clips video from ShadowPlay
+Camera directing for lenghty single character scene talking
+Flash effect with Adobe Premiere
+How to colorise black and white movies?
+encoding 4:2:2 in 10-bit with libx264
+Converting from 3/4&quot; video to digital.
+Warp stabilizer in Premiere Pro cuts off most of the image
+How to Sync a Layer&#39;s Position, to a Layer in Another (Time Remapped) Comp
+Live streaming with Twitter and RSS information
+Black title changes colour when exporting MXF ???
+Audio extraction from video issue
+Wavy video export in Premiere Pro
+How to add &quot;two&quot; transitions between clips in Premiere?
+Gapless audio in video
+Why does Adobe Premiere Pro modify original footage/asset files (e.g. mov)? (CS6)
+How do I add an effect on certain length of the original clip in Premiere Pro CS6 using Keyframes?
+How to mask footage video with text?
+wrapping circular black frame for video - how is this called?
+Optimal brightness for multiple screens
+Any nice tool for replacing all black frames in a video with another frame
+How to apply an offset to one axis only in 3D space for linked expression position?
+Is reencoding a YUV 4:2:0 video in a 4:2:0 colour space lossless?
+Why deshaken video looks &quot;wobbly&quot; and how to fix it
+Is there a way to directly save DNG Sequences to 16bit exr Sequences in Photoshop or After Effects?
+Can I multiply 3D cards in a Nuke 3d scene on top of each other, like i can multiply layers in After Effects?
+How do I convert a series of PNGs into an AVI using Avidemux?
+I&#39;m looking to make a Nuke expression: I want the maximum value of an animation curve of another node
+Adobe Premiere - Restore Audio to A/V Clip After Deleting
+How to display static image if the input stream ends using ffmpeg?
+Sony Vegas default chroma key seem to shift blue colors
+How can I determine the publishing point for streaming an HTTP stream to Adobe Media Server 5?
+sync separate audio to video+bad-camera-audio, free NLE recommendations
+How is laserdisc information physically stored on the disc?
+Equipment for video recording in a florescent lighted classroom
+Workflow for Adobe Premiere?
+Video noise and harsh shadows on green screen caused by feet
+Power for lav mic plugged into a Zoom H5?
+I&#39;m having trouble scaling strokes in After Effects
+ffmpeg Color conversion - 709 to 601
+Correct font properties for subtitles
+Video editing workflow : Shall I export small sub clips as individual files from the main clip before final output?
+Search mpeg / avi frames in linux
+How to compile FFmpeg with libfdkaac into a single static binary?
+How to animate a solid face in a video
+Premultiplication issue with two jpeg sequences
+Stitching 2 videos into one (like panoramic photos)
+Sharp drop in FPS while recording
+Interpolate Effects in After Effects
+How to do mpeg/mpg to mov lossless convertion?
+Which different EDL types exist?
+Avidemux output to youtube
+Post production automated addition of text
+Linux - looking for a way to produce analog effects for video
+Can I use h.264 codec inside .mp4 container for my website
+Embedded Timed Text for closed-captioning? Is that possible?
+How to animate the outlines of text (After Effects)
+How long should the maximum length of an exr sequence be?
+Why does digital cinema focus on prime lenses?
+Acceptable to adjust colour levels dynamically
+Is it possible to merge two or more videos in real-time like this?
+How would I remove a specific pattern (say, every n-n+59th frame) of frames from a lengthy video file?
+How to specify CRF quality settings for different encoding software
+What are ways to show phone conversations?
+What software is available for recording in 1/60 FPS?
+Creating text graphics from a data feed
+How was this magic smoke animation done?
+Combining high res photo with low res video in a static shot
+After affects transition help
+HTML5 background video encoding settings
+Color Temperature, Contrast, Brightness, and Saturation
+Are these beginner&#39;s paid-for programs comparable?
+How to set up a 3-screen video installation to sync correctly?
+Bulk adding text to videos
+Nested Sequence that plays fine alone shows up as entirely black in Master Sequence
+What lighting setup is recommended to achieve a purple atmosphere in an indoor hall
+How to avoid sluggish UI in FCPX - more CPU, GPU, RAM or what?
+Free Royalty Free Stock Footage
+Is a 1/2.3&quot; sensor good enough for tv?
+Keeping metadata (time/date) when extracting frames from video
+How to get the highest possible quality out of a MP4 file
+How can I stay motivated and become more productive as a video editor?
+Cool Edit Pro alternative for Mac?
+Amateur orchestra recording/post-processing
+Video files compatibility for Adobe Premiere pro CS4
+Streaming with a Sony NX5
+Sony DCR-TRV140E Digital 8 tape problem
+Vertically shifted Image through RCA/Chinc connector
+Lag during clip playback in Premiere Pro CS5
+Adobe After Effects vs. Final Cut Express for chroma keying
+How can I create a 1920x1080p25 preset in Premiere Pro CS4?
+What is the difference between a fishpole and a boom pole?
+What mounting adapter do I need for this shotgun mic?
+Final Cut Express vs. Final Cut Pro X vs. Final Cut Studio
+Need webcam presentation software for digital projectors
+How can I put a camera with a standard tripod point on my head?
+What are the various desktop streaming software used by justin.tv and similar sites?
+How can I create an effect of pictures like an album
+Premiere Create custom frame size
+Recording a gaming console onto my computer from my TV
+How Do I Film A Rotating Object With White Background?
+Which container format for ProDVX F150
+How can I find good quality discounted audio gear?
+Are there any (visible) differences between R1 and R2 DVDs (or blu-rays, thereof)?
+What are some simple video editor with Masking capability?
+How do I detect scene changes in Adobe Premiere?
+Is this projector capable of 1080i resolution?
+Compress or convert .mov to lighter format
+Decoding and Using VITC?
+Recording 2-4 live video feeds in sync
+From Avid Media Composer to DVD?
+How do I assemble a Dynacam Flycam 5000 (AKA ProAim Flycam)?
+How to preserve new audio when importing Premiere projects into After Effects?
+Is the high-framerate crop mode in the Red Scarlet camera practical?
+Paper camera software filters for post-production?
+Screen-record tablet ink drawing on top of recorded video?
+Canon 600d vs Sony PD170 for video production
+Good free m2ts to mp4 converter?
+How would I develop AGFA Moviechrome 40 film?
+Importing an .fcp file into FCPX
+Does canon EOS 1000D support video recording?
+Screen Output to Projector and Another Computer Recording the Screen
+Any video editing software with own codecs?
+Lighting and Camera Angle of the Video
+What does it mean to &quot;check a waveform monitor to make sure that my highlights weren&#39;t clipping too much&quot;?
+Professional text animation software
+Which decoder allows for fast seeking or how to configure k-lite codec pack?
+How to help the autofocus feature of an amateur camcorder
+Adobe After Effects Frame-By-Frame Editing
+AE Error : Imager Buffers exceed internal limits. Decrease the memory requirements for the rendering of this frame. (12804)
+What is the best way to distribute an audio/video feed from a computer to TVs over existing indoor coax cable?
+Two questions regarding setting up a podcast with Behringer 1202fx mixer and a dual channel compressor limiter gate
+Do I need tripods etc. for filming?
+How to get higher resolution and smooth exposure control when shooting movies with a Nikon D5000?
+Is 18 mm enough for video?
+Final Cut: how to playback sequence while capturing video?
+What would you recommend me to record videos while playing Xbox360
+Video Archiving Tool
+Does anybody get a strobing effect when filming video with the D90?
+Is it possible to hook up a Component video cable (like those from the Wii) to an old TV that only has classic RCA?
+ProRes in Premiere - no audio
+Is firewire better than USB for live webcasting - Video
+Closed Caption formats - support for overlapping phrases
+How can I add a transition between two cuts of the same clip in Premiere Pro CS5?
+Is there a way to link the animation of two layers?
+Halogen brightness for video
+Can&#39;t add Motion Blur to layer imported from Photoshop
+Environments in which to stage an animated scene
+How can I capture multiple computer screens and put them onto a single video stream?
+Broadcasting video and bandwidth issue
+H.264, 1 FPS, 640x480 Resolution - What bit rate should I be using?
+Recommended format for a large embedded stop motion animation on website?
+Lowest-Latency in Guitar/Vocal software-based effects?
+putting 24/7 live radio on website
+Can QuickTime Pro Edit mp4 files?
+Simple software program for converting H264 video in to flashvideo flv for website?
+How to make a fake 3d effect (The Matrix 3d rotation style) from 2 video sources?
+How To See The Dimension Of A Still Image in Adobe Premier
+How can I make a video more seekable?
+Making a gif from a video
+Utility or method for joining MP4 files
+Favoriting/Subclipping with Long Clips in Timeline in FCPX
+tools for 2d animation video
+How do you install Adobe Production Premium CS5 on a different hard drive in windows?
+Sony Vegas 10 Video made from smaller quicktime mov videos look crap on youtube
+Changing position creates loss of quality in Premiere Pro CS5
+How to join 2 youtube videos with different ratios (16:9 and 4:3)?
+Extract streams from WebM
+After Effects: Set Alpha/Matte to hdr layer without clamping the values to 0-1 range
+How best to find literature on motion graphics design
+How can I set clip color in Avid media composer 6
+Looking to intentionally distort video
+Import Audio Markers or Cues to Audition CS5.5
+What are some things to know and learn about the Canon 550D (T2i) when shooting movies?
+What&#39;s the best before editing format to convert to?
+What is/are the best free tool/tools for editing my videos?
+Display clip length on timeline in Avid MC 6?
+Checking duration of a marker-created subclip in Final Cut?
+How to delete an edit in Final Cut Pro (un-blade)
+How to avoid problems when filming in a bath house
+What are the minimum camera characteristics required to record a movie for cinema?
+Encoding 1080p for DVD - Pr 5.5
+Help with playback stutter in Sony Vegas Pro 11
+Extract section from Premiere without re-compression
+Camera setup for quick preview/editing
+How do they create the AT&amp;T Video Bill?
+Exported MOV from Flash Pro with alpha channel doesn&#39;t retain transparency
+Editing AVCHD on older XP host?
+What are the audio production capabilities in Sony Vegas Pro because I see mostly plug-ins only?
+How do I create a zoom transition in Premiere Elements 9?
+Canon xf105 blending frames at 24p?
+Does my macbook display port support video input?
+How do I recover truncated AVI/DV video?
+What software was used to create this stylized screencast for Disqus 2012?
+How can I crop a section of the video screen in Premiere Pro?
+What software do I need to convert a DVD to common formats? And what are the recommended formats?
+Simple Video Editing Tool?
+Adobe Premiere Pro Says Exporting, No File Produced
+Mobile Tethered Video Shooting
+GPUs and software for FAST realtime VisFX?
+How to use Pinnacle Studio 9 effects in newer versions?
+Building a presentation video
+How to re-edit and/or duplicate an in-progress edit with YouTube Video Editor
+Hardware to rotate a video signal 90 degrees?
+Motion tracking in screen recording
+Motion and shape tracking in After Effects CS5.5
+2 h264/mp4 files does not merging in right way by mp4box
+Software to create nice presentations/infographics
+Banding in Premiere preview
+JVC Everio GZ-MS90E aspect ratio is 5:4 instead of 16:9
+How does one edit and save clips once and reuse in multiple videos with Adobe Premiere?
+How does Salman Khan make his screencasts?
+How do DVDs avoid the blockyness that plagues dark scenes in most video files?
+How to save multiple QuickTimes but flatten audio tracks so that youtube/vimeo will accept it
+Repeating Flashing Text in After Effects
+Adobe Premiere not reading audio from .MTS file
+Miro does not convert the entire file when converting to webm
+Cleaning tracked keyframes in After Effects
+Having problems with fade in
+What is good software for building 2D parallax videos?
+Mount a Camcorder on my Hat?
+How good is a DSLR video?
+How to monitor system sound and mic using Rode Podcaster?
+Want to Start 2D 3D Animation Studio
+How can I add fade in and fade out effects to a video?
+Video stream with delay
+How to add closed captioning to MPEG-2, QuickTime MOV, or AVI/DV for cable broadcast?
+Tool to clip segments of a video
+Are there free OpenFX plugins available?
+What is the name of this minimalist film genre?
+How to easily insert frames at the end of a video?
+Is it possible to convert a AVCHD video stored in a MTS file loss-less without recoding into a Blue-Ray video disk?
+I can&#39;t buy a streak filter where I live. How do I go about making myself one for my DSLR?
+Will a lower resolution while rending cut down rendering time
+Minimal subtitle leading/lagging difference
+Import Theora video into Premiere Elements
+Creating effects/transitions in AviSynth or Lightworks
+3d max change the opacity of an object&#39;s edges rendered in After Effects.
+Can I combine preserve order and combine order of multiple imports when creating a time-lapse in Cineform Studio?
+Canon DSLR that changes aperture in Video
+Embedding subtitles with Virtual Dub
+Calculate projected area in Cinema 4D
+Dropping framerate when recording games with Bandicam
+cross platform software to convert video to image sequence
+What software can I use to make &quot;stop motion&quot; video from existing video material
+How could an 8-bit encoding take more memory than a 10-bit encoding?
+How to tune a musicbox
+Reverse engineering: which video editing software was used on this video?
+ffmpeg - convert video to iDevice format, replace sound with normalized WAV file, while maintaining the original video quality?
+Batch video editing software that can trim without re-encoding
+Can I Use Long Manfrotto QR Plates on a short head?
+Windows Live Movie Maker Output Video Quality Low
+How to do a &quot;deep&quot; / full copy of a nested sequence in Premiere Pro CS6? (i.e. constituent components are all copied)
+Adobe Premiere Elements 11 Crash Issues (Adobe Premiere Elements has stopped working)
+Save existing project to an external drive Final Cut Pro X 10
+Why must a sample rate by at least twice a frequency in order to reproduce that frequency accurately?
+Multi Projector Setup
+Configure file naming &amp; presents in Adobe Media Encoder
+Does alpha matte version of a clip allows to change the pattern
+How much storage does video editing take?
+How is it customary to pay a video editor - global or per-hour?
+Lighting for shooting a presentation
+How to force After Effects to interpret footage at a specific framerate?
+Color grading ; Anybody familiar working with Da-Vinci Resolve?
+Traditional animation techniques and 30fps software animation?
+Annotating sports video: design principles?
+After Effects: Importing Illustrator sequence?
+Ideal projection solution for Kinect hack performance
+How do I automatically create burned-in subtitles in Premiere Pro?
+Looking for a tile slideshow transition effet
+What makes iMovie 11 crash when exporting a project?
+How do I add a crosshair guide to a FCPX angle editor viewer window?
+adding depth and motion to images for video
+Is there any automated online service for making white board animation?
+Last bit of RGB changed
+Why recorded avi speeds up?
+Is there a way to capture RTMP-stream and output it to SDI?
+Convert Uncompressed AVI to JPEG2000 in MXF
+What export settings should I use in Premiere Pro for iBooks Author videos?
+motion effects missing from adobe premiere elements 10
+Marvel-like Image Flipping Technique
+Any DSLR monitors around 3 inches?
+Color temperature
+Native SDI-output vs HDMI-SDI adapter for live stream
+TV resolution/compatibility
+how accurate frequency does a PC speaker produce
+What is the highest rated HDMI category available?
+How to convert video for viewing on Sony Ericsson C702?
+What is the correct setting in Adobe Premiere CS6 for Nikon Video?
+focal length vs shutter speed vs fps
+Recommendation to Shooting Long Videos
+How to route from mixer to PC when using outboard equipment
+Free songs for video production
+Software to make a transcript?
+How to add gradient transparency mask in final cut pro x?
+Recording video and audio with external input to computer with Canon 600D
+Is it there a way to create a video playout system? (Preferably in Linux)
+Automated aligning audio tracks with timings for dubbing screen casts
+Component YPbPr to VGA with monitor that supports Sync-on-Green
+How do I edit source material from DVDs in Final Cut Pro?
+poor quality export of still images from premiere
+What are the placards in this picture?
+AE - Randomly place ~100 layers and then move to the middle
+What Happens to Frequencies Above the Nyquist Limit?
+Does HD necessarily mean clear, high quality images?
+Stretch or Change Timing in After Effects
+iPhone 5 video: continuous shooting without creating independent clips
+How to get Greek symbols (alpha, beta) in Cinema4D text
+MHL HDMI to HDMI
+What can cause Bluray disks burned from Encore to get laggy/skippy?
+TitleBox .seq2 animation files
+Keynote video pausing/playing
+How can I create the blurring effect in a video like this?
+Is it possible to store subtitle srt files in an m3u playlist file?
+Video compression for Beginner, where to start?
+Live-video beginner, where to start?
+How to ignore file name extensions while replacing source files for online editing in Premiere?
+Why does After Effects shear my last frame in a loop?
+Codec/Hardware Advice on real-time encoding multiple HD streams
+Removing silence and no movement from videos
+Is it better to have a player application stretch the video or to use a resolution that matches the video file?
+Converting an MPG data file burned to disc to a burned &quot;video disc&quot; for set-top DVD players
+Editing a 640x480 mp4 in premiere CS4
+Null object to toggle volume in After Effects?
+Converting MTS for best use in After Effects?
+Hardware Screencasting Help
+Best Program for combining Images and Videos onto a DVD with menu
+Premiere export to WMV causes aliasing
+How to demux MPTS to SPS
+Recording Video of iPad
+Videomapping tutorials
+Apply effects to multiple video channels in Sony Vegas
+How to create Apple Keynote style Picture in Picture video
+After Effects CS6 : Template Compositions
+Can&#39;t import some .mov files into Adobe Premiere, it says &quot;Codec missing or unavailable&quot;
+Is it still necessary to fill in gaps in sequence?
+How to make an Ableton Live project a set time
+Why is compression rarely included as a builtin effect?
+Looking for Radio Automation Software
+Beginning video editing (colouring eyes on a moving face)
+Canon 650D HD movie stop after 10-12 sec
+Bandicam dramatic fps drop
+MP4 video rendering differently on different browsers and different machines
+Can&#39;t make Ken Burns effect zoom properly
+Which ND filter should I use?
+AE Adjustment Layer Separate Effects on It &amp; Its inverse
+What is this 5 second interval cut technique called?
+In search of a Helmet-based steadicam solution for GoPro Hero 3
+Animating shapes vs masks in After Effects
+Adobe Media Encoder CC do not work/start/load on Win8 x64
+batch audio + picture slideshow video creation for youtube
+Are stars in Movies realistic?
+Fair use with copyrighted material
+Create Project Template in Adobe Premiere cs6
+Best practice recording VHS to digital
+How To Get The Webcam To Record From Guitar Rig Directly
+Is low-framerate video recording possible on the D7100 without miniature effect?
+How to disable continuos autofocus during video shooting with Canon SX230 HS?
+How to create a simple DVD with menu and a set of scenes (on a mac)?
+High bitrate in AVCONV converted MPG file causes DVD reading problem
+Hardware solution for live video conversion
+Workflow for trimming, encoding, and publishing videos to the web
+What&#39;s the minimum needed to make a video of my guitar performance with good quality sound?
+Join / Concatenate .wmv files
+Final Cut Pro 7: File Error: Unknown file
+Resulting video is bad always on the same place
+Adobe Premier CS6 &#39;Unable to open file&#39; coming from Cineform
+Export video has different resolution Adobe Premier Pro
+Creating a particle system explosion without a collision
+Where can I get Rapid?
+How does graphics card&#39;s memory affect video rendering performance?
+Where does the &#39;extra&#39; data come from when transcoding video?
+Stream from a windows desktop to multiple TVs/apartments on a separate channel
+Clear and informative tutorial on video file formats
+How to merge video stream and two Stereo audio streams in 5.1 with a terminal command?
+Which video editing software is best compatible with RTL languages?
+Light settings for indoor shoot - Sony dcr sx60
+I am not able to take video with my SD card
+Convert vfr mov file to cfr mov file
+Is there still a reason to buy camcorders?
+Lossless Editing by Combining Clips with FFmpeg x264
+Is it possible to use Canon G11 as Webcam?
+Update keyframe animations only every third frame in After Effects
+Help with the epiphan vga2usb frame grabber
+How to derive surface measurements from video
+After effects: masking not working in select compositions
+Two green screens in FCPX?
+47.952 instead of 48 fps?
+Is there a thing that can hold the subject in front of the camera, locked, not moving while shooting video?
+How to make this kind of animated video?
+Audio/Video Out of Sync with Samsung NX1000 Camera - Why?
+Record VGA/DVI with timecode
+How to add Subtitles to already created video file for .avi format on Windows 8?
+Record Screencast of Remote Presenter
+Recommend a good online video host?
+What is the difference between Refresh Rate and Flicker Rate?
+Deinterlace by dropping even lines from command line
+how to trim and render multiple sequences in premiere
+Video file is inverted. Can it be fixed?
+After Effects CC slant effect crops artwork
+What options are there for hardware encoding/decoding?
+Can the VGA port of the laptop be used as input port?
+Scroll text up (like in credits) then reverse and scroll text down?
+What software and technique would I use to achieve this effect?
+Constant streaming to a web server
+Blur out an irregular shaped section of the frame using Sony Vegas Studio
+Why are Bink compressed videos striped?
+What are the steps to apply filters to all my video clips in Corel Videostudio?
+What to do with a VMP video file
+LifeSize DVI Input from multiple devices with in-line scaler
+Video too dark on PAL TV
+320 kbps MP3 -&gt; laptop sound card -&gt; studio headphones = what is the bottleneck?
+How to create a video sequence made up of random frames in Final Cut Pro 7?
+Special effect in videos and gifs
+How Can I Eliminate Moir&#233; With Blackmagic 2.5K?
+Arbitrary angles or slices for split screens
+Recording Video Games and uploading to YouTube
+Video Streaming connection speed
+How do you get the highest quality type in After Effects?
+Adobe Encore and DVD Subpictures inconsistency
+How do I blur the background, but not a moving subject in FCPX to create a depth-of-field effect?
+Issue with Opening Downloaded ASF Stream files in Adobe Premiere Pro CC
+What is a description along the bottom of a video generally called?
+How to Setup Resolution and Frame Rate Between Two Cameras for Premiere Editting and YouTube
+Remote pan/tilt/zoom cameras that aren&#39;t expensive
+Kdenlive Render Effects
+How to *stream* audio over multiple scenes in Flash?
+Does anybody have suggestion to recreate this light trail effect?
+How does ARRI saturation formula differ from the ASC-CDL spec?
+What keywords to use when searching for a Maya plugin developer?
+Reliable way to burn VIDEO_TS folder on a DVD?
+Problem of overview with my created closed caption in Premiere CC
+Udacity - Hand under notes video effect
+Is it possible to find a webcam with large aperture?
+How to focus when recording video using a DSLR?
+Clip Library Management
+Vegas pro will not show video for avi with mp4v fourcc codec?
+Why does my Class 10 memory card run in to buffering problems?
+Tools to combine a video with an animated logo
+.SAV live video?
+Fast subtitle workflow in Sony Vegas?
+Editing 1440p @ 47 FPS in Premiere Pro CS6
+How can I cut a few seconds at the beginning of a large video file?
+Video Editor with custom effect masking and shape/drawing overlays
+What are people using to connect SSD drives from a camera to Thunderbolt or Firewire?
+How can i check if a particular sound I used in my video was copyrighted?
+Why does audio have standard bit rates whereas video does not
+Best format for audio track with a single/few images
+Is there a way to apply an Animation Preset - Text Effect onto a shape?
+optimizing / compressing video for web with Quicktime
+What is the most compatible compression/Codec to in Handbrake use for video that will be played in Chrome and Safari browsers?
+Cannot export video file in correct resolution
+How do I get royalty free music, images ,video clips, cartoon characters with different actions and emotions for short filmmaking
+Batch add audio to video - Adobe?
+What is the text commonly found at the end of documentaries called?
+How to fix white balance gone bad?
+Adding an image above a video in imovie
+What hardware should I get for a conversion farm for MXF =&gt; Prores
+Is it possible to use an SSD for the RAM preview in After Effects CC?
+Screen recording 3d zoom
+Smartphone app for JVC Adixxion
+Motion 5 - Link Parameters but Trail or Lag Value by a Few Seconds
+How to concatenate two mxf files with ffmpeg, preserving both audio channels?
+flv rtmp url for video-js
+Set ipad compatible thumbs for mp4 videos based on a frame of the video with command line
+UHS1 vs. Class 10 sd card (Samsung dv100)
+jquery-videosub how to
+Audio/Video Out of Sync with Samsung NX1000 Camera - Why?
+Is there a cheap Teleprompter software that supports foreign languages?
+What exactly am I hearing from my 5DMkII audio out jack?
+What is the video codec name of videos made through the Canon 600d DSLR
+How to produce a &quot;broken gif&quot; effect - video example
+What is the easiest, no-frills way to produce a simple video on Windows 8?
+Do Canon DSLRs and Camcorders use the same internal mics?
+short Train movie for school
+Exporting to Vimeo
+Adobe premiere is lagging in preview window
+Choppy slide titles animation in Premiere
+Copying timeline to new sequence lowers resolution
+remove black frames from vob files with ffmpeg
+After Effects Ratio Error When Using Puppet Tool
+How to achieve this kind of masks and transitions
+Wirecast recording lagging from a video file source
+Convert .WMV to .MOV
+Does RCA or &quot;interface connector&quot; (VGA?) offer better video quality?
+What is the most lossless way to rip a laserdisc to a Mac?
+What is the optimal codec and encoding parameters to encode Video Podcast?
+Force subtitles to play as default
+Do internal SSDs challenge the conventional wisdom of storing digital assets on external &quot;scratch&quot; disks?
+Adobe CC Post-Production Workflow (Story, Prelude etc.)
+How to add captions file to video podcast?
+Filter commentary from AC3 stream in MKV
+Adobe Premiere Pro CC - Crop a video and export at the exact cropped size
+What Video Camera and Tool is best to Produce Interviews &amp; Small Docus for my Contruction Company?
+What Codec Shows Absolute Black?
+How can I fix time-lapse image sequence exposure in Premiere?
+How do I rescue a Final Cut 7 project that elicits &quot;File Error: Wrong Type&quot; when I try to open it in FCP?
+Chroma Key video software for command line
+Do I need an attenuation cable between my audio recorder and the RCA out of a DJ&#39;s mixing board?
+Library with LOTS of clips: Increasing performance
+Recording in a training room with upside camera mount from the top
+Does music under CC-SA license require the same license for video?
+In Final Cut Pro 7, is there a way to playback a Ganged Browser clip in real time with the Canvas/Timeline?
+What kind of video encoder can do this? Blend multiple video frames together live
+Adobe Media Encoder CC - No output sound
+FCPX ken burns zoom in and out
+Keying Out Smoke Against a Black Background
+DVD burned through Nero has only .nrd file
+Mac Pro audio for FCPX
+Motorized tripod head with zoom
+What is the technique behind mkv. video format?
+What is the max video fps Nikon D5100?
+Vertical Black Bars, Aspect Ratio Problem. NEED A FIX
+Intersecting animated masks
+Problem with colors of camstudio recorded video
+Preventing letters from going to next line as title expands in iMovie
+Interactive YouTube video navigation
+How can I edit in FCPX like I would for a live event when I have multiple sync&#39;d tracks of the same event?
+Is it possible to shift a video track a fraction of a second in Sony Vegas Pro 10?
+Video Format Compatibility with GoPro cine studio
+How to make video with moving text and objects?
+Soundtrack recomendation
+Automatically load Blackmagic ATEM preset on launch?
+What is the Name of this effect
+which camera is best for conducting the interview constantly as one-man show?
+Is there any similar function of photoshop &quot; Actions .atn&quot; in adobe after effect?
+How to make a 3D animated video from video games as realistic as possible?
+How Was This Isometric Vector-looking Video Made?
+adjusting the Premiere Creative Cloud sequence (newbie question)
+My converted videos look bad... what am I doing wrong?
+Can video frame size be increased?
+Autofilm function / add many clips and transitions by one click. Which open source video editing software for linux suited?
+Batch splitting ProRes into equal-length segments
+Playing back 1080p and 720p videos (same bitrate) on a 720p display
+What lenses are preferred for DSLR video?
+Why does FFMPEG fail when converting Intervalometer photos into a time lapse movie?
+ffmpeg-php with fixed width and height and without stretch or squish
+Unintended change in AdWords Flash to HTML5 conversion
+Best file format workflow for Final Cut Pro 7 on Maveriks
+GoPro video lose color quality while exporting in Premiere CC
+Do actors have rights over the footage?
+How to make a video presentation with the possibility to go to the next or the previous &quot;video-slide&quot;?
+How can I examine Quicktime file internals?
+How do I create a video of typing math symbols
+Record DVI Signal (SXGA)
+How to link an audio mp3 file created on soundcloud to your Youtube account
+HD PVR 2 GE, worth it, thoughts?
+color correction in fcpx
+Mix Voice to Video without losing video quality
+A way to create a moving graphic annotation
+How do I record decent sound during an interview?
+Does the Sampling Rate affect the syncing process to a video source?
+Avid Media Composer 8 - is it possible to edit two video sessions at same time?
+Is it possible to install the Quicktime backend without getting the frontend?
+Record video and sound with backtrack
+Sony Vegas: Make timeline &quot;line&quot; follow event trimming?
+How can I convert large jpgs (15000 x 10840px) to video?
+ffprobe - why total bitrate is greater than sum of video and audio bitrates?
+Why does quality degrade so much if just cutting video with ffmpeg?
+What is the name of the device used in live action filming that includes information like scene, take and roll and has a part that can snap together?
+Image plane mark on Grass Valley Infinity
+Can i record continuously, keeping just the last N minutes?
+Premiere CS6 hanging on ExporterAVI.prm after an upgrade from Vista 64bit SP2 to Windows 7
+Are Mini DV and Digital 8 considered film?
+Projecting slides on a large screen from 40 feet
+Cannot mark my video with CC SA licence because Youtube Content ID found 3rd party soundtrack which itself is CC SA licensed
+How to convert HDV to dvd full resolution 640 x 480?
+FFmpeg clarification &quot;position of frame&quot;
+FFmpeg encod set of time stamped images as Iframes
+Software to allow video presenter to draw directly on the screen
+Little skip in webm videos joined with mkvmerge
+Name of the software used for the given animation
+Premiere Pro sequence adds black stripes on both sides of the video
+FFMPEG convert video with multiple audio streams?
+After Effects - Element 3D: Text arranged in a circle/ring form
+Can you mask a parent null object in Adobe After effects?
+How to make a vehicle number visible?
+I&#39;m trying to crop the sides of a movie which are unwanted... Online
+What is the best tool to increase sound of MTS video without need to re-encoding this video?
+How can I make professional video using an iPad?
+Create a movie file from a set of pdf files
+Why does compressor output 960x540 when frame size is specified &quot;up to 1280x720&quot;?
+Video for Windows Codec x264 and VP80
+What kind of hardware do I need for a multi-person editing team?
+Stock footage search service
+Lossless conversion of yuv420p10le to yuv420p
+Sony Handycam HDR-CX210 Creates JPGs Frequently While Shooting Video
+What is good software for camera recording under Linux?
+What is wrong with my &quot;new&quot; camera? My playback looks bad
+Large avi not playing to the end
+HQ screen video capture
+free tool to do basic color correction?
+Video Camera with Detachable Viewfinder and Remote Control
+Do I need to encode video in both ogg and webm?
+How to remove an unwanted dynamic object from a dynamic footage
+What is the cheapest camera I can plug external microphone to?
+How to transcode mkv media into different resolutions with ffmpeg
+Which PC software does live effects on video from a tethered camera?
+Each media segment file for MPEG-DASH is a full (.mp4) instead of fragment mp4 (.m4s)?
+Help needed in choosing video production device for use with Matterhorn Capture Agent
+Looking for an accurate Playback FPS from a video
+Why HD broadcast camcorder still pictures quality (still frame from video) beat out DSLR?
+Will Canon 600D be able to do these?
+Should I use Magic Lantern as a beginner?
+Auto split comp into separate render items?
+How to switch New Composition Settings Duration from Base 25 (time) to Frames?
+Whats the most affordable way to setup a large screen outdoors for live video
+Can I move an imported camera track in Maya without manually changing 500+ keyframes?
+After Effects rendering a video at base 99, but outputs as a 60 one
+HEVC binary to MPEG 2TS
+Youtube 720p video has more MB than 1080p
+Final Cut- How to start audio fade from higher than 0db?
+Optimizing MPEG2 Encoder in Adobe Media Encoder
+Final Cut Pro- Reopen Library and Entire Timeline is Gone!
+Does the screen resolution override the source resolution?
+ffmpeg re-encode libx264 without quailty loss?
+Corrupt images, when capturing from multiple cameras using the V4L2 API
+Old Camcorder needs Repair
+GoPro Hero 3+ Microphone Mounting
+How can I make the best quality SD DVD&#39;s
+Best way to increase the display size of a web video
+How do I author a playable DVD from an MKV file containing MPEG2 video, audio, subtitle and chapter streams?
+Easiest way to narrate video with freeze frames etc.?
+How can I ensure the white balance is correct?
+Is it right time to buy 4K video camera?
+Resolution for webcam for recording lectures when writing on paper?
+Setup for including commentators in live stream (including monitoring)
+Using GoPro Studio to edit non-GoPro videos
+Special effects/post processing to make a black-colored light
+YouTube 3gp encoding settings
+Premiere CC Button Editor Unaligned
+What is a subtle displacement at the moment of the cut?
+Video rendering time is measured in man-hours. How is that calculated?
+Ingesting professional sony beta and sx tape into iMac thru Canopus ADVC 110
+What parameters should I select to get a high quality voice .wav file?
+Recovering severely underexposed video
+Is it possible to automatically generate highlights from video?
+Does oval-shaped bokeh indicates that the aspect ratio of the image was modified?
+What title(s) should a one-person film crew receive in the credit role?
+What are the most common project formats for modern NLE software?
+using a 265 encoded video with a container
+Playing back a video file with an optional time sequence
+How to shoot a party scene with few people?
+Crop video in ffmpeg without re-encoding
+After Effects Opacity behaving differently from Photoshop?
+Overlaying Images on top of each other so they both show
+how can I flip from camera to screen recording
+Display Contents Outside of Composition Boundary?
+Defining animation once, then repeating across a selection of shapes in a cascading manner?
+Key out everything but one color?
+Looking for a name of a flickering problem
+what should be the minimum write speed of microSD for 30fps 4K, 60 fps 1080p or 100fps 720p etc?
+Shapes overlapped in pre-comp, transparent fade in visibility
+How to work with R3D and RMD files? FFMPEG?
+What software can be used for pre-visualizing video presentation environments?
+Using smartphone sensors to stabilise DSLR video in post
+Time code audio tracks in NLE?
+How do I record video for more than 30 minutes at a time with a Canon A1400 PowerShot?
+Cinema 4D Objects Turn Black
+timelapse avi video shows frames not timecode
+Monetizing YouTube Channel with Videos Containing CC-Licensed Content
+Who should buy a Weighted Gimbal Stabilizer
+What is This Zooming/Opening Cinematographic Technique Called?
+Can we produce true 3D holograms yet?
+Framerate and timestamps in SubRip subtitles
+Best value video cameras as of 2014?
+Encore CS6 &quot;DualLayer: This disc requires a layer break&quot;
+Achieve a video warping effect, where it appears like the camera was shifted
+Text templates made in after effects render gibberish characters in Premiere Pro
+Why my Zapcode is with low resolution?
+How to change the display ratio of a Theora track inside Ogg?
+Chaining Matroska files
+Do movie makers shoot video from two different perspectives to create 3D movies?
+Why do SRT subtitles fail to appear in my MP4 videos on iPhones?
+Dxtory recording randomly crashing game
+Can &#39;fifo&#39; filter write to the same stream in avconv?
+jvc recorder .ced file
+How to get ffmpeg/x264 to use same parameters as input?
+Adobe Premiere saves m4v instead of mp4
+Is the difference between full- and crop-frame DSLR footage noticeable and disrupting?
+HDMI Compressed vs Uncompressed mode
+How do I hang a kino flo from the ceiling?
+How to remove a part of a moving object from a video?
+After Effect: Create Stroke from Motion Track Path
+Can a camera like Nikon D810 support 4K video with firmware update?
+How to encode 60p MP4 video to play on TVs?
+How can a beginner remove an actor from footage?
+Kung Fury VHS effect
+Blur a face using only one video layer with Premiere CS6?
+Can someone suggest a software for video format conversion for Mac?
+Premiere Pro CC 2014 renders incredibly slow / Cineform
+I want to digitise footage from a lot of DV tapes - should I use my camera or buy a tape deck?
+What exactly do the sequence settings do?
+Which mic to buy for amatour dslr video shooting: R&#216;DE VideoMic vs. Zoom H1?
+Premiere Ignoring DNG file grade
+How can you automatically trim a new layer in After Effects?
+Launch a AfterEffects rendered in background with cmd update
+What setup do I need to record and render at the same time?
+How do I log footage correctly?
+Darwin Streaming Server 6.0.3 won&#39;t send Closed Caption track
+What image formats to use for basic 2d animation?
+Adobe Audition CS6 Crashing
+The ffmpeg`s filter_complex blend respecting overlay`s alpha channel
+What new piece of hardware to get to increase video rendering performance?
+Exporting with transparent background in premiere
+How much disk space does 1 mini DV tape digitised in HDV take?
+ffmpeg filter_complex problem
+How to animate the size (width and height) of a rectangle animation in after effects?
+mp4 file will not play video, only audio on quicktime, fine on VLC
+Adobe encore - Highlight button with image
+Footage of different framerates in Adobe Premiere Pro
+Are there any free ways to increase the framerate of a video?
+Commercial Movies: Film vs Digital
+Should I cut footage into clips whilst I&#39;m logging it?
+What benefit would I get from using Apple Compressor instead of just exporting from Final Cut Pro X?
+Which (video game) recording program fits for these criteria?
+How to show a character in black and white mode with colorful background?
+Improving frame/image quality on Handbrake?
+Fill shape layer with an image (after effects)
+Camera randomly re-connects to PC
+How to add Letterbox to the Video I have shot?
+mp4 video exported from x265 does not play
+Can low quality video be manipulated to change the displayed time without being detectable?
+Is there a video type for vector animation?
+Editing software with a good textbook (Windows)
+Canon T3i with Blackmagic Design Intensity to record plays?
+Using ffmpeg to cut out a scene by original timestamp
+Exporting to .mov from premiere cc? queuing as .mxf?
+Stock footage creative commons license
+For a given bitrate, what video resolution is perceived as the highest quality?
+FFMPEG Sync Audio &amp; Video From Pi Camera &amp; USB Microphone
+What is the name of this type of treatment in video/audio?
+How to create light wall of letters?
+How to link an FX property of multiple layers?
+How to distribute layers along a path?
+How to let the path of a composition shine to parent layer?
+From logged footage to clips
+Can I output video from my DSLR to a smartphone or iPad or laptop?
+Masking out the video background in Sony Vegas
+How to apply track mattes to multiple layers?
+How to rotate a group of 2D layers around the midpoint in one axis only?
+Lagging after render in Movie Maker?
+How to move a layer only in one direction?
+3D composition shows up as 2D in main project view?
+Can&#39;t change Handbrake audio bit rate
+Is there such thing as an unlimited point matte in Premiere?
+How to make a “follow the bouncing ball” video?
+Is there a way? multiple images to looping video via ffmpeg?
+Programs to improve audio quality?
+I&#39;m having trouble with using a NAS with After Effects
+Do cartoon creators have to pay software owners?
+Is there a way to parent an objects position to another objects position in Nuke, so they move parallel to each other?
+How do I get screen captures from VLC to import properly into Premiere?
+Changing aperture within a single video clip
+1080/25p bitrate 15.7Mbps vs 10.4Mbps
+Why does my still camera stop recording video on its own?
+Any m2ts optimizer under Linux?
+Import subtitles from spreadsheet into Aegisub?
+Trimming MLV or CDNG Footage
+Premiere Pro CC 2014: Select multiple items in media browser
+Blu-Ray authoring on an Apple Mac
+Remove audio from video annotation in ActivePresenter
+Is it feasible to manually implement chroma keying?
+Film a 3D video using Genlock cameras or LANC?
+How do I build a circle which serves as a particle attracter using After Effects Trapcode Particular?
+Most-efficient inexpensive way to speed/slow video track to sync with audio track?
+how to convert container format for a video file without re-encoding
+What is the ffmpeg filter equivalent of &quot;Automatic levels&quot; for colors?
+Whats the best video camera for shooting weddings and Docs?
+Please tell me which tool I have to use to create a video?
+after effects how to Zoom-in but keep same size (zooming and cropping)
+How can I create Motion titles with fixed-length transitions?
+Photoshop Layer Blending Goes Away When Imported into After Effects
+Trimming mp4 videos
+Premiere Garbage Mask Not Rendering Correctly
+Why processor is &quot;better&quot; for encoding than GPU?
+what software &amp; How to Synchronize sequence pictures with audio and make it a video just like gif image
+Black and white moving character in a color video
+Is WonderShare&#39;s video editor a viable alternative to Camtasia Studio?
+I wish to make short clips for my website from existing Final Cut shows
+Adobe Encore/Premier quick and dirty/shortcut to make DVD
+Multivideo player with histograms?
+share desktop to laptop to stream from laptop
+Correct lens distortion with ffmpeg
+How to render MP4 using After Effects Script with Adobe Media Encoder
+Is there a standard target level for spoken audio in a tutorial video?
+What&#39;s the best way to video chess/go/baduk/weiqi board from above (i.e. top down view)?
+Can I use FFMPEG in a commercial product
+Overlay a photo in Windows Movie Maker
+Output via Compressor comes with bad quality audio (no problem via Share of FCPX)
+Automatic motion blur in video editor?
+What&#39;s the minimum software for reliably live-streaming a conference?
+Looking for advice on lighting my set
+Matching audio levels across multiple clips
+Can I record directly to a computer with the HC-V250?
+How to cut out pauses and unneeded places from video in Adobe Premiere?
+MXF files in Premiere Pro cs5 mac only playing/dispaying audio
+Looking for a Video Program/Feature that allows smooth frame-to-frame skipping (when moving progress bar)
+Producing and streaming to a local Network
+How to import clips from one project into another in Adobe Premiere?
+How to change the pace of imported mov video clip in after effects
+How to live feed video from a Nikon D3200 to a Mac?
+Adobe Media Encoder 2014.2 Part of audio missing in mp4 AAC rendered files - cache problem?
+How to downsample 4k to 1080p using ffmpeg while maintaining the quality?
+Waving flag in After Effects from vector
+How to convert 25p to ntsc dvd?
+Automatic Motion Detection in existing GoPro video files
+Audio noise reduction: how does audacity compare to other options?
+Equipment for documenting an adventure journey
+repeat crossfade in a sequence of images
+Premiere Custom Dip To Black Transition
+Is it possible to raise H.264&#39;s QP without fully re-encoding the video?
+Fair use of short clips from movie that I bought
+Recording Screens From Multiple Perspectives With Voices and Computer Audio
+Merge two transparent webm videos with ffpeg
+How to copy current timecode to clipboard in Final Cut Pro 7?
+Cross-dissolve in real time between end and start point of looping clip
+What types of cables support closed captioning?
+Animating between mask paths in After Effects
+I have a TS file. How do I render it?
+What is the best arrangement of lights to create a warm atmosphere in a small room?
+3D layers not affected by camera zoom in After Effects
+Is H.264 subject to exploits / are some H.264 codecs subject to exploits?
+Exporting to multiple formats
+Handbrake CLI command not working
+CPU vs. GPU in a MacPro
+How to keyframe a crop in Premiere Pro CC
+Video software to add video effects similar to Apple&#39;s Photo Booth
+What are the essentials for a livestream training room?
+Free software for creating fMRI film paradigm
+Which video editing software should I use for youtube videos?
+How to extract MOOV atom/metadata from MP4 file?
+Is it ok to edit a public domain speech?
+Can&#39;t Import Video with Alpha to Premiere
+Video in After Effects composition panel is pixelated during scrubbing
+Bad yet good framerate after exporting through Media Encoder
+FCPX Cross dissolve sometimes causes jump on stabilized video
+Keyboard shortcut for &quot;Add clip to conversion list&quot; in GoPro Studio?
+Adobe Premiere Pro CC aspect ratio streched
+Live video and sound recording (NOT from a security camera) sent to a remote server
+Why does a bright video feed send more data than a dark one?
+Why does parameter round in ffmpeg&#39;s cropdetect default to 16?
+A device or a method for comparing original and transferred video
+Plugin for generating the entire audio waveform seekbar?
+How to get FFMPEG output the same quality as Vimeo?
+Any free or cheap soft for video composing
+Is it possible to speed up footage by more than 4x in Sony Vegas Movie Studio?
+What to make: a film, short film, series, web series?
+Premier Elements &quot;Time Slider&quot; in Premier Pro
+Equipment &amp; Software for video bridge (video link) event
+When nesting clip, how to make new sequence same resolution as clip instead of original sequence?
+Record a live lecture from one room and stream it live to two other televisions
+How to do &lt;=1 Hz timelapse photography with Canon 7D?
+why movie video is different from other videos (sports, news, or other)
+Automated/Scripted Video Editing
+Add path operation to multiple shape layers
+Specify a custom &quot;Movie rec. size&quot; on Canon Rebel
+What is the function of buffer size and what value should it have?
+Newbie Question - speed of footage lags in Premier
+iPhone 6 Video Pulse
+How to mount microphone and recorder on the DSLR?
+Is Blender smarter than final cut pro?
+Compare an original video with a transferred video?
+Why does video rendering begin at the top left corner of the screen?
+Premier Pro producing a 4 hour video that&#39;s corrupted
+How to deal with this heavily underexposed footage
+Quality of VHS converted to DVD
+ffmpeg mute specific time
+Live Video on Website from Analog cameras
+How can I increase the resolution of a mobile clip?
+HDMI/DVI capture/recording hardware?
+See project elements when working in a comp
+link multiple audio tracks to one video track in Premiere CC
+what are the elements of a lavaliere mic system?
+Is there a program that can change monitor color temperature for lighting?
+Player support for video DVD stored on a CD-R?
+MP4s skip when put into lightworks
+How can I preview with audio in After Effects and be able to pause / resume the preview?
+How do i do this shot?
+ffmpeg: mute first 2 seconds in all audio streams
+Video with breakpoints for Keynote presentation
+Determining original resolution of an upscaled digital image?
+AE - Composition video file/layer missing audio
+Simple video animation for teaching purpose
+recording multiple video feed with timecode/genlock in sync with motion capture system
+What are some ways to simulate an explosion?
+Convert Analogue signal to digital
+File compatibility for Final Cut Pro 7 project files with Adobe Premiere Pro CS4
+Is it possible to charge a panasonic HDC SD900 while filming?
+How can I find specific PRO grade gear when CONSUMER grade dominates the search results.
+Final Cut Express 3.5 HD quits unexpectedly
+Pixelate effect when converting MOV to FLV via FFMPEG
+De-Interlace footage in Avid Media Composer using standard effects
+Creating a sith lightning effect
+Recording streaming video from my computer
+Background color of MP4 rendering incorrectly in QuickTime
+What could be causing these strange MP4 video playback corruptions on some machines?
+Best approach to go through tv series, annote key scenes?
+Editing a movie from DVD in Sony Vegas?
+Final Cut Express: Flip a Video Clip
+Brightness and contrast ratio, inversely proportional?
+How can I find camcorders with high quality like Nikon D3100 but without its time limit?
+Can&#39;t figure out which projector fits these features
+What applications can I film in and integrate photos, and narrating on iMac/iPhone/Maybe iPad 
+Scaling optimal video frame dimensions
+Encoding DNxHD using ffmbc
+Why does media show up in Final Cut but errors when rendering in Compressor?
+What&#39;s a good, cheap, piece of gear to start with when adding lighting equpment to your toolset?
+How to add text to specific animation frames
+How to get battery status of aftermarket battery on Canon camcorder
+What type of media server software do I need to transcode in near real time?
+Hardsubbing ASS onto MPEG4
+Is the Canon 550d ideal for documentary video production?
+Bad video camera + little money = decent video quality
+Encode MPEG-4 to DVD Format Without Doubling File Size
+Converting from 8mm Video Tapes to Digital (PC)
+Tripod duel, which one is the best?
+Audio cd ripping with AccurateRip
+is there a movie recording tool for dslr connected to phones?
+Managing big Canon 7D files in Premiere CS5.5 with an average computer
+How do I PROPERLY slow down a 60 fps clip in Vegas Pro 11?
+How to create film sounds like those booms?
+Remove noise in video post production
+Rendering video with pixel aspect ratio 0.9091 (in premiere CS5.5)
+About projector (beamers) usage
+What&#39;s the right project profile for my WVGA60 videos in Premiere Elements 10?
+The cable of the tv antenna lies on the heater
+Is there a way to find out if the current frame is a keyframe in Premiere Elements 10?
+Best transcoding path using Sorenson Squeeze for AVCHD video?
+What media can I legally include into my videos?
+Nvidia Cuda video encoder - output frame size
+Video Output to TV is shutting down on full speed playback of video, or split screen display
+Is Open-Source -film production possible with open-source tools?
+animating a line that is a 3d layer in after-effects
+What are some good resources for learning Motion 4?
+Codec information application
+What is the point of the ethernet plug: SoundCraft Si Compact 32?
+Tool for cutting and joining multiple parts of a video
+What should I look for in a video capture device from a Satelite Reciever to PC?
+.Mov file corrupted after QuickTime Exporting for web
+Audio Not Playing on Imported Video Files
+Audio and Frames Not in Sync in RAM Preview
+How can I use my JVC as a webcam on my HP pavilion laptop?
+How do I.T. conferences record and synchronise video, audio and slides?
+Corrupt video when playing through JW Player
+Can&#39;t export .mov with premiere pro cs5.5?
+Automated Commercial Recorder
+kind of equipment used in this video
+Which Text falling and flipping animation preset or plugin is used in after effects
+How to record a video of computer screen movements
+Video Capturing Cards - What to Buy on the Cheap for HD Quality?
+How does the “AUTO TAKE” feature on the Panasonic WJ-MX12 work?
+Very simple question: converting DVD/VOB to (say) AVI
+Opteka CXS-2 vs Glidecam HD-2000
+Video capture device for senior citizen
+What is the difference between mkv and mp4 files?
+Not able to play 13Mb video file
+After effects rendering
+Blackmagic Cinema Camera: recording, bitrate and bitdepth
+Animation in videos
+How can I make the particular trail longer in After Effects CS4?
+How to lay one video over another
+Is there any option for mirror imaging in video editing software?
+FCP Editing: Timeline Footage Looks terrible in timeline &amp; export its 4:3
+Why is after effects turning my Prores audio into white noise
+Good place to learn about every option/button in Adobe After Effects?
+video recorded with Mac&#39;s Photo Booth doesn&#39;t match session length. Can this be fixed?
+Trying to help a west coast fan in an east coast world
+How to make a Camera Slider with bearings?
+Opening WMV files in Virtual Dub
+24hour non stop recording in a single file on a 128Gb SDXC?
+Can I charge to view videos of other people performing?
+Panasonic&#39;s AVCHD video format: questions about quality, compatability, conversion
+Will lens softness be visible in DSLR video?
+Avoid Rendering in Final Cut Pro: Smaller Frame Size?
+Looking for a free dvd burning program which has basic video editing to make a menu?
+4K camcorder question
+FCP vs Motion 5
+How much to charge for a re-posting of a video?
+Cheap solution to shoot during several hours at night?
+Create a Time Lapse Video with Adobe Premiere
+Music-sync&#39;d Strobe effect in video
+GPUs for motion graphics
+How to buy a decent monitor
+Tips for recording pen and paper
+No experience with AE, I want to create a Kinetic Typographic video. Am I being too ambitious?
+How to change the start time of track in Final Cut Pro X?
+Emulate iMovie PIP exchange effect in Final Cut Pro X
+how do I interpret this number?
+Reverse Darkening Face Out
+Good Intermediate Format for Combining Videos
+Add subtitles to an audio track
+After Effects experience with virtual choir 3D environment
+How to render an After Effects composition without DRM protection
+Camera for live feed-transfer to external monitor in adjacent room?
+What is the benefit to using multiple RED rocket cards?
+Avid import wmv file, just audio no video
+How to mask out brush in After effects
+CamTwist + Blackmagic Intensity Thunderbolt Shuttle Settings
+recording to multiple locations
+Looking for compressed standard definition file format to share footage between Final Cut Pro 7 and Adobe Premiere Pro CS6
+Is it possible to convert output of TV Channel (set top box 720p) to 1080p?
+Best video performance with the Nikon 5100?
+Which software gets the fastest rendering times?
+Canon EOS 550D video
+What exactly is a voyeur shot in cinematography?
+Adobe Premiere CS6 stuck at 0% exporting still images
+Digital video cameras optical zoom vs lenses
+Converting videos taken by D5100 for a Youtube upload
+Glidecam focus control
+how to join video files?
+How to dynamically add texture to an object in a video and get a new video?
+Where to start Transcoding with FFMPEG?
+Blacking out specific pixels in MP4 without re-encoding
+Presentation to Video conversion
+Why does Premiere Pro 6 Generate Peak Files?
+Glitch effect won&#39;t work
+Issues importing iStock comps into After Effects
+Lines on my H.264 video export
+Video recording using external microphone and smartphone
+Auto ISO for shooting videos with DSLR
+How to import youtube video into premiere cs4
+Modify a sample in a mix using the original sample
+Software Advice for producing video ads
+Recommendations for HD camcorder for all-day static recording?
+Best way to edit multi screen footage into one clip.
+Adobe Premiere Pro CS6 Shortening Video
+Overloading in a Mackie profx8
+AWB and Auto ISO in fast moving scenes
+Why would Blu-ray made with Encore CS6 be silent/have missing audio, no sound?
+Pinnacle 16 vs Pinnacle 16 Plus
+Large scale video conferencing
+1080p video partly pixled after rendering
+Software or video interpretation to create live dance floor effects
+FFMPEG output is blocky
+Have to reduce the video size with losing the quality
+Join videos through concatenation
+Very Shaky camera but a constant background
+How to include proof of when a video was made, something that couldn&#39;t be be faked at a later date?
+Make a cinema box around a video clip
+Is HDMI 1.4 backwards compatible with 1.3?
+Why is Adobe Premiere Pro / Adobe Media Encoder freezing my computer when rendering?
+Is there a text effect for Sony Vegas Movie Studio for light reflecting off metal?
+Picture in picture for my face while recording video games
+How do I animate an image based on relative position in after effects?
+component to vga cable not giving video
+Searching for video converter that maintains folder structure
+Typical size of one hour long mp4 video
+Analog (PAL) Frame Grabber capable of arround 4 fps
+Format of imported video files in Adobe Premiere
+What do I need to learn in order to repair an ogv or ogg video that is defective? Where to start?
+How to start and record Flash video stream without recording the player taskbar
+Which video editing software can create this style of title graphic?
+Error FFMPEG when convert video to MP4 with baseline presset
+Finding a highest megapixel camera for PC
+Audio randomly cuts out for remainder of clip - Adobe Premier Elements 11
+Can two GoPro Hero3 cameras be made to capture the same frame from the same spot?
+How can i achieve the effect of this video, focused in the foreground with a blurred background?
+Does Sony PMW-EX1R HDMI output contain audio?
+Application for Screen-casting for Macintosh
+how to improve quality while editing video captured through CamStudio?
+Looking for a DVD menu maker which works best with Sony Vegas
+What&#39;s the best way to set up a live webshow with multiple Skype video inputs?
+Forcing kdenlive to adapt its profile to the video clip
+Wedding Footage from beach - fixing over-exposure and colour balance?
+Video Live Embed from external websites
+How can I draw my own textures for my 3D objects?
+How to smooth out video
+How do I set up a field recorder with camera/wireless monitoring?
+Audio noiseless video becomes noisy after importing in windows movie maker
+Video editor suggestion
+What video switching application is used for Apple&#39;s Keynotes?
+Trying to add text to a video file and save it as an mpeg to be played in a slide show
+AE: Frame rate and animating solids
+PS2/XBOX to projector
+Best way to create closed captions in Premiere CS6? No 3rd party software!
+What is the name of the transition where the new image slides left to right over the old?
+Visualising geo data on a map
+Wirecast crashes when I attempt to authenticate to Youtube account
+Correcting video flicker problem caused by camera&#39;s auto white balance
+How can I change the movie format from .MOV to .AVI in canon 650D
+Single Aplication needed that can cut,split,Flip and add subtitles in large numbers
+How to make a multi-audio video into several video files with one audio track each?
+Can I get smoother playback by converting a video to a non-interpolation codec?
+Approximate render time in After Effects CS6
+How to correct aspect ratio
+Vinyl converter spins 35.3 RPM -- How to correct?
+Canon XF100 live stream -- additional hardware needed
+How to Create Fire Light like Ligthing in After Effects
+Adobe Premiere - Razor Tool screws up clip
+Ken Burns Effect. - Software Recommendations
+Software recommendation for creating videos for demoing research results
+Color autocorrected on my Canon G10 in the middle of filming, any tips for editing in post?
+Is there a way to burn video on dvd and set &quot;expire time&quot; of it to be watched?
+Using a Nikon D5100 or Sony SR68 to shoot video of an event
+Near natural lighting with softbox wattage between 2400 to 2700?
+How to fix Sony Vegas 12.0 blank screen render?
+Preventing audio clipping on inexpensive lapel mics
+Youtube Video Resolution Problem
+Using a parameter file for filter option of libav (or ffmpeg)
+Beginner: what software to combine 2 videos of a dance show
+Premiere Pro - How to make a slideshow/compilation
+Simple, easy to configure streaming server for linux - just transcode &amp; stream
+Want to learn the new iMovie
+Is converting DVD to a format to play on a tablet legal (in the UK)
+How to re-encode a video file&#39;s audio, but leave the video stream with ffmpeg?
+Best bitrate to responsive (web) video
+How to bring a SketchUp Animation into After Effects
+Error while opening encoder for output stream #0:0 - maybe incorrect parameters such as bit_rate, rate, width or height
+How to link URL in flash media player to red5 server
+Old 8mm video recording tapes and standards
+Cleaning matte - remove areas smaller than x pixels?
+Home video, Canon 60D, 1080p, 23 fps, H.264 lag during playback
+When is it necessary to enable &quot;Time Remap&quot; in After Effects?
+Where does Camtasia store files locally?
+Is it bad form to have a different number of audio tracks from video tracks?
+How to defeat the display info overlay on the HDMI output of the Canon XA25 including the status indicator?
+After a clip ends should that track be re-used?
+What encoding settings does Revision3 use to get quality high but file size so low?
+Portable screen for USB camera
+How does the source encoding reflect the settings used to export?
+Crop the center region
+How to keep audio and video in sync?
+How to combine different projects to create final clip in After Effects?
+How could I make a map zoom in effect?
+Will 1080p content on 4K display look as crisp
+Reconstrcuting images from MPEG
+Portable camera recommendation for interviews
+What is this cable for?
+Getting audio from a Bell &amp; Howell Filmosound 8 Projector
+How to record multiple days worth of video without interrruption
+How to film a falling shot
+High resolution recording with component cable
+Youtube convert my video on bad quality
+live stream saved or not
+Cheap Method for Audio/video transmission in a building
+On-line and Off-line editing?
+How do I connect my Alesis iO2 Interface with video camera Nikon D3200?
+Premiere Pro - How to make a slideshow/compilation
+Sony HDR AS30 detect device on imac
+Script to create video in standard format?
+Play video skipping some scenes
+reasons for After Effects CC deprecating wmv and H.264
+How Does Remote Streaming Work?
+Converting container or transcode movies to iPhone from command line (os x)
+How to achieve trippy breathing effect (visual drifting) on static photo
+Please tell me if i can use this song and it&#39;s title in my promotional film?
+Insert Video Still onto MPEG2 video?
+Free Software for Drawing Overlays
+Graphics Cards that have SDI outs
+ffmpeg capture audio in raw format
+What is the linked setting called?
+Using Pharrell Willaim&#39;s &#39;Happy&#39; song for Organizational Video
+HDD Partitioning
+why is a video file with .mts extension so huge?
+How to create a video like this?
+Is There A Fraps Alternative That Records Different Audio Sources To Different Tracks
+Putting a Lower bitrate of my video stream in my current mp4 container
+Google glass sample video
+How to add a scoreboard to a pre-recorded video file
+How do I make a space themed video intro?
+why has the aspect ratio changed on my video between programs?
+How can I convert frame rates without changing speed?
+FFmpeg overlaying and blending videos
+Crop then center and zoom
+How to find video frame rate and resolution
+Connect a Sony HandyCam to a MacBookPro for streaming
+How can I combine whiteboard animation, stop motion and live video without massive import/export and adjustments?
+How should I go about making 80&#39;s style graphics?
+Is it possible to control GoPro recording without the official app?
+Help with a Video streaming a Meeting and archiving it in HD using 1 camera
+What needs to happen before we expect x265 to be in wide use, along with encoders something like Handbrake available for it?
+Looking for free program that allows PiP, and cutting/splicing
+Bad video quality on 600D
+Are there any red filters that fit an SJ4000
+rendering with the video card in MeGUI
+What are the outer dimensions of the GoPro 3+ lens holder?
+VSDC No audio when editing tracks?
+Setup for Premiere Pro on Laptop with SSD/HDD
+How to detect which part of the video is using copyright audio on facebook
+Spec for GPAC&#39;s DashCast configuration?
+Wireless IP Camera
+How to convert a .m4v video/audio file to .mp4 on Windows-7, for free
+iMovie 11 starts with a black screen. How can we make this a white screen?
+How to make a screen capture?
+Having trouble with an screen recording saved as AVI from Rylstim Screen Recorder
+Automatically fix luminosity differences between frames
+WAX - How do I make it so the PiP can go anywhere?
+I only have the .mp4 files from a Sony XDCAM EX shoot, is there a way I can still convert them for use in AfterEffects on Windows?
+Combine Multiple MKVs and Double Frame Rate
+Repair corrupted video files
+mistake importing footage
+how to motion track in after effects
+VGA Splitter Switch?
+Transcoding during ffmpeg overlay
+iMovie Help: Transition still keeps the previous clips&#39; audio
+What is a non-encoding lossless h.264 AVC editor? (other than avidemux which is buggy)
+Full-Featured broadcast-level open source Video Editors?
+Which is better quality, a larger 480p video or a smaller 1080p video?
+Working with Frame Rates &amp; Slow Motion in Adobe Premiere
+Is there software that will let you cut a region from a video file to create a new video?
+ffmpeg libx264 not working
+Millisecond stopwatch for visual stereo video synchronization measurement
+What is the best way to convert VGA to digital feed efficiently?
+How to make a whiteboard/flanelboard style promotional video for a mobile app?
+Recording an indexed screencast using VLC
+Can I use any audio recorder for filming?
+Simple way to downscale from 1080p@60 to 1080i@60
+How to set up Paid Live Streaming event?
+What do I need for Noir lightning?
+How to start making videos
+Can I shoot in 16:9 then change it to 4:3?
+&quot;A Must have&quot; ND filter stops for filming with Canon 5D Mk2?
+Best Sony Vegas Pro 13 videogame footage rendering options for YouTube
+Can I use brand names in my short film?
+Split video without re-encoding
+Cyberlink Power Director 12 Animated Gif Watermark
+gource and ffmpeg reduce video size
+Free software for annotations (circles, arrows, etc.) in screen capture videos
+Ripped DVD Video Playback Stutters, original DVD does not
+How can I mix a video in Full HD (1920 x 1080) with a vid in HD (1280 x 720)
+What is the maximum amount of memory Adobe Premiere Pro can efficiently utilize?
+What are some tips on taking great videos with the iPhone 5s?
+How to reverse these keyframes in Adobe After Effects?
+.mov file choppy when played back in premiere pro cc
+Stream a dynamic playlist to a RTMP server
+Small profile camera for recording a lecture (from a student&#39;s seat)
+Blackmagic Hyperdeck Recorder?
+How to avoid quality loss of pictures when de-interlacing?
+Split one video file into small files made up of its scenes
+Why is my Time Ruler in After Effects displaying seconds like this?
+What is the best software to do color pass effect for a film?
+How Can I Reduce Noise On a 5D Mk3?
+Letterbox when converting 4k to 1080p
+What to do when camcorder angle does not cover entire area to record?
+Razor all clips in timeline underneath in/out points
+Connecting camera to computer to film
+Final Cut - split clip into separate clips
+Live stream from GoPro to YouTube or another video service
+Want to set the in/out points but modified the existing clip
+How to get Youtube Editor spotlight annotations to show up once uploaded on Vimeo
+Transparent video background from image
+What Boom mic is compatible with a smartphone?
+Streaming live to co-hosts
+Why is MP4 black background gray in Internet Explorer 11?
+Video mixer from multiple sources into one
+.wmv audio and .mov video out of sync
+How do I make the DoTA 2 map work in Source Filmmaker?
+Split video into equal duration segments
+How to make the smoke become a mask layer?
+Video editing with text to speech
+adobe premiere cc / picture in picture / editing video shape by its corners removed?
+Windows Tool for Extracting enhanced images from video
+Telex and Mumble
+Program to convert videos by interpolating 30fps video to 60 fps similar to Splash Pro video player
+replace a clip with a different size clip but keep the scale in Premiere CC
+All of my tags from WeedlLon&#39;s paid rig are missing when I reopen the project
+Switching between H.264 video streams on the fly?
+FCPX Crashes again and again
+JVC 3CCD camcoder light changes during capture!
+How can I combine two videos into one?
+Hardware suggestion for recording DVI on mac with unknown frame rate
+Making the camera travel through a hole in a letter
+How can i create DVD menu with moving scene
+Picture In Picture - Software recommendation
+How do I fix my corrupt video files?
+supply video files to editor in another country
+Does the new Panasonic 4k LUMIX LX100 seem like a good entry-level 4k camera?
+Saving disk space, but not quality
+iOS 8 Video Editing App That Lets You Hear The Audio While Trimming?
+Producing a time-lapse video over 6 months or more
+How to reproduce this video segmentation special effect?
+Adobe Encore - I have problem with add Arabic subtitle to my project
+Who owns the rights to video footage?
+Logo overlay with Windows Movie Maker
+What format should I digitize mini DV tapes with HDV footage in?
+What softwares are used to produce this video?
+How to find clip of video belongs to full video?
+Exchange project files between different versions of Premiere Pro?
+How to export this video?
+Video player (which can overlay 2 video streams)
+In Pazera Free Audio Extractor, what does the the Profile do?
+Blending Two Shots for Continuity
+Calculating loss when converting from MTS to AVI using FFMPEG
+Best free tool for video compression on Mac
+What is the technical advantage of celluloid film over digital?
+Re-encoding Archival Movies
+What kind of storage for digital footage?
+dvd menu with single text field that can change
+What does the information on DSLR lenses mean in terms of filmmaking?
+Color shift after exporting!
+The ideal wood for the DIY slate?
+Depth of focus for video recording
+no sound in mp4 Sony Vegas
+How to lower the volume of the second audio channel with FFMPEG
+CHDK on Canon Powershot S100: Is there a Video Bitrate sweet spot?
+Tips to make professional looking hand-held videos using smart phones?
+Process for crafting disparate travel footage
+Problems while implementing RTMPT server
+How best to stretch an area of video
+Hardware to consider for video editing
+How to divide a large video file into smaller clips? (not manually)
+in iMovie, does adding title at the start of a clip cuts the clip portion from there?
+How can I manage videos with OS X, iPhone and Sony Nex 3N?
+How to create a light wall in after effects?
+Composition shows mask instead of content
+Best format (compression-wise) for Khan Academy Style video
+Are introductions in other languages suitable for internet videos?
+How to mirror a composition?
+How to make MP4 and MPG-2 720 x 1280 videos? (aspect ratio 9:16)
+Captured video in Adobe Premiere - is the next step to make subclips?
+Video format to get my comp to export under 50Kb
+Video encoders that display frame with most movement
+Thousands of frames per second?
+Light, compact, and &lt; $100 tripod with pan head
+Open source Video editing software for subtitling unicode
+Adobe Media Encoder Flicker Issue
+Different luminosity between preview and render on Sony Vegas 13
+Discrepancy between VirtualDub CPU usage and Task Manager, Lag resulting
+Equipment needed to record sound when filming an interview with two people
+big Premiere project with many clips - is it better to storyboard on paper first?
+Flocking birds with Nuke-X Particles
+Opaque overlay becomes transparent when fading out both video tracks in Sony Vegas
+Need to reach a low data rate of about 1.5 - 2 MB/min (200 - 267 kb/s)
+Why are some of my videos I just uploaded to Youtube in HD and some aren&#39;t?
+how to make a video that shows data parsed from xml file or database?
+Importing VOB from DVD results in squeezed image
+Closed shapes with Newton 2
+Split subtitles to line up ends of files?
+Burn .mkv to a .dvd for playback on DVD player while retaining multiple tracks?
+ConvertXtoDVD5 saying Project size is too big
+Configuration sufficient for HD video editing
+&quot;Video Filter missing&quot; in Adobe Premiere
+Dose Sony DVD Architect support Arabic subtitle
+How do I alter just the framerate of a VP9 webm without affecting anything else?
+Audio Sounds Like It&#39;s Skipping in Lightworks
+Hick-ups when I make mpeg2 export (Premiere ProCS5)
+Sync up ffmpeg `rawvideo` recording and Audacity ALSA recording
+After Effects: Apply motion tracking to a scaled layer
+Free video editing software
+Poor and low quality on import/render Adobe Premiere
+Is there any method to create an audio visualizer as seen in video below
+No change to mask when parent&#39;s source text size changes
+Importing iphone slow mo footage into final cut pro
+What is the best universal video format / extension so that it can be viewed on iPad and PCs
+ffmpeg split file retains original length
+Synchronise in Premier Pro
+Looking for a video player hardware that loops seamlessly
+Faster deinterlacing with ffmpeg and yadif
+4k video in timeline not smooth on scrub + playback in Adobe Premiere Pro CS6
+A distortion in video file appear after move it from server to server
+How can I save the project for premiere cs 5.5?
+lift adobe premiere ram allocation limit?
+Why does premiere perform so badly when it shouldn&#39;t?
+How do I make titles look like they are in the room as an object?
+How Can I Trim A CDNG
+Marshall Video Cameras and BMD ATEM
+ffmpeg drawtext clipping to a bounding box
+Setting timecode in Premiere Pro by using file creation date of clips
+How would I wirelessly broadcast a Coax signal?
+Even though Apple Motion is used with FCP could I still use it with iMovie?
+How can I record video clips on intervals automatically?
+Burn ASS subtitle onto MKV without any quality loss
+Variable Bitrates for Streaming?
+using -force_key_frames in ffmpeg with libx265
+Stream Screen from one machine and webcam from another
+Which would be the best VFX software for an absolute beginner?
+How to make direct to home dvd movie?
+Premiere vs Vegas performance in i7 CPU?
+How to start a freelance editing company?
+Changing playback speed by changing frame rate
+Merging mp4 video stream with subtitles for use in creating DVD
+When do you use the Easy Setup in FCP 7
+Avconv rotating mpeg4 - video loses quality
+Read audio Markers/Regions in Premiere?
+What is best practice to manage “all evening” recording to allow improvements to propagate into different videos using it?
+What portion of m2t video file size is audio?
+Do I need an STM lens for face detection live video with Canon?
+Export video marks and regions
+Color Correcting &amp; Color Grading
+Http Live Streaming for beginners
+Corrupted video (Green/pink) on Premiere Pro CS6 in Win8.1 Pro 64bit but not on Mac OS Yosemite
+What happens when there is a &quot;movie within a movie&quot; or a &quot;film within a film.&quot;
+GoPro Studio Editing HD Videos
+Compositing a compound clip with transitions in FCP X
+Get effect to overcome image size [After Effects]
+Best presets to scale legacy 4:3 and 5:4 videos using ffmpeg
+Frames with pict_type=I yet key_frame=0
+What is the least noticable way to re-stream a video to Twitch?
+How does one &quot;convey&quot; a news article in a movie?
+What means &quot;Data: Skeleton&quot; in an .ogv file?
+How to Extract Subtitle on Apple Homepage
+FCPX - Large MXF being broken into smaller files
+How can I know if a video has been manipulated/staged/faked?
+Syncing Shogun Footage with PluralEyes?
+Merging 2 video input source into 1 output
+Using PTZ Optics 20x-IP with BlackMagic ATEM Studio 4k
+Software that exports into multiple formats and sizes?
+Video compiled in Lightworks has fuzzy audio
+2 videos out of sync
+Transfer project from one application to another
+Non-hacked GH2 compared to modern cameras
+Capturing VHS tapes
+Adobe Premiere Pro CC editing/playback performance
+Detect GoPro camera model from MP4
+Why reencode MP4 to MOV for &quot;easy post processing&quot;?
+Edius can&#39;t open avi video created by Sony camera
+CUDA video card
+iPhone 5s and Premiere Pro Cs6
+How to delete folders from Library &gt; Gradients in Motion 5
+How can we monitor audio of subject using headphone while recording video using iphone or samsung galaxy s4?
+How to match output parameters with input ones in Adobe Premiere?
+How to do picture in picture with Premier Pro Multicamera
+Automatically sync text to video for subtitles
+Can I use Garageband on Mac to add harmony audio to a video?
+Wireless HDMI setup for live event
+Screen capture AND audio recording in ffmpeg
+What should I use to record me playing guitar and singing,
+how can video clips be merged in Corel Video Studio Pro x7?
+Problem with video playback of AVI (Xvid) on Sony BDP-S186 [solved]
+Convert MTS 1080/60p to MP4 1080/60p
+How to extract Xtra atom from MP4 file?
+OBS (Encoding X264) fails
+Animating stills in After Effects
+My audio quality decreases after rendering in Premiere Pro CC
+BT.1120 Video Standard Specifications?
+What program can develop videos like ....?
+Can I use a computer as the processing unit of a video camera instead of the onboard chip?
+How to critique promotional videos?
+Video file playback issue
+Looking for recommendations on editing Premier Pro on a MacBook Pro
+Recommandation for a 360 degrees video camera for developers
+suction-cup lamps for video lighting
+Adding 3d animations in a video
+What is the smallest video size possible in Sony Vegas Pro?
+DSLR filmmaking tutorials and tips
+Calibrate internal camera under Windows
+Detecting a particular colour
+What are the tools needed to produce good quality videos on Youtube?
+Transcoding Satellite online TV Channels to Internet Via Help of Cloud?
+use video for demo player is it legal?
+After Effects - Export Settings Window
+YouTube Network Partnership Needed for Minecraft Tutorials?
+Anyone with Mac Pro, please help for CPU advice
+video capture problem
+Trying to figure out why my systems render times are so different
+Choosing video editor for my wife
+What tools do you use for command line editing?
+Way to share HD multi-cam long media files to preview edits
+How to compress video size without losing quality or resolution?
+How to color grade video from a GoPro and a GH2 using FCPX
+gopro hd/tv out cable
+Remove text from advertising boards
+How can I preview with audio in After Effects (but be able to pause and resume)?
+Which technology do YouTube and Vimeo use for processing 1080 HD Video?
+Documentary with the actors from e.g. The Outer Limits or The Twilight Zone etc.?
+How do you make videos like this one?
+Which software should I use for making an YouTube intro for videos on a channel, and how long would I take to learn it?
+Are comedy shows recorded with live audiences?

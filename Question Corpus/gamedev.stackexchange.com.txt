@@ -2499,3 +2499,2504 @@ Lost connection to forge in eclipse
 Unity import text or json
 FXC: Error X3501: &#39;main&#39;: entrypoint not found
 Why do I have to run my 2D game at 300+ FPS for movement to be passably smooth?
+How can I effectively manage a hobby game project?
+Where can I find free sprites and images?
+Game development Blogs
+What are good games to &quot;earn your wings&quot; with?
+How can I find an optimum set of colors for 10 players?
+When should I use a fixed or variable time step?
+How to prevent the &quot;Too awesome to use&quot; syndrome
+How does a single non-artistic programmer make a game?
+How can I store game metadata in a .png file?
+How do you prevent inflation in a virtual economy?
+What things should an indie game developer never do?
+Why are MVC &amp; TDD not employed more in game architecture?
+How did LoZ: A Link to the Past handle sub-tile collisions?
+What math should all game programmers know?
+STL for games, yea or nay?
+Role of systems in entity systems architecture
+Has piracy ever resulted in a developer getting shut down?
+Must read game development books
+Why is it so hard to develop a MMO?
+Entity communication: Message queue vs Publish/Subscribe vs Signal/Slots
+What makes a computer opponent feel alive?
+Good resources for learning about game architecture?
+Version control for game development - issues and solutions?
+Tips for writing the main game loop?
+Free ebooks about game development
+What data-type should I use for in-game currency?
+What are some programming design patterns that are useful in game development?
+How do I get started making Android games?
+How do you generate tileable Perlin noise?
+Where can I find free music for my game?
+What can I do to make sure that I have the energy to work on my game while working full-time?
+What are some good podcasts for game developers to listen to?
+Where can I find free sounds for my game?
+What is the future of XNA in Windows 8 or how will manged games be developed in Windows 8?
+How to deal with (bad?) player suggestions
+Why do loot drops contain (mostly) useless items?
+How can I simulate a bad internet connection for testing purposes?
+Good game design books?
+How are bullets simulated in video games?
+How to develop RPG Damage Formulas?
+What is an optimum failure rate that will keep people coming back to my game?
+How closely can a game resemble another game without legal problems?
+What are some good learning resources for OpenGL?
+Recommended 2D Game Engine for prototyping
+What is the purpose of having lives?
+Why do most 2D platformers start off in the left and progress in the right direction?
+Good 2D Platformer Physics
+How should a one-man team do game audio?
+How does one prevent homing missiles from orbiting their targets?
+Procedural... house with rooms generator
+2D Gaming Libraries/ Frameworks/ Engines for Android
+How to write a network game?
+How to design a replay system
+How does one make games playable before they are fully downloaded?
+Game Development Degree vs Computer Science Degree
+Implementing a 2D destructible landscape (like Worms)
+What are the challenges and benefits of writing games with a functional language?
+Huge procedurally generated &#39;wilderness&#39; worlds
+What are the typical day-to-day tasks of an entry level games programmer?
+Why do we move the world instead of the camera?
+What are typical pitfalls when writing games with a managed Language like C#?
+Level Design Tips
+Are there any benefits for using the CPU instead of the GPU?
+Why don&#39;t more games use vector art?
+Cross Platform 2D Graphics Engines
+How do I determine my games minimum hardware/software requirements?
+C++ low-level optimization tips
+Multi-threaded games best practices. One thread for &#39;logic&#39;, one for rendering, or more?
+How can you put all images from a game to 1 file?
+2D graphics - why use spritesheets?
+How does Dwarf Fortress keep track of so many entities without losing performance?
+Which image format is more memory-efficient: PNG, JPEG, or GIF?
+Why are gaming graphics not as beautiful as animated movies?
+How does A* pathfinding work?
+How to avoid circular dependencies between Player and World?
+What to consider when deciding on 2D vs 3D for a game?
+How can I optimise a Minecraft-esque voxel world?
+What are the dangers of self-teaching game development?
+Good resources for learning modern OpenGL (3.0 or later)?
+Why are character-classes used in game design?
+Why do we use scripts in development?
+Using component based entity system practically
+Can I prevent diagonal movement from exploring more of the map?
+How can I get involved with open source game projects?
+What tools do you use for 2D art/sprite creation?
+What kind of databases are usually used in an MMORPG?
+What are the pro/cons of Unity3D as a choice to make games?
+How can I get textures on edge of walls like in Super Metroid and Aquaria?
+Good GUI for OpenGL
+What programming language was Super Mario Bros. written in?
+What C# libraries can be used to support game development?
+What are good JS libraries for game dev?
+What is Vulkan and how does it differ from OpenGL?
+2D Platformer AABB collision problems
+How does a collision engine work?
+How is 2D lighting implemented?
+Optimizing an XNA 2D game
+Where to start with game development?
+How could I implement something like Minecraft&#39;s crafting grid?
+Why no night sky with realistic star constellations?
+How can I effectively manage a hobby game project?
+Where can I find free sprites and images?
+Game development Blogs
+What are good games to &quot;earn your wings&quot; with?
+How can I find an optimum set of colors for 10 players?
+When should I use a fixed or variable time step?
+How to prevent the &quot;Too awesome to use&quot; syndrome
+How does a single non-artistic programmer make a game?
+How can I store game metadata in a .png file?
+How do you prevent inflation in a virtual economy?
+What things should an indie game developer never do?
+Why are MVC &amp; TDD not employed more in game architecture?
+How did LoZ: A Link to the Past handle sub-tile collisions?
+What math should all game programmers know?
+STL for games, yea or nay?
+Role of systems in entity systems architecture
+Has piracy ever resulted in a developer getting shut down?
+Must read game development books
+Why is it so hard to develop a MMO?
+Entity communication: Message queue vs Publish/Subscribe vs Signal/Slots
+What makes a computer opponent feel alive?
+Good resources for learning about game architecture?
+Version control for game development - issues and solutions?
+Tips for writing the main game loop?
+Free ebooks about game development
+What data-type should I use for in-game currency?
+What are some programming design patterns that are useful in game development?
+How do I get started making Android games?
+How do you generate tileable Perlin noise?
+Where can I find free music for my game?
+What can I do to make sure that I have the energy to work on my game while working full-time?
+What are some good podcasts for game developers to listen to?
+Where can I find free sounds for my game?
+What is the future of XNA in Windows 8 or how will manged games be developed in Windows 8?
+How to deal with (bad?) player suggestions
+Why do loot drops contain (mostly) useless items?
+How can I simulate a bad internet connection for testing purposes?
+Good game design books?
+How are bullets simulated in video games?
+How to develop RPG Damage Formulas?
+What is an optimum failure rate that will keep people coming back to my game?
+How closely can a game resemble another game without legal problems?
+What are some good learning resources for OpenGL?
+Recommended 2D Game Engine for prototyping
+What is the purpose of having lives?
+Why do most 2D platformers start off in the left and progress in the right direction?
+Good 2D Platformer Physics
+How should a one-man team do game audio?
+How does one prevent homing missiles from orbiting their targets?
+Procedural... house with rooms generator
+2D Gaming Libraries/ Frameworks/ Engines for Android
+How to write a network game?
+How to design a replay system
+How does one make games playable before they are fully downloaded?
+Game Development Degree vs Computer Science Degree
+Implementing a 2D destructible landscape (like Worms)
+What are the challenges and benefits of writing games with a functional language?
+Huge procedurally generated &#39;wilderness&#39; worlds
+What are the typical day-to-day tasks of an entry level games programmer?
+Why do we move the world instead of the camera?
+What are typical pitfalls when writing games with a managed Language like C#?
+Level Design Tips
+Are there any benefits for using the CPU instead of the GPU?
+Why don&#39;t more games use vector art?
+Cross Platform 2D Graphics Engines
+How do I determine my games minimum hardware/software requirements?
+C++ low-level optimization tips
+Multi-threaded games best practices. One thread for &#39;logic&#39;, one for rendering, or more?
+How can you put all images from a game to 1 file?
+2D graphics - why use spritesheets?
+How does Dwarf Fortress keep track of so many entities without losing performance?
+Which image format is more memory-efficient: PNG, JPEG, or GIF?
+Why are gaming graphics not as beautiful as animated movies?
+How does A* pathfinding work?
+How to avoid circular dependencies between Player and World?
+What to consider when deciding on 2D vs 3D for a game?
+How can I optimise a Minecraft-esque voxel world?
+What are the dangers of self-teaching game development?
+Good resources for learning modern OpenGL (3.0 or later)?
+Why are character-classes used in game design?
+Why do we use scripts in development?
+Using component based entity system practically
+Can I prevent diagonal movement from exploring more of the map?
+How can I get involved with open source game projects?
+What tools do you use for 2D art/sprite creation?
+What kind of databases are usually used in an MMORPG?
+What are the pro/cons of Unity3D as a choice to make games?
+How can I get textures on edge of walls like in Super Metroid and Aquaria?
+Good GUI for OpenGL
+What programming language was Super Mario Bros. written in?
+What C# libraries can be used to support game development?
+What are good JS libraries for game dev?
+What is Vulkan and how does it differ from OpenGL?
+2D Platformer AABB collision problems
+How does a collision engine work?
+How is 2D lighting implemented?
+Optimizing an XNA 2D game
+Where to start with game development?
+How could I implement something like Minecraft&#39;s crafting grid?
+Why no night sky with realistic star constellations?
+New to creating AI - where to start?
+Why don&#39;t C++ Game Developers use the boost library?
+2D water with dynamic waves
+Is the TCP protocol good enough for real-time multiplayer games?
+Game State &#39;Stack&#39;?
+Coming up with manageable game ideas as a hobbyist game developer
+Is Java viable for serious game development?
+Is there a pedagogical game engine?
+Easy to use cross-platform 3D engines for C++ game development?
+Event-driven Communication in a Game Engine: Yes or No?
+How to make some monsters appear more dangerous than others?
+Why do games seemingly reload the entire level when restarting a level?
+How can I avoid having many singletons in my game architecture?
+How can I implement dialog trees into my game?
+How can I set up a flexible framework for handling achievements?
+Looking for a good technique for character movement in hack&amp;slash game
+How are voxel terrain engines made?
+1% idea, 99% execution?
+What can make a peaceful game successful?
+How to determine which thrusters to turn on to rotate the ship?
+Pathfinding for fleeing
+Why do most video game guns reload without losing unused ammo in the magazine?
+What&#39;s the newest trend / method for terrain rendering?
+Effective marketing strategies for independent game projects
+Automated testing of games
+How do I find artists to work on my game?
+Where is quality paid game music?
+C++: Smart pointers, Raw pointers, No Pointers?
+How to generate a universe?
+What kind of project management should a solo developer project use?
+Managing text-maps in a 2D array on to be painted on HTML5 Canvas
+How does Lua work as a scripting language in games?
+What scripting language should I choose for my game?
+Creating meaningful and engaging quests
+How to generate random level from a seed?
+What&#39;s a way to implement a flexible buff/debuff system?
+Is it reasonable to write a game engine in C?
+Where to promote your indie game?
+Why can we recognize game engines?
+How to learn 2d animation?
+How to maintain artistic consistency when working with multiple artists?
+What are the pros and cons of HLSL vs GLSL vs cg?
+Component-based game object systems in practice
+Why is this beat detection code failing to register some beats properly?
+How to render realistic ice?
+Random map generation
+How AAA games use this texture in the tone-mapping shader?
+How do Action RPGs make different weapon types feel unique?
+Why do tutorials use different approaches to OpenGL rendering?
+What path finding algorithms are there?
+What are some good resources for building a voxel engine?
+Is learning OpenGL 2.1 useless today?
+How do you come up with ideas for new games?
+How can I reduce aliasing in my outline glow effect?
+How to break the feeling of busywork in a game
+Why is it bad to hard-code content?
+How to know when your game concept is simply not fun and to stop
+How would you handle different aspect ratios in a 2d platformer?
+What are the performance difference between unsigned and signed integers?
+Why do game engines convert models to triangles compared to keeping it as four side polygon
+What is the purpose of a &quot;press start&quot; screen?
+How are deterministic games possible in the face of floating-point non-determinism?
+How&#39;d they do it: Millions of tiles in Terraria
+How do I create particles that react to the player and enemies?
+How to render 2D particles as fluid?
+Algorithms for rainfall + river creation in procedurally generated terrain
+Decision Tree vs Behavior Tree
+Best Way to allow players to &quot;Dye&quot; images without losing color quality?
+What is deferred rendering?
+How were 8-bit and 16-bit games developed?
+Where can I find good (well organized) examples of game code?
+How can I promote my game?
+What are some ideal algorithms for Rogue-like 2D dungeon generation?
+Moving ships between two planets along a bezier, missing some equations for acceleration
+How do audio based games such as Audiosurf and Beat Hazard work?
+How to create adjustable formula for RPG level up requirements?
+How to avoid the GameManager god object?
+MMORPG design for time-limited players
+Vertical vs horizontal hex grids, pros and cons
+Why are radians preferred over degrees in game development?
+How to prepare a game for localization?
+Movement prediction for non-shooters
+Why use random numbers when it comes to rewards and stats?
+Why are textures always square powers of two? What if they aren&#39;t?
+Is it unprofessional to leave game resources to the open eye?
+Does the gender of a game&#39;s protagonist affect sales?
+Why do we use the Pythagorean theorem in game physics?
+Any tips for creating cross-platform games?
+Examples of good Javascript/HTML5 based games
+Multi-threaded game (engine) design resources?
+what is the best way to eliminate grinding in games?
+Cross-platform independent development
+Water/Ocean simulation and physics
+Analysis of Mario game Physics
+A ball hits the corner, where will it deflect?
+How does a game without loading times work?
+What are the pros and cons of incorporating Lua into a C++ game?
+Is it possible to calculate or mathematically prove if a game is balanced / fair?
+How can I make backtracking interesting?
+Why are normal maps predominantly blue?
+What is the fastest way to work out 2D bounding box intersection?
+Turn-based strategy games where action happens in real-time?
+What is the purpose of the stencil buffer ? More precisely, what is a stencil in computer graphics?
+Mouse aim in an FPS
+How can I minimize the chances of my game getting pirated?
+Learning To Create Better Art (2D Games)
+Good game design process for a do-it-all programmer
+What makes a game look &quot;good&quot;?
+When should I hard-code data versus load external data?
+Realistic Camera/Screen Shake from Explosion
+Rendering SVG art directly in XNA
+Elegant way to simulate large amounts of entities within a game world
+How do you prevent your JavaScript / HTML5 web game from being copied or altered?
+Starting from Scratch - Is it a Mistake if I re-invent the wheel?
+How can I make space recognizable and easy to orient in?
+Entity/Component Systems in C++, How do I discover types and construct components?
+How do you author HDR content?
+What is a good file format for saving game data?
+In a browser, is it best to use one huge spritesheet or many (10000) different PNG&#39;s?
+In which directory to write game save files/data?
+How do graphics evolve so much on the same console hardware?
+Creating an illusion of stress and danger
+How to deal with &quot;level design creep?&quot;
+Will there be any more books in the Game Programming Gems series?
+Why do games ask for screen resolution instead of automatically fitting the window size?
+Do complementary shadows make sense for games?
+Can I (safely) assume that people playing my game have a middle mouse button?
+How can I make a &quot;random&quot; generator that is biased by prior events?
+How does Flow Field pathfinding work?
+Should I be using Lua for game logic on mobile devices?
+What are some famous games developed with .NET and/or XNA?
+Is ruby a suitable language for game development?
+What is a good starting platform for a teenage game programmer?
+How does pathfinding in RTS games work?
+How to design the attack class in an RPG game?
+Workaround to losing the OpenGL context when Android pauses?
+Procedural world  generation oriented on gameplay features
+How to network this entity system?
+How exactly does XNA&#39;s SpriteBatch work?
+Using multiple shaders
+How can I achieve a good fire effect with alpha blending and particles?
+What exactly does an installer do and why might I need one?
+How do patches in games work?
+Hexagon collision detection for fast moving objects?
+Do I need to ask Microsoft for permission to use their products logo?
+Why don&#39;t game developers release their source code?
+How can I quantify a drawn line&#39;s straightness?
+What are some common ways to generate revenue from a free game?
+How can I make a good-looking explosion particle effect?
+How can I make a peer-to-peer multiplayer game?
+What are some non-obvious topics to learn for game development?
+Profanity filter for an MMO chat
+How&#39;d they do it: Destructible environments in BF:BC2 and BF3
+Does inflating scores make players happier?
+Difference between orthogonal map and isometric map
+How can I design good continuous (seamless) tiles?
+Which purpose do armor points serve?
+Establish a person&#39;s genuine interest in game programming
+Alternates to scratch damage to solve combat deadlocking
+Alternative to Game State System?
+Are there any open source projects for car engine sound simulation? 
+How can I prevent false score reports to global highscore tables?
+Vertex Array Object (OpenGL)
+Several classes need to access the same data, where should the data be declared?
+what is the standard solution to pathfinding towards a moving target?
+most efficient AABB vs Ray collision algorithms
+Should I continue studying OpenGL or just switch to DirectX to  give me a better chance of landing a job in the game industry?
+What has stopped MMORTS games from being successful?
+Why does my object move faster at 45 degrees than at 90 degrees?
+What is the most effective way to work with a friend on the same game?
+How to encourage players to level up multiple characters?
+Random/Procedural vs. Previously Made Level Generation
+24-Bit Colordepth not enough?
+Maximum audio delay before the player notices?
+How do you approach resolution independence in raster based graphics content?
+How does hardware tessellation work?
+Why is there a lack of games for Linux?
+Implementing a wrapping wire (like the Worms Ninja Rope) in a 2D physics engine
+Proper OO game engine design: how to parcel responsibilities
+Texture packing algorithm
+About floating point precision and why do we still use it
+Can you access Kinect motion sensing from XNA?
+Interesting/Innovative Open Source tools for indie games
+What is the correct order to multiply scale, rotation and translation matrices for a proper world matrix?
+How can I generate Worms-style terrain?
+Is there an algorithm to detect the &quot;mainland&quot; on a 2D map?
+Why should I choose to design a health bar rather than heart containers?
+How to determine the amount of experience needed for leveling up
+How are sound effects made?
+why would you use textures that are not a power of 2?
+What viable way for an indie dev to test for epilepsy reactions on a game?
+Game programming books that don&#39;t teach programming?
+What 3D level development tools are available to indie developers?
+Doing powerups in a component-based system
+In-Game Tutorial Decisions
+Do 2D games have a future?
+How can I improve rendering speeds of a Voxel/Minecraft type game?
+Can I run into legal issues with random names?
+Why do GPUs require game specific drivers?
+Modeling speed of light information propagation in space combat sim
+Difference between &quot;staggered&quot; isometric and &quot;normal&quot; isometric tilemaps?
+If two objects interact, what holds the interaction code?
+Why don&#39;t all games permit changing the field of view?
+How can the lategame in a 4X game be made more exciting?
+What is a &quot;2.5D&quot; environment?
+Tools for creating assets?
+Assets Management, database or versioning system?
+Have any video game designs used non-uniform random numbers in interesting ways?
+Do retail games use &quot;inversion of control&quot; and &quot;dependency injection&quot;?
+How were cartridge-based games programmed?
+Are there many games involving the manipulation of water?
+How to create a hexagon world map in PHP from a database for a browser based strategy game
+Strategies to Defeat Memory Editors for Cheating - Desktop Games
+How can a programmer learn to draw 2D assets?
+A way to store potentially infinite 2D map data?
+Random seed function for map generation?
+Who does the AI calculations in an MMO?
+Should I have a public development blog?
+How to handle multiple story threads in a RPG game?
+Designing a game - Where to start?
+How are game console reverse engineered so emulators are created?
+How to generate caves that resemble those of Minecraft?
+How does a 2D game like Zelda handle the character being behind buildings where only part of him is shown?
+Simulating pressure in a grid based liquid simulation
+Is OpenGL appropriate for 2D games?
+How do teams prevent overwriting work in source files?
+Teamwork in Unity
+What is a good algorithm to detect collision between moving spheres?
+How can I develop Flash games without expensive software?
+Legal issues for a &quot;fangame&quot; of a commercial franchise?
+What are your favourite game-specific coding gems?
+What is the best way to avoid colorblind issues?
+What can cause ALT-TAB to be &#39;annoying&#39;/slow/glitchy?
+Marketing: Angry Birds - How it&#39;s done
+Browser-based MMOs (WebGL, WebSocket)
+Effects to make a speeding spaceship look faster
+Is it legally possible to make a clone of the game?
+Calculating the rotational force of a 2D sprite
+Version control with game development - When should I branch?
+Is there a way to procedurally generate the history of a world?
+What are milestones for a game developer to gauge their progress?
+How do you turn a cube into a sphere?
+Why is permadeath essential to a roguelike design?
+Why don&#39;t we use octogonal maps instead of hexagonal maps?
+What is a good tool for producing animated sprites?
+What C++ GUI library can you suggest?
+How does Navigation Mesh path-finding work?
+How do I get into Facebook game development?
+Where can I find fonts for my game?
+Methods for generating a map
+Is there a faster sine function?
+How is load balancing achieved in MMOs?
+Packaging HTML5 games as applications for iPhone/Android
+Android game development in c++
+game story event programming
+Determine position of a rotated element in Tetris
+Given a list of 2D locations and sizes, how can I efficiently find the nearest object to some target?
+Is game development a super elite club?
+How can I make water appear darker with depth, like in Minecraft?
+How can I make this style of 2D &quot;glowing&quot; graphics?
+What quality should my sounds be?
+How common is automated testing in game development?
+How do I produce &quot;enjoyably&quot; random, as opposed to pseudo-random?
+Anti-cheat Javascript for browser/HTML5 game
+Does an inventory limit in an MMORPG make sense?
+After a succesful glLinkProgram, should I delete / detach my shaders?
+How do I protect my game with CD key / serial number?
+Is the Manhattan distance monotonic when used as heuristic function?
+How are boss battles important?
+How do I make a character capable of walking on walls?
+What are the most commonly used programming languages?
+What is the cost of distributing through steam?
+Algorithm for generating a 2d maze
+OpenGL optimization tips
+Available AI middleware
+How do you start development of a game?
+Is there a simple way to stop enemies standing in the same spot?
+Is it worthwhile recording your own or buying stock sound effects?
+Spell casting - How to optimize damage per second
+Free voxel editor?
+Double buffering on HTML5 Canvas game?
+Lag compensation with networked 2D games
+I prefer C/C++ over Unity and other tools: is it such a big downer for a game developer?
+What&#39;s the difference between a Library and an Engine
+Is a voxel engine appropriate for a Minecraft-like game?
+What are atan and atan2 used for in games?
+Algorithm for spreading labels in a visually appealing and intuitive way
+Interfaces 101: Making it Pretty
+How do I create a wide-angle / fisheye lens with HLSL?
+How should I structure a design document?
+Implementing features in an Entity System
+How to I teach my artist to do arts for games?
+Creating a retro-style palette swapping effect in OpenGL
+Why is it difficult to port games from consoles to PC?
+What is the point of &quot;delta&quot; in this code? Does it reflect a standard thing in game dev?
+How can I introduce time pressure on the player&#39;s decisions?
+How to solve the big video memory requirements in 2d game
+Algorithm to modify a color to make it less similar than background
+How can I make A* finish faster when the destination is impassable?
+What is ambient occlusion?
+What happened to procedurally generated textures?
+Architecture a for a central renderer rather than self-rendering
+Isometric game engine in JavaScript/HTML5
+How to achieve a Neon-Light effect?
+Top Down RPG Movement w/ Correction?
+A good way to build a game loop in OpenGL
+Do you need a license for weapon models?
+How do I avoid &quot;too&quot; lucky / unlucky streaks in random number generation?
+Randomly generated story
+What data structure should I use for a Diablo/WoW-style talent tree?
+Appropriate level of granularity for component-based architecture
+Momentum and order of update problems in my physics engine
+Why is programmable pipeline( GLSL ) faster than fixed pipeline?
+Understanding Perlin Noise
+Is it safe to use Sleep() in game loop (on Windows)?
+How to implement &quot;bullet time&quot; in a multiplayer game?
+Where to start when building a 3D terrain editor?
+Game logic on the server! Good or bad?
+How can I protect my save data from casual hacking?
+Are there any disadvantages of using Distance Squared checks rather than Distance?
+How to properly implement message handling in a component based entity system?
+My game is just about finished! What do I do now?
+Looking for articles/books on: How do games make money? What models do they use?
+How to make a character jump?
+In an Entity-Component-System Engine, How do I deal with groups of dependent entities?
+Why is it that the majority of npc character models are roughly the same height in video games?
+Multithreading 2D gravity calculations
+Tutorial text without annoying user?
+How can I Intercept object with a circular motion
+What kind of gaming experiences does hiding game play stats and formulas cultivate?
+When creating quick prototypes, is it better to use the language you are going to use in the end?
+Approaching the Fun Factor in Game Design
+How to get PS3/Xbox 360 experience without having access to Dev kits?
+Are there any open source or free 3D modelling/animation tools that are widely used by indie game developers?
+Tips and Tools for creating Spritesheet animations
+How do you choose the right price of items in your games?
+Who kept a blog for a year with a new game idea every day, and where is it?
+Any open source game engines for Android?
+Mega Man-style screen scrolling design
+How does Blizzard manage to support Mac OS and Windows in their games?
+HTML5 Game (Canvas) - UI Techniques?
+Is Test Driven Development viable in game development?
+How to design a game engine in an object-oriented language?
+How to implement a never-rebooting test world?
+Balancing Player vs. Monsters: Level-Up Curves
+Correctly Implementing a &quot;Double Jump&quot;
+What designs are there for a component based entity system that are user friendly but still flexible?
+Algorithm for dynamically calculating a level based on experience points?
+Should actors in a game be responsible for drawing themselves?
+Making walls in tile-based games: what am I missing?
+How does one buy the rights for a game?
+For voxel rendering, what is more efficient: pre-made VBO or a geometry shader?
+Out of bounds in AAA games
+Is there a 3D equivalent of hex tile maps?
+How do games like Minecraft generate entire worlds from a seed number?
+Beyond &quot;Novice&quot; Game Projects
+I want to make a moddable game. How does this affect my programming language choice?
+Immediate GUI - yae or nay?
+Making entire scene fade to grayscale
+How to discourage micromanagement in strategy games?
+Game planning and software design? I feel that UML is not convenient
+Pros and cons of different integrators
+How does one escape the GPL?
+Techniques to prevent non-official clients in network gaming?
+Try-catch or ifs for error handling in C++
+How to avoid texture bleeding in a texture atlas?
+Atmospheric scattering sky from space artifacts
+My game seems to be incompatible with recording software. What could be causing this?
+Should I use text files for my save data?
+Are there 3D projections other than orthographic and perspective?
+Should I assign a unique ID to individual units of game currency?
+Transmission implementation in a car game
+Command Ordering Architecture of Dwarf Fortress
+How many threads should an Android game use?
+What is the difference between OpenGL ES and OpenGL?
+How can one implement hot-swappable C++ modules?
+Tools for creating 2d tile based maps
+XNA development tutorials
+Target Tracking: When to accelerate and decelerate a rotating turret?
+What would most games benefit from having?
+How to deal with differences between 2D screen coordinates and Cartesian coordinates
+Attributes for calculating a hit in a turn based game or Roguelikes
+How to design a game&#39;s software such that it is easy to unit test?
+What pitfalls should one look out for when starting a studio
+When mapping the surface of a sphere with tiles, how might you deal with polar distortion?
+Cross-Platform Audio API Suggestions
+Developing games in Go?
+What is a good linear algebra book for game programmers?
+Famous games written in Python
+Is C++ being replaced by C# in industry games?
+Am I allowed to sell an XNA game by myself?
+A good way to prototype game ideas?
+What is the best legal way to get game assets?
+How to Interpolate between two game states?
+Level Design, Implying a path to the player
+Collision 100% avoidance implementation
+How can I implement gravity?
+Multi-platform multi-threading: What are the real challenges?
+Do iOS users use Facebook and Twitter buttons within games?
+Is Tetris public domain?
+Weird white outline around model
+What do potential employers look for in a good portfolio?
+What is the most serious limitation of Unity?
+How does one avoid the &quot;staircase effect&quot; in pixel art motion?
+Optimizing gravity calculations
+&quot;The Game Object&quot; - and component-based design
+How do I create a save file for a C++ game?
+Spreadsheets in Game Design?
+What is the view perspective angle of most 2.5D isometric games
+Procedural river or road generation for infinite terrain
+What&#39;s so different/complicated/useful about vectors?
+How can I draw outlines around 3D models?
+Why do we use 4x4 matrices to transform things in 3D?
+Why is an engine like Unity3D emphasized over a native library like OpenGL for beginners?
+What is some good examples about creating 2D fluids?
+Best place for learning how to write games in Unity3d
+Feasibility of an XNA game on PC
+What are some good resources for learning HLSL?
+What all should be happening during the &quot;Loading&quot; screen?
+Do I need to learn C++ to use Open GL?
+Coordinate system handling for 2D UI
+Enemy Spawning method in a Top-Down Shooter
+Tool to create a bitmap font from a true type font
+A list of game mechanics
+Data structures for interpolation and threading?
+Should collision detection be done server-side or cooperatively between client/server?
+Component-Based System online resources
+Would it be better to use XML/JSON/Text or a database to store game content?
+What languages are used to develop MMORPGs like EVE Online and WOW?
+Are there existing FOSS component-based frameworks?
+Do I, and how, separate the concerns of input and game objects?
+Best strategy (tried and tested) for using Box2D in a real-time multiplayer game?
+Reasons to disable game save during combat (e.g. Mass Effect 2)
+Fight with creativity burnout
+Easiest, most fun way to program 2D games? Flash? XNA? Some other engine?
+What are 3D textures?
+Is C# viable for a real-time game server?
+File format for static and animated 3D models
+Making a game as a tutorial?
+When to roll your own game engine?
+Is there a 2d physics engine that can model fluids and gases?
+Is game development a no-money field?
+Low traffic client synchronization with server in MMO
+How can I identify feature regions in a procedurally generated world?
+Hexagonal grid/tiles tutorials
+How to get a game done?
+How to deal with corner collisions in 2D?
+If &quot;ResourceManager&quot; classes are considered bad, what are the alternatives?
+What should I keep in mind when making 2D games for multiple resolutions?
+Learning to optimize with Assembly
+Finding direction of travel in a world with wrapped edges
+How do you save game state?
+Is storing all game objects in a single list an acceptable design?
+How does one do unit testing in a game engine?
+How to avoid game objects accidentally deleting themselves in C++
+Algorithm for creating spheres?
+Game architecture / design question - building an efficient engine while avoiding global instances (C++ game)
+Are hidden stats a good idea?
+How to prevent &quot;underwater sight&quot; in games
+How can I make the &quot;Strength&quot; attribute more attractive to Wizard/Caster classes in a RPG game?
+How to predict movement correctly when a player is invisible?
+Why do game developers write their own engines instead of using existing ones?
+Why is the origin in computer graphics coordinates at the top left?
+How do I make a JS game downloadable?
+Should independent game developers target older hardware?
+What are some methods to represent train tracks?
+Blender For Game Development, Pros And Cons
+How do/should MMOs handle disconnection during PvP?
+Real-time Debugging Techniques
+Sprite Animation Best Practices
+How to design an AssetManager?
+What options do I have for game hosting
+What functional language is most suited to create games with?
+Checklist for finished game?
+How do you get useful data from playtesters?
+Tweaking and Settings - Runtime variable modification and persistence
+Efficient way of drawing outlines around sprites
+What are the biggest pitfalls to consider when developing a new game?
+Where can I meet other independent game developers?
+How can you visualize a quaternion?
+What are the implications of not owning the IP of a character graphic in my game?
+noSQL - Is it a valid option for web based game?
+MVC-like compartmentalization in games?
+What can I do to increase the female:male ratio of gamers in an online, casual gaming, community?
+What should a game engine do?
+How can I get my game to show up in the Games Explorer on Windows?
+How can I create a lighting effect like this?
+How to implement behavior in a component-based game architecture?
+What is a fragment?
+What are the cons of using DrawableGameComponent for every instance of a game object?
+How to create a Ghost Replay feature in a game?
+What does it mean to &quot;bake lights&quot;?
+What is the simplest method to generate smooth terrain for a 2d game?
+Competing with C++ for games programming
+Behaviour tree code example?
+Orienting a model to face a target
+How do we keep ourselves from being sued for unknown patent infringements?
+What is a good algorithm for fractal-based procedural city layout?
+Quick 2D sight area calculation algorithm?
+How important do you find exception safety to be in your C++ code?
+Can I legally sell an XNA game made with Visual C# Express Edition?
+Where are all the tutorials for libGDX?
+What is the benefit of triple buffering?
+How much assembly is really used in modern game code?
+outline object effect
+What&#39;s the difference between mesh and a model?
+Given a RGB color x, how to find the most contrasting color y?
+Moving CW or CCW?
+Eight or infinity sign trajectory
+Difference between Material and Shader
+Why does this geometry shader slow down my program so much?
+Tricks in game mechanics to avoid dealing with network lag compensation?
+How to structure code for many unique weapons/spells/powers
+Which features belong to the engine and which ones to a game?
+A Simple Method To Create Island Map Mask
+Is implementing your own scripting language viable?
+Kickstarter &quot;last minute cold feet&quot;
+How would one construct a realistic &quot;infrared vision&quot; effect?
+How to optimize the distance function?
+Can I legally remove the default Unity splash screen by removing it from the APK?
+Which Unreal Engine 4 project files can I ignore in source control?
+Best way to store game-wide variables
+What problem does double or triple buffering solve in modern games?
+Why are leaderboards often separated between platforms?
+How can I come up with a simple diminishing return equation?
+How can I &quot;publish&quot; an Android game without Google Play?
+Why do some networked games use interpolation and some use pathfinding for remote movement?
+What are some known 2D/3D physics engines for XNA?
+How to make a multiplayer game work reliably behind NAT?
+What are the advantages and disadvantages to using a game engine?
+Essential knowledge for making HTML/JavaScript-based games
+What is involved for a simple UDP game?
+How to demo Advanced Game AI as a portfolio piece?
+Resource Managers - Are they any good?
+Upgrade OpenGL version on Windows?
+What should every graphics programmer write
+Getting It Done vs Solid Software Design?
+In what kind of variable type is the player position stored on a MMORPG such as WoW?
+What are different ways to define items in an RPG like game?
+Simple game engines / development tools made with artists in mind?
+Advice for a first year CS major
+Building a Plattformer - How to determine if a player is allowed to jump?
+Procedural Planets, Heightmaps and Textures
+As an indie game developer, how can I have (quality) music/sound done?
+Does it make the game more fun when the user is forced to progress through the levels sequentially rather than letting them pick and play?
+How can I calculate the angle and proper turn direction between two 2D vectors?
+What are the differences between XNA 3.1 and 4.0?
+Online leaderboard systems for (small/indie) PC games?
+What are effective marketing strategies for iPhone games?
+AI control for a ship with physics model
+Game actions that take multiple frames to complete
+How to procedurally (create) grow an artistic (2D) tree in real-time (L-System?)
+Polling vs event driven input
+Vectors in game development
+How are physics or graphics components typically built in a component-oriented system?
+Recognizing a hexagonal clickbox
+Game engine: a decent way, architecture-wise, to implement scripting support?
+Are there any good tilesets for hex-based maps that are available for free use?
+Is there anything like XNA for c++?
+Ideas for 2D Water Simulation
+What are the pros and cons of these voxel data file formats?
+Is it legal to develop a game using D&amp;D rules?
+Simple noise generation
+How can I evenly fan out a hand of cards?
+Animation Blending Basics
+How does client-side prediction work?
+I can&#39;t figure out how to animate my loaded model with Assimp
+Is there a tool to make a Spritesheet out of 1000 PNG&#39;s?
+Is there a definitive reference on Pinball playfield design?
+Where can I Find Free TOS or Privacy Policy Templates?
+Drawing lots of tiles with OpenGL, the modern way
+How to convert mouse coordinates to isometric indexes?
+Should Vector3 inherit from Vector2?
+Algorithm to simplify building/structural meshes
+UI mockups to the code
+Process of getting DEJUS rating (Brazil)?
+Elegant solution for coloring chess tiles
+In modern AAA games with open environment and lot of static content (eg : crysis), how is occlusion culling performed?
+Determining Poker Hands
+How would you implement chromatic aberration?
+How can I maintain a rectangular formation when units are added or removed?
+Preempting Behavior Trees
+Does HDR rendering have any benefits if bloom won&#39;t be applied?
+Separating game data/logic from rendering
+How can I compute a Jacobian matrix with dual quaternions?
+When does a game need an official age-rating?
+How do I make A* agents avoid other agents?
+How can I encourage players to &quot;talk to&quot; to each other in team-based games?
+What is the purpose of adding non-gameplay elements to a game?
+How do you handle aspect ratio differences with Unity 2D?
+Why do I seem to lose control of my computer when full screen Unity game loses focus?
+Why is H (blinn) used instead of R (phong) in specular shading?
+How to install Unreal Engine 4?
+How can I develop my Android game for different phone resolutions?
+Is there any Lua API that works with C# for PC &amp; XBox 360 Development?
+How can I produce heatmaps based off of player reported data?
+How can I implement parallax scrolling into my 2D game?
+How do you add a scripting language to a game?
+Is there any way to earn money with an open source game?
+How does Megatexture work?
+How to handle Multiple-accounts creation and cheating?
+3D theory before graphics APIs?
+Most Needed Open Source Project
+Procedural Generation of Infinite Level
+Getting started in game development: Is XNA a good choice?
+What happened to the Journal of Game Development?
+How do I best remove an entity from my game loop when it is dead?
+Does Big O really matter?
+OpenGL wireframe
+Balance in online PvP games
+How viable ogre3d is for a commercial project?
+Error on new XNA 4.0 game project - No suitable graphics card found
+Comparing angles and working out the difference
+How do I build a 2D physics engine?
+When should vector/list be used?
+Is XNA good for professional development for the Xbox 360?
+Do any open source JavaScript 3D physics engines exist?
+Is Unlimited Detail real?
+Bezier curve arc length
+How far can you get with Garry&#39;s Mod and no money?
+Quad tree vs Grid based collision detection
+&#39;Binary XML&#39; for game data?
+MVC (Model-View-Controller) Game Engine Architecture - Yes or No?
+How do I test if a circle and concave polygon intersect?
+How to deal with D3DX .dll hell?
+How to choose how to store data?
+Does C# have a future in games development?
+Dynamic Memory Allocation and Memory Management
+What are some good game development programs for kids?
+What is the average job length in the game industry?
+How to colorize certain parts of a model - like RTS games have those team colors?
+Is there a successor to RenderMonkey?
+AI: Learning vs. Strategizing
+Objective-C or C++ for iOS games?
+Guidance for building a proper in game economy
+Designing a component based game
+Isometric rendering and picking?
+What behaviors should go into making a &quot;non-perfect&quot; AI combatant?
+I need advice for my future career
+Recreating retro/NES style physics with intentional imprecision
+Where can I publish my Windows Indie game?
+Determine arc-length of a Catmull-Rom spline to move at a constant speed
+RTS Game Protocol
+Is deferred rendering/shading possible with OpenGL ES 2.0 ?
+Can I develop games for mobile platforms in C++?
+What are some techniques for designing fun, challenging Mario-style platformer levels?
+Are games designed to be addictive?
+Spawning units in a world made by Perlin noise?
+What is the math behind the light effect in krakatoa?
+Making the AI take different paths to each other
+Polishing your game: how much is enough?
+full screen anti-aliasing in opengl
+It is worth adding &#39;futuristic&#39; features to our game, or should we put our focus elsewhere?
+How can I make message passing between threads in a multithreaded engine less cumbersome?
+Why are big files better than small files for consoles?
+A simple map, four biomes, and how to distribute them
+Does the linear attenuation component in lighting models have a physical counterpart?
+How can I generate floating land masses for a Minecraft-like engine?
+Can I use popular classical music as my game&#39;s soundtrack?
+Coding for a really, really high-resolution display array
+Why is RK4 better than Euler integration?
+How can I generate signed distance fields (2D) in real time, fast?
+How to programatically retarget animations from one skeleton to another?
+How can I generate random lakes and rivers in my game?
+Can the solar system be accurately represented in 3d space using doubles (or longs)?
+in/out keywords in GLSL
+What are some good (retro) symbols for magic/mana/energy?
+Freeglut vs SDL vs GLFW
+How is AI most commonly implemented in popular games?
+How should I structure an extensible asset loading system?
+It is worth planning before jumping in the code?
+How to monetize and protect a engine&#39;s and its framework&#39;s copyrights and patents?
+Best way to mask 2D sprites in XNA?
+Handling player logoff and logon in a persistent world without breaking immersion
+Rolling my own scene graph
+Why is chunk size often a power of two?
+Dictionary of common names for code objects
+Best practices for labeling game versions?
+Set up indie game studio (UK) - how?
+Best technique to create oldschool (fake 3D) racing game?
+Do you actually use diagrams to model games?
+Crowdfunding an indie game. What should I offer back?
+Spherical map representation
+Imperfect pong AI
+How can I design lots of different attack types that can be combined?
+What is the standard C# / Windows Forms game loop?
+How can I mock Google Play purchases?
+What is the utility of squared radius and inverse squared radius for lighting computations?
+Will Unity skills be transferable?
+Generating tile map
+Does allocating and freeing a huge chunk of memory at startup &quot;clean up memory&quot;?
+Is there any harm in having the main game loop run uncontrolled?
+Algorithm for procedureral 2D map with connected paths
+How can I detect connected (but logically distinct) bodies of water in a 2D map?
+Using spherical harmonics to build complex sound scapes
+For 2D games, is there any reason NOT to use a 3D API like Direct3D or OpenGL?
+What is &quot;procedural generation&quot; and how is it done?
+How can I record my vector graphics game without  blurring the graphics?
+What name should I give each difficulty level?
+How can I improve or replace my programmer art?
+2D tycoon games vs. 3D tycoon games
+Solids as high viscocity Liquids
+How can I write a Save/Load system for my game?
+In Pong, how do you calculate the ball&#39;s direction when it bounces off the paddle?
+Where can I find a free dictionary of words?
+What scripting language would you recommend for a C++ game project?
+What revenue models exist for online games?
+Multiplayer Implementation, Can I implement it later if I chose to?
+What makes Minecraft so great?
+How does one optimize an HTML5 Canvas and JavaScript web application for Mobile Safari?
+What does a Game Designer do? what skills do they need?
+Unity3D, how much code do you write?
+What makes puzzle games addictive?
+Collision Resolution
+Finite state machine in C++
+Useful resources for beginning AI
+Effects for Programmers
+Modern Shader Book?
+How to balance a non-symmetric &quot;extension&quot; based game?
+What exactly is UV and UVW Mapping?
+Are there any alternative JS ports of Box2D?
+Adding multiplayer to an HTML5 game
+The practical cost of swapping effects
+Best C++ Math Library for Game Engine?
+2d Procedural universe generation
+How should I automatically update my entire game&#39;s files?
+Should the game host be the authority, or another dumb client?
+Advice on game architecture/design patterns
+Where should collision detection logic be placed?
+Game state management techniques?
+How object-oriented are videogames?
+Game Sound Effects Availability
+How does one obtain an official Nintendo development SDK?
+Using PS3 controller for input on Mac OSX
+What are the pros/cons of using a 3d engine for 2d games?
+Terrain Generation for Tile-Based 2D Platformer
+How to properly handle the landing part in a jump animation
+Would studying psychology give an advantage to a game designer?
+What is a good book on physics for game development?
+How do I add a custom mob to Minecraft?
+How to capture video of my mobile game?
+Which software to keep track of my project?
+Will polishing my current project be a better learning experience than starting a new one?
+How to resolve collisions of compound shapes using SAT?
+Game engine and data driven design
+What does the graphics card do with the fourth element of a vector as the final position?
+How can I create a random &quot;world&quot; in a tile engine?
+What makes in-game tutorials effective?
+Complex Game AI for Turn-based Strategy Games
+Am I liable if my game damages someone&#39;s computer?
+How to wire finite state machine into component-based architecture?
+What&#39;s the best head-bob formula?
+Keystone Correction using 3D-Points of Kinect
+Play videos with LibGDX
+How do history generation algorithms work?
+I have an &quot;amoeba&quot; game mechanic. Any idea on how to implement it?
+What was the typical toolchain for DOS game development?
+How does one save a procedural world?
+Where does the money to make a video game come from?
+Do I need a Point and a Vector object? Or just using a Vector object to represent a Point is ok?
+Using C++11 for cross-platform Game Engine Development
+Suitability of ground fog using layered alpha quads?
+What libgdx project files can I ignore from version control?
+OpenGL: Where shoud I place shaders?
+Should developers make their games easier with new versions?
+Graphics not being displayed on OUYA
+Why do MMORPGs still use multiple servers?
+Why is my sky color calculation in Mathematica incorrect?
+How to simulate early politics?
+What is &quot;tools development?&quot;
+How do I implement a programming system in my game that is both accessible, powerful, and fast to code in?
+Best way to gain C++ working experience for a job in games (coming from C#)
+Changing background music smoothly
+How do Raymarch shaders work?
+What does a matrix represent?
+Does game development have its own types of modeling?
+Camera vs Viewport
+How are entity systems cache-efficient?
+What is better? Lots of small TCP packets, or one long one?
+Where do I start if I want to independently learn game graphic design?
+Where can I find fonts which I can distribute with an open source game?
+What are some ways to prevent or reduce cheating in online multiplayer games?
+How do you gather and collate information you need to make a post-mortem?
+When dealing with a static game board, what are some methods to make it more interesting?
+Dynamic pathing algorithm for tower defense game
+Are game manuals worthwhile anymore?
+boolean operations on meshes
+What are some cool examples of procedural pixel shader effects?
+Are square or hex grids better for pathfinding?
+How much longer should I support iPhone 3G?
+Creating a 3D map for XNA?
+How do I handle moving platforms in a platform game?
+Ways to earn money through Flash games
+How do I render a mirror or other reflective surfaces?
+OpenGL ES 2.0: Setting up 2D Projection
+How do I query available video memory using DirectX?
+Cross platform mobile game design - any options?
+3D game engines for XNA games
+Elevation model for hexagonal game grids
+Pleasing isometric hexagons
+How do I create tileable solid noise for map generation?
+How can I debug shader programs?
+Alternatives to Singletons / globals
+How do I protect my rights to my game on the web?
+Is C++ &quot;still&quot; preferred in game development?
+(RPGs) Drop table design
+What is the purpose of the canonical view volume?
+Is it clever to use some engine to start game developing?
+Creating an electricity/lighting/tesla coil effect in a 2D XNA game?
+Can and should a game design be patented?
+How should I sort images in an isometric game so that they appear in the correct order?
+Public Relations for Game Developers
+Any fixed-point portable open-source 3D physics engines?
+AI to move custom-shaped spaceships (shape affecting movement behaviour)
+GLSL Shader Effects: How to do motion blur, etc?
+Open source component-based game or engines?
+How to protect your real time online shooter from potential bots
+Shadow map artifacts
+Rent-a-Coder style site for artists
+Is there a site where people discuss game concepts and questions in general?
+Real time shadow casting in a 2D isometric game
+Best/Efficient way to implement a 3d Collision
+how does HDR work?
+How to calculate turn heading to a missile?
+How do you add equipment to a 3D character model using XNA/Blender?
+What are pros and cons of Voronoi shatter?
+Do I need the &#39;w&#39; component in my Vector class?
+What resources can I use to determine if the name of my game violates any copyrights or trademarks?
+PC game update systems
+Avoiding impossible states in an adventure game
+Is there any documentation comparing/contrasting C++ standard library implementations?
+How can I make huge terrains in Unity?
+How do you programmatically generate a sphere?
+Is there a rule of thumb to scale up the environment by 33%?
+Faking isometric graphics in a 2D space game
+Examples of faking 3D
+How to tie a bullet release with a firing animation
+Must know legal issues when releasing a game?
+Tangible benefits to speed-coding your personal game projects
+Is there a way to use an arbitrary number of lights in a fragment shader?
+Game Components, Game Managers and Object Properties
+Why would some PNG files extracted from games display incorrectly?
+Creating my own kill cam
+How do you calculate the nearest point on 2 curves?
+2D Planet Gravity
+How can I implement lighting in a voxel engine?
+Why does OpenGL &gt;= 3 only allow VBOs?
+How can I unit test rendering output?
+How should I go about learning XNA?
+Ways to manage changing designer data alongside changing player data
+As an indie developer, what should I learn about the business end of game development?
+Unity 3D engine for Ubuntu?
+Level Editor + Game -&gt; Duplicating rendering/game specific code?
+Starting out with OpenGL when most tutorials are out of date
+What are the maths behind &#39;Raiden 2&#39; purple laser?
+What is a game framework versus a game engine?
+SharpDX and game engines, back to zero?
+Algorithm for creating adjacent triangles
+Books for designing virtual economy
+Embed IF text parser in another game?
+How should multiplayer games handle authentication?
+How to make my characters turn smoothy while walking on a path(list of coordinates)?
+Design of a turn-based game where actions have side-effects
+Peer-to-peer hostless competitive games of chance?
+Territory patrol planning
+Making Procedurally Generated Top-Down Landscapes Interesting
+An object twice as close appears twice as big?
+Behavior Trees :: Actions That Take Longer Than One Tick
+Is C++ necessary to learn if I ever want to get a job in the game industry?
+Why is 90&#176; horz / 60&#176; vert the default FPS Field of View?
+Partially observable game map — is A* appropriate?
+What is billboarding, and can/should it be used in 3D games to create special effects for weapon blasting effects?
+Which is the best LOD method for planet rendering?
+Optimizing collision engine bottleneck
+What advantages does bare OpenGL provide over frameworks/engines to small developers?
+How to represent projectiles in video game?
+Can I simplify the inequality &quot;distance(p1, p2) &lt; distance(p1, p3)?&quot;
+Normals vs Normal maps
+How should game objects be aware of each other?
+Rendering oily/polluted water?
+What would a &quot;2nd person&quot; viewpoint consist of?
+What are the common rendering optimization techniques for the geometry pass in a deferred shading renderer?
+How do you prepare for out of memory conditions?
+How can I generate a lightning bolt effect?
+OOP architecture for Hero with many attributes
+How do I lerp between values that loop (such as hue or rotation)?
+Using instancing for everything?
+What to send to server in real time FPS game?
+Networking for Real Time Strategy games
+Dealing with multiple licenses
+Grow first, Ads later for mobile games?
+Creating a seamlessly looping 2D multiplayer level?
+What does the term &quot;channel&quot; mean when used in regards to computer graphics?
+How can I let new players effectively compete with long-time players?
+How to avoid movement speed stacking when multiple keys are pressed?
+How can I create a stretchy, breakable pizza cheese material?
+Should a socket server and game server be separate processes?
+How can I avoid tight script coupling in Unity?
+How can I implement a global high score ladder?
+What is a texture atlas?
+What are some ways of sorting through zero-experience programming candidates?
+Tools for generating texture atlases/sprites from source images?
+Pro&#39;s and Con&#39;s of Various 3D Game Engines
+C# (Mono)/Java 3D Game Engine recommendation
+How is game difficulty tested/balanced?
+What happened to COLLADA?
+Good 3D Math Theory Books
+Where is XNA headed?
+What do you use to bundle / encrypt data?
+Tips for implementing MMO quest mechanics?
+Which unit test framework for c++ based games?
+Enemy evolution in shoot-em-ups
+Getting a texture from a renderbuffer in OpenGL?
+What is a Game State?
+How can I design an effective game object interaction scheme with a component-based architecture?
+How are game cinematics made?
+What is the best designed open source game engine to take example?
+Can we develop a game for iPhone on Windows platform?
+Puzzle design in Adventure games
+What&#39;s the state of the art in Space Partitioning for games?
+Disposing only certain resources in XNA?
+Am I hurting myself by not knowing C++ for game design?
+Is there any performance benefit to sharing shaders between programs?
+Recommended RPG game that can be used to learn game Modding?
+Calculating the output of two armies fighting
+Phone for Android game development
+MUD source code
+Powder games: how do they work?
+How to build a &quot;traffic AI&quot;?
+Should I learn Direct3D 9, 10 or 11?
+Complete Math Library for use in OpenGL ES 2.0 Game?
+Is there a common word that encompasses handling of position, rotation, and scale together?
+Wall Jump for 2D Platformer
+What is a good university for computer science and game development?
+Logging library for (c++) games
+How is game development different from other software development?
+Should I keep login server apart from game server?
+Beat detection and FFT
+Quad trees/grid based collision - putting logic into action
+Python Performance vs Game Maker
+Fastest way to draw quads in OpenGL ES?
+What criteria should I have met before releasing a game?
+Plot and Story design basics
+Ledge grab and climb in Unity3D
+XNA captures mouse clicks when the game doesn&#39;t have focus
+Why do pixel shaders not let us read directly from the framebuffer or the depth buffer?
+Math topics for 3D graphics programming
+How to load 3D models into Java?
+Real Time Dynamic Pathfinding?
+Where can I go to find a game graphic artist?
+Multiplayer HTML5, Node.js, Socket.IO
+Textual descriptions of 8-bit and 16-bit game engines
+How do game clients know that a server is running on their LAN?
+Is nVidia&#39;s CUDA suited to performing pathfinding calculations?
+XNA and C# vs the 360&#39;s in order processor
+What can I use to make my unique music ideas a reality?
+Resources of realistic water simulation?
+How do you handle uneven tiles while rendering a tile map?
+Procedural star field generator
+Avoiding singleton pattern for Event Scheduler?
+Heightmap, Voxel, Polygon (geometry) terrains
+How can a game prevent people from running multiple instances of itself?
+Should I learn 2d game development before 3d?
+How to implement A.I. for checkers/draughts?
+Is there a tool to help quickly define animation frames from non-uniform size sprite sheets?
+Designing a ResourceManager class
+When would I use &quot;scripts&quot; or &quot;scripting&quot; in a game, as opposed to the core language?
+How can I make &quot;falling away&quot; 3D terrain like Animal Crossing?
+Moving players into same square simultaneously?
+How to rotate blocks in tetris
+How should I track players&#39; real-time positions in an MMO?
+Where do I begin if I want to write a C++ 2d game?
+Is there a turn-based game service (like GKTurnBasedMatch on iOS) for desktops?
+What does an engine like frostbite look like in the early early stages?
+How do I implement a quaternion based camera?
+How to implement an intelligent enemy in a shoot-em-up?
+How many achievements should I include, and of what challenge?
+A* navigational mesh path finding
+How do I efficiently code both the client and server at the same time?
+Organizing an entity system with external component managers?
+How should I check if a player has completed an achievement?
+How would I implement an endless road the player runs down?
+What&#39;s the most efficient way to find barycentric coordinates?
+Resolution Independence in libGDX
+Ensure house map maze with lifts can be solved?
+How should I account for the GC when building games with Unity?
+Playtesting Own Game - How To Be Objective?
+How do I determine the draw order in an isometric view flash game?
+In a 2D platform game, how to ensure the player moves smoothly over sloping ground?
+Data-driven animation states
+How are &quot;2.5D&quot; art assets created?
+Is it possible to construct a cube with fewer than 24 vertices
+How do I make an on-screen HUD in libgdx?
+How can I simulate limited AI vocabulary for a word game?
+How should I handle tiny objects in a physics engine?
+Technique for objects following each other in complete movement?
+Should I distribute shaders in a compiled form or in plain text?
+Do I lose/gain performance for discarding pixels even if I don&#39;t use depth testing?
+Does the order of vertex buffer data when rendering indexed primitives matter?
+How can I acheive a smooth 2D lighting effect?
+Faster 2D Collision detection
+Orthographic unit translation mismatch on grid (e.g. 64 pixels translates incorrectly)
+Toon/cel shading with variable line width?
+Demystifying &quot;chunked level of detail&quot;
+Generated 3d tree meshes
+Implementing a camera / viewport to a 2D game
+What is a suitable input method to use for a 2D platformer on a touch device?
+Game loop, how to check for conditions once, do something, then not do it again
+Cast ray to select block in voxel game
+What are the differences between a skybox and a skydome?
+Resolving a collision with forces
+How do I blend 2 lightmaps for day/night cycle in Unity?
+Get ring of tiles in hexagon grid
+What are normal, tangent and binormal vectors and how are they used?
+Scrambling word into least recognizable form
+How to blend two cameras when traveling through a portal in Unity3D
+How do I elegantly teach players how to play?
+How do I create a cel-shaded cartoon look?
+What makes a game &quot;casual?&quot;
+How to nerf something without the player community hating you?
+Why does my game display the wrong &quot;required Android version&quot; on Google Play?
+How can I simulate a limited (256) color palette in OpenGL?
+What is the difference between Unity&#39;s Sprite and Texture2D classes?
+How can I stop the player from drifting due to local input prediction when they stop?
+How can I create a bomb explosion in Farseer that pushes nearby objects away?
+Can an application break the graphics card?
+How to implement fake 3D like distortion effects for a 2D side scrolling game?
+Avoid double compression of resources
+How to implement soft edge areas with particles
+Does `yield return false;` have special meaning in Unity3d C# scripts?
+How to make unit selection circles merge?
+How can I create a large space background that repeats, in an unnoticeable way
+How do I control which calculations are done on the CPU and which are done on the GPU?
+Dungeon Generation with no corridors and room dependencies
+What libraries do you use for developing games in Actionscript?
+What do I need to develop for the Playstation 3?
+How can I create my own sky maps?
+Where can I find legal or business resources for a game production company?
+Where should I host my flash games?
+Network layer libraries
+What is a good way to measure game virality?
+XNA: Stream loading a HUGE 2D world map
+What are the makings of a good Character
+Managing a complex game storyline or quests system
+How do I handle Isometric collision detection?
+Multi-disciplined: Strength or Weakness?
+Should I put a soundtrack behind my strategy game? Which games need music and sound
+How can one compile Darwinia under Linux?
+Clear reference implementations of MLAA?
+In general how often and when should I optimize my code?
+What&#39;s in a name?
+Will a Game written using HTML5 work on smartphones?
+How do I calculate rotation caused by bounce friction?
+What is the best way to make a main menu system?
+2D Level design/editing/saving questions
+How can I tell how much video card memory I&#39;m using?
+what can be done to improve the ultimate insane real time strategy game AI?
+Scripting and Cinematics without Threading
+Make Windows game appear in Games Explorer (Start Menu - Games)
+HLSL Translucent Plastic Shader
+Will the same Flash game business model work for HTML5 games?
+Is SVG a viable technology choice for web-based game?
+Game log format for MMO servers
+AS3/Flash Game Dev: Looking for good &amp; current step by step
+Will an XNA &quot;XBox 360 Project&quot; also work on Windows?
+High Performance Vector Graphics Solutions
+How can I make a collection of mini-games in XNA where the user can download packs of minigames and the main .exe can run them without being altered?
+Best Way to Create A Map for a 2D Game?
+Making (or emulating) a &quot;D-Pad&quot; on a touch-screen; virtual d-pad
+Why is is so hard to develop a game console emulator?
+Can I do server side programming with unity?
+Independent game developer career advice
+How do I disable texture filtering for sprite scaling in XNA 4.0?
+Common way of animating &#39;motion&#39; for walk cycle animations
+How much to pay for artwork in an indie game?
+How can I implement Offline Skilling
+Sounds to describe the weather?
+Playing a Song causing WP7 to crash on phone, but not on emulator
+What is the recommended library for using Lua from C++?
+How to apply Data Oriented Design with Object Oriented Programming?
+Styles of games that work at low-resolution
+&quot;Optimal&quot; game loop for 2D side-scroller
+How to implement turn-based game engine?
+Is chess-like AI really inapplicable in turn-based strategy games?
+Game Development In C Only. Is it possible?
+2D non-tile based map editor
+How do they keep track of the NPCs in Left 4 Dead?
+How to implement an experience system?
+How to store a shmup level?
+Are high powered 3D game engines better at 2D games than engines made for 2D
+Sprites as Actors
+Why not show progress towards achievements/badges?
+2D Rope Collision Detection
+Implementing network smoothing
+What research areas exist in game programming?
+Programming the combat sequence in a role playing game
+Curved movement between two points
+Is it a waste to learn OpenGL?
+RTS Game AI Thread
+How is a 3d perlin noise function used to generate terrain?
+Weighted Random Distribution
+Is HTML5 and Canvas good for rapid prototyping of games?
+Sorting array of points in clockwise order
+Should an object in a 2D game render itself?
+Online service and/or application to develop a story line for an adventure game
+How could you parallelise a 2D boids simulation
+2D tower defense - A bullet to an enemy
+Heightmap-based Terrain with a Road
+Programming a climbing system like tomb raider
+Where to start for implementing vehicle physics?
+Steam Submission Times
+How to emulate PSX&#39;s graphics with OpenGL?
+Best (Most Popular?) Image Format For Texturing
+Collision resolution in case of collision with multiple objects
+Detecting a sequence of nodes in a grid
+Inheritance vs Composition
+XNA: Questions regarding games architecture
+2D game collision response: SAT &amp; minimum displacement along a given axis?
+Why place entity config outside of scripts?
+Calculating velocity needed to hit target in parabolic arc
+Hide game data from player?
+Making a HUD/GUI with OpenGL (LWJGL)
+How can I assign entity IDs in a robust way in a network game?
+Conundrum with quality and virus reports: is our game releasable?
+How can I implement voxel-based lighting with occlusion in a Minecraft-style game?
+What is a good way to store tilemap data?
+Organising levels / rooms in a MUD-style text based world
+Could I be going crazy with Event Handlers? Am I going the &quot;wrong way&quot; with my design?
+How can I implement hexagonal tilemap picking in XNA?
+How does Halo draw projectiles?
+How to make a market test for the game?
+How can I achieve glow effects similar to those in  WoW?
+How to make money from creating a game for Windows?
+How can I handle sprite sheets with nonuniform sprite dimensions?
+Realistic metal shader
+Why do people use quaternions?
+How do I simulate a doppler effect in a game?
+Biased, conservative random walk
+What is the difference between a game director and game producer?
+Design patterns for rules systems?
+Why does the resolution of floating point numbers decrease further from an origin?
+How can I create gradiented Fog of War?
+Why are there lines in between my tiles?
+How to Simulate Height in a Tiled Top-Down Game
+What version of OpenGL should I code for, given compatibility and performance considerations?
+Random numbers on C++
+Procedural Mesh: UV mapping
+Why did the old 3D games have &quot;jittery&quot; graphics?
+Ignore collisions with some objects in certain contexts
+Why is C/C++ preferred for game developers?
+Fixed-Function vs Shaders: Which for beginner?
+Best practices for communication between game designer and artist
+Practical balance of &quot;chance&quot; video game mechanics
+What platform were old TV video games developed on?
+Fades in older games. Need some help figuring out how the algorithm was derived
+Why are triangle fans not supported in Direct3D 10 or later?
+How to code UI / HUD in Entity System?
+Facilitating XNA game deployments for non programmers
+How to decide how much to charge for development?
+Why are trees shining in background?
+tunnel effect cocos2d
+Best practice for setting Effect parameters in XNA
+How do I deal with the problems of a fast side-scroller?
+Formula for three competing heroes, each has one they can beat and one they&#39;re beaten by
+Are there tools for testing multiplayer code?
+Speeding up procedural texture generation
+How do I scale down pixel art?
+OpenGL - white edges on cubes
+Why is Y up in many Games?
+Smooth Voxel Terrain
+Fastest way to render lines with AA, varying thickness in DirectX
+Strategic AI in turnbased games?
+Game state and input handling in component-based entity systems
+How to create plasma trail for spaceship
+How can I replicate the color limitations of the NES with an HLSL pixel shader?
+Releasing a game without really having an officially registered company
+How to add a feel of depth?
+Entity Component Systems with C++ - Accessing components
+How can I stop Substance&#39;s runtime texture caching?
+What caused &quot;falling out of the world&quot; and what fixed it?
+Recreating this flat-shaded look
+Accounting for waves when doing planar reflections
+Should I be using spritesheets, because of or despite of my vast number of images?
+What are the benefits of capping frames per second? (If any)
+How do PC/Mac games detect piracy?
+Camera for 2.5D Game
+How to make natural-looking paths with A* on a grid?
+How should I handle missing resources?
+How does the Simple Stupid Funnel Algorithm work?
+How do I create a World Healing Wave effect?
+In platformer games, what are &quot;hole in the ground&quot; obstacles called?
+What are easing functions?
+Seamless tilemap rendering (borderless adjacent images)
+Is a Gaussian blur a fairly accurate representation of soft shadow edges?
+Player fatigue for tablets?
+How can I use the graphics pipeline to render volumetric data based on a density function?
+Efficient way to calculate &quot;vision cones&quot; on 2D tile map?
+How do I tell if my enemy can see my player?
+How could I constrain player movement to the surface of a 3D object using Unity?
+What is &quot;convexity&quot; in the context of game design?
+What&#39;s the fastest way checking if two moving AABBs intersect?
+Looking for some insight on programming design for attacking and attack types in a game
+How to go about getting hired by a game company
+Domain-specific languages for scripting
+How much extra power is required for a stereoscopic 3D game?
+How can I get into the educational market?
+Is there any Shaders Directory?
+Fastest way to create a simple particle effect
+How to client/server game using Google App Engine (Looking for tutorial.)
+Vehicle physics with skid
+Unit Testing a C#/XNA Game Project
+GUI Elements - How to go about them?
+Getting Started with 2d Game Dev (C++): DirectX or OpenGL?
+What are good solutions for serialization in C++?
+Open-source 3D models easily usable in OGRE3D/jMonkeyEngine
+game state saving/loading?
+LOD in modern games
+Are there cases where globals/singletons are useful in game development?
+Finding other programmers to help on a project
+Pretty open source game/rendering engine?
+Keyboard input system handling
+What are the other three &quot;game dynamics&quot;?
+Is there an XNA-like library for Java?
+Do higher-level &#39;Pure AI&#39; concepts (such as Neural-Nets or Genetic Algos) ever get implemented successfully in commercial games?
+Recommend a game engine with 2D GUI for a UI-intensive strategy game
+Tips for creating great game trailers
+Scene Graph in Separate Thread
+Persistent Browser Based Game: To Captcha or not to Captcha?
+Custom Content Package for Files
+How different is Java for JRE vs Java for Android?
+Is Deferred Rendering The Future?
+Register Game Object Components in Game Subsystems? (Component-based Game Object design)
+How can I get the palette of an 8-bit surface in SDL.NET/Tao.SDL?
+Does anyone write games in Delphi?
+What are effective strategies for a small game development team?
+Game engine with good Lua entity creation/management
+What are the networking possibilities with XNA and Xbox 360?
+Optimizing a mesh for voxel cube landscapes
+Where can I find some &quot;must see&quot; game development portfolios?
+Love2D engine for Lua; What about 3D?
+Data Structures for Logic Games / Deduction Rules / Sufficient Set of Clues?
+When should I use a physics engine?
+What should audio programmers know?
+Can Achievement systems be implemented later in development?
+Turn-based board game server references?
+Tile sizes in 2D games
+Why do consoles have so little memory compared to classic computers?
+What is the difference between OpenGL 1.x and 2.x?
+Are any 3D-design skills required for game development?
+How to get the blocks seen by the player?
+Separating physics and game logic from UI code
+How were art assets created in the late 16-bit/early 32-bit era?
+What&#39;s the best Python 3D engine?
+Good practices in screen states management?
+Good Tutorial For Lua and L&#214;VE
+Low coupling and tight cohesion
+How can I convert a mouse click to a ray?
+What was the game project that felt like &quot;YOUR&quot; game?
+What are the app file size limitations for different smartphone OSes &amp; carriers?
+Improving Processes in One-Man GameDev Shops
+Trying to understand light on Opengl, how to simulate a realistic sun light?
+Resources to help study of Quake 3 engine
+XNA Adding Craters (via GPU) with a &quot;Burn&quot; Effect
+Why has it become commonplace for NPCs to have one weapon per class instead of variants?
+What is Minecraft&#39;s database?
+Advice needed for a physics engine
+Animated examples of different interpolations formulas: any link?
+How on earth do you get decent color out of 2BPP?
+How to handle mouse input in XNA?
+Gravity strength in first person games
+Physics engine recommendation which can simulate pool game correctly?
+What good books are there on level design?
+How does an HLSL shader actually end up affecting the render output?
+Do any games have this type of mechanic?
+OpenGL ES 2.0: Repository of Quality Shaders
+Moving an Object along a Curve while Rotating it
+Semi-fixed or Fully-fixed timestep?
+Midpoint Displacement Algorithm
+What is the difference between a bonus and a power-up?
+Working with lots of cubes. Improving performance?
+Multiplayer FPS server side performance
+How do you make money from html5 games (i.e sponsorships)?
+Draw real time fog of war in 2d game
+How to gain accurate results with Painter&#39;s algorithm?
+In a GUI, should input be handled when the button is pressed or released?
+2d top-down map: normalisation or not?
+How can you meaningfully market test microtransactions?
+Logic behind a bejeweled-like game
+Is there a good way to get pixel-perfect collision detection in XNA?
+How to implement time traveling into a game?
+I want to get rid of my make-everything-static-and-global design pattern, but how?
+Are there any frameworks that allow me to write games in C# on Linux?
+Is there an alternative to decals that will let me put bullet holes on a complicated object?
+Learning OpenGL: Red and Blue book still relevant?
+Quaternions and rotation around world axis
+How to create a reasonable AI?
+How to get object to lose less velocity as its speed increases
+How does UVW texture mapping work?
+Which data structure should be used to represent voxel terrain?
+How forcefully should a single-player engine reject invalid data?
+how to check if a gameserver can handle clients before game release?
+How is software rendering done?
+Export Blender 2.59 models with animations to XNA 4
+How does pixeljunk shooter simulate its liquids?
+Are the Minecraft animations hardcoded into the game?
+How do I create an installer for my XNA demo?
+Is this the right architecture for our MMORPG mobile game?
+What are some current techniques for rendering deformable landscapes?
+How do I find a point on a line?
+How can I get started making textures for 3D games?
+How can I create an efficient bloom shader with GLSL?
+Does Apple currently accept iPhone apps with embedded Lua?
+How can I make OpenGL textures scale without becoming blurry?
+Best solution for multiplayer realtime Android game
+Fastest way to group units that can see each other?
+How do I get AI Agents to move along a curve?
+HTML5 mobile game development vs. native game apps
+Dynamic model interactions
+How to deal with arbitrarily large images in 2D games?
+Should I write my own physics engine, because of networking integration?
+Why do computer games differ so much in size?
+how should i develop my android game efficiently?
+How can I implement a &quot;fast-forward&quot; feature in my game?
+How to continuously find all entities within a radius efficiently?
+Am I allowed to make my Minecraft clone open source?
+How can I define a complex collision area on top of a tile map?
+To canvas, or not to canvas, when building browser-based games?
+What to consider legally when cloning an old game?
+How to fight against memory editing cheat software?
+Projective texture and deferred lighting
+How do 2D art assets (eg. sprites) work?
+How do they made Pok&#233;mon games so flawlessly balanced?
+Keyboard shortcuts in RTS game
+Giving a Bomberman AI intelligent bomb placement
+Multiple Kickstarter campaigns. Good? Bad? Ugly?
+How do I show an interviewer that I have past experience?
+How should I unbind and delete OpenAL buffers?
+What is the best way to exploit multicores when making multithread games?
+Does Unity have existing support for Timelines?
+How can I generate a texture that looks like left-over tea leaves?
+Calculate random points (pixel) within a circle (image)
+How can I draw an arrow at the edge of the screen pointing to an object that is off screen?
+What is an achievable way of setting content budgets (e.g. polygon count) for level content in a 3D title?
+What does Skyrim Creation Kit&#39;s NPC class do?
+How do I fairly distribute resources among factories when resources are near exhausted?
+How to implement trading card game&#39;s &quot;special effects cards&quot;?
+Is Gresham&#39;s Law relevant for modern online games that allow the use of real money as additional currency?
+Ball Physics : Smoothing the final bounces as the ball comes to rest
+Stress testing a game server without users?
+Circular class dependency
+Coding different states in Adventure Games
+Synchronization between game logic thread and rendering thread
+What are the advantages of tangent space normals over object space normals?
+What OpenGL version(s) to learn and/or use?
+How smartly implement scripting in game
+What was game development on the Apple II like?
+What is &quot;streamlined&quot; user interface?
+Composition heavy OOP vs pure entity component systems?
+Rendering Unity across multiple monitors
+The reasons behind Unity3D engine design (game object/transform component)
+As an indie game dev, what processes are the best for soliciting feedback on my design/spec/idea?
+Algorithm to shoot at a target in a 3d game
+What should I worry about when changing OpenGL origin to upper left of screen?
+Are the first three values that describe a 3D plane actually a 3D vector?
+Little and big endianness in games
+Information about rendering, batches, the graphical card, performance etc. + XNA?
+How to code Time Stop or Bullet Time in a game?
+How can I generate a navigation mesh for a tile grid?
+$0.99 or Free with Virtual goods - Revenue Model for mobile games
+Arbitrary Rotation about a Sphere
+How can I cleanly and elegantly handle data and dependancies between classes
+How do I calculate distance from a point to a rectangle?
+Breathing for game/movie characters
+Should I finish high school or teach myself?
+How to implement buffs / debuffs / temporary stat changes in an RPG?
+Sound effects system design
+How well do functional languages perform on Android?
+Run XNA game without graphics
+How do I create multiple 2D spotlights?
+How to achieve light that changes color mid-way?
+Did old games like Golden Axe or Street or Rage use tilemaps?
+Converting a 2D curve into points for data storage
+Ghost replay - storage and timing
+League of Legends Spectator Stream Format
+Max texture size Android : which settings for 2048x2048?
+Why is forward=down mouse orientation commonly called &quot;inverted&quot;?
+OpenGL: why do I have to set a normal with glNormal?
+Algorithm to see if two voxels are interconnected
+How do I prevent XNA from pausing Updates while the window is being resized/moved?
+Implementing a homing missile
+Pathfinding on a uneven planetary surface
+When and why is a Pool class needed to hold objects?
+Is there a way to prevent users from adjusting their gamma correction to &#39;cheat&#39; their way out of a &#39;dark&#39; area?
+Game Engine Design – Ubershader - Shader management design
+Auto-organized / smart inventory system?
+What&#39;s the difference between a &quot;Gameplay Programmer&quot; and a &quot;Gameplay Engineer?&quot;
+I know that my super simple multiplayer setup is probably not a good idea, but why?
+Creating Rope Physics for Unity
+How to determine range of possible movement in turn-based, distance-based strategy game?
+XNA 2d Camera Scrolling - why use matrix transform?
+Are there any pathfinding algorithms that would handle different movement types?
+Monogame minimum hardware requirements?
+How to implement a shotgun in a game?
+How to divide hex grid evenly among n players?
+Can Unity 2D be used to make pixel-art games?
+How can I randomly generate 2D tile-based side-scroller terrain?
+How do you draw a straight line between two points in a bitmap?
+How do some mobile games scale graphics so beautifully?
+How many active shaders at one frame in the game (should I typically use)? 5? Or more like 100?
+Axis Aligned Spatial Division : Divide space into random rectangles?
+How can I find the valid words in a grid of characters?
+Side scroller terrain generating and scrolling
+What are the reasons for MMOs to have level caps?
+How can I run on multiple platforms using a custom engine?
+Game upgrade launch : Cross-platform release timing
+How do I design very difficult games?
+Rotate object around fixed axis
+How does one perform collision detection on objects made of many small triangles?
+Gesture Recognition Strategies
+How do I make complex AI manageable?
+What Version-control systems work best with games?
+API agnostic bridges (ie. OpenGL/D3D/Whatever). Do you use them, how you make them. Pro&#39;s and Con&#39;s
+Do any 3d engines natively import Google Sketchup models
+Make pygame&#39;s frame rate faster
+Graphic Engine/Programming/Etc resources?
+Cross platform low level graphic API
+Why aren&#39;t more games 64-bit executables?
+Is there a way to make money from indie downloadable games?
+Rendering performance for Flash games
+What makes aiming in a console first person shooter feel good?
+Which is the best approach to make a 2D character to be able to use tons of different equipments when in action?
+Box2D Get Bounding Box of a Body
+How to have a successful beta test with a small team?
+Should beginning/indie game developers target multiple platforms initially?
+ESRB rating my game?
+Best solution for &quot;level string&quot;?
+Where can I post job listings or browse through resumes?
+Has anyone used MonoTouch for a game?
+Why is the &quot;bind pose&quot; one with outstretched arms?
+2D Game dev and Java. Other possibilities than OpenGL?
+What has your experience been with Torque products?
+What technology should I use for a web-based game?
+Balancing game difficulty against player progression
+How do you decide when your feature list is long enough?
+What technical questions do you need to be prepared to answer before presenting an idea to venture capitalists?
+Does using an licensed game engine prevent you from open sourcing a defunct work?
+How can I compute the shortest path in Euclidean environments with non-convex polygons?
+Making a character move along a curved slope in a World with gravity
+How do I make NPC pathfinding look believable?
+Should the color of a texture be adjusted for display on a television?
+What ad provider/network do you use when placing ads in your games?
+Keeping Android Screen bright during Game
+Number of Impressions on Admob for revenue
+How much does it cost to produce a major video game?
+What should a game have in order to keep humans playing it?
+How to avoid self-intersection when applying stroke to a curve?
+Tools for developing C64 Games
+Legality of using names in a game?
+Interpolating positions in a multiplayer game
+Examples of TIN-based terrain formats in FPS games
+Longest path algorithm for roguelike maze generation
+How to model multiple &quot;uses&quot; (e.g. weapon) for usable-inventory/object/items (e.g. katana) within a relational database
+How do you design a record/replay system for a frequently changing game?
+Use of Collections in Android Game Development is not encouraged?
+Unity on Facebook?
+In-Game Level Design with XNA?
+Reduce the number of edges of a graph, keeping it connected
+Algorithm for determining random events
+&#39;Zoning&#39; up areas on a large tile map, as well as dungeons
+Is there a gold standard for touch controls in scrolling shoot-em-ups?
+Tools for game script / storyboard
+How do I create user-friendly, unique game IDs?
+Procedural terrains in 3D: what has been done ? Are there common algo and/or theories about it?
+2D platformers: why make the physics dependent on the framerate?
+RTS on a 3D map e.g. a globe
+Using idle time in turn-based (RPG) games for updating
+How Do I Do Alpha Transparency Properly In XNA 4.0?
+Any ad network for XNA games on the PC platform?
+How do I tackle top down RPG movement?
+Preferred way to render text in OpenGL
+How to manage dependencies between tile map and units
+Is there an algorithm for a pool game?
+Efficient skeletal animation
+Triangulation A* (TA*) pathfinding algorithm
+Missing features from WebGL and OpenGL ES
+Implementing match-making &amp; community system for multiplayer games
+Seperation of drawing and logic in games
+Drawing large 2D sidescroller level terrain
+How do I ensure an appropriate payout ratio for a slot machine?
+Moving around/avoiding obstacles
+What are the fundamentals of game development?
+How do I move from mainstream to indie development?
+Physics-perfect (or somewhere near) 3d sound engine
+How to build a bones animation engine?
+Game engine design: Multiplayer and listen servers
+How do I generate terrain like that of Scorched Earth?
+How much memory usage is too much in a Flash game?
+Game mechanics patterns database?
+To sell or give for free
+What&#39;s a good 2D game engine or framework to work on right now?
+How detailed and/or complete is/are your game design documents before starting a project?
+Is it a bad idea to have Game1 static in XNA?
+How to fix bad Collada produced by FBX?
+OpenGL ES 2.0 Point Sprites Size
+Megatexturing : Evolution from Quake Wars to Rage
+How do I replicate the warp effect from Geometry Wars?
+when to use vertex array and when to use vbo
+What makes a game a game vs something else like a puzzle or a toy?
+Can I call c functions within the XNA framework?
+How does the 3G network assign IP to smartphones?
+Writing Game Engine from scratch with OpenGL
+Skybox texture artifact on edge
+Simple Terrain Rendering
+Power, achievement and affiliation games for psychology research project
+How to use multi-thread OpenGL application to update VBO and use it at the same time?
+Dual paraboloid point light shadows in deferred lighting setup
+Nested input in an event-driven system
+Variable height jumping in side scrollers
+How do I generate projectiles toward the mouse pointer?
+Ultimate beginner&#39;s tutorial to 3d game dev using XNA Framework?
+Angle of Reflection
+Do any of the current gen console or handheld compilers support C++11?
+Drawing particles as a smooth blob
+Are there well-known algorithms for fitting a polygon to an arbitrary shape?
+How relevant is PHP today for browser games?
+Should the engine for an eventual web-based game start as a web-service?
+Is there a way of using XNA+Xbox 360 with the current generation of 3D televisions?
+Where to hire 2D sprite artists?
+What are some great and useful resources for an Isometric game built on the XNA Framework?
+How do I get beautiful small text in XNA without using external libraries?
+Quadtree terrain splitting - I don&#39;t get it
+To scene graph or not to scene graph?
+Enum Vs. Integer for Skill Values
+Dynamic audio score/music
+What should I keep in mind while developing a game for Steam?
+What are some good jquery/javascript game engines?
+Finding asset files in Linux games
+Random map generation - strategies for scattering/clustering random nodes
+How do you make Minecraft mods?
+Algorithm for a tool to theorycraft stats based on a game(league of legends)
+Correct way to abstract an XBox Controller
+Should scripts interact with an abstraction of the engine?
+How does Trine&#39;s lighting look so spectacular?
+How would one determine the length of a path?
+Situational awareness in path finding
+Would a Python game run on multiple platforms?
+What is a good method to randomly generate edges between graph nodes?
+Animation in OpenGL using 3D Models
+Is it wrong to transmit information about a user&#39;s machine to my own servers without informing the user?
+Should I consider a graduate degree in game development?
+How to properly handle collision in a component-based game?
+Is there a pattern for writing a turn-based server communicating with n clients over sockets?
+Evolving a Terrain Generator
+Where will my character stop?
+Getting rid of dead objects in a game effectively?
+Does using Creative Common data in a GPL game mean the code must be CC-BY-SA?
+How can I rotate about an arbitrary point in 3D (instead of the origin)?
+How do fluid dynamics work?
+Is SharpDX mature enough to adopt yet or should I just start using SlimDX right now?
+Where can I read about techniques used in NES-era games?
+Continuous Physics Engine&#39;s Collision Detection Techniques
+Accessibility of games, how is important for you?
+Rendering characters, with cut off limbs (Blender models in Java/OpenGL)
+Exporting Blender bones
+Is precomputed pathfinding still relevant?
+How can I bend an object in OpenGL?
+Go pure OpenGL or GLSL?
+Player moving up, is he jumping or climbing?
+How do I create good looking plasma explosion effects?
+Can I achieve a torchlight effect (lighter area around a light source) in a 2D game?
+2D helicopter game, how to create corridor walls?
+How should I handling clipping vertices that are closer to the eye than the near clip plane?
+Is showing a collision in slow motion computationally relaxing?
+How to organize a game engine in C++? Is my use of inheritance a good idea?
+Drawing a one pixel wide line in 3D space
+What is a fair price to pay for music licensing for a commercial game?
+Developing for iOS on Linux
+Handling scripted and &quot;native&quot; components in a component-based entity system
+Good way to play a sound when something happens? How does this sound?
+Dual Currency vs. One Currency in social games economics and monetization
+Which approach is better: Frequent small updates, or occasional large ones?
+How can I tactfully ask users to help support my free game?
+How to get into video game writing?
+Custom allocators used in game development
+Screen space to world space
+Collision rectangle response
+How to properly implement alpha blending in a complex 3D scene?
+Dirty 2D map rendering
+Do I need to implement IPv6 support for my game?
+How can I make video games if I don&#39;t like programming?
+Is knowledge of hacking mechanisms required for an MMO?
+Efficient path-finding in free space
+Prevent players from wallhacking in an online FPS?
+Unity Occlusion Portals: What and How?
+Word list for use in commercial game
+How do I implement group formations in a 3D RTS?
+Prototyping a puzzle game for solvability of levels
+What are the downsides of only explicitly informing the player of *success*?
+Promoting a Browser Game?
+Why are the &quot;professional&quot; versions of console SDKs closed to the public?
+Selling Android apps from Android-Market-unsupported countries
+Where can I pay artists to make models for my game?
+What legal matters do I need to consider when releasing an MMO?
+Circular motion on low powered hardware
+Casual gamer age distribution
+Why is it a bad idea to store methods in Entities and Components? (Along with some other Entity System questions.)
+How to simulate pressure with particles?
+Special relativity shader in GLSL
+What is the difference between an impulse and a force related to a physics engine?
+OpenGL: VBO or glBegin() + glEnd()?
+What file types should I exclude from my game&#39;s source control repository?
+GLSL, all in one or many shader programs?
+Why the clip space in OpenGL has 4 dimensions?
+Visual Studio 2012 and Game Development
+What forms of non-interactive RPG battle systems exist?
+How can I easily create cloud texture maps?
+Unit Testing at Unity3D
+How could you model &quot;scent trails&quot; in a game?
+Do you need expensive servers and fancy hosting in order to make a multiplayer game?
+How to do the Geometry Wars gravity well effect
+How to limit click&#39;n&#39;drag movement to an area?
+Now that Device Central is dead, how can I test my Flash Lite applications?
+Finding shapes in 2D Array, then optimising
+Is there any relation between Game Theory and Game Development?
+How does 20Q work internally?
+How can I use multiple meshes per entity without breaking one component of a single type per entity?
+What programming language were PS1 games written in?
+How can I store spell &amp; items using a std::vector implementation?
+Legal considerations when starting a game development team
+Good resources for learning about graphics hardware
+What animation technique is used in &#39;Dont Starve&#39;?
+Finding shortest path on a hexagonal grid
+Showing range on hexagonal grid
+Texturing an asteroid
+How to create 2D shadows
+Portable buffered keyboard input for XNA / MonoGame?
+Run a physics simulation on both client and server?
+EXTREMELY Confused Over &quot;Constant Game Speed Maximum FPS&quot; Game Loop
+OpenGL: Resizing Display and glOrtho/glViewport
+Blender - baking normal map - weird colors
+Managing graphic state and components?
+How to implement collision detection of portals?
+What problems could occur if you make use of both the Monogame API and the underlying graphics API?
+How to reduce image size without pixelation?
+Modern shadow rendering techniques?
+Is GNU GCC used for AAA games?
+What&#39;s a good alternative to colored tiles to account for color blindness?
+Can I use a certain song in my credits as long as I credit the original author?
+How does normal mapping really work?
+What&#39;s the process for making a PS4 game?
+How do I make good guy attacks only hit bad guys and vice versa?
+How to make sure a game can be completed
+How to know if the player is signed in?
+Input management techniques in large games
+How do I make something I flash/blink more frequently as it gets closer to disappearing?
+World Bounds - (0, Size) or (-HalfSize, HalfSize)?
+Can I use Playstation controller button icons in my game?
+Assigning tasks
+How should I model an economy-based game in code?
+How to determine if a 3D voxel-based room is sealed, efficiently
+Where can I find real-world map data for a game?
+Shooting the bullet out of the gun instead of the camera, yet keeping it accurate with respect to the reticle
+Why do modern games not feature extra lives?
+How do I make a curved surface out of rectangular blocks?
+Poor performance in android when running APK, runs fine in browser
+Refractive glass shader
+2D collision detection
+Why is custom memory management needed for assets?
+What are the benefits of using an entity ID system?
+Does Unity own my game?
+What technical specifications should be set out for music?
+Extrapolation breaks collision detection
+How can I make permanent death in a MUD seem acceptable and fair to players?
+Rendering only a part of the screen in high detail
+Graphics programming replicating the transition from Chrono Trigger inside the gate
+Is C# different in Unity?
+What kind of steering behaviour or logic can I use to get mobiles to surround another?
+Unity new UI - Dynamically change the functions called by GUI elements
+Cache misses and usability in Entity Systems
+Should I have multiple small textures or a single big one?
+Do Game Objects which lay outside camera view consume computer/mobile resources in Unity?
+Storing game state at exit on the iPhone with Objective-C
+Design Document Contents
+How can I implement a command system for a point-and-click style adventure game?
+Why does Farseer 2.x store temporaries as members and not on the stack? (.NET)
+XNA: How does threading work?
+Methods for character design
+What is &quot;ROAM&quot; related to terrain rendering?
+Same game logic on two seperate graphics libraries
+What role does developing with events have in games?
+Best way to test simple cases in games
+Locate the shortest path through obstacles when all normal paths are blocked
+Using The Box2D Polygon &quot;Set()&quot; function?
+Finding unoccluded tiles in tile-based game
+Networking Pong Clone
+Slow performance on an A* implementation in a tower defense game
+Handling keyboard and mouse input (Win API)
+How to prepare for a game development competition?
+Good example of a multi-pass effect?
+What are the most common splines you will find in game development?
+Properties of good RTS level design?
+What is the name of the AI/algorithm used by most MMOs for monsters or mobs?
+Splitting profit - Equal share vs equity investment (work &amp; money spent = share)
+Agency versus story
+Throwing Exceptions in C++ game DLL&#39;s? Pros and Cons
+What&#39;s the most efficient way to find the intersection point of a missile and a bitmap terrain?
+Should the content pipeline tools be embedded in the engine?
+Premultiplied alpha, yea or nay?
+Style/technique to focus on for creating visual art assets efficiently
+Where can I find resouces for developing an &quot;Intro to Game Development&quot; class at a Community College?
+Is Google App Engine a good platform for an online MMO?
+FPS Collision detection and movement
+How to make the player slide smoothly against terrain
+Scripting engine for XNA
+Rendering arbitrary text in XNA using Windows API?
+Zune same features as WP7? (gesture, accelerometer)
+What are the common character animation techniques used in tile based hack&amp;slash games?
+How do I implement deceleration?
+Very slow direct3D texture sampling
+Can you record raw sound data in XNA?
+Using &quot;friend&quot; classes in game development
+Shadow Mapping and Transparent Quads
+Designing rules to fight smallpox in Civ-style TBS games
+How to create the &quot;drunk camera&quot; effect in GTA 4?
+AAA Games and OpenGL?
+What pattern is this, and should I do it?
+How to implement 2d explosions that will cause damage taking into account covers and distance?
+Where to find designers for independent projects?
+How did they make the screen move in Dangerous Dave?
+Lighting in a Minecraftian World
+Android: Angry Birds Scaling
+Who know how to implement the 2D bone animation showed in the game?
+How should I implement units&#39; enemy &quot;awareness&quot;?
+Easing Functions
+Is it a good idea to simplify a character-driven game engine to the point where it&#39;s unnecessary to learn scripting/programming?
+Generating grammatically correct MUD-style attack descriptions
+Are there any good screencasts for learning Blender?
+Outsourcing Artwork: Hourly or Per-Project?
+OpenGL&#39;s matrix stack vs Hand multiplying
+How can I implement a third-person camera in an SC2 map?
+Mods for Minecraft Server - how does it work?
+Enemy movement in straight line to player in chase game
+What&#39;s the best server architecture for real-time games?
+What are typical job interview questions related to game development?
+Creating Entity as an aggregation
+TRON: Game A.I algorithm?
+Scene Graph for Deferred Rendering Engine
+How should I replan A*?
+Tips for building an AI for a 2D racing game
+Open Source AI Bot interfaces
+Comparison between Cocos2d and Corona
+How to implement mouselook in the browser?
+Unity Android versus android SDK
+Distributed C++ game server which use database
+Simulating an object floating on water
+How do I use depth testing and texture transparency together in my 2.5D world?
+Calculating the &quot;power&quot; of a player in a &quot;Defend Your Castle&quot; type game
+Rendering Resolution Independent Text
+Is there a good reason I shouldn&#39;t use a java applet for a game?
+What is the difference between a level designer and an environment artist?
+How do 3d game engines render 3d environments to 2d screen?
+MMO techniques, algorithms and resources for keeping bandwidth low?
+Moving from DirectX 10 to DirectX 11
+Camera Control Techniques in Games
+Sprite sheet or multiple resources
+Half-Life 2 BSP Lightmaps
+Data Structure to Represent Connections Between Countries on a Map
+Is Xbox Live suitable for a multiplayer FPS?
+The need your game fills. Establishing your &quot;hook.&quot;
+What exactly causes a surface to overlap another?
+Adding air drag to a golf ball trajectory equation
+How to use XML files as content files in XNA?
+Generating a town layout in a grid
+Does it require any license to use a real city landscape in a car racing game?
+How to create a realistic 2D Role-Playing game collision detection?
+Is it a good idea to develop non-trivial 2d game in python?
+Other games that employ mechanics like the game &quot;Diplomacy&quot;
+What are some good books which detail the fundamentals of graphics processing?
+How to bundle a HTML5 JavaScript game as native Windows application?
+Why XNA is not considered a game engine?
+Online multiplayer game basics
+Great realtime shader tool?
+X, Y, Z coordinate standards?
+Where to hire a scenario writer for a small interactive story game?
+What do you look for in a scripting language?
+Projectile Motion - Arrow
+Prototype experience: Unity3D vs UDK
+Best way to manage in-game events?
+Can I use quaternions to control an helicopter?
+What to focus on in developing a game demo for an interview?
+What is involved in creating a real-time multiplayer platformer game?
+How to calculate falling and accelerating velocity?
+How can I incorporate physics into a procedurally generated world from a geometry shader?
+Most common 3D model format for opengl
+Video playback in Unity
+2D Spatial partitioning alternatives to spatial hashes and quadtrees
+Common pattern to scale &quot;real units&quot; to pixels?
+Should I give each character its own VBO or should I batch them into a single VBO?
+How should I pay people who work on my game development project?
+How do I make a resolution independent system?
+Solving maze without return ability
+How can I measure the &quot;creative/entertainment value&quot; of video-game requirements?
+If you are a solo programmer, how do you manage the graphics artistry part?
+Component entity system - Updates and call orders
+Efficient Method of Rendering Massive Terrain in XNA
+C++ Model loading API?
+What are the best ways to serialize and unserialize network messages for C/C++ multiplayer game?
+Compressing game save data
+Networking in real-time strategy games
+Blend Modes in Cocos2D with glBlendFunc
+What&#39;s a good Open Source game to learn from?
+differences between opengl 3 and opengl 4
+What are the disadvantages of marking every edge as a seam when unwrapping a mesh?
+DirectX11, how do I manage and update multiple shader constant buffers?
+Is it worth supporting iOS 3.x or iPhone 3G devices anymore when developing a game?
+Looking for a royalty free sci-fi sounding song thats 1:00+ long, and costs &lt;= $5
+Wave ripple effect?
+What should I be considering when designing an Event Manager System?
+Circle-Line Collision Detection Problem
+Get position of point on circumference of circle, given an angle?
+How to handle multiplayer in JavaScript?
+What technique should I use to facilitate communication between XNA GameComponents (or between components of any type in a game)?
+How do I linearly interpolate between two vectors?
+What&#39;s the difference between XNA Game Services and glorified global variables?
+How can I create a &quot;night sky&quot; effect in OpenGL?
+How to separate colliding objects without creating more collisions
+Am I on the right track with this component architecture?
+How often to update a Game Client about the World?
+OpenGL/GLSL: Render to cube map?
+How are games created for different platforms?
+HTML5 or Javascript game engine to develop a browser game
+Deforming surfaces
+Calculating missile trajectory around orbits before shooting
+How do I prevent identity spoofing in a multiplayer game?
+How can I orbit a camera about it&#39;s target point?
+What kind of environment is expected in elevated, hot areas?
+How do you do AI path following within a 2d physics engine like farseer/box2d?
+How do you calculate if 2 lines are facing toward or away?
+.PNG tiles to .PNG map
+How can I include vertex color information in .OBJ files?
+Can packet latency fluctuate?
+How to make a world-to-player inventory system?
+How can I test if a point lies between two parallel lines?
+What are the pros and cons of Lua vs. Python as a scripting language for XNA/C# platform?
+2D character controller in unity (trying to get old-school platformers back)
+Why does V8 not run with SDL threads?
+How do I generate a 3D race track from a spline?
+Implementing behavior in a simple adventure game
+45&#176; Slopes in a Tile based 2D platformer
+How to represent cliff faces in terrain?
+Increasing the probability for similar tiles to generate next to each other
+C# creating a simple snake game
+Is it worthwhile to use particle pools in managed languages?
+Deferred shading - how to combine multiple lights?
+How to play animations in Cocos2d-x?
+Authentication for a multiplayer game via sockets
+Physics engine that can handle multiple attractors?
+Is there any advantage in using  DX10/11 for a 2D game?
+Efficient solution for multiplayer space partioning?
+Using XNA ContentPipeline to export a file in a machine without full XNA GS
+Bomberman clone, how to do bombs?
+Implementing invisible bones
+Desura sales experiences
+Is there a (family of) monotonically non-decreasing noise function(s)?
+How to add a sound that an enemy AI can hear?
+How to keep a data structure synchronized over a network?
+How to create a &quot;retro&quot; pixel shader for transformed 2D sprites that maintains pixel fidelity?
+How should I parse user input in a text adventure game?
+How to achieve uniform speed of movement on a bezier curve?
+What would be a good filter to create &#39;magnetic deformers&#39; from a depth map?
+Isometric Collision Detection
+Essentials for building a RTS
+How to create tilted (height) isometric tiles
+Pixel-perfect rendering to a rendertarget with a fullscreen quad
+How to pathfind over an obstacle?
+Time reverse mechanism in games
+Circle inside circle collision
+Sorting objects before rendering
+Fitting Android game to different screen sizes
+Handle many lights in a scene (with shaders)
+How many textures can usually I bind at once?
+What is the kd tree intersection logic?
+How to deal with animated doors in isometric tiles
+Bejewelled Next Best jewel selection
+How to structure game states in an entity/component-based system
+How to move an object along a circumference of another object?
+Road / river generation on 2d grid map
+Why aren&#39;t tangent space normal maps completely blue?
+Entity Component System based engine
+What is the best way to handle simultaneous collisions in a physics engine?
+Running both the server and the client within the same process
+Random number hlsl
+What is the technical definition of &quot;sprite batching?&quot;
+XNA stuttering at regular intervals
+Javascript and PHP for real-time multiplayer?
+Simulating Game Apples - Can&#39;t get it to work
+Debugging Shader Code?
+Why has the industry switched from C to C++?
+Component-based design: handling objects interaction
+Xbox thumbstick used to rotate sprite, basic formula makes it &quot;stick&quot; or feel &quot;sticky&quot; at 90 degree intervals! How do you get smooth rotation?
+LibGDX - Check if currently on Android/Desktop
+sprite animation in openGL
+Pattern for performing game actions
+Server-side Input
+Fast, accurate 2d collision
+How do I protect sending scores from HTML5 games to my server
+Having a list of rooms with theirs connection to each other, how do I find isolated room groups?
+SDL blitting multiple surfaces at once
+How do dialog trees work?
+How do I sync client and server when sending player speed changes?
+State changes in entities or components
+Boat passing under a bridge in a 2D tile based RTS
+Android real time multiplayer over LAN
+Estimating costs in a GOAP system
+Avoid if statements in DirectX 10 shaders?
+C#/XNA get hardware mouse position
+Impulsioned jumping
+Interpolating between two networked states?
+Is there any game engine using a functional programming language?
+Mesh manipulation on GPU vs CPU
+How to handle materials in an Entity/Component system
+How to handle entity path-finding and movement in a large networked world?
+How can I make a character walk on uneven walls in a 2D platformer?
+Why are some games using some dithering pattern instead of traditional alpha for transparency?
+How do I visualize parallax layers in a level editor?
+Getting a 2D &quot;pixel&quot; cloud to follow a mouse
+Deferred decals normal problem
+Outline sprites
+Are there still advantages to using gl_quads?
+What should I do about legal considerations for an indie game?
+What is Ramp Shading or Lighting?
+Is there a way to make a dynamic world such as a MMORPG horizontally scalable?
+How do I load graphical resources asynchronously?
+Using Editline for an in-game console
+Minimax for Bomberman
+What type of legal entity do I need for my game company?
+Algorithm for optimising a match game with known queue
+How to avoid being throttled?
+Generate equal regions in a hex map
+What are the pros and cons of skill trees versus skill lists in RPGs?
+Engine Rendering pipeline : Making shaders generic
+How can I set my application to run on the High performance GPU by default?
+How do I flatten terrain under a game object?
+How do I implement 2D shadows cast between layers?
+Grouping entities of the same component template to linear containers
+Object of arrays or array of objects?
+How do I simulate a swinging pendulum?
+Generating terrain on GPU
+OpenGL get the outline of multiple overlapping objects
+What is data-driven design?
+How can I find the largest sphere that fits inside a frustum?
+Novice Mobile Game Developers | Publishing on our own or Publisher?
+UK Indie studio registration
+Multiplayer platformer - Are server corrections normally required with a single client on the server?
+Efficiently separating Read/Compute/Write steps for concurrent processing of entities in Entity/Component systems
+Large vertex buffer vs multiple draw calls
+Entity/Component System and UI &quot;Entities&quot;
+Flexible alternatives to many many small polymorphic classes (for use as properties or messages or events) C++
+Demo (and real game) Protection
+What makes game sound effects &quot;good&quot;?
+Falling Blocks and complex shapes
+How to change Gravity towards certain object in Unity?
+Fast lighting with multiple lights
+UDP non blocking or a seperate thread for receiving
+How to benefit from cpu cache in a entity component system game engine?
+How can I &quot;stick&quot; objects to tables in Skyrim and still allow those objects to be player-interactable?
+Deferred tiled shading, tile frusta calculation in OpenGL
+How can I create a glitter effect?
+Is multitexturing really just &quot;using more than one texture&quot;?
+What do gameplay programmers do?
+Make the player run onto stairs smoothly
+Dynamic thruster balancing of space ship
+How should I handle sound in a split-screen game?
+In OpenGL, what is &quot;zero state&quot; rendering?
+How would a game-state snapshot system be implemented for networked real-time games?
+How do I render my 3D game in ASCII art?
+Why is it Important to have render targets with the same bit size?
+How to handle realtime random movement with client side prediction
+How to make natural looking voxel
+What are the best iPhone game development resources?
+Is the XNA framework appropriate for server side programming?
+Cocos2D collision detection against a random shape
+What is a good method for coloring textures based on a palette in XNA?
+Networking in Flash games. Socket or Stratus?
+How to structure a simple game server for a multiplayer game?
+What happens in pre production of a game?
+As an Android dev, what should I keep in mind for porting to iPhone?
+What continuous integration technology is used for games?
+Large FPS vs consistent FPS
+Display a Message Box over a Full Screen DirectX application
+Finding testers
+How can non-indie devs stop reinventing the wheel?
+Forces on a wire in a 2D environment? (Physics)
+Scaling HUD with variable resolution
+Why use asset manifest files?
+Anti-Cheat for MMOs issues and solutions?
+How do game developers target multiple platforms (Xbox 360, PS3, PC and Linux)?
+What type of dashboard should I create to understand how my game is performing?
+Is gameswf usable?
+How a 3D game map is stored and handled
+PacMan character AI suggestions for optimal next direction
+Which server platform to choose
+Game Engine framework or library
+Should independent game developers outsource?
+How can I get voice recognition features into the Unity Game Engine?
+SoA Vectors on SPU
+Frustum Culling with VBOs
+Graphics for non-Graphics Designers
+What&#39;s a good data structure solution for a scene manager in XNA?
+Connecting physics simulations with different coordinate-systems
+How to create an endless scrolling background?
+What are the hot dev positions in game industry?
+Android differences (Dalvik+Java vs Old School C++)
+How does one separate the acceleration due to gravity from other motion in accelerometer input?
+Do &quot;Results-Oriented Work Environments&quot; work?
+Super-quick MIDI generator with nonrestrictive license?
+Geometric Transformations on the CPU vs GPU
+Linux Game Engines
+Would using Lua scripts to define game logic for an MMO server be a lot slower than compiled in C++?
+Efficient structure for representing a transform hierarchy
+What is the Best Way to Start Building Your Own Games?
+Simplest most effective way to rank and measure player skill in a multi-player environment?
+How can I copy or back-calculate definitions for an entire b2World?
+What techniques enable web based games to update player&#39;s resources frequently?
+what should the size of a flash game in Facebook be
+How does one measure and reward social aspects in virtual worlds?
+Any dirty/cheap, lightweight 3d engine, beginner friendly out there?
+Internationalization (i18n) in Flash games? Is there an easy way?
+Float, double or both for 2D Vector class?
+Top down space game control problem
+Should I share the same tile structure for display and pathfinding?
+What&#39;s the best practice to have NPC enemies taking cover in an FPS game?
+What type of document for game design?
+Realistic slow-falling snow algorithm?
+Is it possible to make calculations in a Quake 3/Live hud?
+Documentation/Spec for Flash&#39;s XFL layout?
+Game timings and formats
+Securing HTTP data from a JavaScript game to server
+Can you develop a game in XNA only on Windows for the Xbox 360?
+How come the 3d graphics and animations of MMORPGs are usually worse than non-online 3d games?
+Independent Arcade Game Development
+What tools are available for collaborative game development?
+Bohemia Interactive&#39;s bio2s format
+Managing multiple references of the same game entity in different places using IDs
+Ogre3D how to use many images in a particle system
+Online board game engines
+How to use XNA in WPF?
+Where to hire graphic designers for mobile games?
+Lua as a stand-alone for game programming like Python?
+Game engines and monetization of indie games
+What are the current books for DirectX (w/ focus on 3D)?
+Looking for JMonkeyEngine tutorials and documentation
+Calculating Experience Points earned after a battle
+Hardware for iPhone 2d games development
+How to get our music into games?
+3D Illusion of a 2D Planet Texture
+2D Top down view maps
+Creating A Board Game AI
+Can you write games for Rock Band or Guitar Hero controllers in XNA?
+Ragdoll on alive creatures: has somebody already implemented it?
+I need help with 3d shading/lighting
+2D Skeletal Animation Transformations
+What are the restrictions of 3g online games
+How are you handling scores that can worsen (e.g. Elo rating) in Game Center?
+&quot;Time Control&quot; in a 2d Platformer
+What library for octrees or kd-trees?
+Random generation of interesting puzzle levels?
+Help with Strategy-game AI
+Examples of interesting implementations of character stats?
+Random enemy placement on a 2d grid
+Any interesting thesis topic?
+Android threads trouble wrapping my head around design
+Is there any difference between storing textures and baked lighting for environment meshes?
+What should I wear to a job interview with a game development company?
+Why is Reinforcement Learning so rarely used in pathfinding?
+How to determine which cells in a grid intersect with a given triangle?
+How do I price a game that sells internationally online?
+Moving a sprite in XNA/C#, using vectors
+Flash, Java, Unity plugin install penetration?
+Sprite sheets with buffer objects and shaders
+2D object-aligned bounding-box intersection test
+Inverted textures
+Career in Game Development
+Network Multiplayer in Flash
+What is a rim shader used for?
+Game server for an android/iOS turn-based board-game
+Promoting independent iOS games
+What&#39;s the recommended bitrate for Background Music in iPhone Games?
+How to find the window size in XNA
+GLSL: How Do I cast a float into an int?
+Best practices for implementing collectible virtual item &quot;packs&quot;?
+What does vsynched mean?
+Building (simple) stellar systems
+Library to load images into textures, Linux, C and OpenGl
+How to improve batching performance
+Best resources to learn Game Development from a Java background?
+How to deal with OpenGL and Fullscreen on OS X
+Designing a flexible tile-based engine
+What alternatives exist of how an agent can follow the path calculated by a path-finding algorithm?
+Order independent transparency in particle system
+Any good book on lighting in video games?
+Moving an object in a circular path
+Broad topics needed for teaching game development
+Making game constants/tables available to game logic classes/routines in a modular manner
+How would you code an AI engine to allow communication in any programming language?
+Moving objects colliding when using unalligned collision avoidance (steering)
+Structuring game world entities and their rendering objects
+What should I expect from volunteer playtesting?
+How should i have the key/mouse input in an advanced java game?
+MMOs based on .Net?
+Represent planet surface in 2d
+Billboard draws fine on PC, not on XBOX
+Java game in a day or two
+Do you think it&#39;s Possible to go from C++ Straight to 3D (skipping 2D)
+What types of effects or shaders would you teach in a rendering class?
+Overview/showcase of shader techniques/uses for games
+How to get elapsed time of keypress?
+Pathfinding with multiple random paths in a Tower Defense game
+Physics for a 2.5D platformer with a plane that curves
+Information on seamless MMO server architecture
+Basic Box2D collision detection
+Getting OpenGL hardware acceleration with SDL on Linux
+The best algorithm enhancing alpha-beta?
+Are there any web frameworks used primarily to produce games?
+Any good books on graphics programming?
+What are some ways to implement variable body shapes?
+Loading data for an RPG
+Key combinations on poll-based input
+Ensuring that saved data has not been edited in a game with both offline and online components
+Web workers for HTML5 game physics simulation?
+In a 2d tile based game, what is a good method for scrolling?
+What are some good resources for creating a game engine in XNA?
+How to manage all the NPC/AI objects on the server?
+Which is better, one big level model or multiple smaller level models?
+Marching Cubes - Legalities?
+How can I easily implement swinging in a platformer game?
+How to create 2D game terrain?
+Should I use Events in a XNA Game?
+How to enable GPU for flash player 11?
+Scale my pixel art files when designing them or when rendering?
+One- to Two-Week Game Competition
+Is BDD (Behavior Driven Development) used in games?
+Load all content from folder
+How do I detect the direction of 2D rectangular object collisions?
+Procedurally generated terrain map. Blend Transitions between terrain types
+Platform jumping problems with AABB collisions
+How to find 2D grid cells swept by a moving circle?
+Java code for client-server game on Android
+Is it illegal to use a commercial song in your game (that you intend to sell)
+2D soft-body physics engines?
+Render rivers in a grid
+Tile-wide extent tracing on a grid
+Which 3D file format should my engine use if I don&#39;t want to have to change it later?
+What tools are available for developing 2D games like Tetris or Angry Birds for Android?
+How to calculate the vector of an interception?
+Separating logic/update from render/drawing code in a single thread using sleep
+Where do I store strings? What&#39;s an efficient way of loading them?
+How to draw a 3D world with lines, more like a sketch drawing or cartoon
+Casual games market share distribution?
+Efficient data packaging for a client-server network
+How to handle physics of moving platforms in a platformer?
+How to dynamically animate a part of a 3d model towards something
+How do I rotate a structure of hexagonal tiles on a hexagonal grid?
+I would like to know how an OpenGL driver will be implemented to learn opengl internals?
+Manage a large number of independent actors in real-time
+Need advice for 3D BSP based graphics engine
+pathfinding with obstacles in a Warcraft 3 like game
+Downprojecting an imaginary 4D mesh to the screen
+How do I make objects move along a path?
+Recording the gameplay in the game itself?
+Which Database (RDBMS vs NoSQL vs BOTH) to use for a Realtime Multiplayer Game?
+What would be the best way to find an open space in a level?
+Tiling Physics using Farseer
+Am I going to regret using a color based collision detection system?
+Marching squares: Finding multiple contours within one source field?
+Are there any game/graphics development certifications?
+Can someone explain radiosity lighting to me?
+OpenGL vs physics?
+How does an Input Pipeline work?
+What kind of system can I use to balance an RPG?
+VSync / real 30FPS on Android
+What is the name of perspective of Age of Empires II?
+Projected trajectory of a vehicle?
+Is a multiplayer game in JavaScript a bad idea?
+Proper way to handle destruction of game entities
+Object updates, internal vs external?
+what are the specific Mathematics and physics concepts a programmer should know to develop a game engine?
+Are there any games that contain a machine learning AI?
+Better Way To Set Up an Event System
+Is there a design flaw when an entity&#39;s state doesn&#39;t fully utilize enter(), execute() and exit()?
+What are the disadvantages and/or limitations of navigation meshes?
+What&#39;s the best way to create animations when doing Android development?
+Chunking/caching large levels in a singleplayer game
+How should I structure my classes to allow for multithreaded simulation?
+How do &quot;game maker&quot; tools like Blitz3D create .exe files?
+Why would you want multiple render targets?
+How can I implement a renderer that can draw many kinds of primitives?
+Should I use a world matrix?
+What should I do to prevent my monsters from walking off platforms?
+Is it possible to fake blur via images?
+Network client-server message exchange and clock synchronization help
+GLSL Shader Editors for Linux
+How can I simulate shattering glass?
+Is Jump Point Search (A* with JPS) appliable to non-diagonal grids?
+What is involved with writing a lobby server?
+What are the limitations of retro consoles?
+When should I talk to a lawyer about intellectual property for an indie team?
+How often to save player&#39;s state in persistent online games?
+Is it possible to develop multiplayer games with HTML5?
+Set sprite to face direction of mouse
+In a 2D tile-based game, how should NPCs and tiles reference each other?
+What is the primary use of Vertex Buffer Objects?
+Eliminate delay between looping XNA songs?
+How should a team share/store game content during development?
+When pausing an XNA Xbox game and showing a &quot;pause menu&quot;, which controller buttons should I use?
+What do the components of gl_TexCoord[0] mean?
+Can you recommend a good beginners book or project for a young person?
+ELO algorithm for handling people who don&#39;t play often
+How to create a mathematical mechanism in order for a game to be balanced?
+What is the logic behind the &#39;Loading&#39; scenes in games?
+Function for sun movement?
+What kind of hardware would be required to render an Earth sized minecraft like map?
+Keeping user&#39;s attention with tycoon style games
+What exactly makes up a screen in a typical C64 game?
+What is the state of the art at shipping game graphics such as lots of small BMP files?
+Can learning how to do empirical research help a game developer?
+How to disable Y-axis movement in the Bullet physics engine
+Processing component pools problem - Entity Subsystem
+Automating XNA Performance Testing?
+How do character/object interaction animations work in isometric games?
+How can I store all my level data in a single file instead of spread out over many files?
+Decent Shader editor for Visual Studio
+Can I use copyrighted sprites for a demo?
+What online games would let me practice AI development?
+Interaction between engine parts
+Is GLUT obsolete?
+What alternatives to GLUT exist?
+How do I create a horizon?
+Is it possible to detect two different mice at the same time, and have their movements recorded seperately?
+Separation of world state and animation in a turn based game
+Articles about a plot in an open world
+What is a &quot;Gameplay Programmer&quot;?
+How would I move a character In an RPG with Bullet Physics/Ogre3D?
+Intellectual rights to game concepts
+I have to make a game in 9 days. AHHH!
+Doing an SNES Mode 7 (affine transform) effect in pygame
+Correct way to &quot;randomly&quot; generate flowing terrain
+Microsoft XNA Platformer Example, is the Collsion Detection implemented accurately?
+Pre game loading time vs. in game loading time
+OBB vs OBB Collision Detection
+Shadows in deferred rendering
+Abstracting Entity System animation states
+What data should be cached in a multiplayer server, relative to AI and players?
+Targeting a vehicle with complex movement?
+Creating smooth lighting transitions using tiles in HTML5/JavaScript game
+How do I shuffle cards for a card game?
+GLSL - one-pass gaussian blur
+Doing a passable 4X game AI
+How do you cope mentally with one very long piece of work
+Finding the contact point with SAT
+Sharing functions across multiple shaders
+How do I communicate with an IronPython component in a C#/XNA game?
+What is a better abstraction layer for D3D9 and OpenGL vertex data management?
+How do I implement a Bullet Physics CollisionObject that represents my cube like terrain?
+What technology does Starcraft 2 use render its maps?
+Implementing simple proportional navigation for a homing missile
+Calculation of Inertia Tensors
+Path finding algorithms?
+Level creation of Rayman Origins type game?
+How are advanced graphics effects implemented?
+Tile map/terrain implementation with differing heights of neighbouring tiles
+Transform Matrix multiplication order
+Audio programming resources
+Managing lists of different types of entities  - is there a better way?
+How do I prevent my platformer&#39;s character from clipping on wall tiles?
+Why does XNA&#39;s ContentManager follow generic type parameters for serialization purposes?
+What implications does JIT (javascript/canvas) vs. AOT (Flash) have in terms of browser based game performance?
+First time shadow mapping problems
+Does use of simple shaders improve performace/battery life?
+How To Approach 360 Degree Snake
+How do people get around the Carmack&#39;s Reverse patent?
+How do I determine if one polygon completely contains another?
+Framerate limitation
+Best peer-to-peer game architecture
+What exactly can shaders be used for?
+Separating logic and data in browser game
+Realtime multi-player game design principles for Node.js
+HTML5 game obfuscation
+Map with 20 million tiles makes game run out of memory, how do I avoid it?
+How do I convert between two different 2D coordinate systems?
+Tilemaps in a Entity System Framework?
+Shifting from XNA/C# to C++?
+Doesn&#39;t multiple inheritance solve all problems that entity systems do?
+Are there any narrative (or at least non-spatiotemporal) focused engines/frameworks?
+How to get a game popular without a publisher?
+Is there any Card Game Framework?
+Motion capture for indie developers?
+Is there any way to verify the GPS location data received from client?
+Do Apple and Google ask for a share if custom payment is done in a free app?
+Is there anything equivalent to Portal 2&#39;s linked_portal_door in any other engines?
+How do I go about hiring Level Designers from the Modding community?

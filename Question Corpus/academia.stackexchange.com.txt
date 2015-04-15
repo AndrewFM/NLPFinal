@@ -2499,3 +2499,2504 @@ Is it acceptable to change affiliation to new employer when submitting an update
 If you want to do a PhD in mathematics, how important is it to start immediately after finishing undergraduate studies?
 Why are [some] professors ambiguous about material that is actually tested on exams?
 What subjects benefit from textbook editions?
+How should I deal with discouragement as a graduate student?
+Should I share my horrible software?
+Why do American colleges and universities have sports teams?
+How to avoid procrastination during the research phase of my PhD?
+Do I have the legal right to demand information on plagiarism of my work from another university?
+How to deal with an advisor who wants a &quot;friendlier&quot; relationship with me than I do?
+How to deal with sexual advances from students
+Prof&#39;s neurological health is declining rapidly. What can I (TA) do?
+Is it possible to recover after a career setback such as this?
+Why don&#39;t people publish failures?
+University rank/stature - How much does it affect one&#39;s career post-Ph.D?
+What to do about questions that are designed to embarrass the speaker?
+My professor is rigging data and plagiarizing. What can I do?
+Why are papers without code but with results accepted?
+Useful strategies for answering &quot;dumb&quot; questions in a talk?
+Should the slides in a presentation be self-explanatory or be as minimal as possible?
+Is it ethical to submit a paper with the name of a co-author who cannot be contacted?
+Should I recommend a student with a bad ideology?
+Is it ethical to profit by having my students buy my textbook?
+Why do many talented scientists write horrible software?
+I believe I have solved a famous open problem. How do I convince people in the field that I am not a crank?
+Best-practice models for &quot;research&quot; code?
+Why are professors&#39; websites so ugly?
+What does first authorship really mean?
+Is it ethical/acceptable to give a lighter penalty to students who admit to cheating?
+How do you judge the quality of a journal?
+Should I quit my PhD - workload, self-esteem and social life
+Should professors intervene if a student is wearing offensive clothing in their classroom?
+As a department head, what to do if a professor leaves without giving out grades?
+How to tell an over-confident student they still have a lot to learn?
+Asked again to review a paper, when the authors don&#39;t wish to modify it
+Is it reasonable for a professor to ask students to stay 30-45 minutes past scheduled class time every week?
+Is it ethical for a professor to get masters students to work on open source modules related to the professor&#39;s profit-making company?
+What makes someone deserving of a Ph.D.?
+Software to draw illustrative figures in papers
+I want to do research but I&#39;m too old for a PHD
+Walk up and talk to random people at academic conferences - is that appropriate?
+PhD student, issued contract at year 3 which will sign over intellectual property. Is it legal?
+Why are some professors critical of even casual use of Wikipedia?
+What is the origin of the &quot;underwater basket weaving&quot; meme in Academia?
+What are &quot;fake&quot;, &quot;shady&quot;, and/or &quot;predatory&quot; journals?
+Is it okay to report classmates cheating on exams?
+&quot;I&#39;ve somehow convinced everyone that I&#39;m actually good at this&quot; - how to effectively deal with Imposter Syndrome
+How to avoid sleeping in lectures?
+What to do if a referee plagiarises the result after rejecting a paper?
+Life as a math professor
+Is ignoring emails acceptable in academia?
+Should I challenge my professor who thinks he&#39;s always right?
+What productive academic work can you do with minimal attention in a small (&lt;30 minutes) block of time?
+E-mail address to use in publications
+&quot;You are paid to answer my questions!&quot; - how to handle silly questions?
+What to do about top students making other students lose confidence?
+Techniques for good board handwriting
+Should I explain to the graduate admission committee why I am older than most prospective PhD students?
+A friend&#39;s professor is asking her to babysit for free. Is this normal?
+Strategies for teaching with facial aphasia (inability to recognize faces aka prosopagnosia, face-blindness)
+What is a social strategy I can use to respond to &quot;How&#39;s your PhD going?&quot;
+How hard do early-career academics in the United States work, really?
+Should I learn to use LaTeX to write up a History Masters Thesis?
+How to deal with an academic &#39;stalker&#39;?
+I am a PhD student and hate it here. How can I warn prospective students during admit weekend without ruining my reputation?
+What is behind the &quot;Indian Undergrad Research Experience&quot;-spam?
+Can I thank websites that host illegal book downloads in the acknowledgements section of my thesis?
+Is web-presence important for researchers?
+How to become well-known in the research community while being a PhD student
+Do Asian authors have a different style of academic writing from European authors?
+Is it common practice to remove an author&#39;s name from a paper?
+Are there good reasons to avoid using color in research papers?
+What to do about &quot;grade grubbers?&quot;
+How can I determine whether a student has written an excellent paper themselves, or hired someone else to do it?
+Didn&#39;t pay attention to rules and created an illegal note card for exam?
+The GRE: Why does this still exist?
+How to stop feeling guilty about the unfinished work?
+My first authorship is being turned into co-first authorship, what can I do?
+How do mathematicians conduct research?
+Does publishing a paper on arXiv prevent me from submitting it to a non-open access journal?
+How do you get a bad transcript past Ph.D. admissions?
+Academic discretion: Should one participate in online forums or Stack Exchange sites anonymously?
+Is there an affordable way for non-students to subscribe to multi-journals/archives?
+How do academics get away with writing detailed recommendation letters?
+I was caught cheating on an exam, how can I minimize the damage?
+What are the advantages or disadvantages of using LaTeX for writing scientific publications
+Why does research cost so much money?
+Can I slack off and get a PhD?
+Should I report an accepted PhD thesis in which the literature review is copied verbatim from sources?
+How should a social scientist deal with envy of disciplines that are more quantitatively rigorous?
+In practice, how secure is a tenured position in the US?
+Understanding an abnormal grade distribution
+What can I do to recover from a short term burnout?
+Should I reward points for an incorrect answer if it is the result of misinformation presented in a TA&#39;s office hours?
+Is it right and polite to ask for a free copy of a published paper?
+How to deal with a student who harasses the (inexperienced) teacher during class?
+Is it acceptable to have a research paper with no references?
+A manuscript I refereed gave me an idea for a paper, not sure how to proceed
+Should I host my academic website under my institution domain or under a domain of my own ?
+Attitudes towards self-plagiarism
+How to improve myself as a lecturer?
+What should raise red flags to detect fabricated data
+Should I inform students that there are cheaper alternatives to the on-campus book store?
+Why does a UK university need to know my sexual orientation and religion?
+How should I deal with discouragement as a graduate student?
+Should I share my horrible software?
+Why do American colleges and universities have sports teams?
+How to avoid procrastination during the research phase of my PhD?
+Do I have the legal right to demand information on plagiarism of my work from another university?
+How to deal with an advisor who wants a &quot;friendlier&quot; relationship with me than I do?
+How to deal with sexual advances from students
+Prof&#39;s neurological health is declining rapidly. What can I (TA) do?
+Is it possible to recover after a career setback such as this?
+Why don&#39;t people publish failures?
+University rank/stature - How much does it affect one&#39;s career post-Ph.D?
+What to do about questions that are designed to embarrass the speaker?
+My professor is rigging data and plagiarizing. What can I do?
+Why are papers without code but with results accepted?
+Useful strategies for answering &quot;dumb&quot; questions in a talk?
+Should the slides in a presentation be self-explanatory or be as minimal as possible?
+Is it ethical to submit a paper with the name of a co-author who cannot be contacted?
+Should I recommend a student with a bad ideology?
+Is it ethical to profit by having my students buy my textbook?
+Why do many talented scientists write horrible software?
+I believe I have solved a famous open problem. How do I convince people in the field that I am not a crank?
+Best-practice models for &quot;research&quot; code?
+Why are professors&#39; websites so ugly?
+What does first authorship really mean?
+Is it ethical/acceptable to give a lighter penalty to students who admit to cheating?
+How do you judge the quality of a journal?
+Should I quit my PhD - workload, self-esteem and social life
+Should professors intervene if a student is wearing offensive clothing in their classroom?
+As a department head, what to do if a professor leaves without giving out grades?
+How to tell an over-confident student they still have a lot to learn?
+Asked again to review a paper, when the authors don&#39;t wish to modify it
+Is it reasonable for a professor to ask students to stay 30-45 minutes past scheduled class time every week?
+Is it ethical for a professor to get masters students to work on open source modules related to the professor&#39;s profit-making company?
+What makes someone deserving of a Ph.D.?
+Software to draw illustrative figures in papers
+I want to do research but I&#39;m too old for a PHD
+Walk up and talk to random people at academic conferences - is that appropriate?
+PhD student, issued contract at year 3 which will sign over intellectual property. Is it legal?
+Why are some professors critical of even casual use of Wikipedia?
+What is the origin of the &quot;underwater basket weaving&quot; meme in Academia?
+What are &quot;fake&quot;, &quot;shady&quot;, and/or &quot;predatory&quot; journals?
+Is it okay to report classmates cheating on exams?
+&quot;I&#39;ve somehow convinced everyone that I&#39;m actually good at this&quot; - how to effectively deal with Imposter Syndrome
+How to avoid sleeping in lectures?
+What to do if a referee plagiarises the result after rejecting a paper?
+Life as a math professor
+Is ignoring emails acceptable in academia?
+Should I challenge my professor who thinks he&#39;s always right?
+What productive academic work can you do with minimal attention in a small (&lt;30 minutes) block of time?
+E-mail address to use in publications
+&quot;You are paid to answer my questions!&quot; - how to handle silly questions?
+What to do about top students making other students lose confidence?
+Techniques for good board handwriting
+Should I explain to the graduate admission committee why I am older than most prospective PhD students?
+A friend&#39;s professor is asking her to babysit for free. Is this normal?
+Strategies for teaching with facial aphasia (inability to recognize faces aka prosopagnosia, face-blindness)
+What is a social strategy I can use to respond to &quot;How&#39;s your PhD going?&quot;
+How hard do early-career academics in the United States work, really?
+Should I learn to use LaTeX to write up a History Masters Thesis?
+How to deal with an academic &#39;stalker&#39;?
+I am a PhD student and hate it here. How can I warn prospective students during admit weekend without ruining my reputation?
+What is behind the &quot;Indian Undergrad Research Experience&quot;-spam?
+Can I thank websites that host illegal book downloads in the acknowledgements section of my thesis?
+Is web-presence important for researchers?
+How to become well-known in the research community while being a PhD student
+Do Asian authors have a different style of academic writing from European authors?
+Is it common practice to remove an author&#39;s name from a paper?
+Are there good reasons to avoid using color in research papers?
+What to do about &quot;grade grubbers?&quot;
+How can I determine whether a student has written an excellent paper themselves, or hired someone else to do it?
+Didn&#39;t pay attention to rules and created an illegal note card for exam?
+The GRE: Why does this still exist?
+How to stop feeling guilty about the unfinished work?
+My first authorship is being turned into co-first authorship, what can I do?
+How do mathematicians conduct research?
+Does publishing a paper on arXiv prevent me from submitting it to a non-open access journal?
+How do you get a bad transcript past Ph.D. admissions?
+Academic discretion: Should one participate in online forums or Stack Exchange sites anonymously?
+Is there an affordable way for non-students to subscribe to multi-journals/archives?
+How do academics get away with writing detailed recommendation letters?
+I was caught cheating on an exam, how can I minimize the damage?
+What are the advantages or disadvantages of using LaTeX for writing scientific publications
+Why does research cost so much money?
+Can I slack off and get a PhD?
+Should I report an accepted PhD thesis in which the literature review is copied verbatim from sources?
+How should a social scientist deal with envy of disciplines that are more quantitatively rigorous?
+In practice, how secure is a tenured position in the US?
+Understanding an abnormal grade distribution
+What can I do to recover from a short term burnout?
+Should I reward points for an incorrect answer if it is the result of misinformation presented in a TA&#39;s office hours?
+Is it right and polite to ask for a free copy of a published paper?
+How to deal with a student who harasses the (inexperienced) teacher during class?
+Is it acceptable to have a research paper with no references?
+A manuscript I refereed gave me an idea for a paper, not sure how to proceed
+Should I host my academic website under my institution domain or under a domain of my own ?
+Attitudes towards self-plagiarism
+How to improve myself as a lecturer?
+What should raise red flags to detect fabricated data
+Should I inform students that there are cheaper alternatives to the on-campus book store?
+Why does a UK university need to know my sexual orientation and religion?
+How to handle possibly subtly flirtatious emails from students?
+How to write an academic paper for the first time?
+Is there a name for the inverse of the impostor syndrome?
+How to deal with students who lose their digital work?
+How to clarify that supervisor writing a reference is not related to me even though we have the same last name?
+Is there any efficient non-linear note-taking software?
+What is a &quot;Sandwich thesis&quot;?
+Rediscovery of calculus in 1994: what should have happened to that paper?
+Should unreadability or sloppiness of students&#39; work be reflected in their evaluation?
+Is it reasonable to worry about lack of potential for dating in postdoc positions?
+Am I reading enough of the scientific literature? Should I read for breadth or depth?
+How to explain a bad grade to a delusional student?
+Typical experiences of transgender people in academia?
+Is &quot;no late work&quot; a common policy?
+Is it normal for an advisor to expect &gt;80 hour workweeks from PhD students, and threaten them with dismissal?
+If someone conducts unethical research unbeknownst to anybody, but produces positive results, what would happen to the research once discovered?
+How to publish an academic book but make the PDF freely available online?
+Choice of personal pronoun in single-author papers
+Is it common to review papers assigned to your supervisor?
+Should academic papers necessarily carry a sober tone?
+What to do (years later) with otherwise good student who has accidentally plagiarised part of PhD thesis?
+How to work efficiently under loose supervision during graduate studies?
+Realised afterwards that I committed mild plagiarism in a paper I wrote as an undergraduate, what should I do?
+How to achieve successful collaborations? 
+Do you list journals you have reviewed for on your CV?
+Why use version control systems for writing a paper
+What should you do if you cannot reproduce published results?
+How is sexism unknowingly perpetrated in academia?
+Consequences I should expect of violence in my classroom
+How to ask for feedback from research students on my supervision abilities?
+Are there universities that consider it academic misconduct for students to publish material created by faculty?
+Is there a good site for holding online discussions of scientific papers?
+What to do when you are a promised a research-based research associate role but are required to act in an IT support role?
+How to discourage irrelevant self-citation?
+Are TED presentations academically credible?
+What is life like for Western-raised/trained academics who are faculty in countries with extremely tight governmental control?
+How do you balance producing results with learning new skills?
+Career advice: How can I move on from my probable PhD flop?
+Ethics of Accepting Unneeded Merit Based Scholarships
+How do &quot;scientific couples&quot; (from different fields) find positions?
+What questions should one ask to the former/current students of a professor before deciding whether to do PhD under him/her?
+What are the potential pitfalls of having a PhD?
+How to write a strong introduction into a research paper?
+As an instructor, how to use the first day of class?
+How to handle a student&#39;s public speaking anxiety when teaching a class that requires presentations?
+Points to consider when deciding whether to get married during a PhD
+How to deal with premature student questions during a lecture which will be covered in a subsequent slide?
+Why are there so many papers written in bad English?
+Should teachers be entertainers?
+PhD thesis without acknowledgements
+Is Facebook a necessary tool for a student?
+Do you not belong in a PhD program if you don&#39;t live and breathe your field of study?
+Is talking about quitting to your supervisor a point of no return?
+Would it be acceptable to occasionally sleep at the lab?
+How to evaluate potential advisers on grounds other than their research/publications?
+Is it okay if a professor friends a student on social media sites?
+Article that shows the complete publication history of acceptances and rejections of a successful academic
+Is a university that grants me a PhD for $1000 and a copy of my unpublished book fake?
+Is it appropriate to buy a &quot;thank you&quot; gift for a PhD supervisor?
+Should you conform to journal formatting requirements for the initial submission?
+What do I do as a depressed and incompetent TA?
+How to handle not having my PhD advisor as a reference?
+Posthumous Publication
+How to make thesis-writing feel less tedious?
+What to do if I am on a hiring committee and I am aware that a candidate has exhibited unethical behavior in his previous position?
+Age and Graduate school
+If you get stuck in research, at what point in time should you ask for help?
+Towards a Stackexchange-like comment/reputation system for research papers
+What are some options for a graduate student abandoned by Ph. D advisor?
+How do I overcome fear of rejection when writing academic papers?
+Is there such a thing like &quot;18-months/half-time syndrome&quot;?
+Can I use images showing up in Google search for my presentation slides without violating any copyright?
+Are there instances where citing Wikipedia is allowed?
+What can a student who is already studying hard do to improve low grades?
+Teacher takes pictures of students during exams and posts them on social media
+What to do with an overtly exasperating colleague in computer science?
+Preprint services other than arXiv (for other fields)
+In what tense (present/past) should papers be written?
+What lessons have you learned over the years as a TENURED FULL Professor that you wish somebody had told you when you started as an Assistant Prof?
+Is it possible to work full time and complete a PhD?
+Why are CS researchers reluctant to share code and what techniques can I use to encourage sharing?
+Is doing two PHDs a good path?
+Handling plagiarism as a TA
+How to handle a colleague who hasn&#39;t pulled their weight
+Handling unsolicited proofs of famous mathematical problems
+Do universities hire graduates from lesser universities
+How to react to a reviewer’s comment when he is completely right, but you do not like the consequences?
+How not to come off as boasting or arrogant, if you are one of the few active students in a class?
+How hard is it to succeed in research after an adviser&#39;s death midway through PhD?
+When should a supervisor be an author?
+Should I stay in school?
+How to come up with research ideas?
+Is there such thing as too many references for one paper?
+Should I agree to review papers as a postdoc?
+When should you stop asking your PhD advisor to do advisor like things?
+What to do if assignment is against student&#39;s religion?
+How to get cited and how to boost the impact of one&#39;s work?
+How should bathroom breaks be handled during written exams to avoid cheating?
+Is there any way to pressure textbook publishers to reduce price?
+Do people actually buy research articles?
+How can I get the most out of conferences?
+My research work stolen and published as his own by the co-author without my consent
+What to do if my paper is incorrectly cited in a journal?
+Student missing exam for “medical reasons”
+How do academics reconcile simultaneously collaborating and competing with colleagues?
+Should an Editor in Chief publish in their own journal?
+Is it my responsibility to point out that a paper has been plagiarized from another researcher&#39;s blog?
+My advisor submitted a paper with my work without including me as an author
+How to sign your email to students, so to avoid their immature behavior?
+How and why did the top journals become top journals?
+Is it ethical for a lecturer to require students to purchase an online learning kit where kit is used for course assessments?
+Is it normal to preferentially invite female speakers when there would otherwise be few female speakers?
+My student told me his mother has cancer, what do I do?
+How to respond to intentional lack of citation?
+Do you need to read a whole article before citing it?
+Is it plagiarism for my thesis advisor to publish a paper using content from my thesis without citation?
+Discovered a serious error in a reviewed paper after submitting the review, what to do?
+Re: the advice of &quot;You should never pick a nice advisor&quot;, is it true that &#39;nice&#39; professors fail to produce good students?
+Are relationships allowed between students and faculty?
+What&#39;s the point in &quot;the paper is structured as follows&quot;?
+Going back to university after suspension, how do I move past the shame?
+What procedures should I follow if my preprint is stolen and published in a journal?
+How should a teaching-assistant deal with an angry student?
+I graduated last year and my advisor passed away unexpectedly soon after. What should I do now for subsequent academic job searches?
+Simplest way to jointly write a manuscript?
+Does one need to be affiliated with a university to publish papers?
+Use of first person in a PhD Thesis
+I am currently debating whether to leave my PhD program- any advice
+How to respond to someone plagiarizing my work?
+What do people usually wear to conferences?
+What can academics and students do to reduce racism in academia?
+Doing all the simulations and plotting, do I deserve an authorship?
+I found a nontrivial mistake in my currently-under-review paper. Should I send a correction to the editor?
+Is it unfair to regrade prior work after detecting cheating?
+Is it possible take take part in a research project if I&#39;m not a part of a university?
+Is transferring to another university an option for an unhappy PhD student?
+How to write abstract for conference when you have no results yet?
+How does the US government shutdown affect academics?
+How to offer a reviewer to be co-author?
+How can I withdraw a publication from a fake journal and resubmit to a legitimate journal?
+How do Academic Journals protect against empirical results given by bugs?
+Should I answer students&#39; questions immediately or teach them to ask better questions?
+Copied Letter of Recommendation?
+Is it appropriate to assign Mechanical Turk-type tasks as extra credit?
+Preventing leaking exam papers/cheating using phone cameras?
+Accomplished researchers listed as editors of shady journal
+What to do about students who ask for help too often?
+What to do when other professors place unfair demands on my students?
+Should a postdoc talk about his depression with his mentor?
+How can I politely explain to my students that the texts in my course are all in English and it is their duty to read it nonetheless?
+Am I helping my graduate students too much?
+What part-time jobs are suitable for PhD students?
+How to buy plane tickets for job interviews?
+Effective way to deal with misuse of mobile devices in class
+PhD candidate vs PhD student
+Why does editor reject when reviewers recommend acceptance?
+Is there an inflation in the number of authors per paper?
+How do I &#39;read the room&#39; and adjust my pace while lecturing?
+What ratio of PhD graduates in STEM fields ultimately end up as (tenured) professors?
+How to get rid of unwanted and annoying co-author?
+Is it normal to feel dread before starting a faculty position?
+Is it common to provide digital notes (slides or handwritten) for students?
+In teaching, what are the advantages of using slides over doing board work?
+How to respond to the trivialisation of one’s work and unjustified demands for a considerable extension of the research?
+What to do when you spend several months working on an idea that fails in a masters thesis?
+How to comfortably interact with famous professors?
+What can I do to get academic credit/recognition from my hobby project?
+Software to use for creating posters for academic conferences?
+After my PhD how much salary should I expect as a professor of computer science?
+How to teach a class that I&#39;ve never taken?
+Is it reasonable to collaborate with a professor when you are employed by a different professor?
+why do academics write peer reviews?
+Is physics taught using phrases that are too easily misinterpreted, and can this be improved?
+How to deal with the frustration of doing PhD at a low-ranked university
+Applying for postdocs: mention two-body problem in cover letter?
+What should you do if you spotted a non-trivial error in a highly cited paper?
+Is it ethical for advisors to automatically coauthor papers?
+What to do with spare research topics?
+How to handle someone propositioning me to collude/cheat with them on an assignment?
+What to do when co-authors want to submit manuscript for publication and you think it still has problems?
+What do instructors need to know to accommodate Muslim students?
+Is a PhD right for you if you hate doing research in your free time but love doing it as a job?
+What physical contact, if any, is acceptable between a supervisor and a student?
+Is it fair for me to drink caffeine during tests?
+Would a 5-year prison sentence totally ruin one&#39;s academic career?
+How do advisors typically apply pressure on PhD students to get work done?
+Is it fine to cancel class on days before national holidays, due to low attendance?
+What should I ask deans during my interview?
+Whether to tell his prospective employer that a new male post doc opposes affirmative action for women in academia?
+Should I worry that a graduate student somewhere gave a talk using my abstract?
+Another instructor is pushing me out of the classroom right after my class ends
+Does wearing a university t-shirt imply that the wearer is affiliated with the university?
+Is it normal to find unknown work during peer-review process?
+What does author order indicate?
+Flying with a poster tube as a hand luggage
+What to do if reviewers reject a paper without understanding the content?
+How do I improve my rewriting and editing skills?
+Unsolicited CVs from grad school applicants - ignore or try to help?
+Is a researcher with the same name in a different field likely to cause confusion?
+What should I do if I found a citation error in a published paper?
+Is it acceptable to write a reference letter for yourself?
+Is it unethical to accept extra time on exams when I still do well?
+How to correct plagiarism in my own Master&#39;s thesis, years later?
+Charisma vs. credentials in academic hiring
+Is a faster implementation of an existing algorithm publishable?
+What kind of career path might be possible for a professor following a plagiarism scandal?
+What is the best way to retain learned materials
+Is there any ethical issue which prevents me from paying high quality authors monetary compensation, to agree to write papers with me?
+How important are my grades to the rest of my PhD career?
+Free web hosting for academics
+How should one turn down academic job applicants?
+How important are poster sessions in conferences?
+Is it appropriate to bring some kind of gift for a host professor?
+What tools make it easy to maintain (or avoid!) the N versions of your CV?
+How do we end the culture of “endless hours at work”?
+How common is it to inadvertently &quot;reinvent the wheel&quot; in academia?
+Value of light-to-none peer reviewed pay-to-publish articles
+Maintain scientific output after having a baby
+Choosing the title of a paper: are provocative titles better?
+The use of words such as &quot;clearly&quot;, &quot;obviously&quot; etc. in a technical paper
+How to fend off someone putting their Name on my work?
+What should I do now when this conference first sends me an &quot;accept&quot;, then a &quot;reject&quot;?
+Dealing with listening/talking to researchers with difficult accents
+Is it usual for finished PhD students to send out physical copies of their thesis to unknown persons?
+As a Ph.D. student, should I spend time reviewing papers?
+How many times can you present the same material at different conferences before it becomes stale?
+Is it ethical to withdraw a paper after acceptance in order to resubmit to a better journal?
+Must I decline to review a former colleague&#39;s work?
+Is it acceptable to drink alcohol in front of senior staff during semi-official occasions?
+Should I send a &quot;cease-and-desist&quot; letter to ResearchGate?
+Why are (galley) proof requests given such a short deadline?
+How is it in my best interest not to submit a paper to two journals simultaneously?
+How to move forward following an unpleasant situation with colleagues?
+How to prevent cheating on take-home exams
+Are you permitted to forward the reviews from a rejected manuscript when submitting to a new journal?
+Do academics get bored of research?
+Good practices for organizing notes
+Doing research without a PhD?
+How to cope when PhD advisor quits midway
+Choosing research ideas to include in a statement of purpose
+Setting exercises and assignments when everything is on the web
+How to ensure a research idea has not been explored previously
+Writing papers in language X and translating to English vs. writing papers in English to begin with?
+How can I do a literature review efficiently?
+How to manage theorist&#39;s &quot;labbook&quot;?
+Is a &quot;big ego&quot; necessary for a tenure-track faculty position?
+Is asking an author I&#39;m reviewing to cite me a conflict of interest?
+Is it more difficult for teetotalers to develop academic contacts?
+Strategies to overcome &quot;academic-apathy&quot; in the final stages of the PhD?
+What to do when a journal publishes a paper plagiarizing one&#39;s work but doesn&#39;t care about it?
+Does gold (i.e., author-pay) open-access really help access to science and save taxpayer money?
+What post PhD path alternatives are there?
+Negotiating startup package given differences in institutional norms
+Unsolicited request for a scientific collaboration
+Having students scribe lectures
+How can I express &quot;I can&#39;t find any papers written about this&quot;?
+How much of my ongoing unpublished research should I disclose to others?
+How to handle an advisor who communicates badly and puts me in a bad position as a result?
+How did authors prepare figures in their publications before the advent of computers?
+What makes a MSc in Computer Science difficult for someone who has no specific background but 10 years of experience as a programmer?
+Do student reviews of teachers matter?
+Whose responsibility to detect plagiarism during peer review: editor or referee?
+How familiar should you be with a topic before assigning it as a thesis to an undergraduate?
+What is the benefit of writing lecture notes for an introductory course vs using a textbook?
+How to deal with two students who potentially colluded when one is unavailable?
+What to do if an audience member refuses to let you answer their question?
+When during the application process should a candidate mention that their spouse is also looking for a job
+Is it considered plagiarism if I use my OWN answers twice
+Why do people hang up papers on their doors?
+Is it appropriate to attend a class one is not registered for?
+How can PhD student repair relationship with supervisor after PhD student engages in independent research without supervisor?
+Why do some universities charge an application fee?
+Will people judge me negatively for skipping department seminars?
+Submitting the same research to multiple conferences
+How to acquire 3 recommendation letters to apply for jobs when working with 1 advisor?
+When does one go for a double doctorate?
+What is expected of a postdoc?
+Will self-citation be viewed as self-promotion in academia? 
+How long before PhD graduation should I start applying for post-doc positions?
+Undergraduate not doing homework (case method)
+Should I accept review requests from dubious journals?
+What should a proper email signature look like for graduate students?
+Keeping your throat comfortable after hours of lecturing
+Can one excel in graduate/post-graduate school with a demanding family life?
+Why do universities tolerate uploading papers on their websites?
+What are some good things to make explicit between a student and his supervisor when beginning a PhD?
+Should I use my university&#39;s letterhead for a cover letter for a job application?
+How high should I rate a good student for PhD admission?
+How should I deal with discouragement looking at others success?
+Special (non-english) character in name. What to do as author? Internationalize or not?
+CV for leaving academia after PhD
+Should I attend a job interview after I&#39;ve already accepted another offer?
+Research before surveying the literature - is it ever a good idea?
+Is it necessary to ask permission before including someone in the acknowledgements of a research paper?
+Is using the phrase &quot;... is left as an exercise for the reader&quot; considered good style in academic papers/theses?
+Is the arXiv a good way to get feedback on one&#39;s work?
+Is it appropriate for a prospective PhD student to contact phd students at a target school?
+What should I do if I submitted an article to a predatory journal?
+Why do some journals prefer MS Word?
+How should I control my nervousness, so as not to disturb my presentation on the day of a conference?
+Where can I find the Impact Factor for a given journal?
+Do journals in general have any kind of policy regarding papers submitted by someone without a research affiliation?
+Scope for the role of peer reviewer
+How independent should an academic be?
+Question regarding how to slow down and enjoy academic life
+Contacting professors for PhD vacancies
+Software/App for electronic research notebooks
+Personal web page vs Academia.edu vs ResearchGate
+Etiquette when talking to a researcher whose work you do not think highly of
+Dressing etiquette for interviews in academia
+Who actually is a Post-Doctoral fellow?
+Is typical ebook reader with pdf support enough to read scientific papers
+Assistant professor vs Associate professor
+How is Google Scholar changing academic evaluation?
+Are there specific organizational processes or tools (not necessarily software) that can help in developing and structuring research ideas?
+Publishing an algorithm that may not have many applications?
+What incentives do academics have to write text books?
+How to reduce a paper&#39;s size for a page limited conference?
+Do teaching evaluations lead to lower standards in class?
+How to avoid thinking about research in your free time
+Can I successfully adapt to an advisor who will not push me to work?
+Will rejecting more papers than I accept reflect negatively on me as a reviewer?
+Is a research thesis (report) with zero contribution to human knowledge acceptable?
+How to respond to a perplexing review?
+Can two PhD students publish without involving their supervisors?
+ResearchGate: an asset or a waste of time?
+Is it common to claim co-authorship by helping writing a paper without doing any research
+What should I ask my potential Ph.D advisor in advance, before actually signing a contract?
+Is it professional for a professor to ask &quot;surprise&quot; questions on a test?
+How to deal with a professor skipping his office hours?
+How do I tell my supervisor his idea is incorrect?
+Why are US PhDs different from European PhDs?
+What books, biographies or survival guides are helpful for women in engineering in academia?
+Who is responsible for detecting plagiarism in a PhD thesis?
+How active should professors be in writing papers with their students?
+Can co-authoring a paper as a new grad harm my reputation/career?
+Is it acceptable to extend results from an arXiv paper that has not appeared in a journal?
+What to check when examining paper proofs?
+Is copying an image from a previous paper of mine and citing its source considered self-plagiarism or unprofessional?
+Why are small fonts the norm in research papers?
+How to deal with non-cooperative team mate?
+How to negotiate with referees of your paper
+Author did not make the major changes asked during the review process
+Why should (or should not) a university have a policy of not hiring its own PhDs?
+How to tell my advisor I don&#39;t want to stay in academia
+Advisor dies suddenly, advice needed for research students
+What do you wish you knew as a student before you became a researcher?
+How to behave when dating a fellow PhD student in same department?
+How do you cite a Github repository?
+Quit PhD and find a job
+Why is it that adjunct faculty positions pay so little?
+Why upload to academic preprint sites like arXiv?
+Etiquette on sending a thank you e-mail to respondents who gave me helpful information
+Are there many journals that do not accept TeX?
+I believe my classmates plan to hand in a plagiarized project, how should I handle this?
+Advisor asking me to use my grant to cover his orders
+Are there tools to prevent students from cheating on a programming exam administered on computers?
+What does it mean if a professor asks you to draft his reference letter for you?
+Is it ethical for authors to reference another paper, but not cite it formally, because they consider it unscientific?
+Are researchers permitted to mislead subjects about the purpose of a trial?
+How to deal with students leaving the class for 10 min during the lecture?
+Under what circumstances would a professor be offended at students taping or recording his or her lecture?
+My name was misspelled in a citation, what should I do?
+Journal does not tell me why they rejected my paper, even on request
+Is being an honors student really worth it?
+Is it inappropriate to explain why I really want to live where the university is located in my job talk?
+As an instructor, how to show my appreciation for my TAs&#39; hard work?
+Whether and how to thank a girlfriend or boyfriend in the acknowledgements of thesis?
+How should a university deal with outsourced essay writing?
+How to find a good topic for a PhD research proposal?
+Tool to manage and/or make available a list of my publications on the web? 
+Cover letter, when publishing in a journal
+How do you earn opportunites to review journals or conference papers?
+Requesting raw data from previously published research
+Is Lambert Academic Publishing a reputable company?
+What does a &quot;major revision&quot; mean?
+How do I reference the Python programming language in a thesis or a paper?
+Academic journals for... High school students?
+Should I cite author names as they appear in the journal or as I know them to be complete?
+How should I respond to a terrible copyediting job?
+As a PhD-Advisor: How do I discourage a student from continuing?
+Is it ethical to share the knowledge for free that I&#39;ve learned at the university?
+How do you know when your independent findings are paper-worthy?
+As a new faculty member, how do I avoid the Peter Principle?
+Good slide design for teaching?
+Is it possible for reviewers to mistakenly reject a quality paper?
+How can we promote better writing skills in academic education?
+Should I write a paper on open-source software I&#39;ve built?
+How should I reference my Github repository with materials for my paper?
+What are the benefits/detriments to graduate students joining unions?
+Why do university campuses have glass blowing services?
+What is the socio-economic argument or historical basis for university tuition fees?
+Can students finish much of their PhD thesis before applying to a PhD program?
+I Plagiarised, what punishment can I expect?
+Children in the Classroom
+Responding to a reviewer who misunderstood key concepts of a paper
+Assessing students in exams with negative points?
+In peer-review, is it common for a reviewer to be shown and asked to comment on other reviewers&#39; reports?
+How should one interpret a requirement that a proposal in pure math be &quot;jargon-free?&quot;
+How should an graduate student with Aspergers syndrome prepare for a teaching career?
+How to prove/deal with plagiarism that is hidden behind bad synonyms?
+What to do when university has not yet reimbursed travel costs for a job interview?
+Why do reviews of articles often start with a summary of the article?
+Does doing a postdoc mean a commitment to an academic career?
+What are the advantages and disadvantages to completing a Masters program before applying to a Ph. D program?
+Can I publish the reviews I write?
+Data publication basics - where, why, how, and when should I publish my unpublished data?
+EU Ph.D. in Germany: Calling yourself &quot;Dr.&quot; or &quot;Ph.D.&quot;
+Should I worry about a referee who recommended rejection being offended if my paper is accepted?
+How does a graduate program&#39;s admissions committee operate?
+How to let a journal know that its submission process is very painful?
+What are the strategies for getting feedback on articles?
+What are the key features of a short (15 min) conference presentation?
+Is it ethical to use another university&#39;s journal subscription if yours doesn&#39;t have access?
+Free, open-source substitutes for Mendeley?
+Any suggestions to create and maintain a good research atmosphere
+Is it possible to give too much praise in a reference letter that supports a green card application?
+What should advisors do if one of their PhD students has to withdraw?
+How did conferences &quot;work&quot; before the e-mail era?
+What do I need to ensure my presentation will go smoothly?
+Should your PhD students call you by your first name?
+Is there anything wrong with faculty socializing with grad students?
+Self-Plagiarism in PhD thesis
+Will it hurt me if my advisor&#39;s last name is before mine alphabetically?
+What is the best way to turn down a Postdoc offer?
+How to share computer code?
+How can I detect a toxic environment while on the interview circuit?
+Is it ethical to apply different criteria for graduate admissions based on country of undergraduate study?
+Safely negotiate a salary for a PhD offer - Germany
+Panic Attacks during an exam - Can the student be re-tested?
+Which is more impressive -- finishing a PhD in 2.5 years or getting more research done?
+Is it problematic to use a Wikipedia article I wrote in my PhD thesis?
+Is it appropriate to ask colleagues opinions when reviewing a paper?
+Should I accept an invitation to give a talk on dated work?
+Why is salary inversion a problem?
+Should I call my adviser by her first name?
+Is it appropriate for a TA to say &quot;My Students&quot;?
+What to do with a result too small to be publishable, but interesting nonetheless?
+How to address a mistake in an old paper in a very prestigious scientific journal?
+How to deal with cheating when university policy is ineffective?
+When should one include the proof of known results in a mathematical PhD thesis?
+Do hiring committees actually give preference to underrepresented groups?
+What to do when a referee wants to criticize someone else through me
+Why is it said that judging a paper by citation count is a bad idea?
+Is it OK to mention a two-body problem during a tenure-track interview, if getting the job would actually resolve the problem?
+Should I review a paper that violates the maximum length limitation?
+Should you correct grammar mistakes during peer review?
+Is the PNG file format acceptable for academic papers?
+Technical editor changed author order of the paper
+Should referees assume that authors will see the full report if their paper is rejected?
+Rules for affiliation for student doing unpaid research in his/her free time?
+The Etiquette of Leaving a Faculty Position
+How many people read an individual journal article?
+Why is the city of publication important in most bibliography format?
+How to communicate achievements on the StackExchange network in an academic CV or job interview?
+What can I do as a graduate student to maximize my chances of obtaining a professorship?
+What is a good checklist for last minute changes before submitting a PhD thesis?
+Resources on how to overcome writer&#39;s block, especially for non-native English speakers?
+Why don&#39;t all disciplines follow a double-blind review system?
+Reading (&amp; understanding) a lot of papers is hard. How to deal with it?
+To stay or leave PhD after having completed 4 years
+How to prepare for being a TA (Teaching Assistant)?
+What data about grades should I tell the class? Make public?
+How should students react to inaccuracies in professors&#39; teaching without causing resentment
+Why does academia.edu reserve the right to sell, modify, and &quot;exploit&quot; my papers if I post them there?
+How do I know if I&#39;m good enough to be a math professor?
+How strong of an obligation does an advisor have to attend his/her Ph.D. students&#39; graduation?
+Can reviewing papers help increase your credibility as a researcher?
+Can a journal withhold referee reports from the authors of a rejected paper?
+Research paper - translated plagiarism?
+What should I do if a coauthor, who has contributed the most among my coauthors, declined to be listed as a coauthor?
+Percentage of PhD&#39;s in mathematics with no publications
+Post tenure job search in the humantities: a waste of time?
+Do we actually need more PhDs?
+Is &quot;read the syllabus&quot; a sufficient transfer of responsibility?
+What should I state for &quot;expected salary&quot; in a tenure-track job application?
+What leverage do universities have over sexual violence in fraternities?
+How to politely decline an interview for a PhD program?
+Is it poor grammar to replace normal phrases with mathematical symbols in sentences in a mathematical paper?
+Is there deliberate gender preferential treatment in hiring or admission in STEM fields?
+How to approach PhD admissions after leaving previous PhD because my advisor tried to force me to manipulate data
+Is it possible for people with a stutter to have a career in academia?
+Grading: students give correct answers, but in the wrong places
+Just got tenured and promoted, but need to move for family reasons
+Should I drop my paper after finding a recent very similar paper?
+Is it immoral to show new students how to use Wolfram Alpha?
+When should I stop including talks on my cv?
+What is an extended abstract?
+Is there any disadvantage to having open-access publications? 
+How do I go about publishing a paper without a university affiliation?
+How old is too old for a PhD?
+How can a researcher improve his contribution to society?
+Academic pipeline: How many papers should you have under review?
+Stack Overflow reputation in CV
+&quot;Looking for a postdoc&quot; ad inside a conference talk?
+How to handle ego clashes within an academic department
+What is the difference between Abstract, conclusion and summary?
+Is it ethical for departments to have publication requirements for students
+Does &quot;corresponding author&quot; carry an implied meaning?
+When should a student attempt unsupervised research?
+Does it amount to plagiarism by supervisors?
+How to motivate students to complete work that I cannot frequently check?
+Joining a group for PhD, how do I judge the atmosphere before I sign?
+How should I introduce myself (a graduate student) at a conference?
+How can I improve the effectiveness of my literature searches?
+How to have a fulfilling social life as an academic
+What to do when no one speaks English around you?
+What to wear on one&#39;s shoulders to interviews? (bags, backpacks, etc.)
+Are search committees biased in terms of a candidate&#39;s looks, such as long hair for men?
+How to get better at identifying research gaps?
+How to get pornographic movies for scientific research purposes?
+Should academics allow student to submit a possibly flawed paper?
+What to do when I think a published paper displays academic misconduct?
+Should I withdraw my paper if I find another paper published with the same idea?
+What can I do if, years ago, a professor agreed to write a recommendation letter, but never sent it?
+Is it mandatory to include the registered trademark symbol &#174; next to the name of a computer program?
+Dispute over precision with coauthor
+What might the editor do if my supervisor contacts a journal to claim authorship of a paper?
+Is developing a cheaper method ever considered to be originality in academic research?
+How to remove gender bias from an academic job search?
+Are professors at a public university in the U.S. considered to be &quot;employed by the U.S. government&quot;?
+Is having a &quot;too good to be true&quot; recommendation bad?
+When to answer and when not to answer a brief e-mail from a busy academic?
+Is it ethical to blog about your publications to communicate your research without being restricted by the journal?
+Do refreshments attract audience to seminars?
+How to cite earlier work, discovered only at the end, that claims similar results to a recently completed project?
+How serious should I regard the &quot;compliments&quot; in an email denying my application?
+What are alternatives to Journal of Theoretical Biology?
+When asking research-based questions, what are some good practices to maximize the rates at which people reply to emails?
+How to efficiently read mathematically and theoretically dense books in STEM fields?
+How to improve technical writing
+Is it beneficial to publish papers not related to your primary research field?
+When / how should I ask about a manuscript&#39;s status in review?
+Should I include a publication where I&#39;m only acknowledged (and not one of the authors) in my CV?
+When and why a scientific technical report is written?
+Why do universities have to spend money on journals?
+What items should I ask for in my startup package?
+How to find grant proposal samples?
+How to find ways to proofread English in papers
+Reproducible Research :: Proprietary or Open Source Software?
+What to do after being denied tenure?
+What&#39;s the best way to share my presentation slides online?
+How do we know if something relevant is already published?
+Things to do before submitting a manuscript
+How to get back on track after falling behind
+I was rejected from my dream graduate school...what should I do?
+Acknowledging a reviewer from a journal from which the paper was rejected
+Is it peculiar for a department not to have any of its own PhD graduates as professors?
+For undergraduates, is publishing &quot;weak&quot; research better than not publishing?
+When can you call yourself doctor?
+How to suggest reviewers for a Journal?
+Swiss cheese holes in my education. Do I go back and fill them?
+What are the minimum contributions required for co-authorship
+What makes a good chalkboard?
+Is it better to have no publication than having you as second author?
+Correlation between personality type (MBTI or other) and success in academia?
+Why do researchers in areas requiring minimal resources apply for grants?
+Do we ever, in a research paper, mention methods we tried but did not get a satisfactory result?
+How can one learn from poor teaching evaluations?
+A lecturer is hard to understand, what to do?
+If an author declines authorship, may her co-authors publish without her?
+Is it appropriate to show concern for a professor&#39;s well-being?
+My advisor wants me to include a name of someone who has no contribution to the paper
+Are professors paid during sabbatical?
+Is it ethical to accept small gifts from students?
+Email to a professor after long time for recommendation
+Is there any research on the prevalence of academic theft?
+How should one interpret a rejection on the grounds that a paper &quot;has no added value to the existing state of the art&quot;?
+What should I let students do when they finish exams early?
+Is there a way to save my students money on a textbook?
+What can I do to be able to understand conference presentations?
+Why are [some] professors ambiguous about material that is actually tested on exams?
+What attitude should a speaker have to going over time?
+Is it wise to develop skills that do not immediately benefit short-term research productivity?
+Are there people who have done so much work before PhD that they get a PhD automatically?
+Why do some individuals who are productive PhD students at leading Western institutions, then publish infrequently as faculty in their home country?
+Can I force my professor to give me a copy of his powerpoint presentation?
+Leaving academia - what to do with the personal website?
+Can I refuse a stipend during a PhD program?
+How to prevent plagiarism of my papers?
+If I abandon my PhD program, will it prevent me from continuing elsewhere?
+Points to remember when having to write recommendation letter yourself
+Are faculty salaries negotiable?
+How to invite yourself to present at another university?
+How to identify predatory publishers/journals
+What are some ways to increase grading speed?
+How long should letters of recommendation for students be?
+How should I deal with a professor whose weak language proficiency is disturbing our paper&#39;s writing quality?
+Should I keep my name on a paper in which I have no important contribution?
+How do &quot;lecturers&quot; differ from &quot;professors&quot; in large universities?
+How do you judge an Indian CGPA score?
+Whether to publish one big paper or many smaller papers for a given research project?
+What is the effect of a journal going open-access on its impact factor?
+How much vacation time is typical during a PhD in the United States?
+As an editor, what measures can I implement to prevent image/photo manipulation?
+How much is the normal salary of a postdoctoral fellow in North America and Western Europe?
+Are there any downsides to receiving BSc, MSc, and PhD all from the same university?
+How did modern western post-secondary education become tied up with research and publications?
+Guiding a mentee towards greater independence
+Is the new ACM 2012 taxonomy usable/in use?
+What is &quot;Oberwolfach style&quot;?
+Advisor walked in while I was complaining about her; How can I minimize the damage to our relationship?
+How to prevent students from having an unfair advantage on exams, when they are held on different days?
+How to acknowledge contributions of anonymous referee in new paper?
+Should we translate non-english university names?
+Do you have to find out/ prove something to get a PhD?
+How relevant are (journal) papers for the valuation of one’s work and results?
+My professor gave me a bad grade and wouldn&#39;t discuss it further, I think some prejudice may be involved. How should a student proceed?
+Is there added value in having your own presentation layout and using it consistently?
+Colleague erroneously got a grade that is too high
+Is there a reason to spread your research into multiple journals instead of just one?
+Why do academics work only nine months of the year?
+How do you respectfully give a teacher feedback about their teaching?
+Research on practices in addressing faculty bullying/harassment in academia
+How to express dissension as a grad TA while maintaining professionalism
+Should students be shown the grading rubric?
+What is the purpose of giving grades?
+Who owns things bought with research funding after project ends?
+Is it legal and is it appropriate to display religious items in faculty offices in the United States?
+How to tell my supervisor that I have severe phobia of flying?
+If you want to do a PhD in mathematics, how important is it to start immediately after finishing undergraduate studies?
+What steps can faculty and staff take to promote excellence in, and importance of, teaching?
+Should I warn my professor about some errors that I&#39;ve found in his paper?
+What should I do if my master&#39;s advisor used a figure from my thesis in a publication without citation or acknowledgment?
+Do professors get paid for supervising students?
+As a TA, how should I address the professor&#39;s difficult curriculum?
+What is the h-index exactly and how does it work?
+Is there a correlation between being a good teacher and being a good researcher?
+When does a PhD end?
+How important are citations when applying for jobs or promotions?
+A major journal in my field is published by Elsevier. How can we move the field to a less objectionable, more open publisher?
+Is it possible to become a professor in a field where you don&#39;t have a PhD degree?
+How ethical is it to view recommendation letters?
+Apply to PhD after expulsion from another
+Can game theory explain grade inflation?
+Solutions to the lack of code transparency in economics?
+How to get the data to reproduce a published result?
+How do academics make money from applying their research?
+PhD to be advised by Mr. Enfant Terrible?
+Does Impact Factor reflect the quality of a journal?
+At what stage of research career one can write a &#39;review article&#39;?
+Is a PhD the highest degree?
+Are citations in abstracts considered bad style?
+What are the disadvantages of opening the source of your own science tools
+How to begin a class with humor
+Should a reviewer critique language and text copy-paste issues?
+Practical implications of noting &quot;equally contributing authors&quot;
+Co-authorship for not very involved supervisor
+I missed an application deadline, but it wasn&#39;t entirely my fault. How can I still be considered?
+Software for extracting data from a graph without having to click on every single point?
+How hard is it for someone who already has tenure to find a tenured position elsewhere?
+Keeping track of all you have to do in academia
+Archiving papers, simulation and experimental data, etc?
+What is the easiest way to check for plagiarism in student essay papers?
+How to make my papers accessible to other researchers?
+Prolonging a PhD to improve research CV, is this good ?
+Should I add references to conference presentations?
+What should I do if the professor I intended to work with has moved to a different school?
+How should a student defend his 1st authorship in front of his advisor politely and effectively?
+Will anybody actually read your research and teaching statements?
+How to attend conferences without funding
+How to do a flawless and natural presentation?
+Is it appropriate and useful to inquire if an open position has an internal candidate?
+How should academics handle communication with the media?
+Are there any journals that pay reviewers?
+What to do when students bring me questions related to other courses and subjects?
+Can the communicating author remove some of the authors (4 out of 6) when submitting the second revision of a paper describing a database?
+Is it appropriate to acknowledge StackExchange in my MSc thesis?
+How can I signal that I don&#39;t intend to follow up the items in my &quot;Future Work&quot; section?
+To what extent should a professor give students freedom to do independent research?
+What to do when you discover a mistake in the archived copy of your PhD thesis?
+Publishing Free Papers by Publishing house: Offer or Scam?
+How do I stop feeling intimidated by my advisor?
+Old PI&#39;s coauthorship on a paper after finishing the postdoc, a preliminary idea developed then but rejected by him
+When to use a table vs. a plot to present numeric information?
+What to do when you spot a paper on arXiv with the same essential material as yours?
+How much time do professors have to do research on their own?
+Overcoming depression and getting back on rails with PhD work
+As a reviewer, what steps can I take after paper is published despite major scientific and ethical concerns, with no explanation from editor?
+My paper was withdrawn from predatory journal after publication, what should I do?
+Professor will not write a letter of recommendation because I have restricted access to my records under FERPA, is this legitimate?
+Why do research faculty pursue administrative positions, such as dean, provost, president, etc. ? Do such positions spell the end of one&#39;s research?
+Can my degree be revoked if my relationship with my advisor sours post-defense?
+Why the taboo against naming discoveries after yourself?
+Do I need to mention having survived a life-threatening illness when applying for a new academic position?
+Is it necessary to understand every detail of a research paper?
+How does the admissions process work for US Ph.D. programs, particularly for weak or borderline students?
+How does one address a tenure-track offer that is below expectations
+PhDs in the arts - what exactly do they do?
+Can student second author go to conference?
+If you make a substantial contribution should you be given the opportunity to satisfy the other requirements for authorship?
+Should I feel bad for applying to two postdoc positions?
+Is it appropriate to register a girlfriend with &quot;companion registration&quot; for an academic conference?
+Can a professor influence the graduate admissions committee if he or she is interested in a particular student?
+Scientifically meaningful sources of bibliometrics
+Advisor isn&#39;t advising
+Attending graduate school at my undergraduate university
+Details an applicant should include/exclude in an introductory letter to a prospective grad school adviser?
+How common is it to write out a script for a talk? What are the benefits?
+Keeping track of bibliography references for an entire research group
+How to act as an editor?
+How do you &quot;grow your own&quot; post doc opportunity?
+How do I deal with diverse interests when applying for a PhD program?
+What are some good project-management tools for academics?
+How to withdraw your paper from an open access journal where it has been accepted?
+Dissertation acknowledgements
+Should I assume that attendees have read my papers when I give a talk?
+Value of contributions to Wikipedia when applying for academic jobs
+What to do when principal investigator publishes your work without putting you down as a coauthor?
+Is it desirable to compliment a seminar speaker before asking a question?
+What skills are needed to sustain a research group?
+Advertising one&#39;s publication
+How to evaluate students? Resources on educational assessment for higher education
+How do I appropriately penalize late projects?
+How can I prepare myself to advise students for jobs outside of academia?
+Is it reasonable to evaluate spelling/grammar in reports for students diagnosed with dyslexia?
+Measure of review bias
+Issue tracking when writing a paper
+Supervisor keeps &quot;showstopping&quot; defense with nit-picky grammar errors
+Important factors for hiring a young mathematician
+Should I post publications in preparation (or just submitted) on my CV?
+Indicating a name change after publication
+“making it look good”- is it always important?
+How often do you email a supervisor?
+What changes after peer review but prior to final submission are acceptable?
+How to compose a great recommendation letter?
+What is the best way to keep your students from getting out of control?
+Does putting poor performing students on academic probation improve student performance?
+Saying &quot;good question&quot; during a seminar talk
+Made an arXiv submission too early; How to minimize the damage?
+Is there a stigma in computer science toward too many postdoc positions?
+Is it appropriate as a referee to contact an author after the editor rejected the manuscript?
+What does it mean to have vacation time in European academia?
+Do&#39;s and Don&#39;t&#39;s of Undergraduate Research
+PhD in the US compared to Europe
+Is listing non-academic interests on academic CVs important?
+Is there independent oversight of Journal Impact Factors?
+Searching a pdf journal paper for mathematical symbols
+Is it dishonest to guess on multiple choice exams?
+Is it a good idea to cite paper from publisher listed in Beall’s list
+Is it legal to use tourist visa waiver for academic visits?
+Who benefits from the anonymity of the peer review process?
+When can asking a question during lecture be offensive?
+How to get rid of annoying graduate student &quot;supervisor&quot;
+How to test (admitted) grad students before hiring them in your lab
+How to display your own name in publications list when you are a middle-author on a publication with a large number of authors?
+Is it right to ignore publications coming from non-top publishers?
+Is that a good idea to send an errata list to a professor whose class I&#39;m currently enrolled in?
+Ignored Requests Open-Source Software from a Research Group
+How detrimental is involvement in politics to a scientific career?
+What can I do when my transcripts have mistakes?
+How interchangeable are PhD students to most professors?
+Some possible ways to respond to a student complaining about not having enough time on exam
+How to show extreme gratitude in an email?
+How should I state a &#39;PhD dropout&#39; in my CV?
+How is a paper with multiple authors usually written?
+What to do with research results while being in high school?
+Can I hide my bachelor and master degrees in CV when I apply for a PhD position?
+How can I politely tell a professor that I&#39;m too busy to do research with him this term?
+Is it ethical to use past years&#39; final exams that the professor hasn&#39;t explicitly given, to study for a final in the same class?
+Going to a lower-ranked school for better advisor fit
+How much travel is too much travel?
+What are some good questions to ask current graduate students when visiting schools?
+Is it advisable to put entire source of my thesis up on GitHub?
+How do I find research groups that do work in field X?
+When is it a good idea to let an academic department (or a professor) know that I have Asperger&#39;s (or ADD)?
+Open versus Blind reviewing process
+How do I create a workshop/conference?
+Why does professor prohibit me talking to people?
+I want to submit a paper to arXiv.org, but I&#39;m not affiliated to an Institute. What can I do?
+Attributing contributions to academic work that occur in Stack Exchange
+How can I create a sense of community in a research group?
+What do publishers provide to authors in different disciplines?
+Sample Research Grant White Paper
+What&#39;s a good way out when research is stuck?
+How to select a Master&#39;s thesis topic if your advisor won&#39;t suggest one?
+Is &quot;working from home&quot; a bad thing in academia?
+Can I show my co-author the final version of an accepted publication I reviewed?
+Can I use the work in my journal/conference publications as chapters in my dissertation?
+How to deploy a StackExchange-style question and answer site for a university subject?
+How can I encourage my advisor to adopt better work practices?
+What makes securing faculty positions difficult?
+What will happen to non open-access publications in the UK after 2014?
+What should a tenured professor do to move to a more research oriented school?
+Conference management software (preferably open source) with custom fields
+Does a recommendation have to be from a professor from your university?
+What does &quot;tenure&quot; mean?
+In writing a paper, how far can criticism of previous works go?
+How does the ranking of a university relate to a future career in mathematics?
+Are the referees of a journal allowed to reveal the title of the papers they review after the review process?
+Are academic indicators (h-index, impact factor, etc) really adopted by institutions? Currently used? And how?
+Internet Git repository for collaboration on a paper
+What is the academic approach when the supervisor attacks student&#39;s religion?
+Finish previous work during current position
+If tenured staff are virtually unsackable, why is the drive to find funding so strong?
+Grading schemes to encourage effort
+How young is typically “young”?
+Why do a second PhD in a &quot;neighboring&quot; discipline?
+Is it okay to use students as a reference when applying for a teaching position?
+How to encourage seminar attendance?
+Reading material on working conditions of women in academia
+What is the best way to read a textbook?
+How to stay on top of recent literature?
+Why do some conference have an &quot;abstract submission&quot; before the &quot;paper submission&quot;?
+Dealing with irresponsiveness from far-away scientists
+What is wrong with continuing to publish with my PhD adviser?
+Which topics should be covered in a teaching statement?
+How useful are professional society memberships?
+How do I make sure I get strong recommendation letters for faculty positions?
+Is it acceptable as referee to contact an author on a paper you review?
+Can one publish papers which give an improved presentation of old results?
+Ways of developing non-core skills during PhD studies?
+What to do when a referee asks for changes I am not willing to make?
+How to support a student whose aspirations I don&#39;t support?
+Do editors ever &quot;overbook&quot; referees?
+What corrections can you make on galley proofs?
+When should academic papers be censored due to public health/safety concerns?
+How long typically are paper reviews? Is there such a thing as “too long”?
+arXiv is running out of IDs -- is their solution known?
+Asking a celebrity prof to sign a paper he/she wrote?
+What are the &#39;right questions&#39; to ask professors at a visit day for prospective graduate students?
+What to do if I can&#39;t get a visa to attend a conference that accepted my paper?
+Keeping email records when moving between posts
+Citing a Hollywood movie in a scientific paper
+Are religious invocations in academic presentations appropriate?
+What can I do if my supervisor does not publish my research results?
+How to conduct an effective regular group meeting?
+Social etiquette for interacting with PhD peers who complain *a lot*
+How to react to an angry email / argument as a third party
+How to stay motivated in a low-motivated group?
+Teaching a very small class when the students have very uneven proficiency levels
+How to respond to my name being included in acknowledgements of incorrect/misleading paper whose authors ignored my recommendations?
+Has the DeWitt Clause, which prevents researchers for publishing DB benchmarks explicitly using a DBMS name, ever been successfully defended in court?
+How should I deal with my groupmate&#39;s unprofessional behavior as a TA?
+Is an MS in computer science helpful in improving programming skills?
+How detailed should proofs be in a mathematical PhD thesis?
+Does publishing a paper with a non-edu email influence the review process?
+how useful are solo papers?
+How to balance reading the literature and just solving the problem your self?
+What do search committees really read in a CV during initial screening for a faculty position?
+Why do companies fund academic research?
+How do I not get impatient when other people ask me to describe my research?
+Doing a PhD with significant external time obligations (e.g., marriage)
+When is it appropriate to decline a review request?
+How can one successfully run a reading group?
+Publishing amateur research
+How to interview undergraduate candidates for research assistants?
+Citing sources of problems in assignments
+Choosing and training (admitted) PhD students for research
+What to do when PhD is becoming hell due to non-cooperation from supervisor?
+Should my advisor know if I am auditing unrelated courses?
+How does the experience of working at a &quot;top&quot; university differ from working at an average one?
+Romantic relationships between faculty and students
+Under what circumstances can one republish a conference paper/presentation?
+How to annotate/summarize research papers for long-term retrieval?
+Coordination of a class taught by different professors: how to be fair to the students?
+What year to use when citing second editions of books
+How to find all of the responses to a published research paper?
+What contents should I put on my academic website?
+How to get academic search engines only search in open access journals?
+Are the Hardy-Littlewood “rules” unethical?
+Prospective PhD contacts potential supervisor but receives no answer after 2-3 emails, what to do?
+How much time should I spend on reviewing
+Saving handwritten notes for future reference
+Is use of unconventional design elements or layout something frowned upon in academic context?
+How to deal with racial insensitivity in an academic environment?
+Should I tell other interviewers where else I&#39;ve interviewed?
+Is it considered a self-plagiarism to reuse (published) abstracts for talks?
+Is it ok to send an email informing about your new paper?
+How to find out the editorial times (for article review) of CS journals?
+What are good principles for creating figures?
+What percentage of STEM PhD applicants have peer-reviewed publications?
+Job search when coming up for tenure
+Good book on English for academic writing and speaking for non-native speakers
+How &quot;submitted&quot;, &quot;to appear&quot;, &quot;accepted&quot; papers are evaluated in a CV?
+Is it appropriate to email an eminent researcher in your field?
+Should I resubmit a rejected paper to the same journal?
+Etiquette when unable to attend a conference
+Mention impact factor or conference acceptance rate in CV
+Having the knowledge of a graduate student but not having the degree requirements for graduate school?
+If you have no choice, is it acceptable to translate a recommendation letter for yourself?
+Who can peer-review articles?
+Culture clashes in authorship norms
+Is providing a slow response to journal reviews a common/good strategy for minimizing the number of review requests?
+&quot;Dividing Points&quot; among cheating students
+Is it appropriate to e-mail a researcher asking about progress on a follow-up paper?
+Student Travel Grant = Volunteering; is it worth it?
+Transitioning: PhD to Postdoc and Productivity
+Do I need to define all forms of cheating in the syllabus?
+What should I do if the first author wants me to write the whole paper?
+How to preempt plagiarism accusations
+Is it considered cheating to ask a friend or tutor to proofread your thesis before submission?
+Academic home page with low maintenance burden
+References/resources on problems surrounding peer review in physics?
+What should I do as a reader if a paper misrepresented earlier papers?
+What do these mysterious numbers in the subject line of arXiv mailing list emails mean?
+How to make group work work?
+How to become a whistleblower?
+Prof disagrees with assigned textbook regarding an exam question
+How to quantify the loss in productivity due to time spent on writing proposals
+How to review a major revision of a paper?
+Why do principal investigators not hire grant writers?
+How to know when you should change what is taught during a lab classes
+Best way to politely remove someone from paper authorship who planned to contribute but did not?
+How can I thank a senior faculty who&#39;s written me a good reference which helped me land a desirable job?
+As an inexperienced/unknown recommendation letter writer, what should I do to make my letter stand out?
+Is it ever appropriate to correct a non-native teacher&#39;s English?
+How do project supervisors address the &quot;freeloading&quot; problem in group projects?
+High school student scooped by PhD student in the same lab
+A researcher that I know organizes a symposium within a strange conference and has asked me to go. What is the appropriate etiquette for declining?
+Is it acceptable to use the word &quot;trivial&quot; in lecture?
+What are the negative consequences of slacking off after attaining tenure?
+Would it be ethical for a computer science PhD student to hire an assistant (programmer)?
+Why are conference papers so important in computer science (CS)?
+How to keep plans for a job change quiet?
+Traveling with textbooks
+How to motivate speakers to give less specialized talks at a &quot;colloquium?&quot;
+How to do a good job of undergraduate advisement?
+What are the benefits of PhD students working on projects where they won&#39;t be first-author?
+Is Research Fellow a gender-neutral term?
+What are the pros and cons of being co-supervised?
+What kind of opportunities exist in the industry for someone with a Ph.D in theoretical CS?
+Advice and tools for hosting an online journal club
+Is it possible for a student in first year of Ph.D to secure funding for attending conferences?
+Priority of application materials for admission decision
+Postdoc opportunities in mathematics
+Being harassed by a department chair
+Is it acceptable to publish a paper using an affiliation with a former employer?
+What is the equivalent of the laboratory notebook in the humanities?
+How to tell what is &#39;widely accepted&#39; or &#39;consensus&#39;
+Number of potential PhD advisors at a school
+How do universities deal with loss in productivity post tenure?
+Do professors frown upon students who don&#39;t take notes?
+What are some general good principles for creating a poster for a poster session?
+How do multiple PhD scholarships combine?
+OpenOffice Vs. LibreOffice Vs. MSOffice for academic writing
+Is it ethical to pay a journal substantially to publish a paper?
+Who all are considered authors of papers written on behalf of a research group?
+What should/can I do on finding an error in a published article?
+What is the closest alternative journal to journal X?
+How to select a dissertation committee member wisely?
+How to encourage students to work more carefully and independently?
+How to approach American English vs. British English spelling in a paper?
+What is the principal investigator’s responsibility regarding data authenticity?
+Working at a Liberal Arts College in Mathematics
+How far back should one go in citing classic works?
+Is publishing papers before the evaluation of thesis a good idea?
+What are the main differences between undergraduate, master&#39;s, and doctoral theses?
+What to do if one has had an unsuccessful PhD (because of others&#39; fault)?
+How is the equal opportunity principle enforced in academic recruitment?
+Any pointers for reading articles digitally (on screen)?
+Drawing Lines when Giving Ideas to Undergraduate Students
+Unhappy with my PhD program, thinking about applying to another university
+How do you make connections to faculty outside your department?
+Students who did poorly on the final exam
+What can/should be done about journals that spam potential contributors?
+Too burnt out to continue MSc
+Should I stay in PhD program I dislike to have a shot at liberal arts teaching?
+What should be put in the final slide when preparing teaching presentations?
+Should I tell my advisor that our paper is full of mistakes?
+Advice for having children during graduate school
+How should disallowed collaboration on a freshman homework set be handled by a TA?
+Why are the registration fees for academic conferences so high?
+When suggesting referee names, where do you draw the line for conflict of interest?
+How to effectively address conflicting suggestions from reviewers
+Asking a question in SE might be considered a breach of anonymity?
+Is it acceptable to require a student to use the supervisor&#39;s preferred software/tools?
+How many faculty positions should one apply to?
+Are software engineers with PhD in demand in Academia?
+Is specifying a minimum word count beneficial for academic writing?
+How to maximise one&#39;s chances of getting a good postdoc position?
+What should a PhD student do when he receives no feedback on his work except some reviews on his papers?
+What percentage of PhD theses are rejected nowadays?
+When is it appropriate for a PhD student to discuss personal problems affecting his productivity with his advisor?
+What should you do if you don&#39;t hear anything back from editor after a whole year from first submission?
+Should I publish a given unit of work in more smaller papers or fewer larger papers?
+What suggestions should I make when reviewing a poorly written paper?
+Best way to respond to a request for CV
+Recommended rejection of a paper, but invited to review the paper again
+What are predictors of the success of PhD students?
+PhD without previous academic degree: truth or myth?
+Any place for people with fear of writing?
+How to address students who do not attend, yet want to keep up with the course?
+Can we use students&#39; class homework solution for research purpose?
+How much do Springer-Verlag authors make per book sold?
+How can I prove that I didn&#39;t plagiarize?
+Do I cite introductory material in a subject that helped me indirectly?
+Is it advisable to attend a conference in Germany with talks by German presenters in English if you don&#39;t speak German?
+Aftermath of rightfully submitting a solo paper without my advisor&#39;s name
+What is the value of a Coursera certificate?
+Requesting review of short proof by professor
+Re-using text from a grant proposal in a paper (or vice versa)
+Is a copied acknowledgements section considered plagiarism?
+Paper rejection due to being &quot;correspondence&quot;: what does it mean?
+Is there a difference between &quot;forthcoming&quot; and &quot;in press&quot;?
+How to prevent physical/psychological health side effects of workaholism in academia and research?
+What should I do when images in a publication appear to have been faked?
+I found out my master&#39;s thesis topic has already been done (exactly), and my advisor didn&#39;t mention this when suggesting it to me - how to proceed?
+How to handle students not returning borrowed equipment?
+Is it possible to restart a PhD due to issues with supervisor (and should I do it)?
+Why is a tenure defense talk necessary?
+Why would a tenure-track job posting ask for an undergraduate transcript?
+When does a statistical consultant become a co-author or collaborator?
+Are there any good strategies for conveying the true significance of the results that look obvious post factum?
+How to judge the reputation of a potential advisor or research group for good quality research for PhD?
+Does significant editing of a paper with the possibility of minor contributions to its scientific content warrant co-authorship?
+Is it appropriate/safe to ask for help on major theorem proof of my paper online?
+Who is earning money when users buy access to a research article?
+How can one differentiate between Dr. (PhD) and Dr. (MD)?
+How can I timestamp my paper without violating double-blind review?
+Is it unethical to ask for homework help on StackExchange?
+To what extent can I use the concept of &quot;God&quot; in a meteorology lecture without offending anyone?
+I submitted a paper to two journals, and the first published it, but I agreed to publish in the other; what can I do?
+How much involvement should my advisor have in deciding my availability and actions for me?
+Can a discoverer give the name he wants to his finding?
+Is it ethical for a student to edit the Wikipedia page of his advisor?
+Why do US universities have strict formatting requirements for dissertations?
+How to deal with a student who insists on getting a higher grade?
+Am I obligated to finish my post-doc term before starting my tenure-track job?
+What&#39;s the meaning of &quot;first-page-first order&quot;?
+Is it unethical to send unofficial feedback to authors of a paper which I declined to review due to conflict of interest?
+Is it permitted to cite works by members of my own family, in classwork?
+Should one offer to take over a lecture that the lecturer is struggling to teach?
+Research on relationship between how an instructor is addressed and students&#39; evaluations of that instructor?
+How accurate are published papers?
+What to do when people in a research group use different selections of programming languages for computation (e.g., Mathematica, Python, Matlab)?
+Are master&#39;s degrees in the US mostly meant to prepare you for a Ph.D?
+What&#39;s the net income of a W1/W2 german professor?
+What role do professors on a graduate student&#39;s PhD committee serve?
+How good are entrepreneurial opportunities for faculty members?
+Free ways to automatically get notified if new papers are published on ACM or IEEE?
+Interview strategies for faculty positions - to focus on their research or your own?
+PhD opportunities when lacking publications
+Good ways to multitask
+Is there any world-wide ranking of conferences/journals?
+Abbreviations in journal papers
+Applying for PhD after a poor master&#39;s
+How might changing topic affect a career in academia?
+How to prepare for the French language exam as part of PhD program?
+Is there any reason to get paper reprints of your articles? 
+Etiquette for discussing authorships, expectations, etc. with potential advisors
+Why doesn&#39;t citation of a book give specific pages?
+What is the purpose of the weekly research meetings that advisers often have with their research group?
+Can I publish parts of the Ph.D thesis as a paper in a journal?
+I&#39;d like to use a figure from a paper, what&#39;s the best way to do this?
+Which is the most accepted measure for an individual&#39;s academic productivity?
+Isn&#39;t ghostwriting reverse-plagiarism?
+Present math for non-mathematicians
+Are there some fields where having skills in a language other than English is necessary to perform research at an international level?
+My work was published and my name was nowhere to be found: how should I handle this?
+why is the impact factor of mathematical journals &quot;often&quot; lower than the impact factor of journals in other disciplines
+What is a &quot;TV-L 13&quot; position?
+Is it appropriate to bring coffee and cookies to a PhD defense?
+What to do with negative research outcomes (results) of PhD research experiment?
+What tense should paper titles use?
+Do extracurricular research/activities in graduate school negatively affect your future?
+How much time before (possible) effect of US sequester is felt on grant funding?
+Worry about stealing of research ideas
+What is the etiquette about the length of a visit when giving departmental seminars?
+If I publish under a pseudonym, can I still take credit for my work?
+What is a &quot;diploma mill&quot;?
+How is a new academic journal born?
+Is it acceptable to decline to review a paper due to lack of familiarity?
+Bad departmental funding, when do you leave the ship?
+What does &quot;Publish or perish&quot; really mean?
+How to motivate a student to attempt solving tough questions?
+Add acknowledgments and self citations to paper only after the blind review?
+Why become a journal editor?
+Mentor trying to be first author?
+Is it advisable to upload theses to the arXiv?
+How can I cite same reference in two successive sentences?
+Can I get a PhD online?
+How do I tactfully tell my advisor (who&#39;s much busier than I am) that I&#39;m too busy to do such-and-such?
+Should bad prior work be ignored, or cited and criticised?
+Hiring a faculty consultant
+How to handle a PI who constantly threatens to kick me out of their lab?
+As a dissertation advisor, how can I best help a &quot;typical&quot; graduate student?
+Elsevier actions following US sanctions on Iran
+Dangers of allowing students to resubmit assignments
+How will the 2013 US government shutdown affect NSF postdoc applications?
+Can a referee request a paper referenced in the reviewed paper?
+If I refereed a paper at one journal (and it was rejected) should I referee it again when it&#39;s sent to another journal?
+Visualization tool for paper citations
+Distance learning: taken seriously?
+Soliciting pre-submission manuscript comments from people who could later be peer reviewers
+Is it rude to request a book chapter from the academic who wrote it if you don&#39;t want to buy the entire textbook?
+How does Microsoft Academic Search generate its rankings?
+How do you deal with trolling students?
+I have a degree but it isn&#39;t actually what it looks like it is. How do I list it on my CV?
+If I write a really bad, but controversial, paper, can I increase my h-index?
+Is it good practice to let students consult their text materials during exams?
+Dislike PhD project
+Writing a letter of recommendation as a graduate student
+How to reply to reviewers on an unintentional wrong proof in my research paper?
+Why would a top department hire a less experienced researcher for a tenure-track position?
+How ambitious should one be in picking a journal to submit to?
+Abandoning vs. further pursuing a rejected paper?
+Would it be considered cheating to ask for homework help on the internet, if I openly acknowledge the help received?
+What are the impacts on learning of allowing students to eat in class?
+Is there a conflict of interest when the supervisor and co-supervisor are husband and wife?
+Why do US flagship state universities vary so much in quality?
+What should I do if a student has already done all the work for my course elsewhere?
+How to react to flawed preprints?
+Is it a good idea to get involved with journals as an associate editor prior to getting tenure?
+How to make a paper completely anonymous for reviewers?
+University advocates for students facing academic misconduct charges
+What is the value of journal publications outside academia?
+What are the benefits of organizing a conference?
+Is it appropriate to reply every time to a professor&#39;s &quot;thank you&quot; email?
+Why are tuition fees for PhD students so high in the USA, despite not taking any class?
+Reference on abuse of stimulant medications among professors to enhance academic performance?
+Is it legal and ethical to post my notes of a conference I am attending on my website?
+How to make leaving a PhD program seem like a positive thing on a resume
+Is it ethically questionable for me (an undergraduate) to hire &quot;research assistants&quot;?
+Should you thank helpful referees in the acknowledgements section of a paper?
+Is it a good idea for a nonnative English speaker to have native speakers help make the English in statement of purpose perfect?
+A theorem exists in a book but not in a journal - is this considered as a publication?
+What academic functions does a Professor Emeritus usually serve?
+Why do editors sometimes accept a paper even if a reviewer recommends rejection?
+How can editors and reviewers detect data manipulation?
+When are professors most free during a semester?
+What makes a didactically effective lecture?
+Who can submit papers to peer-reviewed journals?
+Advantages to article submission in LaTeX from the publisher&#39;s side
+Should I offer to pay (some of) the travel cost from the UK to the US for an interview?
+How much decision time is given for tenure-track offers
+How damaging are writing errors like typos in faculty application documents?
+How to handle relevant, but disruptive, questions
+What research shows how assessment design can minimize plagiarism?
+Should I omit some of my qualifications in my application materials to &quot;surprise&quot; with during an interview?
+Can a professor refuse to introduce any textbook for a course?
+Do research-only postdocs harm chances for tenure-track opportunities?
+How to deal with graduate school rejection and overall academic failure?
+Amusing remarks in papers
+How would one fail a master thesis defense?
+Should I apply for a PhD position with required programming skills which I do not have?
+Developing meta-cognitive and emotional skills during PhD?
+Is there such thing as &quot;paper dump conference&quot;? If yes, what actually is it?
+How should you refer to yourself in a paper?
+Is there any way to only do research after getting a Ph.D.?
+What journals do not allow open access to published material?
+Should I take courses that are not directly part of my research topic?
+What are the most important criteria to consider when hiring postdocs for a research group?
+How early should a graduate student begin their job search?
+How to format for a useful journal club?
+What style questions should I ask potential graduate students interviewing for positions in my lab?
+Is it possible to work on extra activities (start-up project) during PhD?
+Keeping advisees aware of literature
+Why do universities place a weight on GRE/TOEFL scores?
+What&#39;s the etiquette for a short visit to a US university department?
+Advice/guidance when interviewing for a faculty or postdoc job via Skype or phone?
+Do presentations given during interviews count as invited talks?
+Use cases of org-mode as a scientific productivity tool for academics without programming needs
+For publications, what do I do when my first name is abbreviated?
+Do PhD programs care about the personalities of applicants?
+Attending university as an adult freshman
+Can I cite a URL only instead of author, title, etc. in a research paper?
+How to archive an academic blog or website?
+Guidelines to follow if my adviser suggests that I work on dead-end projects
+Can I reuse part of a paper for my thesis?
+Should we reply to the editor after a paper has been rejected and we don&#39;t plan to revise/resubmit?
+What&#39;s the correct way to cite a paper cited by another paper?
+Different CV for university position and research industry position?
+What references must be acknowledged in a paper?
+How to deal with constant pressure given by advisor
+How much overlap is permitted between a submitted journal article and a thesis?
+How does one maintain academic contacts?
+As a student, how much time should I spend helping other students with research?
+How should a PhD student approach a collaboration?
+Graduate early with average GPA, or later with better GPA?
+What to do if asked to write a letter of recommendation for a weak candidate?
+How to ensure proper peer-review for a self-published book?
+How can I stay active in academia from an industry position?
+Experiences with Scientific Research Publishing (SCIRP) journals
+How can I protect my loose leaf textbooks?
+What are the pros and cons in sending a research paper to well-known author, before publishing?
+What are some reasons to get (or not get) a PhD?
+Is a thesis a publication?
+How can a PhD student enlarge his academic collaboration network?
+Why use unique digital researcher ID?
+How much customization of letters of recommendation is necessary?
+How to contact a potential PostDoc advisor?
+How does one keep herself updated with new research without forgetting older results?
+How to deal with a student found seeking an answer to a coursework question online?
+I attended a poorly ranked school for my undergraduate education. Will this affect my chances for a PhD in economics?
+When does a paid research assistant become a co-author?
+Tips for making online presentation over Skype
+How do researchers from different institutions collaborate?
+How Long Should a Professor Stay?
+Teaching someone who doesn&#39;t put much effort in
+Wrong article submission
+How to deal with advisor not allocating time to me?
+What do you do when you find yourselves with an unreadable/inaccessible paper?
+How do you thematically include accidental findings (&quot;serendipity&quot;) in a dissertation or paper?
+What&#39;s the point of visiting students?
+Should I include a reference for an image that is released into the public domain?
+What versions of a paper do I still hold rights to?
+Non academic career options for PhD in Math
+Is teaching calculus important for getting a job as a university professor in mathematics?
+Is it a bad idea to submit a paper merely to elicit reviewers&#39; comments?
+Do non-academic extra curricular activities matter for grad school applications?
+Professor withholding course grade until submission of conference paper
+Strategy for submission of articles to highly ranked journals
+Good, neutral source for ISBN linking? (on citing books)
+How frequently can you ask for a personal reference without being disrespectful?
+Keeping marking unbiased when work is not submitted anonymously
+Getting in between another teacher and his student
+Publishing in one vs. many journals
+Is it illegal to share publications not in the public domain with collaborators?
+How do you comment on rapid improvement in a student&#39;s performance?
+How much background material should a mathematical research paper include?
+Should an assistant professor negotiate for a larger yearly raise before receiving tenure?
+Talks vs. poster presentations
+What is exactly the role of a phd advisor?
+The nightmare of being an independent researcher
+What happens if the editor cannot find reviewers?
+How to verify authenticity of submitted assignments
+Are there any online tools to calculate academic collaboration distance (i.e. a generalisation of the Erdős number)?
+Who to address on the cover letter?
+Who do I email about a question on a paper?
+Emphasizing in paper: italic or bold?
+Potential disadvantages of a math postdoc in Europe vs US
+What does it mean to be on a short list?
+Writing letters of recommendation for more than one student to the same department
+How to improve my English from Academic papers?
+Having a lot of papers published in unimportant conferences VS very few in good ones?
+After initial contact, how long should I address a professor as &quot;Dr. Smith&quot; or &quot;Professor Smith&quot;?
+Is there any reason to not make course details public?
+Difference between private and public universities as a faculty member?
+My supervisor plagiarised my bachelor thesis: what can I do about it?
+Is It a Common Practice to Contact the Reviewers?
+Non-English literature: should we check for prior work?
+Are Mathematics graduate programs open to admitting a student out of high school with graduate work?
+How to state that you “rigorified” an existing paper without sounding arrogant or condescending?
+Will people think negatively of owning a nice car in grad school?
+How long is too long to wait for a rejection because of a lack of reviewers?
+Longer PhD with a deeper result vs a shorter PhD with a sufficient result
+Will taking a post-doc position harm my future chances in industry?
+Personal advantages of being a referee once you quit science?
+How to tell my advisor I am leaving the PhD program, when he is the reason I&#39;m leaving?
+Is it bad for one&#39;s future career prospects if the PhD thesis topic is broad?
+How to motivate students to complete low-point homework?
+Why do some papers not have a DOI?
+How does one go about doing a Ph.D. in Europe as an American?
+Is it ethical to approach a professor asking for a (unadvertised) postdoc position?
+Paper rejection based on unfair review
+Does becoming good at scientific research force one to become one dimensional?
+Is it best to avoid all interactions with disreputable or predatory conferences?
+How can I make my research sound exciting?
+Things to focus on in a model lesson
+Is it okay to ask a professor if he is going to attend a certain conference
+How to find credible sources for a general reference?
+How to correct a fundamental error in a series of papers made by a colleague of your adviser?
+How to decide whether a mistake is sufficiently relevant to publish about it?
+Should I write a peer-review in third person?
+Is it acceptable to ask a professor who is not your supervisor to provide comments on your thesis draft?
+Is it normal to have no publications after 2.5 years in a PhD program?
+In which countries are academic salaries published?
+What is the etiquette for repeatedly emailing questions to an author whose work I&#39;m building on?
+Do mathematics researchers regularly solve problems like the ones from Project Euler?
+Should I cite all R packages I used?
+When and why should you write numbers less than 10 in words?
+How to treat an under-performing coauthor?
+What is (S’73-M’76-SM’81-F’87) in author biography?
+What are the pros and cons of being a Mathematical Reviews&#39; reviewer?
+What is the maximum depth of subchapters one should use in a paper?
+Is it considered plagiarism for a professor to use uncited sources in teaching materials?
+How to respond to “philosophical” questions that aim to undermine a positions or derail a discussion?
+How to prevent calluses from writing on chalkboard?
+Do all countries have the same gender segregation in science?
+Failing postdoc?
+Quantity vs Quality of Publication during PhD
+What kind of design freedom can you permit yourself in academic writing?
+How do academics find time to write books?
+How should I fill the &quot;First name&quot; and &quot;Last name&quot; in an application if I have two given names and two last names?
+Are there any downsides to sharing a successful proposal with others?
+Professor/supervisor switches from writing emails in his native and local language to English - how to react?
+Can I call an assistant professor &quot;Professor&quot;?
+Is it plagiarism to paraphrase multiple sections?
+Should professors with Chinese names be addressed with surname only or both names?
+In the UK is it acceptable for a lecturer/professor to join student societies?
+Did you usually solve exercises in a theoretical reference book when doing research?
+How can I show local universities that I am someone they will want to hire in a few years?
+Why and how do professors go for sabbatical?
+Does publishing a book while employed for an academic institution grant legal claim on the royalties?
+Usefulness of graduate school extracurriculars
+How can I find out which universities allow a sandwich (stapler) PhD thesis?
+How many weeks of break (per year) should a graduate student reasonably expect to have?
+Subtle (and not-so-subtle) humor in scientific literature
+How do you make corrections to a published paper?
+Ways to manage something like a &#39;work-life balance&#39;?
+How should an educational institute woo good faculty?
+How to take advantage of scientific international association membership for career?
+How to increase the odds of becoming an invited speaker at science conferences?
+In universities, how to team up with your colleagues?
+Advantages and disadvantages of doing PhD research at a non-academic lab
+Are reviewers allowed to discuss their review with each other?
+Is it rude to ask for accommodations due to a learning disability?
+What are the trade-offs of working in the office versus elsewhere (as a professor)?
+How many applications are usually received for a given PhD position?
+Useful software resources for reviewing papers
+From whom do I get references when my original advisor leaves academia?
+What is the likelihood of getting tenure?
+Pros and cons on commenting on public review papers
+Good resource/advice on mentoring undergrads
+Are pay announcements worth their price to hire people?
+How does one issue a call for papers on military history?
+Are PhD scholarships and assistantships taxable?
+Why are some sources cited twice in a bibliography, once with DOI and once with arXiv?
+During an application/interview should an applicant justify leaving a current faculty position (pre-tenure)?
+Publishing DOIs instead of traditional references?
+What is the average number of articles written per author in a year and has it increased recently?
+Are academic book buyers legitimate?
+Are books and professional society memberships allowable expenses under US federal grants?
+Easy way to see historical trend in keywords in publications?
+What do co-supervisors get out of a PhD?
+Reproducing figures in blog/SE posts
+Military usage of scientific work
+How successful are publication agreement addenda?
+Is MDPI a reputable Academic Publisher?
+Handling credit with advisor
+Research statement ideas got used by interviewing committee
+How much info should I put in my CV under education
+Should I send email to my former supervisor
+What should I do if I find two suspiciously similar published articles?
+What should someone who has been rejected from all PhD programs do to improve their application for later admissions cycles?
+How should I cite something learned second-hand (eg, from Wikipedia) when I haven&#39;t seen the primary source?
+Are reviewers supposed to know each others&#39; identity, after the reviewing process is finished?
+Will self funding a PhD hurt employment chances?
+How to submit &#39;teaching evaluations&#39; for a job application?
+What is an academic sabbatical?
+Very demanding adviser
+How does the acceptance rate affect papers decisions?
+How to add citation for a whole paragraph?
+How should &#39;van&#39;-names be ordered in a bibliography?
+The differences between AMS research journals
+How to replicate others&#39; results quickly?
+Reproducible research and corporate identity
+How much detail to include for an award listed on a CV
+Math Professors -- On average, how many hours per week do you think is required to gain tenure?
+How tightly enforced are open-access embargoes?
+When should I write a thank you letter to the author of a scholarly paper?
+Worth attending discipline&#39;s national conference as early grad student if not presenting?
+What are your thoughts on epigraphs in theses?
+What to say to one PhD offer when still waiting to hear the result of a different and preferred PhD application?
+PhD programme without teaching
+Should I supply code along with my paper submission?
+Advisor&#39;s wife is having a baby, should we be getting him something?
+How to deal with &quot;too descriptive&quot; comment in dissertation proposal feedback?
+Academic dismissal from PhD program. What next?
+Will a graduate student publishing in different disciplines confuse potential employers?
+Competition with your advisor?
+Why do graduate school application forms ask applicants to name the other schools to which he/she is applying?
+How should I start my own private post-doc research project?
+Potential Post-Doc supervisor visit: should I give a talk or just have a meeting?
+Eagle Scout rank on CV?
+Gaps between PhD and employment?
+Accepted post-doc and have subsequently received offers for full time faculty position - quandary
+Ethics of spending research money on food and meetings
+How can I find the original article of an often-plagiarised work?
+Is it legal for a university to post a copy of a copyrighted (pay for access) journal article?
+How do I convince my professor to keep me as his student?
+Hosting a graduate student on a campus visit
+Returning to academia after a year in industry
+First-year PhD student with weak CV/Resume; how to stand out in fellowship competitions?
+What happens if your manuscript is accepted as a filler?
+Tattoos in the Workplace
+Is it OK for an MSc Student to Review a Scientific Paper?
+Does using complex mathematical notation detract the reader from a paper?
+Do goofs in a recommendation letter hurt a student applying for grad school?
+Am I obliged to share my most promising data?
+How to find an arXiv endorser
+As a student, how should I ask a professor for an opportunity to do research with them?
+Can I ask a postdoc who has closely supervised my research to write me a letter of recommendation?
+what do you do if your PhD advisor publishes a solo paper on your topic?
+What should I do if I cannot reproduce experimental published results
+Name misspelled in first publication
+Reviewer asked to move every mathematical proof to appendices for an engineering journal
+Is it advisable to have many clickable hyperlinks in an academic CV?
+Should you mention previous rejections when resubmitting a paper? What is common practice?
+Is it permissible to request a new reviewing editor?
+Are extended periods of unpaid leave compatible with an academic career?
+Advice wanted concerning students who have had run ins with the law.
+Paper with lots of Greek letters
+Is it generally worth the time and effort to challenge incorrect exam test items?
+Can human subjects be paid using a researcher&#39;s personal funds?
+Should one put their Master&#39;s thesis online?
+when sharing source code to more than one party, should I notify them that others also were interested
+Publishing in the lower quartile journals: better than nothing?
+Interpretation of &quot;GRE subject test is required, but your application will be considered anyway&quot;
+How can/should I indicate that it&#39;s okay to use open access content in a paper?
+Should I challenge the GRE requirement for a doctoral program in education (in the U.S.)?
+How to reduce student plagiarism?
+What should I do if I don&#39;t know the answer to a question posed by a student?
+From whom do prospective grad students get recommendation letters?
+A potential PhD supervisor declined to accept me as a student; can I ask a second time?
+What are the repercussions of a &quot;vote of no confidence&quot; made by faculty?
+Do I need to wait for a journal to &quot;consent&quot; to paper withdrawal before submitting elsewhere?
+Word limit for paper after addressing reviewer&#39;s comments
+Can a successful grant application be considered a publication in academia?
+Should I anglicise foreign names of people/places/organizations in my research?
+Do tenured professors work less or more than non-trenured professors?
+Is it unprofessional to use graphics from Wikipedia in a poster?
+Crippling anxiety when writing &quot;grant applications&quot;
+How to deal with coauthors that have left academia
+What&#39;s behind the teen prodigies inventing things?
+What is a soft-money research position?
+How to calibrate the time constraint of an exam for a new course?
+How do I express my disapproval of a marking boycott without damaging relationship with academics?
+How to say “thank you” to a professor who has written a recommendation letter for me?
+Is it cheating to use solutions to identical problems from other universities to do my homework?
+If I use most of the references from a thesis but not the exact same sentences, is it plagiarism?
+During applications, how can I prove I was the first author of the papers that I couldn&#39;t become first author for various reasons?
+What do I do if my results are not ready before a conference?
+Protocol for writing a recommendation letter for someone you only know on a personal basis
+Clear colormap for figures when printed?
+What unforeseen dangers might exist when choosing an open access textbook for a new subject?
+How to foster gender diversity as an organizer
+Steps for creating a scientific journal
+Can an emotional letter of motivation be harmful in a PhD application?
+Who Owns the Publishing Rights of my Ph.D. Thesis?
+Running out of Algebraic Symbols
+How to decide the appropriate level of explanation for math in academic papers?
+How to prevent too many students from making appointments to meet with you when you put &quot;Office Hours: ..., or by appointment&quot; on the syllabus?
+Are US PhD admission offers binding?
+Ethics of not referencing StackExchange in a publication?
+Is the status of conference publications in Computer Science really absolutely unique?
+Best practices when hosting visiting speaker (especially with the questions part of their talk)
+How should I handle students who ask questions that are &quot;beyond the scope of the course&quot; as a TA
+How to build bridges between mathematicians, computer scientists and biologists?
+As a Ph.D. advisor, how do you feel about taking on students with diagnosed depression or bipolar disorder?
+How to refer to an author whose last name can be confused with a pronoun?
+Submitting a subset of my work to ArXiv
+Balancing coursework, research, and teaching
+Changing mailing and e-mail addresses as corresponding author--which to include?
+PhD in pure mathematics for a student in computer science
+Advisor asking me to work on research not covered by my grant
+Does Pop-Science involvement hurt one&#39;s reputation?
+How important are teaching portfolios in obtaining an academic position?
+How to make a presentation that includes math symbols?
+How much guidance should I reasonably expect from an MSc Thesis Supervisor
+What types of industry positions favor PhD over a masters?
+Historical data for success rate of grant/project applications?
+Who determines whether or not a professor receives tenure?
+Non competitive grading system
+At what point do you decide to jump into research?
+How should students approach quals?
+Should undergraduate students be included on papers containing data they collected?
+Research in &quot;Research Engineering&quot;
+Affiliation for a retiree
+Ph.D. adviser or Ph.D. advisor?
+Who can see a student&#39;s grades?
+Motivating students when teaching a widely disliked course
+What are the advantages and disadvantages of having multiple advisers?
+How to indicate shifting research interests on a CV or a website?
+Why don&#39;t professors start companies?
+arXiv preprint and final paper differing by sections and appendices
+Should writers give credit to reference librarians?
+When does one go for an invited paper?
+Etiquette for establishing contact with multiple professors for PhD guidance
+Research on strategies for student recruitment
+Learning/Reviewing New Material Quickly
+Tuning the PhD journey for Industry jobs
+Having preferred and non-preferred reviewers in journal submissions
+When should an author retract their paper as a result of misinterpreted results?
+Is it safe to post my CV online?
+Should one include irrelevant background on CV after career change?
+How to interview a candidate for a university teaching position?
+Why is the date left out of some academic papers?
+Do high-profile journals edit authors’ figures?
+How should one respond to &#39;Call for Paper&#39; e-mails?
+Can &quot;Feel free to contact me if you are interested in a copy of any of my publications.&quot; cause legal issues?
+Why would one choose a particular advisor, other than having shared interests?
+Can I present the results of a paper that is currently under review?
+Is it important to list the merits of a research paper?
+Should I write a recommendation letter for a student at a previous job/institution?
+What systems are most effective for monitoring student attendance?
+How to address the person being recommended in a recommendation letter?
+Replacing tech reports: can we put good undergrad dissertations in arxiv?
+How to skim through Phd Theses
+Refer to arxiv version?
+Are overlapping dissertations ethically acceptable?
+Must a master&#39;s thesis fall within one&#39;s advisor&#39;s area of expertise?
+What to do when PhD advisor wants student to work on two disjoint projects?
+Master student pursuing PHD: how to spend summer break?
+Why should the scientific community avoid double submissions?
+Article &quot;communicated by&quot;
+How to avoid identifying myself in a review?
+What does a PhD Committee do?
+Whom to discuss research papers with?
+Statement of Purpose in Graduate School Application
+Why do many recent open access “mega-journals” only cover biological sciences?
+What resources do you use when developing a new course from scratch?
+Why do some reviewers mention their decision explicitly?
+How to write a white paper for a non-academic?
+Is it acceptable to email the authors of a paper for the slides they used while presenting it in the conference?
+How to Scale or Curve the Grades for an Examination?
+writing a research statement
+How much does the impact factor vary from year to year?
+Are employments in universities affiliated (or named) with a specific religion restricted to people with the same religion?
+Citing/Attaching unpublished papers in a Research Statement/Profile for a faculty job
+Graduate school and students with learning disabilities
+How to use competitions to encourage students to work harder and study more
+How can I invite open comments or reviews of my published papers?
+When can I safely use CC-BY license on arXiv?
+Is it ethical for an author to cite their own work with themselves as first author when they are not first author?
+What are the reasons for journals to have a policy against publishing material available as a preprint?
+Path to a good grad school?
+How to cite lecture notes? (and should I even do this?)
+Should I tell my supervisor that I will consult someone else?
+Changing affiliation on publication
+Should a undergraduate rely on PhD students to publish papers or do it individually?
+Is it okay for a PhD supervisor to claim co-authorship... even if it&#39;s my work, and he didn&#39;t ask?
+How to write a Ph.D. thesis Introduction chapter?
+Should I simultaneously apply for multiple jobs in different ranks at the same university?
+Not being a first author diminishes the contribution of co-authors?
+Appropriate response to sexual misconduct &#39;joke&#39; made against an academic
+Has anyone heard of the &quot;Central Library of Medicine Foundation&quot;?
+How to deal with a procrastinating (student) collaborator?
+Why are recommendation letters highly relied upon?
+How do I change schools/advisors without making my advisor angry?
+Is grad school typically time-intensive?
+Is including an own paper in the literature review a bad practice?
+Reapplying for a PhD position at another institute after failing the qualifying exam
+How should I use a laptop in class without distracting others?
+Can I cite an unpublished Master Thesis?
+Are spelling issues part of the reviewer&#39;s job?
+What do we know about working times of great living scientists?
+Is it ethical to seek a PhD program if you suspect you may want only a Masters?
+What are the super cool tricks to getting published in high impact journals?
+How often is a bad review from the reviewers due to the potential competition with your work?
+Is there such a thing called native speaker bias when publishing?
+How to get letter of recommendation from current advisor if transferring PhD to another university for family reasons?
+Are there opportunities to support cancer research through volunteer IT or software development?
+How can I assess the quality of a paper outside my field?
+Issues with PhD qualifying exam fairness and transparency; Objective opinions wanted
+Do US universities still use imperial units in teaching?
+Do Springer, IEEE, Elsevier charge a fee for non-open-access journals?
+How to prove receipt/no receipt of work?
+I believe my advisor doesn&#39;t think I am smart. How should I deal with this?
+In a faculty job search, when and how should I reveal my preferences?
+How to explain to my boss where not to publish?
+Why did my professor criticize my performance indirectly?
+What rate of faculty turnover is healthy?
+How much is submission acceptance to high-profile conferences influenced by internal politics?
+If I cannot get sufficient recommendation letters, what can I do?
+Is it ethical for the postdoc to be listed as a co-author and the corresponding author on all group publications?
+Do the author&#39;s name and/or affiliation affect the visibility of a paper?
+How to start an academic career after 5-6 years in industry, without an undergraduate degree?
+Is my career over if thesis went bad?
+Is it normal for math grad students to be required to take summer classes to work?
+How much time is usually left for authors to return page proofs? What happens if I am late?
+Is a business card necessary for a graduate student?
+How to engage in discussion after a presentation on an unfamiliar topic?
+Is it a bad idea to express my personal feelings about the subject when writing email to a professor for PhD application?
+How important is advisor&#39;s supervision for a Ph.D. student to be an independent researcher?
+How can I tell if an honor society is legitimate?
+Is being a good teacher a bad thing at a research intensive university?
+What skills can I get during a PhD to be competitive on the job market against non-PhD holders?
+Variation in drop dates, and effect on student outcomes
+How do international PhD students typically obtain health insurance in the United States?
+Does translating an article for a magazine require permission from the author?
+Is it unwise to repeat portions of a successful grant proposal?
+Is it appropriate to ask for letters of recommendation from professor on maternity leave?
+How will expulsion for physical abuse and sexual misconduct affect a student&#39;s future educational career?
+How much can/should quotes from student evaluations be edited when preparing a teaching statement?
+How many papers should I be reviewing as a referee?
+How to explain a life as a researcher to friends, family and partners who aren&#39;t?
+Is the development of an original/novel method a contribution to knowledge worthy of a PhD?
+Will a recommendation letter such as that written for John F. Nash be convincing?
+Should I write &quot;we&quot; or &quot;I&quot; in my research statement?
+Is a second PhD ever necessary?
+Transitioning from pure research to a teaching position
+When do you ask a professor if a visitor can sit in on class?
+Is it crass to acknowledge a colleague that passed away in my thesis?
+Getting a scientific article published with no qualifications to any scientific journal?
+Should I dress up for conference banquet/gala dinner?
+Is it acceptable to submit more than one papers to a conference?
+How often do authors actually perform and publish the work they indicate as the future work they plan to undertake in a publication?
+Is it advisable to have a master or PhD thesis topic in mind before entering graduate school?
+What are the key components of being an effective supervisor of undergraduate researchers?
+Is it legal (USA) and ethical to use international edition textbooks? When I pay for a textbook, where does the money go?
+How much duplication is permissible in letters of recommendation?
+Parole, criminal history, and graduate admissions
+What&#39;s the benefit of delaying a tenure-track position for doing a postdoc (when you already have a tenure-track offer)?
+What is the significance of the overview slide in a presentation?
+Research on career path after tenure denial?
+What is the best way to solicit teaching feedback from students (before the class is over)?
+What education does one need to be called &quot;Professor&quot; in the United States of America?
+Are there ethical guidelines prohibiting penalties against potential research subjects who have not yet provided consent?
+Is there evidence that open source research software produces more uptake of methods?
+Should I notify people I mention in the acknowledgements section?
+Getting a dump of arXiv metadata
+How should one handle peers, competition and other social pressure while studying theoretical CS/Maths?
+Professor wants to expropriate submitted code for commercial use
+What to do if professor comments on candidate&#39;s age in an admissions interview?
+How do people in academia know whether their research, result, theorem or thesis is original work?
+Are you allowed to copy text from your Master&#39;s thesis into your PhD thesis?
+Is it common for people in academia to experience prolonged lack of sleep and how to deal with it?
+One of the coauthors withdraws their authorship after submitting a paper
+PhD requires technology - is this something I will have to fund?
+Academic salaries at European universities
+What are the common productivity measures of a scientist, like h-index?
+What is the difference between Ph. D programs with coursework and those without it?
+Conference vs Congress vs Symposium vs Meeting
+Difference between reference/recommendation
+What is the typical time period after which an incoming grad student is expected to start publishing?
+Timing an internship during PhD
+Should I be truthful about graduate school rejections?
+How can a master student get research opportunities?
+Does and don&#39;ts when writing a Rebuttal for a Conference
+Considerations when negotiating a promotion from postdoc to researcher?
+How much do soft skills matter for admission decision?
+What is the usual role of a faculty senate? Does it typically have any real power, or is it a rubber-stamp for the administrators?
+Scientific hackathons or other intense voluntary bottom-up events
+How useful is it to perform a systematic literature review?
+What are some guidelines to keep in mind when selecting members of one&#39;s PhD committee?
+How do academic position job search committees evaluate potential for intellectual leadership?
+Should r&#233;sum&#233;s be attached in a mail to a professor?
+How intensive is the process of interviewing people for faculty openings?
+Why do Math journals provide you with LaTeX class files and instructions and they also advise you not to spend time typesetting the paper?
+Etiquette for seeking collaboration via E-Mail?
+Translating/Transliterating foreign bibliography references
+Who holds intellectual property rights on a thesis?
+Should I respond to emails (resembling spams) asking for my papers?
+Conflict declaration in reviews
+How to learn how to pronounce and remember names of Chinese students?
+Were there changes in approaches to undergraduate education in the 1970s or 1980s?
+How to &quot;cultivate&quot; a postdoc position during PhD program?
+How do you ask for a raise?
+How much of advantage do US citizens have in American academia?
+How to find response time for a given journal in engineering?
+Acknowledging funding
+How to ask someone (outside the department) to be on the thesis committee
+Ethics of a journal requiring that submissions cite existing articles in the journal
+How to introduce myself briefly in a get together for new faculty members?
+Is an emphasis on &quot;novelty&quot; necessary in academic papers?
+What is a committee looking for in a dissertation proposal?
+Are there any mobile application for conference attendees?
+Is it hard to start a PhD programme after leaving to work in industry?
+How to review a paper for originality?
+How should I credit co-authors of a paper in conference proceedings I prepared myself?
+How should a postdoc address senior research staff and faculty members in the USA?
+Referee access to a not-yet-public URL cited in a paper?
+How to effectively supervise grad student calculus teaching assistants (TAs)?
+Is it reasonable to cite published computational results rather than reproduce them yourself?
+What to do when you find someone else is working on the same masters research
+How should an academic negotiate his/her salary?
+Differences in quality between a PhD with graduate course work, and one purely on research?
+Sending a paper to a &#39;Letters&#39; journal
+Extending a result submitted to a conference before acceptance/rejection notification
+What are the long-term advantages of a US PhD compared to Europe/Oceania?
+Is there an advantage of branching in version-controlled paper writing?
+How to withdraw from an application process in a polite manner?
+Internships for PhD students (e.g. in data science or programming)
+Is pseudonymous publication ethical?
+PhD application asking what other insitution I am applying to, how to answer?
+Appropriate to thank examiners?
+Do journal editors disallow paper from college X to be reviewed by someone from college X?
+How should course content be shared between instructors?
+How to handle multiple versions of a paper (e.g. conference and journal version)
+Why do citation styles for webpages include accessed date?
+To ask for a PostDoc position in the university X, is better to do it by myself or to ask to my supervisor?
+How do I get recommendation letters?
+Unable to defend and graduate because of advisers fickle mentality
+How to formalise the &quot;extra-mile&quot; work done by an academic?
+How long does it take for a recruiting process to finish?
+How important is a online reputation for academics?
+How to physically handle hundreds and hundreds of papers
+What proportion of papers submitted to Nature are actually sent for review?
+Ownership of the code
+When has an unemployed post-doc refereed enough papers to decline another?
+How to quote a passage with a punctuation error?
+Grading system: Why A-F and not E?
+Can I publish a critique of an experiment in a field in which I am not an expert?
+Giving back to alma mater
+How specialised should research prior to tenure be?
+What should be included in a departmental email policy?
+What are the benefits for universities/professors to record online courses?
+Is the practice of lab members extensively citing each other&#39;s work looked down upon in academia?
+Should I add descriptions of courses taught on my CV
+Finishing a PhD or quitting and taking a job in industry
+Overcoming nerves from anticipating conference questions
+Are there any studies on how lecturer review sites such as Rate Your Lecturer affect student choices?
+Is it better to have a single-author paper or a joint-authored paper?
+When is a good time (during graduate studies) to start thinking about writing the thesis?
+Is it plagiarism to copy formulations from others?
+Teaching uninterested/under-engaged students in science courses
+What if a faculty member is not successful in obtaining the summer salary from a funding agency?
+Do Australian academic jobs have similar tenure track policies as USA?
+How to convince people of the time required to perform PhD research?
+Does a student need official permission to publish an independent research article with university affiliation?
+Is it unethical to submit for review multiple articles which overlap in some respect?
+Is it bad etiquette to come to office hours that aren&#39;t for your particular class?
+What stops an assistant/associate professor with a strong publication record from being promoted?
+How to avoid the repetition of &quot;I&quot; while writing a cover letter for an academic job?
+Map (tree) of citations/references
+MS degree after a PhD in physics
+Frustration with lectures
+How to write a good PhD literature review?
+Not sure if grad school was the right choice
+What can a biostatistician do to earn money on the side?
+As a reviewer, how much raw data or code should you request?
+Time short on thesis defense preperation
+Responsibilities of instructors to students when teaching controversial subjects
+What do I do when a co-author takes too long to give feedback during the peer review process?
+Are hyperlinks allowed in a Statement of Purpose?
+A year + for first review, one referee report in, want to withdraw paper
+What to do when a thesis adviser refuses to recommend me?
+My advisor tried to find my faults and kick me out of the research?
+Had the idea vs. did the work: Who should be the lead author?
+Why do academics publish?
+Do hiring committees strategize?
+What to use instead of academic &#39;we&#39; when describing an experiment?
+Should I work an the advisor I &quot;click with&quot; or an advisor at a higher-ranked institution?
+How to balance academic reputation of PhD supervisor and teaching experience
+How to handle not being credited for research software development in papers?
+What do I do if I feel there are many things which need to be learnt to do my research?
+Recommendation letter from a research adviser who is expelled from the university
+Is it normal to submit an abstract to a conference when the research is NOT completed?
+Why is college tuition high, but academic salaries low?
+Licence that converts to GPL after publication but is copyrighted prior to publication
+Non-EU PhD title in Germany
+Is it possible to make leaving a PhD look good on a CV / Resume?
+Keeping credit for my work
+Are single author publications given more weight in math hiring?
+Are papers entirely unrelated to my field going to hurt my chances in the future?
+Evaluating and negotiating a start-up package
+Pros and cons of (co-)authoring a reference book in early career?
+Color space for papers: CMYK or RGB?
+Good questions for post-class survey
+American universities - where does all the money go?
+How to approach potential advisor who&#39;s going on sabbatical?
+What time of day should I schedule my thesis defense?
+What is a &quot;graduate school&quot;?
+What can I do if I am constantly invited as a reviewer, but don&#39;t have the time?
+Should I put my supervisor as coauthor of a paper?
+Signed up for conference, having second thoughts
+Is it formal to inform readers that a point will be discussed later in the chapter?
+H-1B Visa Sponsorship by Universities
+Is open-plan office for academia at all?
+Is there a university that has only graduate programs?
+How to get an advisor to finish their part of a publication when they have not done anything on it for over a year?
+How to write a teaching statement without any classroom teaching experience?
+A question in the future research section - is it considered appropriate to write a paper on it?
+Grant from private company - conflict of interest
+What should I do if I have an idea but can&#39;t work on it immediately?
+Why are external PhDs considered to take &quot;decades&quot;?
+Acknowledging a single funding source: do I say &quot;partially supported&quot;?
+Is there an optimum time to leave between writing and self-proofreading?
+How can I prove my self-studied knowledge?
+Techniques to &quot;digest&quot; large amounts of textual data (academic papers, books, etc)
+Why do national laboratory presentations contain so much info per slide?
+Why do graduate student contracts state &quot;RAs shall work no more than 20 hours per week?&quot;
+What should you do when your supervisor is ill?
+Are postdoc salaries in the USA adjusted for cost of living?
+Should I apply to tenure-track positions if I&#39;m fairly certain I won&#39;t be staying?
+Am I likely to be perceived as less successful if I start as an assistant professor at age 40?
+How do you choose a textbook for a new class
+How should I describe my country&#39;s volatile situation in a letter for a scholarship application?
+How do some Ws on transcripts affect PhD admissions in mathematics?
+What type of workplace accommodations are departments required to make for a mentally unhealthy faculty member?
+Is there any value in self-publishing a book as an academic?
+Who owns the intellectual property for work you do on weekends?
+Should a speaker attend a conference where he/she is required to pay their own registration fee?
+How to tell supervisor too many lengthy meetings are hurting your productivity?
+Does a supervisor have right to submit paper without consents of coauthor students?
+What is a non-tenure-track assistant professor position in the USA and is it harmful?
+Why do some universities not allow dissertations to be publicly available?
+Are references with indication of page number uncommon in computer science?
+What is the relationship between impact factor and journal ranking
+Should you always use appropriate letter conventions when emailing a teacher?
+Is it fair to punish absent students with a one-question exam?
+Submitted to arXiv with a different title. How to make Google understand this is the same paper?
+Having caused a lab accident, how to mend my relationships with fellow students?
+How to overcome feeling that published articles lack public interest?
+Administrative recognition of frequently-cited unpublished manuscripts
+What are the benefits of a poster award?
+What has the effect of publishing salaries been?
+As a postdoc, how to make sure I get credit for helping undergrad and grad students?
+Getting secondary citations right
+Mentioning that my paper extends my project X: compatible with double-blind review?
+Will I be paid a percentage of the fee that readers pay to download my article?
+Dealing with adversarial grant committee members in interviews
+How do I get back into Mathematics after graduating with BSc 14 years ago?
+Will I be considered as a very rude person if I call my teacher to check an urgent email
+What are positive and negative outcomes of requiring Ph.D. students to take a pedagogy course?
+How to become a journal editor?
+What is the most cited paper of all time?
+How to respond to an unofficial PhD offer?
+How to handle pressure from collaborators when life circumstances make it impossible to get work done?
+What does &quot;qualify for a more competitive rate&quot; mean when booking flights for academic travel?
+Ramifications of withdrawing publication offer (question from student editor)?
+Quitting after 5 years - miserable and depressed
+Math paper with no &quot;Conclusions&quot;
+Is there anywhere I can find reliable reviews of popular textbooks?
+Strategies for reviewing a paper that has non-English references
+&quot;I am looking for a job&quot; on a student website, a good thing or a desperate sentence?
+I want to leave my tenure track position before fall. I have great prospects but no new position &quot;locked up&quot;: when should I break the news?
+How to teach my students to appreciate all fields of study?
+How much should I worry about British spelling when submitting to a U.K. journal?
+How do I specify I do not want to perform a specific type of research on my CV?
+Is there an international taxonomy of academic titles/ranks?
+What are some practices for getting a name change so that people can find me more easily?
+Can teaching help one&#39;s studies?
+What should be included when inquiring about the status of my application?
+What does it mean when a paper is copyrighted by an organization?
+Can I pursue a PhD while working as an Instructor/Lecturer?
+How to present in lecture a paper that students have read (or should I not have them read it)?
+Do letters of recommendation typically include a biography of the writer?
+Are there any good job directories for academic work?
+Why do so few universities offer OpenCourseWare videos of their lessons?
+How will this departmental restructuring plan affect students and faculty?
+At what point in the writing process should one contact an academic book publisher?
+How to show interest in a candidate when no positions are available?
+What steps could universities take to reduce Ph.D. drop-outs?
+Are European schools experiencing the same cost raise as American schools?
+What are some good practices for applying to the NSF Graduate Research Fellowship Program?
+How do professors usually discover &quot;new&quot; research interests?
+When meeting a professor for the first time, is it always a good idea to ask about their research interests?
+What are the pros and cons of submitting same paper to more than one open repository?
+Teaching Loads by Field at Research Universities
+Does one need a specific field in mind to apply a PhD program in mathematics?
+What is the difference between research intensive vs. research extensive universities?
+How does the US National Science Foundation (NSF) research funding system work?
+What are useful tips and tricks for collaborating remotely?
+Incompatibility with the PhD advisor
+How can one carry out a &quot;Russian style&quot; seminar?
+Can I use contractions in my thesis?
+How to mark/cite text that you only translated?
+Will a good GRE Computer Science subject test score overcome a &quot;weak&quot; academic record?
+Does disability impact on prospects of employment in academia?
+Is reuse of &quot;internal&quot; results considered self-plagiarism if used in a later publication?
+Can I use my blog posts for an academic publication?
+Book recommendations for information visualization?
+Should one update a manuscript to current state-of-art when re-submitting?
+Is seeking co-advising encouraged during Ph.D?
+How do the completion of online courses impact a Master&#39;s application?
+How to get the most out of a period in another university during PhD?
+Is there a network map of subjects and how they connect with each other?
+How to interview a faculty candidate?
+PhD without a Master&#39;s degree… does it hurt?
+Is it necessary to obtain permissions for copying figures from published articles in your proposal/dissertation?
+How much do figures need to differ to avoid copyright claims?
+Balancing between finishing past projects and working on current ones
+From blog posts to research papers; successful cases?
+How important is age in CS PhD admissions?
+Would it be okay to provide a template when asking reference?
+In the absence of strong references, on which things should I focus so that I can gain access to a PhD program?
+Publishing an &#39;ok paper&#39; to arxiv
+I am preparing the presentation of a co-authored research, who owns the copyright?
+Substantial update of an arXiv paper
+Student and advisor applying to same job - conflict of interest with recommendation letter
+Where in a thesis should a glossary be positioned?
+Choosing your research area
+Guidelines for changing terminology introduced by self?
+Open Lab Notebook in early postdoc career, advantages vs disadvantages
+How to build research paper based on a unpublished paper?
+How do you get started organizing a class?
+Are there Conference Proceedings that have impact factor?
+What does it mean by a &quot;research university&quot;?
+Do I need to send e-mail to follow up a PhD interview day?
+What to do when your research interest changes to a new topic half way into your PHD?
+Does timing of emails matter?
+Can I hand out students a few pages from books as supplementary materials?
+How do I get published in Nature or Science?
+What is the advantage of becoming a full professor if you already have tenure as an associate professor?
+Not enough guidance from advisor
+How to decline answering details about my thesis?
+Has it ever happened that one paper&#39;s findings were contradicted by another?
+How many research interests should be included in a statement of purpose/objective
+Sources of information about postdoctoral/PhD grants and funding
+Are Shared Office Common for Lecturers
+Request for high res figures: what should I be mindful of?
+What is the optimal number of times one should meet one&#39;s PhD. advisor?
+Would transferring to a better school in the middle of a graduate program irreparably hurt my professional connections and academic reputation?
+Academic freedom and unpopular or offensive views
+Is it necessary to show what improvements you have made to similar work in literature reviews section?
+Favoring citations in the same journal
+Will lack of teaching experience be a major hindrance for a faculty position?
+Is it a bad idea to send an article under review as a writing sample? (faculty job application)
+Do graduate school admissions appreciate individual &quot;free time&quot; study?
+A comprehensive question about personal statement
+Splitting publication fees among coauthors
+Interpretation of a PhD degree in a very broad, interdisciplinary field
+How to Remain Competitive at a Mediocre University?
+Can a university claim patent rights for inventions performed on my own time?
+What are my duties regarding reporting plagiarism when reviewing a fellow graduate student&#39;s paper?
+Using first person or third person in papers?
+What are effective strategies to work through &#39;drafting fatigue&#39;?
+Which email address to use in a publication?
+How to address a professor in letter?
+What is the etiquette for CCing faculty in eMails?
+What is the real benefit of tenured positions for universities?
+Is it normal to feel impatient in lectures when a lecturer explains material that could be obtained from textbooks?
+What to include for a strong research statement?
+Strategies for dealing/interacting with a colleague who have suffered from academic burnout
+Is it appropriate to include additional materials in an academic job application?
+Do textbook publishers really offer ethically questionable inducements to professors to adopt or retain their book?
+How do you know if a PhD is for you?
+Who is to decide the main idea(s) of research in a PhD Proposal, the student or his/her supervisor?
+Will I be allowed to reapply for a mathematics NSF postdoc next year after declining one this year?
+Presenting the publications of a research group online
+How to check and correct editorial changes to a manuscript post-acceptance?
+Should my citation graph be acyclic?
+Should I mention a &quot;math depression&quot; I went through in my letter of motivation?
+Author&#39;s email address in a published paper is not working
+Is pregnancy a valid explanation of a weak academic performance?
+How prestigious is a Fulbright scholarship
+How can women improve their chances to get postdoc positions in computer science?
+Is it appropriate to request letters of recommendation from professors a second time?
+How to measure entropy of exam results
+Assume an undergrad has something worth publishing: how might (s)he get it published?
+Retrieving the references in a publication automatically
+Online tool for receiving student files
+How do you manage to work on multiple research projects?
+Should I include journalistic articles in my CV?
+How do I ask the author of a book in English if I can translate it into my native language?
+Plagiarism and the ArXiv (or other preprint servers)
+Are the methods used in math-based teaching (including physics, engineering, etc.) substantially different from those used in other areas?
+Can a student seek redress for the administration neglecting their paperwork?
+How to make a one-year study plan for a difficult exam and remain motivated throughout?
+Can I submit published articles to arXiv as well?
+Is it more difficult to score a Tenure Track position in the US when applying from outside?
+If I have an academic dismissal from a school should I ever go back there?
+I have found an error in a textbook. What can I do about it?
+Design of &quot;Members Page&quot; for Academic Lab Website?
+Submitting paper when leaving academia?
+Why do some Elsevier journals use a single column format?
+Is it common for doctoral dissertations from for-profit schools to be unavailable?
+When should you publish code on GitHub? Work-in-progress or after publication?
+Should previous final exams be released to students?
+Why do people organize summer schools?
+Are itemized lists discouraged in scientific papers?
+What should I do if my advisor insists on being first author, in violation of my field&#39;s conventions?
+How to decide between sending paper to a specialized journal or to a journal with broader audience?
+How to make academic life bearable under stressing circumstances?
+Sending manuscript to a journal that rejected an earlier paper
+Ethics of conducting research on a class
+Is it appropriate to send a gift to a professor for an online course?
+Is it appropriate to ask an author for an English translation of a paper?
+Can graphics created with Wolfram Mathematica be freely used and distributed?
+PhD: what happens if I quit?
+What changes should be notated in a journal resubmission?
+Comparative quality of articles in questionable journals
+Who should pursue a Ph.D degree?
+Postdoc position: should I stay for one year or two years?
+I found out that I have plagiarism in my published journal papers, what should I do now?
+Academic affiliation on papers written while between jobs
+Is there prestige to be had by posting to arXiv?
+Credit with helping to write a PhD thesis
+How can I find the first researcher who wrote about a specific subject
+What do the Dutch academic titles &quot;prof.dr.dr.h.c.ir.&quot; mean?
+What to wear for a PhD/ MSc thesis defense?
+How to address a knighted academic?
+I have noticed GPA calculation &quot;bug&quot; in our University, what should I do?
+Exact results found, but not reported
+How to demonstrate excellent undergraduate and graduate teaching capabilities in academic position applications?
+What&#39;s a novel way to say &quot;all errors are my own&quot;?
+How can a professor who has signed The &quot;Cost of Knowledge&quot; pledge review papers without having to recant?
+Maximum number of citations per sentence?
+Can you get a tenure-track position in philosophy with a J.D.?
+sound reasons for excluding a reviewer
+The Ethics of Preparing for a Course Long Before Actually Taking it
+White paper justifying the publication of a survey paper
+Should I post a response to reviewers online?
+When is it prudent to argue against a suggested revision to a journal paper?
+How much time should one spend refereeing a paper?
+Arranging a visit to a professor you do not know yet
+Is it bad to ask the editor about the status of a submission on seeing that referees&#39; reports were submitted a week ago?
+What should I do if I&#39;ve enrolled in a badly organized course?
+Do any scientific publishers have a stated commitment to authors regarding copyright infringement?
+Should we put the references in slides/poster when we already have them in paper?
+Can frequent messages to an editor about the status of a paper under review be a cause for rejection?
+Are postdoctoral scholars considered students or researchers in other countries?
+How do you deal with extremely timid/shy students in small classes?
+Is my plan for sticking with my incompetent advisor reasonable?
+What do you do when your best friend cheats and has become top 10 in class of 250?
+How commonly do researchers spend a long time (&gt;10) years on soft money?
+Multiple submission of same work for different audiences
+As a student, should I offer alternative ways of understanding a point in lectures?
+Is it inappropriate for an author to copy and paste from his/her original paper in an extension paper?
+Effective open-ended student evaluation questions
+Should I cite every study that supports my point?
+How were people able to graduate with a PhD at a such young age in the past?
+I submitted my own code on someone elses account
+Has anyone failed coursework requirement and got terminated from PhD program?
+Parts of thesis draft published without proper credit
+How is publishing in JoVe (a &quot;video journal&quot;) perceived?
+How do I stop feeling unwelcome in my department?
+Will it hurt you to leave a tenure track position (for another) after one year?
+Is it acceptable to ask someone for help revising your paper?
+What percentage of a professor&#39;s salary is paid for by tution?
+Can a paper be rejected because another paper (by someone else) based on its arXiv preprint extends the result?
+Checking/Ticking all the fields on a recommendation letter as &quot;Exceptional&quot;
+Must bibliography entries match the original title&#39;s German orthography?
+How does one figure out which journals to submit a paper to?
+I didn&#39;t acknowledge someone who helped with my thesis, is there anything I can or should do now?
+Frequency of appointments with Ph.D. supervisor
+How can I balance teaching computer-assisted skills and risks of cheating at exams?
+Customary to offer a fellow academic a chance to rebut criticism in a paper?
+Is there something I need to do on arxiv if I lose academic affiliation
+How has the application review process for NSF graduate fellowships changed?
+Breaking an axis - is it ever a good idea?
+What should I do as a teaching assistant when I find cheating behavior from actual grading?
+I am a student of high potential but not great on paper, how should I go about transferring to a university more at my level?
+Feedback for a student showing improvement
+How to address a professor that makes offensive comments (that they don&#39;t realize are offensive)?
+Rejecting a PhD offer after having accepted it. Advice?
+When should I publish in interdisciplinary versus subject-specific scientific journals?
+Should cheating be expected to be more common in Universities in India, and if so, how could any provided credentials be evaluated for authenticity?
+Proof for seemingly obvious statements in thesis?
+Mandatory army service in the middle of PhD, will it be possible to finish PhD under these conditions?
+What kind of Visa is required to work in Academia in Japan?
+Obstacles in job hunting for US citizens in non-US nations
+Usefulness of prior industry experience before entering grad school?
+How to recruit a PhD student without a strong connection to teaching?
+What are some good writing tablets for taking notes that are heavy on math/physics?
+How to fruitfully utilize faculty-student orientation sessions at institutes you don&#39;t want to attend?
+What happens to the reviews that people write for journal articles after they&#39;re sent back to the author?
+Do professors benefit from undergraduate research?
+How do you join programme committees for conferences?
+Business School professors - how different are they?
+Travel grants for International students in the US?
+1 or 2 Year Master&#39;s Program
+&quot;Challenging&quot; Teaching Experiences for Math Grad Students?
+What is a fair metric for assessing the citation impact of journals across disciplines?
+What do principal investigators (PIs) look for in prospective post docs?
+Updating a preprint when it is under review
+Tips for engineering students applying math in their research
+Should I include publications where I am a &quot;team member&quot; in my CV
+When should conferences precirculate papers?
+I have an &quot;integrated masters&quot; degree. How can I eventually gain a PhD?
+Does one get academic credit towards a degree for open online courses?
+Good practices with lab wikis?
+If somebody wants tenure (or a research position), should they have hobbies totally unrelated to their work?
+Is it OK to present a URL using a link shortening service?
+Citing (or not) a flawed or incomprehensible paper or preprint
+Being quoted for an incorrect statement
+Email etiquette for requesting a meeting with a professor who one won&#39;t do research with or take a class from?
+Etiquette and guidelines for sending pre-published work to other people?
+Chances of getting R&amp;D job in industry after PhD in AI/Robotics
+How does a PhD student make meaningful comments or suggestions regarding a professor&#39;s work?
+What are the elements of an effective elevator pitch?
+How to manage the web presence of a research group
+How much information should I divulge about on-going unpublished research at a conference?
+How does a faculty member get to work at two universities or more?
+Are NSF RUI proposals evaluated separately or are they evaluated against the general pool for that program/division/directorate?
+Etiquette for an initial meeting with a prospective advisor: What is expected of the student?
+How to search for USA PhD Studentships?
+Can I include the completion of Udacity and Coursera classes I have attended in an academic CV?
+Tips for faculty members seeking administrative responsibilities
+Advice - MS in mathematics to increase competitiveness for PhD programs?
+Relative or Absolute evaluation for academic positions?
+API, EULA, and scraping for Google Scholar
+How (un)usual is changing fields?
+Determining common knowledge in an unfamiliar field
+When should one opt for a one-year master&#39;s program in the US?
+Is there any disadvantage to having PhD skipping M.Sc.?
+When someone says a paper is published &quot;in Nature&quot;, does that mean it&#39;s published in *Nature*?
+How to create PDF of slides with audio?
+What do I have to do in preparation for applying for a PhD?
+Should my references be famous if I want to get into top schools for PhD?
+How big of an advantage are publications for Applied Mathematics grad school applications?
+How to cite conference contribution that appears later in a Journal Supplement
+When and how do I start writing a conference paper?
+Are there academic reasons to only use journal articles and books when writing?
+From academic collaboration to research contract, best practices
+How to approach principal investigators for internship/job positions
+Is it accepted to cite an entire issue of a journal?
+What does this mean, &quot;We recommend that you consider submission to an alternative venue&quot;?
+Letters of recommendation: what information to give to a recommender
+Is publishing a graduation requirement in many master&#39;s programs?
+Should I talk to my advisor regarding undergrad advising workload?
+Where and how to search for research problems?
+Informing my supervisor of discrepancy in the results
+Is it advisable to mention the dollar amount for grants on a CV?
+How to choose to which conference submit a scientific paper?
+How to cope with the change from easy undergrad. to difficult masters?
+Indirect expenses due to attending conferences
+What does one do the summer between graduation and graduate school?
+Will a paper in A help PhD application in B?
+Is checking the format of a paper an expected part of the reviewing process?
+Statistics on readership and posting habits for academic blogs
+When changing fields from undergrad to PhD, which department should recommendation letters come from?
+Transition from PhD to postdoc with an intent to change field
+How to quickly get complete list of citations to all my papers?
+What to do with a paper with references but no citations?
+Need help and advice concerning how to apply and look for grad schools
+Graduate math student migrating to engineering?
+Whether to use Dr or Prof when addressing oneself in an email?
+Proper way of refering to yourself, according to graduate level
+Position and prominence of &#39;Acknowledgements&#39; in a publication
+Importance of GPA and GRE scores for grad school admissions
+What is the minimum contribution expected from an M.Sc. thesis?
+Finding a research group where I can work remotely?
+How important is the publication venue for academic hiring and grant applications?
+can we earn money through a research publication?
+As someone with low grades how can I prepare myself to study MSc in CS in USA?
+How do I sign my papers?
+List dollar amount of small grants on C.V.?
+Why do universities support faculty writing textbooks?
+Negotiating with journal publishers about intellectual property of the paper?
+What to do when emails to a potential advisor are not replied?
+Can i work as a freelance researcher?
+Where does the title Dr come from for PhD?
+Can I ask for payment if my employer wants to use my dissertation?
+How to hire editor to improve my paper
+in which language should I write my first draft a paper?
+Ethics of publishing received peer reviews
+What qualifies as a research publication?
+Will getting rejected from a graduate school affect my relationships with the faculty members at that school?
+Balancing between students who do homework and those who do not
+What is the perception of students who take a gap year between their graduation and starting graduate school?
+Should one keep record of papers one reviews? (and of the reviews themselves)
+Why do some universities not have a comprehensive exam?
+Publish an article in the journal in which one is an associate editor
+Why is there such variation in PhD length internationally?
+How to effectively use blogging as a tool to gain visibility in academia
+How are PhDs from foreign universities percieved in the US?
+Is it ok to ask a potential PhD advisor for more information about their future grants?
+Should I list talks on my CV given by co-authors?
+Who writes Nature’s “News &amp; Views”?
+Citing low quality papers (solutions) in surveys?
+NSF graduate fellowship: how specific should the statement of purpose be?
+Is it considered okay to ask for the opinions of admission staff or committee after their decision of declination?
+Does helping a PhD student with proofreading violate school policy in general?
+Low-quality paper or no paper - which is better for an undergraduate in PhD admission?
+Is copyediting good for an academic career?
+When would be a good time to ask a professor if he will consider being my PhD advisor?
+Do sample solutions increase student &#39;productivity&#39;?
+How does a graduate student judge if one is slacking off?
+Criminal record and work on federally funded project
+Code in journal papers
+Some questions about math postdoc offers
+What exactly does one do in a PhD?
+Paper Title, Is it better to start with a verb?
+Hourly rates for industry consulting?
+Re-typesetting an old paper, what to do with the result?
+How to acknowledge ideas/clue/discussions on StackExchange?
+Is it possible to receive private tutoring for graduate-level courses from faculty members?
+Are there examples of highly cited papers that very poorly written?
+Is consistency in citation style important?
+What is the PhD application process for Germany and Switzerland?
+I have been invited to peer review a manuscript for a reputable journal. This is my first so I have a few questions to the more experienced
+Publishing figures: Serif or Sans-serif fonts?
+Are there usually consequences for attempted duplicate publication?
+Is there a preferred method of citing Kindle books when no fixed page numbers are available?
+Is there any way to find Donald Knuth&#39;s undergrad/master&#39;s thesis?
+mentioning my country situation in motivation letter to demonstrate dedication for learning
+Gift to a supportive professor?
+What happens to equipment purchased using a startup package after an academic leaves the university?
+How much can you trust a reference of a paper that is not available
+How to proceed when advisor asks you to resign?
+How to find less-competitive faculty positions in the US universities?
+Is it wrong to impose a challenging time constraint on exams?
+Applying and interviewing for a faculty position without intent of accepting position
+What to put in &quot;affiliation&quot; field when submitting paper without affiliation?
+Is it true that corporations influence the conclusions of research studies or papers?
+Authorship of PI and/or other advisor on independent work?
+Hard data on students using W&#39;s to enhance their GPAs?
+Retake the math GRE... as a grad student, preparing to transfer?
+Am I morally obliged to report what I judge as self-plagiarism?
+Should I tell my advisor that I have an autism spectrum disorder?
+Can I get a letter of recommendation from a professor who didn&#39;t teach me BUT I did research with?
+Being the right kind of demanding as a college instructor
+Can one get a faculty position by posting CV on job websites?
+Are there any aspects of PhD work that do not translate well to distance learning?
+PhD student leaving current program for reasons of safety. Recommendations for what to do next in terms of schools and catching up?
+Are there any available studies on the effectiveness of &quot;learning by teaching&quot;?
+How can I find a PhD position to work on a highly specific idea of my own?
+Why do admissions committees consider the Statement of Purpose to be important?
+Crowdfunding a PhD
+I found another proof of my theorem. Can I present two different proofs in the paper?
+How much salary can I expect as a physics post doc in the Netherlands?
+How do people who are not active in the academic community write papers? Is it possible?
+What to do when you discover computational errors and mistakes in your accepted paper at the proof stage?
+Academic Hiring Process and Practices for Junior Professors in Germany
+Overlapping sentences in methodology descriptions in separate journal articles - plagiarism?
+What action to take when questions regarding a published paper are ignored by its author?
+Should I provide an opinion on a graduate school candidate without being asked by the candidate?
+What is facultyawards.org?
+What to do after accidentally submitting to a &quot;fake&quot; conference?
+Is it possible to get an assistant professor position that does not require doing research?
+Are reviewers chosen from among the editorial board of a journal?
+What are my obligations towards my adviser after the defense, revisions, and all forms signing is done?
+How to come up with research questions that are well-defined and suitable in scope and relatedness for a thesis?
+Plagiarism-checker to prevent self-plagiarism
+Can someone change PhD supervisor without changing research direction?
+Are spelling and/or grammar mistakes a cause for submitting Errata?
+Can a dean expel a doctoral student without a trial?
+Is it OK to contact someone who is on my suggested reviewers list to discuss something unrelated?
+How to improve myself as a recitation (discussion,lab,tutorial) teacher?
+Splitting a relatively long paper into two shorter papers
+Some advices regarding the first research paper
+What incentives do professors have to increase the PhD completion rate in their department?
+Undergraduate research in mathematics
+Is it usual to use endowed chairs to support deans&#39; administrative duties, rather than faculty&#39;s academic work?
+Why do many instructors avoid giving personal introductions?
+What is the appropriate length and specificity for a teaching statement?
+How can I tailor my faculty application to maximize my chances at a liberal arts college?
+When can a person be called a PhD ABD?
+How to discuss job search with your advisor when your career plans differ from what your advisor wants you to do?
+Trauma affected my grades while in undergrad, how will it affect me getting into graduate school?
+Is there any general consensus that either Elsevier or Springer is viewed as more prestigious for publishing in engineering?
+Is there any problem with giving lots of extra credit?
+Is it a good idea to submit a recommendation letter from a friend who is doing PhD at the university I am going to apply?
+Can images with a &quot;noncommercial use only&quot; licence be used in teaching and academic presentations?
+How do Professors feel about writing recommendation letter?
+Is there any software to regularize British vs. American spelling in a text?
+In what situations would it be appropriate to include one&#39;s photograph in a CV?
+I attended an Olympiad for student and failed. How should I write this down on my CV?
+What to do if most of the students did badly in the 1st midterm?
+Can (and should) an editor referee a paper he&#39;s in charge of?
+What is the weight on the applicant&#39;s personality for tenure?
+What is reasonable expenditure on meals during a conference?
+Will my results still be publishable if I used ethically objectionable techniques in my research
+Is it appropriate to give university lecturers Christmas cards?
+How does time off for a serious illness affect funding and duration of PhD?
+Should I start my CV by telling about myself?
+Are there known cases of leaks in academia?
+Can a single bad letter of recommendation ruin my chances of getting admitted to grad school?
+How many &quot;office hours&quot; are common (or standard) for full-time lecturers?
+How should I stay in professional contact with former supervisors and/or colleagues?
+Is it acceptable to keep extending medical leave to prolong insurance coverage, when one has no intent of returning?
+How to best approach literature with low informational content for good retention
+Suggestions for working effectively with international students from a non-western culture
+What&#39;s in a &#39;vita&#39;?
+Do contemporary publications cite more sources? Why?
+Is it appropriate for a PhD student to write reference for a PhD applicant?
+What are the main factors that mean Humanities PhDs get published as books?
+Is feeling lonely and uncomfortable in my (foreign) country of study a valid reason to drop out of a PhD?
+Is it possible to earn a PhD in mathematics with emphasis in teaching?
+What incentives do professors have to serve on dissertation committees?
+Have researchers any incentive to publish negative or confirmatory results?
+Is there any evidence that students are more likely to watch a video over reading homework?
+Is it reasonable to submit a paper to a journal that I have uploaded to the Arxiv 4 years ago?
+Would most PhD supervisors stop working with a student who was unproductive due to clinical depression?
+Should I revise and resubmit?
+What should I do if a professor says she doesn&#39;t understand my questions in office hours?
+Should I give a copy of my thesis to those professors that supported me?
+How to cope with feelings of powerlessness on a PhD?
+How should I approach the editor if I have been omitted from the author list of a paper I contributed to?
+What are some effective ways for someone without a graduate degree to increase their chances of getting hired as a lecturer?
+How are DOIs managed for ongoing time-series?
+Humanities - taking a year off between PhD completion and academic job
+Interviewing at nth choice school after being accepted to first choice school
+How do I know if I am truly prepared for graduate school in mathematics?
+Is copying equations plagiarism?
+If a reference is applying for the same position, are they obligated to inform you?
+Should I review for a new journal whose publisher is unjustifiably listed in Beall&#39;s list of predatory publishers?
+Let the second author to go to the conference instead of the first author who also wants to go
+So what happened to Episciences?
+English certifications: which ones are recognized overseas?
+Teaching Assistantships and research
+Online resources for summer schools in software engineering?
+How are the personal assistants for professors usually funded?
+What are some good practices when asking people to share their PowerPoint presentations from a conference/talk?
+Is it worth to switch from Bibsonomy to Mendeley?
+How to choose the most worthwhile research papers to define my thesis?
+Is there generally a high amount of variability in the number of hours grad students put to work each week?
+Deferring admission to a computer science graduate program
+As a teaching assistant, how important are student evaluations?
+Can American students do research in Europe with only a bachelor&#39;s degree?
+Career advise - Getting a Math PhD admit in a good program with computer engineering background
+When is it appropriate for a post-doc/grad student to be the senior author?
+Four papers accepted for publication however not published due to some monetary issues?
+How can I get the rights to my final year project?
+Can graduate students be forced to leave graduate school under pressure from their advisers?
+Suggestions for high school student who is visiting a professor for HS research?
+Can students ask for changing grades?
+Approximate deadlines for Phd. Admission in US
+If someone provided you with data does he become a co-author?
+What to do if undergraduate research has stalled for a long time?
+Why is Paper Publishing and getting a patent completely unrelated?
+Publishing paper using an open-source software
+How can I get the DOI of a paper from its title?
+At what age do professors stop taking new students?
+How much tweaking of figure design (not content) can I postpone until the final figures are requested?
+When do you stop reading books cover to cover?
+On giving gifts to LOR writers
+Which bibliometrics index to trust more?
+Making time to catch up with people at a conference
+How hard is it to get an academic position in Australia/New Zealand with a PhD from the US?
+Dismissed by my committee
+Is research experience in a different field relevant for PhD application?
+Does ScholarOne really force you to have multiple logins?
+What information should I include in a letter of support for a grant?
+Web Service to fetch article citations
+How do professors change research interests?
+Work in an area or work on problems?
+What are the responsibilities of a Program vs. General Conference Chair?
+Ref. request : book or survey about conducting experimental studies
+Till what point do you do exercises while studying?
+Crediting sources one has found citations from
+How to write good Response Letters for the reviewers
+Someone cited my paper in an irrelevant manner
+What is a good length for the statement of purpose in a U.S. PhD application?
+Advisor getting married, should grad students chip in for gift?
+Deadline for reference letters
+How to prepare and what is discussed with professors at a PhD interview session? US application

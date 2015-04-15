@@ -2499,3 +2499,2504 @@ Presenter vocal mic low end problems
 Making recorded ambient/BG sounds more like they&#39;re coming through a wall/window effectively?
 Man of Steel &quot;Fate of your planet&quot; trailer - high pitch whine?
 Which EQ is suitable? Alloy 2, Pro-Q, or other?
+The most common mistakes for newbies recording
+I want to learn how to make electronic music. Where do I start?
+As a sound designer, how often and when do you decide &quot;that doesn&#39;t need a sound&quot;?
+How to deal with the difference in sound when the audience comes in
+Any reason not to convert WAV to FLAC and save some disk space?
+Are there any audible differences between 192 and 320 kbit/s .mp3 files?
+Where are you from and what do you do?
+What is the effect of impedance on headphone sound quality?
+What is your software secret weapon?
+You might be a sound recordist if
+Films to Study for Excellence in Sound Design
+Best approaches to panning backgrounds when camera angles change
+Quiet Ambience Recording Tips
+Washington Post covers sound design in film:
+Audio Mythbusting
+What is/are the first effect(s) I should put on raw vocal recordings?
+What is a balanced input / output?
+Iconic Sounds: How have they affected the way you work?
+Awesome things to record that you would not normally think about.
+An open source sound editor, but not Audacity?
+How to capture very low volume sounds?
+Processing ADR to match interiors and exteriors
+Grabbing hold of one&#39;s career arc
+So I dropped my recorder in a wheelbarrow full of water…
+What makes you think YOU&#39;RE a sound designer?!
+Should I use compression in live settings?
+Best use of Silence in a film?
+How do you respond to requests to work for free?
+Examples Of The Anempathetic Effect
+Cheap DIY solutions, like using egg cartons
+What is side chain compression?
+Futuristic cars
+Films which blur the distinction between score and sound design?
+Monthly Sound Design Challenge...looking for feedback
+Creating Evocative Wind Sounds
+What is Mastering?
+What does the term quantization refer to?
+Where can I find free sound effects?
+SSD App Needed?
+Most influential people in your career
+What specifications should I look for when buying a budget microphone?
+Making space in a synth-heavy mix for electric guitar?
+Free batch conversion from FLAC to Apple Lossless (ALAC)?
+How do software algorithms to calculate BPM usually work?
+How do you lessen mouth noise in VO recordings?
+SoundSwap - trading sound effects
+Managing Machine Noise in the Home Studio
+Foley artist leather toolkit!
+Microphone windscreens -- how effective / necessary are they?
+What is compression and why is it used?
+full vehicle coverage
+A Living Sound Effect Library
+Going Into Debt for Gear
+Help for buying shotgun microphone
+Non obvious ProTools tricks?
+Suggestions for micing violins
+FireWire or USB
+Vuvuzela silencing techniques
+Why is Pro Tools the industry standard in high end audio production?
+How do I remove mouse click noise
+What is the best volume to work with studio monitors?
+How do I get a mix with two heavy bass elements to not sound muddy?
+What hardware units should I have in my arsenal?
+Why did you choose sound design as a career?
+Audio Postproduction/Sound Design resources you&#39;d recommend
+Do you play games?
+Essential smartphone apps for field recording?
+Discovery of Wind in the Studio
+How To: Minimizing noise and reverb with DIY multi-band expansion.
+Pro Tools Problems?
+Canned sounds vs. ones you record yourself
+The dreaded skill plateau...
+Two microphone setup to record voice and acoustic guitar
+XLR vs USB Microphone
+What is impedance and why do I care when buying a microphone?
+What does &#39;Poles&#39; mean in relation to a filter?
+0db mono vs. 0db stereo
+Setting up ableton live as a live looper?
+Should I use 44.1KHz, 48KHz or 96KHZ sampling frequency for hobby projects?
+What should I look for when buying a subwoofer?
+What does panning do in a stereo system
+What&#39;s the point of putting electronics inside a guitar instead of just outputting the raw pickup signal?
+Preventing tangled mic cables
+Best entry-level portable recorder
+What&#39;s your best story about repurposing a sound?
+Best use of ergonomics in an Pro Tools editing environment?
+What would you have done differently?
+How (do you) use Kyma?
+What does a boom operator do?
+Best uses of contrapuntal music in film?
+A Study in Effective Sound Design: The Terminator (1984)
+A trip down your DAW memory lane
+What do sensitivity measurements of microphones really mean?
+Amusing Faux Pas Situations
+Workflow: Getting sounds into your library.
+Your most interesting recording of 2010
+So you found $3000 under your couch. What do you buy?
+Tips for mixing dialogue
+How do you create Single Sideband Modulation (SSB)?
+Post production communities
+The most common mistakes for newbies recording
+I want to learn how to make electronic music. Where do I start?
+As a sound designer, how often and when do you decide &quot;that doesn&#39;t need a sound&quot;?
+How to deal with the difference in sound when the audience comes in
+Any reason not to convert WAV to FLAC and save some disk space?
+Are there any audible differences between 192 and 320 kbit/s .mp3 files?
+Where are you from and what do you do?
+What is the effect of impedance on headphone sound quality?
+What is your software secret weapon?
+You might be a sound recordist if
+Films to Study for Excellence in Sound Design
+Best approaches to panning backgrounds when camera angles change
+Quiet Ambience Recording Tips
+Washington Post covers sound design in film:
+Audio Mythbusting
+What is/are the first effect(s) I should put on raw vocal recordings?
+What is a balanced input / output?
+Iconic Sounds: How have they affected the way you work?
+Awesome things to record that you would not normally think about.
+An open source sound editor, but not Audacity?
+How to capture very low volume sounds?
+Processing ADR to match interiors and exteriors
+Grabbing hold of one&#39;s career arc
+So I dropped my recorder in a wheelbarrow full of water…
+What makes you think YOU&#39;RE a sound designer?!
+Should I use compression in live settings?
+Best use of Silence in a film?
+How do you respond to requests to work for free?
+Examples Of The Anempathetic Effect
+Cheap DIY solutions, like using egg cartons
+What is side chain compression?
+Futuristic cars
+Films which blur the distinction between score and sound design?
+Monthly Sound Design Challenge...looking for feedback
+Creating Evocative Wind Sounds
+What is Mastering?
+What does the term quantization refer to?
+Where can I find free sound effects?
+SSD App Needed?
+Most influential people in your career
+What specifications should I look for when buying a budget microphone?
+Making space in a synth-heavy mix for electric guitar?
+Free batch conversion from FLAC to Apple Lossless (ALAC)?
+How do software algorithms to calculate BPM usually work?
+How do you lessen mouth noise in VO recordings?
+SoundSwap - trading sound effects
+Managing Machine Noise in the Home Studio
+Foley artist leather toolkit!
+Microphone windscreens -- how effective / necessary are they?
+What is compression and why is it used?
+full vehicle coverage
+A Living Sound Effect Library
+Going Into Debt for Gear
+Help for buying shotgun microphone
+Non obvious ProTools tricks?
+Suggestions for micing violins
+FireWire or USB
+Vuvuzela silencing techniques
+Why is Pro Tools the industry standard in high end audio production?
+How do I remove mouse click noise
+What is the best volume to work with studio monitors?
+How do I get a mix with two heavy bass elements to not sound muddy?
+What hardware units should I have in my arsenal?
+Why did you choose sound design as a career?
+Audio Postproduction/Sound Design resources you&#39;d recommend
+Do you play games?
+Essential smartphone apps for field recording?
+Discovery of Wind in the Studio
+How To: Minimizing noise and reverb with DIY multi-band expansion.
+Pro Tools Problems?
+Canned sounds vs. ones you record yourself
+The dreaded skill plateau...
+Two microphone setup to record voice and acoustic guitar
+XLR vs USB Microphone
+What is impedance and why do I care when buying a microphone?
+What does &#39;Poles&#39; mean in relation to a filter?
+0db mono vs. 0db stereo
+Setting up ableton live as a live looper?
+Should I use 44.1KHz, 48KHz or 96KHZ sampling frequency for hobby projects?
+What should I look for when buying a subwoofer?
+What does panning do in a stereo system
+What&#39;s the point of putting electronics inside a guitar instead of just outputting the raw pickup signal?
+Preventing tangled mic cables
+Best entry-level portable recorder
+What&#39;s your best story about repurposing a sound?
+Best use of ergonomics in an Pro Tools editing environment?
+What would you have done differently?
+How (do you) use Kyma?
+What does a boom operator do?
+Best uses of contrapuntal music in film?
+A Study in Effective Sound Design: The Terminator (1984)
+A trip down your DAW memory lane
+What do sensitivity measurements of microphones really mean?
+Amusing Faux Pas Situations
+Workflow: Getting sounds into your library.
+Your most interesting recording of 2010
+So you found $3000 under your couch. What do you buy?
+Tips for mixing dialogue
+How do you create Single Sideband Modulation (SSB)?
+Post production communities
+Mixing with the client - how to deal with the nitty gritty
+Working Standing Up
+The process of editing and mixing 
+Where do you sit in a cinema?
+Misinterpreting sounds
+Edit Session Layout Tips for a Shootout
+Jack Of All Trades, Master of...Some?
+What is the future of recording technologies?
+Negative Space / Figure-Ground Perception in Sound
+creating the sound of exploding heads
+How to make very long recordings (of bees)
+Randy Thom Interview Question.
+What should I look for in microphones for home audio monitoring &quot;nanny audio cam&quot; system
+How do you use gain effectively?
+How to mic a 50 persons choir standing behind an orchestra
+Does it hurt to send phantom power to a mic with its own power supply?
+Audio software with alternative user interfaces (e.g. not mimicking a mixer)
+What does an active DI box offer that a passive doesn&#39;t?
+What production tools should we look at for a weekly podcast
+Sound Recording Disaster Stories!
+Do you listen to any podcasts about sound design?
+Templates and workflow
+Retaining High Frequencies when Varispeeding
+Film Predubs: real or virtual?
+Another Discovery of Wind in the Studio
+The Way Forward
+Advice for cutting car chase SFX
+Equipment setup for recording a podcast
+What is &quot;clipping&quot; distortion? What causes it, and how to avoid it when recording audio?
+What are some disadvantages of audacity?
+Monitoring multiple USB microphones
+Has anybody tried using GIT version control for session control of audio recordings?
+All-round vocal mic
+Linux digital recording — Audacity or Ardour?
+Free Music for DAW Practice
+What are your favorite headphones and why?
+What sound design books have influenced you the most? 
+What are the small bits in your field recording bag?
+What&#39;s the strangest sound you&#39;ve recorded?
+Audio File Organization
+Do you play an instrument?
+What is expected from a sound effects editor? 
+What sound bursts your bubble?
+My first field mic.
+Indie Feature Production and Post Production Audio Budgets
+Dubbing Stage Workflow
+Director knows nothing about sound. Take the job?
+What would sound sound like at the speed of sound? 
+Crossroads: Requesting some career advice
+Who makes the quietest microphone?!
+What is our responsibility to authenticity?
+Impulse Responses (IRs) - Do you download, buy, or DIY?
+What is your dream job?
+Mixing backgrounds/atmos for 5.1
+How loud is 0dB, and what is a good dB to mix to?
+Backgrounds for a dead city?
+Does a four year degree really matter?
+If you&#39;re a Sound Designer of a movie, do you have total supervision over what the trailer sounds like?
+Age Discrimination in the Audio Industry?
+Who Owns the Sounds You Design?
+Who&#39;s designing sound with an iPad?
+Step Compression: Do you use it?
+Radio Lab - A well and interestingly produced internet chat show
+How will portable recorders improve in the future?
+What five plugins are the most essential for your sound editing?
+Rode vs. Rycote
+Carrots are for eyes as ________ are for ears.
+Middleware for Flash / AS3
+Favourite PT quick-key?
+Serious use of self-recorded IR&#39;s
+Does Izotope RX and similar software make the location sound recordist complacent?
+Movies made to make you feel uncomfortable
+A Proud Husband
+Is it worth working for free?
+What are your favorite in-ear binaural microphones?
+Matrixing LR as MS?
+Tension sounds like…
+Recording the riots in London
+What&#39;s your favourite way to &quot;stereoize&quot; a mono file?
+What&#39;s your favorite, personally-stashed &#39;money&#39; sound?
+Backgrounds for Interiors
+Strategies for when you&#39;ve crashed into the wall under deadline
+Recording Music For A Doc, In The Amazon Jungle 
+Films with &quot;POV&quot; Audio
+What do sound designers need in a DAW?
+Selling sound fx recorded in public places.
+DIA Editing At Reel Breaks
+Resume Formats for Sound Editors/Designers
+Conflicts from a sonic perspective
+&quot;Stoker&quot; - sound design moves background to foreground
+Can someone explain &#39;phase&#39; and related terminology in audio production?
+How to record a Skype conversation ?
+How can I set PulseAudio to use convolution
+Why are all my recordings fuzzy and quiet!?
+Miking a grand piano
+Are there any Audio Interfaces supporting USB 3.0? If not, why?
+What is the best order in which to record instruments?
+How can I multitrack record my band practices?
+Achieving uniform level in lengthy spoken word recordings
+How does the MIDI data for polyphonic aftertouch differ from &quot;normal&quot; aftertouch?
+How do I know what volume to set my podcasts at?
+Can opening closed speaker cabinets for service affect the sound?
+What exactly is a &quot;bus&quot; on a Behringer Xenyx mixer?
+Why are drums generally panned to the listener&#39;s perspective but piano panned to the player&#39;s perspective?
+Linux tools for beginning electronic music production
+What is 0 dB in digital audio?
+Is it possible to record directly to a computer&#39;s CD drive?
+What is a good mastering chain to use in a DAW?
+Rules of thumb for EQing?
+Do new speakers require a &quot;break-in&quot; period?
+Fixing acoustics in a glorified hallway
+Freeware Virtual Instrument VSTi&#39;s
+Which Choir library would be recommended for film scoring, regardless of the price?
+How is this technique called with ethernet cable to stage
+Editing/Mastering workflow for a podcast
+Is there a losslessly compressed audio file?
+How do you get a job in a recording studio?
+Difference between microphone and line in inputs?
+Natural morph between 2 voices
+Mixing Water / Water Fall BG&#39;s
+Sound Devices New 702, or Used 744T?
+Best Broad Effects Library?
+Tips on Car Recording?
+Audio map of the Globe
+What&#39;s the origin of the word &quot;Stem&quot;?
+As a sound designer/Location Audio Recordist, what would you like a Director to know before production?
+How would you record a tesla coil?
+Re-micing via a Piano
+Left Brained or Right Brained?
+Reverb in Surround
+Recording the upheaval in the Middle East
+Editor/mixer &quot;therapy&quot;
+Underrated microphones
+Recording &quot;Blind&quot;
+Music Makers: Do you find your Sound Design skills influence your compositions?
+The merits and uses of Masking
+Game Dialogue Recording and Perspective
+Inspiration - What influences your aesthetic
+Monster Voice Sound Layering
+impact of democratization of technology on audio companies/freelancers
+What happens when you scream out of your window in Sweden at 10 PM
+A Huge Thank You
+Any plugins out there using GPGPU/CUDA/OpenCL for horsepower?
+How can I get a basic transcription of an audio recording using voice recognition?
+What audio interfaces/mixers work well under Linux?
+Are dialogues recorded separately while filming?
+Getting the kick drum to really come out in the mix?
+Headphones to block outside noise
+How can I get rid of the annoying background hum on a new Yeti Microphone
+How to reproduce any sound
+How is it possible to hear something at 44.1Khz?
+What key features should I look for when purchasing a mic for podcasting?
+Soft synth vs. hard synth
+Is it a good idea to use headphones for audio production?
+Imitating a phone call?
+How can I manually emulate the sonic abilities of the NES?
+Best way to mic up a group discussion
+How to reduce wind noise / audio overload on built-in microphones?
+What to look for in a vocal mic for a small home studio
+How should I mic a classical guitar?
+Filtering sounds to make it appear underwater
+What&#39;s the difference between a synthesizer and a sequencer?
+Ableton Live synths: Analog vs. Operator
+How to remove cigarette smoke smell from equipment?
+Sound system noise from lighting system
+Why is learning how to use DAWs appear more difficult than Video editing programs?
+Are outboard processors dead?
+Boost volume of track in GarageBand
+Is Garage Band a viable tool for home recording?
+General advice about sound spatialization
+Noise removal vs. adding bed noise
+General rules for panning?
+How do mp3 encoders compress audio?
+How should you mix / master when producing music for Video Games?
+What is &quot;latency&quot; in a digital recording studio?
+Potential problems with chaining mic cables?
+Shield my amp from my cell phone?
+What is the difference between Autotune and a Vocoder?
+How to recognize if Auto-Tune has been used in a recording? Is it needed?
+Help choosing audio rip format for longevity.
+How do song recognition services (like Shazam) work?
+DIY Portable Anechoic Chamber
+Really weird DIY shotgun mic (old, yes, but I just found it again...)
+Organizing Libraries
+How to approach M&amp;E Mixing
+What are your favorite spectral tools?
+Understanding Convolution Reverb
+Any good sites for collaborating on small projects? ie animations, short films etc?
+Portable Mic Preamp... Suggestions?
+What &quot;Boutique&quot; SFX collections would you like to see made available?
+Working/Apprenticing in post houses
+Schoeps Microphone Trivia
+Atmos recording: MS vs. AB vs. XY vs. ORTF
+Listening to your own work.
+What&#39;s your method of making time slow down?
+Professional Sound Designers - Do you make a comfortable living?
+Electronic Sounds, interface bips
+Would you rather use flat headphones for monitoring?
+How do I prepare my sound files professionally to share with others?
+Creating insect-like voices for talking flies
+What does the future hold?
+REQUEST: Windmill recordings
+Thinking outside the &quot;box&quot;
+Sound Design Documentation
+Handling handling noise...
+Automating a Dialogue/Foley Reverb
+How do you make fairly portable Foley surfaces?
+&quot;Underwater&quot; sound tricks!? How do you make it sound underwater-y
+Question of ownership
+Feedback on sound challenge webpage.
+Artist or technician?
+Harmonics and InfraSound
+Avant Garde Enthusiasts (drone, noise etc..)    
+Frequency and emotional response
+Moving worlds within audio post
+How much differnce does a good headphone makes in recording ?
+Mid/Side, is it magic? But how does it know its left from its right?
+Lav mic mounting tips
+Procrastinate Schmrocrastinate
+Weirdest thing you&#39;ve ever done for sound
+Pistachios - Taste and Sound Great
+What non-standard gear is an important part of your kit
+Some Gear Prawn
+Sound or Audio?
+What is your voice, as a sound designer?
+Practical Application of Binaural Sound Recording
+Are you a windjammer hair stylist?
+Referring to Yourself as a &quot;Sound Designer&quot; When Starting Out
+how to record wind?
+What do you get when an iPod goes through a washing machine?
+Is this the Zoom killer?
+IMDB Etiquette: Can you just claim your role?
+What was the job you were most proud of doing in 2011?
+I created an audio-focused puzzle game, and you should give it a shot. :)
+To compress or not to compress....
+copyright on mechanical sounds
+How to make nice whooshes??
+Sounds for your downloading pleasure - &quot;Machines in a Bullet Factory&quot;
+Sonic equivalent to the Uncanny Valley?
+Illiciting Negative Emotional Responses in Listeners
+Free Kontakt Wings Instrument
+How do you reverse engineer a sound?
+How to learn about audio recording and production
+What could be causing audible clicks in Tracktion 3 on Windows?
+How to cleanly punch piano?
+How do you remove white noise from recordings?
+How to get line-level record-out on Behringer X2442-usb?
+Doubling a track
+How far apart temporally can two sounds be heard while still sounding like they are playing at the same time?
+How do I mic an upright piano to get a nice stereo effect
+Wait to unplug with phantom power
+Can I record a sound frequency I can&#39;t hear and play it back so I can hear it?
+Is it better to use a DI unit or USB audio interface to connect guitar to PC?
+Normalising volume across thousands of files
+Using stereo to re-create a stage effect, or to enhance the experience?
+Converting voice into modem sounds
+What&#39;s the difference between dynamic and condensor microphones?
+How to eliminate guitar amp hum (software and hardware amps)
+What is the best way to mic a hammered dulcimer?
+What do I need to make reasonable quality amateur recordings of vocals/piano to put on Youtube?
+In what units is a sample&#39;s amplitude value represented, and how it relates to the real world?
+Software for Live Multi-Tracking Recording &amp; Mixing
+Voiceover drowns in music. How do I make it more dominant?
+Vocals plugin or Robot voice
+Adjusting MIDI latency in Ableton Live
+Eliminating recording latency -- what hardware and settings are needed?
+Using an Electronic Drum Kit as a MIDI controller
+How can I make a section in a song sound like it&#39;s coming from an AM radio?
+DIY MIDI knob Controller
+How do I sync a Mac and Windows laptop running Ableton Live?
+Can I create multiple mixes within the same project in Logic?
+MIDI SysEx utility?
+Lavalier for video production
+Setting up a home &#39;vocal booth&#39;
+What are the most used types of microphones and what are they best used for?
+I want the perfect gun sound, can I make it myself ? Any tip/theory ?
+In Ear Monitors - Alternatives?
+How do I synthesize this sound?
+Why is my cutting equalizer increasing output level?
+Why does your voice sound different when you record it?
+What is the resolution of human hearing?
+Mixing piano and guitar
+Audio tweaks pre-encoding for high quality MP3 output
+How can I get good reverb with audacity?
+Does headphone impedance make any difference except for volume?
+In which situations is Audio Expansion applied (opposite of compressors)?
+A mathematical formula describing Mains Hum
+What causes the background hissing in speakers?
+Useful reviews or &quot;best&quot; iPad remote automation controller for Pro Tools?
+Stereo and mono cables and jacks? What happens when you cross them?
+Strip Right channel in GarageBand
+How can I reduce noise with many cables?
+How to read and use a Phase / Vectorscope
+How do I use Audacity to make two tracks match volume?
+Ableton Live Instruments and Effects Have Disappeared From The Library...How to get them back?
+What exactly does it mean to normalize a track/how it is done?
+What is the best way of dealing with latency in Ableton?
+why is higher sample rate changing the sound for the worse? I think its changing the pitch
+How to move a sound back and forth or up and down
+Is a MIDI-enabled keyboard and a Windows machine enough by itself to record piano music well?
+Mono mixing - How to avoid mono &quot;fatigue&quot;?
+How can I pop out a pushed in woofer dome?
+Propellerhead Reason: Tutorials?
+How can I clean up my laptop&#39;s sound card input?
+Delay vs reverb
+Is there any free tool to generate a tone with gradually increasing pitch?
+Rule of thumb for the level of pre-show music in a theatre?
+Best vst for realistic violin articulations (disco)
+How can I qualify differences between compressors?
+Difference between TRS and XLR connectors
+Reducing breath noise
+How can I improve the tone quality of a clarinet track?
+Meaning of Feat. | Pres. | Vs. | &amp;
+How do you handle performers that want to &quot;fix it in the mix&quot;?
+Uses for Ring Mod
+Demo samples of common effect presets
+When does playing 320 Kbps MP3 instead of FLAC matter?
+Recordings the Americas by motorcycle
+Looking for inspiration to create a &quot;swarm sound&quot;
+Origin of the traditional Hollywood silencer sound?
+What does warm mean?
+How to dress when recording Foleys?
+Compressor vs Volume
+How to make money with sound design.
+The Obligatory &quot;Post Your Rig&quot; thread...
+Movies with &quot;POV&quot; of deaf characters
+Whats the best way of presenting a sound design showreel ?
+Techniques for making a crowd sound bigger and fuller
+Hmmm what about Sound Design talk? (jet engines)
+Do you design sound for video games as well as film and television?
+What behind the scenes videos about sound design would you recommend watching on the web?
+Composition versus sound design, what&#39;s the difference?
+DIY contact microphone
+How long do you usually take on a effect/on a track?
+Recording Glass Shatters
+Mics for metal (screaming vocals)
+How do I record snow-based foley without real snow?
+How much should I charge to edit dialogue for a video game?
+While editing dialogue, what tool do you use to eliminate clicks within words?
+Jurassic Park - Classic Roar
+Tips on Recording Gunshots
+How can I create, or where can I find a decent neck breaking sound?
+&quot;13 Ghosts&quot; voice effect 
+How are your Quickeys workflows?
+How do you create the deadliest sounding gunshots?
+Foley Recording Musts
+Parachute Sound?
+How do I make &quot;sound booth&quot; sounding ADR sound natural?
+Pro Tools on Windows vs. Mac: Any difference?
+How to Develop Critical Listening Skills?
+Wall of sound - sifting through it
+Tips on recording animals 
+What does it all mean when people say : &#39;Come to the studio and see what we do...&#39;?
+keeping insects away from furry windscreens
+Suggestions for a tensioned rope effect?
+Do you do any mastering to your film mixes?
+The Value of Home Studios in The Professional World
+Best way to format a drive for sound?
+Developing a workflow for editing and mastering raw material
+Goddess Voice Mix
+Can instrument effects pedals be used for (live) vocals?  Either at mic level or line level?
+What sounds can be effectively recording using just one channel (mono)?
+We need a Poll/Survey Generator for SSD, don&#39;t we?
+What&#39;s your strategy behind 192kHz recording?
+Where do you shop for used gear?
+Post project archival
+Best way to clean up plosives
+Field Recordists - How do you protect your mics on the way to the field?
+Is Sound Design the Best Job Ever?
+Happy accidents/unexpected discoveries in SFX recording
+Favorite plug-ins for building creature vocals
+Research/Investigation into fields of sound design
+Exported Region Groups or Sound Packs for TV Sound Designing?
+Ambience cuts between shots
+Removing Reverb
+What do you say when a client asks for more?
+Sound Design and Sound Mix
+Use of Master faders in a PT mix
+What bag do you use for your field recorder?
+How reliable is Plural Eyes for syncing? 
+When worldizing a voice, do you capture ambience tracks?
+Baby voice-over
+Top-Down Perspective Game Audio
+How Did They Do That?? Vol. 1: The Predator &quot;clicks&quot;
+Contract examples
+workflow: spotting with the client
+An Education in Storytelling
+Boom op clothing
+(UK) Sidestepping into film sound... a possibility?
+Any good use for digital distortion?
+What speakers do you use for Worldizing...
+Audio Illusions
+Scanner/Radio/Transmission Fans out there?
+If you could tell your picture editor anything... 
+Film school: Worth it or not?
+How do you wander about with your Handheld Recorder?
+a day or two without sight
+The Softer Side of Sound Design
+NAB 2011 - Findings
+Microphone Evaluation Sessions
+The Bare Minimum
+Death of Osama Bin Laden -- so who&#39;s recording the crowds in NYC and outside the White House?
+Any tips on creating &quot;dangerous/harsh&quot; backgrounds
+Have any of you tried Soundtorch? 
+Damaged Ears are common
+Trouble creating Punching SFX
+Iphone 4 field recording
+Thoughts on Ableton Live?
+Sound Librarian (The Job-Title, Not The Software)
+Lemmings woke my cat
+Finding Used Equipment
+Share your audio jokes.
+Distortion - how?
+How do you become the best freelancer possible....
+Sound Designer&#39;s Commentary
+Cutting a car chase
+prepping tracks for international release (M&amp;E)
+Christmas day = dead quiet city. what to record?
+Video Editing Sound Designer
+Have you a favourite film about sound?
+Which stem would breathing go in?
+Have you ever turned down work for moral reasons?
+Explain the Fletcher-Munson Curve To An Idiot
+inexpensive soundproofing material
+Edit Changes for a Feature-Length
+Room tone/atmosphere from the point of view of a shrunken person
+Location recording of skateboard
+Emotional Monster Voices
+Golden Mean/Flower of Life/Rule of Thirds and Sound
+Why can cheap mics be eq to sound like expensive ones?
+Female Sound Designer/Engineers/Editors????
+Pro Tools 10:Region Gain
+The Best of Simple Ideas
+Tips for cutting bullet bys
+What is everyone doing for contact mics?
+What is the most invaluable advice, tip or trick you have learnt through Social Sound Design?
+Pro Tools to VCR to Pro Tools
+Recording experiments at 192kHz: what to record?
+How to make a sound of dragon roar?
+Bassline Not Audible on Laptop Speakers
+Individual performing complete band performance (eg rock) by sequentially recording each instrument
+Why do my vocal recordings sound thin and muffled?
+Voiceover workflow tips? (Specifcally, workflow and processing...)
+Where do the actual sounds come from in electronic music?
+Is it possible to set up a live multitrack recording rig with what I have?
+Recording gear for (small) children: Recommendations?
+Help with mastering
+Miking a djembe
+Control Synths with Voice
+Remixes, Sampling and The Law
+Modern rock bass drum recording techniques
+Zoom H2 recording levels are too low
+After modifying the tempo of a recording I get a echo/ripple -- how do I remove that?
+Stream Windows audio over the network
+How to judge preamp and A/D quality on a USB audio interface?
+how can I make sounds of different frequencies appear subjectively equally loud?
+Best setup for a portable studio?
+extract specific frequencies from audio
+Do audio interfaces output sounds from my computer or only from the input devices?
+How do I mic a violin?
+&quot;Subtracting&quot; specific audio using an Isolated track from the same mix.
+Rendering vs. recording in ableton live?
+How do I properly set levels for a recording and the environment I&#39;m mixing in?
+Why does higher quality audio have lower volume?
+Does cpuscaling have any signifcant effect on audio production?
+How to loop vinyl records?
+Transposing Instruments in Logic Pro
+Keyboard in a musical pit band
+What is the most effective way to reverse engineer SysEx format for my old Yamaha CS1x
+How to Change Pitch Bend in MIDI?
+How to reduce bleed on vocal and instrument mics in a live recording?
+Looking for a MIDI note re-mapper VST.
+What the difference between the types of dithering algorithms in Logic Pro?
+Is it possible to move multitrack files between sequencers?
+Can MIDI Designer control other iPad apps?
+Exporting multiple tracks to MIDI in Ableton Live
+How do I match a microphone to a preamp
+Is there a significant difference in sound quality between 1/4&quot; jacks and three pronged XLR inputs for microphones?
+Tips for silently prompting people to not get too close to mics?
+Does constant phantom power (24/7) to a microphone wear it out faster?
+Recording acoustic guitar with Zoom H4
+What are those switches on my microphone, having something to do with directions?
+Podcast recording tips
+Bluetooth headset as a microphone
+How to create the muffled sound effect like hearing through walls?
+Live rock band having issues with vocals being buried
+Is it wrong to use compression on the master bus?
+How can an electronics person start to reverse-engineer analog synth sounds?
+How can I lock my keyboard?
+How can I reduce interference with two radio microphones?
+I would like to learn to mix tracks into a DJ set - where should I start?
+What is a snake and what are they used for?
+Keeping multitrack files online
+How to avoid a muddy mixdown?
+6 ohm speakers and 8 ohm receiver
+Understanding waveform representation?
+Audio Mixer Inputs and Outputs
+Will a magnetically shielded studio monitor mess up my hard drive?
+Sound system for home theater and band
+Does buying Komplete 8 help me at all if I already own Ableton?
+Voiceover Recording Equipment
+Cooled, soundproof enclosure for a noisy laptop in a bedroom studio?
+Stereo imaging with headphones
+In Ableton, how come cropped samples aren&#39;t cropped as much when imported later?
+Filter applause from videos
+How to avoid clipping when explicitly adding audio tracks?
+What is the outside volume of open and semi-closed headphones?
+Is it worth supporting VST3?
+VST Issue with REAPER and Superior Drummer
+Proper way to wear Grado headphones?
+Headphone cables: Coiled v.s Straight
+What video editing software allows for easy alignment of visual transitions with the soundtrack?
+Is it possible to loop MP3 without gaps?
+In what ways does mp4 improve on mp3?
+What happens when you save a MP3 with a higher quaility?
+What are good alternatives to studio foam for a home studio?
+How do I generate a chord (one bit)?
+How to make feedback in Ableton Live?
+Sequencing with VSTs - does 64bit matter?
+&quot;Extreme&quot; EQ curves
+How can I get my drum and bass hihats and snares to sound correct?
+Reason: Why do my songs sound dull and soft?
+Multiple loop phrases in Ableton looper?
+How do you properly place studio monitors cheaply?
+Online Collaboration Sites
+Better playback in Sibelius
+What causes a buzzing that goes away when I touch the jack?
+Reproducing a reverb/echo
+How can I cut out a particular instrument in the same pitch range as other instruments I don&#39;t want to cut?
+How do I make my guitar sound as smooth as possible?
+Are there any drawbacks when recording instruments out of order according to the preferred method?
+Real time fx in Reaper
+List of free notation software
+Setup, EQ changes based on tuning of guitar
+What is the key parameter for a sound card, if I want to record at home using Guitar rig?
+Audio tracker for Linux with support for VST/VSTi
+Will a generator work with a portable DJ setup?
+Is there any Windows, Mac, or Unix software similar to LSDJ for writing &quot;chiptunes&quot;?
+How to improve live sound within poor stage layout?
+Side chaining noise gate
+Are there any free reverse delay AU plugins
+How to use CV Piano in FL Studio?
+Appropriate Subwoofer Coverage
+Does anyone have any experience with available RTA software packages for live venue application?
+What is the &#39;click&#39; noise that an amplifier makes after you turn it on/off?
+How to check a Master Audio CD for Errors?
+Digital Effects Unit
+Which distortion pedals have a strong low and low-mid frequency response?
+FL Studio: How can I change the instruments of an imported MIDI file?
+Is there still any reliability gap between digital and analog mixers
+Difference between 3.5mm and quarter inch plug?
+What is a &quot;ducker&quot;?
+Sample-accurate AIFF to WAV conversion on Mac OSX
+Can I use front-ported monitors against a wall (or crowded desk) without problems?
+Creating a classic ska sound
+Any small bus-powered USB mixers on the market?
+Which effects should I place on return tracks?
+What&#39;s the difference between a compressor and a maximizer?
+What subjects would you like to see investigated and reported on in the world of sound for picture?
+What are some tips and techniques on recording paper, pencil, chalkboard and other often harsh sounding foley?
+Foley Metal Footsteps
+Sound Design depicting mental illness in film
+USB input high-pitched whine
+How would one &quot;morph&quot; human vocals with a bat scream?
+Making a &quot;Gears turning&quot; Effect, and then grinding to a halt
+Need help cleaning, and editing sound effects using multiple mics
+Any documentary films on Sound Design in Film?
+Why Are Professional Sound Libraries So Noisy?
+Why some people high pass and low pass in final mixing? And why some don&#39;t?
+Sound Recording for Film
+Book recommendations on surround sound
+10 best sites for sound design tips &amp; tricks???
+Sound off on Noise Reduction!
+What are your favourite sounds?
+How do you record your ambiences? 
+Getting past your sound design &quot;writing blocks&quot;
+Good visual source material to practice sound design on?
+Have you ever had trouble with the authorities while recording?
+How do binaural recordings sound in a typical stereo situation?
+Outboard Processing/Pedals?
+Really nice sound!
+Travelling with gear (customs)
+What makes a sound funny?
+How do you stay original?
+Tripods/Grips for Handheld Recorders
+Usefulness of &quot;guerrilla&quot; vs. &quot;pro&quot; recordings
+Zoom H2 Frequency Response - 70hz?
+Timecode irregularity post
+Pro Tools vs Logic...
+SAMPLERS: What are you using?
+How important is union membership for sound designers and production sound mixers?
+Futz to make a good newscast sound?
+How to widen a sound effects dynamics? Uncompression?
+Recording a wheelchair
+Tiny footsteps/foley?
+Favorite Mic for Dialogue
+In ear headphones for stealth street recording
+Got any good stories of dangerous recording?
+Recording location dialogue
+Do you sit in on the mix?
+Sound design courses and full education programs.
+What is your favorite scream?
+Embedding or attaching a picture when cataloguing sound FX
+Hearing protection during editing/mixing sessions
+SPL Meter Question
+SPL During Mix Sessions on a Stage
+Nice SFX recording mics that are cheap enough that you wouldn&#39;t be too upset if they were blown apart in a freak recording accident?
+What&#39;s a good basic mic set for recording SFX
+What&#39;s your favorite mix / sound design from a Suspense Thriller?
+Best use of sound design in a comedy?
+Sound design Education
+Video game sound design
+recording outdoor crowd walla
+How do I practice Sound Design?
+Video Game Trailer Critique?
+most annoying sound ever
+How would you get your career started?
+From PA to Location Audio or Sound Designer
+Career Potential in Field Recording
+How Do You Hone Your Acoustic Storytelling Skills?
+How do I get meaningful experience if I&#39;m in the middle of nowhere?
+What&#39;s Your Preferred Method of Pitch-Shifting?
+Disorientated Slow Motion Film Effects
+Noise reduction on my library sounds? Yes or no?
+Making dialogue more intelligible through M&amp;E
+Should we bring the apprenticeship back?
+The bright side of compressed time schedules?
+Designing a Humongous God-voice
+What are some sounds that interest you?
+what would be the minimum required knowledge to start an internship/apprenticeship? 
+What to buy 744T with TC-Slate or H4N with regular slate?
+Getting ambience when it is really quiet.
+Speaker set-up for a projector
+Matching Dialogue between different takes
+How bright should Dialogue be?
+re: recording ultrasonic frequencies
+Wind Protection - options
+What does Foley mean?
+Recording Guns Indoors
+Linking to Source Media in Final Cut OMFs
+How would a virtual sound design internship work?
+Sound Libraries Index
+Technical question about Foley
+Sound Design in Argentina Documentary
+The &quot;make-a-sound-thin&quot; thread
+What do you automate and what do you audiosuite?
+What records well to tape?
+Feedback for new blog..  Free Samples!
+Ever notice that Laughter has a definite rhythm?
+Electronic Sparking/Arcing Sounds
+How to capture tire (tyre) textures when recording vehicles?
+Hey Guys Girls, so who Tweets here?
+Will I really have to spend $2000 for an MBox 2 Pro and DV toolkit so that I can learn it while being able to read OMFs?
+Who out there still uses Master Faders anymore? 
+Who has / uses a single point surround mic?
+Body Falls, Punches, and the like
+Advice for recording in high humidity
+Using Poly Wav files in Logic Studio 9
+Any feedback on the monthly Sound Design Challenge now that it&#39;s done?
+Best quality, affordable Shotgun mic
+Dia always the same level?
+What are some of your favorite voice effects?
+How do you bill for video game sound effects?
+Processing Whooshes
+Showreel focusing on dialogue editing and location recording
+Creating Large Animal Breathing Sounds
+You ever get that quitting feeling?
+What were some of your first projects?
+Inspiration from the world of music production
+Useful ways of using Strip Silence
+Sound Effects libraries and structuring
+Is there much of a penalty for missing deadlines?
+pirate audio samples - how risky is it really?
+Theater Sound Design Resources
+Anyone use XLR caps in the field?
+Finding Audio Work - where do you look? 
+Mixing Battle Scenes In Surround
+Has anyone got experience with the Tascam DR-680?
+Foreign field audio?
+Implying gracefulness 
+Radiofrequency hearing
+Equipment affected by cold/altitude
+sfx library codewords
+Creative Commons and Copyright
+Transcription of interview with Dane Davis
+Alternative to standard Sony PCM D50 windsock?
+Pro Tools HD 9 vs Nuendo 5
+Do you do long takes or short takes when recording SFX?
+The future in sound design and plug-in technologies
+How to tackle long hours of boom operation?
+Mixing Midside Mid and Side Brands
+How Did They Do That?? Vol. 2: Ghostbusters “proton pack”
+Decreasing the pace of footsteps once they&#39;ve been added (in Pro Tools)
+Reference movies for dialog panning 
+Divergence in Surround
+Fieldmixer / Recorder combo suggestions?
+Infrasound, 19Hz, Resonating Eyeballs and Other Psychoacoustic Tricks
+What do you know about people who design audio equipment?
+Finding things to record on the go
+What could a future (software) interface for sound-design/mixing look like?
+Quoting for post sound production.
+When the ears refuse to talk to the brain, what do you do?
+De-Sickness plug-in?
+work and reconform or wait?
+Twitter Users on here?
+Production sound mic mixing
+Working with video editors
+Separating Early reflections from Diffuse in an Impulse Response
+Massive thread of ideas, processes, processing, techniques, examples, to help you help yourself (while sharing with others)
+Client asking for sound files
+Earbud recommendations?
+Where&#39;s Wilhelm?
+Starting before picture lock
+WTF? Zoom h4n rattle.
+How do you thank somebody for letting you record their stuff?
+N00b to Max/MSP 
+Microsound/Fourier/Granular Synthesis
+Tips on creating &quot;frozen bodypart ripped apart&quot;
+How many of you went to school for sound?
+Is it bad to plug in a mic when phantom power is on? 
+Using a expander for noise reduction, Yes or No
+Rate of Pay for Services
+Smashing a car windshield
+Looking for dream sequence references
+Free VST Effects and Instruments
+How do you &#39;cleanse the pallet&#39;?
+Ear Protection While Cycling
+Dialog Editing Compression?
+How to deal with a bad film?
+iZotope RX vs RX 2 vs RX 2 Advanced?
+Doin&#39; It Stereo in the Field
+Radio Drama Anyone?
+Deals Deals Deals
+Physical reactions to sounds you know really well
+recreating the dialogue sounds of the 60s
+Phaser/Flanger/Frequency Shifter - helicopter propeller
+Tackling the 100-200Hz mix overload
+City ambiences: what do you need?
+Masters Research Paper Survey 
+Engineering Sounds
+The Speed of Sound: Why does the sound of a car approaching lasts shorter than passing on?
+LOUD MEAN DRAGON
+Recording actors on roller blades
+Why do some companies still sell SFX with 44.1 kHz sample-rates ?
+Production Audio Check List
+Sound Design on Tribes: Ascend - Part 2
+Alternatives to Waves S360&#176; Imager plugin?
+Contact Mic alternative to Barcus Berry
+Upgrading my gear - would love some input! Mics, field recorders and wind protection.
+Getting into business after 25? .)
+Social Sound Design Meetup?
+Business Cards / Titles
+iPad controller app for Pro Tools
+Worry about broadcast specs on LtRt/LoRo fold-downs?
+Accidentally Mimicking the &quot;Pros&quot;: Healthy?
+How to give a feeling of distance/position
+Game Audio Culture
+Radio Spot Specs
+Dialogue Recording Levels
+Old camera flashes 
+Writing Sound for a movie
+Creating high frequency tones /shimmering metals
+a de-esser request...
+Questions you want answered at AES?
+Placing sounds in the distance, outdoors
+Contract examples for location recording...?
+Footsteps for Kontakt
+looking for training / sound design studies
+Glitchy sound design how-to? Example inside
+Rode Boom pole enquiry
+Holiday Gifts for Sound Designers?
+Quick survey re: magical sounds
+The Boring Stuff - Bookkeeping: Do you do it? Which program do you use?
+Black Friday Discounts
+Use of library sounds vs recording from scratch?
+Is pro tools worth it?
+Designing Game Menu/Interface Sounds?
+Un-easy frequencies used in film to create tension?
+Best shoes for a boom-op?
+New Sound Design Samples...Junebugs, Trams and Icemakers Oh My!
+Rigging Microphones in Cars
+Best Condenser for &lt;$100?
+top 8 foley pit surfaces?
+lip syncing dialogue any tips?
+Where does one get started looking for a sound designer?
+Scifi Laser Sounds - What works for you?
+Asked to use copyright material instead of original
+Perhaps SSD needs a chat space??
+How do you get to know microphones and decide on microphone purchases?
+8bit old school nintendo sound FX
+Middle Eastern Atmos
+Have you ever been a laugh man?
+Sound vs. Space
+Izotope&#39;s  Iris vs Camel Audio&#39;s Alchemy - Initial reactions?
+if you were a teacher in sound design...
+Cigarette smoke and mics
+Sound Design on Tribes: Ascend with ProTools signal generator.
+Queen&#39;s Jubilee Celebrations
+Field Recordists: What is your post workflow?
+Procedural Audio (in Game Sound Design)? - General Discussion
+Sound Design &amp; 5.1
+Add Metadata To Impulse Responses
+New Product: LEAP
+Any tips on getting permission to record in secure places
+Are there tools to seamlessly loop sounds?
+BBC - The Alchemists of Sound
+How do you record loud sounds?
+Working by yourself
+Lite wind/air libraries
+LFO sounds in nature
+Best online website for hunting used field recording gear
+Does it stay this fun?
+Creative Use Of BGs In Film
+Sound Library Usage for Freelancers
+When and how to set the limiter while mixing film?
+Early Reflections?
+sound of flour monster
+Printing Press Recordings.
+Recording BIG Sounds
+Sound Design in Anime
+To vocode or to convolve, that be the question....
+Awesome solution - Zoom H6 Handy Recorder !!!
+The issue of Mentorship for entering the industry for the 1st time
+Basic convolution of two sound files
+gift ideas for an aspiring sound designer
+How to design lava/volcano sounds
+Fastest way to manual sync Audio rushes in Pro Tools 10 *** without EDLs***?
+Recording shouted dialogue
+A Recording Ethics Question/Survey
+How do I name all these telemetrics sound effects?
+Over-sensitive ears
+How to record one or several celli?
+What is the best drums midi recorder?
+How to record from two PC microphones with one computer?
+My instruments sound muffled on consumer gear and radio, even though it sounds okay in the studio? What can I do to fix it and why is it like this?
+What type of information can I get from the waveform and the spectrum of audio?
+How should I compare headphones?
+General (studio) headphones question; impedance, tonality, mixing
+How do monitor speakers not produce feedback?
+FLAC vs MP3 (Lossless vs Lossy)
+Vectorized audio? Does it exist? Its pros and cons? Which formats?
+Saving modified MIDI patch information within track data itself
+What to fix first, audio or video?
+Garageband export volume issue
+Recording with Ableton - good or bad idea?
+Can sounds I can&#39;t hear be dectected and recorded?
+How do below-freezing temperatures affect audio equipment?
+Is there a &#39;diff tool&#39; for audio?
+How can I invert the amplification of two tracks?
+Not enough patches in my stage piano
+Preserve embedded album art when converting from .flac to .ogg
+How to loop an engine sound so that it doesn&#39;t sound looped?
+Clean up Lecture recordings
+How do audio engineers (physically) treat rooms for studios?
+Why does does my audio go out of sync every time I reencode either the audio or video stream?
+How should I start recording my band?
+Wireless mic problem: Amplitude sounds like it is &quot;jittering&quot; up and down by a few db
+Record a video without static noise
+Does hardware DSP help with plugin processing?
+Downmix to audio 2.1
+How to display video via audio from a computer
+TV commercials that start with a voice over, and later cut to the narrator
+How can I create dubstep-style wobble bass lines in Audacity?
+How to avoid/remove the hissing in your recorded audio track.
+Second Microphone for Stereo Recordings: Identical or Different?
+Which music sw should I consider for aligning audio waveforms to MIDI piano roll, looping MIDI, managing program change, SysEx?
+Does this sound wave of a voice-over track look normal?
+fast routing (switching) of a single output to n distinct monitors
+Software that actually produces instrument sounds
+Record a live show on 6 tracks
+How to record yelling?
+Simple free program to add audio to video?
+Determining streaming container format
+Is it common to have problems when recording audio on a computer as opposed to a multi-track recorder?
+Planning a simple setup for recording violin
+Playing a channel whilst recording another in Sound Forge
+Fix for terrible &quot;Hard Drive Noise&quot; Audio Interference?
+Recording from Turntables to Laptop causes heavy distortion
+How can I record my singing voice the way I hear it?
+Heavy Metal Vocal Equipment and Processing?
+Acoustic guitar sound of Dylan MTV unplugged
+How can I automate/loop signature changes in Ableton?
+looking for software for converting audio -&gt; midi
+Does Logic Pro have a scripting language?
+Replace-recording for MIDI in Logic Pro
+Is it possible to connect an Alesis DM6 to Reason and track drums?
+Which software sequencers are good for live performances?
+Does Logic Pro support Rewire 64-bit (for Reason 6)?
+Cubase, midi device and Latency
+Will an Emagic Logic Control work properly with Logic 8 or 9?
+Mapping Mod and Pitch bend controls to a knob in Ableton?
+Patch Change with MainStage does not sync UltraBeat Patterns
+Creating MIDI Files - Explanation of time division in header chunk
+Does Logic 9 solve the lost MIDI mapping problems that were present in Logic 8?
+How to connect two (2) MIDI devices to an Audio Interface with only one (1) MIDI In port?
+How to sync playback control of Record and Reaper, without ReWire?
+difference between channel and track in midi files
+Pro Tools MIDI setup
+MIDI/OSC: Control Surface status
+Is there a wifi MIDI controller keyboard?
+Gang Vocal Recording Techniques
+How to amplify mans voice in a noisy recording?
+Do all USB microphones that offer &#39;monitoring&#39; appear as output devices to the computer?
+Shotgun on boom or handheld?
+Power supply noise in cheap condenser mic: is this normal?
+Can&#39;t get rid of this humming noise in recordings
+Using both dynamic and condenser microphone to record vocal?
+How can I clean vocal microphone grill?
+Single-mic close-miked solution for acoustic guitar?
+Micing a big square room
+Where did the 3:1 rule come from?
+Microphone for recording sounds on the Mac?
+How do I use a microphone on my PC sound card to automatically create a &quot;sweet spot&quot; with excellent frequency response?
+Recording/mixing/mastering drums
+Techniques on Mastering
+Side chain sources for a compressor working on a guitar or bass signal?
+How to record my Mackie digitally via USB?
+Setting up Tascam FW-1804 with newest MacBook Pro model
+How can I properly use/opmize REWIRE to join Ableton Live 8.2 and Reason 5
+Good soundcard for Windows 7, no latency audio + MIDI in/out
+Where can I find a multioscillator synth?
+Low-cost WEARABLE midi motion sensors
+Reason ReWire Problem in ProTools LE 7.4.2
+How do I mic a drum set for live recording a rock band?
+Synthesizer patch - how to make a glassy sound
+Do you know other wave equations?
+Solo a track with a Gate sidechained to a grouped track?
+How can I simulate a palm mute effect in Reason?
+How to merge time-lapse videos and soundtrack?
+Using effects without dry/wet parameter in Cubase
+What is this incredibly annoying noise?
+Totally confused with the plethora of different electronic music production hardware; any way to work out what they do?
+Ableton: How do I automatically make a Clip &quot;on beat&quot;?
+Easy to use open source DAW?
+Do any of the popular DAWs allow you to insert a &quot;pause&quot; into a project.
+How early, how often do I need to mix-down?
+How can I get rid of phasing on source audio?
+What is this static in front of the audio in MP3?
+What software is best to record stereo and encode mp3
+How do you decide how much to charge a client for Audio / Music jobs?
+Is it possible to get two-way audio using ReWire?
+Is there something wrong with my ears? (perception of frequency and their dynamics)
+Ableton Live - viewing / editing CC sostenuto data
+Sending different ranges of frequencies to separate channels?
+what causes the difference in cord quality between brands?
+How do I keep a recording session tidy and organised
+S/PDIF from PC to Mixer
+Looking for ambient sounds that could pass as 1830&#39;s London
+Going about creating a new song in a DAW?
+Questions about simple single-track line-in recording
+Which DAW, when rewired with Record / Reason, is better on system performance?
+Headphone amp sliders are making noise. Worth fixing or not?
+Should I ever use a bit depth less than 24 bits?
+I have two computers with audio output, and I&#39;d like to monitor both, simultaneously, with one set of speakers. What do I need?
+How to isolate specific sound from a sample in Ableton
+TRS/TS vs RCA cable?
+When should I trust my ears over the phase/vector/lissajous scope?
+What are the differences between budget and more expensive hardware compressors?
+Quick CD from Pro Tools mixes
+What equipment do I need to transfer audio from MiniDisc to hard disk?
+Stereo panning, headphones and speakers difference
+Why do some musicians/groups create a last track with tons of silence in the middle?
+Headphone amplifiers
+How to get rid of static background hum
+what is the purpose of a Aux return
+Ableton Live - Editing / Moving multiple envelope points at the same time as your note data?
+What are the challenges in audio for the bass line?
+What is the difference between a balanced and unbalanced mono jack?
+Speed up a selection in reaper
+Freeware Guitar Amp Sim VSTs
+Novation Launchpad as drum pads?
+Is there a music genre or type of sound to help drown out background noise for the purpose of concentration?
+How is Automatic Double Tracking (ADT) achieved using tape delay?
+CAT5 UTP for Audio?
+Is GarageBand not part of OSX anymore?
+Fixing low-frequency hum in an undersaddle acoustic guitar pickup
+Why do studio monitors use analog cables instead of digital?
+What is a TRSF connector?
+What&#39;s the vocal effect for the Vogons in the Hitchhiker&#39;s Guide to the Galaxy radio series?
+What do various sounds look like on the wave spectrum
+Organizing Nat sound in documentary film
+VST Plugins similar to Dblue Glitch?
+How do you replace a broken volume pot?
+What is Presence?
+How Do You Clean RCA Ports?
+How to create soundbanks or similar type of resources
+Scratchy volume pot
+Sine wave frequencies
+What is the difference between a 4-Bus and a 4/2 Bus mixer? What does the slash mean?
+How do I fix clipping distortion in my audio recording?
+Neutrik XLR 1/4&quot; Combo Jacks and Phantom Power
+Maximum length for an unbalanced cable?
+Is there ANY software that will play the lossless part of HD-AAC (aka MPEG-4 SLS)?
+What are the Concentric Ring Connectors On Wireless Capsules called?
+Batch conversion of Sounds with Different Format to one Format, how?
+How important is &quot;finding plugins&quot;?
+Is it safe to power audio devices on all at once with a single switch?
+Best hardware / performance setup for softsynth storage and usage.
+Tape for labeling gear with a marker?
+Can I publish a DJ mix of current chart music online?
+Placing Monitors On-Stage
+Looking for a Sound Editor for Mac OSX
+Free, newbie-friendly tracker software?
+Acceptable hardware delay
+Amplify a person&#39;s voice in a phone record
+REQUEST: Playful elephants
+Transpose a track 6 octaves in Ableton Live in realtime
+How to choose a microphone for my requirements?
+Films that push the boundaries of Sound Design?
+Effective way to reduce breathing in ADRs and Voiceovers!
+Lightning hit sounds with everyday objects?
+What is Abstract Sound Design?
+Where to find gusty wind recordings
+Mix Up or Mix Down?
+How To Make Cicada Sound
+Sound Design Etiquette?
+Why are they called DX, FX, MX?
+Is there any reason that AudioEase couldn&#39;t make an IR from the Tenman Horn?
+Video game music setup
+Stereo Hydrophone Technique
+Tools For Making Sample Libraries?
+How To Create a Net Launcher Sound
+What constitutes &#39;high-quality&#39; audio?
+Is it recommended to record a whole album with an iPad only?
+Any tips for close miking SFX and getting good transient responses?
+Foley: a rolling rock
+sound design for a quiet room
+Sound Psychology an explanation
+What is the &quot;level&quot; of Frequency Modulation of many synthesizers?
+What can I research to back up my sound design?
+Designing the sound of cities in a positive way. Any Ideas?
+I want to know how to shout into my mic without distortion
+How much of an effect does gain structure have on feedback?
+Why is my mix sounding dull and amateurish?
+Making dialog appear &quot;distant&quot;
+Does a Headphone Amp Increase Output Volume?
+Are flat-eq monitors actually necessary?
+Audacity causing unwanted artifacts for high frequency sounds
+Can I edit sound as fourier transformations?
+Can you suggest a good contact mic for sound design? (average cost of proposal would be much appreciated)
+A good value sound library search engine for the Mac?
+How do you insure your gear?  Or do you?
+hmm... Demo Reel??? yeah right!
+Do you ever switch off when watching a movie or are you always listening like a pro?
+Legalities of sport TV in background? 
+How to buy music so that the greatest proportion of the money goes to the artist?
+&quot;Guerilla&quot; (not &quot;Gorilla&quot;) sound recording
+What sound samples haven&#39;t been recorded?
+Tips for recording/designing ball kicks 
+Paths to Pro work?
+Best Convolution Impulse Response combos for SFX?
+1-bit recording?
+Favorite Zombie Sounds?
+Best budget microphone to record foley
+What is best way to record a doublebass in a home studio enviroment?
+Which DAW do you use?
+Worldizing and reamping experiences?
+Pro Tools and Adobe Premiere
+552 Mixer or 702 Recorder? (Sound Devices) 
+Are you colorblind? [survey]
+Timecode Standards
+Sound design that cuts through crowd noise
+TV Broadcast Levels
+Getting rid of room sound on a voice recording? 
+What term am I looking for?
+Evaluation of sound designs.
+More reliable hard drives?
+Sounds in Surround
+How to deal with OMF/AAF on PC platforms
+Noise Cancelling Headphones
+Sound Design Input Devices
+Small budget solution for portable recording
+Neumann KMR82i for FX recording
+How do I make a lapel mic sound good?
+Apprenticeship for Sound Designers?
+M/S mic options
+Pro Tools Hardware in the Home Studio
+Sound effects library that is full of big rocks!
+Mic Position and Acoustics
+Free to use (CCL) animations to sound design
+What&#39;s YOUR &quot;Wilhelm Scream?&quot;
+Building a Soundscape
+Mic Position for Footsteps
+whoosh and blur sound effects
+Turning over ADR
+Your Favorite Sound to create 
+Video Files, Frame Rates and Codecs Oh My
+Neumann KMR 81i
+How to get organised...
+How can I make this deep thud sound, like a cannon in the distance?
+converting Images into music masterpieces 
+Decent and affordable home monitoring setup
+Mixing for Television
+Best Sound Design for a Villain
+SCAD - Graduate Sound Design Program
+Low-budget field recorder with good pre-amp
+How do I charge for sound design?
+Recording Sound Effects in Urban Environments
+Tiny Perspective
+Complexity in Cutting
+iPod Apps to record sound
+7.1 going to be the new standard?
+Favourite Foley Props
+When will films be mixed at 96K?
+First EVER live-production student film...Audio and Video separate? 
+Can you please explain &quot;Scanned Synthesis&quot;?
+Attribution-License Sounds in a Demo Reel
+How do you maintain good ear health?
+Do you use keyboard to design?
+Computers vs. handmade equipment
+your favourite sound
+Recommendations for a beginner setup
+Length of time working on an unpaid internship
+In the studio, should I have a sub or not?
+Can you plan field recording to avoid flight patterns / air traffic?
+My Academic Research- Would LOVE some suggestions!
+The Sound That Got Away
+What is the workflow for audio post for TV?
+In defense of narration...
+How often do you send mics to the doctor?
+Having some absolute base quality sounds to use as a palette for sound design?
+Using a Bow for Sound Effects
+Creating sounds for a T-Rex?
+What&#39;s the best city for sound designers to start their careers?
+Mastering sound effects and impulse responses
+Rock-solid telescoping mic boom arms?
+Compression? When do you use it, if ever?
+How are you using your channels in 5.1 mixes for TV
+Making a sound that&#39;s loopable.
+Does anybody know much about product sound design?
+Suggestions on composer/sound designer relationships?
+Recording Fireworks
+What do you use Waves Enigma for?
+Hydrophone Recording
+An alternative to a blimp? (...a small pistol grip for example?)
+Anyone using a SD 702 with a SD mixer?
+In search of sound schools
+Am I weird for wanting to buy this to record?
+How far from traffic should you be to get a clean nature recording?
+Figuring out if I&#39;m &quot;allowed&quot; to record something
+recording motorcycle
+How do you LICENSE your sound effects?
+What to record in a 2-mile tunnel.
+1800-ish SFX Library for film battle?
+Looking for good resources regarding film analysis
+What does the future hold for video game sound design?
+Use of reverbs in mixing.
+Creating &quot;Vintage&quot; Sound
+Portable mic stands, laptop bags, bags for mics? (equipment for a travelling recordist)
+Do you use reaktor, Max, PD?
+How should I approach a stranger online about an internship?
+Can we be sure that our sound design works?
+Who uses Freesound.org on a regular basis?
+What are some of the oddest filenames in your library?
+What do colors sound like?
+Recording on impulse! Strategies for being prepared?
+While mixing, how aggressive should I get with EQing?
+What&#39;s the best podium microphone?
+UPDATE TECH QUESTION: Slow to boot Pro Tools 9
+Sound Design Trivia Pop Quiz: In the hit song &quot;Thriller&quot;, where did the wolf howling sound effects come from in the beginning?
+Recording MS without a decoder?
+Do you use colored regions at all?
+The best Pro Tools pitchshifter
+What do you use to Conform to new picture cuts?
+Uniqueness or quality?
+Sound designing for an Iphone Game - approaches? 
+What scheduling software do you use?
+Old Movie Phasing
+Low bitrate pitfalls
+Who&#39;s using an Ebow and how?
+Good references for learning Mixing?
+Zoom H4N - Opinions?
+Any SSD folks living near Belarus? There&#39;s a fortress there that needs to be recorded.
+What are you using for waterproofing?
+very old, early 70s if not earlier cassette tapes
+Solo vs. Team - Sound Design
+In defense of ADR editors...
+Ratio of Size to Pitch and Time 
+Need your input on software I&#39;m writing 
+What is your favorite type of microphone cable?
+Mechanical Robot Sounds - reference material
+Lack of Actor&#39;s Breath
+Making the leap from stereo to a multi-channel field recording rig...
+Do you use power conditioning?
+Translation of weird character voices
+Microphone Disguising
+what&#39;s your favourite sound design / musictech / pro audio magazine? 
+How&#39;s the Zoom H1 working out for you?
+Difference between Waves MaxxBass and Waves LoAir?
+Shortwave Radio as a Sound Source
+Volume output for theatrical release on DVD
+Sound Devices usbpre 2 as a location field mixer, thoughts? 
+pros and cons of a zoom h4n
+Monitoring and frequency response in the studio vs. sound stage
+Location Audio for &quot;Man vs. Wild&quot; - Methods/How?
+That escalating illusion - remember what it&#39;s called?
+Silence in your life
+Broadcast Level Requirement
+New product: Rode Lavalier Mic
+Pro Tools 9 - Pros and Cons
+How do you maintain and organize your sound library? (Literature/articles/videos, not SFX)
+Rechargable Batteries
+HDR AUDIO ? (in video games)
+TAPESTREA: Exciting tools, anyone using this software?
+Sound Designers Vernacular / Nomenclature
+Binaural panning in Logic Pro for doppler effect?
+Recording cello and electronics in a big room
+Interesting find - LA2A Distortion
+Field recording levels?
+SFX recorded or library
+Designing a Reverb
+Game Audio for beginners
+Pal to NTSC Conversion
+Beautiful ambience. What does that mean to you?
+Psuedo-Science of Sound. Sound healing and &quot;digital drugs&quot;. Is there a useful diamond in the BS rough?
+Steps to sound effects editing and mastering? Sounds you recorded.
+Low End on Small Speakers
+How do you make BWF(metadata) originator info what you want?
+Moving LPF&#39;s in UDK
+Workflow Question: Batch splitting stereo tracks into mono?
+Best animal to record?
+Some questions about reconforming to new picture edits
+University graduates - Do you offer your dissertation out on your website?
+New synth for the new year (drone,industrial, metal, noise)
+Newbie Sound Designer Would Love Some Feedback 
+Kontakt or other sampler/synth software for sound design ? 
+Design for throwing /axis rotate sounds
+Hyper realism in sound design approach
+What are some notable games for sound design that push the limits?
+Sound Design - Stun Grenade 
+What do you want out of the Sound Design Challenge in the future?
+Check my work in progress (Graviii game)
+Using limiters in a broadcast mix
+Adaptive Engine - UDK
+Alternative ways of adding presence to a voice than just EQ.
+Final Mixer Vs. Mastering Engineer
+How Did They Do That?? Vol. 3: Legend of the Guardians Dialogue
+Free Level Meter Plug-in
+Magnetism, microphones, and SD cards.
+Advise on shooting on 16mm
+Disagreements with the director.
+AB Mic comparisons
+Waves Sound Design Competition. What do you think?
+Recording Foley with a ZOOM
+What Are Your Workspace Preferences and Why?
+Nature on the islands near Thailand
+Tell us about the last movie you watched and what the best thing about the sound was.
+sE Electronics Reflexion to improve field recording
+Microphone test drive
+Big Love Series Finale - Barb&#39;s New Car Scene - How&#39;d they get such clean dialogue?
+Creative Spaces 
+Pro Tools 9 and aggregate device use
+A Patchbay for Anyone Who Is Broke.
+Building the soundtrack
+A Question about Diplomacy
+Escalators.....
+Giving Credit on Royalty-Free Sound Libraries
+Source Material for Hits, Impacts, or Whooshes...
+Keeping track of hours.
+foley prop needed: a stack of cash
+Advice for a beginner. (I know, I know..)
+Audio Technica BP4025 for atmos???
+production company websites: best of
+How to make room tone more oppressive??
+Waterproof covering for microphones
+Rechargable Batteries for Radio mics
+The Sound of &quot;Essential Killing&quot;
+How to clean a microphone?
+Etiquette when Micing High Profile People 
+I have created FIRE!
+Insects love boom ops!!
+Hollywood Style &quot;Booms and swooshes&quot; for layering?
+Help defining/sourcing a mechanical &quot;tak tak tak&quot; sound
+If you could ask Walter Murch one question (or piece of advice), what would it be?
+Whistling bomb sound
+Animal Sounds Libraries
+Ambisonic Sound for Film 
+Thoughts on 3D Mic Pro by Mitra?
+Tablet for Location or Live Audio
+Acclimation for mics?
+International Travel with a wireless kit?
+Getting the inner thoughts right
+When you are mixing dialogue, compression settings for stem
+Is there scientific studies into certain frequencies relating to colours/light/mood?
+What kind of problems can be avoided if the post sound people are consulted during pre-prodution?
+First time field-recording! 4-channel vs. 2-channel stereo ambience
+Sources of Distortion
+Field recording in Tanzania, or South(ern) Africa
+What sample rate do you use/prefer?
+MP3 gapless looping help?
+Sustainability in Audio
+Apple TextToSpeech voice use: any legal issue?
+48 Hour Film Project
+My Career Options: GAME AUDIO SOUND DESIGNER or Wildlife Sound Recordist
+A Motor/Engine Made of Wood
+general ambiences with street music performance
+Know Your Limits
+FMOD Studio 2011
+That deep Drone / Ambient texture
+A basic question: What is the difference between Mono, Stereo, Dolby and Ultra-Stereo? (Don&#39;t worry, not looking for a detailed answer...)
+Recording an Airshow. Any tips, does and donts?
+Zoom H4N Adoration Post
+Zoom H2n announced!
+AVID Certification
+Sound Utility Technician
+Well Cataloged Airplane Sounds
+Feature Lengths
+SSL Boards and I/Os
+sound request:modern prison doors and buzzers
+An esthetic for evoking a loud(er) sound
+Opportunity to record a building implosion
+Problems with MKH 416 - Humidity maybe?
+Magic Attacks Sounds 
+Loop Group - Caveats?
+International Partnerships
+feeling of Height of sound source
+Come on Irene! Hurricane recording
+Hurricane Preparedness
+X-Keys for DAW Control
+Any tips for cutting/designing airplanes battle scene
+Upsampling Sounds Prior to Processing
+UPDATE: Anybody else waiting anxiously for the Sennheiser 8030?
+Kill your plugins
+DIY sound booth...is it worth it?
+Audio effect of a person talking inside their head
+Demo Game for fmod experimentation
+Useful Human Vocalizations
+Kung-Fu Foley Swooshes
+5 Pin DIN to XLR/Jack for Old Old Old Microphones?
+Questions about Ringtones in film and television
+Does the use of ADR result in loss of characterisation?
+How to handle a situation
+Gear Acquisition Syndrome
+Stereo ambience - microphone selection
+replacing a zoom h4n with sony PCM D50
+Reconforming workflow
+Question: Fixing bad audio/Cleaning up single mic long dialog takes (film sound)?
+Wood workshop recordings.
+Theory of incorporating bone conduction (sound through solids) in sound design
+Has anyone tried the same Schoeps capsule on both a digital and analog amplifier?
+What in-line pad? Zoom and mixer questions
+Sound Design Schedules
+Sound Art/Installation
+What is an acceptable noise floor for recording foley in a quiet room
+Jecklin Stereo with Lavs?
+Game Audio Course
+would you answer this short questionnaire to help with university research - revised 
+sound design / sound art / post-production magazine recommendation
+Furthest Distance You&#39;ve Successfully Used a Dynamic Mic From?
+SFX RAID - Drobo or Sans Digital?  Thoughts Welcome
+Volume automation in music between dialogues.
+Explaining dBFS for final mix and cinema spec
+How would you sound design a monster made out of hair?
+Audio hats that have the most pressure.
+How many people use recordings from their Zoom or Handheld recorder?
+How do you calibrate between a mixer and recorder?
+Approaching dialogue recovery with clipped audio, what to do first? (DOCUMENTARY)
+How do you combine boom mic track with lav mic track for best dialog?
+What is the best sound you&#39;ve created by mistake?
+recording dialogue for animation
+How to study sound for any film?
+Sound Design Reel 
+Remote work, how do go about setting it up?
+Christmas/Holidays Sales - Still growing...
+Acoustics and Auralex?
+When you are mixing dialogue with lots of BG noise...
+How do you tell people what your profession is?
+REQUEST: Archival recordings of metropolitan cities and traffic
+FMod Memory Optimization
+General Reel Feedback
+Space Designer presets in Pro Tools
+Voiceover editing procedure - tips please.
+water resistant mic and recorder
+Does the quality of picture affect the timbre of foley you record?
+Fair royalties for a sound designer as a show tours 
+Language Design/Conlang in Sound Art: Do you know any examples?
+First time for &quot;proper&quot; Car recording. What TAPE to use to tape on car paint?
+Mixers: What are your Dialogue Editing Preferences?
+Weird car actions?
+submerging/emerging from water
+Best hand-to-hand fight scene
+Recording vintage firearms
+Getting Foot in the Door - Game Tester?
+Beginning a new session!
+Credit where it&#39;s due...
+Demonic Possession: Morphing one characters dialogue to sound like another character
+Do you charge late/cancellation fees?
+Most number of Oscars won by a sound designer, re-recording mixer, editor ..
+How to set the Zoom H4N for recording with external mic &amp; lav? 
+Digital Movies and Frame Rates
+Low  frequency snake repellant
+What sound effects edit &#39;sound creation&#39; has stumped you like no other?
+Workflow for exchanging &quot;temp mixes&quot; remotely.
+De-Reverberator
+Recording &quot;Bangs&quot; etc
+Matrixing and Tuning of Speakers in Movie Theaters
+how to build absence in a film?
+Car tyre &amp; surface recording without engine sound.
+Processing Crowds
+Im trying to find Sounds from old bike dynamos
+South African Sound FX?
+SOUND OF HEAVEN
+Picture editor- sound designer relationship/ workflow
+Water Tight Templates?
+How Do You Record Impulse Responses in Small Places?
+Sounds of Iraq - natural environment
+Hearing loss above 11 Khz
+Soundminer tips/shortcuts/workflow ideas
+Foley Editing for the mix
+Release mechanism for car drop session
+DIY Foley Stage / Pits
+Which is better- boom micing or lapel micing
+iceberg crackling
+How Did They Do That?? Vol. 5: The &quot;Singing Sword&quot;
+Is it good or bad to be a specialist?
+Beginners sound kit - 1k budget
+Favorite Alien / Monster Vocalisations In Film 
+Sound of an inter-dimensional portal ripping/blasting open? 
+What kinds of adhesive tape are essential for a sound recordist and Why?
+Cell phone ringtone midi instrument pop music
+Reverbs for Urban Exteriors
+Dialogue Plugin Chain flexibilty and Bussing Preferences?
+Recording Heartbeats
+Endangered Sounds: Which sounds will be gone in a few years?
+When cutting BG&#39;s..
+Opinions re: modular mics and Neumann KM modular series
+Travel tools for freelance gigs
+What audio editor are you using?
+How often do you record?
+How do you make a scene sound/feel cold?
+Metal stab sound
+Avid&#39;s Structure sampler - who&#39;s building their own multichannel patches?
+Any tips or thoughts on making fight scenes loud / mixing for The Internet?
+what were your best recordings of 2012?
+Online Sound Design Courses
+**URGENT** TV Broadcast, Mixing Levels, Commercials, Tech Specs
+Deaf or Blind, What Would You Rather?
+Pro Tools 10 bouncing regions/cips with fades?
+Regarding Showreels/Demo&#39;s/Etc on SSD
+What are some curious, unusual, fun facts you know about sound? Needed for new audio puzzle game.
+Learning to hear phase problems
+Discounting the simple things...
+How to make a figure of 8 out of three cardioids
+Filling out the foley tracks.
+Finding Props for sound
+What do you expect from the picture editor?
+DIY Aquaphone material selection
+Sending low tone frequencies through water
+Jim Stout videos
+Pro Tools 11 here already?
+Oblivion - Drone sound design...WOW
+&quot;Work For Hire&quot; legal issues with sound design (specifically involving library sfx)
+How does a forest sound through a 6 year-olds ears?
+How do you let your boom op monitor audio
+Making recorded ambient/BG sounds more like they&#39;re coming through a wall/window effectively?
+How do you bounce back from a failure?
+When would you use DC Offset?
+Fostex FM3 Field Mixer
+What&#39;s the best advice you&#39;ve received early on that&#39;s helped you in your career?
+Volume automation and noise reduction
+Behringer X32 digital feedback loop
+How to create a Acid Synth Stab sound?
+Difference between studio and hi-fi speakers?
+Lost audio files - Making the most of onboard camera audio
+Cutting in Foley/Feet via sound library vs recording
+How do controllers fit into your design process?
+Logic Pro Environment: Panning Signal Processing
+How do you do waves &quot;at sea&quot;?
+How to make two different recordings sound the same?
+Waterproof microphone
+How do I record songs straight from a vinyl record to a cassette tape?
+Technical term for the visualization of an audio track?
+Recording heavy metal guitars with almost zero budget
+How wide are critical bands?
+Pedals in Recording
+What to look for in microphone to capture sound in larger area?
+What is the difference between low-pass and high-cut filters?
+Audio Mastering Book Recommendations
+how to do mono to stereo conversion
+Connecting a microphone to a camera with a 25 foot cable - is it possible?
+Capturing Wedding Vows
+Does Pro Tools (or any other DAW) have a feature like Logic&#39;s Quick Swipe Comping?
+What should I be looking for in a shotgun mic?
+What&#39;s the difference between a vocoder and a harmonizer?
+recording with Shure SM7B is surprisingly quiet
+Are there free records of separate piano notes in .wav files for instance?
+Does correcting the speed of audio captured from vinyl at the wrong RPM degrade its quality?
+What&#39;s the exact curve for natural audio fading?
+Ascending Hi Cut Filter?
+How to remove noise/hissing sound while recording from a Dynamic Mic
+Digital Kazoo Filter
+How to hook up guitar to Mac Pro?
+Balance Main Mix Between Multiple Speakers
+How to extend wave in cooledit so it will be 5 sec long insted of 3
+iPod Recording Quality
+Easiest way to convert audio tape to mp3?
+Acoustic Violin Pickup : Fishman V-200 - possible setups
+Audio setup for webcast interview
+VST - Frequency Compressor?
+Why does my sample become &quot;choppy&quot; when I change its pitch?
+A few questions about beginning to record
+Does having a long 3.5mm cable degrade audio quality?
+What is the proper way to reduce audio sample rate and bit depth?
+Generating massive-sounding duplicated noises
+Creating transition with badly matching bpm tunes
+Line input to an iPhone or iPad?
+GarageBand: Create Apple Loop from m4a recorded piano files?
+Where do electronic musicians get samples for remixing songs?
+Zoom H2 recordings with two different mic settings. How can I match them now?
+M-Audio FastTrack Pro levels are very low
+How can I record piano on a laptop without high frequency wahwah?
+How do I audio record a meeting with 10 people in a room 10ftx10ft
+When should I use a separate preamp or field mixer when recording from a mic?
+Which equipments can i buy to record sounds of animals and birds?
+creating glissando/portamento with piano roll editors
+How do I record multiple mics to a computer without a mixer?
+How to handle the 2 kHz - 5 kHz frequency range in production?
+Extracting conversations from a long WMA-File
+Best Sony Vegas rendering options for audio-only on YouTube?
+Equipment/setup recommendations (1 camcorder, 1 mic)
+How do I broadcast a live event over a phone (land) line?
+How can I record with Ableton Live ? My setup seems to be missing just one part at this point.
+Should I use a standalone compressor/gate or do it in post?
+Recording - Can you &#39;see&#39; if multiple microphones are in or out of phase
+CuBase LE 5 Static Noises
+Long audio recording solution
+Export from garageband to audacity
+Does combining the left&amp;right speaker signals cause me to lose part of the sound?
+How do I fix the latency issue when recording through M-AUDIO Fast Track Pro USB Audio Interface?
+I want to connect my iPod using the headset jack to a portable PA system and am worried about phantom power
+Can I place a DI box between my amplifier and my guitar cabinet to record my signal?
+Can a reverb processor compensate for a dead room?
+How to improve recording signal quality/reduce noise?
+Recording with a mixer
+How do I remove echo from an audio recording?
+Audio Interface &gt; Guitar Pedal Chain &gt; Audio Interface
+What are the most common text-based music/audio notation systems?
+Cubase Metronome silent
+Voice recording for radio, what effects are used?
+Can someone please explain to me what each bar of the equalizer means?
+How Do I Publish My Own Song
+Using simultaneous Focusrite 2i2 and 2i4?
+What should I be looking for in an audio interface/field recorder?
+Occasional pops in recording with Audacity and Roland Duo Capture
+Noise cancelling solution near train tracks
+How to do live monitoring of audio input on Mac? (i.e. hear the input sound on audio out)
+Bass Inaudible In Mix Through Bad Speakers
+Vocal mic placement, setup, and technique
+avconv screen recording to FLV, audio drifts out of sync
+How do I tell OS X that an arbitrary controller is a MIDI device?
+How does sending MIDI over USB compare to using a dedicated MIDI interface?
+Akai APC20/40 MIDI Control
+Exporting Logic to Ableton?
+Emulating spoken and rap vocals in MIDI
+How do I examine controller data such as for the Sustain Pedal in Reaper?
+Logic Pro - How to delete an empty MIDI section?
+Unwanted quantize markers in logic pro
+USB-MIDI controller freezes when used with live-drawing software &quot;Tagtool&quot;
+Which software for adding triggers to an acoustic drum kit to make it into a USB drum kit?
+How can I map midi controller faders to midi CC values through software in Cubase?
+Is there software to capture and view raw MIDI data coming from a controller?
+MIDI interface which is compatible with 2010 macbook pro
+Does the Logic X Legacy and Compatibility content overwrite the new content?
+Is there a way to use Virtual Instruments from ProTools in Logic?
+Live control of rewired application parameter using MIDI controller in Ableton
+MIDI CC Button Settings on a Behringer BCR2000
+In Logic, can I change the settings of plugins on a group of channels at the same time?
+Are there any keyboard shortcuts for efficient MIDI (piano roll) editing in Adobe Audition 3?
+How can I automate track levels while recording in Logic, MainStage or GarageBand?
+What are the pro&#39;s and con&#39;s of a MIDI interface compared to MIDI to USB cable?
+Cubase and randomizing midi
+Can I convert Cakewalk .wrk files to MIDI?
+How to sync midi to audio - Logic 8
+How do I map a second MIDI controller to act as a &quot;reset&quot; button in Ableton Live?
+Live percussion recording - microphone questions
+Digital audio gain past 100% for my computer mic? (win XP)
+How can I test microphones to determine their quality?
+Mic stand for sterling ST51 mic
+How much would I need to spend on a condenser microphone to get a reliable professional vocal sound?
+Interview Microphone for Sony Handycam HDR-CX500E
+All Around Workhorse Studio Mics
+External Mic/Sound Recorder recommendations
+Condenser Mics: Maximum SPL in relation to Distortion, Physical Damage and a -10dB Attenuator
+Basics of micing drumset cymbals?
+Miking a mixed choir/instrument ensemble on a budget
+Voice narration mastering?
+How to eliminate 50 Hz noise from microphone?
+Plugging in/Unplugging dynamic mics with the channel on
+Picking up hum noise from wood table
+question about very low volume with one microphone cable
+Best mic for cajon/percussions in 100$-150$ price range?
+How can I compress podcasts consistently and reliably to go onto Google Play Music?
+Where does Levelator fit in with traditional compression/gating/limiting?
+How to remove keys on a Roland XP-80?
+outputting 2 different audio signals from a computer (PC/laptop)
+In-Ear monitoring and/or hearing assistance via FM radio
+Equipment: new interface necessary or not? (Using Mackie 402-VLZ3 with 2010 iMac)
+low sawtooth and speech type oscillator synth notes cause sound and tone change
+Is FM8 a good synth for a beginner?
+S/pdif ports - Should/can I use them?
+How to make a bass layer follow a specific scale?
+How do I achieve a cleaner sound?
+Would a Thunderbolt audio interface decrease latency (in theory)?
+How to configure Lexicon Omega as a main soundcard?
+Audio Interfaces - Internal versus External (USB) recommendation
+Do I need an adapter or also a transformer for a Japanese Roland SH-101?
+Audio Interface from Laptop to Monitors/etc
+No sound from Liquid Saffire 56 on OS X
+Midi Keyboard connected but no sound
+Dubstep Whomp&#39;s on logic express 9?
+Best sequence in a DAW to improve a poorly recorded voiceover?
+How to connect Alesis MMT-8 to Roland TR-909 with Cubase and Samson Graphite 49
+How can I quiet a noisy computer in my home studio?
+What are the steps/phases of a CD/Album production
+Vocal recording - Output level is too low even though the preamp show it&#39;s clipped
+Can Logic stretch an audio region with a varying tempo to fit an existing, stable project tempo?
+Will low output volume affect the quality of the sound?
+Speakers to 3.5mm jack?
+Legality of Sound Bites
+Is there a way to graphically analyze frequency of samples/instruments in Renoise?
+Mp3 codec reencoding effects
+Fl Studio replacement
+Need to convert large WMA library to MP3 or AAC. Software recommendations?
+How to make a sample/note sustained or long in Reason 4?
+Sequencer/DAW with a decent Notation/Score Editor?
+How to &quot;Insert silence&quot; - in session view (Ableton Live)?
+Is it possible to remix cds / songs / audio within Reason 5? Can you open audio or anything like that?
+Easy solution for controlling 5 or more speakers from a single computer
+Can I use my original MBox at all with my Lion Mac?
+Pro Tools Freeware Replacment
+What filter or process should I apply to voice to make it sound like the listener is underwater?
+Inverse Mute Group for Yamaha LS9?
+Ableton: Record everything I do and play it back on-screen
+How can I tell whether speakers are magnetically shielded?
+Turn Mono or Stereo into binaural
+Why is there no signal above 11025 in my 44100 recording?
+Tips on remixing a song
+Produce &#39;wavy&#39; sound in pitch?
+How can I embed instruments into Propellerhead Reason 4?
+How to create music throughly inside computer, without using live instrument sounds? What do I need?
+How to record the sound of an acoustic guitar with a magnetic pickup?
+Regarding &quot;starting up&quot; sound of 3D pinball
+Sharing music mixes and copyrights?
+What should I look for in good headphones?
+What are good resources to learn the production side for an end-user focused software guy?
+Can I copy tracks in Pro Tools without copying audio regions?
+How to create a 2 mix in the same project (cubase 5)
+DIY Digital recording studio
+how to lower CPU usage in Ableton Live 8 in Mac OSX 10.6.8
+Ableton Live - am I misunderstanding clips in the Arrangement view?
+Reason: Any way to batch convert WAV to REX?
+In ProTools, how does one record live volume changes?
+How to maximize volume and sound quality of a YouTube video
+Finding high quality samples for music production
+Inches vs Watts on speakers, what does it mean? What is the difference?
+Simple stereo mixer for multiple computers
+How to remove unwanted sounds from &#39;silence&#39;?
+Convert sound inside a video, from 5.1 to stereo, without image modification?
+General idea of mixing, mono mixing and stereo mixing
+Is source bit depth/sampling rate relevant for mp3 conversion?
+Extremely Right and Left panning
+Term for Distorted Bass
+Are there any speakers which can play binaural audio?
+Makers of best-in-class DAW plugins for recording/mixing?
+looking for a program for mixing subliminals with music at automatic levels
+How to evaluate home studio monitors? 
+Pro Tools tutorials
+Does a USB Isolator work any different than a powered single-port USB Hub?
+What are the disadvantages of a powered speakers setup over passive setup?
+Articulation switches in NI Battery 3
+Triggers on drums in the studio, why?
+Where to find music beats
+How can I output sound for a video if I&#39;m using Traktor Pro?
+Drag select time range in Reaper not working
+Freeware Reverb VSTs
+Low frequency driver replacement for BX5a
+How to connect tops and bass bins
+Why do I hear less bass in the middle of the room, and can I do anything about it?
+Older Bedroom DJ Seeks Advice: Amp about to die - should I get another or powered monitor speakers...?
+Why does music often &quot;stutter&quot; when the BPM is manipulated in ITCH?
+Line 6 UX2 Terrible Noise on Inputs
+Best Noise reduction methods?
+tips for making a more realistic &quot;live drummer&quot; sound with only audio samples
+How does our brain detect the direction of sound?
+What&#39;s the best software for DJing and mixing?
+Mic level or line level for long runs?
+Field Recording Alone in Remote Areas
+Fading Out Best Practices
+How do I isolate parts of a song according to pan position?
+Solution for checking sound levels between recording sessions
+Does software exist to measure the frequency response of a room?
+Doing a TV show, they have audio standards - mix strategy?
+How to auto-tune without getting a metallic sound?
+List of Pro Tools plug in suffixes
+Subwoofer out on JVC 884-v
+Adding &#39;sparkle&#39; to an a cappella choir recording
+If I want to use a microphone with a portable mini amp, will a preamp/mixer significantly improve the sound quality? This is for small live gigs
+How to describe the bass tone/timbre heard in the examples?
+Audio resources for an amateur live-sound guy
+Setting live levels without a proper monitor
+Amp is receiving radio signal?
+Do I need a DI BOX when sending signal from my sound card to a mix console?
+Removing subsonic frequencies when mastering
+Dynamic Processing Terminology
+Sound design within a VFX workflow
+How can I pick up very small sound with small budget?
+Fruity Loops: Alternate between the different layers in a pattern?
+We just got done recording - our vocals could use some work - suggestions?
+How are vocals and other different tracks separated from a mix?
+What advantages does an MPC-style device have that are not offered by a DAW?
+Phone coupler with excellent isolation
+Is it safe to connect 2 players to a single pair of headphones using Y splitter?
+Non-audio applications on performance OSX laptops
+KRK VXT6 monitors: How long between breaks?
+Pop Filter Repair
+Smoothing transitions between sound clips
+Removing tonality: antitune
+Low Pass Filter?
+Computer keyboard/mouse location
+What constitutes a &quot;musical&quot; EQ?
+Which output level is 1:1 on Zoom H4n?
+A USB device with 5 microphone inputs: Is that possible?
+Is there a sample player (vst) plugin which is able to adjust the sample playback tempo using MIDI time code?
+Recognizing notes within sound?
+CD Ripping Metadata Software for SFX database
+Quantizing audio
+Reducing latency on MIDI-over-USB Keyboard
+How to find out if some sound recording is real or computer generated?
+What is the best way to record acoustic piano and vocals from home?
+Is it better to record a vocal as close to raw as possible, or to compress, eq etc along the way into Pro Tools?
+How short duration sound can a human hear?
+Convolution Reverbs
+What impact does applying gain to a digital audio signal have on playback?
+Bird flapping/flying away sound effect?
+How can I manage communication and time for Social/Mobile Game Sound Design?
+Ambiences - MKH418S / Sony ECM MS5 / Rode NT4 (x/y)
+High-end small mics (lavalier/headset) vocal capture quality
+Found sound sampling
+Best examples of transitioning between non-diegetic to diegetic
+What&#39;s the shortest sound perceptible to the human ear?
+How is Audio Compression possible (file size)
+What sampling rate and bit depth would be necessary to make a digital recording indistinguishable from the original?
+Ableton: Understanding Analog&#39;s &quot;Uni&quot;
+Studio Flooring - The Great Debate
+What do I lose when reducing bit depth?
+Harry Potter Patronus Sound Effect
+What is difference between DTS MDA and Dolby Atmos?
+Creating the SSB untuned radio effect
+Field mixing Boom and Lav mic
+Sequence inserts/plugins for voice
+Why do DAC/ADC and sound interfaces so often have the same number of Inputs and Outputs?
+International mixes
+Compact high quality sound effects / ambience recording rig
+Used Gear / recorders - When is &quot;too old&quot;?
+Medieval skirmish loops
+Design parameters for combo organs
+Fun with broken fluorescent lights
+How to Foley bicycle?
+What is the &#39;phenomenon&#39; happening when two identical digital sounds are played nearly at the same time?
+Stereo Width in Oktava M/S recordings
+Best quality encoding when exporting &quot;8-bit 8kHz Mono WAV&quot; sample in Audacity?
+Managing dozens of wireless stage mics
+Considerations for moving monitor mixes to the stage
+How to add amount control to amplitude modulation?
+EQ&#39;ing ADR to match Dialogue
+Designing household sounds using a synth
+How can Imake the sound of fly or mosquito
+How to connect my iPad Air and my Yamaha CP4 Stage Piano?
+How can I prevent feedback when using wireless mics in a Theater in the Round?
+How can I get my direct input monitoring louder?
+Minimal length required for a human to register a sound
+Eye gouging noise
+Beamforming microphones to isolate individual performers in a group
+Condensor Microphones diaphrams facing each other
+Extend pen drawing sound from 1s to 2.5s
+How can I make a sub bass that can be heard (at least a bit) on even on crappy systems?
+48kHz vs 44.1 kHz
+How do speakers which are silent from the back work?
+Recreating a voice using a Vocodor
+I can&#39;t hear 18k in Audio Technica ATH-M50x headphones. Why?
+Name and examples for the tinnitus effect after explosions in films
+Add white noise to silence
+How can I make a sound appear to come from a direction?
+Festival requests DCP with mix level changes
+Can you help deconstruct this SFX?
+Weird noises coming from EVERYWHERE
+How do I find the common audio between mp3 audio tracks?
+How do I connect Zoom recorder to Yamaha mixer?
+Is it possible to create a &quot;Vocal Pad&quot; with just synthesizers?
+Synthesize droning strings
+How do you identify clicks and pops in a spectral analysis?
+How is this mix so clean?
+Designing the sound of a 20&quot; *ahem*... &quot;Member&quot;
+recording extremely loud sound sources
+A decent stereo pair of microphones at a reasonable price?
+Using DAT for the first time...
+Decent places to purchase sounds for sound design?
+How to archive 1960&#39;s Nagra tapes to digital recordings?
+As a sound designer, do you buy &#39;audiophile&#39; equipment for home use?
+Looking for a good but cheap hardware mid-side decoder. 
+Would Ableton/NI/Max For Live be considered as professional choices for sound design?
+First recording/mixing headphones?
+Budget not large, really need to get an on location sound kit together for a possible job!
+How creative can you be as a working sound designer?
+R&#216;DE wishlist - What would you recommend? 
+What is the best setting for exhibiting sound art?
+Who is using a vocoder these days and how?
+Types of Computer Generated Music Software
+nearfield monitors
+What&#39;s your approach to being creative?
+Just a young guy with a dream.
+Is what we hear as important as what we see in contemporary media experience?
+Affordable D to A
+Closed headphones, closed, the best for like $ 175 max, which ones?
+Best 192k interface
+Recommendations on hardware and software
+Appropriate Film Credits
+Loneliness Lies in Twos - Looking for Feedback
+Emotional sound
+Making your track &quot;sparkle&quot;
+ADR Recording Software
+Foreign Versions
+Has anybody used Earthworks microphones for sound effects
+What&#39;s your preferred de-esser plugin?
+PZMs for ambience recording?
+3d sound from 5.1 (dolby cinema) speaker system
+Favorite bracket for your favorite mics
+Archiving Solutions?
+Pro Tools Plug-ins
+Custom ADR Software
+Which program are you using to embed metadata in wav files?
+Location recording and best position for radio lapels?
+Most unusual sound technique
+Broken Zoom H2 Solutions
+Have you ever used parabolic reflectors for field recording?
+Good Walla Libraries
+How often do you use limiters during field recording?
+Is it possible to unphase something
+Small Monitors for a Small Room : KRK VXT4 or PMC DB1S ?
+giant glass impact
+How do you go about making an underwater gooey sound?
+Acoustic Handlings in a Small Room
+Stock Footage and Public Domain Redubs in a Demo Reel
+SuperCMIT from Scheops 
+Double M/S on seperate 2 channel recorders?  
+To accept or not to accept...
+Good examples of internal conflict in film, using sound design
+Oktava MK-012 as a SFX recording mic? Alternatives?
+Animal POV Sound design
+Low-Budget Pre-Amp for Senn 416
+in reality, do you believe convolution compression can work?
+If I do volunteer work unrelated to sound design, will that hurt my job prospects?
+Suggestions for books on sound synthesis and electronic music production
+Job opportunities
+Organization of Pro Tools Sessions
+Home Studio - Making the best out of what I have
+tricks to generate emotions through soundscapes
+advice for getting a start in game audio
+Is this interior location record setup crazy?
+Recording military vehicles
+Making flat background tracks come alive
+Creating sounds of a Air Conditioning Shaft
+Big Stomping Sound?
+Have you ever not made a deadline?
+Should I Buy A Sony PCM-M10?
+Best audio file type? Is there one?
+How do you tackle time lapsed footage?
+What do you think about Sanken css 5 for recording ambience?
+can someone please explain drum replacement?
+Footsteps sfx sampler ?
+Transformation Scene
+Tips for traveling with audio equipment.
+Residuals for Sound Effects?
+Can fast and loud transients damage speakers?
+Presenting Ideas to Directors/Clients
+Security precautions when working with another crew.
+Background Music: When to make it disaapear?
+EQ, Compression sequence?
+Baffles for Outdoor Interviews
+Care to help a rookie out with some constructive criticism?
+What is your favorite EQ?
+Does anyone ever use Dynamic Transport Mode in Pro Tools?
+Is there a way to preview the sample rate and channel info for audio files in windows 7?
+Voice - how do you go about making it nice?
+Have you ever had to reject a dialogue recording?
+Overdrive to create depth?
+What is your preferred distortion plug-in?
+Anyone done work for a music video before?
+Do you mix with an RTA?
+VO Pop Screens that do the least coloration.
+Adding Excitement
+Do any of you compose, as well?
+Should I record 24bit 96khz and then dither down for distribution?
+Ever managed to fake the Autotune effect?
+What do you use delays for?
+Do you keep copies of your work?
+For multiple mic recordings, do you check the phase?
+When you start a project?
+Delivering DM&amp;E stems
+Light vs Darkness
+Polymer Film Microphone
+Question about recording and air temperature.
+So, what do we do when we don&#39;t want to ask questions?
+Sync...........
+Fader, mouse or trackball?
+Is video playback the best use of an old computer?
+Question about SFX Workflow
+Recording Mono with H2 or H4
+Looking for critiques on a practice sound design
+Organic Sound Cue Techniques
+Editing Driving and Car Scenes
+Battery options for your recording rig
+Retaining Metadata in .aif to .wav Conversion?
+Pushing your hydrophone to the limit
+Tips for making LFE
+Need help identifying strange flutter distortion.
+Props and potential uses
+The trailer voice-over &quot;This summer, blah blah blah&quot; (Don LaFontaine)
+Tips on recording realistic foley
+Need to ask something about Sony PCM-50
+Best way to record a phone?
+Who are some notable Sound Designers?
+Tips on Recording Horses?
+FX Request: Screen doors
+Error while importing from OMF
+OMF file size for Mac to PC transfer
+Buying a microphone for indoor dialogue
+Wind Shield - which makes?
+Has anyone had trouble with non-magnetic recording gear around magnets?
+What will be a good microphone to record folding clothes? 
+OMF Options, Workaround?
+Recommend a good quality blimp and dual-mount system for pair of Oktava 012s?
+Genelec 8030s vs Blue Sky Pro Desk - I can&#39;t decide!
+Something is Missing... What do you do?
+Cheer and Dance Team SFX collections?
+sound design for an arcade like Tyrian game!
+Sound Library Distribution
+Recording an ice hockey session
+What&#39;s your Gamertag/Platform?
+Compact Flash Cards for Deva 5.8
+Finding App work
+Big Budget Films/Compensation
+Post Time Expectancy
+Dialogue editing on cans?
+When worldising dialogue...
+Monitor Subwoofer suggestions (economic)
+How do we make sound design more relevant to the world at large?
+Sound Design fundamentals for different genres
+Sound Design and Composition
+Best Distortion, Clipping, Overmodulation Fixing Plug-in?
+Any music industry sound designers here?
+Recording an ultralight plane in flight
+Weird artifact in Pro Tools:Sound regions playing back as noise. Any clue?
+algorithmic composition / melody patterns generation
+Battery powered Shotgun Mic for use with PCM d-50
+How many folks going into record and walk away in quiet settings?
+Recording voices for pitching down
+Comments for my first work?
+Doubts about a mixing that must go to a FilmFestival
+Techniques for Recording a Car
+Recording Screaming on set interior
+Need advice on which mics to get.
+Creating Hurt/Scared Creatures
+Reality show Location recording
+How often do you delete files of your soundlibrary?
+Suggestions for Amazon, Australian and African journey.
+Getting started in Sound Design
+Tutorials: Sonnenschein&#39;s Webinar vs Nick&#39;s Tutorials - Thoughts?
+How to make a sound 4D?
+Icy/Frosty Feet....
+Creaky Wood and Metal SFX?
+Wireless Bodypack Frequency Bands
+DIY Windscreen ideas?
+What are some good vocoders to use?
+Need Help Quick! Nuendo PC (V4) -&gt; Mac PTools conversion needed.  Anyone know how?
+Professional organisation
+Guerella Gun Recording without a budget
+Favorite organic sounding plugins
+iZotope  - Nectar
+youtube and soundcloud
+Prepping a Mix for HDCAM Transfer
+My First Time...
+Tyre screech recreation
+Help On Getting Some New Gear?
+What to do with production sounds overlapping dialog
+How do you deal with off axis mic sounds?
+Which shotguns mics should I consider for capturing SFX?
+Dane Davis, partial filmography available on Netflix
+looking for 8-bit sounds collection.
+What does Epic mean to you?
+MKH 415 T POWER
+I&#39;m having problems recording sound effects at low volumes
+Cheap interface and speaker
+What does mastered mean on a commercial library?
+Creating Variations
+Working with video: What tools can&#39;t you live without?
+Fade to zero, then BANG
+why should i consolidate
+Feedback on short film...
+Something&#39;s missing...
+Estimate a mic&#39;s impedance?
+Zoom H1 unmatched mics?
+What solid state memory do you use?
+Hi-tech ground shockwave ?
+Issues with M/S recording - 90 degrees off axis positioned in center
+Difference between using a wave editor and a DAW like Pro Tools?
+Best way to record a Slinky
+How to find work?
+What are Your Preferred Bit/Sample Specs for Commercial Libraries?
+Recording world instruments, what type of mic(s) to use?
+How are you downsampling your FX for your Final Mix?
+Favorite use of identifying sound for a villain.
+zoom h4+rode ntg-2(other external mic, too) = extremely low volume
+Pro Tools 9, Should I go for it?
+Using Zoom H4n handy recorders in windy condition
+Vocal Microphone upto 1800 dollars!
+opinions on setting up a mic test
+Foley Mic: Shotgun vs Hyper?
+DSI Mono Evolver Keyboard synth for Sound Design
+Mixing for youtube
+Dialogue cleaning, Tron
+Do you have any info. about sound design for small internet based games?
+Mic Preamp for ADR
+Your favourite strings plug-in?
+Would it help to know techniques of picture editing to perform better at sound editing?
+When do you &quot;score the opposite&quot; in sound design including musically or when play out the image literally through sound?
+Vocal clipping restoration
+How do you design a cricket sound?
+Yamaha HS80M vs KRK RP 8 G2 vs Mackie MR 8
+Recommendations for affordable compact field recording headphones
+Unmusical Items as Instruments in Music/Design
+Best mics for foley and sound design
+Car Sounds Creation 
+User Interface (website) sound design
+Sleep Disorders
+Making/using Drones, and Stingers
+Foley Caress tiger
+Cloth Foley Off Screen?
+Ever have one of those projects...
+Do you file your foley?
+Big fish effects feedback needed
+No-Contract Legal Issue
+Field-recording in areas you absolutely need clearance for
+Sounds that have never been recorded before.
+Have time to kill next week. Gonna do some location recordings. Any suggestions?
+The film-making process for a sound designer pretending to be a writer
+Good Effects for Robot Voice
+How important is a stereo microphone when starting out?
+Do you read scripts?
+Quick survey re: job offers
+Cell Phone noise wanted
+sound design demo session for protools?
+High-Five Mr. Spitz
+Reaper DAW and OMF files
+Gigantic Foley/EFX sessions.
+single point stereo m/s NOT shotgun
+Noise Removal, Old School
+Does Snow Leopard work yet?
+Building Ambiences From Scratch
+In need of some career advice.
+The Game Audio Tutorial
+Separating real sounds from sound design before you record.
+Wwise and CUBE event for landing a jump
+Mixing Environments: How they translate
+How to find work for game audio?
+Techniques for stretching out water to make it a constant sound
+BWF Files -- Why didn&#39;t someone tell me about them sooner?
+Outdoor Recording Level Recommendations
+Binaural Dummy Head [DIY]
+DPA 4061 as Lavalier? 
+Can someone explain what happens technically when you use multiple instances of stereo widening?
+Matched or Unmatched?
+On Hold Audio/Data Compression
+M-S Matrix Recording
+MOC - Mit Out Computer
+Sound Design Birthday Ideas
+Online Back up for SFX
+Plane peel off&#39;s, climbs and dives
+Do analog mixers boost mic level to line level?
+How much does your mood affect your work/creative accuracy?
+Feedback On My Sounds
+Royal Wedding Audio Sync Issues
+Audio equivalent of a graphic charter
+Ideal lavs for non-ideal office environments (think loud fans that can&#39;t be turned off)?
+Attn: Boom Ops - How do you stay in shape?
+grouping tracks in Logic 9
+Wind protection for a Lav
+What are your sources for new/unknown music? - Not exactly sound design but...
+Evolution of your appreciation for sound
+Sound Design Equipment
+How much should I charge for my music being used in a film
+Silica Keep-Dry Bags
+Video As Audio?
+Extreme wind protection (100+ km/h)
+Need good examples of riverside films
+What is the best way to mix when you have a cold?
+Backing up on the go
+Your thoughts on the next kind of media storage
+How to make a car sound bad?
+Snap, Crackle, and Pop (Making Glitches)
+Monster footsteps (animation)
+India Street Ambience
+Dialogue Editing for Documentary Film
+Boom mic in Shot
+Astatic DN-HZ microphone
+Films with extended moments of great sound
+Sound Minus Sound
+The quietest moment in your city?
+Where are editors on the chain of command?
+Mixing Stereo Music to Surround
+DIY Studio Furniture Computer Iso box
+air release Foley Moves
+Sound Sculptures &amp; Installations
+Who uses earphones in the professional arena of music and film?
+Looking to learn...
+Sound Showreel?
+Mini External HardDrives
+When using a boom to capture production audio what kind of mic do you want?  Boom Technique
+protools workspace window freez and crashes .
+NYC for Sound Design
+Audio level problems using a wireless hop
+Sound coming from behind using stereo field
+Conferences,Meetings
+Dealing with lavalier mic bleed in post
+Dealing with Nose Whistles
+How do you organize sessions after importing the OMF?
+If you could choose noise reduction or ADR.  What would you choose? (Poll)
+Mouth only Sound Design
+Lectrosonics SMV/SMQV Remote Control and Quadra Monitors
+Parkade Fire - Vancouver hockey riot. 
+What can I use as a waterproof shield for my Rycote?
+Apple vs. Windows 7 Laptops
+demolition sound effect
+Voice Over Session Questions
+Recording Fireworks...Tips/Suggestions...
+Matching backgrounds from two lavaliers
+How do you define the art of sound design?
+Difference in sound between animation and real shot film. 
+How does the new General HD library from Sound Ideas compare to the old school General 6000 + extensions?
+Sound Design on Tribes: Ascend - Part 1
+Best Podcast Compression/Settings....
+Foley sampler instrument - Some questions to sound designers
+Ever feel like you were better for the job?
+Sample library licensing issue re. computer games
+Wind Farm / Wind Turbine
+opinions on film credits
+CARMAGEDDON RECORDING PLANS?
+How is this sound made?
+Why is this sound made?
+Mixing a film to be viewed on mulitple screens
+References of music using drums, voices and clapping hands 
+Robot Vs. Fairy
+Your thoughts on sorting through aleatoric recordings for sound design?
+A Feedback Compressor
+How can I record footsteps in sand without sand?
+Help Learning UDK Audio Functionality
+Mobile App Audio Middleware
+Game Audio Course Work
+earphones are harmful?
+What&#39;s the wackiest software filter out there?
+Pre-Film School Preparation
+Ambients from Tokyo
+free soundless clips
+Common Horror Genre type &quot;stingers&quot;
+Audio Workflow for Drama Production
+Non metal wire/rope/string tension
+Mid-Side using Two Cardioids
+Anyone with data recovery wizard skills?
+Anyone beta testing the nomad?
+Rises for Trailers
+Headphone Burn-in?
+Is a 744t supposed to get very hot when charging the battery?
+GameAudio Middleware Differences
+Best Comprehensive Location Equipment for &#163;5000?
+Wanting to invest in a sound effects library, but I&#39;m not sure where to start.
+How to condition the audience for crying?
+cutting foley/footsteps through compression?
+Testers needed for my Surround Ambiances sampler instrument
+Mono and Stereo cables / balanced and unbalanced audio
+Dated office sounds (1960&#39;s)
+Dolby License for a feature film
+Sending a headphone feed to a director on set?
+Abstract Sound Design
+Game Audio Licensing = Head Spinning
+Mouse Alternative Workflows
+Can you help to identify the probable cause of this distortion?
+Foley: Dog Feet
+What does it take to be a sound designer in the video game industry?
+Sound Professionals SP-BMC-1 - currently $9.99 reduced from $79.99
+Where to Find Free Music with Creative Commons License
+Who&#39;s going to AES in October?
+Stock Audio, Audio Micro
+pro tools 9 odd freeze and crash
+Advice on my newly researched sound recording kit?
+Let&#39;s have an updated chat about portable recorders
+Audio solution for working with motion capture
+Recording sfx during sprinkle (rain)
+Do any SD 722 owners have tips they could share?
+Recording Ambience with a shotgun 
+Robust Audio Conversion Utility for Windows platform
+Is there a quick / easy way to re-sync a sound edit for a short film, or is just one of those things we have to deal with?
+hey new yorkers, who&#39;s recording occupy wallstreet?
+How to create a pleasing distortion (harmonic)
+Mixing trailers for the internet
+Chris Watson&#39;s &#39;River Mara At Night&#39;
+Rober Bresson&#39;s notes on sound
+Do people hear differently at different times of the day?
+Mixing Cinematics for Iphone APP
+Recording very Loud drums ?
+Sound Reports on Set
+DIalogue editing and when you need more gain?
+Pro Tools 10 - First Impressions?
+plane crash sound effect, how to record a powerful crash?
+Do you ride the levels during an interview?
+alternatives to rode nt4
+Anybody do it up for Halloween?
+Alternatives for the 722
+Egg Hatching Sound.
+loudness metering
+Demo Reel Etiquette?
+Approval/Review process for Broadcast 5.1
+Camel Alchemy Sound Design
+Nature doco sound design?
+What is The Wilhelm scream?
+Adobe Dropping Flash
+Stereo bar 40 cm or 70 cm?
+Questionnaire for all levels of game sound designers!!
+How to make a nice indoor, city apartment ambience
+Labelling your stuff.  What&#39;s your method?
+what is a soundscape?
+Favorite Ambiance, Background Recording Technique and Delivery
+Audio Story Mixing
+Favorite way to infuse sounds with other sounds or Infuse moments with manipulated sounds
+ADR in a documentary
+Has anyone here replaced their MBP dvd drive with an SSD? I wanna run NI Komplete sans external HDD
+About mic positioning
+Addicted to Sounds
+Sound Editors dilemma
+Freelancer Sound Editors and Designers, how do you search your SFX when in a new studio?
+batch process for leveling sounds
+Spotting to timeline with blank regions before recording/editing sfx
+What the best &quot;new&quot; large general sound library out there ??
+Free VSTs for manipulating sound?
+Lemur for iPad?
+General Noob Quesions
+Recording City Ambiance
+How can a sound designer best use it&#39;s knowledge in the preproduction?
+AC3 Creation and Dialnorm Settings -- Best Practices
+AA Video Game Companies
+Can you recommend suction-cup microphone holder ?
+Similar software known as Audioease Speakerphone ?
+cutting multiple hard synced layered events - workflow
+post production &#39;BOOMs&#39; - any help?
+victorian sounds
+messy jobs in the studio - how do you protect the floor and walls
+Underwater Worldizing
+Favorite way to modify a voice
+Abstract videos for sound design practice 
+Sound Design - Sound Replacement Exercise Feedback
+slowing down sound - a lot.... suggestions needed!
+what is different between room tone and ambient/atmosphere sound?
+Empty Rooms and Production FX
+How to wire up a Sennheiser MKE-2 for use with Lectrosonics SMV Transmitters
+best mac keyboard for sound editing
+Removing duplicate sounds (different Metadata) in SoundMiner v4pro?
+Removing background location music from documentary dialogue
+A FB Page or a Blog?
+Internship over the summer
+blocking ultrasonic frequencies
+Audio Designer vs  Sound Designer
+Handheld recorders for BGs and Ambiences 
+Dialogue Premix - Exterior Verb
+Transformers 3 teaser trailer sound
+Sonically Interesting Places In London
+Using Wacom with PT 
+Background interiors with different perspectives
+Distinct Ambient Noises: Consistency, or Variety?
+Permits to field record in China and Hong Kong?
+where to buy Blocks of dry Ice in the UK
+Sound Design:  Inner Mechanics of a Gun
+Rycote Softies - good buy?
+Reused Metal Groan in Video Games
+Can you fit two microphones in a Rycote Zepplin for MS  Setup?
+Designing a sound for flowers wilting/food rotting
+My first MS stereo setup.
+Tape, Murch, Warner, controllers and turning the computer off. 
+making voice overs sounding cartoonish?
+Portable audio recorder remcomendations (Roland R26 or Marantz PMD 661)
+Anyone here using anything from the API 500 series 
+Fmod Music Options
+Pal To Ntsc conversion
+Is mid-side always better than XY?
+Project Archiving.  Delete or not to delete?
+SFX Editing &amp; Layering - Audiosuite or Inserts?
+Voice Artists and where to find the good ones
+Alien Voice design questions 
+Creating a huge trailer voice.
+Adding minute amounts of different sound Convolved to a Mix....effect?
+Experiences with Busman DR-680
+Recording advice
+Advice on how to start designing sound for games?

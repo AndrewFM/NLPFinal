@@ -2499,3 +2499,2504 @@ Graphic Design - Video games -- events, seminars, workshops, etc
 WCAG luminance contrasts - current practice, what is it?
 What do you think of? Watch, technology, classic / modern, time, space, infinity
 Stroke won&#39;t change in Illustrator
+What is wrong with Comic Sans?
+Tips and resources for beginning designers
+How to copy layers from one Photoshop document to another?
+How do I learn to be creative?
+New generation of Save icon that is not a &quot;disk&quot;?
+Why do some logos look.. old? How does design age?
+Making the background of an image transparent in Gimp
+Export photoshop layers to individual PNG files - batch process?
+What is the single most influential book every designer should read?
+Point vs Pixel: What is the difference?
+How to handle client requests to violate copyrights?
+What is so good about Helvetica?
+What are best practices for choosing and pairing fonts?
+Are &quot;web-safe&quot; colors still important?
+What kind of black should I use when designing for CMYK print?
+Why do two perfectly adjacent rectangles create black or white lines in between as if they were overlapping or not exactly adjacent?
+Is there a free &#39;Helvetica Neue&#39; alternative?
+Where are some good places to find royalty free stock images?
+Web Safe Alternative to Myriad Pro Font?
+How to open or save as ico in Photoshop CS6
+Replacing whiteness with transparency in CS6
+Is there a good resource or tool to help build a palette/color scheme around colors I select?
+How can I automatically determine fonts used in an image or PDF?
+Designing around an awful logo
+How to modify the corner radius on rounded rectangle in Illustrator?
+Sources for Color Theory or Psychology of Color
+What is the difference between CMYK and RGB? Are there other color spaces I should know?
+How to make a font with Adobe Illustrator?
+Helvetica Neue Equivalent on Google Fonts?
+How can I describe the font I am looking for or looking at?
+Is it frowned upon as a designer if you don&#39;t use &quot;top&quot; software?
+What web graphics formats to use?
+How often is the Golden Ratio actually used in modern design?
+What would be a good alternative visual way of representing the Push and Pull signs in doors?
+Why would a designer want to purchase a typeface instead of using free ones?
+Why should I ever use Unicode’s special characters for Roman numerals?
+What are good sources for Open-Source fonts?
+Difference between kerning vs letter spacing?
+&quot;Serifs improve fast, easy readability for long text&quot; - myth or truth?
+In a sentence ending with a bold or italicised word, does the period need to be bold/italicised too?
+What is the purpose of using a very dark color for text instead of a pure black?
+What technical/objective qualities do good logos have?
+Should web designers make a free mockup?
+What does the size of the font translate to exactly?
+How can graphic designers contribute to Open Source projects?
+What font types are good for a technical document?
+How can I convince a stubborn client that white space is absolutely necessary?
+How do you break out of current creative mind sets?
+Why are Apple Macs used so much in the graphic design industry?
+What causes the effect in the Sonos logo?
+How can the &quot;dress&quot; optical illusion be accurately reproduced on other images?
+What should you ask the printer?
+What should I do if a potential client claims my pricing is too high?
+Are graphics tablets worth it?
+Should I design business cards in InDesign, Illustrator or Photoshop?
+How can a designer explain their work to non-creative people?
+Is it really impossible to have gradient without banding?
+Do interfaces really need to &quot;look good&quot;?
+What is meant by &quot;busy&quot;?
+What price should I charge for design services?
+Is there a way to copy guides from one Photoshop document to another?
+How can I improve my color selection skill?
+Should in-house clients receive native files to make their own changes?
+Do web designers need to know how to code?
+Critique: Tritium software logo design
+Can I reduce the file size of an SVG to be closer to its JPEG equivalent?
+Add transparency to an existing PNG
+Is there an advantage to doing a full image mock-up versus diving straight into writing the HTML/CSS?
+Is Marcellus a serif font?
+How do you deal with clients who bash your designs?
+Exporting individual layers in Photoshop, keeping their sizes
+What are some good resource for programmers to design icons?
+What DPI should be used for what situations?
+Which format is better for saving images intended for websites; PNG or SVG?
+Font-face loaded on Windows look really bad. Which fonts are you using that render better?
+How to protect against third-party claims when using free stock images?
+What resolution should a large format artwork for print be?
+How do I change a single layer to grayscale in Photoshop CS4?
+What&#39;s the difference between opentype vs. truetype
+Why is it that this color gradient is so much more attractive than others?
+Why is pure blue darker than pure green?
+Methods for improving color choice and combinations?
+How to get dashed line in Photoshop?
+Is there a standard width for designing web page mockups?
+Do I need to license fonts included with my OS?
+How do I combine two objects into one in Illustrator?
+How would you represent &quot;religion&quot; in an icon, neutrally?
+How do I create Mexican hat potential figure in Illustrator using 3D Map Art?
+Is there a Github for Graphic Designers?
+GIMP: Trying to move selected text layer but moves background layer
+How can I curve a design I made to make it perfectly match the curve of a circle?
+How do you explain the value of native files to an uneducated client?
+What&#39;s the most efficient way to &quot;blank&quot; old comic word balloons while retaining paper texture?
+My Xylophone is off key; Understanding this kerning
+I need suggestions for an &#39;undelete&#39; icon
+Can I stylize a ™ symbol to match logo design?
+What do you call this type of top down, not really 3D, perspective?
+Alternative to Adobe Illustrator
+Professionals: Would you choose GIMP over Photoshop and/or Inkscape over Illustrator?
+Best way to convert multipage pdf to separate jpg&#39;s
+What is wrong with Comic Sans?
+Tips and resources for beginning designers
+How to copy layers from one Photoshop document to another?
+How do I learn to be creative?
+New generation of Save icon that is not a &quot;disk&quot;?
+Why do some logos look.. old? How does design age?
+Making the background of an image transparent in Gimp
+Export photoshop layers to individual PNG files - batch process?
+What is the single most influential book every designer should read?
+Point vs Pixel: What is the difference?
+How to handle client requests to violate copyrights?
+What is so good about Helvetica?
+What are best practices for choosing and pairing fonts?
+Are &quot;web-safe&quot; colors still important?
+What kind of black should I use when designing for CMYK print?
+Why do two perfectly adjacent rectangles create black or white lines in between as if they were overlapping or not exactly adjacent?
+Is there a free &#39;Helvetica Neue&#39; alternative?
+Where are some good places to find royalty free stock images?
+Web Safe Alternative to Myriad Pro Font?
+How to open or save as ico in Photoshop CS6
+Replacing whiteness with transparency in CS6
+Is there a good resource or tool to help build a palette/color scheme around colors I select?
+How can I automatically determine fonts used in an image or PDF?
+Designing around an awful logo
+How to modify the corner radius on rounded rectangle in Illustrator?
+Sources for Color Theory or Psychology of Color
+What is the difference between CMYK and RGB? Are there other color spaces I should know?
+How to make a font with Adobe Illustrator?
+Helvetica Neue Equivalent on Google Fonts?
+How can I describe the font I am looking for or looking at?
+Is it frowned upon as a designer if you don&#39;t use &quot;top&quot; software?
+What web graphics formats to use?
+How often is the Golden Ratio actually used in modern design?
+What would be a good alternative visual way of representing the Push and Pull signs in doors?
+Why would a designer want to purchase a typeface instead of using free ones?
+Why should I ever use Unicode’s special characters for Roman numerals?
+What are good sources for Open-Source fonts?
+Difference between kerning vs letter spacing?
+&quot;Serifs improve fast, easy readability for long text&quot; - myth or truth?
+In a sentence ending with a bold or italicised word, does the period need to be bold/italicised too?
+What is the purpose of using a very dark color for text instead of a pure black?
+What technical/objective qualities do good logos have?
+Should web designers make a free mockup?
+What does the size of the font translate to exactly?
+How can graphic designers contribute to Open Source projects?
+What font types are good for a technical document?
+How can I convince a stubborn client that white space is absolutely necessary?
+How do you break out of current creative mind sets?
+Why are Apple Macs used so much in the graphic design industry?
+What causes the effect in the Sonos logo?
+How can the &quot;dress&quot; optical illusion be accurately reproduced on other images?
+What should you ask the printer?
+What should I do if a potential client claims my pricing is too high?
+Are graphics tablets worth it?
+Should I design business cards in InDesign, Illustrator or Photoshop?
+How can a designer explain their work to non-creative people?
+Is it really impossible to have gradient without banding?
+Do interfaces really need to &quot;look good&quot;?
+What is meant by &quot;busy&quot;?
+What price should I charge for design services?
+Is there a way to copy guides from one Photoshop document to another?
+How can I improve my color selection skill?
+Should in-house clients receive native files to make their own changes?
+Do web designers need to know how to code?
+Critique: Tritium software logo design
+Can I reduce the file size of an SVG to be closer to its JPEG equivalent?
+Add transparency to an existing PNG
+Is there an advantage to doing a full image mock-up versus diving straight into writing the HTML/CSS?
+Is Marcellus a serif font?
+How do you deal with clients who bash your designs?
+Exporting individual layers in Photoshop, keeping their sizes
+What are some good resource for programmers to design icons?
+What DPI should be used for what situations?
+Which format is better for saving images intended for websites; PNG or SVG?
+Font-face loaded on Windows look really bad. Which fonts are you using that render better?
+How to protect against third-party claims when using free stock images?
+What resolution should a large format artwork for print be?
+How do I change a single layer to grayscale in Photoshop CS4?
+What&#39;s the difference between opentype vs. truetype
+Why is it that this color gradient is so much more attractive than others?
+Why is pure blue darker than pure green?
+Methods for improving color choice and combinations?
+How to get dashed line in Photoshop?
+Is there a standard width for designing web page mockups?
+Do I need to license fonts included with my OS?
+How do I combine two objects into one in Illustrator?
+How would you represent &quot;religion&quot; in an icon, neutrally?
+How do I create Mexican hat potential figure in Illustrator using 3D Map Art?
+Is there a Github for Graphic Designers?
+GIMP: Trying to move selected text layer but moves background layer
+How can I curve a design I made to make it perfectly match the curve of a circle?
+How do you explain the value of native files to an uneducated client?
+What&#39;s the most efficient way to &quot;blank&quot; old comic word balloons while retaining paper texture?
+My Xylophone is off key; Understanding this kerning
+I need suggestions for an &#39;undelete&#39; icon
+Can I stylize a ™ symbol to match logo design?
+What do you call this type of top down, not really 3D, perspective?
+Alternative to Adobe Illustrator
+Professionals: Would you choose GIMP over Photoshop and/or Inkscape over Illustrator?
+Best way to convert multipage pdf to separate jpg&#39;s
+What should one ask when gathering graphic design requirements for a website
+Where can I find a large palette / set of contrasting colors for coloring many datasets on a plot?
+Any way to use an Android tablet as a cheap touch-screen (display + pointer-input-device) for Photoshop?
+What do I do when I quote a price for a design but the client keeps asking for revisions and redesigns?
+How do I stop Illustrator from snapping to pixel increments?
+What is the easiest way to export just the selected objects in Illustrator CS5?
+Is there any way I can add watermark to .jpg files (around 15000), en masse instead of one by one?
+What is the difference between a designer and an artist?
+When should someone use ligatures?
+What are the steps in designing a website?
+Why are raster images still used when vector images have so many advantages?
+How do I choose a good cover photo for my website?
+What are standard ratios for typography on the web?
+Learning Logo Design
+How to direct users eyes on a website
+How do I embed Google Web Fonts into an SVG?
+Why do some fonts make I, l, 1 look the same?
+RGB and CMYK: Why both?
+How to get standard results in colour management in Linux
+Version Control for Designers / Alternative to Version Cue
+is it mandatory to keep 72 dpi for web design? What if I create in 200dpi?
+Do web frameworks such as Bootstrap or HTML5 boilerplate offer anything to a designer (not developer)?
+I&#39;m trying to make my character look big, strong, and imposing, but it always ends up cute and fat. What am I doing wrong?
+Favicon Best Practices 2014
+How can I represent speed in a graphic?
+What is the &#39;John Doe&#39; of company names and logos?
+What is the difference between wireframes and mockups?
+How to answer the ever-present &#39;make the logo bigger&#39;?
+Turning off slices in Photoshop&#39;s &quot;Save for Web &amp; Devices&quot; without deleting them
+Is it possible to use a fully open source workflow for print design?
+How can I design a simple logo without any prior skill in graphic design?
+What are the differences between Helvetica and Arial?
+What&#39;s the difference between CMYK Black and RGB Black
+Fireworks for website design - why?
+What are common mistakes that you see in &quot;professional&quot; designs?
+Create equally spaced circles around a sphere object
+Removing guides in Photoshop
+Clearly distinguishable colours for scientific figures
+Optimum line height in relation to font size
+Illustrator CS6: Change artboard size / final saved file dimensions to match bounds of content
+How would I know how good of a designer I am?
+How or why do your eyes move away from a focal point to other elements?
+&quot;Good Artists Copy; Great Artists Steal&quot; - How can this concept be supported &amp; explained by a designer?
+How do I make screenshots look good when printed in CMYK?
+Is Scribus a viable alternative to Quark or InDesign?
+Why all the hate? --Two spaces after the period
+Does hyphenation increase legibility?
+Where do professional designers &quot;go&quot; to look for typefaces?
+What is the effect of ligatures in web, regarding SEO
+Alternative to Lorem Ipsum (dummy text) for websites
+Is there any open-source alternative to Fontlab out there?
+Are there any tangible benefits to becoming an Adobe Certified Expert?
+What exactly is a &quot;Pixel&quot;?
+How to create animated GIFs of prototype mockups, like the ones on Dribbble?
+Where should drop cap be suitable?
+How to enlarge an image with as little pixelation as possible?
+What are the differences between vector graphics and raster graphics?
+How are Serif and Sans-serif fonts different, and when should one use one over the other?
+How Should Adobe Bridge Be Used?
+Is it possible to modify a rounded rectangle&#39;s radius in Photoshop?
+Learning to draw: start in the pen and paper realm or the digital space?
+How to hire a graphic designer?
+Copy &amp; Pasting from Photoshop to Illustrator loses transparency
+What to do if your website design got stolen?
+How can I export an image from Illustrator image at multiple sizes?
+How to convert every pixel of raster picture to square objects in Illustrator?
+What&#39;s the term used when the first word of one page is repeated at the end of the previous page?
+How can I color a pattern in Inkscape?
+Bill a client for a design error?
+Where can I go to recieve feedback on web design projects?
+How to re-create this iOS7 blur effect
+How to attribute, give credit to creative commons/copyleft/public domain content for web/print?
+Should I ask for client&#39;s budget before the initial first meeting?
+How to deal with vague comments about a design from my clients and boss?
+How do I handle an increasing lack of faith in my design abilities?
+How come my text looks like it is not dead centered?
+What methods can I use to create balance and consistency between a group of differing logos?
+Are Macs preferable to PCs for handling graphics software?
+Must one have a knowledge of fine art to be a Graphic Designer? Should all Graphic Designers know how to draw?
+Is there a faster way to save all layers in PSD to PNG?
+How can I have prints with white ink?
+Facebook: Ways to preserve image quality of uploaded images? 
+Why do newspapers use multiple columns?
+Why is black not a natural color?
+Is a graphical/original resume a good idea for a designer?
+How can I force a guide to snap pixels whilst being dragged?
+Is there a DIN font free alternative?
+How to create an adjustment layer that blurs all layers below?
+How do I get this uneven airbrush effect similar to old art deco posters?
+Baseline Grid vs. Readability
+Is there an autosave feature in Adobe Illustrator?
+Is it possible to have global color swatches or color styles in Photoshop?
+Is ampersand allowed at the beginning of line?
+What are Google Webfonts or Typekit alternatives to Avenir Next Pro?
+What does a &quot;normal&quot; British pound sign look like?
+What kind of character/personality is expressed by fonts that mix capitals and lowercase letters?
+Removing graininess from a handwritten signature
+To which extent is the designer responsible of a responsive design?
+What are Color Profiles?
+Why do we still use points as a measurement of type size?
+What is kerning and what is the point of it?
+Visually similar alternatives to Helvetica?
+Is Design School a Requirement for Graphic Design?
+How to make an adjustment layer to affect only one layer or one group of layers in Photoshop?
+Create a Triangle with Rounded Corners
+What&#39;s the difference between saving a vector as .AI and saving as .EPS
+Why does my transparent PNG not look good?
+What is the difference between DPI (dots per inch) and PPI (pixels per inch)?
+How to get Layer size (Width and Height)?
+Examples of good academic poster design
+What is the difference between a font and a typeface?
+Which is easier on the eyes: dark-on-light or light-on-dark?
+What are the benefits of making gesture drawings?
+How do I know if my downloaded font is legal
+Font overload in academic documents
+How to achieve this 3D &quot;Card&quot; effect
+Is it necessary to attribute Creative Commons licensed art?
+Is being a graphic designer a stressful job?
+When/how to stop brainstorming new ideas and move on when there is no clear frontrunner?
+How would you rate this logo-concept for a fiber optic Internet company and how can I improve it?
+How to make plot marker sizes for scientific plots seem consistent?
+What are best practices for determining responsive design breakpoints?
+What programs can be used to make animations?
+Can Photoshop Be Used for Vector Purposes?
+Version Control for Design files
+Web-based workflow solutions for graphic designers (hosted and self-run)?
+How do I speed up my design work?
+What is Minimalism in Graphic Design?
+Font (anti)aliasing in Photoshop
+Transparency to unpremultiplied RGB + Alpha
+What is a good font for a CV?
+Clients always think they are a better designer than I am.
+Make image partially transparent in gimp
+Scale drawings in Illustrator, maintain proportions of line weights and effects
+Photoshop CS5: Setting a black background to transparent
+What characters are good to start with when designing a typeface?
+Learning Photoshop just for web designing
+Where does inspiration end, where does illegitimate copying start?
+How can I effectively manage all my design assets?
+How can I get the closest color word for a hex color?
+How can I lock down Microsoft Word to protect our branding?
+Why are fonts from the 19th century not in the public domain?
+What effect do gradient fills have on the eye?
+How can I achieve a sharp pixel perfect stroke effect in Photoshop?
+Charging an Intellectual Property transfer fee for design work
+What&#39;s the practical difference between a &#39;glyph&#39; and a &#39;character&#39;?
+How to make a logo where a letter is made of particles of varying sizes?
+Repeat client is suddenly demanding intellectual property rights!
+Drawing block diagram?
+Exporting an object as svg from inkscape
+How was brand consistency maintained before computers?
+How do you manage samples of physical design projects?
+What should be considered when using very thin lines on a print piece?
+How to explain to a client that their logo is incredibly poor
+Should I ask for payment for my logo and website design when I delivered them late?
+Should I mention rush fees in my quote?
+How to turn the grey background white in a phone camera picture of a book?
+Why does this PNG image on twitter look different when clicked?
+How to convert RGB colors into real paint colors?
+How can I legally design something which looks like US currency notes?
+How do I convert a .png blurred background into a compressed .jpg one without introducing artefacts?
+In what cases should I pay attention to my design&#39;s colour scheme when presenting it? When I do, what is a good way to do so?
+Creating CSS sprites from Photoshop
+What are general practices in handing over usage rights to the client?
+How can I start to learn web development?
+Developer to Designer path: How To
+How to set the rotation point and use Transform Each in Illustrator?
+Is there a way to mirror paths as you draw them in Photoshop? (For drawing symmetric shapes.)
+What&#39;s the point of converting RGB images to CMYK TIF/TIFF before placing them in InDesign?
+How can I stop or disable anti-aliasing / feathering in Photoshop?
+How to create a batch job, numbering images (writing text on them) from 1 to 100 in Photoshop?
+What CMYK values should I use for rich black, and how should I handle tints/shades?
+Best workflow for icon design: Start big, or start small?
+How can a design be balanced and yet have a focal point?
+Scaling a text box in Illustrator CS6 (without scaling text)
+What considerations are there in designing pixel fonts?
+How to make a color appear the same on different backgrounds?
+How to distribute an equal amount of space between each object in Photoshop?
+What is this circle technique called?
+I need to print an image a certain size. What dimensions and resolutions should I use?
+How could I adjust a design color scheme to account for paper color?
+How to reinforce intuitive design decisions?
+How can I showcase a working example of my past web development work, without linking to the constantly changing live site?
+What tools would Monks use when DESIGNING a large illuminated letter or pattern?
+How much alteration to a font constitutes a new variation?
+How does one generate a palette similar to the ones in Google&#39;s material design?
+Why is Garamond italic all wonky?
+Is it possible to &quot;invert&quot; an SVG file? Not the colours, but the actual areas/paths?
+What font size should be used for a children&#39;s book?
+How to draw attention to a specific area of a design?
+What free/open source image design programs can you recommend?
+What&#39;s the difference between a logo and branding?
+Is it possible to tell from a printed sample what software/layout algorithm was used?
+Making a business card. Any advice?
+What are the major design trends in graphic design history
+Do discretionary ligatures hold any other purpose than visual?
+How to visualize data? Which software should I use?
+Is there a &quot;Fit to Canvas&quot; option in Photoshop like there is in Fireworks?
+Should I (a web designer) stick with gimp, or buy Photoshop?
+What&#39;s a good (and easy) way to show that a screenshot is a screenshot?
+How to manually identify a font when the automatic services fail?
+Is there a way to tell InDesign not to break words in a Paragraph? (hyphenation)
+Convert text to paragraph text in Illustrator
+How do I apply anti-aliasing to the edges of a layer?
+How to draw isometric vectors?
+How can I edit an .SVG file?
+Best way to send layouts with editable text to writers/editors who don&#39;t have design software
+Flip type when its on a path, AI CS5
+What is the style of font called that is typically used in newspaper mastheads?
+How do I deal with line spacing when a single descender is getting in the way?
+Why do GIF images automatically lock the base layer in Adobe Photoshop?
+Delete one shape from another in Illustrator (CS4)
+How do I paste into a layer&#39;s mask in Photoshop?
+What’s the difference between an art director and a creative director?
+What analog tools should every designer have today?
+How should ascenders and descenders that share the same space be handled?
+How can I write requirements for a graphic designer?
+How to create a non-destructive and reusable blurred/frosted glass effect?
+How should you web design with foreign typography
+Lorem ipsum equivalent for Spanish, Polish and other languages?
+How to convert old scanned documents into black and white
+Is there a standard font format that is considered best practice when creating an open source/free font?
+How do people make these animations?
+When should I use SVG or SVGZ for my web graphics?
+How can I mask out airplane propellers properly?
+What are some techniques to drawing abstract art
+Difference between None, Linear, Cubic and Sinc(Lanczos3) interpolation in image scaling?
+Kerning Feedback
+GIMP &quot;color to alpha&quot; is not selectable
+Critique: Does this logo portray a web-based control for a media player?
+How to balance dignity with a calculated risk of offensiveness / tastelessness?
+How to change the color of the artboard in Adobe Illustrator?
+What is the best way to indicate that you can scroll in an area when the area doesn&#39;t have a scrollbar?
+Is online freelancing a viable source of income?
+How to colorize an image as in the example?
+Light text on a dark background vs. dark text on a light background: which allows the reader to keep focusing for longer?
+How is this product box with windows / hologram effect created?
+Critique: Any advice on the design of my systems engineering r&#233;sum&#233;?
+How should artwork be setup for T-shirt printing?
+When designing, what techniques can be used for determining if the right amount of &quot;fluff&quot; has been added?
+What are good places to start learning web typography and layout?
+What are some of the highly skilled, niche areas in the graphic design industry?
+How should I position the letters in a square logo to read “H S S C”?
+How to change the color of an uneven surface to white in Photoshop?
+What is the difference between Glyph and Font?
+How to turn a shiny metallic surface into a matte surface?
+Many successful web startups have blue branding: is this a reflection of something?
+Why are fonts more expensive when used in games?
+Do high-content areas of a website need to be white/light-colored?
+What image tablet can you recommend on a budget?
+What is the Slicing Option in Illustrator and Photoshop Used For?
+What are the dimensions of a business card?
+How to draw &quot;rays&quot; in Photoshop?
+Can I use portions of stock images for derivative works?
+Is there a way in Adobe Creative Suite to &quot;share palettes/swatches&quot; across programs?
+Is it ethical to copy the work of other designers?
+How can I open a Corel Draw file in Adobe Creative Suite?
+Will scaling down incrementally hurt quality?
+Are logo design contests considered &quot;spec&quot; work and what are the pros and cons of participating as a designer?
+How to design sleek magnifying glass effects like these?
+What&#39;s the pixel dimensions of a presentation slide for Open Office / Libre Office Impress?
+How to print photographic postcard/business cards
+With the invention of CSS3, should a web designer use Photoshop?
+Image search engine, but for logos / How do you spot plagiarized logos?
+Fonts for technical reports
+SVG for print graphics
+Illustrator now refuses to draw lines with stroke weight below 1 pt
+How to align objects side by side with a specified distance between them in Illustrator?
+What does the interlaced option in Photoshop do?
+How to cut a large photo into a grid of smaller photos automatically in Photoshop?
+Perspective manipulation
+How to construct &quot;lowercase digits&quot; (i.e. text figures)?
+Gimp - Using an image as the transparency layer of another image
+Turn image into geometric array of colours
+How to vertically center text in a box in Illustrator CS5
+Resize text bounding box in Photoshop
+How to subtract text from a shape in Adobe Illustrator?
+Should underline clash with text descenders?
+Principles of Typography for different languages
+Issues with creating a hi-res Large Icon for Android notifications in Jelly Bean
+What is the relationship between hue, saturation and value?
+What is the name of this heart-like decorative symbol?
+Justification and hyphenation without proper time and tools?
+How to prepare a design for CMYK printing?
+Is it ok to mix fonts in Japanese documents?
+How can I represent a country with a font?
+Is there a command-line program that can output ascii art as an image?
+Styling clean flat-design buttons so they show affordance, and look &#39;well designed&#39;
+Apply MasterPage to even pages in QuarkXpress
+How much process can I / should I show in my portfolio?
+Logo Families/ecosystems
+How do I work with a logo that has what seems like too many colors?
+Which software is used by scientific journals to generate plots?
+How to remove every second frame from an animated gif?
+What is the best way to roll out new branding?
+Motivations for a designer to get involved in an open source project
+Make a desaturated image transparent keeping only shadows &amp; highlights
+What is the best way to make arrows in circular shape?
+What&#39;s the name for typography that looks like the meaning of its content?
+When/why is an &quot;o&quot; superscripted and underlined?
+How to give back as a designer?
+Online Tool to Find Closest Google Font
+What do users remember the most, position or color of elements?
+How do I figure out the right size font / text for a given read distance?
+How many variables can I represent graphically before losing clarity?
+How do I divide a circle into equal parts like a pie chart with Adobe Illustrator?
+How do I achieve the equivalent of using small caps in Arabic?
+How reliable are the colour blindness previews in Illustrator and Photoshop?
+Text not very readable on different image backgrounds
+Crop a big picture into several small size pictures
+What is the general process for planning and developing a new website?
+Why do I need to adjust kerning? Shouldn&#39;t the foundry already have done that?
+How can I explain to my client that more than two fonts in a logo is a bad idea?
+How should I handle a client when they ask for my opinion about another designer&#39;s work?
+What is the graphic design term for this element on a layout?
+How can I represent &quot;fast&quot; or &quot;Fastest&quot; in a logo? Any successful examples?
+What should a designer consider when laying out print materials for elderly audiences?
+How do Pantone coated and uncoated colors relate?
+Displaying Black on a Black Background
+What is this style, a grid of varying dots, called?
+Designing book covers with stock images
+How would I recreate this effect of text that seems to flow over a flight of stairs?
+Can somebody identify this pixel font? Reminds me of Space Invaders, but can&#39;t find it
+Printing a consistent grey: is that still a challenge with comic books?
+What are the best practices for dealing with desired line breaks in responsive web design?
+What is this design pattern called? &quot;Continuation wave.&quot;
+When and why do I use &quot;s&quot;-shaped quotation marks?
+Is it safe to use an image when I&#39;m unable to identify its source?
+How do I handle large paragraphs of centered text?
+Is there any typographic mark for chapter?
+How to get images&#39; filesizes as low as possible?
+What formats supporting animation are suitable for the web?
+What is 5-colour printing?
+Logo design and text placement
+Is there any way to remove a digital watermark from my image?
+How to import a picture file to an existing psd in Photoshop CS5?
+Good color palette, usable for the color blind.
+What&#39;s a good source of color palettes to provide to a color-blind user?
+Convert a line drawing from raster to vector
+How can I map the colors in a greyscale image to a specific color &quot;gradient&quot;?
+Tool to create animated SVGs?
+Photoshop curved Shadow 
+Is there a way to sort fonts inside Photoshop, as &quot;serif,&quot; &quot;sans-serif,&quot; &quot;script,&quot; etc.?
+How to draw a precise circular arc in Adobe Illustrator?
+Text in my Photoshop image looks &quot;blurry&quot;
+Effective way to cut out clouds in photoshop
+How to calculate other colors with the same perceived lightness as a given gray value?
+What are the responsibilities of a web designer
+Smallest font size for small print?
+Do a lot of freelance designers buy fonts?
+Can you re-number the order of artboards in Illustrator CS4?
+How does one turn a white background transparent in Photoshop but keep transparency?
+How can I identify what font was used in a Photoshop layer when the font is not installed on my computer?
+How do game designers create graphics for their games?
+Photoshop selection feather and cut/paste behavior (pixel loss)
+How do I preserve legibility when overlaying text on images?
+Recommend a good font management software for Windows 7
+How do I select a high-contrast color set for a map?
+How to find existing names or associations a symbol has?
+How to link images relatively in Inkscape?
+What are some common mistakes that a designer can make when designing for web, and how can they be avoided?
+Distribute objects along a path in Illustrator
+Mockups: Coding vs Drawing?
+What should be in a job contract?
+What resolutions are standard for digital device wallpaper designs?
+Where can I get images for commercial use?
+Techniques to dramatically scale an image
+Tools for making infographics
+What does &quot;LS4&quot; or &quot;LS16&quot; mean when searching for Adobe software like Fireworks or CS Master Collection?
+Establishing the real copyright owner of a font
+Is a Photoshop EPS file a vector format?
+Can I freely use the fire exit symbol and similar ISO symbols?
+How can I create a circular zig-zag pattern?
+Advantages of using two monitors in graphic design
+What is a spot/Pantone colour?
+What materials should a web designer using Photoshop send to a developer?
+What&#39;s a good replacement font for ITC Avant Garde Std?
+Can the end of double spacing after periods be dated?
+How do I select an object that&#39;s below another object in Inkscape?
+How can I fix jerky text panning in Photoshop CS6 video?
+What are the best practices and techniques to fix rags?
+Photoshop CS6 Resize Rectangle with Rounded Corners
+How can I cut out a section of a circle using Inkscape?
+Recommended column width for text reading, digital vs printed
+Making a typeface – should I check if it resembles any non-free or copyrighted typefaces?
+Endnotes in InDesign: Closest thing to a pain-free, flexible workflow?
+How to create an outlined drawing of a map or easily turn a Google Maps screenshot into one?
+What are good pre-internet books or courses for the creation of a logotype?
+Is there a guide out there for printing and selling T-shirts?
+Charts that communicate completeness / 100%
+Where can I find visual examples of the thought process behind different logo designs?
+Can I be a designer if I have Parkinson&#39;s Disease or mobility impairments?
+What do you call the first paragraph in a layout where its bigger and made to stand out?
+Typesetting acceptance of spacing slashes?
+What techniques are there to create a geometric diamond pattern in Photoshop?
+small lines when printing to PDF from Illustrator
+What printing techniques or folding tools can I use to hand fold a commercially printed design without it cracking?
+How to represent &#39;random&#39; with an icon
+What is the name for making words equal in length?
+What ICC profiles does Adobe Illustrator use to convert between RGB and CMYK in its color picker?
+Can I use an icon in the public domain as a company logo?
+How can I create this irregularly-shaped border with pure CSS (no images)?
+Overprint on metal containers or plastic tubes
+Why do graphic designers / illustrators start with a large painted area?
+What font family is this Art Nouveau / Jugendstil letter &quot;A&quot; from?
+How to make this hand-colored drawing even more fancier?
+3D - How to make this photo wall effect in Photoshop?
+How could I show hands that are race neutral?
+Figure drawing - transitioning between &quot;draw from reference&quot; and &quot;draw from imagination&quot;?
+Can I revise a poor logo without infringing on copyright? (Canada)
+How to achieve a repeating circular shape like the &#39;Sam Rockwell - Moon&#39; poster in Illustrator?
+How do I achieve this &quot;Out of Sync&quot;/mis-registration fill style in Adobe Illustrator?
+Difference between font face, typeface, font in the context of typography?
+What is the purpose of always locating/starting new chapters on odd pages?
+In a 85.6mm x 54mm business card, what is an ideal font size?
+Is it acceptable to ask a designer for an editable file so I can make variations myself?
+Critique: Tritium website design
+How can I create simple spheres using CSS?
+How do you handle client&#39;s browser zoom ?
+What&#39;s the best way to animate an illustration for the web?
+How would you represent distance graphically?
+Is there a Non-Latin &quot;Pseudo-Latin&quot; Font?
+How do you present typeface options to your team during a rebranding
+How to convince a client to have their logo redesigned?
+What generic icon could be used to symbolize a brand (McDonalds, Apple, etc..)?
+How do I convert a red color scheme to a green one without making it look &quot;brighter&quot;
+(Font identification) Univers-like sans-serif
+What is an &quot;alpha value of black&quot;?
+How can I improve my drawing tablet skills?
+Range of icon sizes and formats on various operating systems
+What benefit does proper balance add to a design?
+Why is this gradient considered metallic chrome?
+Is &quot;in the style of&quot; an IP infringement?
+How important is the visual flow of an interface?
+Do you use colour lasers for proof printing?
+Are there examples of software that use a dark colour scheme?
+where to get web-design critiques and suggestions?
+Is there a trend away from left aligned web site designs?
+Good color to go with black &amp; white design?
+Using stock images for logos
+Is there a way to copy text style in Photoshop?
+Why does anti-aliasing in black characters use colors other than gray-scale ?
+How do I edit multiple layers at once?
+Writing text with character variations
+How Do You Find The Dimensions of A Document in Illustrator?
+What&#39;s the best way to make attractive charts?
+Choosing colors that work well on projectors
+How can non-designers learn to approve a print layout?
+How do I turn off anti-aliasing while drawing shapes in Photoshop?
+How can I calculate the center of mass/gravity for vector objects?
+How to create an EAN-13 barcode with a font?
+How can I best provide feedback to my designer
+Sources of inspiration for the graphical design of a business intelligence web application
+How much software experience do I need to be a well-rounded graphic designer?
+What&#39;s with all the Lorems and the Ipsums?
+Photoshop Color Settings for web design
+GIMP - change color of object preserving feathering
+Is there any service where you can check your designed logo against trademarked logos?
+What&#39;s up with the one-page website design fad?
+Help me find a font that looks something like this...
+What are the consequences of using unlicensed fonts?
+Is there a typographical term for vertically-stacked characters?
+How can I prevent Photoshop from applying anti-aliasing to a layer when it&#39;s resized?
+What kind of Interview Questions should one expect at their first design job interview?
+The selection and use of typefaces for the non-designer
+How to create a &quot;zig zagged, jagged&quot; effect with Photoshop?
+What is a good free font management tool for linux?
+What color profile should I use when designing for iPhone?
+Photoshop - Is there a keyboard shortcut for creating a new frame?
+How do I create a billboard that is larger than Indesign CS5&#39;s maximum document size?
+How to select colours that match each other?
+Noteworthy: Web Font and Its (Possible) Alternatives
+If I make a design in RGB mode and then change it to CMYK how will it look when it&#39;s printed?
+Which software renders a planar projection of a 3D object as a vector graphic?
+How can I combine multiple PDF files into one?
+Checking through different fonts quickly
+How can you export an Inkscape SVG file to a PDF and maintain the integrity of the image?
+What software is best for GUI design?
+Why does Helvetica [Neue] look absolutely horrible in Illustrator?
+Show Preview of .psd files in Windows 7&#39;s Explorer
+How to handle a client who only wants to purchase stock images from my design mockup, instead of my design?
+What are some good ways to gain practical experience to add to my portfolio?
+Looking for a font similar to Georgia, but without the numbers dipping as they do
+What browser width should I use to design a website?
+What is a &quot;sprite&quot;?
+Different Logo Colors for Different Uses, Appropriate?
+In GIMP, how to colorize using a reference color?
+How to automate exporting multiple PNGs with different sizes from Photoshop?
+Reduce file size without losing quality
+What should I do regarding color profile when designing for the web?
+Should I assign copyright of business card design?
+How to package all faces of a font into one family file (Mac)
+Footnote typographic conventions
+Photoshop - retrieve graphic from off screen / outside canvas
+Kerning on the fly
+How to add background color to text in Photoshop
+The role of the designer in content – should he have one and how big should it be?
+Set the colour of arrows in inkscape
+How to make Objects follow a path (illustrator) (like on the las vegas sign)
+Ascender and descender heights: all equal?
+Name for style of text logo where two colours overlap imperfectly?
+How to draw a smooth line (small in some places, large in others) like in this image
+What are some good tips on how to extrude text in Adobe Illustrator?
+Seeking advice to improve the design of my minimalist calculator
+What are the more respected sans serif fonts that come standard on most computers?
+Auto crop layer in Photoshop
+Is having a skills bar chart on a resume a good idea?
+How can I remove white pixels around circles when exporting this to gif?
+How to resize a palette that&#39;s dropping off the screen?
+Literal versus indirect imagery
+How do I deal with color spill in chroma key using GIMP?
+Is possible to share a text variable across documents of a book in InDesign CS6?
+Readability and appeal of justified text
+How to capture likeness in a portrait?
+How typographers make bolder/lighter versions of their fonts?
+What are some good resources for learning calligraphy?
+How to calculate the best type colour for a random background colour?
+Does ideal measure change with language?
+How to change the perspective of an image in Photoshop?
+What design and art concepts were art students/professionals discussing in the 70s?
+How can I create realistic business card mockups?
+Are graphic designers for web supposed to know JavaScript?
+What&#39;s the difference between Monitor RGB and sRGB?
+Inkscape export format
+Is there anything that can read, import or convert CMYK SVG?
+What is HSB really?
+How to present web design mockups to a client?
+How can I remove the unwanted background from a scanned handwritten signature?
+How do you save an Animated GIF file using Photoshop?
+How can I easily apply an embossed texture to a surface in a 3D model?
+Do the illustrations I do for a company belong to me, or to the company?
+Can you draw a constrained straight line with GIMP&#39;s paths tool?
+What&#39;s the name of the random geometric avatars some blogs use?
+Text silhouette; change color in middle of a letter illustrator
+How to transform a pixel image in vector logo in Inkscape?
+What are some typefaces to pair with Bauhaus?
+How to export Illustrator layers as individual images?
+AIGA - Worth it for web designers?
+How to create charts and tables with Inkscape?
+What is the average pixel size for human writing?
+Flat Rate vs. Hourly: Fast work = lower pay?
+How do I get my vector logos to look super sharp on the web?
+Is there a name to define a 3D scene design from a fixed angle?
+How to optimize duplicated frames in an animated GIF using Photoshop?
+Is it possible to create 3D red/cyan anaglyphs in a hand drawing?
+Does hue/sat/lum offer a smaller range of colors than RGB?
+How do I know when I&#39;m ready to start doing professional work?
+Plagiarism vs Inspiration
+How to create these rotated clones?
+What are good general typeface principles based on target audience age?
+Billing software for freelancers
+Origin of numerical font weight descriptions in typography
+In GIMP, how do I use an image as a color reference to colorize a black-and-white photo?
+How should a designer communicate price is negotiable to a client?
+iPad in Graphic Design: actual usage
+What do different bracket/braces/parens in logos mean?
+Why do yellow and red look good together in this photo?
+Have there been any attempts to improve the design of spreadsheets?
+What are the key principles that effective designs share?
+Connecting A and T in a custom typographic mark
+how to rasterize an SVG without anti-aliasing
+Creating a color scheme that looks good on screen and when photocopied in black and white
+Are there any sites which provide feedback for logo designs?
+How to use Fibonacci numbers / Golden Ratio in logo design in Illustrator or Sketch?
+Scaling a symbol in Sketch scales all instances of that symbol
+How can I work with a client that doesn&#39;t know what they want?
+When is Photoshop an inappropriate tool?
+How can I create hand-drawn style graphics for my website?
+Do SVGs have any inherent px size?
+How do I ensure a colour is flat (and not dithered) when exporting it from Flash?
+What things should I consider when using my own custom fonts on a client&#39;s project?
+What advantages/disadvantages do specific font formats have for print production?
+What is a &quot;cromalin&quot;?
+Handling non-standard fonts in corporate identity
+What is six-color (6C) process printing?
+Am I supposed to draw cartoon faces in orthographic or perspective projection?
+Essential Steps for Long Document Project in InDesign
+Should graphic artists be scared at all about anyone stealing their artworks?
+Contrast ratio between foreground and background
+Design OpenCourseWare course recommendation
+Save for Web using Photoshop Actions
+What are some common open (royalty-free) image formats?
+What is page bleed and how can I avoid issues with it ?
+Scrap-work Methods
+How do I get started with Adobe Illustrator?
+Calibrating a screen on a budget?
+Exporting a Pattern to Image in Photoshop
+How to keep printed documents accurate color reproduction
+How Should One Modulate White Space?
+Can I create a PNG from InDesign?
+Designing A Website from Scratch – Illustrator or Photoshop?
+data visualization over time
+Restart indesign ruler at every page
+Good Methods To Substitute A Design Education?
+JPEG vs EPS in a workflow
+How to completely remove the background from an image?
+How do I easily convert a fuzzy pixel art image back into pixels?
+How was the art made in this game?
+How to keep Photoshop history snapshots?
+Rotatable guide in Photoshop?
+How do you cut out the centre of an image, bringing the edges closer together?
+How to change the colour of the transparency grid in Photoshop?
+Where to ask for free work?
+How do I depict a ramp from a top down 2D perspective?
+What&#39;s this style called, with blocky text and strong circle shapes?
+How do get what you want to say into such a few words?
+How can I ensure that users will think a button is clickable?
+What can I do with AFM - Adobe font metrics file?
+Scaling rounded corners in Illustrator
+How to make an animated gif with a transparent background without overlap?
+What are the best widely-distibuted typefaces when I don&#39;t have access to commercial alternatives?
+The most advanced JPEG image compression on mac?
+What size should I make my gatefold brochure?
+Branding a company that has no public identity
+Is it a bad idea to change a single - major - element in isolation?
+Does the &#39;Other Dynamics&#39; brush option exist in Photoshop CS5?
+How to troubleshoot a design that doesn&#39;t &quot;feel&quot; right?
+Illustrator how to crop and save images
+if you accidently make a document in working CMYK how can you change it to RGB?
+Why are colors shifting when converting from CMYK to RGB in Photoshop?
+How to get this blur texture effect in photoshop?
+How do I create realistic looking gold in Photoshop?
+How to resize icon sets in Photoshop?
+Is vectorizing an image copyright theft if the image is not CC/Public domain?
+Which angles look good
+Photoshop vs. Illustrator for Icon Development
+Why can&#39;t Photoshop properly open this PNG?
+Using stock images for mock-ups
+Using Photoshop - how do I make text &quot;wrap&quot; (break) around an image like in the images linked in this post?
+How does a monitor display the CMYK color? Is it actually showing the true CMYK color?
+How do I avoid lines at top and left borders of png files exported from Illustrator
+In Inkscape, resize both the document and its content at the same time
+Make Angled Guides in Illustrator CS5
+Except China, which country will use red for up, and green for down?
+Finding the &quot;base&quot; color of a gradient . . .?
+Draw a rectangle of a specific size
+What book should I buy for a 12 year old that wants to learn graphic design?
+How do I reduce noise in an image?
+Using a Smart Object as a mask for another layer?
+How can I make my Photoshop text appear like it does on the web?
+How do I use Save For Web in a Photoshop Automate Batch Action?
+Why do people keep telling me my site looks awful?
+On which sites can I sell fonts I&#39;ve created?
+Which cut of Gill Sans is it that is included on a Mac?
+How can I create perfect &quot;radio waves&quot; (concentric arcs of a circle)?
+Are dotted pictures a new trend in Web Design?
+Saving Illustrator as PDF without the hidden layers
+Why was my experience with a logo contest so miserable?
+Why is my PDF so huge?
+How does random choice of alternate characters work in OpenType fonts?
+How wide should the word space after nobiliary particles be? (von, de la, …)
+Font design and typographic choices for dyslexic readers?
+How to keep only the visible parts of the every object/path of a SVG image? Like &quot;flatten&quot; all the SVG
+Frosted glass effect/texture/filter/pattern in Adobe Fireworks?
+Grid is not zeroed in Illustrator
+Can I take images from Google image search as a base for my creations?
+Do you have a &quot;formula&quot; for the webfont vs graphic type threshold?
+Is it acceptable to make a Windows Phone 8 app that looks like an iOS app?
+Share colors between CS5 programs (Fireworks, Photoshop, Illustrator, Indesign, ..)
+Photoshop CS6 - Can&#39;t find Show -&gt; Pixel Grid
+Is there a metric for &quot;apparent&quot; chroma?
+Symbols &quot;degrees&quot; and &quot;degrees centigrade&quot;: proper spacing
+Grid-based design in Illustrator -- need help setting up a grid!
+How do I create a look &amp; feel?
+How do I rotate and duplicate a line in Illustrator
+What colors are good to avoid eye fatigue in dark environments?
+Examples of well designed software architecture diagrams
+Batch replacing color with transparency
+Is there a resource that documents all mobile device screen resolutions in one location?
+How do you avoid bands of prominent color in gradients?
+Pressure-sensitive freehand drawing of vector paths that are editable with the Illustrator Width tool?
+Adobe Illustrator: Variable font size along a path
+Designing for Coffee Mugs
+Indesign auto column width size for table based on the data containing?
+How to find open source alternatives to commercial fonts?
+How to design a site without pictures
+A clean way to remove gradient mesh in Illustrator?
+How do I select multiple paths in inkscape?
+How can I automate the process of cutting intricate shapes out of paper?
+Is it legal to use copyrighted fonts without a license for non-profit projects?
+Is there a term for &#39;reference-marker symbols&#39;?
+How do I type Arabic text in Photoshop?
+Is there a visual web editor based on bootstrap?
+Which is a better design pricing model?
+What are some tips for getting hired without a formal education?
+Sponge (reticulation, pores) texture in Inkscape
+reasoning behind black and white color scheme of perfume sites
+Embedding an image in an image so that it becomes invisible when resized
+Cleaning up line art with choppy edges
+spot color print - how to indicate white
+Is there a graphic design specification system?
+How to address a flaw in a client project
+How to write text from right-to-left in Central Asian Languages group fonts
+Photoshop CS6 - Animate / Keyframe Smart Filter
+Photoshop CS6 -&gt; Export Layers To Files Subfolders
+Why does Adobe Illustrator have a limit on the maximum zoom?
+Is designing/drawing characters and backgrounds for video games a part of graphic design?
+Triangular Pixelation Technique in Photoshop
+Best workflow for editing massive posters/banners for print in Photoshop?
+How can I display sound distortion through images?
+What font is typically used for receipts?
+Printing over watercolor
+Double space acceptable after period before abbreviated title?
+Are there any films about graphic design?
+Recommended workflow for creating complex curves for circular patterns
+How to snap to every half-pixel (0,5) in illustrator?
+Do any resources exist for designers to help improve their communication skills to clients
+How to find the centre of the area between two objects in Illustrator
+Is it possible to create a kind of horizontal &quot;invert mask&quot; in CSS?
+From Freehand to Illustrator CS6
+Help with Font Pairing &#39;Kursivschrift&#39;
+Adobe Creative Suite alternative
+Licensing Cover-Art For Book
+Ltd. in a logo design
+How to construct a cube in 3-point perspective
+Scale and proportion with typography
+Fonts with wide international support
+What is the name for the long dashes that sometimes replace the inner letters of a name?
+How can I change the color of this object properly?
+What is this design style called in which lots of simple polygons make up an image?
+Resources for metrics about brands
+How do I fix this photo (poor quality, saturation, color) in GIMP?
+What is a good systematic approach to increasing the rates I charge?
+How to randomly distribute a group of icons / graphics in a canvas?
+What are reasonable market expectations for entry-level graphic designers vs. entry-level web designers?
+A good monospace, condensed and open-source typeface?
+Proper typesetting guide
+Logos with avatars (mascots) vs anything else
+What skills, techniques or methods can I use to help teach my child typography?
+Name of illusion phenomenon of bordering colors
+Exponential/logarithmic scaling in Illustrator?
+Critique: Icon app redesign
+Any automated system to compute the linear length of a letter(s) in a word or phrase?
+Can Email Be Responsive?
+Is there a &#39;correct&#39; way to convert an image to grayscale in Photoshop?
+What does BE and BQ stand for (or mean) on a font name?
+How to distinguish menu items that link to other sites
+Is it possible to link shapes to a master shape, so that modifications to the master like repositioning, affect all linked shapes?
+How to create an artistically posterized monotone portrait?
+Preventing reverse search engines from finding the origin of your image?
+&quot;Flip&quot; italics/oblique with character style
+What to do with small cap initialisms at the start of a sentence?
+How do I recreate this radial noise effect?
+Way to make graphics on a convex car window appear straight?
+How do you present interactive webdesign?
+Which font is used in this Warranty Rewards logo?
+Methods for designing identity systems beyond the logo
+How can I create this warped circular text?
+RGB Vs CMYK : Deciphering gradient transitions in different colour modes
+Is there a name, term, or practice for off-centering things based on volume rather than center of total width?
+What does it mean when you are asked to specify artwork scale?
+Why are Apple products so common in mockups?
+Calculating Fold Lines Based on Paper Thicknesses?
+Align Bullets in a right aligned paragraph
+When designing a latin-based typeface, how are diacritics handled?
+What questions should be included in a design brief?
+I want to be a graphic designer. How should I approach learning Photoshop?
+Removal of scanning artifacts
+What are some good resources for web page composition?
+What is a good book/guide on Graphic Design for a complete beginner?
+FOSS Font editing or creation tools for windows
+How to choose the right color to get the wanted effect in web design?
+Feeding external text in InDesign
+How do I break apart text in Photoshop?
+How does one design a children&#39;s book?
+In Inkscape, how can I save colors for use in multiple elements?
+How long of a name do you budget for in a template?
+Well designed layout examples of a &quot;step-by-step tutorial&quot; publication
+Guidelines for logos using multiple typefaces
+Making an Effective Menu
+How to solve the tragic fate illustrated in the article: How a web design goes straight to hell?
+Printing Visualization - Spot UV
+Building hand-written fonts for lettering
+How to graphically represent customer flow in indoor environments?
+Illustrator EPS File To PNG Web Logo - Print Quality
+Is it possible to render readable screen type at a size of 3px?
+Creating Line Based Shapes In Illustrator...
+Best way to have mutual overlapping in Illustrator
+Adobe Illustrator - Copy gradient of one object into another object
+What are the traditional rules for drop shadow direction / light source?
+Drawing directly with a tablet
+Who owns the design?
+Human Mascot vs Animal Mascot for a website illustration and identity?
+How do i convert a color transparent PNG to white (not B&amp;W) transparent PNG?
+What is the difference between Opacity and Fill on a photoshop layer?
+Faking a page-fold with photoshop
+Can an artist display their past work in a portfolio if they were paid to produce it?
+What is the type of these coarse drawings?
+Color harmonies math:triada, complement, analogous, monochromatic
+Any ideas for &quot;Adults 50+&quot;
+How can I resize this object without distorting it in Illustrator?
+Is there any way to add a new page to my work in Illustrator ?
+Completely different interpretation of Pantone to RGB values depending where I look.
+What icon can I use to represent &#39;concept&#39;?
+How to add a DOUBLE outline to a text or a shape in Adobe Illustrator ?
+What are &quot;up-to-date&quot; or &quot;modern&quot; icons?
+How can I use Photoshop to imitate a photo taken with a low-quality camera?
+What type of creative commons licensing do I need for free templates?
+How to put 4 pages next to each other in Indesign
+Best practices around creating LARGE poster image 24X36
+Suitable font for Japanese-language text in comic?
+How to create a saturation map?
+Illustrator 3D Extrude Pipe Elbow
+What&#39;s the name for the &quot;artistic movement&quot; /technique of these graphics?
+Creating a list of favourite fonts in Photoshop
+Formula for finding out the result of a color after applying x% opacity to it?
+Distorting a layer to fit shape
+Difference between &#39;Normal&#39; and &#39;Interlaced&#39; saving a .gif...?
+Is it acceptable to have the front of a handbill a different orientation than the back?
+How to squeeze text into a shape
+what is the largest glyph width in Arial?
+Different font colours for accent marks in Unicode
+Graphic Design Conferences
+CMYK to PANTONE differences between Illustrator and Photoshop
+Designing icons to represent abstract concepts- match test / suggestions
+How do I establish international copyright to my works?
+Gutters - Padding and Margin for Columns with Background or Border
+Any Google Font that renders equally well both on Windows (IE) and Mac (Cr, FF, Saf)?
+What makes a design professional?
+Digital way of detecting and removing pencil traces?
+How do I create symmetrical curves on vector shapes in Photoshop?
+Does this poster convey a “Frenchy” look?
+Using Adobe Illustrator without &quot;hand&quot; drawing skills
+What is typographically right: 100€ or 100 €?
+Vertical rhythm/baseline grid in Web Design
+What is the name of a photographic effect where there are subtle shadows in corners?
+&quot;Change this design to a quarter page, from a half&quot; - page layout reduction but keep content
+Photoshop CS5, how to create a layer mask from a layer?
+Illustrator: Quick way of removing redundant anchor points after unifying shapes?
+1px Transparent Border around image after resize in photoshop
+Avoid cropping &quot;transparent&quot; areas when using logo
+Can you convert a neon RGB color to CMYK for printing?
+Tools for *lossy* PNG compression?
+In Photoshop, how can I open up a view (in the same window) with another zoom level?
+Inner shadow issue in Illustrator CS5
+How to buy a used version of Photoshop
+Elliptical radial gradient overlay in Photoshop CS5
+How can I remove background from an image of a transparent object?
+How can you turn a clients ideas for how they want their brand to be into graphical elements?
+What&#39;s wrong with Droid fonts?
+How to describe/talk like a designer?
+Overlay a graphic on a photo or image
+Digital asset management software recommendations?
+Nesting Photoshop Smart Objects without losing the &quot;link&quot; between them?
+Exporting groups of layers from a PSD to a single PNG file using Photoshop
+What should a (technical) writer know about graphic design?
+What size canvas should logos be designed on?
+Is it posible to collapse/expand all Groups in Photoshop Layers Panel?
+Print outline preview in illustrator
+How to see an embedded image&#39;s dpi (ppi) in a pdf in Acrobat Pro?
+Name and possibly a tutorial for this inset rounded rectangle technique
+InDesign Spread Pagination
+Lower-cost alternative to Photoshop
+What is &quot;standard markup&quot; for purchases which need to be passed on to the client?
+PNG32 vs PNG24 vs PNG8
+Text flow - when to say &quot;no&quot;?
+If these colors all have the same lightness, then why does my brain tell me some are lighter than others?
+Advice when hiring a freelancer for creating a company logo
+What do you call one-color concept variations?
+How to sample actual color of an area in illustrator?
+In Illustrator CS5, why are my colors dull when I export to png?
+How do I directly set layer positions in Gimp?
+&quot;Fake&quot; 3d effect in Photoshop/Illustrator with raster images
+Photoshop: Select item and crop it directly
+How should I add a realistic shadow to this?
+PS CS6, border appears when im in blending options. How to disable it?
+What makes a font a &quot;gothic&quot; font?
+What are the branches of Graphic Design
+How can I fine-tune my tile pattern to make it seamless?
+Using GIMP, can you &quot;erase&quot; a color?
+What are some tips for a Graphic Designer&#39;s CV/Resume?
+Make Arabic text show properly in Adobe Illustrator
+How to change a certain color to specific other color within an image?
+How to find font name in Fireworks when font not installed
+Gradient Banding in Chrome
+What is the fastest way to copy a colour in Photoshop as HEX?
+How to ensure scalability of logo design?
+Change Background Color of Text Box in Illustrator CS5
+Tips for creating and editing paths in Illustrator
+Multiple images spread out inside circle using Illustrator
+How far back does the concept of a &quot;bold&quot; typeface variant go
+Why does painting with 1% opacity not always do something?
+What is the purpose of typesetting a Word document with InDesign?
+Can I legally use the Office icons in a website?
+Is there a way (possibly via a 3rd party plugin) to read/write PDF annotations/comments in Illustrator
+What are great fonts for information-heavy data tables?
+Check image compression used in PDF document?
+Master page display on top in InDesign?
+Reset/avoid distorted Illustrator graph text labels after scaling?
+InDesign CS6: How should I structure pages of lists?
+How can I make a font monospaced?
+Looking for a japanese font to match Garamond
+Moving both handles of a bezier curve simultaneously in Adobe Illustrator?
+Should I charge extra for project files?
+How to extract PNGs from Adobe Illustrator file
+What are beginner’s books on typography?
+Logo Pack - What should I include?
+When should I use rich black?
+Proper typesetting of right-to-left text in overall left-to-right context
+Cheap Cintiq alternatives - tablet PCs with digitizers?
+When did books start using underlines?
+Tools to simulate different DPI screens?
+Highlight stray non-background pixels
+Freely available old-style serif fonts with multiple weights
+How to paste PNGs keeping the original transparency
+Tips for using poor colours well
+Alternative to font &quot;x&quot; chart or service?
+Recommendations on how to synchronize Photoshop actions, swatches, etc. across computers
+Is there a single text color that is acceptable on both dark and light background?
+How to convert text paths to editable text in an .eps file downloaded from Shutterstock?
+Export vector design from Illustrator to photoshop and back
+How to create a fabric pattern with wavy lines
+Is there a way to add all colors used into the swatches panel?
+What is the point of making a background layer go transparent and renaming it in Photoshop?
+How can I simulate a reflective table surface in a photograph of an object?
+Blackletter fonts supporting long s and r rotunda?
+Designing interesting looking websites in greyscale, minimal tones
+How do I create a solid line of uniform thickness inside of a letterform in Illustrator?
+How do I turn a full color design, into a 1-color design?
+How can I make a screenshot look like a photograph taken of a real surface?
+Is there an icon set containing icons for different platforms/stores (e.g. App Store, Play, Windows 8 Store, etc.)
+Is QuarkXpress still relevant?
+Illustrator: How do I copy a gradient (including direction) from one object to another?
+Illustrator CS6 Data Variables XML Parser Error
+Waveform, polygonal?
+How do I put all my Illustrator and Photoshop toolbars and windows in one single window?
+Footnote/Endnote references before or after punctuation? (comma, full stop/period, semi-colon...)
+Change viewbox attribute in svg exported by illustrator
+How can I overcome the impulse to continuously critique (and possibly rework) my designs?
+Remove background based on color in Inkscape
+Sans-Serif fonts with long descenders
+How can graphic design be more accessible for people with disabilities?
+Designing printed items with a hairline border
+visual typeface search tool
+Fonts not combining correctly into a family (PC)
+How can I edit the colors in an already-placed, custom gradient in Photoshop?
+Text effect on any background color
+How to comply with sharealike clause when using creative commons cc-by-sa licensed images in commercial work?
+How to improve angle and proportion perception?
+Font copyright when used in images (Helvetica)
+What is a &quot;visual library&quot; and how to work on it?
+What are some obscure/rare/endangered/extinct typographic symbols?
+Typesetting tools other than LaTeX
+Is there a good way to establish a Green-Yellow-Red colour scheme?
+Is there a way to view the metadata of SVG or EMF files using open source tools?
+How to simulate long exposure light trails?
+Are there any benefits to using kerning pairs over kerning classes?
+How can I show a database graphically?
+How can I extend an existing font to include punctuation and numbers?
+Never use white?
+How to beautifully incorporate tables in texts/documents
+Completing or offering a dying art form
+How to add a color gradient to a picture
+How to give a site a mockup look?
+Is there a way to make Photoshop CS6 work with touchscreen monitors?
+How can I achieve shadows only at the corners of a rectangle?
+How to revive an old children&#39;s book?
+How can I duplicate smart objects and make them separate in Photoshop CS6?
+How to make a book with multiple title levels less confusing?
+How to turn a path with straight lines into a curved path automatically in Illustrator?
+How can I achieve a ribbed pipe/tube effect in Photoshop or Illustrator?
+How can I take my graphic design to the next level?
+Importing XML into InDesign and automatically adjusting content
+How you can rework logo to fit favicon of browser - 16x16px?
+How to Draw Perfect Curves in AI?
+4 colors/corners gradient with Illustrator
+Automatically apply different fonts based on text/symbol
+Responsive web site mockup tools
+How to replace a character in a font with another character
+How to create a grain / noise effect in Adobe Illustrator
+How to graphically represent time
+InDesign script to verify spelling and grammar
+Can I just save files as a PDF from Illustrator?
+Create more than one artboard when document is already saved?
+What design trend led to movie trailers displaying the title at the top of the screen?
+What is the ideal number of font sizes to use for a website?
+How to warp text to simulate paper curl effect, in Illustrator?
+How can I use gradients to imitate depth for isometric mazes?
+Adobe Automation: Dynamic Text in Template
+How to prepare an image / graphic file to be printed or embroidered on clothing and garments?
+What&#39;s the name of this staggered portfolio style?
+GIF with transparency output not as expected in GIMP
+What is the font used on the computer in &quot;The Mother of All Demos&quot;?
+How to create grid in GIMP (not sure if the filter is good)
+Hiding incomplete pages in an InDesign document
+White and black design style
+What are some techniques in designing around a colorful logo?
+Resources for finding good web font schemes/combinations
+Force PS to alias smart object
+Move objects radially in illustrator
+How should a designer handle the request to repurpose a design?
+How do I fill a shape with many small icons in Photoshop?
+How to get motivated when drained
+Is it possible to open an .ai file in Photoshop?
+How do you set the default text size in Gimp 2.8 for Mac OSX Mountain Lion?
+Can logos be made just by using a font rather than creating a logo image?
+In Inkscape, how can I easily select multiple objects that are obscured by other objects?
+How to design web pages around a big logo?
+How can I arrange words into a shape to make a &quot;word cloud&quot; design?
+How to draw a stretched/pulled/conical spiral
+Getting rid of Whitespace in Inkscape
+How to extend/prolong and trim/cut a straight line or path in Inkscape
+Icon to indicate a span of time
+Why is it called branding &#39;collateral&#39;
+Disable pixel grid magnetism (snap) in Photoshop CC
+Trebuchet MS web font alternatives
+How to fit svg drawings to their canvas on the command line?
+Why does Illustrator CS6 &quot;Save for Microsoft Office&quot; use PNG format?
+What kind of illustration and how I can achieve this &quot;effect&quot;?
+Vectorizing a Skyline
+How to determine what a font&#39;s personality is?
+How to export font information for a specific PSD file for use in writing CSS
+Designing for a 6in x 9in book
+How to quickly and easily create a grid with Adobe Photoshop?
+Is it possible to control layer order in an Illustrator stroke?
+How can I convert a jpg-signature into strokes?
+How can I easily add color to unclosed shapes?
+Why are computers so bad at automatically kerning?
+How to make a logo single-colored?
+What can I use to preview Pantone tints?
+CS2/CS3 → CS6 and/or Creative Cloud
+How to get speckled shading in Photoshop?
+How to remove scratches from shiny object
+Can you read this logo as &quot;D&quot; in negative space?
+How to center text vertically within a textbox in Photoshop
+How are patterns that look like they&#39;re moving created?
+How to represent silver, platinum and diamond?
+Handwriting font that at random picks characters?
+Which glyphs to design according to the needs of a particular market?
+In Pathfinder window, what is the difference between a shape mode and a pathfinder?
+Qualities of a full-page website background image
+Universal Icon for Religion
+What unique benefits does the EPS format provide?
+Which of these font communicates &quot;luxury products&quot; better?
+How can I reduce the aliasing that occurs around my custom icon web font when it is scaled?
+Merging two anchor points of the same path in Illustrator
+How do I map Illustrator artwork on a sphere?
+Is the OCR-A sans-serif?
+Studies about people&#39;s reactions to fonts and color schemes?
+Suggestion on Introductory Books about Graphic Design
+What is the name of hobby grade equipment to create photos where the background can be easily removed?
+Commercial use of Helvetica Neue for web?
+Highest quality website screenshot?
+How to be creative in a short space of time
+Convert image into mask
+Is there a way to create gradations between two given weights of a particular font?
+Using vectors/stock graphics in designs?
+How can a designer decide whether a competitors design is similar enough to their own to take further action?
+What are the common fonts used in music?
+How do I reduce the luminance of this sky without it looking weird?
+How do I make an incomplete circle stroke for a donut chart?
+Can I have a Photoshop action pause itself to wait for user input?
+How to proportionately rescale a 3D model by a specified amount in Maya?
+Packaging Design, Where to start?
+What sort of program is Google using to make these drawings?
+How could I improve the shading on this chain link illustration?
+How to visualise two-dimensional scientific data-points in a chart... in grayscale?
+What can a designer do if a client claims that the work delivered is unacceptable and refuses to pay?
+How to change the font style of all text layers in a single PSD file?
+How to convert between Android DP and CSS px?
+How to prove an image has been released under Creative Commons?
+How to work with white artwork in Adobe Illustrator?
+How do I find a range of colors (ex. different blues) that will contrast well with another range of colors (ex. reds, yellows etc)?
+Is it possible to edit outlined text?
+Using real products when creating fake mockups
+Titles and Menu items in lowercase, uppercase, serif or sans serif?
+Planning an 18 foot long banner
+Drawing in Perspective: Fit sphere into cube
+Effectively creating this effect in Illustrator?
+Letter or A4: which is a more sensible default?
+What are the relative advantages of flat design, material design and skeuomorphism?
+&#39;This page is under construction&#39; message or no page at all?
+In RGB, what is each step from 0 to 255 called?
+What should I consider when incorporating cross-browser compatibility into my designs?
+Logo critique for Hooch &amp; Co
+List of RGB quaternary (and beyond) colors?
+Is there a way to select multiple sprites from a sprite sheet in GIMP?
+What is the difference between &quot;flat style&quot; and &quot;material design&quot;?
+Is there a recognized name for the &#39;grippy&#39; part of an interface that indicates movability?
+What can Illustrator do that Photoshop can&#39;t?
+Contrast vs. balance in a logo
+How to determine a typeface&#39;s origin and whether I have a license?
+Better way to display three pieces of data on one graph for a website
+How to quickly setup a gradient mesh for annulus-like shapes in AI?
+Making a curved road texture in Photoshop?
+How to make a lens with zoomed effect in Photoshop
+Why are circles used to draw a logo?
+How can I easily move multiple artboards in Illustrator?
+How to determine a matching color code from a physical sample?
+Critique: logo design for an engineering company that makes machinery
+How to visualize combinations of data for a gene discovery application?
+Is there a name for a Wikipedia-like &quot;W&quot;?
+Do I need a commercial font license for small clients and derivative works?
+Is it preposterous to have 2 different light sources in a design project?
+How to evaluate the quality of a font before deciding whether to purchase it for commercial purposes?
+How to trim by hand using crop marks?
+How to explain &quot;achieving good Usability&quot;
+What are strategies for implementing drawing tablet into workflow?
+What 4c process blend best represents a yellow highlighter?
+On which crowdsourced design site have you the best experience?
+How can I fix the edges of foreground objects pasted onto a new background?
+Info-graphics , Informative Graphics and Visualizations: Are they the same term ?
+How can one create a design style?
+Why are certain colors more prone to compression artifacts than others?
+Where can I find tutorials for Inkscape?
+How many colors should be used in a background gradient?
+How can I achieve the &quot;bent paper&quot; effect in photoshop?
+What are the rules for creating optimized image formats?
+Clean, simple CSS styles for text and table-heavy sites
+How to create Illustrations and Art from Sketches in Adobe Illustrator
+Wordmark or brandmark logos - Which are more effective?
+Creating a shiny black plastic effect
+If you were to teach Photoshop, what would you suggest are the most important principles?
+How can I set Photoshop default unit for free transfom?
+Photoshop color weirdness after calibrating LCD
+Is there an industry term for a ribbon wrapping the corner of a design element?
+Good background and text colors for a website with both photos and text
+What application can tile one PDF page multiple times on a sheet?
+Alternative symbols to represent Valentine&#39;s Day?
+Which hand-drawn/calligraphic style font is used in this restaurant logo?
+Infographics smoothing and shadows : background or ressources ?
+Popular serif and sans-serif browser compatible font combinations?
+Fully Importing A Saved Colour Palette In Illustrator?
+Minor CSS issue
+Photoshop: How to save only the masked area of an edited photograph?
+What is a portfolio, and what should it consist of?
+Advice on re-quoting a client for a freelance project
+Speed effect on electrons - 3D
+How do I get rid of a background color (with a glow)
+Any idea when blending modes might be implemented in browsers?
+What should I use for filler/placeholder text?
+How do I prevent shapes becoming vector masks in Photoshop?
+What is a good sequence of projects to learn design?
+How to create fake reflections?
+Scanning line art for press
+How to classify the style of Guild Wars 2?
+How can I merge an image scanned in parts into one complete whole?
+In gimp : how to save the different layers of a design in separate files/images?
+Should one mix serif and sans-serif type fonts on the same Webpage, for plain text elements (not headlines)?
+When I export an image from Illustrator, why is it a slightly different color in the exported image?
+Good sites to find textures online?
+Color Theme Repo Similar to Kuler
+When to break out of a grid in webdesign?
+Using CamelCase in a logo
+Invert background to white in Photoshop
+Is there something in Illustrator that resembles tabs/tab-stops in MS Word?
+Good and Cheap alternatives to Photoshop for CMYK
+Solutions for a comic production workflow?
+Good monitors for graphic design / printwork ?
+What are my options for gallery-quality prints of digital artwork?
+Which graphic design application should I learn after Photoshop and Illustrator?
+Illustrator image viewed at 100% is &quot;tiny&quot;
+Can you recommend web design books/tutorials that teach specific design techniques?
+Color differences between Mac and Windows, How to set color profile scheme on Windows to get same colors of Mac?
+Is there a best way to convert an image from colour to black&amp;white?
+Difference between &quot;Bamboo Pen &amp; Touch&quot; and &quot;Intuos4&quot;
+What is an appropriate software for furniture design?
+Photoshop CS5: Subtract/exclude a vector mask from an existing mask
+What is an easy way to create a bulk of rounded rectangles in Illustrator?
+Readability as a function of measure and leading
+Photoshop Background layer
+What are good commercial stock graphic sites for websites/applications?
+Do I need full 300dpi resolution photos for designing a poster?
+Is there a short authoritative reference of basic design rules and principles?
+What is the best font for use in legal contracts?
+How do I create a gif with a transparent background using Adobe Photoshop?
+Why is my edited image smaller than my original image but yet retains the same resolution?
+Is DreamWeaver more efficient rather than coding manually 
+How to create SVG for good typography on the web without buying Illustrator?
+Segoe UI font licensing
+Haltone pattern within InDesign
+Is there a standard &quot;magazine&quot; size for printing?
+What should be taken into consideration when designing a logo?
+logo on building
+Create a sprite using a sequence of images photoshop
+iOS, Android, etc., tablet devices in a design workflow?
+Graphics program easy to learn for kids
+Can GIMP open PSD files without any loss of information?
+Is unsolicited design a form of spec work?
+Replace black background with a transparent background
+Is there something like smashing magazine.com for the Print Industry?
+How do I make logos look good at small sizes?
+What does &quot;letterfit&quot; mean?
+Illustrator equivalent to Photoshop&#39;s skew tool
+Is there a way to easily resize an image as a Ninepatch would resize in photoshop?
+How to fit text box size to text?
+To What Extent Should Overused Fonts Be Avoided?
+how to import vectors from fireworks to illustrator
+BRANDING: How can you create a &#39;brand&#39; for many different companies under one parent company?
+Logo design - image beneath text - can it work?
+What is the correct name of this typographic pattern?
+Color loss during colorspace conversions
+Why do logos appear on the left on the overwhelming majority of websites?
+Technical Name for Removal of Image Background
+Photoshop CS5 - how to &quot;normalize&quot; colors in an image to reduce the noise?
+How to resize vector masks without changing the size-ratio of round corners of it?
+Where can I find small and limited projects in order to make my first steps toward working professionally as a designer/developer
+How can I change the default typeface in Indesign?
+Making a solid color more realistic/natural
+Extract individual layers from a PSD without much effort
+Can&#39;t save PSD as JPEG
+Do all monospace sans-serif fonts look the same?
+Courier New-like font with Unicode support?
+What are the web application design standards for for mobile phones?
+Designing and prototyping for iPad
+How to ensure shapes in Photoshop only use complete pixels
+advise on &quot;copying&quot; text effect from existing logo
+What Latin fonts are used in Apple&#39;s Chinese fonts?
+Removing One Part Of A Stroke On A Rectangle In Illustrator CS5
+pick color with alpha value
+&quot;Pretty&quot; design vs &quot;appropriate&quot; design
+Illustrator 3D extrude on text misses faces
+How to apply adjustment layers to multiple (not one, not all) layers?
+Copyright ownership: paid by hour vs. paid by project
+Google Web Fonts or Typekit?
+Adobe Indesign automatic deletion of overflow text
+How to manipulate only one stroke/side of a shape/object in Illustrator CS5
+New generation of &#39;Edit&#39; icon that is not a pencil?
+How to remove noise/grain on a picture, based on some &quot;noise pattern&quot;
+How do I know which images are copyrighted and not?
+What is the best Font with less empty Space (ultra fat)
+How-to hand drawn 3D effect
+How to Connect Bezier Curves in Inkscape?
+Why can I only see a path when it&#39;s not white?
+Tasteful Alternative to Marquee
+Tint a layer (or a group of objects) in illustrator
+Graphic Design areas for the colour-blind?
+What are the different applications in Adobe Creative Suite for?
+exporting layers to files and applying the background image to all layers
+Multiple objects spaced evenly around a circle
+Font or technique needed to recreate newspaper article from 1873
+Spec-work vs pro-bono?
+How to create a color tinted black and white effect?
+Using Photoshop Effects in Illustrator CS6
+Is there a font face in which all glyphs are identical?
+How can I create a generic display that looks appealing with a wide variety of images?
+Illustrator CS6: Where did the debug panel go? Computing area of irregular shapes
+Critique: How can I improve this realistic icon?
+Inkscape: remove stroke preserve size/shape
+Photoshop layers into SVG paths
+What are the fundamentals of human figure drawing? How to improve in each of them?
+Position copied content within guides using a single PS Action
+Color Picker in Photoshop is wrong
+Can I publish caricatures of famous people in a game?
+Technical term for stray pixels
+What does &quot;PDF-compatible glyph names&quot; mean?
+After purchasing fonts, what further &quot;permissions&quot; are necessary to use them in commercial design work?
+How to change smart object outlines and colors?
+How to create fading drop shadow effect in Illustrator?
+How to edit a vector mask in Photoshop CS2?
+How to compute the radii (radiuses) of corners for concentric rounded rects
+Best techniques for digitizing artwork using a tablet
+what&#39;s the legal status of copying an existing OS theme to implement a GUI framework
+Color management in Fireworks CS6
+Adobe Illustrator vs Adobe Indesign for brochures
+How to specify a repeating pattern for textile printing
+Illustrator: shape dimension and resize
+What typefaces would go well with Metalista?
+How do I avoid round corners in an text with outline/stroke?
+Simplest set of inks that could print the RGB gamut?
+replace single color
+Toggling Bounding Box and Transform Controls in Illustrator
+Is there a way to extract the pantone colors from a scanned image?
+How to select an InDesign vector path point when a text wrap contour is in the way?
+Illustrator knows I have a font but refuses to select it
+Shortcut for selector tool in Photoshop
+How to apply a gradient to an Outer glow (example attached)
+Black &amp; white photocopies as posters?
+Double sided letterhead design with heavy ink coverage on the reverse
+Quick copy text in Photoshop Text layer
+How do I use a custom font in an SVG image on my site?
+Different types of fonts
+How to portray &quot;confidence&quot; and &quot;reliability&quot; in a brochure
+Photoshop Layer -&gt; SVG
+Why can&#39;t I use the Delete key to delete in Photoshop CS6?
+What are great examples of the influence that design has?
+Leaflet fold where full-page spread is the last thing seen?
+How to select more layers with GIMP?
+Realistic Gold Bevel Pattern
+What fonts are ideal for E-ink displays?
+How do you build a webpage with a main text body and 2 columns underneath?
+How to control word-spacing in justified text with CSS?
+Is it acceptable to include portfolio items from adult-themed projects?
+How can I create a font from my handwriting?
+What is the copyright of fanart?
+Is this an effect or a type of font?
+CMYK JPEGs extracted from PDF appear inverted
+How important is it to have a &quot;creative&quot; r&#233;sum&#233;?
+Beginning with drawing
+save .png to correct size in Photoshop for print
+Best way to create a shadow (depth) effect in Illustrator?
+Heading numbering without threading?
+Convert OpenType (PostScript flavor) to OpenType (TrueType flavor)
+How to convert text to single stroke in illustrator
+Create an artboard automatically to the size of an image (Illustrator)
+Mirrored spreads page reshuffling: objects partially outside pages don&#39;t update positions
+Are Google Web-Fonts okay for printing?
+How to draw a pony?
+Gimp Pasted Layer Move Tool
+Books on the Golden Ratio/Others for WebDesign?
+Do Marketing, English and Communications programs teach graphic design?
+Illustrator eyedropper: What effect does different &#39;Pick up&#39; and &#39;Apply&#39; settings have?
+Batch oilify in GIMP
+How to draw a dashed circle in photoshop cs5?
+Adobe Indesign CS6 - Make Text Frame fit text contents automatically
+Do most web designers make their own textures?
+How to guide the workflow in a collaboration? How to not kill the other’s motivation?
+lines capped by lines in Adobe Illustrator
+How can I get more efficient at designing tables for web in Photoshop?
+Under whose name does an outsourced graphic designer go?
+Header for free, Open Source plugin (translates UI into user language)
+How do you create custom scripts for automation in Photoshop?
+How to copy a vector mask to another layer in photoshop cs6?
+Convert Primitive to Path using SVG format in Illustrator
+How to produce a blurred abstract (frosted glass) background like this?
+Why is Photoshop CS5 making huge gaps between lines when I make a line break with the ENTER key?
+How to shrink down paths in Illustrator (cs6) whilst maintaining equivalent strokes?
+What is this style of text-as-image called?
+Issues with Pantone Colours in InDesign
+Does anyone know of any font families that 6, 9, 8, 0 look the same upside down as right side up?
+How do I make non-printable template instructions in InDesign?
+How can I add notes to a photoshop document?
+Is NDA necessary for this?
+Resetting InDesign&#39;s &quot;Document modified outside of book&quot; warning
+InDesign: Is there any way to lock all the styles (paragraph and character) and master pages and keep all of them in a master document only?
+Why does this poster look off, like it&#39;s lacking something to focus on?
+Is there graphic design software made for beginners, suitable for designing websites?
+How big is my single pattern in Photoshop
+Is Optima Roman or Optima Medium the Optima.ttc found in Mac OS X?
+Is it good practice to add additional space before a punctuation mark after emphazised text?
+How to scan charcoal and graphite drawings?
+How do I create a polygon tessellation pattern in Adobe Illustrator?
+Given a number, how to find that many colours that are well-distinguishable?
+Illustrator glow effect not shown in pdf after saving
+How to align &amp; distribute anchor points in a path in Flash CS6?
+Shape gets distorted when adding stroke in Illustrator CS6
+Hiding symbol (and other weird) fonts from Photoshop
+Do I have to leave a &#174; registered trademark symbol in &quot;normal&quot; typeface?
+Is there an ISO or similar recognized standard for Icons?
+How is this coffee stained design done?
+Is using a portion of quoted text on a poster a derivative work?
+What copyright considerations should I take when putting work on a personal blog?
+Photoshop: How do I keep 1x and 2x (for retina display) images in the same document?
+What font can I use for a Japanese book?
+Are there any color palette choosing tools that make it easy to incorporate black/gray/white?
+Eyedropper straight to clipboard
+Similar plugin to GuideGuide for illustrator
+File backups for Photoshop
+Is it possible to have Thick white ink for printers?
+InDesign: How to restore text-frame position/size to be managed by the master page instead of the actual page?
+What font does the logo for East Photographic use?
+What does an artist who wants to learn graphic design need to know?
+How to create a pattern or tiles from rotated elements
+Acrobat X Custom Action to Save PDF as JPG (not export all images)
+When shrinking images, does it matter what percentage I use?
+How to fill shirt patterns into a shirt silhouette with realistic form &quot;twist&quot;?
+Ticketing/Project Management/Collaborative Software for Graphic Design
+Can anyone suggest a free equivalent of the Hoefler Text font?
+Why are vector shapes sometimes left unclosed?
+How do you call &quot;Charte Graphique&quot; in English?
+How can I export only text with a distinctive character style from InDesign to a new document?
+How create action for all layers in Illustrator file
+How to make a line in illustrator with $ signs
+Does Photoshop Elements fully support PSD files from &quot;full&quot; Photoshop?
+Acrobat X &quot;moves&quot; object on save from Illustrator
+Replace individual colors in multiple layers
+How to optimize the packing of multiple shapes inside a page for print
+How to make photoshop pencil tool 8x8 pixel square
+When I create an arrow in Sketch and enlarge it, the tail bursts out of the arrow
+Using Photoshop to create a magazine
+Making the auto select layer check box a keyboard hot key
+How can graphic design help improve internal communications?
+What are the good and free alternative to Helvetica when use as web font?
+What are common non-traditional Graphic Design requests, and how to handle them?
+How to remove gray background on gray picture?
+Is there a way to set up text tabs in Photoshop?
+High-Resolution Operina Scans
+Advice for creating a fluid and responsive graphic
+Color filling the interior region of a traced bitmap
+Giving a vector shape a rough edge without manipulating anchor points
+What is the term for a contrasting typeface in a design?
+What is the best way to write text over a photo so that it can easily be read?
+How do I remove the alpha channel from the air spray filter in Inkscape?
+Subpixel antialiasing for fonts rendered to an image?
+Using mix Typography/Color in brand name
+What should graphic designers consider when designing tattoos?
+Export objects to separate files in Illustrator
+How to use Subversions for Indesign, Illustrator and Photoshop
+How can I search for a unicode character if I&#39;m not sure it exists?
+How to change just one color value for multiple objects in Illustrator?
+Design software that allows reuse of common elements, like the DRY principal of programming
+Inkscape: Collapse borders between consecutive boxes
+Printing Google Fonts on Paper for clients to view / choose
+Why do most logos &#39;move&#39; from left to right?
+Is there software specialized in &quot;puppet warp&quot; animation?
+How to change multiple layers / frames duration at the same time in the Photoshop Video Timeline?
+How to use the color picker in illustrator?
+Desktop/iPad/iPhone PSD frames for screenshots workflow?
+How can I change the Blending Modes in Adobe Illustrator?
+How to create a decreasing stippling or halftone effect?
+Recreating bloated/blurred text in Tate Modern logo in Photoshop
+Optimizing (Compressing) GIF images in Photoshop
+Advice on becoming vector proficient
+Colors to use with black background?
+Why does my line drawing look so sad
+Executing multiple commands in sequence in GIMP
+What is the term for the short lines of a square bracket?
+How do I get my artboard to appear behind the grid?
+What are the essential must-read magazines for the design industry? (UK)
+How to remove a point from a closed vector shape in Illustrator without breaking the shape?
+What are the fonts used for this WWII Jolly Roger sign?
+How can I create a multi-color blurred background?
+Illustrator stroke color appears lighter than same fill color
+Cover Letter using InDesign?
+How can I prepare for a career in character design?
+How can I prepare lots of code to be printed on a long scroll?
+Free alternatives to Impact
+Printing with Heidelberg CMYK Explained
+Why do JPEG files blur red more than other colors?
+InDesign - Can I “float” an anchored frame to the top of a column?
+How to use hatching and crosshatching with ink?
+Black and white printing
+How can I use Creative Commons-licensed media in print?
+Illustrator: Scale all strokes in a document without touching object and pattern size?
+News Feed? Activity?: What are some ways to represent this term as an icon?
+How can I change hue of a vector image that has many colors?
+Resizing a file in Photoshop CC - no constrain proportions box?
+Trying paying fonts on one&#39;s website before purchasing
+Adding noise to a path in Inkscape
+How to create a frame to-fit different images
+Graph of current/estimated value
+What principles of whitespace were used in this email?
+Combine blurred still frames from GIF to form crisp still
+How can I localize an InDesign file?
+Opening PDF in Illustrator breaks up text objects
+Medical word breaks in InDesign?
+Is there a standard height in lines for a drop cap?
+How to make clickable areas stand out?
+How to convert paths into shape in photoshop cs6
+Layout for technical documents
+How to remove a green/blue screen background using Photoshop CS5?
+Where are my pixels?
+Final size in Illustrator CS4 masked images
+Script to create heat map in InDesign 5.0 PC?
+What do you call this image effect and how is it achieved?
+What is the recommended method of creating these icons?
+How can I preserve border width when scaling an object with Inkscape?
+How do design trends originate?
+Image looks &#39;foggy&#39; when exported as CMYK jpeg from Photoshop
+What do they call those scrolly, curvy elements next to chapter titles?
+Is it OK to use a smaller font size for credentials that come after someone&#39;s name on a business card?
+removing &#39;scatter&#39; lines in transmission electron microscopy image
+How to align all selected points to a grid?
+Should I expand the appearance of my gradients before printing?
+Easy way to create repeating custom radial gradient?
+Why isn&#39;t SVG widely used-supported on the web?
+Typeface suggestions for both family programming and contemporary art
+Is there a way to automate changing the hue of many layers with a different value per layer?
+Concept Design and Card Art freelancing prices
+How to punch through all the layers in Adobe Illustrator?
+How can I create multiple image sizes at the same time?
+Is it okay to purchase stock images in the developer company name?
+Illustrator: Resize Artboard With Objects Inside
+Is this is a specific type of Design drawing?
+Color Theory: Is there a measurement of &quot;colorfulness&quot;?
+Best fonts for improving reading experience
+How can I find font references in a Photoshop PSD file?
+A good set of color in for an alert message on dark background
+How to align rotated shape back to 0 degrees?
+How would you print extremely small words (microprinting)
+Recommended workflow to expand paths without creating unnecessary anchors points
+Quotable reference to support my assertion that black text on a grey background is not a &quot;highlight&quot;
+Does Paul Rand&#39;s odd typographic layout style have a name?
+Adobe Illustrator - How do I separate the dot from a lower case &quot;i&quot;?
+Is it possible to convert PostScript to SVG? (Inkscape)
+FizzBuzz for graphic designers?
+How do I draw shirt with vertical stripes?
+What is this woodcut/engraving like / illustrative design style called? (as seen on the US dollar sign)
+How can I recreate this shadow with a gap or offset?
+Importing SVG into Illustrator with proper viewBox size
+How to create this kinda halftone circle in Inkscape
+Does the Pantone Color of the Year have an impact on the colors used in graphic design that year?
+How to represent craftsman services / manual work as icon?
+How can I create TRON-like glowing effects in Illustrator?
+What file type should I use for a logo when exporting from Adobe Illustrator?
+Illustrator: Getting solid color values from transparency?
+Recreating Anti-Alliasing/Moir&#233; effects
+Icon design etymology?
+Strange type behaviours, some rounded letters seem larger
+What factors make a campaign go viral?
+What font does Super Skeleton use for its logo?
+Is there a name for digits/figures which fit in the x-height?
+How do two different colors match in strength?
+How to promote three different products to three different audiences in one banner?
+Force indesign to backup / autosave / keep backup copy
+Distinguishing/important features of a face - drawing/painting
+What is the font used in the new Spotify interface? Looking for an alternative for web
+How can I make complex gradient images like these in Illustrator?
+How can I achieve consistent colours in my app on different mobile displays?
+Do we perceive images in text reading direction?
+Textbook layout including examples of two different computer programming languages?
+What font is used on Geographic Information Systems.SE?
+In Photoshop, what is the difference between &quot;Save As&quot; and &quot;Save for Web&quot; for a .png?
+Data Merge InDesign CC layout problems
+Critique: Modified template for a greeting card service
+How to use an Illustrator graphic as a text bullet in InDesign?
+Is it necessary to be good at drawing, to develop good 3D digital design skills for modeling and animation?
+How to OTF export the font I created in Indyfont?
+How can I adjust or replace many colours in an image with a new swatch of colours, without causing ugly edges?
+How can I create WORKING gears in Illustrator?
+Removing text from an image in a rough but quick fashion
+What system do you use to name your logos?
+Can a logo have two symbols?
+Am I working too slow?
+Is it normal to send a CMYK file without an embedded color profile?
+Using work in your portfolio that you&#39;re not too pleased with?
+What&#39;s the name of the image that looks like several curly brackets together?
+How can I organize Adobe Illustrator Workspace?
+Critique: Military Veteran Themed Business Card Design
+What is the purpose of embedding a color profile when saving an image?
+How to make wind flow / aerodynamic diagrams?
+Can a client use my designs on products I do not provide?
+Crop to specific size (not a ratio of it) in Photoshop
+How to Automatically Generate Many Graphics with Illustrator Using External Data
+What is the printing process of gold letter stationaries?
+How can I hire a manga artist, and what are the general cost factors associated with producing a comic?
+How to scroll in the layer menu while grabbing a layer?
+Photoshop on a retina screen, how to fix?
+Design rule toward Alignment? Is this important?
+Can After Effects be used for website prototyping?
+How to make a Effect act as transparency in Photoshop?
+how to make a color transparent in GIMP
+How to make it obvious that an option is unavailable, and can be deleted?
+How do I replicate the Apple Family Sharing Icon
+Explaining your design choices: how can we both argue for &quot;being consistent&quot; and the opposite; &quot;I spiced it up&quot; (I e I was inconsistent)
+Batch trace JPG to SVG
+Email signature hell--How to include a logo image and have it stay sharp?
+Easiest way to create vintage grane/corners/angles in Ai
+What are some of the benefits of having a Mac vs a Windows PC in a design environment?
+Which colors should I use to indicate higher values in a graph?
+How to fix this kerning pair
+Are there &quot;bi-form&quot; fonts that don&#39;t have descenders?
+Did they steal my work?
+Illustrator CC zoom accuracy
+Critique: Is there something I can do to make this illustration&#39;s ears look more symmetrical?
+Are these logos too similar?
+How can I predict how colors will mix when silkscreening?
+Web design for Legal pages: What are some things to keep in mind?
+Using imagemagick to create vibrant images
+How to use font variants within Inkscape
+Are zebra stripes on tables more effective than good spacing and visual contrast?
+Create frozen screen effect
+How To Ask Fellow Designer For Native Files For Prepress Purposes Only?
+Is ISO 9001 compliant artwork a common requirement?
+Center–align arabic text
+AutoCad vs Illustrator for logo design
+Best practices for full width browser images?
+How can I left-align the text in a table of divs so that the rows are evenly distributed?
+Does this poster convey femininity and multiculturalism?
+Vertically centered Guillemet next to a paragraph using only paragraph and/or character styles?
+What exactly are Google&#39;s &#39;500&#39; color swatches?
+How to put 3 pages together vertically in InDesign
+How do I make a drop shadow with a halftone effect?
+Copyright of a set of colors?
+Recommended Body Font Size for Print Magazine?
+How do graphic designers backup all tools?
+Best way (efficient and nice output) and best software to ink comics digitally
+How to paste Chinese text into Illustrator?
+Is there a way to change the widths of a compound path&#39;s strokes independently?
+Are single double quotes an acceptable deviation from typographic rules?
+Create hatching in Inkscape?
+OpenType Features - Adaptable typefaces
+Why are the bleed and slug lines outside my pages?
+Can I make changes to the Facebook &#39;f&#39; square logo like removing the background?
+Why do I have to use a gamma of 2.2 when using a JPEG picture?
+How to check if my logo is a duplicate of another logo?
+What characteristics are common to well-designed and well-formatted textbooks?
+Does this Chinese font fit in with our brand?
+Re-creating Illustrator drop shadow in CorelDRAW X5
+Is it okay to use Font Awesome&#39;s social media icons?
+How to tell my boss his webdesign attempts are bad/hopeless?
+How do I build my webdesign portfolio when all sites I&#39;ve designed have been taken offline?
+How to achieve layered line art effect?
+How to create a Yin Yang in Pixelmator
+&quot;Multiplying&quot; a white background gives perfect results! how do I save this image?
+When using fonts in Bootstrap, is it quicker to use the Google Fonts API or to just install the font file on the server?
+What techniques can be used to create a proper hierarchy of design elements?
+How to remove background with Gimp?
+What are the correct set of principles of Design ?
+How do I make custom textures for overlays?
+Line spacing in a block of text
+Where can I find good filigree?
+What&#39;s the easiest way to create a disabled greyscale button with a graphics program?
+How Can You Remove Grain from Photographs?
+How to delete the first slice photoshop generated while using slice tool?
+where do you get your type inspiration or how do you decide for the right type?
+In What Situations Am I Required to License Fonts From Its Original Creator?
+Command line interface-based way to desaturate and posterize an image?
+What imagery and symbolism would you associate with authority, knowledge and creativity?
+Photoshop CS3 Layer effects - Radial Gradient&#39;s center
+Composition web design rules
+Can the radial blur zoom outwards not inwards?
+Lightweight psd viewer with layer support
+How do a tile with diagonal lines in Photoshop?
+Convert a pattern/photo to a given palette
+Setting object style in InDesign
+Tutorial on how to create a flowing thread
+Is it possible to automate font substitution in Illustrator CS5?
+Problem printing PDF from Freehand-10 via Acrobat X
+Photoshop showing low quality graphics
+How to show boundary of every layer in Gimp?
+Color inverting layer
+What digitizer stylus would most naturally replicate the range of touch between a mechanical pencil and a Uniball micro-point?
+How can I visually represent the concepts &quot;invincible&quot; or &quot;winning without fighting&quot;?
+How to view all layers in Photoshop?
+What special requirements need to be considered for outdoor banners?
+InDesign Data Merge and hiding missing data
+Anyone know how I can add basic web form controls to my Assets library in Fireworks?
+How to use Digimarc-protection on my files in Photoshop?
+Border thickness on &quot;part&quot; of pen tool shape, Is it possible?
+Export layer as a file in Adobe Fireworks
+Illustrator CS3 - upscaling placed or embedded raster graphics with interpolated antialiasing on export?
+Design Critique/Feedback Websites
+How does Photoshop&#39;s snap feature affect the image?
+Colors in Website Design
+How to fade a line out in photoshop
+Scriptable Image Editing Desktop Applications
+How can I make this text  (slightly) more &#39;Chinese-looking&#39;?
+Adobe illustrator | Save for web | Small logo is not pixel-grid-aligned
+How to save Photoshop file with for web with partial transparency over transparent background?
+Can you use PowerPoint images on your website?
+PNG vs GIF for 1 bit transparency
+What should I do when scanning hand drawn images?
+On which occasions would you use italics in web design?
+Which tool to balance color strength ?
+designing websites using grids
+Colors in PNG inconsistent between Windows and Mac
+Does x-height really matter when choosing fonts in using for readability and legibility?
+How to make a cartoon promotional video
+How to create a new glyph = letter + ogonek in InDesign
+Is there a name for abstract pattern with lots of parallel lines and subtle curves?
+How can I give a logo a sticker effect?
+Create and Edit Parallel Paths in Inkscape
+Remove identical pixels in two layers/images with free software
+What&#39;s the best way to print a mostly black 8.5&quot; x 11&quot; page?
+How to set the width of one item based on the width of another item in InDesign?
+In Adobe Illustrator, How do you paste an item to the BOTTOM of the layer stack, not the top?
+Life size image in Photoshop
+What colors stimulate learning
+How to choose embossing color?
+Working with .psb in a psd
+Transforming some, but not all, objects in a group using Illustrator?
+How do I spec a character with no keyboard shortcut?
+In Illustrator how can I set X and Y relative to the pixel grid?
+Can I use vector images to increase site compatability?
+When I buy a font, is there any limitations, except I cannot give it away to anyone?
+Should I start with Fireworks, or is Expression Design comparable?
+How to represent &quot;all&quot;/&quot;all options&quot;/&quot;show all&quot; as an icon
+To what extent is resizing an image (using Photoshop&#39;s bicubic sampling algorithm) acceptable for print?
+Split image into 16x16px or 32x32px sections then save them individually?
+How do I go about finding a Graphic Designer for a personal job?
+Animating anchor points in Flash CS5 - Shape goes mad!
+How can I export a flash file to a gif format without losing quality?
+Where can I download social media icons?
+How to isolate artwork from games for fan art
+How do I make a 2D texture into a banner/flag that looks like it is folding from a breeze?
+Printer Resolution
+Is there an InDesign to XPS workflow other than printing to an XPS &quot;printer&quot;?
+Logo feedback and advice on learning Adobe Illustrator...
+What file types should my web designer provide me with?
+How do I create an image with blurred background and focused foreground?
+How can I produce this drop-shadow effect in Photoshop?
+How do I make dotted borders in Photoshop?
+Create a crisp 200px wide logo in Illustrator
+Adobe Illustrator CS5.5 resizing bug?
+How to improve my timeline graphic ?
+Need help with logo design and its transparency
+1980&#39;s brushed metal stereo knob
+Using multiple artboards in Illustrator
+What is the most uncommon pigment in the phyiscal world?
+PANTONE and color conversions
+Creating grids for documents
+Compiling a new font from existing fonts and embedding it in a website
+What are the possibilities choosing colors using Phi (the Golden Ratio)?
+What is the best way to label an image?
+light painting in photoshop
+How to show background texture through text placed on background in Photoshop?
+Colouring illustrations - RGB or CMYK?
+Looking for a grid template for Powerpoint
+Illustrator - make text wrap instead of scale
+Illustrator: How to drag-and-select intersecting anchor points?
+Where can I find assets and the terms of use for creating buttons/icons with various social network logos?
+Illustrator: Border effect for a path
+What icon fits &quot;navigation&quot;?
+sRGB, Photoshop and Color Picker &quot;proofing&quot;
+Vectors: How do you deal with background &#39;spill&#39; on overlapping edges?
+What dimensions should I use when designing for the Kindle Fire?
+How to make an inner shadow around a page in Photoshop CS2?
+How to Create a Leather/String Lace texture or stitching effect
+How do I save an image with CMYK in Paint.NET?
+What to do with these errors when I open a PSD file in my Photoshop CS3 (Windows 7) while PSD is made by Photoshop (Mac OSX)
+An online resource or a book that teaches how to draw from a physics/optics perspective
+Need a neat way to show availabity (e.g. working hours)
+How can I use multiple overlay effects simultaneously in Photoshop?
+Photoshop or Illustrator for Icon Design
+Photoshop Fonts Always Italic
+How to create a fictional city map
+Should your website and logo have the same color scheme
+Should Logotype Be Considered Part of the Heading Hierarchy?
+Using the Export Layers as Files (png) script results in multiple sized images
+Is pixelmator a viable alternative for photoshop?
+CSS - Using different fonts within a typeface?
+Mixing the classic type size scale, grid systems and modular scales
+What is the best resolution to work at for Android devices?
+Adobe Fireworks Alternative?
+Is there a way to imitate a pencil or pen in illustrator?
+How can I easily create a shape with a specific pixel width and height in Photoshop?
+What&#39;s the best way to make a curly brace used for grouping items together?
+Will 300 dpi (non-vector) result in blurry artwork for screen printing?
+How do I configure Photoshop to reference a central common object store?
+Can I transform an image&#39;s location in a Photoshop action so that it&#39;s relative to the canvas and NOT the image?
+Filling object with pattern in inkscape
+Which graphic tablets support tilt?
+Illustrator Text Bounding Box Resize
+how to collect fonts in illustrator CS5
+Photoshop a low-res image to make it appear higher-res
+Illustrator, Save for Web: keeping Art and Type optimization separate in one go?
+Is it possible to setup a PSD to 256 colours?
+Technically, what are the prime gotchas that could affect your logo further down the road, if it incorporates justified* fx &amp; blend mode treatments?
+Can I connect multiple line segments to a single point using the pen tool in photoshop?
+Is it possible to scale using nearest neighbour with the transform tool?
+I want to find a good font combination based on existing design
+Strange problem with Photoshop font
+Convert Quark files to InDesign files
+What does MMH stand for?
+Can I automate saving different combinations of layers?
+How can I determine which drawing tablet is right for me?
+The name of this old burlesque-like, wanted-poster, carnival style of graphic design?
+Find a font by tag
+Looking for suggestions for making type more readable with a drop shadow
+TTF and other &quot;modern&quot; font systems, and font size differences
+When is font hinting used for print?
+Make InDesign not re-hyphenate an already hyphenated word
+Graphic design/color compositions for waveform presentation
+Can I legally transfer a font that comes with a Mac to a Windows machine?
+Can I extract shadows from a texture to make a transparent image (png)?
+What is a good general document size for web page mockups and prototypes?
+How to set different color to guides(Ai,Ps,Id,Fw)?
+Drawing people, where should I start?
+Designing forms for printing in InDesign
+Is there a freely available CMYK color chart that I can print on press and work with?
+What is the difference between &quot;wrapped&quot; text and &quot;constrained&quot; text?
+How do I expand a folder of layers in Photoshop Elements?
+Exporting to High Quality Print InDesign - preserving all fonts/text - Create Outlines?
+Should the F-Pattern be considered in all designs?
+Select 1px aliased border
+Blender - how are points and paths imported from svg different from points and paths created in Blender?
+Gimp grid strange behavior - feature or bug?
+How to resize an EPS file in Illustrator to fit a pixel size?
+Changing Color of Path Guides in Illustrator
+Layer Comps in Illustrator?
+Should online PDFs be saved as spreads or single pages?
+Photoshop: Get history paramaters
+&quot;Punch&quot; transparent hole in inkscape, without destructive boolean operations?
+Need To Do a Contour Design in Illustrator
+Indesign and syntax highlighting
+Testing if a BG will Repeat Tile Properly in Photoshop?
+Web font that supports some basic music symbols
+Time requirement for Photoshop Vs Illustrator for mobile app
+GIMP: How to crop a layer?
+how to add one smart object in multiple files in photoshop?
+Transitioning Between Background Colors
+Replacing a font in many illustrator files
+Reproduce WordArt in Inkscape (trapezoid shape)
+How to identify fantasy fonts
+Active digitizer laptops that open 180&#176;
+IS ALL CAPS EVER OK?
+Font licensing for a web app hosted on clients servers
+Anticipating problems with a Google Webfont&#39;s rendering cross-platform 
+Who is in charge of creating fake logos and products for movies/games, and what are good examples of them?
+Illustrator &quot;virtual&quot; clone
+What font is used here on David Guetta&#39;s T-shirts?
+Is there a term for vertically low typefaces?
+How does Apple&#39;s retina display affect sub-pixel rendering?
+32 Bit PNG&#39;s won&#39;t save as png?
+Sharing InDesign Links between Mac &amp; Windows
+Which program to use for a 3D logo
+Is there an easy and cheap way to print qr codes on post-it notes?
+Convert foreground motif to degrees of transparency?
+Google Play - &#39;Feature Graphic&#39; Design
+Need Guidance for Color Profile Settings in Illustrator
+Why is there so much emphasis on the text of a logo and not the catchyness of the logo itself?
+Fill an area while keeping transparency
+How can I add multiple concentric outlines around text?
+How to place files to photoshop without scaling?
+Scale layers in a psd file by 200% for retina iPad
+How to &quot;draw&quot; pointed corner drop shadows in Adobe Illustrator CS5
+Illustrator moves objects using &quot;transform again&quot; with scale
+Making ogoneks with GREP style
+Create a two headed arrow connector in Inkscape
+Export Multiple Artboards to Pngs Named after the Artboard Without the Filename Prepended
+How to design sites with dark colours (red and black palette)
+Can I use fleurons/hedera as bullets in a list?
+Museo Font get distorted in browser
+Adobe Fireworks CS6 maximum image dimension
+How to repair InDesign document that categorically crashes the Application
+How can I make Symbols in Illustrator like I would in Flash?
+Is there an equation to easily convert a color to its matching color in another hue?
+Best resolutions for display on the web for high resolution image?
+How to remove the background of an SVG with Adobe Illustrator?
+Why is my character lost in the background?
+copy object as a reference
+CS5 export layers as files no number sequence
+What Do You Ask From Your Graphical Designer for Your Iphone Apps?
+How do I create color swatch for Photoshop from a list of RGB values?
+Flatten transparency of derivative colors
+Create a GREP style that finds paragraphs that starts with 2 possible words, then styles the entire paragraph
+Improved splash screen design
+Illustrator: How do I make a &quot;arrow&quot; with &quot;flat edges&quot;
+Can more than one designers work together?
+How to remove the alpha channel in a Photoshop document?
+Crop multiple images to match them up in Photoshop?
+A very strange favicon file (atleast for me) where one single file contains 3 different sized images
+Illustrator CS5: Multiline text along a path?
+How do I find the original color version of b&amp;w artwork?
+Is this Comic sans MS?
+If I reference a medical textbook or website for hand drawing bones is that considered copyright infringement?
+Using InDesign CS6, how can I simultaneously edit A4 and A5 versions of a poster?
+Modern design - What&#39;s that?
+Title for a company owner/freelancer doing design, web dev, writing and photography
+How can I slice parallelogram shapes to HTML/CSS?
+Is it possible to specify width in pixels for multiple objects at the same time in Illustrator CS5?
+Why are all my colors dull in Illustrator CS6?
+When should text figures/lining figures be used?
+InDesign: In a table of contents, conflicts between bold &amp; italic text
+Are there typographic methods of rendering a document traceable?
+What is a flow line in typography?
+Are any font sizes reasonable to use
+Delivering a graphic design to a customer
+UX research on where to put website menu?
+Where to find high-quality icon sets?
+How do I keep file sizes down when editing PDFs?
+How do I blend a black-background fire image in Photoshop?
+How to work out font-size setting by counting pixels?
+How about a fourth primary additive color?
+How to shade region under a mathematical curve?
+How can I turn my old tablet PC into a Cintiq-like pen tablet?
+Outer bevel in inkscape
+Hyphenation on many line breaks
+How do I import a vector illustration into photoshop?
+Custom folder for fonts in Photoshop
+Alpha Transparency Remove Background Photoshop
+Is it legal to make a vector of another companies product?
+How to make millimeters the default measurement unit in Adobe InDesign?
+Rotate every text in a row by 25 degree?
+How to prepare a layout for packaging and hot stamping?
+Photoshop CS6 extended, is there a way to disable the edge highlighting of shape selections?
+Illustrator symbol isolation view pixel grid not aligned to ruler
+Size and transparency differences when saving PNG by different methods
+Non-displaying objects in illustrator and photoshop
+Mobile First and RWD workflow and how to interact with client
+How to get bokeh images to use in web design?
+Illustrator: Pathfinder divide not working as expected
+How can I save only one layer as a PNG file in Photoshop
+InDesign: Export all placed files into one folder
+Does anyone know a good pixel font 7px tall?
+How to rotate around shifter center precisely in Illustrator?
+Using GIMP to extract foreground objects using layers
+why does the contract tool in photoshop mangle my shapes?
+Polygons around a circle almost like a sunburst
+Practices for making visual ideas into real designs
+Are custom graphics/images a necessity for professional looking web design?
+What page numbering conventions are there for front matters (prelims) of books?
+Positioning a DIV before the previous DIV
+Considerations when using multiple font faces (on webpage or CD cover)
+Is there an icon set for displaying &quot;All&quot;, &quot;Some&quot;, and &quot;None&quot; states?
+Scaling Pattern Fills in Inkscape
+Can I round the corners of a shape that has curves in Illustrator?
+When saving an image as a PNG or JPEG, does photoshop/GIMP only save the top layers or all the data?
+How to create an extruded halftone effect in illustrator or photoshop
+How to create a PDF which has a background that does not print
+What are the historical origins of Helvetica?
+What is the name of the design technique based on dots?
+How to Create Pixel Based Text Logo?
+Can I stroke a line with a pattern in illustrator?
+Is there a way to create a dockable palette for Photoshop with ScriptUI?
+Importing spreadsheet data as layers into Adobe Illustrator
+Photoshop CS5: How can I change the default reference point location?
+Anyone knows the fonts used in this Resume?
+Layer Comps misalign my layer masks and adjustment layers
+Strange grey bordering/outline in Illustrator
+Exporting iconsets to XAML
+Illustrator CS4: Default opacity of new objects
+Standard Event Poster Size (North America)
+Why do I get color banding when using Color Dodge and a dark colored gradient?
+How to create the effect in this animated GIF of morphing faces?
+How to make a picture look like it&#39;s torn off?
+CS5: How to make non-linear changes using the history panel?
+Open type sans serif fonts with true small caps
+How do I replicate these two effects in Photoshop?
+How to design a websites using thin fonts that will look good in a web browser?
+Good font for a rest home logo?
+Is there any learning service like Pluralsight but for design?
+Smart guides &quot;construction guides&quot; feature intermittent in Illustrator CS5
+My web logo looks pixelated after resizing
+Suggestion for a book on graphic trends and their evolution
+Creating a pattern from an image
+Best calculation for leading in web design
+is there a way to ad hyperlinks in a illustrator document?
+How can I give a name to an image in Corel with Eps format?
+Finding the distance between two guides in Photoshop
+How do I move the color picker in a straight line?
+Hyphenation of compound words
+Skillsets specific for concept artists
+Easy Archiving/Organising your graphic elements for later use
+How to create the round/rectangle dialog on GIMP or Photoshop?
+Autoconverting PNGs to sRGB
+Unicode character that conveys &#39;synchronization&#39;?
+What&#39;s the fastest-drying pen?
+How to study anatomy as an artist?
+What would be equivalent blue colour for this red/orange one?
+Full list of Photoshop Shortcuts
+Best practice for InDesign document translation?
+PDF viewer with a &#39;View Outline&#39; Function?
+Save individual element in PSD as an image
+What the name of the part of the character that holds the counters and the eyes in a stencil typeface?
+How can I use design to teach history to 8th graders?
+Batch resize and OUTPUT multiple images
+My Timeline window is missing lots of controls
+Perception and color theory
+Flash CS6 How to create 3D extruded text?
+Run Illustrator script on multiple files
+Illustrator CS5 brick pattern with perspective
+Can adjusting color (or grayscale) properties of an image affect its visibility in daylight?
+How to make a series of rectangles follow a pen path
+Add a background-color to a paragraph-style in inDesign
+DejaVu Sans Condensed not showing up in Inkscape, despite installed
+Is there a way I can find out who owns the rights to an image I want to use on my web app?
+How do I drain this pattern of color to add it?
+Saving vector art using Illustrator CS5 with the intent to sell artwork to people who work with various vector software and versions of Illustrator?
+Why are my handles and anchor point missing in AI?
+How to determine what quality a JPG was saved as?
+How to disable Align to Pixel Grid in Illustrator
+What is the drawing style called that is used in the RSA Animate lectures?
+How do designers render their work onto an iPhone/Android?
+Creating a schematic diagram of an experiment
+What should I consider when purchasing a new laptop and accessories for design?
+What is the best way to design for a group where multiple people have equal input?
+Resize multiple layers around their respective anchor points (PS CS6)
+Which is better for icon design: vector graphics or raster graphics?
+An analogous gradient on a triangle in Inkscape
+Fireworks CS6: easy way to adjust values like in Photoshop?
+Do we have name for these kind of &quot;flat graphics&quot; images?
+How do you create Icon Fonts?
+What is a quick and concise way to explain online font licensing to a customer?
+What computer subsystem is responsible for font kerning?
+What&#39;s the name of the font used in Ambersoft Labs?
+Should fonts always be very &quot;formal&quot; on a legal page?
+Can I make each group in this SVG file its own SVG file?
+How can I create imagery for cyber security and cyberspace general while avoiding that late 90&#39;s early 2000&#39;s look?
+Designing GUI for mobile apps working in bright sunlight environment
+Which fonts were used in this presentation?
+Should I scale an image first, or index it?
+What is the best way to save an image to a publication that will allow you to zoom in to greater detail
+What&#39;s the best way to make a pdf book cover for Create Space?
+How flatten transparency without rasterization?
+Which software should be used for simulating light beam reflection from headlight reflector?
+How to apply anti-aliasing to a layer with a transparent background?
+Inkscape can not blur Bezier line if it is connected to the outer end of a spiral
+How to create vector graphics In Photoshop CS6
+Do plotter units define quality in PLT file export?
+What is the exact role/relationship of photoshop in web design?
+What size, spacing and baseline shift for tm and numerals in superscript?
+Differences between &quot;Royalty-Free&quot;, &quot;Public Domain&quot;, &quot;Creative Commons&quot; etc
+How to begin with UI design
+Adjust hue / saturation such that colour X becomes colour Y
+How to apply layer style to one object and apply it to multiple layers
+Change background color of just one artboard in Illustrator CS5
+Embedding pdf in illustrator
+What font is similar to Zapfino One but a bit more legible?
+How do I mix both uppercase and lowercase in Illustrator
+Identify 19th century font with italic uppercase N with ball serifs
+How to choose a color palette for a website
+Simple Spot Color Separations for Screen Printing
+How to create a font for free using web tools?
+Looking for a software to design blueprint style technical drawings
+Alternative to Helvetica Rounded corners
+Recommended tools for graphic designers working with WPF
+Script for InDesign that checks for halftone spot colors?
+Coming from a programming background, where should I start to learn web design?
+Transform or filter which selects similarly colored regions?
+Vertical Rhythm - How important is it
+Circular ProgressBar Animation
+Trying to figure out what this ornamental period font is
+How to avoid decimals on position and size using pixels
+How to become really good in graphic design from being average?
+How to draw these big headed characters?
+Exporting PDF from Adobe Illustrator without aliasing
+Inkscape: Joined pentagon and hexagon with fixed edge length
+Two-sided printing: exact positioning?
+Photoshop: How to merge two anchor points
+Expandable text field in acrobat
+How to maintain color consistency across a website
+How do I avoid selection box shrinkage when working with transparent layers?
+A selection of colors that spans the range of the RGB color spectrum?
+Is it legal to convert a not-freely-distributable font to &quot;path&quot; and distribute it?
+How to save a 32 bit png with alpha channel (transparency) in Photoshop?
+Defining resolution or layout size for iphone/ipad devices
+What could be most indicative icon for &quot;Blog&quot;?
+Export set of layers in Pixelmator
+How to apply, blend or overlay a texture or pattern image to a layer in Photoshop?
+Method for batch layout of images into PDF sheets
+Is there a gesture-like exercise for drawing faces?
+Do Stats or polls exist for the preferred style of website design?
+How should I get started if I want to work as a 3D designer for games?
+Font in Google android emulator?
+Illustrator: Auto-sized Text box with shaded background?
+What&#39;s the technical term for groups of glyphs in an OpenType font?
+How to make a deep bevel in Inkscape
+&#39;Un-smart&#39; object in Photoshop
+Create and Edit parallel &quot;bus&quot; lines in Inkscape
+What is the best way to review static mobile mockups?
+What is the name for wireframe-like projection images of technical objects?
+What is the best way to make text fit inside a circular shape?
+How to teach a print designer to design for web?
+How can I spice up my flat iOS icons?
+What programs can I use to create an animation for web?
+RGB to CMYK conversion problem
+Pathfinder divide tool on object with gradient mesh
+How to sell a design to a company?
+How to correctly implement a color scheme
+How do people get those gorgeous, high-resolution UI screenshots without using Retina display?
+Talking about Front End Web Development frameworks from a designer&#39;s perspective
+Am I breaking any Copyright/IP law by designing and selling posters based on an existing design and concept?
+How to export layers as files in InDesign
+What font is used for Batman: The Animated Series?
+Preventing Illustrator CC vector objects distorting when scaled
+Border on borderless pie chart, Illustrator CC
+Making parts of Illustrator logo transparent - rather than faking it with the background color
+How to reduce the file size of an image while keeping the same dimensions
+How can I create an animated device mockup?
+Best way to save AI/SVG graphics for website purposes?
+Steps between Wireframe / UI design for web development
+Software for Creating Yearbook (50+ Pictures/Page) Layout
+What are some good &quot;mocking-up&quot; practices in web design?
+Photoshop Save Selection
+Build a surface using a line directed by circles in catia
+Using which software can I produce network maps of this kind?
+What should a designer consider when deciding on the print size of promotional materials?
+Is there any negative adverse effect to optimizing images for retina screens, if the images aren&#39;t exactly double size?
+Small caps in names as part of an adjective
+How to keep track of the degree value given to a skew transformation?
+managing fonts in illustrator
+How to crop an image in Illustrator?
+Font Rendering issue
+How to Insert an Image in to an Ellipse and Hide Overflowing Parts
+Is it better to illustrate on matte paper or glossy paper?
+Can I export from pdf through Photoshop and back to pdf and keep the color values the same?
+How to make a fill or stroke change its color when the swatch used for it changes?
+Using incomplete web designs in a portfolio
+Does building a site from a design concept violate creative commons no derivatives clause?
+Fill shape created using &quot;Pen Tool&quot;
+What is a text heavy design with multiple types of typography called?
+Can I use images / poster from a movie in a flyer to promote a Movie Night?
+Weird grey boxes on PDF export and (huge) quality difference in Apple Preview and Adobe Acrobat
+How can you achieve this mosaic like effect in Photoshop?
+What&#39;s the font name of the new iOS 7 note app?
+Searching for an odometer / mileage counter / rounded rectangle numbers font
+Searching for a font that&#39;s similar to Lato
+Draw rectangle with stroke in Inkscape
+Collage of Scraps
+Smooth out transition between elements
+Programs to draw human face
+What font or typeface is used in this text that says &quot;Johnson&quot;?
+Inkscape: Caps on lines are always black
+In gimp how can I get the edges of a filled rectangle selection to look like a painted area?
+Where can I build a customizable HTML e-mail template to reply to individual customers requesting information?
+How to handle multiple page design projects in Photoshop
+How can I create a custom shape with round edges on Photoshop CS6?
+Change color of clipped image - Inkscape
+Super-thin UI Trend: Is there a name for this &quot;beyond &#39;flat&#39;&quot; style?
+Should I use a company&#39;s letterhead on all of their files?
+How to apply twist deformer but keep shape of spheres
+How do you apply a clipping mask to multiple layers in Photoshop?
+How to create a Geometric Polygonal Art portrait
+Is it possible to add a background image to all &#39;layers&#39; of an animated gif?
+Can I Put my logo on an outputted PDF?
+How to explain the reasoning for and against a font choice?
+Placing Keynote 6.0 elements into Illustrator CS5
+equidistant guide lines in inkscape
+Best practice to creating distorted text?
+How to straighten image along the path?
+How to not let drop shadows darken each other out
+How to draw a wiggly line in Illustrator
+How come my link is overlooked?
+Identifying printing quality issues
+How much wiggle room should I give when creating a package design?
+Photoshop: TIFF: Difference between &quot;gray/8&quot; and &quot;gray/8#&quot;?
+Does InDesign have an Edit Artboard-like tool, like Illustrator has?
+Paper format of Springer LNCS
+Using my pen tablet, how do I make it so when I draw, the line width varies more artistically? Very static right now
+Help Identify the Japanese and Chinese Fonts as Pictured
+How can I quickly enter editing mode of a selected text layer?
+In InDesign, is it possible to hide the Web Content loading icon?
+How do I get proportions of the sock in my logo right?
+1960s technical charts sans-serif all caps font
+Is it plagiarism if my logo looks similar to an existing one?
+Why is Blue/Green/Yellow/Red such a popular color scheme for logos?
+Is there an automated, configurable way to organize many layers into a sprite sheet grid with exact pixel coordinates in Photoshop?
+Does InDesign support page sets?
+Border around formatted text in Inkscape
+Why not pure black and pure white?
+How to create a nondestructive gradient mask over an object?
+How to isolate the text from a bitmap logo?
+How to make a layer change size in an animation in Photoshop?
+How can I make crisp icons for Windows Store apps?
+How can I make this whitespace into a new path?
+How can an Icon symbolize &quot;Search Relevance&quot;?
+Photoshop - Easier way to add date suffix, st, nd, th rd
+Which secondary whitespace character should I use for my seven-segment font?
+Icon to signify &quot;wish&quot; or &quot;wishlist&quot;?
+How can I create a double helix?
+Horizontally/Vertically Straightening a Shape in Illustrator
+Are there any graphic design societies/clubs for experienced designers in the UK?
+Change weight of font while maintaining local formatting in InDesign
+InDesign: How do I automatically align the bottoms of different columns of text boxes to the same height as the one with the most text?
+Rename text anchor and update cross-reference text
+Is providing only minimal contact details bad for freelance designers?
+What type of paper should I use for print outs for a physical portfolio?
+How to separate a dropdown from the page background when it&#39;s the same color?
+What is the font used in the Elysium movie code editor?
+What is the best Adobe software for designing a r&#233;sum&#233;?
+Adobe Illustrator CS6 Make a texture fit exacly in a custom shape?
+Can I predefine brushes with color and size in Gimp?
+Font Awesome as Photoshop Custom Shape Set
+Center object A with object B
+What application supports working with sprites (PNGs) over 10,000 px wide?
+How to practice designing on my own
+Handdrawn like pencil sketch with inkscape
+Add a hyperlink within Illustrator
+InDesign ignores Illustrator artboard?
+Should designers put ALL of their works in their portfolio?
+Is there a way to convert from Illustrator to Photoshop and maintain things like text, lines, arrows as editable?
+How to ignore objects outside clipping masks in symbols in Adobe Illustrator
+How can I decide between the medium sized intuos tablet or the small one?
+How do I open a Flash CS6 file in CS5
+How to find complementary colors
+How to fill half of a word with one colour and the other half with a different colour in Adobe Illustrator
+How can I improve this icon/design?
+Internship or Spec Work?
+In Photoshop is there a way to change the style of multiple text elements at the same time?
+How to change between Live shapes to masks properties in Photoshop CC
+Sequence diagram for review, revision and approval
+Font identification / recommendation: Cursive serif used for quotes
+3D objects with raised border in illustrator
+What factors do these colors share?
+Learning how to draw as a web designer
+Background images get distorted or random lines appear
+Name of web layout made up of full-width sections
+Is it possible to have a page with a transparent background?
+I&#39;m looking for this gothic / blackletter font (or a very similar one)
+How to create transparent 1 bit background as in the sample?
+Why are some SVG Filters automatically converted to PNG when creating an SVG in Adobe Illustrator?
+How to use value-based pricing for design projects?
+Critique: How can I tie a logo into my website design at both mobile and desktop screen sizes?
+Does this art style in Hannes Johannes animations have a name?
+Is it acceptable to use different but similar typefaces for print content and web content?
+Free plugin to create/display Photoshop measurement annotations
+Any books on actual how-to of logo design?
+How can I create a tight spiral shape? (Archimedean spiral)
+Illustrator&#39;s background and artboard became transparent
+Gimp: removing background from product images
+End marks: are they a good idea?
+Do I need to create my images at twice the pixel dimensions on a retina display?
+Can I redesign a logo I created in Photoshop in illustrator?
+1 letter used - do I need to buy the entire font?
+How do I keep edged flush when tracing with the pen tool in Illustrator?
+How to find out whether a font is authentic?
+Submitting logo to Github project
+Photoshop - Removing an Object using the Content Aware function
+Difference in glyphs of I and l
+How to make a smooth PMS gradient transition in Illustrator
+How to overlay a fabric pattern on a Seat Image to make it look authentic?
+How can I create fruit&#39;s texture?
+How do I recreate this color overlay layer effect in Photoshop?
+How to put arrows along a path in Inkscape?
+Critique: Looking For Honest Feedback On A Logo Sketch
+What is the best way to acheive this &quot;geometric triangles&quot; effect?
+What term is used to refer to cut vinyl stickers?
+How to size canvas and add and retain full image in GIMP?
+Aligning three circle intersection equally
+Is this typeface intentionally so uneven, or is this some display error?
+Difference between brand/design style guide and a UI Pattern Library and how to avoid conflicts?
+Creating Voronoi diagram from Adobe Illustrator CC
+Can photoshop wrap 2D image around entire custom shaped 3D object?
+Can you protect social media iconography?
+How to exclude hidden shapes when saving to SVG
+Join line and edge of circle
+Would moving away from urban areas affect client acquisition for a freelance designer?
+How can I create a tiling hexagon tesselation (for SVG/Web)?
+Are new brand names/logos typically trademarked, and what are the most common reasons for doing so?
+How do I find out what the high level differences are between two partially different PSDs?
+How to remove a portion of a closed object, to turn it into an open object?
+What should I keep in mind when designing a metallic duotone?
+How to distinguish between links and headings without colour variation?
+What Color Theory goes into designing camouflage?
+Going from gesture sketching to a final drawing
+Protecting against copyright?
+What Adobe License do I need as an Individual that sells designs?
+How do I make a brush with overlapping shapes aligned to the path in Illustrator?
+how to print saddle stitch booklet from a Indesign book file?
+How can I connect two disjoint paths in Sketch App?
+Are there any presentation software or sites besides Microsoft Powerpoint?
+Import vector data into illustrator
+Is dark UI pleasing to general app consumers?
+Bullets combined with numbering for InDesign?
+Making multiple vectors one single vector in Illustrator
+How do you make an Android loading icon in Illustrator?
+What is the font used in IE 10 source?
+Illustrator is cropping exported icons despite artboard being Fit to Selected Art
+Is there a way to select OpenType features in Inkscape?
+Should I provide a dieline around a package design?
+Make an index where &quot;cat&quot; also refers to &quot;cats&quot;
+How to remove strange banding from PNG export with radial gradient
+Photoshop: Save a part without cropping
+How to create an outlined circle with centered horizontal and vertical gaps in Illustrator?
+Can I fill a ink cartridge with any type of ink? Even valuable ink?
+Easy way to create depth
+Custom stroke caps in Illustrator?
+How to achieve better consistency with stock / vendor photos taken from different distances?
+How to create a rectangle with one side stroke only in Inkscape?
+Is 4-color process printing (CMYK) more or less expensive than using 4 spot colors?
+Color palette next to crop marks - function?
+CSS-only Polygonal Border
+How to transform a pattern without affecting its parent objects&#39; shape in Illustrator?
+How to import a CSV list of names into Illustrator artwork?
+Converting marker and watercolor art to Illustrator/Vector?
+Critique: music and graphics company logo
+Recognize all table cells
+How to create an animated demo of my webdesign?
+Small, anti-aliased fonts for an LCD display
+What does a tagline in a website header communicate by being there?
+If one hires a designer who plagiarizes, who is held liable?
+Inkscape: Project a rectangle on bent path keeping gradients intact
+Increasing the significant figures in Illustrator CS6
+Does a beard highlight or obscure the mouth area?
+How to typeset units in HTML
+How to achieve a chevron color mask effect in Photoshop?
+Delete all strokes at once in Inkscape
+How can I use GREP to get all text between the third and fourth underscore in a file name?
+How to remake these lines that follow a circular shape?
+Fonts with ambiguous / similar characters
+Cut a circumference into parts - Inkscape
+Choosing a color on intention
+What is the Right Way to Ensure Design You Really Want?
+Making extremely large screenshots
+Make printed out messages look good
+What does my printer mean when he says &#39;$1.50 for a 30&quot; running edge&#39;?
+Critique request: logo for a health product
+What is the line resolution in the pond in A. D&#252;rer&#39;s St Eustace engraving?
+Term for upward slant of horizontals in a typeface
+Maths + Graphic Design - Did somebody try that?
+Critique Request: CAD drafting contractor logo
+Is it possible to prevent download of images when designing a website?
+Making changes to a page that I own, but was made by someone else
+Should I use Hex or RGBA when designing a website?
+Make a random dispersion of images
+What is this shifted red and blue effect often seen in VR called? How can I achieve it?
+How to convert a gradient mesh created in Illustrator into a browser-compatible, scalable SVG?
+How can I outline this image with a thick black border
+How can I create and transfer the same metering scale (vector) to a mass of different .jpg images?
+Why are the lines of one object darker than another behind another object of 50% opacity?
+Do and don&#39;t do with styling &lt;html&gt; and &lt;body&gt; tags
+How to put one object both in front and behind another object at the same time?
+What is this kind of pattern called and how is it created?
+What&#39;s the more appropriate way to introduce a &quot;flashback&quot; in a graphic novel, in terms of color, line strokes and panel shape?
+InDesign, Grep and Syntax Highlighting
+Is it possible to make a gradient follow a path in Illustrator?
+How to twist a complex shape in Inkscape?
+Should highlighted quotes in an article be aligned with the body text?
+Joining shapes in Affinity Designer
+Adobe Photoshop - How do you arithmetically add two images?
+Pantone Bridge Books- Uncoated vs Coated
+Ensure a document is ready for 4 color printing
+How to paste a part of an image in the same coordinates I cut it from?
+How large are the HSL/HSV colour spaces with respect to Lab?
+Complex data merge in Adobe InDesign for business cards
+Reduce 30MB image to less than 50KB without significant loss
+Polygon shape not closing with brush in Illustrator CC
+Embedding fonts in inkscape
+Difference between 8 bit and 16 bit in Photoshop
+How do I mix rounded and squared caps in a single path in Illustrator?
+How can I create cartoon green grass for covering a sphere?
+Are there any extra measures when designing a translucent business card?
+Can I use Illustrator to import text data and populate text boxes?
+What is the most effective way to organize .psds for a large scale application project
+How do you present a logo to a client?
+Changing the position of outlines in Skech &amp; Toon on Cinema 4d
+How to handle freelance designers that fail to meet expectations?
+Are faux small caps now considered OK?
+How to type two characters on top of each other (superscript) in InDesign

@@ -2499,3 +2499,2504 @@ Inclined plane, circular motion and the friction
 Why do some materials follow Lambert&#39;s cosine law?
 Location of singularity in moving black hole
 Does the Abbe limit hold for a single lens?
+Cooling a cup of coffee with help of a spoon
+Can I compute the mass of a coin based on the sound of its fall?
+How does light bend around my finger tip?
+A mirror flips left and right, but not up and down
+Why don&#39;t metals bond when touched together?
+How does gravity escape a black hole?
+Book recommendations
+Surviving under water in air bubble
+What experiment would disprove string theory?
+What really allows airplanes to fly?
+How do I explain to a six year old why people on the other side of the Earth don&#39;t fall off?
+Why does NASA use gold foil on equipment and gold-coated visors?
+Could Legolas actually see that far?
+How does a knife cut things at the atomic level?
+Stupid yet tricky question: Why do we actually see the sun?
+Why do sunbeams diverge even though the sun is much more than a few kilometers away?
+Don&#39;t heavier objects actually fall faster because they exert their own gravity?
+If you view the Earth from far enough away can you observe its past?
+Very strange shadow phenomenon
+Why does Stephen Hawking say black holes don&#39;t exist?
+Does Earth really have two high-tide bulges on opposite sides?
+What software programs are used to draw physics diagrams, and what are their relative merits?
+Why doesn&#39;t matter pass through other matter if atoms are 99.999% empty space?
+How can you weigh your own head in an accurate way?
+List of freely available physics books
+How come some people are claiming that the Big Bang never happened?
+Why does the Sun&#39;s (or other stars&#39;) nuclear reaction not use up all its &quot;fuel&quot; immediately?
+Why does a helium filled ballon move forward in a car when the car is accelerating?
+Why am I not burned by a strong wind?
+Why do tuning forks have two prongs?
+Is it necessary to consume energy to perform computation?
+What is the actual significance of the amplituhedron?
+Why does kinetic energy increase quadratically, not linearly, with speed?
+How Does Mass Leave the Body When you Lose Weight?
+Superfields and the Inconsistency of regularization by dimensional reduction
+What are the justifying foundations of statistical mechanics without appealing to the ergodic hypothesis?
+Superluminal neutrinos
+What was the major discovery on gravitational waves made March 17th, 2014, in the BICEP2 experiment?
+Why does my wooden door disperse light into a rainbow color spectrum?
+Could we send a man safely to the Moon in a rocket without knowledge of general relativity?
+How can a black hole produce sound?
+Why do we not have spin greater than 2?
+Why is a laserpointer able to &quot;erase&quot; a glow-in-the-dark sticker?
+Why do people categorically dismiss some simple quantum models?
+Why is filling a balloon from your mouth much harder initially?
+Gauge symmetry is not a symmetry?
+What does it mean for two objects to &quot;touch&quot;?
+Why are radiators always placed under windows?
+Why would spacetime curvature cause gravity?
+Why do most formulas in physics have integer and rational exponents?
+Why is there a scarcity of lithium?
+Where does the extra kinetic energy come from in a gravitational slingshot?
+Does juggling balls reduce the total weight of the juggler and balls?
+Why does hot water clean better than cold water?
+The speed of gravity?
+How literally should you take &quot;The Higgs boson gives other particles mass&quot;?
+How can I stand on the ground? EM or/and Pauli?
+What makes running so much less energy-efficient than bicycling?
+Does the 4/3 problem of classical electromagnetism remain in quantum mechanics?
+What&#39;s inside a proton?
+Which way does the scale tip?
+What challenges needed to be overcome to create (blue) LEDs?
+Is Angular Momentum truly fundamental?
+What is a field, really?
+The Role of Rigor
+Why do chimneys have these spiral &quot;wings&quot;?
+In the earth&#39;s crust, why is there far more uranium than gold?
+Does someone falling into a black hole see the end of the universe?
+If photons have no mass, how can they have momentum?
+Did the Big Bang happen at a point?
+Reading the Feynman lectures in 2012
+Why can we see the dust particles in a narrow beam of light (and not in an all lighted area)?
+Is it possible to start fire using moonlight?
+How can ants carry items much heavier than themselves?
+Why don&#39;t fluorescent lights produce shadows?
+Number theory in Physics
+What is known about the topological structure of spacetime?
+Is it possible for information to be transmitted faster than light by using a rigid pole? 
+What causes insects to cast large shadows from where their feet are?
+Will a blanket warm you if you are underwater?
+Best books for mathematical background?
+Common false beliefs in Physics
+Why does the atmosphere rotate along with the earth?
+Is it possible that there is a color our human eye can&#39;t see?
+Why does dry spaghetti break into three pieces as opposed to only two?
+Why does a remote car key work when held to your head/body?
+On this infinite grid of resistors, what&#39;s the equivalent resistance?
+Why does space expansion not expand matter?
+Is time continuous or discrete?
+Why can Hiroshima be inhabited when Chernobyl cannot?
+Moon&#39;s pull causes tides on far side of Earth: why?
+What is the speed of sound in space?
+Is there a symmetry associated to the conservation of information?
+Is there a small enough planet or asteroid you can orbit by jumping?
+Quantum Entanglement - What&#39;s the big deal?
+Is temperature a Lorentz invariant in relativity?
+Does centrifugal force exist?
+A list of inconveniences between quantum mechanics and (general) relativity?
+Why wet is dark?
+Proof that the Earth rotates?
+Cooling a cup of coffee with help of a spoon
+Can I compute the mass of a coin based on the sound of its fall?
+How does light bend around my finger tip?
+A mirror flips left and right, but not up and down
+Why don&#39;t metals bond when touched together?
+How does gravity escape a black hole?
+Book recommendations
+Surviving under water in air bubble
+What experiment would disprove string theory?
+What really allows airplanes to fly?
+How do I explain to a six year old why people on the other side of the Earth don&#39;t fall off?
+Why does NASA use gold foil on equipment and gold-coated visors?
+Could Legolas actually see that far?
+How does a knife cut things at the atomic level?
+Stupid yet tricky question: Why do we actually see the sun?
+Why do sunbeams diverge even though the sun is much more than a few kilometers away?
+Don&#39;t heavier objects actually fall faster because they exert their own gravity?
+If you view the Earth from far enough away can you observe its past?
+Very strange shadow phenomenon
+Why does Stephen Hawking say black holes don&#39;t exist?
+Does Earth really have two high-tide bulges on opposite sides?
+What software programs are used to draw physics diagrams, and what are their relative merits?
+Why doesn&#39;t matter pass through other matter if atoms are 99.999% empty space?
+How can you weigh your own head in an accurate way?
+List of freely available physics books
+How come some people are claiming that the Big Bang never happened?
+Why does the Sun&#39;s (or other stars&#39;) nuclear reaction not use up all its &quot;fuel&quot; immediately?
+Why does a helium filled ballon move forward in a car when the car is accelerating?
+Why am I not burned by a strong wind?
+Why do tuning forks have two prongs?
+Is it necessary to consume energy to perform computation?
+What is the actual significance of the amplituhedron?
+Why does kinetic energy increase quadratically, not linearly, with speed?
+How Does Mass Leave the Body When you Lose Weight?
+Superfields and the Inconsistency of regularization by dimensional reduction
+What are the justifying foundations of statistical mechanics without appealing to the ergodic hypothesis?
+Superluminal neutrinos
+What was the major discovery on gravitational waves made March 17th, 2014, in the BICEP2 experiment?
+Why does my wooden door disperse light into a rainbow color spectrum?
+Could we send a man safely to the Moon in a rocket without knowledge of general relativity?
+How can a black hole produce sound?
+Why do we not have spin greater than 2?
+Why is a laserpointer able to &quot;erase&quot; a glow-in-the-dark sticker?
+Why do people categorically dismiss some simple quantum models?
+Why is filling a balloon from your mouth much harder initially?
+Gauge symmetry is not a symmetry?
+What does it mean for two objects to &quot;touch&quot;?
+Why are radiators always placed under windows?
+Why would spacetime curvature cause gravity?
+Why do most formulas in physics have integer and rational exponents?
+Why is there a scarcity of lithium?
+Where does the extra kinetic energy come from in a gravitational slingshot?
+Does juggling balls reduce the total weight of the juggler and balls?
+Why does hot water clean better than cold water?
+The speed of gravity?
+How literally should you take &quot;The Higgs boson gives other particles mass&quot;?
+How can I stand on the ground? EM or/and Pauli?
+What makes running so much less energy-efficient than bicycling?
+Does the 4/3 problem of classical electromagnetism remain in quantum mechanics?
+What&#39;s inside a proton?
+Which way does the scale tip?
+What challenges needed to be overcome to create (blue) LEDs?
+Is Angular Momentum truly fundamental?
+What is a field, really?
+The Role of Rigor
+Why do chimneys have these spiral &quot;wings&quot;?
+In the earth&#39;s crust, why is there far more uranium than gold?
+Does someone falling into a black hole see the end of the universe?
+If photons have no mass, how can they have momentum?
+Did the Big Bang happen at a point?
+Reading the Feynman lectures in 2012
+Why can we see the dust particles in a narrow beam of light (and not in an all lighted area)?
+Is it possible to start fire using moonlight?
+How can ants carry items much heavier than themselves?
+Why don&#39;t fluorescent lights produce shadows?
+Number theory in Physics
+What is known about the topological structure of spacetime?
+Is it possible for information to be transmitted faster than light by using a rigid pole? 
+What causes insects to cast large shadows from where their feet are?
+Will a blanket warm you if you are underwater?
+Best books for mathematical background?
+Common false beliefs in Physics
+Why does the atmosphere rotate along with the earth?
+Is it possible that there is a color our human eye can&#39;t see?
+Why does dry spaghetti break into three pieces as opposed to only two?
+Why does a remote car key work when held to your head/body?
+On this infinite grid of resistors, what&#39;s the equivalent resistance?
+Why does space expansion not expand matter?
+Is time continuous or discrete?
+Why can Hiroshima be inhabited when Chernobyl cannot?
+Moon&#39;s pull causes tides on far side of Earth: why?
+What is the speed of sound in space?
+Is there a symmetry associated to the conservation of information?
+Is there a small enough planet or asteroid you can orbit by jumping?
+Quantum Entanglement - What&#39;s the big deal?
+Is temperature a Lorentz invariant in relativity?
+Does centrifugal force exist?
+A list of inconveniences between quantum mechanics and (general) relativity?
+Why wet is dark?
+Proof that the Earth rotates?
+Is there a way for an astronaut to rotate?
+Why does holding something up cost energy while no work is being done?
+Why don&#39;t electrons crash into the nuclei they &quot;orbit&quot;?
+Quantum Field Theory from a mathematical point of view
+Why did Feynman&#39;s thesis almost work?
+How long can you survive 1 million degrees?
+Is the universe fundamentally deterministic?
+Why are most metals gray/silver?
+How small does sand have to be to get wet?
+How long a straw could Superman use?
+What is information?
+What is the upper-limit on intrinsic heating due to dark matter?
+Why does a cup with 100 g water float when placed on another cup with 50 g of water?
+What Is Energy? Where did it come from?
+What is spin as it relates to subatomic particles?
+Can Maxwell&#39;s equations be derived from Coulomb&#39;s Law and Special Relativity?
+Why does a window become a mirror at night?
+What happens to the energy when waves perfectly cancel each other?
+Do all black holes have a singularity?
+What justifies dimensional analysis?
+Why does a candle blow out when we blow on it? Our breath is 16% oxygen and only 4% CO2
+Why isn&#39;t length contraction permanent even though time dilation is?
+Is it possible to &quot;see&quot; atoms?
+Why do we think there are only three generations of fundamental particles?
+Analog Hawking radiation
+Experimental test of the non-statisticality theorem?
+Why do grapes in a microwave oven produce plasma?
+With Newton&#39;s third law, why are things capable of moving?
+Was the 2013 meteor over Russia stronger than an atomic bomb?
+Being in a solid state, why is ice slippery?
+Why does our voice sound different on inhaling helium?
+Can kicking a falling phone save it from shattering?
+What enables protons to give new properties to an atom every time one is added?
+Why don&#39;t electric fish shock themselves?
+Why does dust stick to rotating fan propeller?
+Why is quantum entanglement considered to be an active link between particles?
+How can Magnets be used to pick up pieces of metal when the force from a magnetic field does no work?
+Why is water clear?
+Does Coulomb&#39;s Law, with Gauss&#39;s Law, imply the existence of only three spatial dimensions?
+Dimensionless Constants in Physics
+Is 3+1 spacetime as privileged as is claimed?
+Cyclist&#39;s electrical tingling under power lines
+What happened to David John Candlin?
+Neutrinos vs. Photons: Who wins the race across the galaxy?
+Explaining to a five year old - why don&#39;t bubbles run like water
+Explaining UV radiation to a 6 year old
+Photons from stars--how do they fill in such large angular distances?
+What&#39;s the point of Hamiltonian mechanics?
+Why Do Sausages Always Split Lengthwise?
+What technology can result from such expensive experiment as undertaken in CERN?
+Why is the prospective new kilogram standard a sphere?
+Why doesn&#39;t light affect a compass?
+Why do earphone wires always get tangled up in pocket?
+Why is the Earth so fat?
+What practical issues remain for the adoption of Thorium reactors?
+If I&#39;m floating in space and I turn on a flashlight, will I accelerate?
+How exactly does gravity work?
+How effective is speeding?
+When a star becomes a black hole, does its gravitational field strength become stronger?
+Home experiments to derive the speed of light?
+Why do we have an elementary charge but no elementary mass?
+Why do power lines buzz?
+Why quantum mechanics?
+What is the meaning of the third derivative printed on this T-shirt?
+Do gravitational lenses have a focus point?
+How do bicycle spokes work?
+Is the uncertainty principle a property of elementary particles or a result of our measurement tools?
+Why do the big nuts always remain at top? The Brazil-nut Effect
+In theory, could gravitational waves be used to make a &quot;gravity laser&quot;?
+Scattering of light by light: experimental status
+What can the D-Wave quantum computer do?
+Intuitively, why are bundles so important in Physics?
+What keeps mass from turning into energy?
+How to treat differentials and infinitesimals?
+Is it fair to judge this speedskating race by only 3 thousands of a second?
+Pouring water in an aircraft while upside down?
+Why don&#39;t two musical instruments sometimes generate destructive interference?
+Are we slightly lighter during the day and slightly heavier at night, owing to the force of the Sun&#39;s gravity?
+Is there a physical reason for colors to be located in a very narrow band of the EM spectrum?
+Why is the Moon considered the major cause of tides, even though it is weaker than the Sun?
+How does this &quot;simple&quot; electric train work?
+Is there something similar to Noether&#39;s theorem for discrete symmetries?
+Do Maxwell&#39;s Equations overdetermine the electric and magnetic fields?
+How can anything ever fall into a black hole as seen from an outside observer?
+Is fire plasma?
+Why are our planets in the solar system all on the same disc/plane/layer?
+How can two seas not mix?
+Rubber band stretched produces heat and when released absorbs heat.. Why?
+Quantum mechanics and everyday nature
+Why has Earth&#39;s core not become solid?
+Symmetries of the Standard Model: exact, anomalous, spontaneously broken
+Without seeing the lightning, can you tell how far away it struck by how the thunder sounds?
+Does electricity flow on the surface of a wire or in the interior?
+Why does cold metal seem colder than cold air?
+How far ahead can we predict solar and lunar eclipses?
+How does water help extinguish fire?
+How much air needs to be displaced to generate an audible sound?
+Is anti-matter matter going backwards in time?
+Why doesn&#39;t a bike/bicycle fall if going with a high speed?
+How did Newton discover his second law?
+Why is cold fusion considered bogus?
+Massless charged particles
+Why does everything spin?
+If I am travelling on a car at around 60 km/h, and I shine a light, does that mean that the light is travelling faster than the speed of light?
+Why do lasers cut? Is this a case of light acting as matter?
+How would night sky look like if the speed of light was infinite?
+Why do we need to know the shape of the slide to find the time to slide down it?
+Can we theoretically balance a perfectly symmetrical pencil on its one-atom tip?
+Path integral vs. measure on infinite dimensional space
+Trace of a commutator is zero - but what about the commutator of $x$ and $p$?
+Will a hole cut into a metal disk expand or shrink when the disc is heated?
+Why is information indestructible?
+Could someone jump from the international space station and live?
+Is there a Lagrangian formulation of statistical mechanics?
+If photon energies are continuous and atomic energy levels are discrete, how can atoms absorb photons?
+How trustworthy are numerically-obtained periodic solutions to the three body problem?
+How can the Earth keep spinning with a liquid core?
+Classic home experiments for an 8-year-old child
+Why do stickers curl?
+Why aren&#39;t there spherical galaxies?
+Shine a beam of light horizontally, drop a stone from same height - would both hit the ground at the same time?
+Freefall into snow
+Can water falling from a tap follow a spiral path?
+What is the difference between &quot;kinematics&quot; and &quot;dynamics&quot;?
+Lev Landau&#39;s &quot;Theoretical Minimum&quot;
+Does G&#246;del preclude a workable ToE?
+Why are differential equations for fields in physics of order two?
+Physical interpretation of different selfadjoint extensions
+On the Coulomb branch of N=2 supersymmetric gauge theory
+What is spontaneous symmetry breaking in QUANTUM systems?
+Is a hard drive heavier when it is full?
+Is it possible to have a geostationary satellite over the poles?
+How exact is the analogy between statistical mechanics and quantum field theory?
+Why does the speed of light in vacuum have no uncertainty?
+Why does ice melting not change the water level in a container?
+Why is it said that without quantum mechanics we would not have modern computers?
+What is the minimum pressure of a medium for which a sound wave can exist?
+What is going on in front of and behind a fan?
+&quot;Falling upward&quot; - how far you have to be from Earth to start falling to the Moon?
+Why are dishwasher washed glasses &quot;squeaky clean&quot;?
+Why is the harmonic oscillator so important?
+Is there a thermodynamic limit on how efficiently you can solve a Rubik&#39;s cube?
+Will we ever be able to view the past?
+Is it possible that every single isotope is radioactive, and isotopes which we call stable are actually unstable but have an extremely long half-life?
+What is needed to claim the discovery of the  Higgs boson?
+Getting started self-studying general relativity
+Why does calculus of variations work?
+Are these two quantum systems distinguishable?
+Wind generators - why so few blades?
+A No-Nonsense Introduction to Quantum Field Theory
+What is the use of a Universal-NOT gate?
+Models of neutrinos consistent with OPERA&#39;s results
+Why is the sky not purple?
+What causes ballpoint pens to write intermittently?
+Can the solar system really fit in a thimble?
+Does the sun rotate?
+Why doesn&#39;t light kill me?
+If we suddenly lost track of time, how would we know what time is now?
+Does time move slower at the equator?
+What is the difference between a measurement and any other interaction in quantum mechanics?
+Is a &quot;third quantization&quot; possible?
+Can Jupiter be ignited?
+Why is there no absolute maximum temperature?
+How can a photon have no mass and still travel at the speed of light?
+Why doesn&#39;t the Moon fall upon Earth?
+Why is it hard to solve the Ising-model in 3D?
+Why is gravity such a unique force?
+How do moving charges produce magnetic fields?
+Does quantum mechanics violate the equivalence principle?
+Why do rocket engines have a throat?
+How close can you get to lava before burning?
+Why is the sky never green? It can be blue or orange, and green is in between!
+Why is Earth&#39;s climate so stable?
+What are galactic speeds measured against?
+Where do photons go when they are absorbed?
+What is the fallacy in this infinite motion machine?
+The Impossibility ( or Possibility) of Solving $N$-Body Problem
+Mechanics around a rail tank wagon
+Do two beams of light attract each other in general theory of relativity?
+Rigor in quantum field theory
+About the complex nature of the wave function?
+Examples of number theory showing up in physics
+$(\mu,P,T)$ pseudo-ensemble: why is it not a proper thermodynamic ensemble?
+Before a once-warm lake starts to freeze, must its temperature be 4&#176;C throughout at some point?
+Why does a supernova explode
+Where does the extra force generated by a lever come from?
+Why are the laws of thermodynamics &quot;supreme among the laws of Nature&quot;?
+Are atoms unique?
+Why can&#39;t you hear music well over a telephone line?
+Was Titanic&#39;s captain&#39;s decision correct?
+Why can&#39;t we see gases?
+Homemade salad dressing separates into layers after it sits for a while. Why doesn&#39;t this violate the 2nd law of thermodynamics?
+If there were fundamental forces weaker than gravity, would we know about it?
+What are washers for?
+Cooling a satellite
+Why is the equation for friction so simple?
+Intuition as to why the orientation (of a 3D object) is not a conserved quantity?
+When water climbs up a piece of paper, where is the energy coming from?
+Your favorite Physics/Astrophysics blogs?
+Is Stephen Wolfram&#39;s NKS, an attempt to explain the universe with cellular automata, in conflict with Bell&#39;s Theorem?
+How can earthquakes shift the earth&#39;s axis?
+Does the Planck scale imply that spacetime is discrete?
+Why can&#39;t we feel the Earth turning?
+What conservation law corresponds to Lorentz boosts?
+Why does this object periodically turn itself?
+Readable books on advanced topics
+Would it matter if the Earth rotated clockwise?
+Lagrangians not of the form $T-U$
+Why are rockets so big?
+Do electrons have shape?
+How is it possible to accelerate a neutron?
+Why did &quot;tickling the dragons tail&quot; by Louis Slotin not cause an explosion?
+Why is it so easy to create audible sound?
+How wrong are the classical Maxwell&#39;s equations (as compared to QED)?
+Why does one experience a short pull in the wrong direction when a vehicle stops?
+Why CAN we see the new moon at night?
+How exactly does curved space-time describe the force of gravity?
+What if the LHC doesn&#39;t see SUSY?
+Are modified theories of gravity credible?
+If both radio waves and gamma rays can travel through walls
+What is the simplest way to prove the Earth is round?
+How to write a paper in physics?
+Can I survive a free fall using a ramp and a rope?
+What forces are at work causing sand to migrate to the centre of a spinning bucket of water?
+Where does the light go when I turn off the light switch?
+Why do same/opposite electric charges repel/attract each other, respectively?
+Is it possible to &quot;cook&quot; pasta at room temperature with low enough pressure?
+Speed of sound at temperatures below 0 &#176;C
+Why is jumping into water from high altitude fatal?
+How long would it take me to travel to a distant star?
+Why does a flat universe imply an infinite universe?
+Which ball touches the ground first?
+What is the physical meaning of commutators in quantum mechanics?
+Motion described by $m \frac{\mathrm{d}^2 x}{\mathrm{d}t^2}=-k\frac{\mathrm{d}^{\frac12 }x}{\mathrm{d}t^{\frac12}}$
+Is ice a type of glass?
+What is the most efficient information storage?
+Why does water rise through a hole in ice
+I touched a tree that was touching an electric fence and got an electric shock. How is this possible if wood is an insulator?
+Is there an infinite amount of wavelengths of light? Is the EM spectrum continuous?
+Are there any scales other than temperature that have different zero points?
+Books that every physicist should read
+Maximum theoretical data density
+Can I use an antenna as a light source?
+What really cause light/photons to appear slower in media?
+Why does only one side of a neon lamp glow?
+Are matrices and second rank tensors the same thing?
+From where (in space-time) does Hawking radiation originate?
+Telescopes to avoid as a beginner?
+Why is a new moon not the same as a solar eclipse?
+Systematic approach to deriving equations of collective field theory to any order
+How much information about the scale of a waterfall can be obtained from its sound?
+What&#39;s the real fundamental definition of energy?
+Floating a ping pong ball in the air just using a pen!
+Linear sigma models and integrable systems
+Why the galaxies forms 2D plane (or spiral-like) instead of 3D ball (or spherical-like)?
+Why is the sun brighter in Australia compared to parts of Asia?
+Has gravity ever been experimentally measured between two atoms?
+How to determine your position underground?
+Why do computers generate heat?
+What are Stephen Hawking&#39;s main contributions to research-level physics?
+What is the speed of the fastest moving body in our solar system?
+What do we see while watching light? Waves or particles?
+In reverse time, do objects at rest fall upwards?
+Why does a Pewter mug keep a beverage hot better than a foam cup?
+If the Earth is a good conductor of electricity, why don&#39;t people get electrocuted every time they touch the Earth?
+Fourier transformation in nature/natural physics?
+What if the universe is rotating as a whole?
+Why does GPS depend on relativity?
+Why correlation functions?
+Why are there only derivatives to the first order in the Lagrangian?
+Does a photon interfere only with itself?
+Does Heisenberg&#39;s uncertainty under time evolution always grow?
+Travelling faster than the speed of light
+The Pioneer anomaly finally explained?
+Why the Principle of Least Action?
+Why can&#39;t energy be created or destroyed?
+Does the universe have a center?
+Can lightning be used to solve NP-complete problems?
+What are the precise statements by Shouryya Ray of particle dynamics problems posed by Newton which this news article claims have been solved?
+What is the Earth truly rotating about/revolving around?
+Why is the Ampere a base unit and not the Coulomb?
+What exactly is regularization in QFT?
+What does a wing do that an engine can&#39;t?
+What do you really see on a line of clocks as you pass by them at high speed?
+Can you run away from your shadow?
+How can interstellar space have a temperature of 2-3K?
+Stretch length of horizontal and vertical springs
+What physical evidence is there that subatomic particles pop in and out of existence?
+Why is the nucleus so small and why is the atom 99.999% empty space?
+Suggested reading for renormalization (not only in QFT)
+Classical mechanics without coordinates book
+Formalizing Quantum Field Theory
+Comprehensive book on group theory for physicists?
+Why do we say that the earth moves around the sun?
+How do we know Dark Matter isn&#39;t simply Neutrinos?
+Why $\displaystyle i\hbar\frac{\partial}{\partial t}$ can not be considered as the Hamiltonian operator?
+Why do the planets&#39; orbital distances fall on an exponential curve?
+Why is the observable universe so big?
+What are some critiques of Jaynes&#39; approach to statistical mechanics?
+Why is light called an &#39;electromagnetic wave&#39; if it&#39;s neither electric nor magnetic?
+Is the wave-particle duality a real duality?
+Is a proton collision (collisions like in the LHC) visible to the human eye?
+Does a constantly accelerating charged particle emit em radiation or not?
+Why are there no asteroids or meteoroids with relativistic speeds?
+Why is acceleration expressed as m/s/s?
+Why is absolute zero considered to be asymptotical? Wouldn&#39;t regions such as massive gaps between galaxy clusters have temperatures of absolute zero?
+Which is more fundamental, Fields or Particles?
+Are all machines linearly scalable?
+When a planet is heated through gravitational pull, where is the energy taken from?
+How do control rods work?
+Are there any theoretical limits on the energy of a photon?
+Can the Sun capture dark matter gravitationally?
+Hamilton&#39;s Principle
+Why isn&#39;t Higgs coupling considered a fifth fundamental force?
+Could gravity be an emergent property of nature?
+What is the difference between a white object and a mirror?
+Would you be weightless at the center of the Earth?
+Total energy of the Universe
+Why glass is transparent?
+Is there an equation for the strong nuclear force?
+How come neutrons in a nucleus don&#39;t decay?
+How does gravitational lensing account for Einstein&#39;s Cross?
+Differentiating Propagator, Greens function, Correlation function, etc
+Negative probabilities in quantum physics
+Orbits of maximally entangled mixed states
+experimental bounds on spacetime torsion
+Is there an intuitive explanation for why Lorentz force is perpendicular to a particle&#39;s velocity and the magnetic field?
+Why does a tire need to be filled with air?
+Canonical everyday-life example of a technology that could not work without humans mastering QM in analogy to the application of GR in GPS?
+Are quantum effects significant in lens design?
+Why does wet skin sunburn faster?
+Why doesn&#39;t a typical beam splitter cause a photon to decohere?
+Can the sun cast a shadow?
+Why does a large train cause the ground to shake?
+Is this kids experiment a legitimate way to show that air has mass?
+What would happen if an accelerated particle collided with a person?
+How does light speed up after coming out of a glass slab?
+Is there a limit as to how fast a black hole can grow?
+Why are stars white?
+What is the mechanism behind the slowdown of light/photons in a transparent medium?
+Lightning strikes the Ocean I&#39;m swimming in - what happens?
+What is the physical meaning of the connection and the curvature tensor?
+Why is the bell, well, bell shaped?
+Why is high temperature superconductivity so hard to solve?
+What are the reasons to expect that gravity should be quantized?
+Does a magnetic field do work on an intrinsic magnetic dipole?
+What nonlinear deformations will a fast rotating planet exhibit?
+Einstein&#39;s postulates $\leftrightarrow$ Minkowski space for a Layman
+Is gecko-like friction Coulombic? What is the highest known Coulombic $\mu_s$ for any combination of surfaces?
+In quantum mechanics, given certain energy spectrum can one generate the corresponding potential?
+&quot;Slightly off-shell&quot;?
+What&#39;s the interpretation of Feynman&#39;s picture proof of Noether&#39;s Theorem?
+Why do electron and proton have the same but opposite electric charge?
+Can the apparent equal size of sun and moon be explained or is this a coincidence?
+How do the “hot Jupiter” planets get so close to their host star?
+State of Matrix Product States
+Renormalization Group for non-equilibrium
+Continuum theory from lattice theory
+An entropy of the Wigner function
+Why is boiling water loud, then quiet?
+Why does paper become translucent when smeared with oil but not (so much) with water?
+Why is the (free) neutron lifetime so long?
+Discreteness and Determinism in Superstrings?
+Classical and quantum anomalies
+What is a good introductory book on quantum mechanics?
+Sigma Models on Riemann Surfaces
+How do whisky stones keep your drink cold?
+Best current bounds on nonconservation of momentum?
+Can the photoelectric effect be explained without photons?
+Are bubbles in ice at a lower or higher pressure than atmospheric pressure?
+Why do we expect our theories to be independent of cutoffs?
+A &quot;Hermitian&quot; operator with imaginary eigenvalues
+Identification of particles and anti-particles
+How does a half-life work?
+Why is an electron still an elementary particle after absorbing / emitting a photon?
+Why fermions have a first order (Dirac) equation and bosons a second order one?
+Why is spacetime curved by mass but not charge?
+Why doesn&#39;t rain fall down in streams (as opposed to drops)
+Is the graviton hypothetical?
+The physical definition of work seems paradoxical
+Blowing your own sail?
+Is a suit that hides a soldier&#39;s heat signature fundamentally possible?
+Emptying a bottle faster by swirl
+Are internal combustion engines more efficient on cold days?
+Could I break the sound barrier using circular motion? (And potentially create a sonic boom?)
+Lie theory, Representations and particle physics
+Why does the sky change color?
+Will a ball slide down a lumpy hill over the same path it rolls down the hill?
+How does classical GR concept of space-time emerge from string theory?
+Applications of Algebraic Topology to physics
+How fast a (relatively) small black hole will consume the Earth?
+Are W &amp; Z bosons virtual or not?
+Why do tsunami waves begin with the water flowing away from shore?
+Fundamental question about dimensional analysis
+Graduate Physics Problems Books
+How does water evaporate if it doesn&#39;t boil?
+Have we figured out how to analyze turbulent fluids?
+What symmetry causes the Runge-Lenz vector to be conserved?
+Is mass an observable in Quantum Mechanics?
+What is the mass density distribution of an electron?
+Why don&#39;t modern spacecraft use nuclear power?
+Why does it take so long to get to the ISS?
+Could there be a star orbiting around a planet?
+Physical and Geometrical interpretation of Differential Forms
+Why do we care about black hole interiors&#39; physics?
+Overcharging a black hole
+Status of experimental searches for tachyons?
+How do we know photons have spin 1?
+Idea of Covering Group
+How do we know that heat is a differential form?
+Artificial gravity on rotating spaceship?
+Is this really a golden ratio spiral?
+Since cables carry electricity moving at the speed of light, why aren&#39;t computer networks much faster?
+Doesn&#39;t a box holding a vacuum weigh the same as a box full of air?
+How do we stabilise satellites so precisely?
+Why would a black hole explode?
+How can the contact point of rolling body have zero velocity?
+Why is the mole/&quot;amount of substance&quot; a dimensional quantity?
+Static electricity and door handles
+Why can you &quot;suck in&quot; cooked spaghetti?
+Learning physics online?
+Experimental observation of matter/antimatter in the universe
+Ice skating, how does it really work?
+Haag&#39;s theorem and practical QFT computations
+Can Noether&#39;s theorem be understood intuitively?
+What&#39;s the difference between the five masses: inertial mass, gravitational mass, rest mass, invariant mass and relativistic mass?
+Why do electrons occupy the space around nuclei, and not collide with them?
+What is the logarithm of a kilometer? Is it a dimensionless number?
+How can it be that the beginning universe had a high temperature and a low entropy at the same time?
+Why do or don&#39;t neutrinos have antiparticles?
+How would we tell antimatter galaxies apart?
+Why does laser light not affect glowing materials?
+How is $\frac{dQ}{T}$ measure of randomness of system?
+Would a spin-2 particle necessarily have to be a graviton?
+Are gravitational waves longitudinal or transverse?
+What are the strings in string theory made of?
+What happens to the magnetic field in this case?
+What is the current status of string theory (2013)?
+Hilbert space of harmonic oscillator: Countable vs uncountable?
+Why do prisms work (why is refraction frequency dependent)?
+Rigorous underpinnings of infinitesimals in physics
+If aerographite is lighter than air, why doesn&#39;t it float?
+How can water evaporate at room temperature?
+Birds sitting on electric wires: potential difference between the legs
+Why did high quality mirrors use aluminum coatings instead of silver?
+Why do heavier objects fall faster in air?
+Why do we deal only with large scale magnetic fields in astrophysics, and not electric fields?
+Why does wavelength affect diffraction?
+Is topology of universe observable?
+Should I abandon my thought experiment about time?
+The sound of rotating helicopter blades
+Quantum random numbers from a laser -- simplest setup?
+What do units like joule * seconds imply?
+If air cannot conduct electricity, how can lightning happen?
+Why doesn&#39;t Earth&#39;s atmosphere form bands due to different rotational speeds?
+Is there a maximum frames per second (FPS)?
+How should a physics student study mathematics?
+Do photons gain mass when they travel through glass?
+How are classical optics phenomena explained in QED (Snell&#39;s law)?
+Why are von Neumann Algebras important in quantum physics?
+Rotation angle of a giant lily when a child crawls on its rim
+Is it theoretically possible to shield gravitational fields or waves?
+Why does the Moon face Earth with the same side?
+What is the usefulness of the Wigner-Eckart theorem?
+Why do people still talk about bohmian mechanics/hidden variables
+What is the difference between implicit and explicit time dependence e.g. $\frac{\partial \rho}{\partial t}$ and $\frac{d \rho} {dt}$?
+Why do &#39;dead&#39; batteries work again after exchanging the places of the batteries in an electronic device?
+What are the prerequisites to studying general relativity?
+Mathematically-oriented Treatment of General Relativity
+How can airplanes fly upside down?
+How does a mobile phone vibrate without any external force?
+Why does the water rise?
+Does a charged particle accelerating in a gravitational field radiate?
+Why not using Lagrangian, instead of Hamiltonian, in non relativistic QM?
+Does a photon exert a gravitational pull?
+Is the converse of Noether&#39;s first theorem true: Every conservation law has a symmetry?
+How can a black hole emit X-rays?
+How to determine what size telescope to buy
+Does entropy measure extractable work?
+Mermin-Wagner theorem in the presence of hard-core interactions
+Could the Periodic Table have been done using group theory?
+Why are L4 and L5 lagrangian points stable?
+Energy in bolognese reduction - lid on or off?
+Why is technetium unstable?
+Why is the $S_{z} =0$ state forbidden for photons?
+Does a charged or rotating black hole change the genus of spacetime?
+Why do we still need to think of gravity as a force?
+Is space &quot;real&quot;, or is it some sort of accepted postulate?
+Are there old aged particles?
+How does the Super-Kamiokande experiment falsify SU(5)?
+Are neutrino stars theoretically possible?
+Why treat complex scalar field and its complex conjugate as two different fields?
+The age of the universe
+Is the existence of electromagnetic standing waves dependent on the observers reference frame?
+Why is superdeterminism generally regarded as a joke?
+The path integral and Feynman diagrams
+Will the black hole size increase?
+What does it mean that there is no mathematical proof for confinement?
+Why isn&#39;t the sunset/sunrise rainbow-colored
+Why is the pressure inside a soap bubble higher than outside?
+Are there two theories that are mathematically identical but ontologically different?
+If a photon goes up, does it come down?
+Is it possible to focus the radiation from a black body to make something hotter than that black body?
+Build a ring around Earth, then remove the supports
+Is it possible to create a parachute large enough to stop all velocity?
+Why do we need infinite-dimensional Hilbert spaces in physics?
+Is it possible to shoot bullets in space or would the recoil of the gun be too strong?
+What is your simplest explanation of the string theory?
+Is (rest) mass quantized?
+How are forces &quot;mediated&quot;?
+Why don&#39;t spinning tops fall over?
+What equation describes the wavefunction of a single photon?
+Why is tape so hard to rip when it is not broken, but so easy once there is the tiniest cut in it?
+Why isn&#39;t dark matter just matter?
+How is the classical twin paradox resolved?
+Is there a T-dual of Witten&#39;s twistor topological string theory?
+Covariant Description of Light Scattering at a fastly rotating Cylinder
+What is the difference between Newtonian and Lagrangian mechanics in a nutshell?
+Why is the angle of the wake of a duck constant?
+Equations for bent paper
+Can one do the maths of physics without using $\sqrt{-1}$?
+Good reading on the Keldysh formalism
+How does the Higgs mechanism work?
+Why do quantum physical properties come in pairs?
+Why do we need 12 atoms to store 1 bit of data?
+Are we inside a black hole?
+What non-metal is attracted by a magnet?
+A dictionary of string - standard physics correspondences
+Minimum viscosity of liquids
+Vasiliev Higher Spin Theory and Supersymmetry
+Post-doc advice for a low publication grad student
+Which symmetric pure qudit states can be reached within local operations?
+Why do people rule out local hidden variables?
+In &#39;t Hooft beable models, do measurements keep states classical?
+Why did Einstein get credit for formulating the theory of special relativity?
+Is the density operator a mathematical convenience or a &#39;fundamental&#39; aspect of quantum mechanics?
+Amplitude of an electromagnetic wave containing a single photon
+Why is lightning more rare during snow storms than rain storms?
+How can the Moon have such a strong effect on the ocean?
+Is the quantization of gravity necessary for a quantum theory of gravity?
+How does faster than light travel violate causality?
+Anomalous target space diffeomorphisms for one-loop world-line integrals
+Why is gravity so hard to unify with the other 3 fundamental forces?
+What are the various physical mechanisms for energy transfer to the photon during blackbody emission?
+Why isn&#39;t temperature measured in Joules?
+Why Won&#39;t a Tight Cable Ever Be Fully Straight?
+Is every quantum measurement reducible to measurements of position and time?
+How many points are required to make a black box
+How do we know that these radio bursts are from billions of light-years away?
+Why is there a size limitation on animals?
+What is a phonon?
+Intuitive understanding of the entropy equation
+Why is the moment of inertia for a hollow sphere higher than a uniform sphere?
+Can one obtain free energy from the vacuum?
+Why does a nuclear explosion have directionality?
+Do photons occupy space?
+Where does deleted information go?
+Why is the application of probability in QM fundamentally different from application of probability in other areas?
+Can there be Electron and/or Proton Stars?
+Is it possible to overload a lightning rod?
+Physics of weird &quot;boing&quot; sound in racquetball courts?
+How did they take photos of Jupiter?
+Are there Higgs bosons in the Sun?
+How do you add temperatures?
+Does car tire pressure change with weight of car load?
+Why can we cycle faster than we can run?
+How can one derive Schr&#246;dinger equation?
+Why do the storms of Jupiter have long life unlike that of Earth?
+When a drop of water falls into water, where do the splashes come from?
+How come &quot;smaller, weaker&quot; particles are more massive (have higher energies)?
+Could someone intuitively explain to me Ohm&#39;s law?
+If the LHC-calculated mass of the Higgs is wrong, how long will it take to determine this with confidence?
+How does one measure the mass of a galaxy? And other such large quantities
+Is it possible to blur an image in such way that a person with sight problems could see it sharp?
+How do you calculate the anomalous precession of Mercury?
+Books that develop interest &amp; critical thinking among high school students
+Paradox?: What is the form of radiation experienced by a harmonically accelerated observer?
+Virtual vs Real image
+Simple models that exhibit topological phase transitions
+What is tension in string theory?
+Newton&#39;s cradle
+Starting a physics Ph.D. at 60?
+Why can you see virtual images?
+Why does the air we blow/exhale out from our mouths change from hot to cold depending on the size of the opening we make with our mouth?
+What do ants see?
+History of interpretation of Newton&#39;s first law
+Do anti-photons exist?
+Why can&#39;t quantum teleportation be used to transport information?
+How do you prove $S=-\sum p\ln p$?
+Why does the fundamental mode of a recorder disappear when you blow harder?
+Why do ships lean to the outside, but boats lean to the inside of a turn?
+Why you need a graviton when you have the higgs boson?
+Why is the charge naming convention wrong?
+What is the magnetic field inside hollow ball of magnets?
+Laplace operator&#39;s interpretation
+Prove that negative absolute temperatures are actually hotter than positive absolute temperatures
+How does string theory reduce to the standard model?
+Why don&#39;t stars in globular clusters all orbit in the same plane?
+Is Jupiter a failed star?
+Connections and applications of SLE in physics
+Regularization of the Casimir effect
+Bell polytopes with nontrivial symmetries
+Twistors in Curved Spacetime
+Rigorous justification for rotating wave approximation
+Any use for $F_4$ in hep-th?
+Kerr Geometry, Separability and Twistors
+Theoretical penetration limit for evanescent waves
+What is the answer to Feynman&#39;s Disc Paradox?
+What exactly is a kilogram-meter?
+What is the possibility of a railgun assisted orbital launch?
+Why doesn&#39;t a fly fall off the wall?
+Why is torque not measured in Joules?
+Why aren&#39;t gas planets and stars fuzzy?
+Emergent symmetries
+What is the status of Witten&#39;s and Vafa&#39;s argument that the QCD vacuum energy is a minimum for zero $\theta$ angle?
+What observables are indicative of BCS Cooper pair condensation?
+Is there a compound denser than the densest element?
+What determines the angle of the cushion on a pool table?
+Stability of rotation of a rectangular prism
+How to combine these equations of constraint?
+Does a car consume more fuel when it&#39;s raining?
+How do people calculate proportions of dark matter, dark energy and baryonic matter of the universe?
+How do spiral arms form?
+A rope attaches the Moon to the Earth. What happens?
+Tensor Operators
+Does alternating current (AC) require a complete circuit?
+Is general relativity holonomic?
+Why does boiling water in the microwave make a cup of tea go weird?
+Double Slit Experiment: How do scientists ensure that there&#39;s only one photon?
+Are the air particles in today&#39;s wind on earth (more or less) the same as the air 2/3 billion years ago?
+Does antimatter curve spacetime in the opposite direction as matter?
+Causes of hexagonal shape of Saturn&#39;s jet stream
+Why does dark energy produce positive space-time curvature?
+How close does light have to be, to orbit a perfect sphere the size and mass of Earth?
+Can rain evaporate?
+What determines the speed of waves in water?
+Is there a physical system whose phase space is the torus?
+How much red, blue and green does white light have?
+How many molecules rub off when I press a key?
+Is this scene from the A Team explainable by Physics?
+If I squeeze something really hard, will it ever become two-dimensional?
+Why does a dish cloth absorb liquid better when it is damp?
+Why are a motorcycle&#39;s front brakes more effective than back?
+Physical meaning of the angular momentum
+Where on Earth does the mass of 1 kg actually produce a 1 kg reading on a digital scale?
+What does this depiction of a black hole in the movie Interstellar mean?
+Why does rotation simulate gravity if motion is relative?
+Conservation of momentum when rain pours into a wagon
+Why does non-commutativity in quantum mechanics require us to use Hilbert spaces?
+If the gravity at the center of the Earth is zero, why are heavy elements like iron there?
+Why is energy not an SI base unit?
+Is it possible to sail &quot;close hauled&quot; with a solar sailship?
+Why do neutrons repel each other?
+Why can&#39;t the outcome of a QM measurement be calculated a-priori?
+Why can you have shiny black objects?
+Why do earphone pieces repel each other when music is on?
+Give a description of Loop Quantum Gravity your grandmother could understand
+Why are the orbits of planets in the Solar System nearly circular?
+A pedestrian explanation of Renormalization Groups - from QED to classical field theories
+Why can&#39;t a piece of paper (of non-zero thickness) be folded more than $N$ times?
+Should a neutron fall faster than a proton?
+Why should the Standard Model be renormalizable?
+Newton&#39;s rings: What causes the other rings?
+What does it mean for a Hamiltonian or system to be gapped or gapless?
+Quantum mechanics on a manifold
+If the universe is expanding, what is it expanding into?
+What exactly is heat?
+Online QFT video lectures
+Why is gravitation force always attractive?
+a priori validity of $W=\int Fdx$ in relativity?
+How do Optically Active Compounds Rotate Plane Polarized Light?
+How did R&#248;mer measure the speed of light by observing Jupiter&#39;s moons, centuries ago?
+Does the Pauli exclusion principle instantaneously affect distant electrons?
+Why singularity in a black hole, and not just &quot;very dense&quot;?
+Why does the sound pitch increase on every consecutive tick at the bottom of a filled cup of coffee?
+Isn&#39;t the uncertainty principle just non-fundamental limitations in our current technology that could be removed in a more advanced civilization?
+How do astronomers measure the distance to a star or other celestial object?
+Why are orbits elliptical?
+Why does the moon sometimes appear giant and a orange red color near the horizon?
+How long does it take to travel 36 light years with tolerable acceleration and deceleration?
+How Fundamental is Spin-Orbit Coupling to Topological Insulators?
+Is there a theorem that says that QFT reduces to QM in a suitable limit? A theorem similar to Ehrenfest&#39;s theorem?
+Why does charge conservation due to gauge symmetry only hold on-shell?
+Significance of the hyperfinite $III_1$ factor for axiomatic quantum field theory
+What do theoretical physicists need from computer scientists?
+Which exact solutions of the classical Yang-Mills equations are known?
+Asymptoticity of Pertubative Expansion of QFT
+What is known about the classification of N=4 SCFTs with central charge 6?
+Phase space volume and relativity
+Why does the note played by a flute not change in this case when  the air column is interrupted?
+Is the principle of least action a boundary value or initial condition problem?
+Norton&#39;s dome and its equation
+Is two cars colliding at 50mph the same as one car colliding into a wall at 100 mph?
+Flames with no gravity?
+Why are expressions such as $\operatorname{ln}T$ used in thermodynamics where $T$ is not dimensionless?
+What grounds the difference between space and time?
+Are there still &#39;everyday&#39; phenomena unexplained by Physics?
+Local explanation of the Aharonov-Bohm effect in terms of force fields
+Is there a symbol for &quot;unitless&quot;?
+When can a global symmetry be gauged?
+Optimal telescope size?
+Before inflation, what sets the initial value of the inflaton field?
+What is the theoretical limit for farthest we can see back in time and distance?
+Why do whips hurt so much?
+Why does a cork float to the side of a glass?
+How fast is the Earth-Sun distance changing
+Mass of empty AdS$_5$
+Gravitational slingshot of light using a black hole/massive object
+What happens, if a rocket is filled with a vacuum instead of high pressured air?
+Why can&#39;t batteries be charged quickly?
+Does black hole formation contradict the Pauli exclusion principle?
+Are the recently observed Dirac monopoles separable?
+Does a mirror help a near-sighted persion see at a distance clearer?
+Is it foolish to distinguish between covariant and contravariant vectors?
+Finding the vacuum which breaks a symmetry
+When photons reach us, what exactly is happening to us and to that photon?
+Why do solar panels not have focusing mirrors?
+How do crocodiles jump?
+When is it useful to distinguish between vectors and pseudovectors in experimental &amp; theoretical physics?
+Can a human size object move so fast that it ceases to be observable?
+The best way in which a man can pull a train
+What exactly do we see on the famous neutrino image of the sun?
+Has the gravitational interaction of antimatter ever been examined experimentally?
+Why don&#39;t free electrons fall from metals if shaken?
+What are the proposed realizations in the New SI for the kilogram, ampere, kelvin and mole?
+What do physicists mean by &quot;information&quot;?
+Melting diamond and cool down as diamond
+Can a car steer on a frictionless surface?
+Symbols of derivatives
+Why don&#39;t we have a theory of everything?
+Why doesn&#39;t a cigarette lighter generate thrust?
+How does Positronium exist?
+Is it possible to observe interference from 2 independent optical lasers?
+Relativistic Cellular Automata
+If I fall into an evaporating black hole, where do I end up?
+Home experiment to estimate Avogadro&#39;s number?
+Is there a difference between observing a particle and hitting it with another particle?
+What&#39;s the difference between running up a hill and running up an inclined treadmill?
+How precisely does a star collapse into a black hole?
+Why the distribution of elements on Earth?
+Why and how is the speed of light in vacuum constant, i.e., independent of reference frame?
+Does red shift evidence necessarily imply that the universe started from a singularity?
+Can anybody provide a simple example of a quantum computer algorithm?
+If a 1kg mass was accelerated close to the speed of light would it turn into a black hole?
+How general is the Lagrangian quantization approach to field theory?
+What does it mean to say &quot;Gravity is the weakest of the forces&quot;?
+Why is there a deep mysterious relation between string theory and number theory, elliptic curves, $E_8$ and the Monster group?
+Is Mach&#39;s Principle Wrong?
+The &quot;Nerd Sniping&quot; problem. Generalizations?
+Why can we treat quantum scattering problems as time-independent?
+Roughly how many atoms thick is the layer of graphite left by a pencil writing on paper?
+How are photons &quot;consumed&quot;?
+Can you split a photon?
+What would be the effects on theoretical physics if neutrinos go faster than light?
+What happened to the idea of tachyonic or other superluminal neutrinos?
+Irreducible tensors concept
+Has the concept of non-integer $(n+m)$-dimensional spacetime ever been investigated by theoretical physicists?
+How can a human eye focus on a screen directly in front of it?
+Is there a physics Puzzles site like Project Euler?
+What determines color -- wavelength or frequency?
+Are elementary particles actually more elementary than quasiparticles?
+Is the universe a quantum computer - is light speed barrier a computational constraint
+How would the night sky appear at the edge of the galaxy?
+How can a spiral galaxy exist?
+How many stars are in the Milky Way galaxy, and how can we determine this?
+Why is the universe map shaped like an oval?
+How exactly does time slow down near a black hole?
+Is the CMB rest frame special? Where does it come from?
+Given a photo of the Moon, taken from Earth, is it possible to calculate the position of the photographer&#39;s site?
+Why don&#39;t we have a better telescope than the Hubble Space Telescope?
+How do we know Dark Matter is non baryonic?
+Values of SM parameters at one certain scale
+Sympletic structure of General Relativity
+Does 4D N = 3 supersymmetry exist?
+Fluctuations of an interface with hammock potential
+direct sum of anyons?
+Geometric Langlands as a partially defined topological field theory
+Why is there no theta-angle (topological term) for the weak interactions?
+Geometric picture behind quantum expanders
+Edge theory of FQHE - Unable to produce Green&#39;s function from anticommutation relations and equation of motion?
+Particles for all forces: how do they know where to go, and what to avoid?
+Direct observations of a black hole?
+Can a planet have a larger diameter than Jupiter?
+Is the Schr&#246;dinger equation derived or postulated?
+Black holes and positive/negative-energy particles
+Can light exists in $2+1$ or $1+1$ spacetime dimensions?
+Definitions: &#39;locality&#39; vs &#39;causality&#39;
+Why is the partition function called &#39;&#39;partition function&#39;&#39;?
+Why does the spotlight reflected off of a rectangular mirror tend to become circular?
+Can bosons that are composed of several fermions occupy the same state?
+How accurate are Mayan astronomical &quot;ephemerides&quot;?
+How deep is the Great Red Spot?
+Why do Maxwell&#39;s equations contain each of a scalar, vector, pseudovector and pseudoscalar equation?
+Elegant approaches to quantum field theory
+Does light reflect if incident at exactly the critical angle?
+Staying in orbit - but doesn&#39;t any perturbation start a positive feedback?
+Does local physics depend on global topology?
+Topological Charge. What is it Physically?
+Does gravity slow the speed that light travels?
+Can space expand with unlimited speed?
+What stabilizes neutrons against beta decay in a neutron star?
+What happens to the electron companions of cosmic ray protons?
+How can I determine whether the mass of an object is evenly distributed?
+How hot does the tip of a pencil get while writing?
+Why myopic people see this picture differently?
+Is play-dough liquid or solid?
+Where did Schr&#246;dinger solve the radiating problem of Bohr&#39;s model?
+Is the electromagnetic spectrum discrete?
+How long until we fall into the Sun?
+Why does blowing on a candle put it out but sucking doesn&#39;t?
+What are the equations of motion of a hole in a soap bubble?
+What is the difference between the Balmer series of hydrogen and deuterium?
+Why do quasicrystals have well-defined Fourier transforms?
+Does the weight of an hourglass change when sands are falling inside?
+How can a proton be converted to a neutron via positron emission and yet gain mass?
+Is there a field equation which can reduce into all three flavors of spin (zero, one, one half)?
+What was Feynman&#39;s &quot;much better way of presenting the electrodynamics&quot; -- which did **not** appear in the Feynman lectures?
+How is gravity consistent when you split an object into multiple pieces?
+Why doesn&#39;t dark matter affect planetary motion?
+What exactly is an anti-neutrino?
+How quickly was the Earth rotating 250 million years ago?
+Photobombing without app used by Harley Davidson
+Is there experimental evidence that massless particles such as photons attract massive objects?
+How does &quot;warp drive&quot; not violate Special Relativity causality constraints?
+Density matrix formalism
+Would computers accelerated to high speeds compute &quot;faster&quot; from our point of view?
+How would an X-ray scanner identify a mirror?
+What interesting physics problems can&#39;t be solved because mathematics is not developed enough?
+How was the formula for kinetic energy found, and who found it?
+Can gravitational waves be red-shifted?
+Why would the lack of air in a mine in an asteroid prevent you from flooding it?
+Why doesn&#39;t the speed of Earth (moving through space) kill us?
+Does screwdriver length matter?
+Simple example showing why measurement &amp; interaction are different
+Why does the tongue stick to a metal pole in the winter?
+What happens if you remove the polarization filter from a computer monitor?
+Why is the light reflected at the same angle from mirror?
+Why does the speed of light totally prevent instantaneous information exchange?
+Why are grams usually only expressed as milligrams, grams or kilograms?
+Why are neutrinos ruled out as a major (or even sole) component of dark matter?
+Detectability of interstellar messages
+Distinguishing between solid spheres and hollow spheres (equal mass)
+The unreasonable effectiveness of the partition function
+If the LHC doesn&#39;t find the Higgs Boson, what would be the implications for the Standard Model?
+Boiling water and salt
+What are some scenarios where FTL information transfer would violate causality?
+How can I measure the mass of the Earth at home?
+Symmetrical twin paradox
+Nature of gravity: gravitons, curvature of space-time or both?
+In general what will holding an anti-hydrogen atom for more than a 1/10th of second allow scientists to discover?
+Ising model for dummies
+Home experiments using wireless LAN or mobile phones about electromagnetism?
+What experiments, other than Hubble Expansion, support the Dark Energy theory?
+Flux through a Mobius strip
+Do all massive bodies emit Hawking radiation?
+Wormholes &amp; Time Machines - for *experts* in GR/maths
+Can black holes form in a finite amount of time?
+Are neutrinos Majorana particles?
+How to learn physics effectively and efficiently
+Why do space crafts take off with rockets instead of just ascending like an aircraft until they reach space?
+Where should a physicist go to learn chemistry?
+Why does dilation invariance often imply proper conformal invariance?
+Are tidal power plants slowing down Earth&#39;s rotation?
+How does uranium from supernovae explosions end up in mineral veins in a planet?
+Does the curvature of spacetime theory assume gravity?
+How do horseshoe orbits work?
+Are human eyes the best possible camera?
+Correlation between outstanding hints in experimental particle physics
+Why can&#39;t my eye see itself in the mirror through polarizing 3D-glasses?
+How does non-commutativity lead to uncertainty?
+Detection of the Electric Charge of a Black Hole
+Why are higher order Lagrangians called &#39;non-local&#39;?
+What&#39;s wrong with this derivation that $i\hbar = 0$?
+Is there an intuitive reason the brachistochrone and the tautochrone are the same curve?
+Is one way glass possible?
+What is the connection between Poisson brackets and commutators?
+What does the equivalence principle mean in quantum cases?
+Does the Moon&#39;s core still contain significant heat?
+Why don&#39;t more rocky planets/moons have appreciable atmospheres?
+Why can&#39;t you escape a black hole?
+How does space affect the human body (no space suit, no space craft)
+What did general relativity clarify about Mercury?
+Could there be a body of water the size of a planet?
+What is the current state of research into $v$-representability?
+Models of higher Chern-Simons type
+Modern avatar of Englert&#39;s solution?
+K&#228;hler potential vs full effective potential
+Can symmetry generators be used for quantization?
+BPS states : Mathematical definition
+What proof techniques have failed for solving the SIC-POVM problem and what new insights have been gleaned from them?
+What Shannon channel capacity bound is associated to two coupled spins?
+Classic Literature in Quantum Gravity?
+Are gravitomagnetic monopoles hypothesized?
+What is a tensor?
+QM without complex numbers
+Can general relativity be completely described as a field in a flat space?
+What is the status of Mpemba effect investigations?
+Is spacetime discrete or continuous?
+Reason for the discreteness arising in quantum mechanics?
+Why does light of high frequency appear violet?
+What is the length of 1 second in meters
+Is it really a particle?
+is there a way to split a black hole?
+The meaning of imaginary time
+What does a sphere moving close to the speed of light look like?
+Is the &quot;How to break the speed of light&quot; minute physics video wrong?
+How is Matter Modelled in Loop Quantum Gravity?
+Why can&#39;t we store light in the form of light?
+Stripeless cleaning of windows
+Basic questions in Majorana fermions
+Validity of naively computing the de Broglie wavelength of a macroscopic object
+Quantum mechanics - how can the energy be complex?
+Where do high-energy neutrinos come from?
+What is the difference between scale invariance and self-similarity?
+Is Newton&#39;s universal gravitational constant the inverse of permittivity of mass in vacuum?
+String Theory and Standard Model in CERN
+Any physical example of an &quot;explosive&quot; differential equation $ y&#39; = ky^2$?
+State collapse in the Heisenberg picture
+Zero modes ~ zero eigenvalue modes ~ zero energy modes?
+Why are pear-shaped nuclei possible?
+Does topology have any role in classical physics?
+Is there an official name for &quot;Lorentz Pairs&quot; like energy and momentum?
+Conservation of Mathematical Constraints when deriving Energy and Momentum from $F=ma$
+S-Matrix in $\mathcal{N}=4$ Super-Yang Mills
+How to optically rotate images in small increments (for eyeglasses)?
+Why does ice form on bridges even if the temperature is above freezing?
+Branching lemon drop &quot;smoke rings&quot;
+Comparing predictions and reality for the gravitational attraction due to light beams
+Is it possible to avoid the radiation that caused the American flag turned into white on the Moon?
+How can we move an object with zero velocity?
+When I stretch a rubber band, it breaks. When I hold the broken ends together, why doesn&#39;t it join again?
+What does periodicity of $e^{-iHt/\hbar}$ mean in physical terms?
+How would a black hole behave in a double slit experiment?
+Why are sine/cosine always used to describe oscillations?
+Building a wormhole
+Could a hard drive actually have been erased as described in Cryptonomicon?
+Why doesn&#39;t the LHC accelerate electrons?
+Which experiment gave scientists reason to believe nuclear fission/fusion produced energy?
+Why does a system try to minimize potential energy?
+Is the Uncertainty Principle valid for information about the past?
+Why does sand stick to my shoes?
+Trying to combine red, green and blue to produce white
+Are voltages discrete when we zoom in enough?
+Origin of phases in amplitudes in QFT
+Why is there a controversy on whether mass increases with speed?
+Can two electrons get ever so close as to touch each other?
+Why is the sky dark at night?
+How can Quasars emit anything if they&#39;re black holes?
+If I shout at the sky, will some molecules reach escape velocity?
+How did Kelvin make this fascinating calculation?
+How does lowering your thermostat save energy?
+How large can an atom get? What&#39;s the farthest an electron can be from its nucleus?
+How is potential energy actually stored in a steel spring at the atomic level?
+If your hair was on fire and you entered a vacuum, could you outlast the fire?
+Hourglass on the Moon
+Does the mass of an electron change with its &quot;energy state&quot;?
+How do microwaves heat moisture-free items?
+What&#39;s the difference between centre of mass &amp; centre of gravity for massive bodies?
+How can we take pictures of something billion of light years away?
+I was told that if the Moon had a retrograde orbit, tides would have a faster rhythm. Why is that?
+Why isn&#39;t the center of the galaxy &quot;younger&quot; than the outer parts?
+Why doesn&#39;t matter clump together such that it can&#39;t be taken apart again?
+Is speed of propeller-driven airplane limited by the speed of sound?
+How to show that the Coriolis effect is irrelevant for the whirl/vortex in the sink/bathtub?
+Is it possible that all neutron stars are actually pulsars?
+What ways are there to measure the local polarization of a laser beam?
+What determines the pitch of an explosion?
+Why is the nucleus of an Iron atom so stable?
+Linearity of quantum mechanics and nonlinearity of macroscopic physics
+What&#39;s the difference between inclusive and exclusive decays?
+Is the world $C^\infty$?
+Accelerating particles to speeds infinitesimally close to the speed of light?
+A pedestrian explanation of conformal blocks
+The Concepts of Path Integral in Quantitative Finance
+Kubo Formula for Quantum Hall Effect
+Is there such a thing as &quot;Action at a distance&quot;?
+Crash course on algebraic geometry with view to applications in physics
+What Do We Get From Having Higher Generations of Particles?
+What is a good mathematical description of the Non-renormalizability of gravity?
+Is Gravity an entropic force after all?
+Diff(M) as a gauge group and local observables in theories with gravity
+Physical meaning of Legendre transformation
+Time as a Hermitian operator in QM?
+Redshifting of Light and the expansion of the universe
+Disproof of Bell’s Theorem
+If energy is only defined up to a constant, can we really claim that ground state energy has an absolute value?
+Bell polytopes with nontrivial symmetries
+Does Quantum Mechanics assume space and time are continuous?
+Decay of massless particles
+Mechanics + Thermodynamics: Bouncing Ball
+What the heck is the sigma (f0) 600?
+How was Avogadro&#39;s number first determined?
+What is a brief formulation of string theory?
+Is this Landau&#39;s other critical phenomena mistake?
+How can area be a vector?
+What are the mechanics by which Time Dilation and Length Contraction occur?
+Is quantum mechanics intrinsically dualistic?
+Is decoherence even possible in anti de Sitter space?
+Quantum Field Theory Variants
+What is anti-matter?
+What errors would one learn from Eliezer Yudkowsky&#39;s introduction to quantum physics?
+Why do objects follow geodesics in spacetime?
+Recommend good book(s) about the &quot;scientific method&quot; as it relates to astronomy/astrophysics?
+What is a &quot;Trojan Moon&quot;?
+In astronomy what phenomena have theory predicted before observations?
+Why is oxygen the third most abundant element?
+Quantum computing and quantum control
+Is string theory local?
+Applications of delay differential equations
+Multiqubit state tomography by performing measurement in the same basis
+Relevance of SIC-POVMs to quantum information
+Paper listing known Seiberg-dual pairs of N=1 gauge theories
+Distorted colors of Google StreetView photographs near electric power lines
+Might a planet perform figure-8 orbits around two stars?
+What happens to matter in a standard model with zero Higgs VEV?
+The transit of Venus and solar neutrino rates
+Why is the second order perturbative correction to the ground state energy always down?
+Is there an intuitive description of vacuum entanglement?
+Phase shift of 180 degrees on reflection from optically denser medium
+Is there a sound theoretical argument against inner-shell induced nuclear chain reactions?
+How does a car turn without any skidding?
+Is there a thought experiment which brings to light the contradiction between General Relativity and Quantum Mechanics?
+Why don&#39;t rockets tip over when they launch?
+Introduction to AdS/CFT
+When is Lebesgue integration useful over Riemann integration in physics?
+What is the difference between weight and mass?
+Positivity of Total Gravitational Energy in GR
+Does the exact string theory $S$-matrix describe all physics there is?
+Is String Theory formulated in flat or curved spacetime?
+Homotopy $\pi_4(SU(2))=\mathbb{Z}_2$
+Why is boiling water the second time more quiet than boiling it the first time?
+Why are so many forces explainable using inverse squares when space is three dimensional?
+Why does the nature always prefer low energy and maximum entropy?
+Intuitive meaning of Hilbert Space formalism
+Why don&#39;t tuning forks have three prongs?
+Coulomb gauge fixing and &quot;normalizability&quot;
+How can the speed of light be a dimensionless constant?
+Comments on entropy and the direction of time in Landau and Lifshitz&#39;s Statistical Mechanics
+Can&#39;t seem to reconcile geometric optics and wave optics
+Representing forces as one-forms
+The interpretation of mass in quantum field theories
+Regulator-scheme-independence in QFT
+Does quantum computing rely on particular interpretations of quantum mechanics?
+Does the mass point move?
+Does an empty refrigerator require more power to stay cold than a full one?
+Why can&#39;t Humans run any faster?
+Is there a momentum for charge?
+Google interview riddle and scaling arguments
+Is my boss wrong about our mechanical advantage from our pulley system?
+Are Newton&#39;s &quot;laws&quot; of motion laws or definitions of force and mass?
+Why do nearsighted people see better with their glasses *rotated*?
+How would we see a near-lightspeed object emitting light?
+What does it mean for a QFT to not be well-defined?
+How to argue that time travel to past would not be possible even in future?
+In relativity, can/should every measurement be reduced to measuring a scalar?
+What is precisely a Yangian symmetry?
+Can Helium Disappear from Earth?
+Hilbert Space of (quantum) Gauge theory
+Can Lee-Yang zeros theorem account for triple point phase transition?
+If time isn&#39;t continuous, what is the best-known upper bound on the length of time intervals?
+Separability axiom really necessary?
+Do neutrinos travel faster than light in air?
+Hilbert, G&#246;del, and &quot;God equations&quot; - a 19th century lesson for 21st century physicists?
+In there such a thing as the Black Hole Information Paradox?
+Can space be torn?
+Why can&#39;t single LEDs produce white light directly?
+Does electron in wave form have mass?
+Why does sound travel faster in iron than mercury even though mercury has a higher density?
+Why not drop $\hbar\omega/2$ from the quantum harmonic oscillator energy?
+Why isn&#39;t general relativity the obvious thing to try after special relativity?
+Inflation and the Meaning of Time
+Why does a water drop on a hot plate at $150^o C$ evaporate faster than on a plate at $200^o C$?
+Why are only linear representations of the Lorentz group considered as fundamental quantum fields?
+Why are these periods the same: a low earth orbit and oscillations through the center of the earth?
+Evidence of why the Standard Model is a successful theory of particle physics
+Why is there no Gravitational Magnetic Field?
+Does extreme cold make **everything** extremely brittle?
+Explanation for this type of (magic-trick) suspension?
+Why should any physicist know, to some degree, experimental physics?
+A force opposing Gravity
+Is it a postulate or a well proven fact that speed of light remains constant w.r.t any observer?
+Does the heat equation violate causality?
+What would happen to matter if it was squeezed indefinitely?
+Can light emit light?
+What is an intuitive explanation of Gouy phase?
+How do physicists use solutions to the Yang-Baxter Equation?
+Is Newton&#39;s Law of Gravity consistent with General Relativity?
+Gravity on a doughnut-shaped/M&#246;bius planet
+Reciprocal Lattices
+Why does my watch act like a mirror under water?
+Which experiments prove atomic theory?
+Turned to steel in the great magnetic field
+Why does the (relativistic) mass of an object increase when its speed approaches that of light?
+Anti-gravity in an infinite lattice of point masses
+What evidence exists for string theory viability?
+What is the relation between renormalization in physics and divergent series in mathematics?
+What determines which frames are inertial frames?
+The transactional interpretation of quantum mechanics
+How many times has the &quot;stuff&quot; in our solar system been recycled from previous stars?
+Why are snowflakes symmetrical?
+Why is there more steam after a pot of water *stops* boiling?
+Redshifted Photon Energy
+Quantum Hall effect for dummies
+Good introductory text for matrix string theory
+History of Electromagnetic Field Tensor
+What combinations of realism, non-locality, and contextuality are ruled out in quantum theory?
+No hair theorem for black holes and the baryon number
+What&#39;s so special about AdS?
+Did the researchers at Fermilab find a fifth force?
+What are the best open-access journals in physics?
+Does renormalization make quantum fields into (slightly) nonlinear functionals of test functions?
+Applications of the Spectral Theorem to Quantum Mechanics
+How to define angular momentum in other than three dimensions?
+Mathematically, what is color charge?
+Is there any proof for the 2nd law of thermodynamics?
+How does one experimentally determine chirality, helicity, spin and angular momentum of a fundamental particle?
+How Does a Quantum Computer Work?
+Proving that interval preserving transformations are linear
+A reading list to build up to the spin statistics theorem
+Please explain the physics of a Cloud Chamber
+Is there some explanation for $y_t=1$
+Does a photon in vacuum have a rest frame?
+Simple (but wrong) argument for the generality of positive beta-functions
+How fast do electrons travel in an atomic orbital?
+Is a world with constant/decreasing entropy theoretically impossible?
+What does Peter Parkers formula represent?
+Ignorance in statistical mechanics
+Is the EmDrive, or &quot;Relativity Drive&quot; possible?
+What is Dark Energy, and how was it discovered?
+What do the colors in false color images represent?
+Observing lunar lander and footprints on the moon?
+Why is Uranus&#39;s axis of rotation tilted?
+When will the Moon reach escape velocity?
+Impact location that created the moon
+What to show a beginner
+Can the &quot;Milky Way&quot; galaxy be seen by the naked eye in a clear sky?
+Why are stars, planets and larger moons (approximately) spherical in shape (like, the Sun, the Moon, the Earth, and other planets)?
+Why don&#39;t any of the gas giants have moons of Earth&#39;s mass (or greater) that orbit them? Is this generalizable to exoplanet gas giants?
+Which way do spiral galaxies rotate?
+Can neutrino detectors tell what direction the neutrinos came from?
+What is the average distance between objects in our asteroid belt?
+Does gravity travel at the speed of light?
+Miura transform for W-algebras of exceptional type
+What is a good introduction to integrable models in physics?
+Instantons and Non Perturbative Amplitudes in Gravity
+Information Retrieval
+Is there a Majorana-like representation for singlet states?
+Tree level QFT and classical fields/particles
+Onsager&#39;s Regression Hypothesis, Explained and Demonstrated
+What is a simple intuitive way to see the relation between imaginary time (periodic) and temperature relation?
+Why can&#39;t noncontextual ontological theories have stronger correlations than commutative theories?
+Geometric quantization of identical particles
+Which QFTs were rigorously constructed?
+Generalized Complex Geometry and Theoretical Physics
+Does Kaluza-Klein theory successfully unify GR and EM? Why can&#39;t it be extended to the Standard Model gauge group?
+How do I construct the $SU(2)$ representation of the Lorentz Group using $SU(2)\times SU(2)\sim SO(3,1)$ ? 
+Lenses (refractor) or mirrors (reflector) telescope?
+Why do people recommend wider tyres in car for better road grip?
+What are these rays that appear in photograph of sun?
+Self energy, 1PI, and tadpoles
+Symmetrizing the Canonical Energy-Momentum Tensor
+How realistic is the game &quot;A slower speed of light&quot;?
+Interpretation of derivative interaction term in QFT
+How can kinetic energy be proportional to the square of velocity, when velocity is relative?
+Why don&#39;t I feel pressure on my body when swimming under water?
+How does rest mass become energy?
+Dumbed-down explanation how scientists know the number of atoms in the universe?
+How is quantum mechanics compatible with the speed of light limit?
+If the ground states of interacting QFTs are so complicated, how did Nature find them?
+Could temperature have been defined as $-\partial S/\partial U$?
+Thought experiment regarding an object approaching a mirror
+What would happen if Large Hadron Collider would collide electrons?
+Can a photon get emitted without a receiver?
+In what sense is a scalar field observable in QFT?
+Are Neutron stars transparent?
+Your Mass is NOT from Higgs Boson
+Why can&#39;t supersonic planes &quot;just fly higher&quot; to go faster while maintaining cost?
+Does the existence of Higgs imply the existence of Magnetic Monopoles?
+How does a sponge &quot;suck&quot; up water against gravity?
+Gauge fields -- why are they traceless hermitian?
+Is the Ground State in QM Always Unique? Why?
+Can the Hubble constant be measured locally?
+Why doesn&#39;t my house get misty?
+Does a magnetically suspended frog feel weightless?
+Accidental, unplanned breakthroughs in physics
+Can matter really fall through an event horizon?
+Isn&#39;t gravity non-local and non-causal?
+What is so special about speed of light in vacuum?
+Why isn&#39;t absolute $0 K$ temperature possible?
+Why are Only Real Things Measurable?
+Why Cronin Effect Happens?
+How can space and time arise from nothing?
+Why does a star collapse under its own gravity when the gravity at its centre is zero?
+What would happen to wet laundry in the vacuum of space?
+Classical and quantum probabilities in density matrices
+Why do speed skaters use their right hand to accelerate?
+Best Sets of Physics Lecture Notes and Articles
+Is there a limit to acceleration?
+What is potential energy truly?
+Is the flow of time regular?
+Why doesn&#39;t breath condense around poop of flies on the window&#39;s glass?
+Soliton Moduli Spaces and Homotopy Theory
+How fast would a truck have to go to pull a pedestrian onto the road?
+The Lagrangian as a metric
+Why isn&#39;t jumping from a high altitude fatal?
+Wouldn&#39;t angular momentum of a binary star system decrease?
+What is charge?
+What&#39;s the physical meaning of the imaginary component of impedance?
+What happens in a car crash?
+Global Properties of Spacetime Manifolds
+Where&#39;s the missing helium in the Universe?
+How intense a magnetic field would it take to keep an hypothetical iron-made moon orbiting around it?
+Why do we need high energy to explore small dimensions?
+Why does my infrared thermometer say the sky is at -2 &#176;C?
+Does a man on the moon experience day?
+Are the fast axes on Thorlabs quarter-waveplates mislabeled?
+Why do bubbles make a sound?
+Pool in a submarine
+Why is Huygens&#39; principle only valid in an odd number of spatial dimensions?
+Is the Standard Model consistent (UV complete)?
+Is the Big Bang defined as before or after Inflation?
+Why do I always hear remote train horn at night?
+How to tell that the electromagnetic field tensor transforms as a tensor?
+Why do electrons in an atom occupy only the stationary states?
+A Theorem Due to Hodge: Hawking/Ellis
+Is there any antimatter that exists as atoms?
+Topology of phase space
+How fast would someone have to run to travel vertically up a wall?
+What is the entropy of a pure state?
+How does the concept of a &quot;black body&quot; make any sense?
+Why is stress a tensor quantity?
+What was the entropy of the universe at the time of the Big Bang?
+Could we make things out of newly discovered particles?
+What happens before a radioactive element decays?
+Zero velocity, zero acceleration?
+Is it possible to watch the same distant star&#39;s supernova event twice?
+Does leaning (banking) help cause turning on a bicycle?
+What are good mechanics experiments for 10 year olds?
+Would it help if you jump inside a free falling elevator?
+Is energy really conserved?
+Is the G2 Lie algebra useful for anything?
+Swimming in Spacetime - apparent conserved quantity violation
+Can a superconducting wire conduct unlimited current?
+What&#39;s the difference between helicity and chirality?
+How can you focus sound?
+Why is the mapped universe shaped like an hourglass?
+Deriving the speed of the propagation of a change in the Electromagnetic Field from Maxwell&#39;s Equations
+What reasons are there to suspect string theory may be an incorrect theory?
+Is time travel possible? Is it possible to go back in time?
+Electrons faster than speed of light
+How long will the Universe&#39;s hydrogen reserves last for?
+Shine a light into a superconductor
+Energy conservation in General Relativity
+What is the difference between thermodynamics and statistical mechanics?
+What is the symmetry which is responsible for conservation of mass?
+Shape of the universe?
+What is a resonating valence bond (RVB) state?
+Has the black hole information loss paradox been settled?
+Does any particle ever reach any singularity inside the black hole?
+Popular depictions of electromagnetic wave: is there an error?
+Is the Planck length Lorentz invariant?
+How to avoid getting shocked by static electricity?
+Significance of the second focus in elliptical orbits
+&quot;Velvet way&quot; to Grassmann numbers
+How Non-abelian anyons arise in solid-state systems?
+Arguments for and against Many Worlds?
+Why are Saturn&#39;s rings so thin?
+What is the electric field generated by a spinning magnet?
+Does GR provide a maximum electric field limit?
+Is it possible to work on physics independently outside academia?
+Energy conservation and interference
+Why there&#39;s a whirl when you drain the bathtub?
+How many qubits are needed for useful computation?
+What is the definition of how to count degrees of freedom?
+How can I understand counterintuitive units like $\text{s}^2$?
+Does the Unruh effect violate Mach&#39;s principle?
+Is Shor&#39;s algorithm a demonstration of the many worlds interpretation?
+Home-made lattice calculation?
+Why does the road look like it&#39;s wet on hot days?
+Are all electrons identical?
+When is the Hamiltonian of a system not equal to its total energy?
+What does a frame of reference mean in terms of manifolds?
+Particle physics plots
+How Earth communicates with Voyager I?
+Why does the weighing balance restore when tilted and released
+Home experiments to measure the RPM of a pedestal fan without special equipment?
+What is the physical significance of dot &amp; cross product of vectors? Why is division not defined for vectors?
+How is the Saddle point approximation used in physics?
+How strong of magnetic field would noticibly attract a person?
+Why does my refrigerator door resist opening?
+Can two spaceships go fast enough to pass straight through each other?
+Why doesn&#39;t water come out of tap/faucet at high pressure when I turn it on?
+Good book on the history of Quantum Mechanics?
+Why can&#39;t General Relativity be written in terms of physical variables?
+What is the physical meaning of a &quot;complete&quot; Hilbert space in QM?
+Deriving the Lagrangian for a free particle
+Macroscopic laws which haven&#39;t been derived from microscopic laws
+Is the Avogadro&#39;s constant equal to one?
+What exactly is the difference between advection and convection?
+What is the probability that a star of a given spectral type will have planets?
+What is meant when it is said that the universe is homogeneous and isotropic?
+Why does each celestial object spin on its own axis?
+What open-source n-body codes are available and what are their features?
+Are the Voyager probes still sending us a signal ?
+Is there evidence of a larger universe?
+Why do we always see the same side of the Moon?
+Telescope for 6 year old and dad new to astronomy
+Has everything we see happened in the past?
+Do all the individual stars that we can see in the night sky belong to Milky Way?
+Why are spacecraft made to &quot;spin&quot; after launch?
+What percent of planets are in the position that they could be viewed edge-on from Earth? (and thus able to undergo transits)
+Given that matter cannot escape a black hole, how did the big bang produce the universe we see today?
+How far would you need to displace your eyes to get meaningful depth perception of the stars?
+What if our Sun were located in the middle of a globular cluster?
+What is Hawking radiation and how does it cause a black hole to evaporate?
+Why Aren&#39;t Saturn&#39;s Rings Clumping into Moons?
+Why is Jupiter so sharply defined?
+Counting complete sets of mutually unbiased bases composed of stabilizer states
+6d Massive Gravity
+What Hermitian operators can be observables?
+Applications of Geometric Topology to Theoretical Physics
+Sampling typical clusters between distant points in subcritical percolation
+Phase Transition in the Ising Model with Non-Uniform Magnetic Field
+Why isn&#39;t the Gear predictor-corrector algorithm for integration of the equations of motion symplectic?
+Calculating correlation functions of exponentials of fields
+Which CFTs have AdS/CFT duals?
+Monte Carlo integration over space of quantum states
+Do Gauge Theories (CFTs) Have Phase Transitions as the &#39;t Hooft Coupling is Varied?
+How is the logarithmic correction to the entropy of a non extremal black hole derived?
+Would time freeze if you could travel at the speed of light?
+PhD Research Areas in String Theory
+Does the mass of a battery&#39;s change when charged/discharged?
+Reversing gravitational decoherence
+Why and how will we be able to image extraterrestrial planets in the next two decades?
+What is the physical meaning of the action in Lagrangian mechanics?
+What came first, Rice Crispy or &quot;Snap,&quot; &quot;Crackle,&quot; and &quot;Pop&quot;?
+Reading list in topological QFT
+Why does no physical energy-momentum tensor exist for the gravitational field?
+Does the axiom of choice appear to be &quot;true&quot; in the context of physics?
+Does Fire Conduct Electricity? Why?
+Multi-loop beta function of gauge theory (*without* Feynman diagrams)
+Why isn&#39;t temperature measured in units of energy?
+Why can&#39;t there be a trap door under nuclear reactors in case of meltdown?
+Optical equivalent of a superconductor
+Limitations on how far one can travel in the universe
+Is there some way to narrow down the Leidenfrost point for water?
+Is the normal force a conservative force?
+In QFT, why does a vanishing commutator ensure causality?
+Spontaneous breaking of Lorentz invariance in gauge theories
+Why does string not wick down?
+I don&#39;t understand what we really mean by voltage drop
+Can light waves cause beats?
+Why on-shell vs. off-shell matters?
+Equation describing magnetic hysteresis
+Classical results proved using quantum mechanics
+Infrared-free QED and Higgsless standard model phenomenology
+Modelling the movement and jumps of a chalk while drawing a dashed line on a blackboard
+Does relativistic mass have weight?
+Is period of rotation relative?
+Discreteness of set of energy eigenvalues
+Difference between $\Delta$, $d$ and $\delta$
+Origin of Ladder Operator methods
+Is Biot-Savart law obtained empirically or can it be derived?
+What is the evidence for the super-rotation of Earth&#39;s inner core?
+Fundamental Representation of $SU(3)$ is a complex representation
+Why is it often assumed that particles are found in energy eigenstates?
+Are these sunglass lenses linearly polarized or what?
+Why do clouds form in lumps?
+GHz rate single photon counting
+Newtonian gravity from the holographic principle?
+Fundamental question about the Buckingham $\pi$ theorem (dimensional analysis)
+Why doesn&#39;t the no-cloning theorem make lasers impossible?
+How did Newton discover his third law of motion?
+Do low frequency sounds really carry longer distances?
+Is the flatness of space a measure of entropy?
+Is the total energy of earth changing with time?
+Do accelerated charges radiate or not?
+How would neutron matter appear to the naked eye?
+about the Atiyah-Segal axioms on topological quantum field theory
+What does a $SU(2)$ doublet really mean?
+What is the conclusion from Aharonov-Bohm Effect?
+How can stars make up 0.5% of whole universe?
+What are functions of a complex variable used for in physics?
+Is there any way to annihilate matter without the use of anti-matter?
+Are there forces which do not involve a change in momentum?
+Explicit supersymmetry breaking fermion mass terms
+Equivalence between Hamiltonian and Lagrangian Mechanics
+Would you see a rainbow from refraction when the sun is in front of you?
+Chirality, helicity and the weak interaction
+What&#39;s the relationship between $SL(2,\mathbb{C})$, $SU(2)\times SU(2)$ and $SO(1,3)$?
+Can He-4 atoms create black holes?
+How can a star emit light if it is in Plasma state?
+Why isn&#39;t it $E \approx 27.642 \times mc^2$?
+Alternatives to electromagnetism for communication?
+Why do turbine engines work?
+Is darkness really light?
+Why does one get an illusion as moon following him?
+Uncertainty principle - momentum so precise that uncertainty of position is outside light-cone?
+Why is the computer useful if a chaotic system is sensitive to numeric error?
+Is the frequency of light restricted?
+Quantum symmetries that are not classical symmetries
+Is it possible to 3D print a mirror to create a high quality telescope?
+NASA&#39;s &quot;Impossible&quot; Space Engine
+A Sphere of Black Holes
+Can someone please qualitatively explain unitary group from a physics perspective?
+What problems with Electromagnetism led Einstein to the Special Theory of Relativity?
+The natural metric of a phase space and the Lyapunov exponent
+Why is the shape of lightning or an electric spark a zig-zag line?
+Does gravity affect magnetism, vice-versa, or do they &quot;ignore&quot; each other?
+Underdetermined forces in a statics problem
+What mechanism is responsible for the creation of these dunes on Comet 67P/Churyumov-Gerasimenko?
+Which hemisphere am I on?
+How would one detect antihydrogen in the universe?
+How is anything *not* ultimately a position measurement?
+Does anyone know the mechanism behind this double helix cloud formation?
+When passed, why does my car &#39;rock&#39; on the highway when I&#39;m stopped, but not when I&#39;m moving?
+What is the most compelling evidence of General Relativity in the presence of matter and energy?
+Difference between spin and polarization of a photon
+What is &quot;special&quot; and what is &quot;general&quot; in Relativity?
+Why are electromagnetic waves not able to pass through a hole with a diameter smaller than the wavelength?
+Does the diffracted electron radiate photons?
+Throwing an object around the Earth. Is it possible?
+How to experimentally reconstruct Maxwell&#39;s equations from scratch
+Meaning of an image on Feynman&#39;s shirt
+&quot;Reality&quot; of EM waves vs. wavefunction of individual photons - why not treat the wave function as equally &quot;Real&quot;?
+Why is the bottom part of a candle flame blue?
+How much do we float in atmosphere?
+Why is Terahertz radiation so hard to generate?
+When heat is applied to the top of a stack of pennies, why does the bottom penny melt first?
+Bell in a vacuum, where does the sound energy go?
+Can quaternion math be used to model spacetime?
+Why doesn&#39;t the evening/morning sun feel much hotter on your face?
+Speed of neutrinos
+Would wearing clothing that is black on the inside and white on the outside keep you cooler?
+What is a general definition of impedance?
+Mathematics of AdS/CFT
+Particle wavefunction and gravity
+Why can&#39;t CO$_2$ mix back with the liquid after a soda bottle has been shaken?
+Is kinetic energy a relative quantity? Will it make inconsistent equations when applying it to the conservation of energy equations?
+Searching books and papers with equations
+Nonlinear optics as gauge theory
+Can a web community write papers?
+Where is the Atiyah-Singer index theorem used in physics?
+If the observable universe were compressed into a super massive black hole, how big would it be?
+How does a photon travel through glass?
+Is colour, as represented using primary colours, accurate only to humans?
+Condensed matter application of AdS/CFT
+Ring theory in physics
+Aspherical lenses
+The exchange of photons gives rise to the electromagnetic force
+Why do rockets have multiple stages?
+Why the vacuum polarization does not decrease the speed of light?
+Why do leptons and quarks mix?
+Vortex in liquid collects particles in center
+What is the world&#39;s biggest Schrodinger cat?
+Is there a maximum possible acceleration?
+Virtual photon description of B and E fields
+Why were space physicists wrong about the location of the heliopause?
+Newton&#39;s Bucket
+Is the S-Matrix the only quantum field observable?
+How to explain the weak force to a layman?
+Why $F=ma$ and not $F=m\dot{a}$?
+Can a single classical particle have any entropy?
+Why two objects get charged by rubbing?
+Why do physicists believe that there exist magnetic monopoles?
+What is the need for the Higgs mechanism and electroweak unification?
+What are the alternatives to the Higgs mechanism?
+How slow is a reversible adiabatic expansion of an ideal gas?
+Graphene and Klein bottle?
+What are the uses of Hopf algebras in physics?
+Are elementary particles ultimate fate of black holes?
+How to calculate the upper limit on the number of days weather can be forecast reliably?
+Matter-Antimatter Asymmetry in Experiments?
+Does hot air really rise?
+Acceleration in special relativity
+Long time deviations from exponential decay in radioactivity
+&quot;Speed&quot; of Gravity and Speed of Light
+Since radioactive material decays how is it possible that there is any left after 4.5 billion years?
+How can there be net linear momentum in a static electromagnetic field (not propagating)?
+How much is quantum computation changing the interpretation of quantum theory, and, if at all, how?
+Brachistochrone problem in general relativity
+Phase shifts in scattering theory
+Einstein&#39;s box - unclear about Bohr&#39;s retort
+Are there examples in classical mechanics where D&#39;Alembert&#39;s principle fails?
+What is the current status of the anomalous  muon magnetic moment?
+115 GeV, 170 GeV, and the noncommutative standard model
+What is the Physical Meaning of Commutation of Two Operators?
+Why does the moon drift away from earth?
+Would a submarine float in the atmosphere of Jupiter?
+Helicopter in an Elevator
+Is it pions or gluons that mediate the strong force between nucleons?
+The meaning of action
+Do quantum states contain exponentially more information than classical states?
+What does the ordering of creation/annihilation operators mean?
+Double light speed
+Can energy be taken out of the QFT vacuum?
+How does paper make sound when it is torn?
+What is the fundamental reason of the fermion doubling?
+Why do nuclear bombs make a mushroom?
+The entropic cost of tying knots in polymers
+The philosophy behind the mathematics of quantum mechanics
+Books that every layman should read
+Where the angular momentum has gone?
+How come random matrices can predict energy spectra of heavy atoms?
+In dimensional analysis, why the dimensionless constant is usually of order 1?
+Physics of Focusing a Laser
+Why does light change direction when it travels through glass?
+What are the details around the origin of the string theory?
+Definite Parity of Solutions to a Schr&#246;dinger Equation with even Potential?
+Equivalence of canonical quantization and path integral quantization
+How are neutrino beams emitted at CERN?
+Is Melancholia&#39;s orbit impossible?
+Entropy of radiation emitted into space
+Does the rotation of the earth dramatically affect airplane flight time?
+Energy is actually the momentum in the direction of time?
+Does a Weak Energy Condition Violation Typically Lead to Causality Violation?
+Difference between 1PI effective action and Wilsonian effective action?
+Is there a limit to the resolving power of a mirror telescope?
+Can you magnetize iron with a hammer?
+QM and Renormalization (layman)
+Could LEP II have discovered a 125GeV Higgs?
+Wick rotation and spinors
+What longest time ever was achieved at holding light in a closed volume?
+What is a general definition of the spin of a particle?
+Space-time in String Theory
+How are newly discovered objects (stars, planets, galaxies...) named?
+How do you respond to questions like &quot;Have you ever observed a UFO?&quot;
+Is the length of the day increasing?
+What is the largest observed celestial body?
+If I shine a bright light on a neutron star, what would it look like?
+Renormalization in string theory
+Topological twists of SUSY gauge theory
+SuperHiggs Mechanism on different Backgrounds &amp; Compactifications
+Local Fermionic Symmetry
+Decoherence and measurement in NMR
+What is the Holevo-Schumacher-Westmoreland capacity of a Pauli channel?
+Possible research implications of proof of John Cardy&#39;s a-theorem in QFT
+Physical interpretation of superstrings
+Uniqueness of supersymmetric heterotic string theory
+Lagrangian for Euler Equations in general relativity
+Instanton Moduli Space with a Surface Operator
+Normalization of the Chern-Simons level in $SO(N)$ gauge theory
+Applications of the Feynman-Vernon Influence Functional
+realization of: CFT generating fuction = AdS partition function
+Other processes than formal power series expansions in quantum field theory calculations
+Quantum memories: What are they?
+Status of local gauge invariance in axiomatic quantum field theory
+A resource theory of quantum discord?
+Backward causality: A question/extension to Ma et al.&#39;s &quot;Experimental delayed-choice entanglement swapping&quot;
+Why is exhaling more forceful than inhaling?
+Why is a black hole black?
+Is there an easy way to show that $x^2-t^2=1/g^2$ for a (relativistic) body undergoing acceleration g?
+How to get Planck length
+Why is there no dynamics in 3D general relativity?
+What is Motivic mathematics and how is it used in physics?
+What tree-level Feynman diagrams are added to QED if magnetic monopoles exist?
+Why position is not quantized in quantum mechanics?
+Relation among anomaly, unitarity bound and renormalizability
+How do you start self-learning physics
+Bound states in QCD: Why only bound states of 2 or 3 quarks and not more?
+Does the speed of light vary in noninertial frames?
+$\lambda=\frac{2h}{p}$ instead of $\lambda=\frac{h}{p}$?
+Why does a cuboid spin stably around two axes but not the third?
+A good, concrete example of using &quot;chaos theory&quot; to solve an easily understood engineering problem?
+If gauge symmetries are fake, then why do we care if they are anomalous?
+What percentage of the sky is occluded by stars?
+Is there a deep reason why springs combine like capacitors?
+Tried to do the double slit experiment, failed. Why?
+Do intergalactic magnetic fields imply an Open Universe?
+From how high could have Felix Baumgartner jumped without disintegrating like a shooting star?
+Did Felix Baumgartner produce a sonic boom during his jump?
+Chemical reaction as state transition?
+Is it possible to travel at precisely the speed of sound?
+Is flying really easier on smaller scales?
+James Webb Space Telescope&#39;s halo orbit at Lagrange point L2
+What is the highest possible frequency for an EM wave?
+Intuition for multiple temporal dimensions
+How to explain (pedagogically) why there is 4 spacetime dimensions while we see only the 3 spatial dimesions?
+Is the time reversed laser really a laser?
+Why is Near Field Communication (NFC) range limited to about 20cm?
+Octave equivalence: biological or more?
+Is Pauli-repulsion a &quot;force&quot; that is completely separate from the 4 fundamental forces?
+What is the physical interpretation of the S-matrix in QFT?
+Origin of lepton/quark generations?
+To which extent is general relativity a gauge theory?
+Quantum field theories with asymptotic freedom
+Extremal black hole with no angular momentum and no electric charge
+The definition of an inertial reference frame in Einstein&#39;s relativity
+What causes an aircraft to roll when rudder is applied
+How does liquid in a ball affect its rotational acceleration down a ramp?
+Can path integrals be used to understand entanglement?
+An example which contradict to Newton&#39;s 3rd law?
+What is (meant by) a non-compact $U(1)$ Lie group?
+What is $\Delta t$ in the time-energy uncertainty principle?
+How does a photon experience space and time?
+Is the uncertainty principle just saying something about what an observer can know or is it a fundamental property of nature?
+Why one-dimensional strings, but not higher-dimensional shells/membranes?
+Do mankind and manmade activities/constructions have any effect on the rotation of the Earth?
+Difference between theoretical physics and mathematical physics?
+What is the mystery of turbulence?
+What really are superselection sectors and what are they used for?
+Gauge invariance and diffeomorphism invariance in Chern-Simons theory
+Why does the speed of light $c$ have the value it does?
+How to tackle &#39;dot&#39; product for spin matrices
+What is the mathematical reason for topological edge states?
+What does the sum of two qubits tell about their correlations?
+Why does the Boltzmann factor $e^{-E/kT}$ seem to imply that lower energies are more likely?
+What is the current state of research in quantum gravity?
+Can we measure an electromagnetic field?
+What do people actually mean by &quot;rolling without slipping&quot;?
+Is the meander ratio of a river $= \pi$?
+Noether charge of local symmetries
+Born rule for photons: it works, but it shouldn&#39;t?
+Why is Standard Model + Loop Quantum Gravity usually not listed as a theory of everything
+Can one black hole suck in another black hole?
+What are the local covariant tensors one can form from the metric?
+How should I clean a part before installing it in a vacuum system?
+A water pipe from sea level to beyond the atmosphere
+Why don&#39;t planets have Circular orbits?
+How is graphene a 2D substance?
+How small can you be and still hear?
+Why does nonlinearity in quantum mechanics lead to superluminal signaling?
+Why planes have propellers in front but watercraft have them behind?
+Current status of Penrose-Hawking &quot;thunderbolts?&quot;
+Proof that Our Planet is 1D
+First and second order phase transitions
+Can we quantize Aristotelian physics?
+Does this type of phase transition exist?
+How Come gravity doesn&#39;t affect itself?
+Why are all force particles bosons?
+Can the magnetic lines of force of two or more magnets intersect each other?
+Can a discrete dynode mass spec detector get &quot;tired?&quot;
+Is the &quot;Doctor Who&quot; spacetime affected by Hawking&#39;s chronology protection mechanism?
+Dark matter and SO(10) grand unification
+Is it only the Higgs field that stops me from getting to $c$?
+Why is there no permittivity-type constant for gravitation?
+Euclidean derivation of the black hole temperature; conical singularities
+Can we &quot;trivialize&quot; the equivalence between canonical quantization of fields and second quantization of particles?
+Winter solstice, sunrise and sunset time
+How does one measure space-like geodesics? Or: What is the physical interpretation of space-like geodesics?
+What is the physics of a spinning coin?
+Interpretation of &quot;transition rate&quot; in Fermi&#39;s golden rule
+Physics the Why vs. How question?
+How to freeze the Niagara waterfalls?
+How is it possible that quantum phenomenons (e.g. superposition) are possible when all quantum particles are being constantly observed?
+What is the current physical theory of what causes the &#39;Morning Glory&#39; roll cloud over Northern Australia?
+Looking for the actual reason of refraction explained precisely without analogies
+How to prove that a spacetime is maximally symmetric?
+Is there a general law for physics?
+Why is it easier to break a tightened or stretched string than a loose one?
+Why is QM maximally predictive?
+First-order wave equation: Why is its presence not common?
+Why is the Symmetry Group for the Electroweak force $SU(2) \times U(1)$ and not $U(2)$?
+Phase factors under rotations of strong and weak isospin
+Suggested reading for quantum field theory in curved spacetime
+Would an airplane flying through superfluid helium experience lift and drag?
+What makes now special?
+Self-dual Maxwell equations, the second homology group, and topological invariants of a four manifold
+Noether&#39;s theorem and gauge symmetry
+What limitations are there in measuring physical properties accurately?
+Force as change in momentum vs. change in velocity
+Spallation neutron generation and pure U-238 reactors
+Why do all elements above $\require{mhchem}\ce{Fe}$ not decay to $\ce{Fe}$?
+What are the alternative theories of dark energy? ($w \neq -1$)
+O(N) sigma model at large N
+what is this force that is able to surpass an entire planet&#39;s force on it?
+Car headlights glass - why such uneven shape/texture?
+Is speed of light and sound rational or irrational in nature?
+Is the future already determined?
+As the universe expands, the wavelengths of photons are stretched, and energy is lost. What about electrons?
+Determine if Theory is Unitary from Lagrangian
+Why doesn&#39;t a tied balloon behave like a pendulum?
+List of known universality classes
+How Earth protected from the gamma rays generated by Sun?
+What is the theoretical lower mass limit for a gravitationally stable neutron star?
+Doesn&#39;t entropy increase backwards in time, too?
+Coulomb&#39;s Law in the presence of a strong gravitational field
+Interpretation of a singular metric
+Wave/particle-duality as result of taking different limits of a QFT
+Connections between classical mechanics and quantum mechanics
+Which ball falls faster, the cool one or the hot one?
+Unfurling a toilet paper roll in the ISS
+Are &quot;echo&quot; explosions near Earth realistic?
+What is a reasonably accurate but simple model of the Milky Way&#39;s gravitational field?
+Why is spacetime not Riemannian?
+Why does my fireplace shoot flames out the front until I open my backdoor?
+What is a Manifold?
+In an electron-positron annihilation, in what direction are the photons released?
+Is $0\,\mathrm{m}$ dimensionless?
+Does it take more energy to open a door when applying force close to the hinge?
+Where do magnets get the energy to repel?
+Is quantum entanglement mediated by an interaction?
+Book about classical mechanics
+What are some useful ways to imagine the concept of spin as it relates to subatomic particles?
+How are the northern lights produced?
+Software for physics calculations
+The Many Body problem
+What are the most fundamental assumptions of quantum mechanics?
+Is it possible to project a magnetic field at a location in space?
+How to sail downwind faster than the wind?
+A water drop in vacuum
+What&#39;s keeping us from simply redefining Avogadro&#39;s Number / the Mole as a definite integer?
+Waves in water always circular
+How efficient is an electric heater?
+Why are quark types known as flavors?
+Coulomb force in SI and cgs
+Theoretical Physics - How to?
+How can one find the energy eigenfunctions of a particle in a finite square well via the Klein-Gordon equation?
+Can magnets rotate infinitely?
+Does &#39;electricity&#39; have mass? Is &#39;electricity&#39; tangible?
+Why are materials that are better at conducting electricity also proportionately better at conducting heat?
+What is the difference which leads to attraction in e+e- scattering and repulsion in e-e- scattering in QFT
+Tesla&#39;s theory of gravity
+Best (most realistic) physics game?
+Did time exist before the creation of matter in the universe?
+Is randomness deterministic?
+Do high/low pass lenses exist?
+The final death of a black hole
+What is the conserved quantity of a scale-invariant universe?
+If two ultra-relativistic billiard balls just miss, will they still form a black hole?
+Can spacetime be non-orientable?
+Why is a plastic bag transparent in infrared light?
+Shape of the Higgs branching ratio to ZZ
+Age of the Earth and the star that preceded the Sun
+What is the net charge of the Earth?
+Meaning of the anti-commutator term in the uncertainty principle
+Experimental evidence of a fourth spatial dimension?
+What does John Conway and Simon Kochen&#39;s &quot;Free Will&quot; Theorem mean?
+Are we living in a false vacuum? Is there any way to tell?
+Can pure maths create new theories in physics or does the &quot;idea&quot; ALWAYS come before the math?
+trying to understand Bose-Einstein Condensate (BEC)
+Why is there a search for an exchange particle for gravity?
+Is there any way to distinguish experimentally gauge mediation from gravity mediation in an unambiguous way?
+Spinning Tachyons
+References about rigorous thermodynamics
+What happens when a black hole and an &quot;anti-black-hole&quot; collide?
+Electricity takes the path of least resistance?
+Why are so many condensed matter phenomena so dependent upon impurities?
+Why is there a breakdown in Kolmogorov scaling in turbulence?
+When lasers are used to cool atoms or ions, etc where does the heat go?
+dynamic casimir effect
+What is Euler Density?
+Phonons in non-crystalline media
+How do we know that some radioactive materials have a half life of millions or even billions of years?
+Perturbation theory with degeneracy even after 1st order
+Online physics collaboration tools
+Beginners questions concerning Conformal Field Theory
+An unfamiliar way of writing supersymmetry transformations
+Vasiliev gravity and &quot;holographic&quot; entanglement
+Why can&#39;t light escape from a classical black hole?
+Why do all the planets of the solar system orbit in roughly the same 2D plane?
+How often does nuclear fusion occur within the human body?
+How do I correctly interpret $\rho = \psi_1^* \psi_2$?
+Why is the contribution of a path in Feynmans path integral formalism $\sim e^{(i/\hbar)S[x(t)]}$
+jumping into water
+What exactly is meant by the &quot;Gaussianity&quot; of CMBR?
+Discontinuities and nondifferentiability in thermodynamics
+Is there a fundamental reason why gravitational mass is the same as inertial mass?
+Why is there a flux of radiation in the Hawking effect but not in the Unruh effect? (and other questions)
+Making symmetry between E and B fields manifest in Lagrangian
+Protons&#39; repulsion within a nucleus
+Why does gravity need to be quantised?
+Can the speed of light become complex inside a metamaterial?
+What does it mean to say that the electron is a near-perfect sphere?
+Will the night sky eventually be bright?
+What does it mean that the neutral pion is a mixture of quarks?
+Alejandro Rivero&#39;s correspondence: diquarks and mesons as superpartners of quarks and leptons
+Hydrogen as a fuel in Sun
+Is spacetime simply connected?
+Solving Schr&#246;dinger&#39;s equation with Crank-Nicolson method
+Why is electricity not transmitted wirelessly?
+Feynman diagrams in effective theories
+What are the mathematical problems in introducing Spin 3/2 fermions?
+Examples where an ill-behaved function leads to surprising results?
+So, no Higgs boson then?
+Is there a way to directly observe the spin texture of the surface states of topological insulators?
+Cleaning Already Mounted Microspheres on an AFM
+How long does a permanent magnet remain a magnet?
+Distribution of Dark Matter around galaxies
+What is the difference between electric potential, potential difference (PD), voltage and electromotive force (EMF)?
+Could this model have soliton solutions?
+What are some predictions from string theory that say some crystalline materials &quot;will end up in one of many lowest-energy ground states?&quot;
+Hypercharge for $U(1)$ in $SU(2)\times U(1)$ model
+Can there be black light? I mean is it possible to devise a machine that outputs darkness?
+What objective criteria distinguish between valid science, fringe science and pseudoscience in physics?
+Is the spring constant k changed when you divide a spring into parts?
+units and nature
+Is it possible to recover Classical Mechanics from Schr&#246;dinger&#39;s equation?
+What are bootstraps?
+How does gravity work underground?
+What exactly is a quantum of light?
+Deterministic quantum mechanics
+Does the scientific community consider the Loschmidt paradox resolved? If so what is the resolution?
+Does the Banach-Tarski paradox contradict our understanding of nature?
+Thermodynamics of supercooled water
+How would a black hole power plant work?
+Occurrence of turbulences in Fluid Dynamics from the equations of motion?
+Do particles have different spins in different frames of reference?
+How do we know that nonperturbative canonical quantum gravity is wrong?
+What is the proof that the universal constants ($G$, $\hbar$, $\ldots$) are really constant in time and space?
+Does it take significantly more fuel to fly a heavier airplane?
+Bell&#39;s theorem and why nonlocality is problematic
+A simple pendulum moving at a relativistic speed - how does the period change?
+Why don’t photons interact with the Higgs field?
+Is there an upper frequency limit to ultrasound?
+What are the limitations of the superspace formalism?
+Is the energy conserved in a moving frame of reference?
+Will an emf be induced across the ends of a stationary metal rod placed in a time-varying magnetic field?
+Which is the strongest meteor shower expected in the next years in the Northern hemisphere?
+What is the most distant object from the Earth that a spacecraft has visited to date?
+Does Earth have a code name?
+How does a comet form?
+What is the current status of Pluto?
+Can we observe changes in the fine-structure constant?
+Is there evidence of dark matter in our galaxy?
+If neutrinos travel faster than light, how much lead time would we have over detecting supernovas?
+Anti-Matter Black Holes
+How are interplanetary trajectories found?
+Is it safe to observe the sun through binoculars with welding glass in front?
+Is the moon a planet?
+Why are binary objects so critical to astronomy?
+Near-Earth supernova
+How do we determine the mass of a black hole?
+The Moon during the day
+Minimal strings and topological strings
+Random Walk Randomly Reflected
+Literature on fractal properties of quasicrystals
+What is a &quot;free&quot; non-Abelian Yang-Mill&#39;s theory?
+Instantons, anomalies, and 1-loop effects
+Covariant derivatives
+Hypersingular Boundary Operator in Physics
+Relationship between Weak Cosmic Censorship and Topological Censorship
+Super Lie-infinity algebra of closed superstring field theory?
+Visualization of 1D spin chain wave fuction
+Holographic Renormalization in non-AdS/non-CFT
+How to interpret vacuum instability of Higgs potential
+Are possible gauge fields in a Lagrangian theory always determined by the structure of the charged degrees of freedom?
+Rigorous proof of Bohr-Sommerfeld quantization
+Numerical Analysis of Elliptic PDEs
+Boundary conditions / uniqueness of the propagators / Green&#39;s functions
+Entanglement in time
+Explicit construction for unitary extensions of CPTP maps?
+How much of the Capelli-Itzykson-Zuber ADE-classification of su(2)-conformal field theories can one see perturbatively?
+black hole no-hair theorems vs. entropy and surface area
+Superconductivity reasons (Intutitive)
+Does string theory have a notion of vacuum?
+What would happen if the Earth was tidally locked with the Sun?
+Adding 3 electron spins
+Why does spin have a discrete spectrum?
+Is this a quaternion representation of the equations of motion of General Relativity?
+Do any naked-eye stars have planets
+Why isn&#39;t light scattered through transparency?
+Why is paper more frangible when it is wet?
+How does the Higgs Boson gain mass itself?
+What does QFT &quot;get right&quot; that QM &quot;gets wrong&quot;?
+Why does vibration loosen screws?
+Is there some connection between the Virial theorem and a least action principle?
+How do you simulate chiral gauge theories on a computer?
+What exactly does the holographic principle say?
+Anti particles: What exactly is inverted?
+What happens when a photon hits a mirror?
+Is a 1D vector also a scalar?
+How can we define BF theory on a general 4-manifold?
+What is the easiest way to stop a star?
+Conformal transformation/ Weyl scaling are they two different things? Confused!
+Does special relativity make magnetic fields irrelevant?
+Why $\log \rho$ in the continuity equation?
+Einstein&#39;s special relativity beyond the speed of light
+Is the total energy of the universe constant?
+Is the statistical interpretation of Quantum Mechanics dead?
+What accounts for the discrepancies in my calculations of year lengths?
+Can any rank tensor be decomposed into symmetric and anti-symmetric parts?
+Quantum uncertainty of particle falling in black hole
+Does a wing in a potential flow have lift?
+The Four-Clock Special Relativity Conundrum
+Is diffraction affected by interaction between photons and electrons?
+How can two time theories be compactified to 3+1 without any Kaluza-Klein remnants
+Usage of helium in MRIs
+Cascade in relativistic turbulence
+Schrodinger&#39;s equation (explanation to non physicist)
+Simple explanation of Quantum Zeno Effect
+What is the weight equation through general relativity?
+Does the amount of gravitational potential energy in the universe increase as it expands?
+Do modern Formula One cars produce enough down-force to drive upside-down?
+Does the future already exist? If so, which one?
+Relationship between Mars and Earth rotation
+Dimension of Dirac $\gamma$ matrices
+Can someone please explain magnetic vs electric fields?
+Is it possible to reproduce Double-slit experiment by myself at home?
+Radio-dating and the age of the earth
+Why do irrelevant operators require infinitely many counterterms?
+A formal procedure for thermodynamic relations
+Why is AC more &quot;dangerous&quot; than DC?
+What is the difference between the properties of Electron spin and Photon polarization/helicity?
+$\beta^+$ decay
+Maximum delay for effective active noise cancelling?
+Supersymmetric Noether theorem and supercurrents -- invariance requirements
+Why are alpha particles such a prominent form of radiation and not other types of nucleon arrangement?
+Is it possible that 5 planets can revolve around a single star in a single orbit?
+The notion of an adiabatic process in thermodynamics -vs- quantum mechanics
+How can Ohm&#39;s law be correct if superconductors have 0 resistivity
+Trace and adjoint representation of $SU(N)$
+Magnetic monopoles
+How to understand the emergent special relativity in the superfluid?
+Is there a &quot;covariant derivative&quot; for conformal transformation?
+What happens in electron-electron collisions?
+When are there enough Casimirs?
+Is classical electromagnetism a dead research field?
+Does an elliptical orbit of a satellite maintain its orientation as the Earth revolves?
+Meaning of inner product $\langle \vec{r} | \psi(t)\rangle $
+What could magnetic monopoles do that electrically charged particles can&#39;t?
+Mars just collided with Earth! A question of eccentricity
+Are the Maxwell equations a correct description of the wave character of photons?
+How to evaluate this sum of coupling coefficients?
+Equivalence Theorem of the S-Matrix
+Why can the Euler beta function be interpreted as a scattering amplitude?
+Do celestial objects experience drag from the near vacuum of space/does the near vacuum have a mean velocity?
+The divergence in QCD Series-- How many are they, and what do they mean?
+How do they measure the rotational speed of cricket balls?
+Will high power laser penetrate mirror?
+What is the relationship between string theory and quantum field theory?
+Is it really proper to say Ward identity is a consequence of gauge invariance?
+Do topological superconductors exhibit symmetry-enriched topological order?
+On a hot day, when it&#39;s cooler outside than in; is it better to put a fan in an open window pointing inwards or outwards?
+Time ordering and time derivative in path integral formalism and operator formalism
+Compressed Spring Dissolving in Acid
+Is there any theory for origination of charge?
+How does interference move energy from destructive to constructive regions?
+Is there a fundamental limit to the temporal resolution of signals from space?
+Why is a hard sphere gas correlated?
+Are there any modern textbooks on statistical mechanics which don&#39;t ignore Gibbs&#39; analysis of the microcanonical ensemble?
+Why are so many different types of objects white, yet appear gray when they are wet?
+How do we know we&#39;ve unified two interactions?
+Global Chern-Simons forms and topological gauge theories
+Locality in the scattering amplitude
+Why are there no particles in conformal theories?
+Are Fresnel lenses widely used for solar electricity? If not, why not?
+Small oscillations of heavy string
+Why don&#39;t we normally see the Higgs boson?
+Reconstruction of &quot;wavefunction&quot; phases from $|\psi(x)|$ and $|\tilde \psi(p)|$
+What are the fields produced around a current carrying conductor?
+Asymptotic symmetry algebra
+Operator that describes particle detector
+Do primordial background neutrinos orbit in dark matter halos?
+Does it make sense to continue searching for dark matter on Earth?
+Bekenstein entropy black hole v.s Hawking entropy black hole
+Motivation for the use of Tsallis entropy
+Fundamental invariants of the electromagnetic field
+Is Einstein-Hilbert action the unique action whose variation gives Einstein&#39;s field equations?
+Operator-state correspondence in QFT
+How to prove $(\gamma^\mu)^\dagger=\gamma^0\gamma^\mu\gamma^0$?
+Eigenfunctions of the Runge-Lenz vector
+Heisenberg&#39;s uncertainty principle - $ \Delta p $
+Is the concept of tensor rank useful in physics?
+Is the second law of thermodynamics a fundamental law, or does it emerge from other laws?
+What causes multiple colored patches on a wet road?
+Does an athlete&#39;s proficiency at luge depend on his mass?
+How are symmetries precisely defined?
+Why do we assume local conformal transformations are symmetries in 2D CFT
+Why am I wrong about how to view gauge theory?
+Particle/antiparticle annihilation and entanglement
+Effect of linear terms on a QFT
+The formal solution of the Schrodinger equation
+Where is the &quot;event horizon&quot; on a basketball hoop?
+How does the hydrogen atom know which frequencies it can emit photons at?
+Is it possible to prove that planets should be approximately spherical using the calculus of variations?
+Does wrapping a wet paper towel around a glass bottle really speed up the cooling process?
+What are all the lines on a double circuit tower?
+In what sense do Goldstone bosons live in the coset?
+Spectrum of CMB vs. duration of last scattering
+Physical Interpretation of EM Field Lagrangian
+Yang-Mills CP violation
+Can we divide two vectors?
+Do all phases of ice look the same visually?
+Would the inside of a black hole be like a giant mirror?
+How does a Trumpet loud speaker work?
+Is it possible to create matter?
+Difference between matrix representations of tensors and $\delta^{i}_{j}$ and $\delta_{ij}$?
+Is gravity just electromagnetic attraction?
+Conformal/trace anomaly and index theorem
+Can a difference in the &quot;speed of time&quot; introduce acceleration?
+Gravitational collapse of a photon cloud
+Why do I feel cold air in the shower?
+What is the percentage of stars that are massive enough to end their lives in a supernova?
+Do particles behave like electromagnetic waves?
+Why don&#39;t the black holes appear black in color in images of galaxies taken from HST?
+Why are magnetic fields so much weaker than electric?
+Temperature of a neutron star
+Why are objects opaque?
+An electron has no known internal structure, does that imply it has an unknown one?
+Proof of Loss of Lorentz Invariance in Finite Temperature Quantum Field Theory
+Is force a contravariant vector or a covariant vector (or either)?
+Positivity for the level of Chern-Simons theory
+Is &quot;now&quot; or &quot;the present moment&quot; properly defined in GR?
+Why do we fall down when the bicycle slows down?
+What is the square root of the Dirac Delta Function?
+What is the meaning of a state in QFT?
+Why is cooling much harder than heating?
+What would we see if we looked at our Solar system from 2,000 light years away with our current technology?
+How do tachyons violate causality?
+How to prevent water droplets becoming larger on the tip of a nozzle?
+Why does my jam often &quot;fall up&quot;?
+Why does water appear still near the shore
+What keeps electrons on a negatively-charged conductor from leaving?
+Why don&#39;t stars have Keplerian orbits?
+What was the need for doing experiments to prove quantum entanglement?
+Gibbs free energy intuition
+Is time travel impossible because it implies total energy in the universe is non-constant over time?
+What is meant by the temperature of the CMB?
+Can you find the length of a pencil without a ruler or clock?
+Why do crystals grow in preferred directions?
+Sun in front of horizon after sunset; mirage or reflection?
+Is there a simple proof that Kirchhoff&#39;s circuit laws always provide an exactly complete set of equations?
+Entanglement, real or just math?
+How does anything move?
+Why do lines in atomic spectra have thickness? (Bohr&#39;s Model)
+Drying clothes with the sun&#39;s heat, without any air
+What causes polarised materials to change colour under stress?
+Derivation of the centrifugal and coriolis force
+How many atoms per light year does light encounter when traversing interstellar space?
+Imagine a long bar floating in space. What force does it exert on itself in the middle due to gravity?
+Which direction will Coriolis forces deflect a bubble?
+How does a steady wind flow generate sound?
+Is there a method for differentiating fractional quantum Hall states aside from finding Chern numbers?
+A problem inspired by the ice hockey game
+Is it possible to separate the poles of a magnet?
+If time standard clocks and any memories about the time standard are destroyed, can we recover the time standard again?
+How many Onsager&#39;s solutions are there?
+What is an effective way to search for post-doc positions in physics?
+Why is air invisible?
+Formulation of Transformation optics using a Material Manifold
+Why are &quot;heavier&quot; particles harder to detect than &quot;lighter&quot; ones?
+Why does adding solutes to pure water lower the the specific heat?
+What&#39;s the explanation for the Giant Magnetoresistance effect?
+What is our location relative to the Big Bang?
+Where does matter come from?
+Are there any liquids with zero surface tension?
+What&#39;s the exact connection between bosonic Fock space and the quantum harmonic oscillator?
+How does load affect frequency on the power grid?
+How do I calculate the (apparent) gravitational pull with General Relativity?
+Is the Fine Stucture constant constant?
+Double slit experiment near event horizon
+Rotate a long bar in space and get close to (or even beyond) the speed of light $c$
+Derivation of Maxwell&#39;s equations from field tensor lagrangian
+Big Bang snuffed by a black hole?
+Evidence for black hole event horizons
+What is the difference between complex field and two scalar fields?
+Binary Black Hole Solution of General Relativity?
+Why is stringless supergravity not considered by many to be a candidate theory of quantum gravity?
+Do Category Theory and/or Quantum Logic add value in physics?
+What is the name of the principle saying it is meaningless to talk/ask questions that can not be measured/tested?
+Basic mechanics problems, unsolvable by brute-force numerical integration
+Why beauty is a good guide in physics?
+Treatment of boundary terms when applying the variational principle
+Is there a relativistic (quantum) thermodynamics?
+What is a D-brane?
+Difference between electric field and electric displacement field
+What is the historical origin of the term action
+Is almost all entropy in our universe entanglement entropy?
+Does $E = mc^2$ apply to photons?
+Why are all-Sky images drawn as a filled ellipse?
+Why didn&#39;t the control rods in Fukushima shut down the reactor?
+Is it possible to define a &quot;it went through two slits&quot; observable?
+Why didn&#39;t Newton have a cosmological constant
+Why does amount of protons define how matter is?
+In superluminal phase velocities, what is it that is traveling faster than light?
+Light &quot;diode&quot; and 2nd law of thermodynamics
+Quaternions and 4-vectors
+If a credit card won&#39;t read when swiped, does wrapping it in plastic actually help and if so, why?
+Why does Venus rotate the opposite direction as other planets?
+Can GR be derived by postulating a maximum force?
+Why can different batteries with the same  voltage send different currents through the same object?
+How to model/simulate pressures and flows in a network of pipes
+If all conserved quantities of a system are known, can they be explained by symmetries?
+How many bits are needed to simulate the universe?
+What is the significance of the QCD scale parameter $\Lambda$?
+Can a non-Euclidean space be descripted through an Euclidean space of higher dimension? So why use non-Euclidean?
+Is dark matter repulsive to dark matter? Why?
+How do you explain spinning tops to a nine year old?
+What is an observer in quantum mechanics?
+Do the laws of physics evolve?
+Is there a good chance that gravitational waves will be detected in the next years?
+How does reflection work?
+Does there exist a free good molecule / atom simulation software?
+Explanation of &quot;thermite vs ice&quot; explosion
+The measure problem in the anthropic principle
+Why are extra dimensions necessary?
+How can the Hall effect ever show positive charge carriers?
+Number density of LO and LA phonons as a function of temperature?
+Does gravitation of a sphere equal gravitation of a point?
+how is shown that photon speed is constant using QED?
+Can a particle be *physically* observed inside a quantum barrier?
+When is the &quot;minus sign problem&quot; in quantum simulations an obstacle?
+Does it matter how you order your tug-of-war participants?
+Cross-section in relativistic limit: Fermi&#39;s golden rule still valid?
+Could cell-phone radiation cause cancer?
+How come an anti-reflective coating makes glass *more* transparent?
+Quantum entanglement vs classical analogy
+How to determine the mass of a quark?
+What is the terminal velocity for a mobile phone
+argument about fallacy of diff(M) being a gauge group for general relativity
+Essential background for QFT study
+What&#39;s the difference between gas and plasma?
+Stephen Hawking says universe can create itself from nothing, but how exactly?
+Why does the air flow faster over the top of an airfoil?
+Why must gluinos be spin 1/2 instead of 3/2?
+Theorems on instability of classical systems of charged particles?
+How do we know that the nucleus isn&#39;t a quark-gluon plasma?
+Is solar wind positively charged?
+If a Kerr-Newman black hole is like a charged, spinning, heavy magnet, what kind of magnet is it like?
+Do stationary states with higher energy necessarily have higher position-momentum uncertainty?
+Galilean invariance of Lagrangian for non-relativistic free point particle?
+Lagrangian of Schrodinger field
+What does it take to understand Maxwell&#39;s equations?
+Magnets arranged in a sphere
+Charge on Sphere due to Contact with Capacitor
+Motivation for Potentials
+Consequences of the new theorem in QM?
+Why do bass tones travel through walls?
+Gauge redundancies and global symmetries
+How is causal patch complementarity compatible with behavior during inflation?
+What was missing in Dirac&#39;s argument to come up with the modern interpretation of the positron?
+Why is it necessary for an object to have a bigger size than the wavelength of light in order for us to see it?
+Energy Measurements in a Two Fermion Double Well System
+Maxwell in multiple dimensions: What happens to curl?
+The square in the Newton&#39;s law of universal gravitation is really a square?
+Proof that the One-Dimensional Simple Harmonic Oscillator is Non-Degenerate?
+light ray &#39;entropy&#39;
+Is the universe finite or infinite?
+Where can I find public domain astronomical pictures?
+What does f/4.6 mean in a telescope and how important is this value?
+Why can we see the cosmic microwave background (CMB)?
+How large is the universe?
+What is an asterism compared to a constellation?
+What is the name of our Galaxy?
+Who should I contact if I see an unknown object in the sky?
+Why is this radio telescope&#39;s reflector spherical and not parabolic?
+How would you describe a black hole to a complete layman?
+Why does a black hole have a finite mass?
+Can you damage your eyes viewing Venus?
+What proportion of a star&#39;s hydrogen is consumed in its life?
+Falling into Saturn or Jupiter, would we pass through it until we hit the nucleus?
+Why did the june 2011 lunar eclipse last so long?
+What are the facts that allow accepting the Oort cloud theory?
+Is the observable region of the universe within the event horizon of a super-massive black hole?
+How to find the Andromeda galaxy without using a go-to telescope?
+Why did the ancients fail to discover that the Earth orbits the Sun?
+Is it possible to see satellites with the naked eye?
+How dense are nebulae?
+Can black holes actually merge?
+What will happen if a gamma-ray burst hits the Earth?
+What happens to light and mass in the center of a black hole?
+Calculations of apparent magnitude
+Limitations in using FLEX as a DMFT solver
+Principle behind fidelity balance in quantum cloning
+Can the CPT theorem be valid if Lorentz invariance is only spontaneously broken?
+Gauge invariance for electromagnetic potential observables in test function form
+Mathematical Physics Book Recommendation
+Some questions on a version of the O&#39;Raifeartaigh model
+CHSH violation and entanglement of quantum states
+Discussions of the axioms of AQFT
+Stabilizer formalism for symmetric spin-states?
+Metric interpretation of self-adjoint extensions?
+POVMs that do not require enlargement of the Hilbert space
+Derivation of the effective potential between a quark and an anti-quark
+Equivalence of definitions of ADM Mass
+Majorana-like representation for mixed symmetric states?
+Higgs Field - Is its discovery truly &quot;around the corner&quot;? 
+Solution to the Schrodinger equation for periodically time dependent Hamiltonians
+Why is there a $\frac 1 2$ in $\frac 1 2 mv^2$?
+Fermi statistics and Berry phase
+Apollo and orbital mechanics: orbital decay if the Trans Earth Injection (TEI) burn had failed
+Plotting the CMB power spectrum - Why $C_\ell \ell (\ell+1)$ rather than only $C_\ell$?
+How large can you make a tokamak?
+Why does water pouring from a glass sometimes travel down the side of the glass?
+Introduction to string theory
+Is there any quantum-gravity theory that has flat space-time and gravitons?
+Quasi 1D insulators with strong spin-orbital interaction
+Spontaneous Time Reversal Symmetry Breaking?
+Higgs Boson mass in Electron volts?
+How do photons travel at a speed that should be impossible to attain?
+Is there a &quot;map&quot; of the interplanetary transport network?
+Why and how is sound produced when two objects hit each other?
+Can physics get rid of the continuum?
+Can $10^{23}$ stars be treated with methods of statistical mechanics?
+Does the uncertainty principle apply to photons?
+Why is there an escape velocity?
+Is ultradense deuterium real?
+Gentle introduction to twistors
+What happens when we cut objects?
+Is it possible all matter in the universe emerges from nothing?
+Why would a fat skydiver fall first in free fall?
+How fast would a spaceship have to go to reach Alpha Centauri within a person&#39;s lifetime?
+How long will our artifacts last in moon &amp; space?
+Capacitance of two almost-touching hemispheres
+More than one time dimension
+Car accident, put in park or neutral?
+Is physics rigorous in the mathematical sense?
+At what rate does a rotating black hole lose mass via Hawking Radiation?
+Why does a blue sky at dusk appear nearly black through a telescope?
+Hawking Radiation as Tunneling
+Can we have a black hole without a singularity?
+Why does my natural whistle have a maximum volume
+Nuclear fusion: what causes this &quot;resonance&quot; peak?
+Why do we study the scalar field in QFT when there is no such thing in nature?
+What is the farthest-away star visible to the naked eye?
+How should a theoretical physicist study maths?
+Evaluating propagator without the epsilon trick
+What is the &#39;bump&#39; near $M_{\mu\mu}\approx 30\text{ GeV}$
+What causes the back of a bike to lift when the front brake is applied?
+Witten&#39;s constrained S-matrix and Coleman-Mandula Theorem
+What are the &#39;t Hooft papers about classical models underlying QM?
+How is the Dirac adjoint generalized?
+What is the exact gravitational force between two masses including relativistic effects?
+Temperature below absolute zero?
+Charge conjugation in Dirac equation
+Resistance between two points in an infinite metal sphere/cube
+Gravity in other dimensions than 3 and stable orbits
+Do an action and its Euler-Lagrange equations have the same symmetries?
+Since there are gravitational lenses, are there gravitational mirrors?
+Could negative dimension ever make sense?
+Why quantum hall effect has chiral edge state?
+Quantum dimension in topological entanglement entropy
+Whistle Physics
+Form of the Classical EM Lagrangian
+Using photons to explain electrostatic force
+Did Hilbert publish general relativity field equation before Einstein?
+Origin of electric charge
+What is a dual / cotangent space?
+What mechanisms allow conductors to be transparent?
+Is Feynman&#39;s explanation of how the moon stays in orbit wrong?
+Relativity of Simultaneity
+How is it possible the speed of light is not constant?
+What is a $p_x + i p_y$ superconductor? Relation to topological superconductors
+Effects of a very large magnetic field on the human body
+General definition of an event horizon?
+Entangled or unentangled?
+Strange things about new moon
+In the Lennard-Jones potential, why does the attractive part (dispersion) have an $r^{-6}$ dependence?
+Is there a way to obtain the classical partition function from the quantum partition function in the limit $h \rightarrow 0$?
+What&#39;re the relations and differences between slave-fermion and slave-boson formalism?
+What is a sudden singularity?
+Can Increasing the Turbulence Inside a Pipeline Economically Increase Flow?
+Slinky reverb: the origin of the iconic Star Wars blaster sound
+Does a guitar sound different in zero (or micro) gravity?
+Resonances in high energy physics
+Is the fine-structure constant a parameter of the standard model?
+How large can planets or moons appear?
+What is the reason why anyons escape spin-statistic theorem?
+Unitary quantum field theory
+&quot;S-duality&quot; between confinement and the Higgs mechanism?
+How fast can time flow? A question of time dilation
+No closed orbits for a Newtonian gravitational field in 4 spatial dimensions
+Why are they called &quot;cyclic&quot; coordinates?
+Where can I find the full derivation of Helfrich&#39;s shape equation for closed membranes?
+When are the OPE relevant?
+Why are wires in simple circuits approximated as equipotentials?
+Ball jumping from water
+The secret behind the spinning, asymmetrically weighted, 2D disk-shaped top?
+Can we disprove Artificial Gravity (like in the movies) with a thought experiment?
+What makes a Lagrangian a Lagrangian?
+Can Werner states have bound entanglement?
+Thermodynamically possible to hide a Dyson sphere?
+Variational Derivation of Schrodinger Equation
+What is meant by Vacuum?
+Reconciling topological insulators and topological order
+Interstellar dust/matter distribution
+Is there a proof of existence of time?
+Why do we only have complete particle generations?
+How do I calculate the distance a ship will take to stop?
+Looking at an iPhone through a Polarizer
+Why does a cathode have to be heated to emit electrons?
+What happens when the black hole at a galactic core eats the galaxy?
+How to prolong life of liquid nitrogen in hosehold vacuum flask?
+What could explain the measurements that the Methuselah star is older than the universe?
+How does the Ward-Takahashi Identity imply that non-transverse photons are unphysical in QED?
+With what probability does nuclear fusion occur at energies far below the Coulomb barrier?
+Introduction to spinors in physics, and their relation to representations
+Why does the classical Noether charge become the quantum symmetry generator?
+Which color of an umbrella is more effective against sunlight?
+What different approximations yield Gravitoelectromagnetism and Weak Field Einstein Equations?
+What is the difference between translation and rotation?
+Motivation for preservation of spacetime volume by Lorentz transformation?
+There is no such thing as magnetism?
+Does every hermitian operator represent a measurable quantity?
+Could a mirror array used for thermal solar power plant double as a telescope at night?
+The Role of Active and Passive Diffeomorphism Invariance in GR
+How does a gas of particles with uniform speed reach the Maxwell-Boltzmann distribution?
+Do image charges radiate?
+Why do we use operators in quantum mechanics?
+How do you prove the second law of thermodynamics from statistical mechanics?
+Intuitive understanding of the definition of entropy
+The Origins of Instantons from Path Integrals
+Why does this perpetuum mobile not work?(Gases and Densities)
+What is the CFT dual to pure gravity on AdS$_3$?
+single-particle wavepackets in QFT and position measurement
+How many bits are encoded on the surface of the smallest black hole?
+What happened with Hilbert&#39;s sixth problem (the axiomatization of physics) after G&#246;del&#39;s work?
+Are synthetically-produced diamonds as hard as natural diamonds?
+The delay between neutrinos and gammas in a supernova, and the absolute mass scale of neutrinos
+Throwing a ball upwards in an accelerating train

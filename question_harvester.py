@@ -52,7 +52,8 @@ for s in site_list:
 	site = stackexchange.Site(s, impose_throttling = True, app_key=user_api_key)
 
 	q_so_far = 0
-	questions = site.recent_questions(pagesize=100)
+	#questions = site.recent_questions(pagesize=100) #Most recent questions
+	questions = site.recent_questions(pagesize=100,order="desc",sort="votes") #Most popular questions
 
 	while q_so_far < num_questions:
 		for q in questions:

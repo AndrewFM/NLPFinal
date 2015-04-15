@@ -2499,3 +2499,2504 @@ How do you develop a strong female character?
 The opposite sex in first person?
 When do I need to obtain permission to photograph and write about a business, work of art, or person?
 How does collaboration affect a publishing contract?
+The &quot;Rules&quot; of Writing
+Is there a special software for writers?
+Do You Use Any Version Controlling Software/Methods As Writers?
+What&#39;s the modern way to handle gender in tech writing?
+How to overcome the fact that I can&#39;t write?
+What are good places to post your work where it will be read by others?
+Should you use two spaces after a period, or just a single one?
+What are good reads about writing?
+How to name the characters of your story?
+How can I write an attention-grabbing first line?
+I have written my first novel and I think it&#39;s ready. What next?
+&quot;All of a sudden...&quot; ?
+How to write a polite reminder email?
+Do Writers Use LaTex/TeX for writing?
+How do I recover my confidence after a harsh writing group?
+How does one deal with world builder&#39;s syndrome?
+Is there any good time-line software out there?
+Explicitly correcting yourself while writing - how appropriate is it ?
+How does the 10,000 hour rule apply to writing?
+How can I catch more errors when I proofread?
+When is it okay to tell?
+Writing first programming book
+Why do hardcover books retail for more than three times the cost of softcover books?
+Self Editing tips/tricks
+How do you avoid purple prose?
+How does one write a character smarter than oneself?
+How do I find an agent?
+What are the first things I should do with an idea?
+How Much Can You Make From Writing a Book?
+Editors: Edit on first read, or read and edit on second round?
+When should modifiers be avoided?
+How can one make technical issues more accessible to a non-technical audience?
+Do most novels not get published?
+Is it worth switching to Dvorak?
+Getting Inside Someone Else&#39;s Head
+Decide on a theme/overarching meaning before writing a short story?
+How do I construct a plot out of my many setting/character details?
+Fan Fiction: a crutch or a good start?
+Do I need to register my work to retain copyright?
+Are there jobs that involve creative writing in the software industry?
+Something different: Help me find the unnecessary words.
+So I finished my novel. Now what do I do?
+Best tool to create ebooks?
+Killing the protagonist - should it be done?
+What is a normal length for a chapter?
+What are the most common style manuals?
+Publishing for Kindle
+Organizing your Universe?
+How to make travel scenes interesting without adding needless plot diversions?
+How can one effectively organize scenes and snippets?
+How to deal with self-criticism?
+Why does an author need an editor?
+Which words should not be capitalized in Title Case?
+Could I reach the level of good writing style as non-native language speaker?
+Warning signs that a publisher may be shady?
+Should I avoid modern words/phrases in fantasy writing?
+How to describe the point-of-view character without using mirrors
+Are complex sentences uncommon or unwanted in English?
+What are some online guides for starting writers?
+Writing discipline
+How do you track random thoughts and ideas?
+Any Technique to See if Your Idea is Original?
+Where is a good place to find writing prompts?
+How does a code monkey become a novelist?
+Using the real world in writing
+Resources about different people types?
+Finding before/after examples where writing has been improved, to learn from
+Dashes vs. Commas vs. parentheses?
+Taking notes while reading
+Tools for science-based world building?
+What&#39;s the distinction between &quot;vanity publishing&quot; and &quot;self publishing&quot;?
+Is it frustrating not to know the narrator&#39;s gender?
+Should cliffhangers be used in every chapter?
+How do authors incorporate languages they don&#39;t speak?
+Pantsing a story?
+How do I write a synopsis?
+How much planning should go on before beginning writing?
+When should one *not* present events in chronological order?
+When editing for a person, how much can be changed?
+Tips for expanding my vocabulary?
+How do you make a character quintessential, but not cliched or cartoony?
+What&#39;s Essential In A Combat Scene?
+As a non-native English speaker, Is it better to get translated or get copyedited for long texts?
+What makes writing emotional?
+Signs of Bad Character Development
+What methods can I use to revise my writing?
+Is there any point in learning to write in cursive?
+Can a book be written without an antagonist?
+Is there a quick way to know I have created a Mary Sue?
+What is a beat?
+Best practices for maintaining documented code examples?
+What is the difference between writing in the first and the third person?
+Are Names of Characters Copyrighted by Authors?
+Is there a rule of thumb about the number of pages a work of fiction should have?
+How much swearing is TOO much? (And how much is not enough?)
+Which techniques can I use to become a better editor when editing my own writing?
+Keeping track of multiple plot lines
+Submitting a novel for publication: do editors still expect Courier font?
+What breaks suspension of disbelief?
+Right usage of &quot;P.S.&quot; in Emails
+The &quot;Rules&quot; of Writing
+Is there a special software for writers?
+Do You Use Any Version Controlling Software/Methods As Writers?
+What&#39;s the modern way to handle gender in tech writing?
+How to overcome the fact that I can&#39;t write?
+What are good places to post your work where it will be read by others?
+Should you use two spaces after a period, or just a single one?
+What are good reads about writing?
+How to name the characters of your story?
+How can I write an attention-grabbing first line?
+I have written my first novel and I think it&#39;s ready. What next?
+&quot;All of a sudden...&quot; ?
+How to write a polite reminder email?
+Do Writers Use LaTex/TeX for writing?
+How do I recover my confidence after a harsh writing group?
+How does one deal with world builder&#39;s syndrome?
+Is there any good time-line software out there?
+Explicitly correcting yourself while writing - how appropriate is it ?
+How does the 10,000 hour rule apply to writing?
+How can I catch more errors when I proofread?
+When is it okay to tell?
+Writing first programming book
+Why do hardcover books retail for more than three times the cost of softcover books?
+Self Editing tips/tricks
+How do you avoid purple prose?
+How does one write a character smarter than oneself?
+How do I find an agent?
+What are the first things I should do with an idea?
+How Much Can You Make From Writing a Book?
+Editors: Edit on first read, or read and edit on second round?
+When should modifiers be avoided?
+How can one make technical issues more accessible to a non-technical audience?
+Do most novels not get published?
+Is it worth switching to Dvorak?
+Getting Inside Someone Else&#39;s Head
+Decide on a theme/overarching meaning before writing a short story?
+How do I construct a plot out of my many setting/character details?
+Fan Fiction: a crutch or a good start?
+Do I need to register my work to retain copyright?
+Are there jobs that involve creative writing in the software industry?
+Something different: Help me find the unnecessary words.
+So I finished my novel. Now what do I do?
+Best tool to create ebooks?
+Killing the protagonist - should it be done?
+What is a normal length for a chapter?
+What are the most common style manuals?
+Publishing for Kindle
+Organizing your Universe?
+How to make travel scenes interesting without adding needless plot diversions?
+How can one effectively organize scenes and snippets?
+How to deal with self-criticism?
+Why does an author need an editor?
+Which words should not be capitalized in Title Case?
+Could I reach the level of good writing style as non-native language speaker?
+Warning signs that a publisher may be shady?
+Should I avoid modern words/phrases in fantasy writing?
+How to describe the point-of-view character without using mirrors
+Are complex sentences uncommon or unwanted in English?
+What are some online guides for starting writers?
+Writing discipline
+How do you track random thoughts and ideas?
+Any Technique to See if Your Idea is Original?
+Where is a good place to find writing prompts?
+How does a code monkey become a novelist?
+Using the real world in writing
+Resources about different people types?
+Finding before/after examples where writing has been improved, to learn from
+Dashes vs. Commas vs. parentheses?
+Taking notes while reading
+Tools for science-based world building?
+What&#39;s the distinction between &quot;vanity publishing&quot; and &quot;self publishing&quot;?
+Is it frustrating not to know the narrator&#39;s gender?
+Should cliffhangers be used in every chapter?
+How do authors incorporate languages they don&#39;t speak?
+Pantsing a story?
+How do I write a synopsis?
+How much planning should go on before beginning writing?
+When should one *not* present events in chronological order?
+When editing for a person, how much can be changed?
+Tips for expanding my vocabulary?
+How do you make a character quintessential, but not cliched or cartoony?
+What&#39;s Essential In A Combat Scene?
+As a non-native English speaker, Is it better to get translated or get copyedited for long texts?
+What makes writing emotional?
+Signs of Bad Character Development
+What methods can I use to revise my writing?
+Is there any point in learning to write in cursive?
+Can a book be written without an antagonist?
+Is there a quick way to know I have created a Mary Sue?
+What is a beat?
+Best practices for maintaining documented code examples?
+What is the difference between writing in the first and the third person?
+Are Names of Characters Copyrighted by Authors?
+Is there a rule of thumb about the number of pages a work of fiction should have?
+How much swearing is TOO much? (And how much is not enough?)
+Which techniques can I use to become a better editor when editing my own writing?
+Keeping track of multiple plot lines
+Submitting a novel for publication: do editors still expect Courier font?
+What breaks suspension of disbelief?
+Right usage of &quot;P.S.&quot; in Emails
+How can I make a story bigger?
+I&#39;m getting tired of &quot;he said&quot; &quot;she said&quot; in dialogue; how do I get around it?
+How can I effectively invent a language?
+Techniques to disguise authorship of text
+Are agents too busy for new clients? What should I do next?
+Can a copyright be made in the name of a fictional writer?
+How do I overcome a lack of motivation to write at home?
+Are there any places to have community story development?
+Best Way to Develop a Daily Writing Routine?
+For Fantasy Stories, Should You Include a Map At the Beginning of the Book?
+How to vary writing style?
+When to accept an editor&#39;s rewrite request?
+What does active voice mean?
+What are some ingredients of really engaging non-fiction?
+How should I introduce my characters?
+How can a specific (current) event be made timeless?
+What book review sites allow authors to send a copy of their books for reviews?
+What&#39;s a good way to backup your writing?
+How does one go about publishing erotica, and how far is too far?
+How to avoid hearing &quot;that&#39;s me!&quot; from your friends when they read your characters?
+What are the advantages and disadvantages of writing in first person?
+Can I shop an unfinished novel?
+What&#39;s a typical trilogy structure?
+Will blogging my fiction limit its ability to be traditionally published later?
+Is Scrivener involved in the editorial process, or is it strictly a writer&#39;s development tool?
+Using today&#39;s moral compass in fantasy
+Is it okay to call the reader&#39;s target audience stupid?
+Problem: Scenes that are unavoidable, but boring
+How to write a prophecy?
+Can I, as a reader, submit a &quot;Bug Report&quot; for a novel?
+Podcasts useful for improving writing skills
+What helpful writing exercises do you use?
+Resources for character development
+Are there any good magazines about writing?
+What are some ways to get to know your characters?
+Is it so bad to end up with a &quot;done before&quot; plot?
+What makes first person plural a tricky narrative voice?
+Writers Communities?
+What is flash fiction?
+How do you come up with non-fiction story ideas?
+Why are papers written in a two column format?
+Tips for humor writing
+Resources on plotting mystery stories
+Checklist for making sure your writing is Atomic?
+Help! I&#39;ve got Writer&#39;s Block
+What exactly is an editor?
+How do you make a story succeed in spite of an unsympathetic main character?
+When publishing a Fantasy novel, do I look for a specific Fantasy-only publisher, editor, and/or agent?
+Source ideas for monsters in a fantasy novel?
+How do you avoid the problem of a collaborative work having separate voices?
+How to get feedback about the quality of one&#39;s fictional writing from friends unbiased by the friendship?
+How do you find your unique style?
+Learning storywriting for videogames - where to start?
+Should one use the legal &quot;shall&quot; in requirements documents and specification documents?
+Can a self publishing author use a Pen name/Pseudonym?
+What is the term for an accessible character that knows nothing?
+Time measures in fantasy worlds
+How to deal with common Earth references in a non-Earth setting?
+Meeting with a respected publisher, what questions should I ask?
+How do expert writers avoid using &quot;I&quot; when they have to refer to themselves in their article?
+Are modern authors still using colons and semicolons in dialogue?
+Lists of Suggested Magazines to Submit To
+What techniques are used to plot long (multi-novel) story arcs?
+Should I start writing on paper first or start directly on the computer?
+Avoiding Deus Ex Machina resolutions?
+Are &quot;morning pages&quot; useful?
+How do you track submissions to publishers/markets?
+Is touch typing skill important for being a good writer?
+Writing for an Audio book. What are specifics?
+Is discovery or outline writing connected to personality type (e.g. MBTI)
+How do you map out your storyline?
+What should be in a cover letter for short story submission to a magazine?
+How much leeway can be expected from an editor regarding my preference for nonstandard punctuation?
+Can I self-publish, and how much would it cost?
+What are advantages/disadvantages to use a CC-license for your writings?
+How long should it take to write 100k words?
+When is a prologue useful?
+Writing 19th century upperclass English dialog
+How much should I describe things or persons, that are not important for the story?
+Are already privately bound books a deterent for publishing houses?
+Citation in AP style journalism
+How do I better handle my nameless main character when trying to retain mystery?
+How can I transition from academic writing to fiction writing?
+Getting emotional while writing, good or bad?
+Dialog, just what&#39;s the best way to write it?
+Should you read your own genre?
+Where should I start if I&#39;m feeling the urge to write something?
+Why does using this &quot;-ing&quot; verb construction make my writing weaker?
+What needs to be included in a corporate style guide?
+Pitfalls of writing a main character of different gender to the author, specifically first-person perspective?
+Technical Writing Software
+Why do writers use pseudonyms?
+Should I indent the first line of the first paragraph in a chapter?
+How should I break up chapters in a novel?
+Best e-book formatting process?
+How to create space
+I&#39;m not a great pantser; what kind of preparation do I need for NaNoWriMo?
+Is there a good project management software for writers?
+Confusing writing in order to show how character is falling asleep - is it OK?
+Would a paid-for review from Kirkus give me real insight into quality of my manuscript?
+What marketing techniques are effective for short story eBook collections?
+How/When to create deliberately boring characters?
+Notes Placement
+How much influence do authors have on their titles?
+How can I write anonymously (based on true experiences)?
+Do publishers really need to translate between UK and US English?
+When do I explain my created world scenario in a prologue vs. letting it unfold in the story?
+What is Literary Fiction?
+Where can subject matter experts volunteer to work on proofing the technical details in fiction?
+Initial Writing Medium
+What can one do to get the most from limited writing time?
+Should I translate my own writings into a second language I also know well?
+When should I avoid the passive voice?  When might I use it?
+How do you vary dialogue within stories?
+What are the usual methods for getting a daily word count?
+Strategies for shortening texts
+What are some regular contests unpublished short story authors might enter?
+At what point does an author deal with an editor?
+Where to find some good examples of combat or action scenes?
+Where can I find sales numbers for books?
+Where is a good place to find beta readers?
+What&#39;s a good writing software for Android phones/tablets?
+What&#39;s the benefit of using invented languages in-story?
+Is it a good idea to write a summary of a plot before writing the full version?
+Are there any good tablets out there for writing/editing?
+Waiting for response to full MS
+Why is &quot;It was a dark and stormy night..&quot; not a good opening?
+Do authors get paid for quotes and attributions used on book covers?
+Avoiding foot&amp;note disease
+Do books have to be written in sequence?
+What does Character development actually mean?
+2nd Draft- Fix spelling/grammar or plot first?
+Why do ebooks often mimic the layout of the printed page?
+Citing parts of a thesis or dissertation using IEEE referencing
+Other options for &quot;had had&quot;?
+How to start a book off?
+How can I keep up with my co-author&#39;s detail creation?
+How does one avoid bland, generic fantasy while they write?
+How do you build good per-book *and* global indexes?
+What binding and paper should be used on a self-printed novel?
+Self publishing: Do I still need to follow the arbitrary word count limits?
+Writing a programming book: how to present directory structures
+Where to find comparative information about publishers?
+Striking the balance between dialogue and narrative
+avoiding making all your characters sound the same
+Should I remove scenes that I myself find &quot;boring&quot;?
+Effective techniques for describing pain
+Can Readers Relate to a Book without Humans?
+Software for developing and organizing characters
+How do I avoid tech/social errors in near-future fiction?
+How ordinary must my protagonist be if the book is written from his/her point of view?
+Writing different genres
+What is the requirement for a book to be a NYT Bestseller?
+Switching POV: Should it ever be done at all?
+Story for children without a happy ending
+What are the best authors to read if you want to get better at humor and comedy in writing?
+How do you deal with procrastination when writing?
+How much time do you spend writing one page on average?
+How does one implement effective foreshadowing?
+Good books on writing for comics?
+What should I do to promote my books?
+How can multiple viewpoints be used without breaking the flow of the story?
+Will e-books prevent books from going out of print (and rights from reverting)?
+How do you meet a writing quota?
+What disciplines/habits are used to stay focussed on one novel over a long period of time?
+What&#39;s the best way to show a foreign language in a manuscript?
+Finding the &#39;voice&#39; of a character
+Sympathetic portrayal of devout, rule-abiding characters
+What is a good OCR program?
+How do you avoid the problem of all the characters in your story sounding the same?
+What are widely-used UK-English style guides?
+How often do writers develop characters before plot, and why?
+How little &quot;fantasy&quot; can be in a story and it still be recognizably fantasy?
+Do you need to get author&#39;s permission to quote him in a non-fiction book?
+What are the differences between narrative and descriptive writing?
+What&#39;s the proper etiquette/format for updating a blog post?
+Frailties, mistakes, and imperfections
+Why shouldn&#39;t I use a pen name?
+emacs for creative writing
+Is publishing to Amazon Kindle-alternative eBook markets worth the time and effort?
+Is it legal to write about trademarked material and use the terms?
+How to handle taxes for a self-published book
+Is being paid by the word/page making American books longer?
+What effect on literature has the introduction of eBooks and eReaders had?
+Sympathetic portrayal of an evil protagonist with good motivations
+Ways for main character to influence world following their death
+How to overcome the fact that I can&#39;t write long stories?
+How to continue someone else&#39;s story gracefully, with fan-fiction?
+Text Editors. Suggesting &amp; Tracking Changes to Plain-Text Documents
+alternatives to &quot;he said&quot; in dialog
+What&#39;s the best version control system for a book writer?
+Writing Multiple Novels Simultaneously
+Problems with posting work on the web for feedback
+What are those &quot;countdown&quot; numbers on the copyright page?
+How to write to accommodate subsequent automatic translation
+Does self publishing via Amazon or similar services make your book ineligible for later acceptance by a publisher?
+What is a good daily word count goal?
+How to share the work, if writing fiction in a team?
+How can I get started screenwriting/playwriting?
+How much sex is allowed in a non-romance novel?
+When is it a good time to move on to another project?
+How to figure out if an agent is &quot;on the straight&quot; or &quot;shady&quot;?
+Fictional diary for a novel
+The polymath&#39;s dilemma...?
+Creative Commons and writing on the web
+Should freelance writers keep their online business separate from offline?
+If you get an advance do you ever have to give it back?
+Techniques for writing internal monologue
+How should I go with hiring an illustrator for a webcomic?
+What are the best online writing classes?
+What are good writing newsletters to sign up for?
+What are the tricks to avoid repetition in writing?
+When should a chapter end?
+How long can I expect to wait between accepting an offer and signing?
+How does one go *back* to editing an older piece?
+What exactly do I do to get published?
+Does a technical writer need a technical background?
+What are the structural differences between scripts for comics and scripts for films?
+How do I avoid a “mid-story info dump?”
+Little did he know
+How many words/hour should you aim for when writing your first draft?
+When *should* I use passive voice?
+Royalties - how to calculate author&#39;s take from the end-price?
+How do critics review an author&#39;s first and second and maybe third novel differently?
+An alternative to saying &#39;users&#39; when describing features
+How can I create my own deadline?
+New digital ways of presenting a novel in 2011?
+Will my readers feel like they are reading a children&#39;s storybook if there are illustrations in my novel?
+how many books by new authors get published every year?
+What style suggestions are common for which words are used in hyperlinks?
+Conlang question
+How can I strike a balance between setting and plot?
+Is it really so &quot;impossible&quot; to get published by a traditional publisher?
+What is the process for turning a story into a &quot;movie&quot; script?
+What are the advantages and disadvantages of digital rights management for self-published authors?
+How do I balance work with my love of writing?
+How to determine rates to charge as a freelance writer
+What to include in agreement with a Ghost Writer. . .
+What&#39;s &quot;fair use&quot; for borrowing someone else&#39;s invented term?
+How to juggle work and NaNoWriMo?
+Is Academic Ghostwriting legal?
+How to write realistic female dialogue
+How to improve my skill at writing a question?
+How do collaborating authors choose an agent?
+What do publishers do for me?
+How do I decide if writing expository scenes that won&#39;t be in my finished novel is useful, or procrastination?
+Balancing loads of equally-important characters
+What&#39;s the difference between academic and journalistic writing?
+What exactly is &quot;Conceptual Writing?&quot;
+Are online critique groups a good substitute for editors?
+When writing on paper, how do you move things about?
+How do you determine if a plot device is too coincidental?
+Is it typical to add variation to the words used for a character&#39;s name to keep it spicy?
+How can I learn how to outline, so I can write like an architect? 
+Characters with no names
+Must every piece of speech get its own paragraph?
+Ways to improve your writing skills
+What do you do if you enjoy writing, but have no ideas?
+Avoid blending Fantasy and Sci Fi
+What&#39;s with all the hate on adjectives and adverbs?
+How do you make a character witty?
+When is it acceptable to refer to an undefined group of people in academic writing?
+Using a pen-name: possible legal issues
+How to write a novel if you only have five minutes here, ten minutes there to work on it?
+How do I make an ESL character sound realistic?
+Is it better to describe the main character&#39;s physical appearance early on in the story?
+Do I really need disclaimers?
+Getting My Rights Back
+An organization writes its acronym in lower-case - do I have to, too?
+Jumping on the Zombie bandwagon
+What determines genre?
+How do I go about finding a writing group?
+Using slang as a narrator - pros and cons
+Are different styles/storylines prefered in different languages/cultures?
+How can you submit your writings internationally?
+When the second person *view* is not an uninvited guest?
+A rhyming dictionary worth bookmarking online or purchasing?
+Is there a standardized size for Books?
+How to go about breaking up a looooong YA story?
+What to do about readers reading into things?
+Out of this world... Giving it time?
+What makes a great writer&#39;s space?
+What should step one in writing a novel be?
+Is this character generator useful?
+What&#39;s a normal word count for a children&#39;s novel or collection?
+Should DOIs ever be preferred to ISBNs?
+What are the advantages of incorporation for a writer?
+What are the benefits of being a slush reader?
+What tools do you use for your writing journal?
+Are composite characters in creative non-fiction okay?
+A Polish manual of style.
+How to handle foreign military ranks?
+How do evil protagonists win the reader over in dark fantasy stories?
+How common *are* happy endings?
+Are there any techniques that make complexity work?
+How does one go about successfully getting their movie script, or screen play, into the right hands?
+How difficult is it to break into screenwriting?
+How should dialog be formatted?
+Good Outlining Solutions For OSX?
+Hardware-based Word Processor
+What are the key skills for a new technical writer?
+I&#39;m an editor who generally uses Word to communicate changes with my authors. Is Adobe&#39;s InCopy better for this task?
+Software for analyzing a manuscript?
+What is a good methodology for researching a historical novel?
+Avoiding cultural differences
+How many pages would my manuscript be in paperback?
+When should I use punctuation with bullets?
+What&#39;s the best practice for displaying a personal website url in a resume?
+Potential confusion: referring to home planet as &quot;Earth&quot;
+Our note in footnote of a book
+How do I find an affordable editor?
+How do I avoid legal repercussions for writing a story based on events in my life?
+Is Postscript still useful in the age of email?
+World Building critique: Building an SF society off a tangent of &quot;Adaptation&quot;
+Do you have to be good at grammar to get published?
+Writing about drug induced hallucinations and paranoia
+Use of past vs. present tense in works of fiction
+How can I create drama in a story that is mostly political and procedural?
+Link shorteners for research paper citations?
+An engineering student wants to write fiction, where to start?
+Should I start work on a sequel before I have sold my book?
+When should one use a section sign (&#167;)?
+How much agent contact should I expect?
+How can I break up a lengthy explanation?
+What to do if I can&#39;t meet my chapter word count?
+How do I successfully structure a long fiction piece?
+What is a discovery writer?
+What to do with my odd-length work?
+Am I too prepared to do NaNoWriMo?
+What to do when characters disagree with the plot?
+Using poetry in novels a good option?
+How does one include sign language in a dialogue?
+How does one present spoken dialogue as a secondary language to signed speech?
+How can I edit my own, very old work?
+Will science fiction as a genre ever go the way of the western?
+How far into a speculative novel should one go before introducing the central conflict?
+How do you track dependencies for your co-authors?
+Kindle self-publishing, automatically update
+Should my readers be able to identify with the bad guy?
+How do I write a believable romance subplot?
+In writing a cover letter accompanying a submission to a literary journal, is listing publications in less well-regarded journals detrimental?
+How can I convey that my viewpoint character is lying?
+What is the proper way to add Creative Commons licensing information to a book?
+My cool character is doing nothing for the plot. How do I deal with him?
+How can I deal with an overload of writing projects?
+Tools for exploring and analysing document structure?
+Who is responsible for copyrighted materials (publisher or writer)?
+Spiritual elements in a science-fiction novel
+How do I quote a graphic novel?
+Are music lyrics copyrighted?
+Inventing names for Sci-Fi characters
+Switching from past to present tense?
+how should a writer use version control to track drafts, rewrites, and revisions?
+Writing from the middle
+How to tell or retell basic character and setting information in a series?
+Overuse of bullet points
+In end user documentation, should screenshots come before or after the text that references them?
+Demo data in screenshots! What are the best practice?
+What are First Drafts, Second Drafts, etc.?
+Good idea to describe the heist place before the heist begins?
+Can I use parenthesis in a conversation
+Do publishers use LaTeX to produce books for the blind?
+I&#39;m afraid of [accidental] plagiarism
+How to show that something is different than in real life?
+Good tools for writing (game) manuals and sourcebooks
+Good Examples of and Practices in Code Documentation
+Needing to Believe the Story Is Real
+How can I turn my short story into a novel?
+How can I ensure my POV character&#39;s writing isn&#39;t too sophisticated?
+How to stay motivated while rewriting?
+What does being &quot;heavy handed&quot; mean? And how does one avoid it?
+Third-person objective in action scene
+What are good criteria to consider when looking to enroll in an MFA program?
+How deeply should I study the background of a community before writing about it?
+How do I get involved in writing for video games?
+Is there a Market for Poetry with a Fixed Verse Form
+What linguistic tools do you use?
+How not to overuse ellipsis?
+Would it be plagiarism if you use a changed scene?
+Expositing a lack of racial difference
+How to identify a scene type?
+Is there any hope of a fictional short story being published?
+What are some examples of modern original plots?
+Best humorous exaggerated comparisons
+How many liberties can one take with syntax and grammar rules when writing poetry?
+What is the key reference documentation and how should I cite BASH?
+Publishing and selling ebooks
+Journal subscription secrecy
+Formatting for stage, television, and the silver screen
+Correct spelling errors while writing or after you&#39;ve finished?
+Who pays for lyrics or quotes?
+Does my first paragraph grab your attention?
+What is the preferred way to type out ellipses?
+How to write great movie review?
+Verbosity: when&#39;s enough enough?
+How do I find a suitable copywriter?
+Quality of my blog writing
+What is the most cost effective way for me to get my book printed?
+Critique: Intro/Prologue to my Novel-in-Progress
+Are there good tips on being a better *creative* writer?
+Is the iPad a convenient medium for writing work?
+How To Avoid Using Cliches In Storylines?
+Unquestionable Taboos and Self-censorship
+Which free licence to choose for my book (manual)?
+Do fullscreen writing environments help for writing? Why?
+Does giving away free stories boost sales?
+What&#39;s the indent rule of poetry?
+What to do if I end up confused by my own plot because of &#39;trying to be original&#39; or &#39;trying to make the story more deep&#39;?
+How to emphasize a quote is written, not spoken?
+&quot;multiple personalities&quot; for character development in writing?
+Common words to avoid when writing formally
+How to practice location descriptions
+What&#39;s a clear way to simulate web text in a story?
+Has this dialogue enough suspense to engage the reader?
+Can I ePublish my out-of-print history book?
+How to attract the average reader to an &quot;intellectual&quot; novel?
+Preventing genre-savvy second-guessing in murder mysteries
+How Do you Stave Off Boredom While Writing?
+How to cite an entire paragraph?
+Example of a fictional story without any characters (the story being 1000+ words)
+Is it safe to create a wiki for a book (or something featured in it) before the book is published?
+About using authentic historical name for teenager material
+Is it wise to publish a novel as an e-book, and how would I do it?
+What&#39;s a good resource to find Beta Readers for  short stories?
+2nd draft- rewrite from scratch?
+Pros and Cons of different styles of publishing
+Is it plausible to get a contract with an US/UK publisher as a foreigner?
+All persons fictitious disclaimer — ideas regarding modification?
+Does this FAQ accurately convey the mission of DIY.SE?
+How to give the readers breathing space, without putting them to sleep?
+The importance of monitor size/distance for writing productivity?
+Should I care if my short story has the same title as someone else&#39;s book?
+Dialogue writing practices?
+Can I write my sub stories separately?
+Is it OK to refer to some characters by first name and to others by last name?
+Write multiple trilogies or make a saga?
+Do any ePublishing systems honor fixed poetry formatting?
+The opposite sex in first person?
+What are the challenges of converting blog content to a publishable work?
+Spaceships - It or She?
+What rights are OK to give up for publishing?
+Front-matter or back-matter?
+How to develop a story for a novel?
+Converting ms-word to ebook vs. writing from scratch?
+Citing Myself As a Source
+What should be put on scene notecards? (for novel writing)
+&quot;Lacking meat&quot;, &quot;Content-free&quot;, and poor defense-development. Please critique my work
+How do I cleanly show the passage of time, with multiple, varying time scales? 
+Rhetoric vs Figure of Speech
+How to work with in-text markup for figures and captions in Scrivener?
+First-time meeting with publisher &amp; editors (What to expect)
+Is going &#39;off-topic&#39; a sign of bad dialogue?
+What&#39;s the significance of ancient mythology in literature?
+How do I escape my own experience?
+How much power does the author have over an original work?
+Is the first draft of a novel usually shorter than the finished work?
+How to avoid repetitive sentence structure?
+A cross-[What] kind of romance?
+Learning storywriting for videogames - Handling deep nonlinearities
+Is it a bad practice to occasionally add first-person narrative to third-person narrative?
+How many commas is too many?
+Very simple markup language for writing fiction
+Killing off a character: deciding if, when and how
+Getting details of a past century right
+How are multilingual scenes handled when the story&#39;s main language is translated into that of its minor one?
+How should I introduce new and complex technologies or tools?
+1st person story, but the main character will die in the end and some of the story needs to be told after his death. How to solve this problem?
+When quoting a person&#39;s informal speech, how much liberty do you have to make changes to what they say?
+First Chapter for Free?
+How long does it take to write a 1000-word news article?
+Techniques to write for a wider audience
+Can Anybody Write an &quot;Unauthorized&quot; Guide?
+What factors in fiction arouse readers&#39; expectations?
+Swearing - Censor, allude, or include?
+Plot devices for the climax of an adventure story
+Is it permissible to write a short story with little or no dialogue?
+As an new author, how important is to have a personal website?
+Variation in humor among ethnic/cultural groups
+Can I plug a loophole in my magic rules without rewriting the whole novel?
+Copyright - Can I go to any other publisher?
+How to start a technical book?
+What is the standard editorial timeline for genre fiction novels?
+How do I write a letter to a publisher?
+Why do writers use &quot;said&quot; instead of &quot;asked&quot; when someone asks a question?
+How should I capitalise headlines for professional Web writing? (Sentence case vs title case)
+What is the purpose of version control?
+Must protagonists be flawed for satisfying character evolution?
+What does &quot;OFF&quot; mean in a script?
+Pros and cons of using real brand/company names?
+Is it okay to end a novel with a cliffhanger?
+Should I write Internet slang as it is spoken or as it is written?
+Cheapest way to self-bind a large book
+Which social media platforms should writers use to build a readership?
+Will using real-world cultural vocabulary in a fantasy setting disengage readers?
+Is it legal to share an index you made from someone else&#39;s book?
+Many quotations of a black British novel which used creolized English language. When to use sic?
+What&#39;s the difference between purple prose and vividly descriptive writing?
+Show Don&#39;t Tell when Recounting Events
+How much is considered plagiarism?
+Writing techniques or exercises to improve ability to show rather than tell?
+How to stay motivated while writing a story, after the initial burst of enthusiasm?
+How can I have my characters do bad things, without sending the wrong message?
+Shared worlds: are there any good collaborative sites out there?
+When and how often edit the style and content of a story?
+Books about English writings
+How to switch pov characters mid-scene without jarring the reader?
+Are there some good books about scriptwriting to study?
+Character Development - How much is too much?
+Is there a resource where I could find myself a checker and critic, or check somebodies else text to exercise?
+Tools for generating characters&#39; names
+What are some good instruction manuals for writing short stories?
+What are the most appropriate types of degrees (or kinds of schooling) that a would-be successful writer should aim to obtain?
+Can someone explain set pieces?
+Do you always revise your stories or do you sometimes move on?
+Using a world created by someone else for your own fiction
+Examples for books that don&#39;t use (traditional) chapters?
+What is the proper way to write time in a manuscript?
+Do online writing classes really help?
+Character details of male archetypes
+Where can I find a good vocabulary list?
+What are common attributes of the Steampunk genre?
+Other than find a publisher for your work, what do agents do?
+Simple way/techniques of arranging all the ideas and scenes in a plot?
+Is there a legitimate step by step guide to getting your book published?
+Guideline on turning points in a novel?
+How explicit should a YA novel be?
+What is the most effective way to deal with flashbacks in a novel structure ?
+How to obtain a thoughtful critique of a job application cover letter?
+Do you use a pop-up dictionary/thesaurus on Windows? What are your criteria?
+What are tips / techniques to manage the consistency of a plot encompassing several subplots ?
+In what order should I describe a setting?
+Should the Voice of the Author change with the Point-Of-View Character in a Non-Literary Fiction?
+Which goes first: summary, background or justification?
+Is an overview clearer when outlined with bullet points, or when written in paragraphs?
+Is there a good textbook for understanding literary techniques?
+Vision/dream as an effective opening?
+Mixing topics in a blog
+Shots in a spec script?
+Publishing a Children&#39;s Picture book -- Question about an App and a Printed version
+The Protagonist and the &#39;Mid Point&#39; of a Screenplay
+Breaking Into Technical Writing - Where to Start (from a programming background)
+Querying for a setting-heavy speculative fiction novel
+How do you develop a strong female character?
+Best time to release a new novel?
+Finding words through meanings
+Is it always ok to use the verb &quot;to say&quot; after a question?
+How do I keep the plot interesting in a humorous book?
+Has anyone tried &quot;pair writing&quot; before and been published?
+Book recommendations for writing better technical papers
+What is this writing standard called,  and where can I look up the exact details?
+Help with Impersonal Past Tense
+How do I start editing my novel?
+Is concurrent first person / third person usage absolutely unacceptable?
+First person with co-authors?
+Italicize part of a word in fiction?
+Less universe-specific synonyms for &quot;squib&quot;?
+How can I work more efficiently when writing multiple pieces of fiction at the same time?
+Any documentaries or other inspirational movies about creative writing?
+How can I accurately represent young adult dialogue?
+Can a book be published by more than one publisher?
+How do co-authors&#39; rights to a manuscript work?
+I want to explore the psychology of a ruthless, macho killer. What mistakes should I avoid?
+How can I find short-story spinoffs for my fantasy epic?
+Are there  online research resources that cater to writers? 
+Should I prefer long or short sentences in scientific writing?
+Problems with constructing a complex sentence with many ideas in it
+What qualities should a good metaphor have?
+Is it more advantageous to have an excerpt or a plot summary critiqued?
+How important is it to know the end before the writing the beginning?
+How do I determine if a paper has been plagiarized?
+Should a long flashback be written in first or third person?
+How can I get book my non-fiction book reviewed by professional reviewers?
+Coming up with names for species in fiction?
+If I&#39;m going to hire a copyeditor, do I need to do any proofing myself?
+Publishing a translation
+Should I be using commas to suggest/enforce cadence?
+What can an agent do for me if I only write short stories?
+What permissions do I need to write a non-fiction book based on personal interviews?
+What is &quot;head popping&quot; and why is it bad?
+Is there some guideline that I can point to about the overuse of bold and underline?
+As a freelance writer, should I charge more for inconvenient time worked?
+ISBN - is it possible to have one and a title before publishing?
+Problems with character development?
+Is it ok to be autobiographical with a main character?
+What exactly is wrong with &#39;It was a dark and stormy night&#39;?
+How many errors per page volume is typically &quot;okay&quot; in a book?
+Non-cheap ways to make villains evil?
+Peeking through character&#39;s mask
+How can I keep my characters&#39; identities a mystery successfully?
+My Ex husband&#39;s wife self published a non fiction book naming my kids in the story
+Should dull dialogue be removed completely?
+Tracing dependencies and emergent plotholes during edits
+How to have a character be nameless for the first few paragraphs of a book?
+Does this riddle abuse language to make it fit into verse?
+How can one plan elaborate crimes for fiction without getting into trouble?
+How can I convey dates (with ordering) for events happening under different dating systems, e.g. a Sci-Fi story spread over the galaxy?
+How can I translate my poems in English that it doesn&#39;t sound odd/non poetic for English speaker audiences?
+Tips for writing sentences like a native speaker
+How to avoid specifying the gender in English when the original text does not specify it?
+Steven Johnson&#39;s DevonThink writing workflow: is creating &amp; accumulating 50-500 word snippets worth the effort?
+Iambic pentameter: how do you use words with &#39;secondary stressed&#39; syllables?
+Best Practices To Learn By Reading?
+What is the proper format/style for using and properly citing code in an APA paper?
+How to format dialogue with an embedded long monologue
+Should I include my email address in an ebook?
+Why can&#39;t I write something longer than a few pages?
+Shared world contract
+Variation in paragraph length
+Do people read short stories?
+Attributing quotes to fictional characters
+How can I dig conflict out of an optimistic SF-nal premise?
+I want to write a Choose Your Own Adventure styled e-book, what&#39;s a good approach?
+Characters with non-standard names
+Tips to identify &quot;noise&quot; or &quot;clutter&quot; in your story
+Should blog posts be reformatted to past tense after an event?
+Research about science fiction readers?
+From Markdown to .odt and vice-versa: a possible distraction-free writing workflow?
+Is there enough money in writing for me to quit my dead end job?
+How should I organize my journal as plain-text files?
+Is it possible to write a novel completely devoid of dialogue?
+Standards for representing user interaction
+Assessing what writing skills are missing
+What steps to follow in thinking through the writing of a conclusion?
+Is it acceptable to use many footnotes to share additional ideas?
+Is my serial-killer novel horror or crime?
+Can we enable readers to connect to far future humanity, without pretending they wouldn’t be different?
+Using capital letters for shouting
+How explicit can violence and sex be in a YA novel?
+Using LaTeX with publishers?
+Where to draw the line between being descriptive and getting on with the story?
+How to display URLs in a textbook?
+Should I translate foreign names of companies, organisations, political parties etc?
+Using &quot;he/she&quot; instead of &quot;it&quot; for animals
+Published on blog but taken down: Still remains previously-published?
+Legal effect of standard fiction disclaimer
+How to introduce a world that&#39;s alien to the reader
+How to distill a plot into a logline?
+Best Tool to Create User Guides
+Getting short fiction published
+How to show characters learning something in a non-boring way?
+Sluglines for same location but different periods, real and imagined
+Is there a standard for what should be included in an index?
+How could a criminal forget a crime?
+Defining a Prologue
+Should a beginning writer start with a series or a stand-alone?
+Is it bad to include subplots that don&#39;t push the story forward?
+Can I be a good writer without reading a lot?
+Every idea for a story I come up with seems excessively long
+Why do heroes need to have a physical mark?
+Use of punctuation within quotes with single words or letters
+May I use real weapon names in my book without copyright problems?
+Originality of Writing
+How do sci-fi stories hold up if their premise or details become discredited?
+Structuring a novel like a television or graphic novel series
+Should I create my own ConLang for my story?
+Least distracting method of citing in a book?
+How to engage a child audience when my characters have no language?
+How to keep the reader engaged throughout the novel?
+Where is the best place to &quot;twist&quot; a series?
+What books should I read before writing a non-humanoid point of view story?
+Do Novels follow a 3 Act/2 Plot Point structure like most Movie Scripts?
+How long can a writer expect to write before publishing his/her first novel?
+Techniques for lengthening or merging chapters
+Breaking into journalism without a degree
+Should I translate myself my writings into english to get a bigger audience?
+What techniques are used to create non-linear stories?
+When parodying a song, how important is it to replace words with homophones thereof?
+How many queries do you send to editors a week?
+Byronic Hero characters
+What are some popular blogs that accept submissions?
+How do I find good interview subjects?
+What are some appropriate uses of readability tests?
+Rules and resources for scientific writing
+Do episodes of the show House follow a constant structural pattern?
+Should one blog in a few languages?
+Writing a math exercise book
+Different kinds of editors
+How to make a letter interesting?
+Techniques for minimizing redundancy in a document, paragraph or sentence?
+Is Mac OSX Lion&#39;s Revision Control System useable by writers?
+How can you build an interactive tone into articles?
+Could anyone point me in the direction of some resources on conversational writing
+Pros ans cons of writing a plot based on the present and past tense (character&#39;s point of view)?
+Meretricious - A bit too fancy?
+Is the idea of single-sourced documentation dead?
+When is it acceptable to use the first person (&quot;I&quot;, &quot;we&quot;) in technical reports?
+requesting a review/critique of an outro narrative
+Where can I find paying markets for flash fiction?
+What makes a good action scene?
+What is the Priority in an Action/Adventure Novel: Dialogues or Conflict?
+What&#39;s the proper way of formatting writing from a character in a novel?
+How to refer to character of focus in a story
+What can I earn as a technical writer or technical editor?
+How to avoid getting confused while adding symbols within symbols (novel writing)?
+Is a novel less credible if the dialogues are too perfect?
+Does this feel like natural English?
+What&#39;s a good title to a presentations&#39; table of contents?
+plagiarism vs. reference?
+Is there an accepted format for comedy sketch writing?
+What are some strategies for developing basic writing skills? Beginning Writing (again)
+Least possible editing effort if a text is for multiple media?
+Writing about extreme trauma
+Is it easy to change genre?
+How Much Exposition is Too Much Exposition
+How do you come up with a fictional character name in a historical era/region?
+No English degree, what are my chances on successfully publishing a novel?
+What makes for interesting travel writing/blogging?
+Audio version of copyrighted written material
+How do you reference pop culture in a dialogue without proper attribution?
+Referring to oneself in first vs. third person in online profiles
+Correct order for Thesis Front Matter
+Front Matter in a Work in Two Volumes
+What is the proper way to write a date containing two days in a row?
+How important is scenery when you are writing?
+Any suggestions to improve these three introductory paragraphs of a novel I&#39;m writing (e.g. writing style, description and flow)?
+Tense of Literary Essay
+Why do authors usually put a reference section at the end of a book when they are not referenced throughout the entire book?
+On copyright laws and plots
+How do you introduce terms?
+Bogged Down with Legends of Wind
+Incorporating Military Experience into Fantasy Writing?
+Any experience with Serenity Editor software?
+What&#39;s the most marketable title?
+Good examples of fear/terror inducing techniques used with enemies
+How do I qualify as a sub-editor?
+Motivation Reaction Units?
+How do I round out a powerful character?
+Are fantasy books expected to be trilogies?
+How does copyright apply to illustrations and cover art?
+What is the recomended word-count for a fantasy-fiction book?
+Should The Secret Antagonist have dual goals set in the ending of Act I of a 3-Act-Structured Mystery?
+Should a novella have chapters?
+How do I re-interest myself in a plot I am working on?
+Logical conclusions of deduction
+What is the name of the genre of stories with multiple realities?
+Portraying life in a current milieu for science fiction that wants to be timeless
+Dedicated micro website
+Why would an author not agree to license his book to a foreign language?
+Interesting and easier-to-read alternatives to the scientific academic article
+Is emphasizing a point by underlining still appropriate?
+How to create varying, yet realistic, speech patterns
+Does reading books help writing skills?
+How to summarize prolonged plot
+How to write about things which depend on each other
+What content parts should a technical (IT) CV have?
+ISBN - does it uniquely identify book dimension?
+How can I make description more natural to me?
+How does collaboration affect a publishing contract?
+What exercises will help me write my co-author&#39;s character?
+Do I need to know anything to write a short story that I wouldn&#39;t know by studying how to write novels?
+What are the advantages to setting a word limit for a short story?
+How to concentrate when writing?
+Could a different structure for &quot;Feast of Crows&quot; have been a better solution to Martin&#39;s five-year-gap?
+Slow openings: What is it about this Neil Gaiman opening that pulls the reader in?
+Explaining that experience is far greater than official job title implies
+When do I need to obtain permission to photograph and write about a business, work of art, or person?
+How can a new writer make a realistic estimate of his work rate?
+Deaf speechmarks?
+What printing methods and quality can I expect of POD companies?
+Is there a name for this kind of sentence structure?
+How to convert DOI to citation information
+How can one write about illegal deeds without getting into trouble? 
+Is it overkill to follow style-guides for technical writing?
+How to do literature review
+Referencing figure in text - capitalize the word &quot;Figure&quot; or not? Why? 
+Creating a compelling story from a prebuilt world
+How do I organize a massive collection of personal files and writing? 
+How can I search for words by meaning/definition?
+How do limited edition book pre-orders work?
+The ethics of multiple contest submissions
+How should I use phrases such as &quot;uh huh&quot;?
+How to plan dialog and keep it on track?
+How to handle screenplay revisions in Final Draft?
+How can you write less to say more?
+What are the legal implications and best practices for publishing screenshots of web sites in a book?
+How to leverage social proof?
+Why are license agreements, disclaiming letters and others written with capital letters?
+Website to know about books something similar to IMDB for movies?
+Some doubts on the use of Italicized words
+Should my story&#39;s main obstacle be secret or common knowledge to the society?
+What permissions do I need for nonfiction travelogue?
+Is it appropriate to credit someone with a quote if I am not absolutely sure they are the source?
+Is there a technique to help me write this character&#39;s notebook entries?
+Breaking the &#39;cooling down&#39; rule after finishing the first draft
+Is it really necessary to add things like &quot;I thought, I wondered, etc,&quot; in first-person narrative?
+Avoiding unintended rudeness or accusatory tones in reminder emails
+Are there any metrical dictionaries?
+Guidelines of reviewing journal manuscripts
+Scrivener project statistics is showing an incorrect word count
+Converting the MIT License into a limerick
+Deciding the setting: real or invented?
+How long is a single-title romance novel supposed to be?
+&quot;I have/am&quot; what are other short ways to not repeat this in a cover letter?
+Adding Detail/&quot;Filling&quot; the story
+How much should I reveal of how the world functions in fiction?
+Does this opening paragraph grab your attention? (very normal setting)
+Believable (but easy) archaic English
+Effective ways to enrich your active vocabulary?
+How can I help a writing-phobic but competent student develop their writing?
+Researching sensitive subjects
+How do authors gain strong familiarity with archaic and extremely rare words?
+Do the characters in the following dialogue sound the same?
+Software for collaborative writing for a small team
+How to quote from a foreign journal that has not been translated?
+What are some disadvantages of writing fiction in a diary format?
+Writing about a subject on which you have no expertise?
+It is a sign of bad writing to have many scenes that are disconnected with the main plot?
+Do script readers start at the beginning?
+Does using version control system make backups unnecessary?
+Is there any standardized definition of a &quot;Mary Sue&quot;?
+How to get a programming book published
+How to use parentheses
+What is the correct way to write a fractional number in a formal letter?
+How can I improve my analytical writing for a standardized test?
+How to advertise a free e-book?
+How do I create a book on iBookstore without having a Mac?
+Background speech with foreground dialogue
+How to come up with a good title?
+Placing similes at the beginning and at the end of a sentence
+Do empty pages need a number?
+think, I think, I don&#39;t think
+Basing fiction on personal life
+Ebook publishing
+Can a title be copyrighted?
+Is it better to make clear immediately in which country/continent the story is taking place?
+What paragraph style should I use for an e-book?
+How to write for cartoons?
+How to tell if a fiction workshopping site protects my rights?
+story driven by event rhythm
+Permission requirements from people in my memoir
+Using pronouns properly in order to avoid confusion and repetition
+Affordable way to translate sentences?
+What&#39;s a minimum recommendable word-count to generate sales in Amazon Direct Publishing (ADP)?
+Expectation of privacy using a pseudonym?
+How detailed should I be when writing a character bio?
+Changing the way one addresses a character in a dialogue to create variation
+Is it unusual to use product placement within a fictional novel, and what are the legalities around this?
+Overusing &quot;the&quot; and &quot;I&quot;
+Outlining for white papers
+Do publishers take the time to look at works from writers who have no qualifications or experience in the industry?
+Pricing your Kindle ebooks at Amazon
+How to make a debate/discussion between characters less dry?
+For Sci-Fi books, what is the purchasing split between regular and ebooks?
+Mixing dialogue and action tags
+How can I prevent, or work around, unfortunate hyphenation in critical words?
+Publishing an illustrated book- Self-Publishing or Corporate Publishing?
+What are the pros and cons of building the setting before the characters and story
+Outlining Structures for Romance Novels
+Using P.S. in a formal email
+How long on average does a major house &#39;consider&#39; a book before rejecting or accepting it
+Am I breaking the &quot;show don&#39;t tell&quot; rule in the following passage?
+What are the stages of The Guardian&#39;s Journey?
+Best way to convey an immediate change of scenery
+How can I write a tragedy for children?
+Method for handling non-canonical fantasy fiction
+Referencing, but not using, trademarked characters
+Using LaTex medium to enhance writing
+Is it legal to name a character in a story after a disguised trademark?
+What information should I provide when submitting a translated, previously-published story?
+What editing can I expect for a translation of a previously-published story?
+Will my readers find it hard to care/identify with a character who seems to lack human emotions?
+Formal video-based creative writing courses
+Does this entice the reader to continue?
+How do screenwriters earn money, if none of their scripts get turned into movies?
+Does this opening somewhat grip the reader?
+Can I write same scene from 2 viewpoints?
+Script Writing as it pertains to TV and Radio lines
+Do screenwriters freewrite/outline directly in script mode?
+Good screenwriting-specific collaboration software
+What is a good tool for organizing story notes?
+Shouting in a question
+How can I write better code-based reference documentation for programming interfaces?
+How to &quot;defy&quot; physics on a sci-fi?
+Twist in kishōtenketsu vs. twist in Western plots
+Alternative word for &quot;she&quot;
+How to cite the C# Language Specification Version 5.0
+Are there more character alignment grids (like D&amp;D)
+What concrete steps do you take to write for a specific reading level?
+Methods for writing from an alternate gender/age/cultural viewpoint?
+RDF vocabularly for storytelling
+Choosing between your Mother Tongue and other language
+Is Jaime Lannister a &quot;telling not showing&quot; example?
+Can novels have twist endings?
+How should changing the point of view be handled?
+Handling an Inauthentic Character
+How do I cover a lengthy time period with only a few interesting details?
+How should I document a database schema?
+&quot;ing&quot; words in technical translations from Japanese to English
+What&#39;s the ideal usage for italics for names?
+How can I add emphasis in an internal dialogue, given that I am already using italics for character thoughts?
+When mentioning two items in a sentence, should I specify which one I&#39;m referring to in the next one?
+Are newlines effective for adding weight to certain phrases?
+How to write realistic injury scenes?
+How to write good erotic scene?
+Stories based on news: are they allowed?
+How do I show that two days has passed in a short story?
+What&#39;s the meaning of the running numbers in left margin of a movie script online?
+How to indicate that a single letter was removed from a quotation
+How to correctly identify publisher?
+&quot;Thought&quot; Verbs: A sign of weak writing or a stylistic choice?
+How to write a character who uses a lot of smalltalk without boring the reader?
+using ideas posted on social media: is it ok?
+My story moves too fast
+Clear steps for developing a powerful inner conflict
+Any helpful tips on how to, better use description in my writing?
+Using a foreign language that uses a different written alphabet
+How do I involve my audience with my story?
+Is there an accepted (or &#39;correct&#39;) way to write translations/subtitles for different materials (videos, articles, books, etc)?
+Works of literature that are (ostensibly) about the act of writing
+Different Points of View
+Where and how to look for a picture for illustration?
+Pros and cons of using perspectives?
+Good sites for descriptions/rules of different genres?
+What are some helpful blogs for memoir writing?
+What genre is a book in an imaginary world but no other fantasy element?
+How would a source be referenced in the typical paper/book?
+How to sell novel excerpts as short stories
+How do you write a fiction or non-fiction query letter to an editor?
+Short Story first or skip to Screenplay
+Magazines/Websites Similar To The New Yorker?
+Is where I live going to have a positive/negative effect on getting a novel published?
+Strunk and White vs &quot;Style: The Basics of Clarity and Grace&quot; by Williams and Colomb
+How important is typing speed to a successful writing career?
+Best markup language for a little story?
+Using uncommon abbreviations
+What revisions for this draft would be more readable and/or more humorous?
+Referencing a website using Harvard style
+Analogies, pitfalls and guidelines
+ePublishing Conference Proceedings
+How should I approach possibly unfamiliar pop culture in fiction?
+Feedback on technical blog post
+Can my paragraph use better adjectives and descriptions?
+How to achieve a dark and nostalgic feeling/setting in a novel?
+Simplicity is fundamental in design. How about in writing a novel?
+How many writers use fountain pens/dip pens today?
+What are effective ways of working with a nonfiction editor?
+Trying to indicate that the frequency is annoying
+Books to improve writing skills
+Third person POV
+How could I share my lyrics?
+What are some ways to denote presentation style outside of written text.
+Help write a book review, please
+How to explain something mid sentence
+Online technical writing classes
+Is it a Good or Bad thing to use &#39;I&#39; Regularly in Magazine Articles?
+How do you make your characters likable?
+How can one get better at copywriting?
+Designing a book
+Is it worth spending money on a subsidy publisher?
+Writing character cards?
+Style of writing as told from the point of view of the main character
+Do Fantasy novels have less readership than a Realistic Fiction novel?
+How can I improve this description which includes actions?
+Defining Terms: To Capitalize or Not To Capitalize?
+Punctuation-Quote or Quote-Punctuation?
+Is it good style to use latin phrases in english scientific literature?
+Does this paragraph make you want to keep reading?
+Is it acceptable to mix how you address the reader in an instructional Wiki?
+Length of non-fiction article and what to do about it
+Multiple MLA inline citation question
+Write to the finish, or edit as you go?
+Tips for adding more personality to characters?
+Citing speech and interviews in biographies
+Finding freelance work
+How often to cite sources?
+The best publishing platform for a business &quot;vanity&quot; book?
+If in real life the antagonist is often oneself, shouldn&#39;t it work in a full length novel?
+Do traditional publishers ever make use of &quot;print on demand&quot; (POD)?
+What is the new Google Author markup?
+Proper attribution of copyrighted lyrics in a story
+Single character POV vs. two POVs - how to decide?
+What are useful resources for a beginner whose eventual goal is to write a novel?
+How do you decide whether to dictate, type out or hand-write a piece of writing?
+Which traditional presses publish poetry?
+Is this excerpt&#39;s style too matter-of-fact?
+Should a flashback be in past tense or past perfect?
+Paragraph flow, verb inversion and last sentence tone
+Help Formatting for Kindle Direct Publishing on Mac?
+I have too much dialogue, how do I add more description?
+Unpunctuation: bug or feature?
+Writing a Lullaby
+Use of present-tense for memory-related shenanigans in a past-tense story
+Fiction writing book recommendation for a 10-year old
+State of the art proof reading tools/methods
+citation for source from which a list of references was drawn?
+How to explain a war scene?
+I suck at plots. Is there a way to sort of train oneself to think of creative plots, specifically in scifi?
+What software can handle both revision control and layout?
+Adding more characters as the story moves forwards
+Best text procesor-- keyboard focussed UI
+How do I create a book cover for my self-published book for under $500?
+Preventing the symbolic conflict of &quot;Hunger Games&quot; from overshadowing widespread social plight
+A friendlier way to write charges or fees to clients?
+How do I balance reading time with writing time?
+How can I learn to write by hand again?
+How would I find a publisher who is accepting unsolicited manuscripts from authors?
+What methods does Rowling use to establish Dumbledore as being wise and trustworthy?
+What tense to use in an academic paper when speaking about correspondence?
+Habits and routines for my first tech writing job
+Is there a style / terminology guide for Android OS application documentation?
+How can I make a collection of essays / arguments more attractive to publishers? 
+Need help to rephrase this sentence to prevent a run-on
+Can I write reference books about a fictional universe from an existing franchise?
+What&#39;s the appropriate way to write numbers in educational contexts like papers?
+Where to find authors for highly technical articles?
+Floating vs Float
+What is the best way to learn technical writing?
+What would sections of a book that are larger than a chapter be called?
+A tricky serial semi-colon
+When to use the character&#39;s name and when to use she/he?
+What are some good methods for framing the theme of a writing contest?
+Source for literary terms?
+How does one break into the field of professional writing?
+How to objectively judge the storytelling in a writing contest?
+Does anyone know the average number of times a new author has to submit before acceptance?
+Citing in a paper: one citation for two paragraphs?
+Does this writing create emotion in the reader? 
+Legal ramifications for writing about fictional relationships with celebs
+Are these fictional musings convincing or overwrought?
+How long has the &quot;scene&quot; method been used for writing a novel?
+How does joint authorship work?
+Creating Shared Worlds
+Using latin words in fantasy
+Can a literary agent be hired?
+How to distinguish if a novel is science fiction or fantasy?
+How can I develop my ideas?
+How to find an agent for a children&#39;s picture book? 
+Which tense to use when writing a diary?
+How do I approach writing an autobiography?
+Writing a novel which has the same structure and a particular theme in each chapter
+Is it safe to write about a fictional murder in a real-life location?
+Deciding whether to use a dialogue tag or an action tag in a dialogue
+How can a Russian writer get his work translated into English?
+How to determine if a freelance writing website is reputable and provides assignments that are worthwhile?
+Knowing When To Cite?
+How can I reconcile the exposition of the three act scheme vs. starting out with a bang?
+When to use the em dash (—) in fiction writing?
+How much $ to calculate for an Editor
+Websites that offer book/movie/story analyses useful for writers?
+How to get over writer&#39;s block related to revising?
+What existing platforms use crowdsourcing to develop creative writing and editing?
+Is an anthology a valid NaNoWriMo entry?
+Can I improve my beta reading skills to aid a close person&#39;s writings?
+Does a Haiku needs to have exactly 17 syllables?
+How applicable are screenwriting ideas to novels?
+How can people doing technical, archane work be portrayed interestingly?
+How many errors should I expect from a proofreader?
+Using dashes in writing dialogue
+Can you reprint screen shots of a game application or program without permission?
+Converting Word pages to book pages, for novels?
+What does a typical creative writing course look like?
+Very long sentences: personal style or just bad writing?
+Can a mock-magazine with fictitious content count legally as fan fiction?
+How to keep the reader engaged in a novel where &quot;not much happens&quot;?
+Are TOC and appendix part of total word count for books?
+What is the proper way to use the pronoun &quot;I&quot; without too much repetition?
+What is the difference between &quot;creative writing&quot; and &quot;fiction writing&quot;?
+How to tell a story with the least amount of writing?
+How are citations formatted in serious non-fiction (proposals)?
+How can I prepare for a career in instruction writing and editing?
+Putting a dialogue a tag before a quote
+What is the role of editors in news media today?
+Is it true that men (in general) can&#39;t write female first-person?
+How can I express this fragment more clearly and concisely?
+Proper use of the &quot;historical present tense&quot;
+How to Create Barcode from ISBN Number
+What&#39;s a good market for experimental novellas?
+How to minimize language mistakes while writing
+Effect of real world brands and/or places on story tone
+Does submitting multiple pieces to professional magazines (and being turned down) hurt chances of later stories that may be better-written?
+singular or plural for index entries
+How can I consistently distinguish among tables, fields, and records in a database?
+Should I write about how the character solved some riddle or let the reader solve it himself
+Is it acceptable practice to use contractions in a fictional first person narrative for children?
+Dealing with potential copyright issues: manga
+Automated correction of google translated documents
+PDF e-book page size and fonts
+What are the advantages of different date formats in resumes and CVs?
+Why Use Excessively Short Chapters?
+How can I get my students to better integrate their sources into their writing?
+Is it strange if a novel starts the first chapter without one of main characters?
+Does writing in a certain mood change how a writer writes?
+How do I organize a paragraph that lists several steps after an introduction?
+Co-authoring, brainstorming but not writing
+Offer to publish - should you accept or wait?
+How to better describe &quot;jet-black (pitch-black) darkness&quot;?
+Dream analysis research
+Is it better to omit phrases like: after a moment, after a while, for a moment, etc?
+Punctuating dialogue with oneself
+Is it a bad idea to use a culture-specific word in the title of a story?
+Opening a story with a reference to what someone just said followed by a setting description
+Books for children: complexity
+Referring to people in a book
+Is the following analogy effective and clear?
+How to find the plot to a message or theory
+Can an expanded version of an article be considered an unpublished work?
+Level of description in a story
+How do I overcome my anxiety of writing again?
+Does this passage break the rules of telling and not showing?
+ISBN codes for privately sold books?
+Is Sherlock Holmes public domain for use in a story?
+Stupid Villain rather than Dark Lord
+Using ACM style, how do I cite an article without a specific author&#39;s name?
+Techniques for creating a bridge between protagonists from different generations
+Is it better to have a deadline?
+How to shorten meandering dialogue?
+Is extraneous language appropriate in academic writing?
+What symbols are used after difficult words in a text to refer a reader to a glossary for a definition?
+Is there a known technique for giving your readers chills?
+Should I use present or past tense when the narrator talks about an universal/most-often-true statement?
+Should subsection headings sometimes repeat section headings?
+Visualizing multiple word-based changes among many text files
+Can I use real presidents (past and present) and real companies in a fictional story?
+How to indicate emphasis in plain text manuscripts
+How would an agent approach a debut piece written by two new authors (co-authors)
+Do I need permission from people I am writing about if I am writing about a true story that was reported in the media?
+How to retrieve the number of copies sold for a specific book?
+How to handle a character when she is lying about her name
+What gender do you think the narrator is?
+How do I write for webcomics?
+tools for writing scripts
+Dripfeeding New Concepts to a Reader
+Is having a specific town for a setting in a young-adult novel a bad thing?
+How can I get a copyright for my e-book?
+Is it good to publish a novel online for free?
+Plain translation or cultural adaptation?
+Where can I find examples of nonfiction book proposals?
+Humor in a fantasy setting
+What are good examples of backstory in natural dialogue?
+Is it okay to mention a person&#39;s nationality and accent only once or twice in a story?
+Are there straightforward instructions for MS WORD 2013 for numbering in different formats, yet maintaining a chronological count?
+On the role of &quot;accidents&quot; in &quot;realistic&quot; stories
+How to avoid formulaic fictional structures while still using tried and tested techniques?
+How can I broaden my understanding of my characters?
+Is it legal to use an old painting on the cover of a book?
+Is there a great manual for technical and scientific writing?
+What can I use instead of &quot;but&quot; and &quot;however&quot;?
+Character development in a story?
+Referencing the process of writing the novel as a part of the novel&#39;s plot
+Why doesn&#39;t everyone publish public domain books?
+How do I calculate wordcount for a manuscript?
+Marking a chart that is not based on real data
+Is my writing &#39;disjointed&#39;, and if so how can I fix it?
+Does excessive use of prepositions make writing unclear?
+Bullets vs. Numbering: which to use when?
+How can I get permission to translate and republish a book?
+Indicating a word choice you&#39;re unsure of
+Does a writing medium exist which preserves reading order but also allows commenting and editing?
+In a FAQ, should a question header take the form &quot;Why does blah blah?&quot; or &quot;Blah blah happens, Why?&quot; And why?
+Starting a novel with internal dialogue?
+When is a screen shot really useful in training documentation?
+Tools for modelling near-future world
+Is it considered ethical to accept payment from a business for reviewing a product or service?
+A POV character who&#39;s a slave?
+Why is distributing an audiobook so much more complicated than POD or eBooks?
+How to write in a VERY thick notebook
+there are considered to be only seven or so actual plots anyway?
+Intensity scale for romance novels?
+Is it legal to use a parental advisory on a book?
+Is there a format I can save my poems in that will make the publisher unable to copy and paste?
+Is there such a thing as the &quot;master copy&quot; of a book?
+How do you visualize plot structure?
+Sex: How much is too much?
+Is it considered faulty language to use Spivak pronouns in an essay?
+Is it acceptable to reuse chapters across multiple books?
+What are some strategies for surprising the reader?
+How to deal with two ISBN from two different countries?
+How do I approach rewriting an entire user guide in an agile environment?
+Can&#39;t write, can plan
+What techniques can be used to describe a character&#39;s terror?
+Is it unnecessary to mention that there is a silence in the following cases?
+Where can I find a good online thesaurus?
+How can I better promote my film review blog?
+Resource for idioms
+Capitalizing &quot;The&quot; in Title Case - Increases Engagement?
+Do Decimals Bounded Between 0 and 1 (inclusive) Need a Leading Zero?
+Is there a disadvantage to transcending genre?
+Misleading facts in the About the Author section
+Should I specify the time/date at the beginning of a scene?
+Simple rules for separating paragraphs in books?
+Do I risk losing reader if I put too many religious/anti-religious views?
+If I get a free ISBN through Amazon&#39;s CreateSpace now, will that impact any decisions about getting my own ISBN later?
+Why one sentence per paragraph in these news articles?
+When to be specific and when to let context fill in the holes?
+How to release a heavy revision to a series without upsetting readers?
+Do you bold punctuation directly after bold text?
+Word Clouds and Phrase Clouds
+Is it necessary to add a.m./p.m. after the time?
+Should my query lead with the detective, or with the crime?
+Dealing with Extreme Distances - Space Travel
+Commas at the beginning of a sentence: should I follow convention or intuition?
+What is this &#39;pretend dialogue&#39; technique called
+Is replacing &quot;this&quot; with &quot;a&quot; allowed in fiction?
+Choosing a license for an open-source book
+Software for keeping track of book edits?
+Is there a way to know who bought my books on Amazon?
+Compiling Articles in an ebook format
+The etiquette of updating News Posts - Help please!
+Is it possible to practice the craft of creative writing in isolation?
+Children&#39;s Dialogue
+Naming my character
+How would my work being available online affect my chances of a book deal?
+in English, is it necessary to capitalize after a colon?
+How to deal with online comments to published pieces?
+Including a deceased person in a dedication
+In a dialogue, how do you write that a character says a letter?
+simultaneous dialogues in novels and short fiction
+Should I ever repeat the affiliation of a person?
+Multiple sentences in a parenthetical phrase - How do I punctuate properly?
+How to balance for readers who are not technologically literate
+How do I write numbers in dialogue?
+What techniques do you use to invent snappy turns of phrase?
+How do you convince your publisher that your story is good?
+What genre is my writing?
+Which amount of side-story is acceptable?
+original story climaxes - rules / guidelines for this?
+Do multimedia-objects work well in electronical publishings of fictional writing?
+What is the process for publishing academic papers?
+What to do about noun clusters
+What can I do to improve my concentration when reading?
+Verb tense for technical document titles
+What are good books on writing romance/erotica?
+Which edition of Strunk &amp; White&#39;s The Elements of Style?
+How does one go about writing &quot;official&quot; fanfiction?
+Character with extreme manners
+Personal Page - review request
+What&#39;s a good program for tracking submissions?
+Please help me improve this sentence...
+How to improve this introductory paragraph (to fit writting standards and grab the reader&#39;s attention)?
+Which version of these three lines is more likely to attract the interest of the reader ? (character&#39;s viewpoint vs omnicient narrator)
+Are there any techniques to arrange or list ideas from a short text?
+Put text between section and subsection headings?
+Is this sentence ambiguous?
+Does this sign-up email announcement sound friendly and conversational?
+Do writers use highlighting to clarify ideas in their work in progress?
+Is it possible that my short novel will be boring to my readers because it only has two characters and the location doesn&#39;t change?
+LaTex + version control writing package
+Writing a bibliography
+What are the ingredients for a good book review?
+Can I use &quot;We&quot; to refer to me and the reader?
+Is this clearly expressed: &quot;The real power is information&quot;
+Does Wiktionary supply what writers need in an online dictionary?
+How much should I expect to charge someone for translation services?
+What sites can I use to crowdsource my writing project?
+Does this microfiction provide a slightly surreal sense when describing an ordinary scene?
+Do we need a gap of time between drafts?
+Writing an artist statement , not a thesis
+What is the style used in ISO/IEC publications?
+Disclaimer when writing about governmental entities
+Where can I publicize a website I have developed for writers?
+Formatting blog posts like the pros
+Is it okay to quote a saying, even if i don&#39;t know who said it?
+Can I ask CreateSpace to *not* add a barcode to my cover?
+Italicizing and adding accents to Spanish words in an English novel.
+Adding breaks in a novel—spaces, asterisks, or a chapter break?
+Vancouver citation
+Anybody know anything about examiner.com?
+Using &quot;Ends.&quot; to indicate the end of a document
+Is there anything like 99designs for text writing?
+First publication rights still available on this?
+What are examples of fiction books picked up by publishers after being self-published?
+Multiple POVs in a single scene
+What&#39;s a good writer community that mostly discusses self-publishing?
+Which is a better composition?
+On writing an essay, what are some good techniques to teach to schoolchildren?
+Which English grammar should be followed when writing for a global audience?
+Dropping articles in the title (of a article or a section) or in the caption (of a figure or a table)? What&#39;s the general rule?
+How would one use punctuation to indicate tone changes?
+A letter of recommendation
+Email templates
+First Person Voice - Same as speaking?
+All persons fictitious - where to place it?
+What&#39;s the best way to distinguish between co-authors?
+What elements should be included in a story&#39;s setting?
+What counts as a word when dealing with a word limit?
+Can a likeable character be unsympathetic?
+How do you manage all the different aspects of writing poetry?
+How can this technical message be made clearer?
+Minimum (realistic) word count of non-fiction book
+Copywriting Course
+Cheap ways a young person can get paper books printed/bound from their manuscript? (Please incl sample costs)
+Does this snippet meander too much?
+What is a log line, and why are they bad?
+How to write English in Merlin (TV Series) style?
+how to reference facsimile (Turabian style guidelines)
+Does this beginning hook the reader?
+How to associate my screenname with my books?
+Replacing actually with a more formal alternative
+What is this form of poetry called?
+How to discover clich&#233;s
+Picture-based Identification Dictionary
+Dealing with personal trauma in writing
+Is it okay to attempt to write in the style of another person, and how is that done well?
+Attributives in dialogue
+How do you use &quot;stardust&quot; in a sentence? Is there a better word to describe what I am trying to convey?
+How to restart a novel(la)?
+Questions on two sentences on a cover letter
+Proof reading service
+Software for instructional book
+A tricky sentence to construct
+How does copyright apply to the Q&amp;A sections of educational or textbooks?
+LaTex vs. Word vs. etc
+Are there good writing exercises for compressing expression?
+How can I put something in book format without &quot;publishing&quot; it?
+How can I describe the effect of building up a mental exposures?
+File specifications for HTML folder --&gt; Kindle?
+Indirect source quotations
+Is a movie script more like a short story or a novel?
+How could the surprise-villain thread have been less contrived in &quot;Harry Potter and the Philosopher&#39;s Stone&quot;?
+Not knowing a character&#39;s name. Would this be frustrating for the reader?
+&quot;The company from Redmond&quot; vs &quot;The Redmond company.&quot;
+Do I need an LLC to self-publish a political book in Florida?
+How do I express opinion informed by my beliefs without being hamfisted?
+How best to handle revealing a main character&#39;s name midway through a long story in close-third person?
+Color Scheme for Print and eBook
+How do you estimate the length of your screenplay in screentime?
+Is Patent text copyrighted?
+How Important are essay writing conventions in the university level and above?
+Literary criticism term for character espousing author&#39;s ideas?
+How critical is selecting an imprint for a self-published book?
+My story portrays a process, not a conflict - how do I make the process my focus?
+Are contests an effective way to gauge the quality of your writing?
+How to effectively jump from one period of time to another in a short story?
+Is the opening of this story intriguing, &quot;dark&quot; and smooth?
+In a &quot;learn to do X&quot; book, should a section review come before the quiz / exercises or after?
+Abbreviation for &quot;figures&quot; in scientific papers
+Should I use different pen names for different audiences (non-fiction)?
+My first act is lengthy. And I cannot shorten it. Any Suggestions?
+What sections of the frontmatter are listed in the table of contents?
+Is it a bad idea to ground a fantasy world in earthy culture(s)?
+How to separate scenes in a chapter?
+Is it a bad idea to turn a short story into a full-length novel?
+What resources will teach me about the state of the art in technical writing?
+Book cover conventions
+Do flashbacks break up short stories too much?
+Should you specify camera action in a film script?
+Synopsis - multiple POVs and time periods
+What&#39;s the correct vocabulary for a web application tutorial?
+Are contractions antithetical to academic writing? 
+Path to publishing a technical book
+How can I improve the effectiveness of my examples to grab the recruiters attention?
+Adding dementia to writing
+Getting a Manuscript Reviewed
+Writing subjectively or objectively? (IELTS writing)
+Is a chapter the equivalent of a sequence?
+How to write time duration correctly
+Headline method - How do I write The Economist-style headlines?
+Differences in personal statements between American and UK universities?
+Looking for some tips on how to improve writing
+How to publish public domain books?
+Creative Commons and / or Public Domain library
+Various flavors for the action &quot;irritate someone&quot;?
+Combatting Excessive Familiarity Of Writing
+Is it a bad idea to vary the voice of the narrator in third person (limited omniscient)?
+Troubles with unfamiliar locations and settings based in the real world
+Should I embrace or avoid memes(pictures) when blogging?
+Parts, books, volumes, etc
+What software do you use for writing and then structuring a book?
+What work better for the following piece of writing? Past or present tense?
+How do I change a novel from first person to limited third person?
+Is anybody aware of a good way I can determine whether or not something is public domain, or royalty free?
+Multiple authors in MLA header
+Self/vanity publishing a game manual
+Flashback or dream as a means of hinting at more going on than meets the eye
+How should I format a non fiction book with Scrivener?
+Standardizing capitalization within a bibliography or footnotes when your sources have used different standards
+How to cite multiple chapters from same book in Vancouver style?
+How should we go from Stack Exchange Q/A to publishable PDF with the least hassle?
+UK laws broken by piracy of novels
+Not happy with format of self-published book. How to proceed?
+Releases needed for picture books?
+Critique wanted for a fantasy prologue
+How can I sell articles about TV shows online?
+Must one have a book cover designed before to publisher?
+how to cite a dubbed TV series? APA 6th edition
+Ways to speed up my writing to 15 - 20 pages a day
+Critique a short essay
+Which e-book formats to use to get a larger readership?
+Best practice for stories based on other writers&#39; stories
+What factors to consider when choosing an e-book platform?
+Is dialogue in a novel necessary, or just padding?
+How best to format a novel written in Markdown
+Composing a single narrative by writing small chunks
+Screenwriting: Help with paragraph length.
+Is it correct to use verbs like &quot;sighed&quot; and &quot;laughed&quot; as dialogue tags?
+How specific should I be when outlining the plot?
+Creative writing use and abuse
+Is the following allowed under the ungrammatical exceptions in fiction?
+What is first electronic rights?
+Does the country matter in a story if it is set in a real one?
+What are the common editing requirements for a short story in an anthology?
+How to become a productive/accomplished writer?
+Looking for writer&#39;s platform
+Units to use in travelogue-book (time, weight, temperature, distance, etc)
+permission to use emails from famous deceased person
+Should a piece of fiction be made of 100% concise writing?
+Citing in a Magazine Article
+How do I improve my knowledge of English well enough to write in it?
+How to find a British agency that will publish a book in Russia?
+Citing lecture notes
+API reference doc: best practices for describing opaque parameters?
+At what point can a story be considered &quot;erotic&quot;?
+Legalities about fictionalizing current events
+Em dash: space or no space between words
+Hand gestures of &quot;Come on&quot; and other short words
+How to make a intellectually disabled character believable?
+Where could I get a sports fiction short story published?
+Publisher field in Book Review when the book is obtained for free from the internet
+Declaring short forms in an essay
+Can Articy Draft be used to write a book?
+costs of self-publishing photo book, coffeetable
+How to structure an essay answer?
+Where to publish Edgar Allan Poe style fiction short story?
+Changing narrators
+Pulling an idea through in spite of the need to correct details
+What&#39;s a word for a person who took a very rough story and made it into a book?
+Is it required to cite the original author, when the original author is unknown and in a foreign language and adapted by an oral narrator?
+Can I use idioms in my personal statement?
+How to format news, poems, text messages, and other kinds of written text?
+Software to organise world building?
+Question re asterisks in MS Word using Styles
+Space Between Stanzas: Line Beaks or Paragraph Style?
+How do I find a ghostwriter for a series of books?
+In script writing, how to denote laughter in unison
+Are collection of short stories more likely to sell than single short stories?
+How to depict Australian characters
+Structure of a good summary
+Should I edit the first draft until I&#39;m totally satisfied or should I leave that to the third draft?
+Where to put counter-examples within a 5-paragraph essay?
+1st-person POV vs. 1st-person narration
+Correcting common personal errors/typos
+When mentioning two people in a sentence, what&#39;s the proper way to use a pronoun to reference the first?
+Who can help me to describe the text line from my story in slow motion?
+Promoting your books when you&#39;ve written under a pseudonym/pen name
+Using emails in an autobiography
+Exercises for improving 3rd person perspective writing
+Should I switch to present tense when the narrator is talking about one of his habits?
+How can I get my romance through a two-year breakup?
+Elmore Leonard said Avoid Prologues... Why?
+Do romances need to have a happy ending?
+Is the following extended metaphor/group of metaphors too overwhelming?
+Multiple Same Source Citations in the same Paragraph in MLA format?
+Multiple Point of View characters in a short story
+Conversation with Multiple Characters
+Scrivener: Editing the source files
+Perspective and Balance with Multiple Characters
+Balancing character levity in a serious narrative
+Is it bad idea to directly state the message/moral of a story?
+Best way to write an article professionally
+How do I find mistakes in grammar and style in my own writings?
+Am I providing enough information to keep the reader gripped?
+software to write book with lots of photos
+1-Part vs 2-Part pilot scripts?
+How to highlight a main character among several points of view?
+What is a reasonable amount of time to spend writing a product overview?
+Does the word &quot;Its&quot; get a capital in The Economist Style title case?
+How can we make compiling release notes less chaotic?
+What is the best way to cite an anonymous writer?
+Standalone book, followed by series
+tinyURL seen as risky by readers?
+What does a character in a short story/novella/novel really do while &quot;soliloquizing&quot;?
+Writing a short documentary about a medical clinic
+Editor of a publication changed Press Release headline to the point the meaning changed, what can be done?
+Is an Introduction and a Prologue good or bad, especially in middle grade fiction?
+my first comedy plot draft is very bland. how far can I go on calling this out?
+Should I have an introducing paragraph in every chapter of my description?
+What is the best way to use your favorite authors as inspiration without plagiarism?
+Overuse of &#39;I&#39; in a memoir
+What closings can I use to convey friendship but not desire?
+Types/Categories of rhyme?
+Typography of page numbers
+Is the following passage confusing?
+Differences between script and screenplay
+Is there a resource to help find the right connotative meaning?
+Difference between an &#39;Abstract&#39; and an &#39;Introduction&#39; in a feature article?
+Resource on archaic English
+Quotes or no, for Hiccup
+How to invoke my creative side without investing too much time?
+Are headlines about lists superior in print as they are in web content?
+How short can a poem be until it can no longer be a poem?
+Should the word &quot;The&quot; be included in a label when labelling a character?
+Legal and Social effect of story involving real life people
+Should I highlight or downplay a character&#39;s quirk to make her seem more odd?
+Are there agents or representatives who only specialize in book promotion and not distribution?
+Is there and equivalent of ACX for people outside the US and the UK?
+How do you write a character&#39;s internal monologue?
+How to master literary American English as a second language?
+Story-telling to improve writing skills?
+How to Cite an Author Who Has a Pen Name
+If not in the prologue/intro, where would a hook be?
+Is there a standard for dealing with lyrics in dialogue and narration in creative writing?
+What can I do to make my writing less choppy?
+Is it OK to have two different POVs in a same paragraph (third-person omniscient narrator)?
+Storyboard a Novel?
+Are there any &quot;quantitative&quot; (computer) programs that measure plagiarism?
+How to add difficult Web Citation?
+How do I write a gory scene?
+Is there a standard - tab versus blank line?
+I would like to illustrate a poem
+Referring to sign language in conversations
+In Science Fiction, how does one do research, but write at the same time?
+How to capitalize the first line of a paragraph using styles in OpenOffice?
+Main male character description
+How to handle speech within speech?
+Is there a quality difference in purchased hardcovers?
+Is this title suitable for a chapter section?
+Do published authors have rights to use their own book cover images?
+How do you know if you have too many words for the amount of pages you have written?
+Does it confuse readers if a character name is similar to the name of an object?
+Typical Fairy-tale Story Especially Princess Stories
+When Is a Relationship Too Antagonistic?
+Suggestions for revising style and cadence within a children&#39;s book
+My Hero is captured, now what?
+What are some creative memoir writing styles?
+Tension built upon whether the main character will commit suicide or not. Problem: I&#39;m using first person narrative
+Beginners can break rules too?
+Scrivener customising the header and footer
+Nonfiction: Need signed releases and/or pay subjects I am interviewing?
+What is the difference between a complication/twist and a situation?
+How does one break into journalism?
+Revising a manuscript and resubmitting to same publisher?
+What resources are there for finding ONLINE writing partners?
+Alternate universe vs. historicity: how to set the threshold/expectations?
+How can I capture the voice of an insane person?
+Software for plot building across multiple books
+Where can I find co-authors willing to share writing duties for a fiction novel?
+Hiding information
+Books on character development
+Is there an online critique community for stories written in german?
+Is it important to describe how the characters are dressed?
+How to get permission for using software screenshots in book?
+What&#39;s the difference between the American and the European style in essay writing?
+What do &quot;p&quot; and &quot;pp&quot; mean in the context of an index?
+How can i learn the name of a colour to use in a description?
+How do you know when there&#39;s something missing in your story?
+Writing an Ending: how to prune away the Wrong ones?
+Is it OK to invent as I write, or should I plan the entire story first?
+How do you effectively develop a plot when you have a proper back story?
+Which skills should an editor have?
+What is the Normal Process for Gathering Permissions for Quotation Collections
+How important is a BISAC Category?
+In modern writing is there a a significant difference between satire and parody?
+Past tense vs present tense
+Is there a systematic overview over the approaches of describing a physical object?
+How to format Facebook chat in a novel?
+What effect does the gender of the narrator have on a story?
+Writing many entries/articles, storing them, and browsing them
+Non-dialogue sections: single quotes or double quotes?
+Is pantsless writing practical for NaNoWriMo?
+What&#39;s the difference between Cut and Cut to?
+Should I use ellipses or em dashes to denote pauses in speech?
+Changing main character within a trilogy, is a good idea?
+Where can one go to find police procedures
+What is the benefit of writing formally?
+Book Title Generator that takes input?
+What is the benefit of using formal terms instead of informal ones?
+What is the average cost of software for DITA authoring?
+Where do you start researching something you know nothing about?
+Editing: Those darn comma splices
+How do I get publishers and agents to read my full book?
+Writing nonfiction for mass audience
+On using InDesign or Scribus
+Is there any research about the efficacy of illustration and example placement in procedure writing?
+What science fiction sub-genre is my novel?
+Does Visual Appearance matter in blog writing
+How/When to include twists when developing plot.
+How to write a conversation
+What are the copyright limitations for adopting a ficitonal character&#39;s name as your Pen Name?
+Is there evidence for a categorical difference between British and American literary argument style?
+How can I write in a way that encourages discussion?
+When you submit a manuscript for a picture book, where do the pictures go?
+Untranslated text with a work being translated
+Do I format other works&#39; titles in my title?
+How do I demonstrate ideological differences between characters who are politically not too different?
+Repeating the appearance of the main character in every book
+Name of a subsection and its parent section clash
+How do you effectively denote a non-&quot;heading-ed&quot; transition into a concluding section?
+How do I create the rest of the story when I only know the ending?
+How to name characters of unspecific nationality and race?
+Writing a PhD thesis. Question about (an informal) introduction
+Description and speech in one paragraph?
+Writing a scientific name in an italized phrase?
+Stutter that changes words mid sentence
+What is an APA-certified editor?
+How should I translate this?
+Spelling style in academic papers
+Are there any useful guides to writing stories based in RPG universes/aimed at a role playing audience?
+What is a &quot;Gather&quot; service for?
+Suggest some arts schools for post-graduate in other field?
+Do you use the word &quot;that&quot; too much?
+Essay writing contests
+How should be the format for literature references that are websites (URLs)?
+Is translation work likely to help me develop my own writing abilities?
+Where are the best places to promote tech books?
+Writing your last will and testament
+Is Strunk and White&#39;s &quot;The Elements&quot; full of &quot;stupid grammar advice?&quot;
+What does &quot;Exposition and Ammunition – back story&quot; mean in screenwriting?
+How to make easy and fast money selling a short book (which is available for download)?
+Are there any free programs for screen writers
+First conversation scenes I&#39;ve written (looking for errors, conventions, and improvements according to writting standards).
+Asking for exam results
+Critique of short essay
+Please help me polish this paragraph.
+What is a systematic way of using Roget’s Thesaurus of English Words and Phrases?
+How could this paragraph of writing be improved
+Should I write an abstract for a formal essay?
+Feedback on sign-up email announcement
+How credible is wikipedia?
+Translation as the starting point of a new work of fiction
+Indirect Narration Style
+Help me rewrite this sentence
+What Types of Jobs can a Writer find?
+Quoting text from a country with different internationalization.
+Best way to Write a Table of Contents for Awkward Pagination
+Should Game Genre Types Be Capitalised?
+Resources for thesis writing
+Correct format when talking about money $$
+Write a 1st person story with a 3rd person narrator
+How do I check if an ISSN is properly registered at issn.org?
+How can I improve the grammar of this paragraph about the role of internet?
+Do all main characters require equal development?
+Is character driven fiction more successful than plot driven fiction?
+Does my story structure for an ensemble zombie story sound effective?
+How it&#39;s better to format links to Internet in a text written on paper?
+Can I sell a blog content database in a Creative Commons Attribution license?
+Is there any tool which points out the common mistakes in a piece of writing?
+Will the word &quot;seek&quot; be associated with the word &quot;sick&quot; if it is present in the title of my book?
+A more specific type of &quot;nervous laughter&quot;
+How do you write a formal email?
+MLA format for a book summary
+How should this ‘be going to’ be revised?
+Is there a typical structure for non-fiction popular science books? If so, what is it?
+When I&#39;m replying to emails, what&#39;s the best way to acknowledge that I appreciated each point of someone&#39;s email?
+Using a town to symbolize/represent a character within a story (fiction)?
+Vancouver system, citing multiple sentences from the same book
+Which tense should I use when writing a post about a journey?
+Is there a way to improve Endnote record consistency?
+Characteristics of an &quot;example&quot; in essay writing
+Sending a children&#39;s book manuscript to an agent or publisher with illustrations
+What systems provide easy article submission for websites?
+Software recommendations for magazine layout?
+Author&#39;s notes: yay or nay?
+Advice on interface text in a videogame
+How much of my (first) novel should be completed before trying to find a publisher?
+Press Kit proof-read in exchange for an app license?
+List of figures and diagrams?
+What is best way to accentuate the positive in an endorsement?
+How could my friend publish his Steve Jobs biography?
+Phrase suggestion on Xiosis Scribe 2011
+Improving Ad Script
+Is it acceptable for a book to not have a dominant lead character?
+Substitutions for &#39;which&#39; and &#39;for which&#39; that maintain the sentence&#39;s meaning
+What is the best way to introduce myself in a letter to a prospective graduate adviser?
+What is the other way to say &quot;stay in touch&quot;?
+Is this blog post clear and coherent?
+How should I phrase &quot;requests&quot; to a higher-ranked individual in another department?
+Why should I try to create realistic fantasy characters?
+How much outlining should I use in writing my book?
+How to reference data files, APA-style?
+How to cover different perspectives/levels of thinking in one story?
+Organization for epic fantasy writing
+Organizing text snippets for creating different variants of a document (customized for the reader)
+Is this a sound outline for an essay on &quot;Comparing a Song&#39;s Lyrics to Society&quot;?
+Format + Editor for book writing
+How much should I reveal about my book idea to a publishing house representative? 
+How to use His/My/Your permutations in adressing persons
+Article submission websites
+When is it correct to capitalize terms/phrases in a personal statement?
+Correct usage/explanation of ibid in referencing
+What should I know to better decide which of my names to conceal/abbreviate/elaborate/modify/invent for signing my writing?
+How do I formulate while writing?
+How do I keep up with current written English language?
+Is it ok to begin an essay/report with a quote?
+APA (sixth edition) citation for the Fourth Assessment Report
+Any good side-by-side editor for script translation?
+How do you connect a non sequitur hook to a novel?
+What is the business model for Creative Commons books?
+I cannot determine my Protagonist&#39;s work-life. Any help?
+Using Glossary Instead of Footnotes (for translation/transliteration)
+Where to publish poems
+How to cite two volumes in one (Turabian)
+How can I revise these sentences to be more correct while still keeping the effect?
+How can I cut my prep work to get to writing more quickly?
+Does this passage convey an appropriate mix of seriousness and levity?
+Is &quot;sparkle&quot; the correct word?
+Style signatures and uncommon formatting patterns
+My &quot;Bio&quot;. Is the language OK?
+Is it acceptable for a tech book to consist of only 2 chapters?
+MLA formatting for multiple in-text citations of the same soure
+Does there have to be a difference when writing different genders?
+Is self-publishing a good option?
+How to write a book for a given reading level?
+Petty Character
+Can I use my own previously published magazine article in my own book
+Are there any syllable-counting applications for poety writing?
+Why are some words in screenplays set in all caps?
+how to cite CD-ROM resources (Turabian)
+Would it be weird if I write &quot;a simple sample something&quot;?
+Self-contained software environment for authoring research papers
+When to use single quotes in narrative writing?
+Will 9/11 fiction get a writer into trouble with the US Government? 
+When to start a new paragraph and when to start a new &quot;scene&quot;
+Where in a CV should I mention a relevant but unpaid (volunteer) project?
+How do I maintain flow and interest when handling numerous plot threads?
+Is it OK to use a single parenthesis after each number in a list?
+Can you change a punctuation mark when referencing a passage from a text?
+What are &quot;industry leading royalties&quot;?
+Should I switch to third person or continue in first person?
+Is it a bad idea to linger too long on a first draft?
+Opening paragraphs of a short story set in an aquarium
+Issues with Scene/Sequel model
+How do I stick to one story?
+Where to get critiques?
+How do I cite Google Public Data in my bibliography (APA format)?
+How to publish my Research Publication
+Copyright of screens/movie posters
+Is it better to divide writing time for a &#39;many short times&#39; approach instead of &#39;one long session&#39;?
+What determines a book&#39;s price?
+How to know if the events in my novel are &#39;realistic enough&#39;?
+What is the word for this effect - things are not normally noticed until those things come in to the news and people fear/are looking for them
+Translation of my book &quot;Babymoves&quot; into Japanese
+How do I write a relevant CV for submitting a manuscript to a literary agent?
+Which language to use when writing a multinational story
+In-Text Citations: Author-Date v.s. [Number]?
+Email to request copy of paper
+How to combine a visual and textual outline
+How to represent dependencies in outlines
+How can I freelance remotely for overseas advertising agencies as a writer? 
+When citing information from a source do I need multiple citations for multiple ideas or sentences
+How short is &quot;short monograph&quot;?
+What is the &quot;three-asterisk-break&quot; section called?
+Stick to in-text citation or use a mixture of both parenthetical and in-text?
+Using abbreviations after in-text citations
+Introducing the next sub-section or not?
+How many short stories make a collection
+Can a section have the same name as the chapter?
+Is it a bad writing practice to start sentences with a verb?
+Where to find editors to hire for tech blog?
+Dealing with lackluster plot failure
+How many different words are in the average novel?
+How about a story as a series of anecdotes?
+Can I use a different ISBN when publishing a co-authored book in two different countries?
+Resource for generic plot hooks?
+Gadgets that make the world/story broken
+Is it worth reading book to learn more about topic of my story
+Writing exercises to practice the art of giving unique voice to characters?
+In what narrative mode should you explain a process or task?
+How to quote something twice
+Software to change American punctuation to British
+Am i using &quot;he/she&quot; too often during action scenes?
+Does inclusion of significant quotations from literature make a novel harder to publish?
+How do I cite well known historical works?
+Do different formats of the same book need to be registered separately?
+Structure for computer science research paper
+Are there any contests for teenage writers?
+Best way to emphasise the greenness of the fields in spring in comparison with summer
+For Kindle, are hard paragraph breaks that serious?
+How is parallel construction viewed in literature?
+Is a glossary needed in a novel?
+Is it unusual for a flashback to have a very long dialogue?
+Hooking the reader by omitting a piece of information
+Does DRM affect copyright or the restrictions on distribution by the author?
+Improving techniques independently: Description
+Where can I find lists of commonly used words to avoid?
+Essay critique: flow and how compelling it is
+How to tell if my story is finished, or needs more?
+Is there a reference for &quot;dumbing down&quot; material?
+How to assure your plot isn&#39;t a carbon copy of another story?
+How to cite a Terms of Service in APA style
+When self publishing, are there benefits to making a company to represent your books? Is that then a publishing house?
+How do I quote a song from Youtube? MLA format
+Mashery vs. Apigee
+How many words in 350 pages typed and double spaced?
+APA: how to cite a translation of an old work in a compilation that has been reissued
+HTML Formatting for ebook
+What is the better job for an English major: copy-editor or editor in chief?
+How do you keep up with all the ebook formats?
+Is it appropriate to list my website as the publisher of my stories?
+Separate paragraphs without line breaks
+Does the following piece have too much dry narration (mundane tasks, moving about)?
+Intervening Characters in fiction
+About the Author description
+An (Collaborative) Online Outline
+Publishing price comparisons. Is it allowed?
+What steps can be taken to avoid libel / copyright issues in social commentary?
+Project Management Software Using Google Drive
+Is there an alternative to the common genre-system for classifying books?
+Metrics for assessing the persuasiveness of a paper?
+Techniques for creating variety in prose
+How much can I talk about other people&#39;s works?
+How to decide whether or not to accept publishing offer for short story?
+Is it possible to publish stories with experimental spacing technique? (aka, blank pages, etc.)
+From Journal to first draft - most effective route to take?
+Resources on Minimalist Style of Creative Writing
+Tips for analysing character&#39;s role against the novel&#39;s general theme?
+First person pov with more than one main chars
+When to use semicolons and when to use em dashes?
+Please suggest an exemplary book for professional writing
+Figuring out when a book was printed
+Writing an effective summary for a story
+How to write in past tense?
+Does a character have to define himself to be engaging?
+Scrivener: marking multiple (non-adjacent) phrases in a manuscript with same footnote
+Can several related short-stories make a good base to write a novel?
+How to use creative commons materials?
+Writer&#39;s Notebook
+Concept map software that concentrates on ease of use?
+&quot;Variation&quot; and &quot;symmetry&quot; in a sentence
+What is a &quot;light novel&quot; and how does it differ from a novella?
+Real, serious and based on personal experience idea, but no previous practice. Where to begin?
+Punctuating Thoughts
+Blog Contributions Copyright
+Really Stuck: Writing Dialogue
+Are there any cheap printing options for a small order?
+Is repetition justified in the following piece?
+What are these extra phrases added to the beginning of sentences called?
+Choosing a word according to its length
+What should I look for or look out for in a publishing deal?
+Am I overusing the words &quot;started&quot; and &quot;began?&quot;
+Looking for advice on citations and beginning a college essay
+Create and using a custom version of a part of an existing mythology
+Writing a punchy paragraph opening / beginning
+Trouble with punctuation and style of a sentence
+Worried that my opening is not gripping enough
+Short story cover: &quot;a story&quot; or &quot;a short story&quot; or not putting anything at all
+State the method of how random data are produced in scientific paper?
+When to keep the passive voice and when to remove it
+How should I execute this idea?
+How do I evaluate an unwritten plot/story?
+Procrastination on a Crucial Scene in my Book
+In a thriller, should my famous cities be familiar, or fresh?
+Where should I put a minor action within a piece of dialogue?
+How to list concepts and tie them in together?
+Criteria for a good screenplay
+Should I use contractions on a non-fiction work?
+What software applications are used for translating a book?
+Inline Citations when Critiquing a Single Source (APA)
+Rewriting an existing story (fable) to fit it within my fantasy universe
+What is the difference between an ISBN and an ISBN Barcode?
+Location description
+Royalties and Monthly Sales Statements
+Listing names with titles
+How is my writing. Please review.?
+How do I write a proper cover letter
+Create and publish collection of public domain poems from 19th century
+How can I make a person sound sick?
+What does &quot;telling and not showing&quot; mean?
+Is it possible to turn a cliche into something original?
+Can i use the name of a real UK Prime Minister in a fictional Novel?
+Dates and numbers in newspaper articles
+How to create a document with a table of contents in Scrivener on Windows?
+Does this opening relate to the message?
+What non-WYSIWYG, non-proprietary alternatives to (La)TeX exist for the humanities, journalism, and other non-technical disciplines?
+Can Google Docs be used for technical product documentation?
+What are the tool choices for producing technical documentation in PDF and web site ready HTML?
+Evoking happiness in a very short story
+Rights over a fanfic character not in the original work?
+How do you casually address a child in the Midwestern dialect?
+Multiple characters without names: how to address
+Can I use the same figure twice in a report?
+How can I get myself writing again?
+How to reference a figure from text in a technical document
+Capitalization of personal event names
+Attributing Quote to Fictional Characters (Who are based on real people)
+Thesis writing: how to address &quot;self&quot;
+Can a statement that is incorrect still characterize someone as wise?
+Story resolution issue - A symbolic gift for two new friends
+Resources: Dictionaries of Australian English
+How do I claim the number of scholarly articles on a niche subject is relatively small without listing every single one of those citations?
+Do novels that are set in not-so-famous countries sell less?
+Present tense in user manuals
+How do I search for tick marks not smart quotes in Word?
+External folders in scrivener?
+Capitals for menu items in narrative
+I need advice regarding the use of real-world locations in a novel
+Is Mine a Convincing Argument Concerning the Effects of Censorship?
+Paying a bookstore to stock your self-published book
+How does one avoid incomplete changes to documentation?
+What are my options for free preview copies if I self publish via online services?
+Do acknowledgements have to come after the table of contents?
+When should I use italics in scientific writing?
+Asking questions in the middle of a narrative
+Is there a canonical sample screen play for reference as a speculative script?
+Preventing units from being &quot;broken&quot; to the next line
+Do the following scenes feel like flashbacks?
+Learning to write flash fiction first?
+How can you represent music in writing
+Successful stories that don&#39;t follow the standard story template?
+What are PoD options for a 5M Bible?
+How to make the first lines of my novel attractive and hooking?
+How to sift through all those illustrators?
+Fiction Novels &amp; Active vs. Passive Voice
+I want my coauthor to feel comfortable making changes to my work
+Writing dialogue for a non-English speaker in English?
+Am I using too many adjectives/adverbs in the following piece?
+Delaying narrative/actions
+Parenthesis Types in Fiction
+Outliner (software) with annotations for OS X or browser based (but offline!)
+Is there such a thing as a &quot;setting sketch&quot; for a science fiction writing?
+Can a textbook contain heavy reference to other materials?
+How can we have foreshadowing in a story that takes place in a universe where the future can&#39;t be known beforehand?
+Switching from past to present tense to increase narrative speed?
+Is there a complete guideline for which tense to use?
+Where and how to publish new work
+Tactician&#39;s Viewpoint and Contradictory Characterization
+Jumping between points in time in narrative
+Template for IT technical report?
+Master&#39;s Thesis Structure: Separate-Page Chapters or Same-Page Sections?
+What are the ethics of using real-world house addresses in historical fiction?
+How far does libel extend in writing?
+How to format a novel synopsis
+Usage of metaphors
+How long does it take publisher to respond to requested manuscript?
+Is it a bad practice to add extra words/phrases just to add rhythm/make the text look smoother?
+Non-Linear Storyline: Dynamic vs. Static chapter sequence
+How do I cite or give credit to a statistic on a website?
+How to handle multiple notebooks?
+How do I cite a standalone quote at the beginning of a doctoral thesis?
+What is the correct casing for a character&#39;s title?
+Using true/real names and events in a fiction novel
+Do the guidelines for clear style that we use today get in the way of rhythm?
+Free or cheap way to lay out a concert program booklet?
+Does this text flow smoothly (description of suicidal thoughts)?
+Does this urge you to read further or stop?
+Pulling the reader out of the narrative: When it&#39;s too much?
+Is my opening chapter too short?
+What&#39;s the best software for self-publishing?
+How to describe a scene involving a shift in the environment due to forbidden magic?
+How to deal with cliche dialogue?
+Do publisher ever automatically reject unread stories
+How to research and discover topic popularity and trends to determine topic selection for article writing?
+Capitalization with compound nouns starting with a number
+Is CreateSpace 100% free for self-publishing?
+What software is good for writing a technical book?
+Can I submit to an agent before permission to use quotations is finalized?
+In Flare, how can we make atomic change groups in review?
+Acknowledgements in translated editions
+Quote a sentence with references
+Tools for multiple creators/writers documentation without clouds
+Why do page headers seldom include chapter/section numbers?
+How to write a cover letter for The New Yorker fiction section?
+How do you mention the same character with two very different descriptions?
+Making characters multidimensional and unique. What can i do?
+Are the following passages examples of tense change? Are they allowed in fiction writing?
+Satirical prophecy
+Improving the flow/rhythm of the following comparison
+Writing &quot;X, Y, and Z&quot; vs &quot;X and Y and Z.&quot;
+What are some rich but respectful ways to describe various skin colors?
+Is it a bad habit to write &quot;something&quot; too much? If so, how to get rid of it?
+How many pages long should a chapter book be?
+What comes first: the hook or the rest?
+Literary criticism handbook
+Criteria used by acquisition editors (for Fiction or Non-Fiction)
+Using citations in chapter headings?
+Multiple Characters in one scene
+Is repeating the action/verb in a metaphor a sign that is a bad one?
+&quot;Its vs &quot;the&quot; when referring to an element belonging to the previous sentence
+Referring to fictional version of an author in essay
+Why am I getting so many words per page?
+Citing and Quoting events in Games
+How to develop a more regal language
+Video game gameplay script
+Can section headings in a paper be questions?
+Can one feasibly sell an adult-content screenplay?
+How to format the following dialogue without the parenthesis?
+List of wars someone could be a part of, if they were born a certain date
+Books on writing successful non-fiction
+Omniscient POV vs deep 3rd person POV
+How do I explain a lack of sufficient data in my essay?
+Are &#39;how-to write fiction&#39; books full of it?
+When to use normal caps and small caps in fiction?
+Kindle Worlds Publishing Benefits, Statistics?
+Do true publishers let you keep the copyright?
+What is the voice called when the narrator is a secondary character?
+What&#39;s the proper way to cite multiple interviews across a paper in Chicago Style?
+What referencing style is this?
+Should quotation marks for titles of short works be included as part of link text?
+Is it correct to use acronyms in a bio or should I omit it?
+How does one get Fanfiction &quot;Published&quot;?
+How to build a train of thought across multiple paragraphs and pages?
+A question about dialogue and paragraphs?
+Is it a good writing practice to keep related elements as close as possible to each other?
+Can a Canadian Publisher now legally publish original James Bond fiction?
+What label to use in an article for a group of equations?
+Do many people print e-books?
+Show don&#39;t tell advice
+Punctuation in a list
+Name and Nickname
+How much repetition is too much repetition?
+How to keep going after a failed project?
+How do I start using my heart over my head?
+Quoting Song Lyrics or Naming a Song, Or Possibly Group/Singer
+Citation anniversary editions
+Do I have to pay royalties when I use research information?
+Am I correctly punctuating this pause?
+Omitting pronouns and possessive adjectives in fiction
+Fantasy - chapter length
+MLA: citing indirect sources w/o quoting
+Note taking from a textbook and publishing the notes online
+Writing in a character&#39;s voice. How deep should I go with immersion?
+Is it OK to add chapters to slow down the pace of the story?
+Creative writing exercises for engineers
+Any advice on how to learn DITA for technical writing?
+Humor in Writting
+Rapid Cross-Scene Cuts in Screenplay/Script
+Resource for someone better at editing than writing
+What exactly is a copywriter?
+Ending a PhD thesis by saying &quot;there is more to do&quot;
+How can I structure a novel to contain short stories?
+Does &quot;reversing&quot; characters provide enough of a &quot;disconnect &quot;to defend against a libel suit?
+Am I making the writing too complex?
+APA Citation on online documentation
+Attributing a real quote to a fictional character
+Proper way to punctuate an abrupt stopping of speech?
+Quantity of Writing Needed to Find Representation For a TV Serial
+Is Blogging considered a form of creative writing?
+On mastering the art of writing descriptive passages on certain weather conditions
+using a literary agent
+Is the Microsoft Manual of Style appropriate for writing general IT related instructional documents?
+Starting Out a Novel
+How to structure a sentence containing long code examples?
+How to search for similar works
+How do I tell the story of a societal change using a discrete number of narrators?
+Which one is the correct dialogue punctuation format?
+How do you get paid for getting your book published?
+Use of old ads in a book
+How to choose a good/suitable pseudonym
+How do you convey nonverbal utterances?
+First-time author...can I publish in English in Mexico?
+Chicago- Paraphrasing a whole page from Author into 1 paragraph- what is the citation?
+Filter Words in Dialog
+Using expletives in an essay
+Capitalization of Open form Compound Words in Titles
+Do publishers prefer a particular type of poem?
+How to choose the title for a tales book?
+Urban erotica and authors
+Formula for a memoir
+The Prophet: Part 1, Awakening .. Question about being &quot;Too condensed&quot;
+How can I write poems in an attractable manner?
+What are good dialog writing tips?
+Rhetorical devices in Frankenstein
+Critical review of blog post
+Referencing a website in-text using Harvard style
+What&#39;s your favorite keyboard?
+&quot;...and the fire from the stove engulfed him&quot; or &quot;jumped on him&quot; or &quot;covered him&quot; or &quot;devoured him&quot; or what?
+Looking for story that deliberately overused &quot;get&quot;
+Write a resume objective that expresses my desire to hone and sharpen my skills
+Is my essay on group learning clear and well-organized?
+How to convey the fact that the person that I&#39;m talking to, is &quot;she&quot; but from the past?
+Good report making software
+Citing multiple quotes from a single novel
+Do I need to write a bibliography?
+Complimenting on solid structure with no major flaws
+Does this convey that I recommend the anthology I&#39;m reviewing?
+Why is this ‘loved’ italicized?
+What free tools are there to help me improve my English?
+Do I need to send an email to say thank you?
+Which Pen Is Best For Writing/Signing Important Documents?
+Is this description of my small productivity application clear enough?
+It is unprofessional to use double exclamation marks and CAPS in a product or service?
+What is the term for written expressions that lead to &quot;reading between the lines?&quot;
+Citing classics in Bibliography
+Help me to improve grammar of this question
+What literary techniques are evident in this quote?
+Please advise on this comma among semi-colons and provide a more concise sentence
+Can I release material related to a work and maintain my rights before publishing?
+Publishing Fantasy versus Realistic Fiction (multiple questions)
+What is this citation style called?
+What is the expression/common form to express that one will stay long term somewhere?
+Does it look unprofessional to have my name and all the titles of my website in lower-case?
+Is there anything wrong with saying &quot;Thanks&quot; several times in the same email? If not, how could I correct it?
+Magazines taking submissions for short stories?
+Writing a book on establishing Cash N Carry business?
+What are jobs that prefer or require MFAs in Creative Writing?
+What should you do if you need more than five heading when writing an APA paper?
+Is it possible to figure out the ROI of an MFA?
+How can I manage screen shots and other graphics for maintenance?
+How can I express this more clearly or concisely?
+How to fix awkward &quot;sufficiently... that...&quot; sentence structure?
+How can I condense a description of a web designer/developer&#39;s work into a one-liner?
+How can I improve my written communication skills the soonest?
+How can I write dialog to express groveling?
+Where would be a good place to start for a 15 yr old who wants to be a writer when she&#39;s older?
+How do I sign a (formal) email?
+How do I rewrite the following for a resume?
+Quoting Films in an essay using MLA
+Avoiding legal issues with plot similarities between my book and a movie in production
+Quoting a song in an essay title
+Does this essay demonstrate flow, clarity, and passion?
+Ideal blog post size and frequency
+Where can I find exercises to help me develop fictional writing techniques useful in narrative nonfiction?
+Is it ok to begin an essay/report with a quote?
+Are there alternatives to &#39;in such a way&#39;?
+Using &quot;the reader&quot; or &quot;the readers&quot;
+Scientific Citation
+Return to section context after a subsection
+Best dictaphone/transcription workflow?
+copy right issue with using exact Text from a text book
+Do these starting paragraphs make you want to keep reading?
+Quality examples of &#39;in medias res&#39; starting sequences in SF literature
+Is writing a light read or &quot;chick lit&quot; a good option for an aspiring literary fiction author?
+What did Norman Mailer mean?
+Advice on choice of epigram
+How to express in a better way?
+Regarding Professional Report
+How do I appreciate a subject matter expert&#39;s expertise?
+Numeral Citation Scripts
+Can anyone direct me to writers&#39; resources on AI or robotic ethics?
+Where should index and glossary appear in a report?
+Help creating an ebook
+ESL Writing How to quote article sentence?
+How to improve/fix this short introductory paragraph and dialog?
+How do I use my blog as a platform for practice and improvement?
+Is the order of appendices according to their references fixed?
+Avoiding &quot;and&quot; as a sentence structure
+How do you get into screenwriting?
+Is calling this process a &quot;convergence&quot; accurate and clear?
+How to write a powerful but uncomplicated conference biography?
+How to write polite deadline email?
+Will this opening and dialogue grab the reader&#39;s attention? And how can I improve it?
+Tips for describing features of unusual place that I often visit
+Is it a bad idea to have all the action in the beginning and all the dialogue in the end?
+Should I put colons with second-level titles?
+Title Choice: &quot;The Girl [Without/Who Didn&#39;t Have] A Soul&quot;
+Do I correctly utilize my naming adjective concept in this book?
+How can a practical learner get up to speed on APA quickly?
+Critique: three person dialogue
+What is the name for the literary technique where the author writes him/herself into a book?
+Do parentheses inhibit clarity?
+Getting the first words down on paper
+substitute for however
+Parenthetical phrases within dialog
+How well would this beginning sell the book to readers? Not necessarily for money
+How to make out that my work doesn&#39;t require any more editing?
+Is this dialogue and situation intriguing (short story)?
+Citing the same source several times
+The most natural paragraph
+Finding an Textfile Ezine to Write For
+What purpose does it serve to obscure the title of a TV show? 
+What is the proper usage and etiquette for using press releases from an external source on a website?
+Shared World licensing fees
+Phonetic Dictionary
+Quotes inside of Quotes inside of Quotes
+Quoting characters&#39; writing
+Where and how to give an overview of each chapter in scientific writing?
+What is it called when the outcome of the plot is not told?
+Cutting down on paragraph size
+Is the following piece of text comprehensible and written in good style?
+How do I start a business-presentation?
+Faith, Hope and Love as the keys to victory in an action-adventure novel?
+Common errors for a non-native English writer starting a blog in English?
+Word Choice: When something negative happens that changes your perspective for the better
+Starting Out - Plot + Charaters by Documentaries
+Writing a very complex relationship
+Is the ambiguity in my story the salt which makes it tasty or just plain frustrating?
+Citing foreign language sources (Swedish) in MLA7 bibliography?
+APA citation style - capitalization of titles
+How to fix writer&#39;s thought muddledness?
+combining sentences
+Looking for a verb that means &quot;making something looks very simple by ignoring its complexity or details&quot;
+Which fantasy worlds can be freely used in new work without a license?
+Too much exposition in my full-length play: how to fix it?
+Intellectual Property Rights &amp; Reuse of the Written Material
+More concise words for &quot;Ask for help &amp; learn from others&quot;
+Characters time spending: Are there any good limits for time spending on characters of secondary list?
+Possible interactions of punctuation marks with the word &quot;however&quot; in a novel
+Unsure of how to interpret this prompt
+How much influence does blogging have on learning to write better?
+Are the web audience who love microblogging and the book audience who love long stories different?
+Find Information For Describing A Nuclear Power Plant
+Are there rules for, or guidelines on, time gaps between a plot&#39;s scenes/chapters?
+Suggest any good text editor for Mac for writing in multiple languages
+What are my headlines lacking?
+Workflow for writing and poetry contests
+How to write to a famous author?
+Chapter names: The various ways of implementing them and why should I care
+Setting up for writing
+Describe all corrections as clearly and unambiguously as possible
+Page numbers on colour plates
+Punctuation and capitalisation in poetry
+What type of writing would this fall under?
+What constitutes historical fantasy?
+Which animal symbolises trade?
+Is there a way to import a script from Celtx into Final Draft?
+How to include photos in my Scrivener book?
+Does this qualify as a prelude or prologue?
+Hand wrote 200 page novel- how many typed pages is that?
+What exactly is the &quot;five (consecutive) word&quot; plagiarism rule?
+How likely is the &quot;five consecutive word rule&quot; to detect &quot;random,&quot; as opposed to intentional plagiarism?
+What is an envelope line?
+Using senses and similes in descriptions
+The value of labeling book sections
+To translate a novel with Westerner&#39;s point of view
+Tenses I should use in a translated-novel
+What is the smallest amount of text that can be plagiarized?
+Multiple tasks and a step by step tutorial
+Does this excerpt strike a balance between the formality of steampunk and accessible writing?
+How should I begin my research for my Military Fiction?
+How to elegantly convey the finer nuances of language in written form
+Critique: Make excerpt more visual/flow better
+Visual methods of plot development?
+A comma followed by &quot;and&quot; rule
+How to express concisely the circular concept of a beginning and future simultaneously?
+Chopped sentences with too many conjunction, and repeating the subject again and again
+Words for Sounds in Screenplay
+My Reviews for Free Books?
+Create automatic index from text document
+Best Grammar checking software
+How does one involve people in writing non-fiction?
+The street is filled with cars and people
+How to indicate that it is a single short story
+An adjective relating to the circus?
+What republication rights do I have?
+Wait for the results of writing contest or try other means
+When developing a stage play, whose gender matters more? The characters&#39; or the actors&#39;?
+Where do I fit in the future of publishing?
+Writing a newspaper article summary
+where would be a good place to find writers for my staff?
+How to avoid repetition
+Is this stylized writing successful or gimmicky?
+Using &quot;his/her&quot; vs using &quot;the&quot; to refer to objects in the character&#39;s home
+Using the Minto Pyramid
+Does this sound like someone at the end of their conflict with emotions? Please help
+A short story, any comments?
+Describing a character&#39;s panic and confusion
+Using hyphen points
+Who is the perfect rival to the right-person-wrong-time character in a love triangle?
+Is it necessary to make clear &quot;when&quot; an event occur in a flashback?
+Spanish writing website?
+When to use contractions and when to use complete words?
+Which sections to cover for my graduation thesis on BSS?
+Is it common for flashbacks to not to follow a chronological order?
+When writing a formal report should citations be used in the glossary?
+Ebook Formatting for all platforms
+Ways of presenting a metaphor/simile/analogy
+Tone and directness in email
+How to show that the current scene is a continuation of an earlier one?
+Would it be annoying for the reader if the all the scenes alternate between &quot;present&quot; and flashback?
+Making a female character sound more boyish/masculine
+Is muteness appearing without explicit reason acceptable?
+Shift in tense and starting a historical account with the present tense
+Short story becomes too intense to pack into a few pages
+Omitting &quot;that&quot; in fiction writing
+Is it possible to establish a relation between word count and page count?
+Does my poem convey the character of the (fictional) author well?
+Should I use the words &quot;My grandma&quot; repetitively to start sentences in an essay?
+Third Person Multiple POV in a single scene, how to refer each other if one character does not know the name of other character and vice versa
+Should this introductory quotation be translated, untranslated, or dropped?
+Where to find an infographic describing the components of a 5-paragraph essay?
+Location of cites using APA style format
+Ways to refers to two people who were about to marry or just married
+How do I add more imagery to this short paragraph?
+Is it okay to create a remote bibliography or works cited page?
+Collaborating with Stephen King, but not the original
+How to convey that the POV character *does not understand* what&#39;s said in dialogue?
+What is the best way forward for a first time author with little cash?
+Ways to replace the phrase &quot;after all?&quot;
+What to do when you get stuck trying to connect sentences?
+Book recommendations that feature the canadian north
+What are good guidelines to follow when writing app reviews?
+becoming better blogger when I write about diverse topics
+Using pronoun in an essay: 2nd person or 3rd person?
+Please help to improve the following sentence
+What is the best marketing strategy for a novel and two short stories?
+Traditional Publishing vs Ebooks
+Am I adding too many unnecessary &quot;actions/descriptions&quot;?
+Rhythm in a list
+young age, youthful age?
+How can I avoid word repetition in the following paragraph?
+Writing simple short sentences first and connecting them later
+Cutting down the length of a short story
+What does one call author blurbs at the bottom of journalistic articles?
+Is it a bad practice to end sentences with phrases like: &quot;...and went over to it&quot; or &quot;...and did X to it?&quot;
+Would this be considered abstract writing?
+How to format and where to place the &quot;thanks&quot; section for websites in a book?
+What are best practices when writing technical descriptions?
+What kind of rhythm should I use for these settings?
+Capitalized opening lines
+Order of references
+A* paragraph on narrative writing and descriptive writing
+What connotations do these character names confer?
+Using quotes for sarcastic text
+How should I handle this many characters?
+Rhythm in the following passage
+Proper way to punctuate &quot;oh so slow&quot;
+Are these examples of tenses? Why do writers use the tenses that they do?
+How to style a film or book title?
+Should I get rid of short sentences that don&#39;t provide much information?
+When it&#39;s forgivable to use &quot;suddenly&quot; and &quot;all of a sudden?&quot;
+Do characters sound too similar if they use the same words/expressions?
+Can you use a company&#39;s name as title for a short story?
+Is an MLA citation needed for a broad description of a poem&#39;s theme?
+How much time does it take to write a professional book?
+Quality over SERPs (Search Engine Result Pages)
+Writing Across Multiple Genres
+If I am writing in the first person can I have the MC relive a scene as an observer and write it in the third person?
+Should I avoid &quot;lecturing&quot; my readers?
+Does a thematic quote qualify as an allusion?
+&quot;No longer knowing&quot; vs &quot;without knowing...anymore.&quot;
+how to make this thank quote sound more eloquent
+Book recommendations for proofreaders

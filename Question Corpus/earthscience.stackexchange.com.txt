@@ -2499,3 +2499,2504 @@ Why is phase rotation needed to produce the colored inversion operator?
 Why can Thomsen&#39;s parameter $\epsilon$ be negative in VTI media?
 What is a Geophysical Model Function (GMF)?
 What impact on climate did 2011 earthquake and tsunami have?
+Impossible or improbable? Hurricane crossing the equator
+Why does lightning strike from the ground-up?
+What started the Dust Bowl, and could it happen again?
+(How long) would Earth&#39;s atmosphere last without a global magnetic field?
+Similarities between grand circulation solvers and mantle convection solvers
+Why do snowflakes form into hexagonal structures?
+How much oil is created each year?
+How would plate tectonics differ if Earth had no water?
+Why does Coriolis determine the rotation direction of a cyclone but not my drain?
+Are there any uncharted waters left on earth?
+How is the mass of the Earth determined?
+Why do the Siberian methane craters have smooth vertical walls?
+How do we know the asteroids formed at the same time as earth?
+What is the status of the Raymo &amp; Ruddiman idea that Tibet cooled the Earth?
+Why is Earth&#39;s age given by dating meteorites rather than its own rocks?
+How can the following equations for meandering rivers be theoretically obtained?
+What would it take to confirm or refute the Snowball Earth Hypothesis?
+Farthest point from the center of the Earth
+How do weather models work?
+Why is Europe warmer than North America at similar latitudes?
+Estimating the permeability tensor of an oil field by remote sensing
+What would be the temperature of earth if there was no atmosphere?
+Is earthquake prediction possible?
+How and why did the oceans form on Earth but not on other planets?
+What causes &#39;positive&#39; lightning to be rarer, higher charged, and longer lasting than &#39;negative&#39; lightning?
+Why is Earth&#39;s inner core solid?
+How much will sea level rise if all the polar ice melts?
+Why does El Ni&#241;o only exist in the Pacific Ocean and not the Atlantic/Indian Oceans?
+Are Richter-magnitude 10 earthquakes possible?
+During the &quot;Ice Ages&quot; or &quot;Snowball Earth&quot; times, where was all the energy?
+What are some of the strongest theories against the existence of mantle plumes?
+Placement of crustal thickness estimation from 1D inversion of surface wave dispersion curves
+Peak phosphorus - what are the sinks?
+Would the Earth function the same spinning the other way?
+Why do some planets have lots of $\mathrm{N_2}$ and others none?
+How much have global GPP and biomass changed over Earth&#39;s history?
+Equinoxes and solstices: start of the season or mid-season?
+What sort of climate zones would be present if Earth was tilted like Uranus?
+How would an icicle &quot;grow&quot; upwards?
+Why was the initial theory of plate tectonics so controversial?
+What do weather forecasters mean when they say &quot;50% chance of rain&quot;?
+Is there any simple way of using the Coriolis effect to determine what hemisphere you are in?
+What causes bottom water to rise?
+How is ocean salinity measured from space?
+Can pyroclastic flows cross water?
+How are the banded-iron-formation iron-ores formed?
+How to distinguish P, S, Love, and Rayleigh waves in a seismogram?
+What is the steepest surface that can hold snow?
+Where can obsidian be found?
+How can the average coldest day of the year be before the winter solstice?
+Is climate chaotic?
+Is it true that a butterfly flapping its wings can result in a tornado in a distant location?
+How is global weather model skill measured?
+How can I improve the numerical stability of a coastal hydrodynamic model?
+How can we guess the size of the Earth&#39;s inner core(and what it&#39;s made of)?
+Will tropical cyclones form and be sustained in areas they previously were not due to global climate change?
+Why is Earth&#39;s inner core made of an iron-nickel alloy?
+Does Earth&#39;s air leak into space over time?
+Why do more tornadoes happen late in the day?
+Is there any explanation for the large amount of sea ice around Antarctica in 2014?
+Historically, how has the fraction of Earth covered by water changed?
+What properties must a rocky body possess in order to exhibit plate tectonics?
+Why is there a seasonal cycle to the amount of CO2 in the atmosphere?
+What does it mean for waves to &quot;feel&quot; the bottom?
+Could the extraction of energy by wind turbines be harmful to the environment?
+What would be the first thing which will render the Earth uninhabitable?
+Paleontology science fair ideas?
+Why are weather kites no longer used (much) operationally?
+Why did the Laki eruption of 1783 produce so much fluorine?
+What tools allow a quick comparison of NetCDF output from ocean models?
+What can we learn by studying lunar atmospheric tides?
+How do tropopause folds form and do they have any impact on synoptic scale weather?
+Why do tropical cyclones not tear themselves apart?
+What are rare earths and why do they cluster near alkaline magmatism?
+What is the cause of the jet streams?
+Why do crystals, like quartz and diamonds, form in different colors?
+Could earth&#39;s core lose its heat?
+What caused the Younger Dryas cold event?
+Why is Earth&#39;s outer-core liquid?
+Is there geological evidence that the moon once collided with the Earth?
+What are the applications of hydrostatic solvers vs non-hydrostatic solvers in numerical weather prediction?
+Significant difference between averaged wind speeds and averaged wind power density, for wind generation modelling?
+What was the Amazon like during Green Sahara?
+What is the origin of the dominant atmospheric nitrogen content in Earth&#39;s atmosphere?
+Does vegetation contribute to long-term carbon sequestration?
+How do we know that we are NOT in an &quot;Ice Age?&quot;
+How much of the current global warming is due to human influence?
+Can mining trigger earthquakes?
+Is fracking likely to produce earthquakes?
+Why does a subduction zone produce a serpentinization diapir rather than volcanism?
+Why does the El Ni&#241;o Stop?
+What causes intra-plate faults, such as the New Madrid fault?
+What determines a mineral&#39;s hardness?
+If 75% of radioactive material remains, how many half-lives have elapsed?
+Is it possible for a sting jet to form over a continental landmass?
+What are the physical upper bounds on the magnitude of an earthquake?
+What geophysical events can (temporarily) increase the Earth&#39;s rate of rotation?
+Natural nuclear explosions
+What data does a skilled meteorologist look at to predict thunderstorms?
+Why won&#39;t Yellowstone explode?
+Impossible or improbable? Hurricane crossing the equator
+Why does lightning strike from the ground-up?
+What started the Dust Bowl, and could it happen again?
+(How long) would Earth&#39;s atmosphere last without a global magnetic field?
+Similarities between grand circulation solvers and mantle convection solvers
+Why do snowflakes form into hexagonal structures?
+How much oil is created each year?
+How would plate tectonics differ if Earth had no water?
+Why does Coriolis determine the rotation direction of a cyclone but not my drain?
+Are there any uncharted waters left on earth?
+How is the mass of the Earth determined?
+Why do the Siberian methane craters have smooth vertical walls?
+How do we know the asteroids formed at the same time as earth?
+What is the status of the Raymo &amp; Ruddiman idea that Tibet cooled the Earth?
+Why is Earth&#39;s age given by dating meteorites rather than its own rocks?
+How can the following equations for meandering rivers be theoretically obtained?
+What would it take to confirm or refute the Snowball Earth Hypothesis?
+Farthest point from the center of the Earth
+How do weather models work?
+Why is Europe warmer than North America at similar latitudes?
+Estimating the permeability tensor of an oil field by remote sensing
+What would be the temperature of earth if there was no atmosphere?
+Is earthquake prediction possible?
+How and why did the oceans form on Earth but not on other planets?
+What causes &#39;positive&#39; lightning to be rarer, higher charged, and longer lasting than &#39;negative&#39; lightning?
+Why is Earth&#39;s inner core solid?
+How much will sea level rise if all the polar ice melts?
+Why does El Ni&#241;o only exist in the Pacific Ocean and not the Atlantic/Indian Oceans?
+Are Richter-magnitude 10 earthquakes possible?
+During the &quot;Ice Ages&quot; or &quot;Snowball Earth&quot; times, where was all the energy?
+What are some of the strongest theories against the existence of mantle plumes?
+Placement of crustal thickness estimation from 1D inversion of surface wave dispersion curves
+Peak phosphorus - what are the sinks?
+Would the Earth function the same spinning the other way?
+Why do some planets have lots of $\mathrm{N_2}$ and others none?
+How much have global GPP and biomass changed over Earth&#39;s history?
+Equinoxes and solstices: start of the season or mid-season?
+What sort of climate zones would be present if Earth was tilted like Uranus?
+How would an icicle &quot;grow&quot; upwards?
+Why was the initial theory of plate tectonics so controversial?
+What do weather forecasters mean when they say &quot;50% chance of rain&quot;?
+Is there any simple way of using the Coriolis effect to determine what hemisphere you are in?
+What causes bottom water to rise?
+How is ocean salinity measured from space?
+Can pyroclastic flows cross water?
+How are the banded-iron-formation iron-ores formed?
+How to distinguish P, S, Love, and Rayleigh waves in a seismogram?
+What is the steepest surface that can hold snow?
+Where can obsidian be found?
+How can the average coldest day of the year be before the winter solstice?
+Is climate chaotic?
+Is it true that a butterfly flapping its wings can result in a tornado in a distant location?
+How is global weather model skill measured?
+How can I improve the numerical stability of a coastal hydrodynamic model?
+How can we guess the size of the Earth&#39;s inner core(and what it&#39;s made of)?
+Will tropical cyclones form and be sustained in areas they previously were not due to global climate change?
+Why is Earth&#39;s inner core made of an iron-nickel alloy?
+Does Earth&#39;s air leak into space over time?
+Why do more tornadoes happen late in the day?
+Is there any explanation for the large amount of sea ice around Antarctica in 2014?
+Historically, how has the fraction of Earth covered by water changed?
+What properties must a rocky body possess in order to exhibit plate tectonics?
+Why is there a seasonal cycle to the amount of CO2 in the atmosphere?
+What does it mean for waves to &quot;feel&quot; the bottom?
+Could the extraction of energy by wind turbines be harmful to the environment?
+What would be the first thing which will render the Earth uninhabitable?
+Paleontology science fair ideas?
+Why are weather kites no longer used (much) operationally?
+Why did the Laki eruption of 1783 produce so much fluorine?
+What tools allow a quick comparison of NetCDF output from ocean models?
+What can we learn by studying lunar atmospheric tides?
+How do tropopause folds form and do they have any impact on synoptic scale weather?
+Why do tropical cyclones not tear themselves apart?
+What are rare earths and why do they cluster near alkaline magmatism?
+What is the cause of the jet streams?
+Why do crystals, like quartz and diamonds, form in different colors?
+Could earth&#39;s core lose its heat?
+What caused the Younger Dryas cold event?
+Why is Earth&#39;s outer-core liquid?
+Is there geological evidence that the moon once collided with the Earth?
+What are the applications of hydrostatic solvers vs non-hydrostatic solvers in numerical weather prediction?
+Significant difference between averaged wind speeds and averaged wind power density, for wind generation modelling?
+What was the Amazon like during Green Sahara?
+What is the origin of the dominant atmospheric nitrogen content in Earth&#39;s atmosphere?
+Does vegetation contribute to long-term carbon sequestration?
+How do we know that we are NOT in an &quot;Ice Age?&quot;
+How much of the current global warming is due to human influence?
+Can mining trigger earthquakes?
+Is fracking likely to produce earthquakes?
+Why does a subduction zone produce a serpentinization diapir rather than volcanism?
+Why does the El Ni&#241;o Stop?
+What causes intra-plate faults, such as the New Madrid fault?
+What determines a mineral&#39;s hardness?
+If 75% of radioactive material remains, how many half-lives have elapsed?
+Is it possible for a sting jet to form over a continental landmass?
+What are the physical upper bounds on the magnitude of an earthquake?
+What geophysical events can (temporarily) increase the Earth&#39;s rate of rotation?
+Natural nuclear explosions
+What data does a skilled meteorologist look at to predict thunderstorms?
+Why won&#39;t Yellowstone explode?
+What were the tallest mountain ranges in Earth&#39;s geological past?
+How much of a mountain is below the surface?
+What are the differences between an LES-SGS model and a RANS based turbulence model?
+How does anthropogenic heating affect global warming?
+What is the meaning of -999 degrees Celsius?
+Is the color of the sky the same everywhere on earth?
+Why does Volcano Lightning occur?
+Why deep ocean didn&#39;t freeze during snowball Earth?
+What is this strange feature on Mars in Valles Marineris
+Converting glacier volume to mass: what ice density to use?
+Have there been any attempts to measure profiles through deep convective systems using dropsondes?
+How do I explain why the Tibetan plateau is colder than lowlands at similar latitudes?
+What are the major differences between weather models and climate models?
+How long does it take for the ocean conveyor to circulate?
+What temperature do small meteorites have on impact
+Why do felsic materials have lower melting points than mafic?
+Paleogene transantarctic seaway
+In what geological situations can I find gold?
+What is responsible for the underwater waterfall illusion of Mauritius Island?
+Ice Coverage on the Laurentian Great Lakes
+What is the force imposed by underwater currents?
+Why does the so called &quot;tornado alley&quot; exist?
+What factors affect the size of rain shadows?
+What constitutes a blizzard in meterological terms?
+Why do Earth and Venus have different atmospheres?
+Why are most peninsulas oriented north-south?
+Will model resolution have an effect on model spin-up time?
+Does the Strength of Earth&#39;s Magnetic Field Influence Climate?
+What factors determine the number of Hadley cells for a planet?
+Is there a difference between rock and stone?
+Can earthquakes contribute to Antarctic ice loss?
+How do I convert specific humidity to relative humidity?
+Do tornadoes have eyes?
+How did helium deposits form?
+Why is aerodynamic resistance defined inversely?
+Break in human nitrogen input in 1990s
+Are there secondary causes of sea level change?
+How do urban areas affect rain?
+What happens to global temperature when we stop all the vehicles for a year?
+To what accuracy and precision do we know the volume of the Earth?
+How many trees would I have to plant to solve Global Warming?
+How is carbon distributed among the atmosphere, the oceans, the biomass and the unburnt fossil fuels?
+Why are minerals found in &quot;large&quot; quantities and not scattered throughout the earth as individual atoms?
+What is the status of meteorological data exchange standards?
+Current consensus on the Messinian Salinity Crisis
+What is the origin of the ocean&#39;s salt?
+Why did people draw so many continuous squares in the sand on the beach at Cape Juby?
+Is there value in using a model that fails at validation against measurements?
+Where does the water from rain in rain forests come from?
+Is it possible for rivers to freeze completely and stop flowing?
+Why Vp/Vs and not Vs/Vp?
+Why does Earth have abundant oxygen in the atmosphere?
+Why is March colder than September in Northern Hemisphere?
+Why don&#39;t cold fronts and other steep-gradient weather effects just dissipate?
+What causes the Earth to have magnetic poles?
+What is the origin of the Montmartre mountain in Paris?
+Why Earth&#39;s magnetic poles are (and were) in their positions?
+Are there situations where the groundwater table doesn&#39;t follow the morphology of the surface?
+What do quasi-geostrophic and ageostrophic mean?
+Naming convention for sea ice thickness per unit area of ice or ocean
+Why does the colour of amethyst fade if exposed to too much light?
+Did the impact event that caused the Chicxulub-Crater definitively and single-handedly cause the Cretaceous-Paleogene extinction?
+Can large (and wet) storms really trigger large magnitude Earthquakes?
+What would a replacement for SEGY look like?
+Are there any techniques for imaging the deep Earth besides seismic waves?
+Does the Great Pacific Garbage Patch increase sedimentation rates over the patch?
+How does the precession of the Earth&#39;s apses affect climate?
+When can taste be used to help identify rocks?
+Carbon Dioxide levels appear to be linked to the Milankovitch cycles according to Ice Core data but what is the mechanism?
+Where can I get archived hourly temperature data?
+What is a source of worldwide temperature data that also includes extreme weather?
+Geomorphology of Mountains With Wind only Erosion
+Can Venus be considered to be tectonically active?
+How will increased $\ce{CO2}$ affect forests and other vegetative areas?
+Why is there Uranium in Earth&#39;s Crust?
+How significant is a 5-10 mb drop in pressure over a 20 minute period?
+Does the heating of the oceans due to greenhouse effect negate the acidification due to increased CO2 levels?
+What is a typical value of the P&#233;clet number for internal waves?
+To what extent is hydroelectric power really renewable?
+Potential explanations of Red Sea crossing
+How do you calculate the depth of penetration in a Schlumberger array?
+GOES Visible Channel - asymmetry between morning and afternoon
+How are Earth&#39;s rotational changes due to large earthquakes calculated?
+Which places on Earth would be affected the least by severe climate change?
+What is the methodology to analyze future climatic extremes using the results of climate models?
+At what point does plate tectonics stop?
+What type of cloud formation is this?
+What are the non-anthropogenic causes of The Netherlands&#39; low elevation?
+What is the predictability of El Ni&#241;o/La Ni&#241;a?
+Why don&#39;t scientists use fire entry suits to study volcanoes?
+How does a &#39;fire tornado&#39; form?
+Is Antarctic sea ice at record levels?
+Did Jupiter really make Earth (in)habitable?
+Why does phosphate rock contain uranium?
+What was the ocean circulation like during the time of Pangaea?
+How will cloud feedback effects on the climate change as the result of global warming?
+How does one measure what causes earthquakes?
+Does a green or yellow sky actually indicate a tornado?
+Why do Tsunamis travel slower than sound?
+How does remote sensing of ocean currents work?
+Why does El Ni&#241;o enhance the jet stream?
+How can I estimate a 2 m temperature from / in an atmospheric model?
+Will the Earth ever stop rotating?
+Sea Level in Paleogeographic Maps
+How to measure stretching direction on chocolate-tablet boudins?
+What influences tide-height the most? Can I guess the height by looking on a globe?
+How and where do double-terminated crystals form?
+What is a good definition of the word &quot;rock&quot; for teaching?
+How are subsurface wave speeds determined without subsurface sensors?
+How do mantle plumes travel from the core of Earth to the crust?
+Why does the Hadley cell descend at 30 degrees?
+Barite and Acantharians
+How did tectonic plates originally come to form?
+What causes waves to form the characteristic &quot;breaking&quot; shape as they approach the shoreline?
+Where does wind come from?
+Cloud-to-ground lightning in Florida?
+How accurate are climate proxies in giving us a clear picture of global average temperatures throughout Earth history?
+What lithologies are deemed most suitable for the storage of nuclear waste
+How can scientists be confident of isotope ratios in past eras and varied locations, used for radiometric dating?
+Where can I obtain ocean wave data of the Southeast Asian region?
+What is the difference between a high-resolution model and a regular model run?
+In what sense did the Oklo reactor &quot;trap&quot; its own nuclear waste?
+What is the range of possible atmospheric pressures on the surface of the Earth?
+What can I use as a heatproof, non-magnetic glue for samples?
+Is Mars&#39; mantle homogeneous or heterogeneous and what might this say about mantle convection?
+Why does Mars&#39; experience an &#39;ice age&#39; at high axis obliquity, when Earth experiences an ice age at low axis obliquity
+Are ice-ages dependent on an un-equal distribution of land-masses?
+What is the appropriate vertical datum to use globally?
+Why is there no middle ground between tornadoes and hurricanes?
+Great Lakes - cookie cutter clouds
+What are the differences between implicit and explicit methods when applied to modelling Earth systems?
+Interpolating spatial data in contiguous sea areas only
+Can the overuse of geothermal energy become an environmental concern?
+How are the patterns in solid rock born
+What exactly is wind velocity
+Interpretation of a seismogram (three components)
+How did this rock dome (pictured) form?
+Zeolites, odor control, and the witchcraft of sunlight
+How many percent of volcanoes are glaciated?
+How much fossil fuel came from the Carboniferous?
+How much would the Greenland landmass isostatic rebound contribute to long term climate change?
+Is there a standard definition of a &quot;dry-down&quot; event in hydrology?
+Academic but accessible defense of the scientific understanding of anthropogenic climate change?
+Optimized interpolation method with fixed-location sample data points?
+Is it possible to create an enclosed manmade weather system?
+How much of the underwater land masses within the arctic ocean is considered continental shelf?
+How stable is the Gulf Stream? Could it stop suddenly?
+Olympus Mons sized volcano on Earth?
+When did/will peak conventional oil happen?
+Would it be geographically feasible to store water on land to counteract sea level rise?
+Ore deposits buried under cities?
+Width of strata in stratigraphic column
+Why does the Inter tropical Convergence Zone shift?
+Is there a name for this type of ice crystal?
+What is the area with the largest velocity vertical shear in the ocean?
+About meddies: what are they? How do they form? How are they maintained?
+What causes these banded clouds?
+Software for sediment transport modeling
+Why does sea level correspond to boundary between oceanic and continental crust?
+How were we able to measure carbon dioxide levels in earlier climates?
+What are the impacts of sublimation on an annual mountain snowpack?
+Why does every tsunami travel differently?
+Are sandstorms like regular storms?
+How much Uranium is there in the Earth&#39;s Crust?
+Why is earth not a sphere?
+What, if any, paleoclimate data can be derived from stromatolite fossils?
+What determines the spectrum of high and low frequency waves emitted by an earthquake?
+Biogenic origin of authigenic zeolites
+What caused the Cretaceous uplift of the Harz mountains (Germany)
+Can concretions form in non-sedimentary rocks?
+Does anyone know of a DBMS with global geospatial search?
+Why does the shoreline sometimes recede prior to a Tsunami?
+Is it possible to forecast ocean salinity 100 years into the future?
+Are mantle plumes distributed around the core randomly or in a known pattern?
+Why do those glaciers form on the lee side of the mountains?
+Why does the earth spin clockwise?
+How can I tell if a rock is really petrified wood?
+Why is there a daily inequality for low tides?
+Why does the rising of high clouds due to climate change impart positive radiative feedback on radiative forcing?
+Recharge a dry aquifer?
+How do seismologists locate the epicenter and focus of an earthquake?
+How to interpret the use of late and early Tertiary from older literature?
+Do ringwoodite minerals point to an &quot;ocean&#39;s worth&quot; of water, or a true subterranean ocean?
+Are the processes of the rock cycle currently in dynamic equilibrium?
+Why is the Atlantic Hurricane Season defined as being between June 1 and November 30?
+What is the tallest fully underwater seamount in the world?
+Does volcanic activity fluctuate?
+Why are methane spectroscopic parameters harder to determine and relatively poorly known, compared to other Earth trace gases?
+What would happen if we could revert $\mathrm{CO}_2$ production but took it too far?
+Why is Montana warmer than Wyoming?
+Model types: Robust diagnostic versus prognostic
+Is the poleward migration of the maximum intensity of cyclones a result of tropical expansion or are there some other contributing factors?
+Fine particulate matter - Why the lack of attention? What can be done to tackle it?
+When a tectonic plate subducts, does any of the subducted material melt, or is it just the mantle above the subducted slab that melts?
+How long does it take for the atmosphere to mix?
+How does radiogenic argon-40 get into the atmosphere?
+How do meteorologists grade their past forecasts?
+Ozone gas (O₃) endurance in the atmosphere
+What are the guidelines for constructing variable names that follow CF conventions?
+July/August hottest months (northern hemisphere): because of continued warming or other effects?
+Probability distribution of fault throw displacement and height limiting mechanisms
+Winds in a northern hemisphere hurricane
+Determining a rock age using volcanic ash layer
+Is there a way to find the direction to land in the middle of an ocean?
+Propagation of sound after lightning
+Is the urban heat island effect stronger during a particular season or part of the year?
+What is the &#39;natural variation&#39; in global temperature that many skeptics mention?
+Is there a convenient place to get vertical wind shear info for my location?
+How do I find the volume of ocean between any two layers of ocean depth?
+How is the Rossby Radius used to determine that synoptic weather systems are 1000-2000km across?
+Temperature as a function of luminosity and greenhouse gas concentrations
+How could humans alter storm intensity or direction other than cloud seeding?
+Is there such a thing as a &quot;basalt dike&quot;?
+Generic pedo-transfer functions to compute field capacity and wilting point from sand/silt/clay?
+Is the cause of Old Faithful&#39;s bimodal distribution for eruption times straightforward?
+How many joules are required to mine a unit of coal?
+What are the causes of the supercontinent cycle?
+Sea breeze - magnitude of horizontal pressure gradient?
+Are there any general-purpose climate-model coupling projects?
+Looking at ocean depth/latitude profiles of dissolved oxygen and nitrate. Why is dissolved oxygen low when nitrate is high?
+What is the mechanism behind changes in oxidation state (of iron, for example) as magma rises?
+Why are alpine river water green - blue?
+Why would volcano eruption cause cardiac arrest?
+How can odor travel be tracked
+Is it possible for a natural fluorescent mineral to glow from the sun&#39;s rays?
+Turbidity/clarity vs optical depth
+How much methane clathrates are buried in continental deposits?
+To stop anthropogenic climate change, is it necessary to stop extracting petroleum and start pumping carbon under ground?
+Why are there no hurricanes in the southern Atlantic basin?
+What does the term &quot;Snow Interval&quot; mean?
+Glaciology: odd pattern of smooth and ribbed chunks of ice in Antartica
+From where do weather radar maps get their data?
+How are Richter magnitudes of past earthquakes estimated?
+Will dust storms be more frequent in the future?
+What atmospheric radiative effects, if any, do contrails cause?
+What is the definition of a continent?
+What is the oldest sediment?
+How deep is the permafrost in the Antarctic?
+Are cloudy night warmer than nights without clouds?
+What geophysical knowledge have we learned by the construction of IceCube?
+Is there a database of global rainfall time series?
+How important is understanding linear algebra in groundwater modeling?
+How much of earth&#39;s molecular oxygen in the atmosphere is due to plants?
+How and why do these tree-like river structures form?
+Will the Southern Ocean act as a net source or sink for atmospheric $\ce{CO2}$ in the future?
+Numerical weather forecasting - resources for a programmer?
+How to interpret hourly precipitation forecast?
+Why do greenhouse gases affect ocean temp so much?
+Is Iceland an example of a hot-spot overlying a mantle plume?
+How do Kelvin waves determine surface temperature variations?
+How do we measure the total heat content contained in ocean and atmosphere?
+Why is heavy precipitation from atmospheric rivers more likely to hit the West Coasts than the East Coasts?
+How do we measure (or empirically calculate) the amount of entropy in the atmosphere and oceans?
+Why is the inside of the Earth so hot?
+How does geothermal heating work?
+What causes the beautiful Auroras on the north and south magnetic poles?
+What is the percentage of the global water cycle (evaporation, precipitation) that occurs over the ocean?
+Is the Earth&#39;s hot inner core necessary for life?
+What are the differences between geology, petrology, and lithology?
+Is there a database of the geologic/stratigraphic units of France?
+What is caesium-137 used for in fracking?
+How does a meandering river form?
+Why does the meandering pattern of the jet stream itself propagate?
+Coriolis effect and Cyclones
+Does anyone know of a comprehensive listing of geostationary weather satellites?
+How are organic walled microfossils preserved in the fossil record?
+Phase changes deep in planetary interiors and their implications for surface tectonics
+Why are oceanic plates denser than continental plates?
+Alternatives to Plant Functional Types as parametrisations in land surface models?
+What kinds of remote sensing required to observe methanogenic life on Titan?
+How much heat is transported from the interior to the surface in the form of hydration enthalpy?
+What is the current theory about the formation of Tibet?
+How far from basalt bedrock can magnetometic survey find archaeological features?
+Is Earth an organism?
+Do normal modes of oscillation cause permanent deformation?
+Bifurcation Scenarios in the Atmosphere
+Has the number of natural disasters per year increased significantly in the years since human-caused climate change started?
+Why is the troposphere 8km higher at the equator than the poles?
+Exhumation of blueschist
+Formation of flint &amp; chert in limestones/chalk
+Are clouds significantly easier to simulate in weather models than climate models?
+How do we know graptolites were pelagic?
+Is there a piece of upside down foreign crust in the USA?
+Is it possible to find the magma chambers that produce supervolcanos?
+What is the motivation of using the Enhanced Fujita Scale in place of the Fujita Scale?
+How would a Mars rover identify a microbialite fossil?
+Where does the biggest land-based ice cap reside?
+Why would a suite of related rocks have one anomalous sample?
+Where to find an accurate Mercator Projection world image?
+What are the scientific consequences of the lost of the Nereus submersible?
+What geological processes can cause local biases in the fossil record?
+How do climatologists define the &quot;start&quot; of a rainy season in a unimodal monsoonal climate?
+What is the primary cause of the &quot;Norwester&quot; winds that affect parts of India &amp; Bangladesh?
+What tidal databases are available to be used as model boundary conditions?
+If it rains harder, does it mean the rain&#39;s duration will be shorter?
+Percentage of dry land surface with sea level elevation lower than 1 km
+How good were climate models of the 1990s at predicting the global temperature trends of the 2000s/2010s?
+Is it possible to see Auroras from the equatorial region?
+How to determine how long ago a rock was broken?
+What are Tetens coefficients?
+Average Aragonite:Calcite ratio in biogenic CaCO3 in the oceans
+Is soil a renewable resource?
+Why do Volcanoes give out so much Sulphur Dioxide and Carbon Dioxide?
+The river or the hills; which came first?
+Formation of limestone without living organisms?
+How long does it take to form amber?
+How does soil redox potential affect the rate of denitrification?
+How long did it take for Earth&#39;s magnetic field to first appear?
+How does the sand appear on Hawaiian beaches
+How can you explain this storm phenomenon?
+Why do gold deposits form only in certain areas of the earth?
+What happens to the higher frequency content of the tremors associated with a volcanic eruption?
+What caused the bend in the Emperor/Hawaii chain of islands, 45 million years ago?
+Why are titanium oxides lumped in with magnetite for the purposes of analyzing water bubble nucleation?
+Why is q used for specific humidity?
+Why are alkali basalts found at rifting centres and on top of &#39;plumes&#39;, whereas MORBs are generally tholeiitic?
+Are there any high-resolution urban CO2 concentration data sets?
+Why is a layer of the subsoil so dark on this construction site?
+What makes the conditions at the core/mantle boundary ideal for aluminum to combine with other elements besides oxygen?
+What efforts have been made to separate the microseismic events related to wind-related ocean waves from the components of volcanic origin?
+How old is Casiquiare canal?
+What evidence is there for geological mechanisms that formed the Siberian traps flood basalt?
+What is it about ancient craton geology that results in associated kimberlite pipes containing economic diamond deposits?
+Why is colder seawater more compressible?
+What is the importance of mixing caused by outgassing in the ocean?
+What tectonic mechanisms cause the North and South Islands of New Zealand to be so geologically different?
+What are the causes of lower UV radiation at lower elevations?
+How to get cell indices from latitude and longitude in WRF model grids?
+converting SU file to ASCII format in seismic unix using OpenSeaSeis
+viable geothermal energy supply from exhausted fracked gas wells?
+Color of ocean waters and Ekman pumping - what is the connection?
+Equation for predicting contrail formation
+Where did the energy released due to gravitational binding energy of the Earth go?
+What is the age of the earliest traces of life on Earth?
+Forecasting oceanic rogue waves
+Do other terrestrial planets have &quot;earthquakes&quot;?
+Regarding various types of atmospheric pollution
+What is Geoalchemy?
+&#39;Peak water&#39; in the Ogallala Aquifer, USA?
+Stability correction factor in the Wavewatch III wave model
+What is the geochemical origin of carbon dioxide with the &#39;white smokers&#39; of the Champagne Vent?
+Dry atmospheric temperature profile (dry adiabatic vs. isothermal)
+Can climate models reliably predict meteorological extremes?
+Nuclear testing and the Anthropocene, a chemostratigraphic link?
+Deuterium-less oceans
+Does temperature affect partial pressure of gas dissolved in water?
+Why is there a bend in the Lomonosov Ridge?
+Is a San Andreas volcano possible?
+How important is Sahara dust for the Amazon?
+Why do most opal deposits occur in Australia?
+What methods exist for remote profiling of oceanic columns?
+What determines how fast clouds move?
+How does the pole-to-equator temperature gradient scale with height contours?
+How is ocean heat content measured?
+How deep was the Vredefort Crater when it happened?
+What causes &quot;hydrocarbons&quot; to take the form of petroleum versus natural gas?
+Why is there a line of volcanoes along the northwest coast of North America?
+What are the ramifications to life on Earth when the Earth&#39;s magnetic poles switch?
+Why is the Yellowstone National Park unique for its geysers?
+Why does the &quot;Ring of Fire&quot; pretty much define &quot;Pacific Rim&quot;
+What factors determine the height of the turbopause?
+Are Argo probe data used for numerical weather prediction (NWP)?
+Why were no interferometers launched on weather satellites between the &#39;69-&#39;72 IRIS-D and the 2002-onward AIRS?
+Are El Ni&#241;os stronger when there is a longer gap from the last El Ni&#241;o?
+Can overshooting tops enter the stratosphere, or will they rather push the tropopause upward?
+How are paleomagnetic polarities determined?
+What generates the microseism?
+Correlating the Caledonian and Appalachian Orogenies
+How do we determine subsurface composition?
+Equatorial Bulge and Tectonic Plates
+Why does Earth&#39;s outer-core rotate in the opposite direction to the inner-core?
+How do scientists determine the absolute or &#39;chronometric&#39; date of fossils?
+How is the radiative efficiency of a given gas (like a given CFC) analytically calculated?
+Use of Neodymium in Paleoceanography
+Is there any correlation between La Ni&#241;a/El Ni&#241;o and seismic activity?
+How was the Marinoan Glaciation triggered?
+Why is colored seismic inversion called &#39;colored&#39;?
+What causes &quot;shallow&quot; moonquakes?
+Regarding the theory of the origin of water on Earth through meteorites, why wouldn&#39;t the water evaporate on impact?
+How does El Ni&#241;o affect thunderstorm/tornado/CAPE activity in the central United States?
+Is it true that &quot;[sand] grains in the Coconino Sandstone come from the Appalachian Mountains&quot;?
+What kind of minerals have no cleavage plane?
+What&#39;s the geological period of the birth of the river Ganges?
+Estimate litter production
+Identifying sedimentary rocks in hand specimen
+How are minor tributaries of a river determined?
+Synoptic weather predictibility under climate change scenarios
+What does it mean when the depth of earthquakes get near the surface over a period of time?
+Is the epicenter always directly above the hypocenter?
+Is it right practice to validate temperature data with reanalysis data?
+How do I derive the formula for lithostatic (overburden) pressure?
+what are the ground motion prediction equations for 3-D ruptures?
+P wave to S wave conversion
+Is there any link between sea-water inflitration into groundwater and nitrate?
+Are the elements of an averaging kernel matrix always centered on the diagonal, or can they be exclusively off-diagonal in rare cases?
+What is this rock?
+How will climate change affect the extent of the Sahara Desert?
+How can I downscale daily values of relative humidity?
+How has the relative ratio of igneous, sedimentary, and metamorphic rocks changed over Earth&#39;s history?
+Is there a reliable way to identify regions with negatively-correlated winds?
+Effect on sea level if the Earth stopped rotating
+Odd structures in 66 year NCEP daily temperature reanalysis
+What does groundwater consist of?
+Determining the paleoelevation of mountain ranges
+Are there significant amounts of rare earth elements on Iceland?
+How to estimate dispersion in stratified flows
+Epicenter location of the 900-930 A.D.,7.4 Magnitude Seattle Earthquake?
+Why do rainbows appear to have a fixed structure?
+Are there measurement techniques that can help determine the exact geometry of a volcanic vent?
+What are these &quot;ship wrecks&quot; (pictured) in the old volcano crater?
+Lake inflow-outflow problem
+How does the composition of volcanic rock change as it makes its ascent towards the surface?
+Does Contwoyto Lake empty into both Bathurst Inlet and Chantrey Inlet?
+What are the factors that dictate a given topology for seismometer placement around a volcano?
+How long until Earth&#39;s core solidifies?
+How much energy is needed to alter the path of a hurricane?
+What happens to sea level when a ship sinks?
+How much silicon is in the Earth&#39;s core, and how did it get there?
+Standardized scale for coastline length or mapping in general?
+Is the Younger Dryas associated with an extinction event?
+Temporal Resolution of Seismic data
+What is hydraulic diffusivity?
+Measuring bed dip angle from contour lines, which lines to pick?
+Are there any metal anomalies other than iridium in the K-Pg boundary?
+Relation between direction of shear and cyclone formation
+Where does the symmetry of cloudy bands come from?
+What is El Ni&#241;o Modoki?
+What geological processes would &#39;restart&#39; subduction processes?
+What, if any, paleoclimate data can be derived from igneous rocks?
+What sort of instruments do planetary geologists use to predict that there are oceans on the moons Titan and Europa?
+Why would magma have high amounts of nickel and chromium?
+What caused a fall in atmospheric oxygen about 1.9 billion years ago?
+What is the difference between an inertial instability and a symmetric instability?
+Was volcanic activity more prevalent when the dinosaurs roamed?
+What tectonic structures delineate the split between the Australian and Indian tectonic plates?
+What does geochemical data tell us about Earth&#39;s earliest palaeoclimatic conditions?
+Noctilucent clouds and anthropogenic climate change
+Where does the lithium in Salar de Uyuni comes from?
+Intuitive explanation of precipitation amount
+What&#39;s the partition coefficient (D) of Nb for apatite?
+Is there conclusive evidence for the Antarctic Circumpolar Current developing after the glaciation of Antarctica?
+Active rifting in Antarctica?
+Should total ground heat flux be 0?
+What is the lowest latitude at which snow has been recorded at sea level?
+How strong can a glacial icequake get?
+How do we use oxygen isotopes as temperature proxy?
+Sudden Localized Surface Water Temperature Increase In Eastern Lake Superior, Canada
+What are these lake-like blue patches in the desert, visible in satellite image?
+How Mauna Loa $\ce{CO2}$ monthly trends are computed?
+How did sand dunes appear in the midst of a fertile region?
+Does earth&#39;s size affect the temperature of the poles?
+Distance to epicenter vs distance to focus
+Two severe cyclones connected by a monsoonal trough
+Why do tropical cyclones around Australia have erratic paths?
+What is a Geophysical Model Function (GMF)?
+Is there a correlation between hot springs and earthquakes?
+Does bathymetry affect ocean topography/height?
+What causes the different colours of the salt pits in the Saloum Delta in Senegal
+What was the first rock in the rock cycle?
+What causes the &#39;calm before the storm&#39;?
+What will happen to me if I touch the aurora?
+Does within-canopy wind direction correlate with wind above the planetary bounday layer?
+What is the difference between roughness length and zero plane displacement?
+Are there any quantities defined analogically to the virtual temperature, but for other gases?
+Can we predict which annular modes existed during the time of Pangaea?
+How will climate change affect the 3D distribution of lapse rate in the atmosphere?
+How have global sedimentation rates changed over the last billion years?
+Magnetic &quot;magnetic hills&quot;?
+Any other fumarolic ice caves in the literature?
+Why is there no High-Resolution Infrared Radiation Sounder (HIRS) on Metop-C?
+How much cheaper is it to mount oceanographic sensors on elephant seals and other animals, compared using Argo floats and other abiotic sensors?
+What is the Calcite Compensation Depth and what is its significance for carbonate deposits?
+What are the key differences between warm and cold core cyclones?
+Is a mega tsunami that will destroy America inevitable?
+Horizon letter for bedrock
+Why is a seismogram interpreted as a convolution?
+What evidence is there that plant evolutionary history &quot;dances to a different beat&quot; than that of animals?
+What tools are available to build unstructured grids for ocean models?
+How can I plot a Skew-T log-P diagram?
+Earth Science Search Engine
+How can the &#39;abiogenic oil&#39; hypothesis be disproven?
+Why does volcanic dust pose such a hazard to air travel?
+How long to melt all the polar ice?
+Do seismic travel times from one location to another differ based on factors other than distance?
+Transfer precipitation forecast in mm to expected snowfall in cm
+How to determine the transmissivity of a system of rocks and faults from the stationary drawdown pattern?
+What geophysical instruments should I use to detect water without drilling?
+Why are some theories as to the cause of glacation less popular among the scientific community?
+What determines the differences in results between various weather models?
+Does the meridional overturning circulation slow down the temperature increase from global warming?
+How much is Iceland/Norway/Western Europe warmed up by the Meriodional Overturning Circulation?
+How was the atmospheric/oceanic circulation different prior to the formation of the Isthmus of Panama?
+What is &quot;qflux&quot; and why is it important for climate models?
+Sediment layer chronology
+How much does the Meridional Overturning Current strengthen the Gulf Stream?
+What is a massif and what differentiates it from other types of mountains?
+Why does halite have perfect cleavage at the (110) plane?
+Are there any photographs of mountains without significant erosion (on Earth or otherwise)
+Argument for designing an ocean monitoring network based on satellite-derived chlorophyll-a concentration?
+How are the thickness of ice sheets from previous glaciation periods determined?
+Who are the 3% in the often cited &quot;97% of climate scientists&quot;?
+Do fluctuations in radioactive isotope decay rates affect carbon dating techniques?
+Weight vs. Mass of Clouds
+Relation between fault rupture aspect ratio and slip rate?
+Why does the Northern polar vortex usually have two centers?
+How much does ocean cover percentage change between glacial periods?
+Paleogeographic atlas software
+Is the atmosphere becoming thicker?
+Is it theoretically possible to artificially create amber?
+How accurately can explosions be triangulated from the IRIS seismogram data?
+What geological mechanisms result in the great depth of the Mariana Trench?
+Given the well known effects of the inverse turbulence cascade for 2D flow, does it make sense to use grid resolutions that resolve turbulence?
+Is it known what determines the rate with which plate tectonics occur?
+What is the total Earth&#39;s interior energy budget?
+How to calculate flow duration curve for a set of 12 year data?
+How are spherulitic structures formed in basalt rock?
+A parcel of air in an isothermal layer
+Obtaining hourly weather data, including direct and diffuse insolation
+How do you use the streckeisen (QAPF) classification ternary diagram to identify igneous rocks based on chemical rock composition?
+What are the geological mechanisms for sea floor spreading in the Bismarck Sea?
+Successful Earthquake predictions
+What evidence is there linking melting ice caps and changes in tectonic movement?
+How to calculate relative humidity?
+Database of geological group or formation exposures?
+What amount of permafrost carbon release could be expected with the IPCC worse-prediction of a 4.8C temperature rise?
+Resources for learning the technical parts of atmospheric modeling
+Why would there be no hydrocarbons in the Sveconorwegian belt?
+What are the advantages in looking at an OLR map versus looking at IR satellite imagery?
+How does one create petroleum/crude oil for future generations?
+Have meteorites been found in the oldest sedimentary rocks?
+Has an entire plate ever subducted?
+What visual wave behaviour help to tell if a tide is going in or out?
+Release mechanism for methane clathrate at the PETM
+What is the reason why there are radiosonde measurements in the atmosphere?
+Hypotheses about Silurian carbon isotope excursions?
+Did a gamma ray burst contribute to the Ordovician mass extinction?
+What is the difference between eluvium and alluvium
+Why is there so much oil in Saudi Arabia, Venezuela and Canada, but almost none in Europe?
+How global was the Bonarelli Oceanic Anoxic Event?
+Pressure as a function of altitude
+Relationship between illuminance and cloud cover
+Why does air seem to affect local surface temperatures so much?
+Why is the lithostatic pressure gradient 1 psi/ft? How is it derived from density?
+How are &#39;Morning Glory&#39; clouds maintained?
+What fraction of dry land is below sea level
+What tectonic structures exist on the Eurasian - North American plate boundary in eastern Siberia?
+Why is the concept of &quot;mass extinction&quot; a relatively recent development in geology?
+Why is ocean surface velocity around 3% of wind velocity?
+What&#39;s with this anomaly in this sounding (the CAPE and CIN readings)?
+LWC and Absolute Humidity
+Can impact events cause widespread volcanic activity on the other side of the planet?
+What is the tectonic setting for the formation of the Great Dividing Range in Australia?
+What are the criteria that make a planet (in)habitable?
+Does the gravitational pull of the moon affect the composition of Earth&#39;s atmosphere?
+Extent of the Persian Gulf
+Is it true that distance between earth and sun is closer in winter season (January) and farther in summer season in the Northern Hemisphere?
+What is the age of the Gamburtsev Mountains?
+About the effectiveness of sand-bags
+Alpine schistosity
+Pressure as a function of altitude above 11 km
+Snow from Fire: Could graupel, or even snow, fall from pyrocumulus clouds?
+How much has the total transport of the Antarctic Circumpolar Current changed over time?
+Mega-tsunami, what is the greatest possible height of a tsunami?
+How are critical loads of nitrogen deposition on eco-regions determined?
+The climatological variance of albedo, soil moisture in weather models
+Minimum flow duration curves
+Do different lavas have different volcanic volatiles associated with them?
+When will the Final Ice Age happen?
+What causes the entrainment of atmospheric gases towards a volcanic ash/tephra plume?
+How to measure the cycles of earth moving/rotation?
+Change in weight since the time of the dinosaurs
+Predicting school closures with historical weather prediction data?
+How to compute the earthquake occurrence probability under ETAS model
+The spiraling cyclone track - Cyclone Nathan
+How is equilibrium of 21% of oxygen in atmosphere established?
+How does Antarctica stay frozen?
+Earth ocean basins
+Using sodium chloride load as a point source pollutant variable in SWAT model?
+Why does Aragonite form in one case and an acetate in another?
+Does El Ni&#241;o increase the amount of heat that escapes into space, or does it increase the amount of heat trapped on Earth?
+Are certain isobar temperatures higher in mountainous regions?
+Can the clouds on Venus and Titan be categorized in the same way as clouds on Earth?
+How will climate change affect the total kinetic energy in the atmosphere?
+How has river to ocean flux changed over the last 500 million years?
+What periods of the fossil record are most lacking in specimens?
+Is there a standard definition of the term &quot;mountain&quot;?
+Which are the biggest methodological differences between archaeological and geological approach to stratigraphy?
+What supports the Rockies?
+How can I create a CF compliant netCDF file?
+What causes a volcano?
+How is heat transferred from the core through the mantle to the crust?
+What is the difference between a geologist and a geophysicist?
+Why do tectonic plates have a tendency to drift closer to the equator?
+Measurement of groundwater levels
+Lab procedure for analyzing/assessing the presence of semi-volatile solids
+Is Mount Everest currently getting higher or lower every year?
+Is this graph showing the average temperature on Earth going back millions of years accurate?
+What is the difference between a &quot;flood&quot; and a &quot;flash flood&quot;?
+Is the Arctic sea ice volume increasing?
+Project Mogul: Does upper atmosphere indeed have a sound waveguide channel?
+Why is the warm phase of the Pacific Decadal Oscillation associated with stronger El Ninos?
+How does the amount of mass in an atmosphere affect the seasonal changes and dynamics of the planet&#39;s climate?
+Why does the wind periodically change direction?
+How will climate change affect the latitudinal distribution of precipitation over each latitudinal region?
+Was the Southern Hemisphere cooler during the Younger Dryas?
+How much heat do hurricanes transport from equatorial to more polar latitudes, and from ocean to atmosphere?
+Permeability of well screen as a limitation to a slug-in test
+Who originated Taylor&#39;s axiom of lunar formation, and where?
+The relationship between specific discharge and flux
+Why is the Ring of Fire there?
+Is ground level ozone dangerous to human health when other pollutants are not present, for example, at high altitudes?
+Question about earthquake data attribute codes
+Why is Sacramento so warm for its latitude?
+How bad is a &quot;bad&quot; oil spill?
+Where can we see the noctilucent clouds?
+What would the geology and climate of a supposed landmass near the pole be like, assuming a thoroughly warmer planet?
+Calculating Monthly Accumulation value of the Clearness Index KT
+Geometrical differences of subduction zones
+What is this Cape Breton rock?
+What kind of coal did I find?
+Why do Euler poles for plate motions not stay fixed in time?
+Does the long-term ice-core temperature record provide reasonable evidence that the current temperature trend is not anthropogenic?
+Per capita $\ce{CO2}$ emissions
+What properties must a rocky body possess in order to exhibit the magnetic dynamo?
+Iowa State GOES Visible Data - misaligned EPSG:4326
+How can I find a large petrology dataset?
+Strangely bright morning twilight over Switzerland
+Understanding the Mercator Projection
+&#39;Late Veneer&#39; on other planets
+Why does seismic activity shed light on the inner core rigidity?
+Laboratory simulation of the Earth&#39;s magnetic field
+Does the climate have any effect on plate tectonics?
+Are the &quot;polar vortex&quot; and &quot;cut-off lows&quot; over/near the Great Lakes new phenomena?
+What are the tectonic implications of the Quaternary Igwisi Hills, Tanzania, kimberlite volcanics?
+Alternative WMS servers for GOES-East satellite imagery
+What are the high field strength and large ion lithophile (HFS or HFSE &amp; LIL or LILE) elements?
+Are there locations on earth that only have one season?
+What do the derivative or the integral of amplitude of a seismogram mean?
+Is the temperature (even a bit) warmer in a forest?
+Oceanic-atmospheric coupling between the Indian Ocean and the Pacific Ocean basins
+What are the tallest hydrothermal vents in the world?
+Is there any consensus of what caused the Lusi Mud Volcano eruptions in Indonesia?
+How isotropic is the Earth&#39;s inner core boundary?
+What is the geochemical source for the helium detected in deep Arctic explosive eruptions?
+Acidity of rock
+The different types of plagioclase
+Calculating the displacement of a fault
+Canadian equivalent to AMLIS database?
+Earthquake probabilities
+Predicting volcanic eruptions by experimentally proven volatile outgassing observations
+Climatology of the Indian Summer Monsoon - A modern consensus
+Minimum sea-level pressure and maximum wind speed intensity relationship in Hurricane Katrina (2005)
+Relationship between atmospheric density and atmospheric pressure?
+What caused the high temperatures that resulted in the Cretaceous aged komatiite lavas of Gorgona Island, Colombia?
+Source of water for the Great Artesian Basin in Australia
+Weak flashes of light in the sky
+Underwater rock conduit
+What caused a measurable patch of Mt. St. Helens&#39; ash to be deposited across Oklahoma?
+Water veins underground causing health problems
+How do I prepare for the International Earth Science Olympiad?
+How do we convert the seismic trace wavelet to zero phase which is in mixed phase?
+Sea Surface Height Data
+Vortices in the Atmosphere Sustained only by PGF
+How has and how does the lithosphere affect climate change?
+Climate on an Earth without an Axial Tilt
+Characterizing earthquakes using accelerometer data
+How have levels of outgoing longwave and incoming shortwave radiation changed over the last 20-30 years?
+How do Rossby Waves in the ocean form?
+How can I calculate the average latitudinal temperature anomaly between a city and all other locations along the city&#39;s latitude?
+What are monsoons caused by?
+Do river fluxes help contribute to long-term carbon sequestration?
+How will climate change affect the entropy budget of the atmosphere?
+How deep could the surface of the Earth&#39;s crust get?
+How much total heat is contained in the upper layers of the atmosphere?
+Is there a standard definition of a hill?
+Checking the bedrock with radiowaves - how does it work?
+What is the concentration of silver in tap or freshwater in the United kingdom
+Is global warming occuring only because of humans?
+A good book or source for climate science and meteorology basics?
+What are the domains of Earth Science?
+Why are most cirrus clouds present over the equator and over tropical continents?
+What are some options for online and offline particle tracking in ocean models?
+Is a billion years of Earth&#39;s history missing?
+What, if any, scientific value do global soundscapes have?
+What definition of &quot;seamount&quot; is used by the largest utilised databases of seamounts?
+How does the meridional overturning circulation affect sedimentation rates in the North Atlantic?
+Why does the meridional overturning circulation take the convoluted path that it takes?
+Why is Arizona the fastest-warming state in the U.S. (since 1970)?
+Why is the eastern Pacific full of stratocumulus clouds, and why do they have so much variation in net radiation?
+Why are there no crystals with 5-fold symmetry?
+Life on Earth previous to us
+What is a fault?
+If there&#39;s acid rain, is there such thing as acid snow?
+Does over-cropping large areas really change the amount of rainfall?
+Historical atmospheric partial pressure &amp; Henry&#39;s law constant
+Relation of El Ni&#241;o to Monsoons
+Am I observing orographic rainfall?
+North Indian ocean tropical cyclones
+Which theory is stronger, that iron came from outside or was formed within earth?
+Is there an earth science discipline, or subdiscipline, that only studies magma or lava?
+How will the rising ocean affect aquatic life?
+Why are there more intense earthquakes in Iran than in Iraq?
+What&#39;s the contribution of different types of river sources?
+How long does one touch on a stalagmite/stalactite lasts?
+coriolis force in atmospheric/ocean modeling
+Is Atlanta too far inland and too far above sea level to be affected by the comet in &quot;Deep Impact&quot;?
+How do I interpret the specs of a weather balloon?
+Would it be wise to monitor real time human activity to anticipate earthquakes?
+What geological processes affect the speed of Kilauea, Hawaiian lava flows?
+Is there evidence to delineate where a southern extension of the East African Rift &#39;plate boundary&#39; is developing?
+Monsoonal interactions with mid latitude disturbances
+How do archaeologists address time dilation when analyzing carbon dating results?
+Is the Principle of Original Horizontality a good indicator?
+Interpreting some hydropower data. What does DSF mean in this context?
+Will a volcano erupt in Australia soon?
+Is the Principle of Fossil Succession accurate?
+Could Earth have had a greater axial tilt?
+What does the absence of passive margins between 1740-1600 million years ago tell us about the tectonic environment at that time?
+What causes the semi-annual mesospheric meteoric potassium variability?
+How do perennial rivers in high alpine areas maintain year round flows?
+Statistical weather prediction
+What precursor geological activity occurred prior to the Par&#237;cutin Volcano eruption in 1943?
+What is the long term impact of large scale removal of material from subterraneal caches on the structural integrity of the soil?
+How to Calculate the Equilibrum Function for use in Tide Calculations using Harmonic Constituents
+NASA GLAS Lidar Data Format
+Is there an estimate for the length of the American Cordillera?
+Will global climate change alter the interannual and/or intraseasonal variance of temperature and/or precipitation?
+Shallow water height as vertical coordinate
+Bulk and dynamic viscosity in the atmosphere
+What is the origin of the Laacher See caldera magma in Germany?
+TRMM rainfall measurement for synoptic systems
+Sand on the beaches of Kanyakumari, India
+Why is seawater saline?
+What impact on climate did 2011 earthquake and tsunami have?
+Is wave spectrum always positive and why?
+Has a reduction in car use ever had an effect on the ozone layer?
+Why does part of the P-wave convert into a S-wave with an increase of incidence angle?
+When calculating flood recurrence intervals, do you use annual instantaneous peak flows?
+Did a crater cause the break up of Gondwanaland &amp; separate Australia from Antarctica
+Thermohaline Circulation in the Oceans
+How reliable were early measurements of palaeomagnetic directions?
+What is the earliest tropical cyclone in record?
+Dependence of solar irradiation through the atmosphere on Sun&#39;s altitude
+Incised valleys and hydrocarbon potential
+What are Horton&#39;s laws?
+Do large-scale modes of variability (like NAM/SAM/ENSO) exist in the ocean?
+How does heat get transported between the surface layer, twilight zone, and the deep ocean?
+How much carbon is sequestered out of the atmosphere through marine snow?
+How do we measure the total amount of variation in height of Earth&#39;s topography?
+Why is my ♦ hammer (i.e. diamond) so durable, but it can burn?
+What type of rock is this?
+What made the Grand Canyon the &quot;greatest&quot; canyon in the world
+Were dinosaurs with feathers common?
+What&#39;s the difference between the upper &amp; lower mantle?
+How can we measure the thickness of the Earth&#39;s mantle?
+Is seismology really the only way to measure the thickness of Earth&#39;s layers?
+What is the furthest observable phenomenon from Earth that is Earth Science?
+Why is earth&#39;s axis tilted?
+Are there more earthquakes near the equator or poles?
+How does the lapse rate in clouds compare with the lapse rate of air?
+What is a seamount?
+How are jet streaks formed?
+What determines the eastward speed that mid-latitude high pressure/low pressure systems move at?
+How common is it for warm fronts to be responsible for record high temperatures?
+Golden and red colored light even after sunset
+Can thunderstorms be thought of as a heat engine?
+How to reduce the atmospheric temperature artificially?
+What is the time-lagged correlation between historical $\ce{CO2}$ records from ice cores and global temperature records?
+If all the sand in the Saharan Desert were to be removed, what would the remaining landscape look like?
+What reflects UV radiation more: stratus clouds or cumulus clouds?
+Meaning of the C in the unit &quot;mg C L-1&quot;
+What is the reasoning behind the statement &quot;Faulting will occur along the plane where the shear stress is the highest&quot;?
+Slope of Saturation vapor pressure versus temperature-A parameter in Penman&#39;s equation
+Where and how can seismic data for earthquakes and volcanoes be downloaded?
+What geological events could cause a Volcanic Explosivity Index (VEI) level 9 eruption?
+What geologic features could this video game environment be modeled from, and how do they form?
+Resources to determine temperature probability for a given location on a given date
+What would the precursors to a repeated Lake Toba super eruption?
+How do hybrid cars reduce carbon emissions (wouldn&#39;t they just transfer fuel emissions to electricity consumption?)
+Pressure of condensation of an air parcel
+What are the formula weight and gram-formula unit (gfu)?
+Where can I find a table of ocean temperature pressure and depth
+How to determine that sustained wind speed exceeded the threshold value?
+Is it feasible to use depleted oil wells for geothermal production?
+Is the Cameroon Line still an active rift zone?
+Is there conclusive evidence to refute an earlier oxygenation of the Earth&#39;s atmosphere?
+What are the mechanisms maintaining the Dune of Pilat?
+What rocks are these?
+Freshwater changes in time?
+Pyroclastic flow protection
+Differences between hydrothermal vents on Earth and Europa
+Fictional Land - How can I keep dense fog in an area for half a day?
+What type of storm cloud is this?
+What is the tectonic explanation for parallel ridges in the Arctic Ocean?
+What is the name of this feature on the Red Sea coast of Saudi Arabia?
+Negative values of relative humidity in CFSR
+What is the mechanism for deep-sea volcanism of the Gakkel Ridge in the Arctic?
+How does the Sun heat the Earth?
+Magma resultant from group 1 and group 2 elements?
+Why can Thomsen&#39;s parameter $\epsilon$ be negative in VTI media?
+Impossible or improbable? Hurricane crossing the equator
+Why does lightning strike from the ground-up?
+What started the Dust Bowl, and could it happen again?
+(How long) would Earth&#39;s atmosphere last without a global magnetic field?
+Similarities between grand circulation solvers and mantle convection solvers
+Why do snowflakes form into hexagonal structures?
+How much oil is created each year?
+How would plate tectonics differ if Earth had no water?
+Why does Coriolis determine the rotation direction of a cyclone but not my drain?
+Are there any uncharted waters left on earth?
+How is the mass of the Earth determined?
+Why do the Siberian methane craters have smooth vertical walls?
+How do we know the asteroids formed at the same time as earth?
+What is the status of the Raymo &amp; Ruddiman idea that Tibet cooled the Earth?
+Why is Earth&#39;s age given by dating meteorites rather than its own rocks?
+How can the following equations for meandering rivers be theoretically obtained?
+What would it take to confirm or refute the Snowball Earth Hypothesis?
+Farthest point from the center of the Earth
+How do weather models work?
+Why is Europe warmer than North America at similar latitudes?
+Estimating the permeability tensor of an oil field by remote sensing
+What would be the temperature of earth if there was no atmosphere?
+Is earthquake prediction possible?
+How and why did the oceans form on Earth but not on other planets?
+What causes &#39;positive&#39; lightning to be rarer, higher charged, and longer lasting than &#39;negative&#39; lightning?
+Why is Earth&#39;s inner core solid?
+How much will sea level rise if all the polar ice melts?
+Why does El Ni&#241;o only exist in the Pacific Ocean and not the Atlantic/Indian Oceans?
+Are Richter-magnitude 10 earthquakes possible?
+During the &quot;Ice Ages&quot; or &quot;Snowball Earth&quot; times, where was all the energy?
+What are some of the strongest theories against the existence of mantle plumes?
+Placement of crustal thickness estimation from 1D inversion of surface wave dispersion curves
+Peak phosphorus - what are the sinks?
+Would the Earth function the same spinning the other way?
+Why do some planets have lots of $\mathrm{N_2}$ and others none?
+How much have global GPP and biomass changed over Earth&#39;s history?
+Equinoxes and solstices: start of the season or mid-season?
+What sort of climate zones would be present if Earth was tilted like Uranus?
+How would an icicle &quot;grow&quot; upwards?
+Why was the initial theory of plate tectonics so controversial?
+What do weather forecasters mean when they say &quot;50% chance of rain&quot;?
+Is there any simple way of using the Coriolis effect to determine what hemisphere you are in?
+What causes bottom water to rise?
+How is ocean salinity measured from space?
+Can pyroclastic flows cross water?
+How are the banded-iron-formation iron-ores formed?
+How to distinguish P, S, Love, and Rayleigh waves in a seismogram?
+What is the steepest surface that can hold snow?
+Where can obsidian be found?
+How can the average coldest day of the year be before the winter solstice?
+Is climate chaotic?
+Is it true that a butterfly flapping its wings can result in a tornado in a distant location?
+How is global weather model skill measured?
+How can I improve the numerical stability of a coastal hydrodynamic model?
+How can we guess the size of the Earth&#39;s inner core(and what it&#39;s made of)?
+Will tropical cyclones form and be sustained in areas they previously were not due to global climate change?
+Why is Earth&#39;s inner core made of an iron-nickel alloy?
+Does Earth&#39;s air leak into space over time?
+Why do more tornadoes happen late in the day?
+Is there any explanation for the large amount of sea ice around Antarctica in 2014?
+Historically, how has the fraction of Earth covered by water changed?
+What properties must a rocky body possess in order to exhibit plate tectonics?
+Why is there a seasonal cycle to the amount of CO2 in the atmosphere?
+What does it mean for waves to &quot;feel&quot; the bottom?
+Could the extraction of energy by wind turbines be harmful to the environment?
+What would be the first thing which will render the Earth uninhabitable?
+Paleontology science fair ideas?
+Why are weather kites no longer used (much) operationally?
+Why did the Laki eruption of 1783 produce so much fluorine?
+What tools allow a quick comparison of NetCDF output from ocean models?
+What can we learn by studying lunar atmospheric tides?
+How do tropopause folds form and do they have any impact on synoptic scale weather?
+Why do tropical cyclones not tear themselves apart?
+What are rare earths and why do they cluster near alkaline magmatism?
+What is the cause of the jet streams?
+Why do crystals, like quartz and diamonds, form in different colors?
+Could earth&#39;s core lose its heat?
+What caused the Younger Dryas cold event?
+Why is Earth&#39;s outer-core liquid?
+Is there geological evidence that the moon once collided with the Earth?
+What are the applications of hydrostatic solvers vs non-hydrostatic solvers in numerical weather prediction?
+Significant difference between averaged wind speeds and averaged wind power density, for wind generation modelling?
+What was the Amazon like during Green Sahara?
+What is the origin of the dominant atmospheric nitrogen content in Earth&#39;s atmosphere?
+Does vegetation contribute to long-term carbon sequestration?
+How do we know that we are NOT in an &quot;Ice Age?&quot;
+How much of the current global warming is due to human influence?
+Can mining trigger earthquakes?
+Is fracking likely to produce earthquakes?
+Why does a subduction zone produce a serpentinization diapir rather than volcanism?
+Why does the El Ni&#241;o Stop?
+What causes intra-plate faults, such as the New Madrid fault?
+What determines a mineral&#39;s hardness?
+If 75% of radioactive material remains, how many half-lives have elapsed?
+Is it possible for a sting jet to form over a continental landmass?
+What are the physical upper bounds on the magnitude of an earthquake?
+What geophysical events can (temporarily) increase the Earth&#39;s rate of rotation?
+Natural nuclear explosions
+What data does a skilled meteorologist look at to predict thunderstorms?
+Why won&#39;t Yellowstone explode?
+What were the tallest mountain ranges in Earth&#39;s geological past?
+How much of a mountain is below the surface?
+What are the differences between an LES-SGS model and a RANS based turbulence model?
+How does anthropogenic heating affect global warming?
+What is the meaning of -999 degrees Celsius?
+Is the color of the sky the same everywhere on earth?
+Why does Volcano Lightning occur?
+Why deep ocean didn&#39;t freeze during snowball Earth?
+What is this strange feature on Mars in Valles Marineris
+Converting glacier volume to mass: what ice density to use?
+Have there been any attempts to measure profiles through deep convective systems using dropsondes?
+How do I explain why the Tibetan plateau is colder than lowlands at similar latitudes?
+What are the major differences between weather models and climate models?
+How long does it take for the ocean conveyor to circulate?
+What temperature do small meteorites have on impact
+Why do felsic materials have lower melting points than mafic?
+Paleogene transantarctic seaway
+In what geological situations can I find gold?
+What is responsible for the underwater waterfall illusion of Mauritius Island?
+Ice Coverage on the Laurentian Great Lakes
+What is the force imposed by underwater currents?
+Why does the so called &quot;tornado alley&quot; exist?
+What factors affect the size of rain shadows?
+What constitutes a blizzard in meterological terms?
+Why do Earth and Venus have different atmospheres?
+Why are most peninsulas oriented north-south?
+Will model resolution have an effect on model spin-up time?
+Does the Strength of Earth&#39;s Magnetic Field Influence Climate?
+What factors determine the number of Hadley cells for a planet?
+Is there a difference between rock and stone?
+Can earthquakes contribute to Antarctic ice loss?
+How do I convert specific humidity to relative humidity?
+Do tornadoes have eyes?
+How did helium deposits form?
+Why is aerodynamic resistance defined inversely?
+Break in human nitrogen input in 1990s
+Are there secondary causes of sea level change?
+How do urban areas affect rain?
+What happens to global temperature when we stop all the vehicles for a year?
+To what accuracy and precision do we know the volume of the Earth?
+How many trees would I have to plant to solve Global Warming?
+How is carbon distributed among the atmosphere, the oceans, the biomass and the unburnt fossil fuels?
+Why are minerals found in &quot;large&quot; quantities and not scattered throughout the earth as individual atoms?
+What is the status of meteorological data exchange standards?
+Current consensus on the Messinian Salinity Crisis
+What is the origin of the ocean&#39;s salt?
+Why did people draw so many continuous squares in the sand on the beach at Cape Juby?
+Is there value in using a model that fails at validation against measurements?
+Where does the water from rain in rain forests come from?
+Is it possible for rivers to freeze completely and stop flowing?
+Why Vp/Vs and not Vs/Vp?
+Why does Earth have abundant oxygen in the atmosphere?
+Why is March colder than September in Northern Hemisphere?
+Why don&#39;t cold fronts and other steep-gradient weather effects just dissipate?
+What causes the Earth to have magnetic poles?
+What is the origin of the Montmartre mountain in Paris?
+Why Earth&#39;s magnetic poles are (and were) in their positions?
+Are there situations where the groundwater table doesn&#39;t follow the morphology of the surface?
+What do quasi-geostrophic and ageostrophic mean?
+Naming convention for sea ice thickness per unit area of ice or ocean
+Why does the colour of amethyst fade if exposed to too much light?
+Did the impact event that caused the Chicxulub-Crater definitively and single-handedly cause the Cretaceous-Paleogene extinction?
+Can large (and wet) storms really trigger large magnitude Earthquakes?
+What would a replacement for SEGY look like?
+Are there any techniques for imaging the deep Earth besides seismic waves?
+Does the Great Pacific Garbage Patch increase sedimentation rates over the patch?
+How does the precession of the Earth&#39;s apses affect climate?
+When can taste be used to help identify rocks?
+Carbon Dioxide levels appear to be linked to the Milankovitch cycles according to Ice Core data but what is the mechanism?
+Where can I get archived hourly temperature data?
+What is a source of worldwide temperature data that also includes extreme weather?
+Geomorphology of Mountains With Wind only Erosion
+Can Venus be considered to be tectonically active?
+How will increased $\ce{CO2}$ affect forests and other vegetative areas?
+Why is there Uranium in Earth&#39;s Crust?
+How significant is a 5-10 mb drop in pressure over a 20 minute period?
+Does the heating of the oceans due to greenhouse effect negate the acidification due to increased CO2 levels?
+What is a typical value of the P&#233;clet number for internal waves?
+To what extent is hydroelectric power really renewable?
+Potential explanations of Red Sea crossing
+How do you calculate the depth of penetration in a Schlumberger array?
+GOES Visible Channel - asymmetry between morning and afternoon
+How are Earth&#39;s rotational changes due to large earthquakes calculated?
+Which places on Earth would be affected the least by severe climate change?
+What is the methodology to analyze future climatic extremes using the results of climate models?
+At what point does plate tectonics stop?
+What type of cloud formation is this?
+What are the non-anthropogenic causes of The Netherlands&#39; low elevation?
+What is the predictability of El Ni&#241;o/La Ni&#241;a?
+Why don&#39;t scientists use fire entry suits to study volcanoes?
+How does a &#39;fire tornado&#39; form?
+Is Antarctic sea ice at record levels?
+Did Jupiter really make Earth (in)habitable?
+Why does phosphate rock contain uranium?
+What was the ocean circulation like during the time of Pangaea?
+How will cloud feedback effects on the climate change as the result of global warming?
+How does one measure what causes earthquakes?
+Does a green or yellow sky actually indicate a tornado?
+Why do Tsunamis travel slower than sound?
+How does remote sensing of ocean currents work?
+Impossible or improbable? Hurricane crossing the equator
+Why does lightning strike from the ground-up?
+What started the Dust Bowl, and could it happen again?
+(How long) would Earth&#39;s atmosphere last without a global magnetic field?
+Similarities between grand circulation solvers and mantle convection solvers
+Why do snowflakes form into hexagonal structures?
+How much oil is created each year?
+How would plate tectonics differ if Earth had no water?
+Why does Coriolis determine the rotation direction of a cyclone but not my drain?
+Are there any uncharted waters left on earth?
+How is the mass of the Earth determined?
+Why do the Siberian methane craters have smooth vertical walls?
+How do we know the asteroids formed at the same time as earth?
+What is the status of the Raymo &amp; Ruddiman idea that Tibet cooled the Earth?
+Why is Earth&#39;s age given by dating meteorites rather than its own rocks?
+How can the following equations for meandering rivers be theoretically obtained?
+What would it take to confirm or refute the Snowball Earth Hypothesis?
+Farthest point from the center of the Earth
+How do weather models work?
+Why is Europe warmer than North America at similar latitudes?
+Estimating the permeability tensor of an oil field by remote sensing
+What would be the temperature of earth if there was no atmosphere?
+Is earthquake prediction possible?
+How and why did the oceans form on Earth but not on other planets?
+What causes &#39;positive&#39; lightning to be rarer, higher charged, and longer lasting than &#39;negative&#39; lightning?
+Why is Earth&#39;s inner core solid?
+How much will sea level rise if all the polar ice melts?
+Why does El Ni&#241;o only exist in the Pacific Ocean and not the Atlantic/Indian Oceans?
+Are Richter-magnitude 10 earthquakes possible?
+During the &quot;Ice Ages&quot; or &quot;Snowball Earth&quot; times, where was all the energy?
+What are some of the strongest theories against the existence of mantle plumes?
+Placement of crustal thickness estimation from 1D inversion of surface wave dispersion curves
+Peak phosphorus - what are the sinks?
+Would the Earth function the same spinning the other way?
+Why do some planets have lots of $\mathrm{N_2}$ and others none?
+How much have global GPP and biomass changed over Earth&#39;s history?
+Equinoxes and solstices: start of the season or mid-season?
+What sort of climate zones would be present if Earth was tilted like Uranus?
+How would an icicle &quot;grow&quot; upwards?
+Why was the initial theory of plate tectonics so controversial?
+What do weather forecasters mean when they say &quot;50% chance of rain&quot;?
+Is there any simple way of using the Coriolis effect to determine what hemisphere you are in?
+What causes bottom water to rise?
+How is ocean salinity measured from space?
+Can pyroclastic flows cross water?
+How are the banded-iron-formation iron-ores formed?
+How to distinguish P, S, Love, and Rayleigh waves in a seismogram?
+What is the steepest surface that can hold snow?
+Where can obsidian be found?
+How can the average coldest day of the year be before the winter solstice?
+Is climate chaotic?
+Is it true that a butterfly flapping its wings can result in a tornado in a distant location?
+How is global weather model skill measured?
+How can I improve the numerical stability of a coastal hydrodynamic model?
+How can we guess the size of the Earth&#39;s inner core(and what it&#39;s made of)?
+Will tropical cyclones form and be sustained in areas they previously were not due to global climate change?
+Why is Earth&#39;s inner core made of an iron-nickel alloy?
+Does Earth&#39;s air leak into space over time?
+Why do more tornadoes happen late in the day?
+Is there any explanation for the large amount of sea ice around Antarctica in 2014?
+Historically, how has the fraction of Earth covered by water changed?
+What properties must a rocky body possess in order to exhibit plate tectonics?
+Why is there a seasonal cycle to the amount of CO2 in the atmosphere?
+What does it mean for waves to &quot;feel&quot; the bottom?
+Could the extraction of energy by wind turbines be harmful to the environment?
+What would be the first thing which will render the Earth uninhabitable?
+Paleontology science fair ideas?
+Why are weather kites no longer used (much) operationally?
+Why did the Laki eruption of 1783 produce so much fluorine?
+What tools allow a quick comparison of NetCDF output from ocean models?
+What can we learn by studying lunar atmospheric tides?
+How do tropopause folds form and do they have any impact on synoptic scale weather?
+Why do tropical cyclones not tear themselves apart?
+What are rare earths and why do they cluster near alkaline magmatism?
+What is the cause of the jet streams?
+Why do crystals, like quartz and diamonds, form in different colors?
+Could earth&#39;s core lose its heat?
+What caused the Younger Dryas cold event?
+Why is Earth&#39;s outer-core liquid?
+Is there geological evidence that the moon once collided with the Earth?
+What are the applications of hydrostatic solvers vs non-hydrostatic solvers in numerical weather prediction?
+Significant difference between averaged wind speeds and averaged wind power density, for wind generation modelling?
+What was the Amazon like during Green Sahara?
+What is the origin of the dominant atmospheric nitrogen content in Earth&#39;s atmosphere?
+Does vegetation contribute to long-term carbon sequestration?
+How do we know that we are NOT in an &quot;Ice Age?&quot;
+How much of the current global warming is due to human influence?
+Can mining trigger earthquakes?
+Is fracking likely to produce earthquakes?
+Why does a subduction zone produce a serpentinization diapir rather than volcanism?
+Why does the El Ni&#241;o Stop?
+What causes intra-plate faults, such as the New Madrid fault?
+What determines a mineral&#39;s hardness?
+If 75% of radioactive material remains, how many half-lives have elapsed?
+Is it possible for a sting jet to form over a continental landmass?
+What are the physical upper bounds on the magnitude of an earthquake?
+What geophysical events can (temporarily) increase the Earth&#39;s rate of rotation?
+Natural nuclear explosions
+What data does a skilled meteorologist look at to predict thunderstorms?
+Why won&#39;t Yellowstone explode?
+What were the tallest mountain ranges in Earth&#39;s geological past?
+How much of a mountain is below the surface?
+What are the differences between an LES-SGS model and a RANS based turbulence model?
+How does anthropogenic heating affect global warming?
+What is the meaning of -999 degrees Celsius?
+Is the color of the sky the same everywhere on earth?
+Why does Volcano Lightning occur?
+Why deep ocean didn&#39;t freeze during snowball Earth?
+What is this strange feature on Mars in Valles Marineris
+Converting glacier volume to mass: what ice density to use?
+Have there been any attempts to measure profiles through deep convective systems using dropsondes?
+How do I explain why the Tibetan plateau is colder than lowlands at similar latitudes?
+What are the major differences between weather models and climate models?
+How long does it take for the ocean conveyor to circulate?
+What temperature do small meteorites have on impact
+Why do felsic materials have lower melting points than mafic?
+Paleogene transantarctic seaway
+In what geological situations can I find gold?
+What is responsible for the underwater waterfall illusion of Mauritius Island?
+Ice Coverage on the Laurentian Great Lakes
+What is the force imposed by underwater currents?
+Why does the so called &quot;tornado alley&quot; exist?
+What factors affect the size of rain shadows?
+What constitutes a blizzard in meterological terms?
+Why do Earth and Venus have different atmospheres?
+Why are most peninsulas oriented north-south?
+Will model resolution have an effect on model spin-up time?
+Does the Strength of Earth&#39;s Magnetic Field Influence Climate?
+What factors determine the number of Hadley cells for a planet?
+Is there a difference between rock and stone?
+Can earthquakes contribute to Antarctic ice loss?
+How do I convert specific humidity to relative humidity?
+Do tornadoes have eyes?
+How did helium deposits form?
+Why is aerodynamic resistance defined inversely?
+Break in human nitrogen input in 1990s
+Are there secondary causes of sea level change?
+How do urban areas affect rain?
+What happens to global temperature when we stop all the vehicles for a year?
+To what accuracy and precision do we know the volume of the Earth?
+How many trees would I have to plant to solve Global Warming?
+How is carbon distributed among the atmosphere, the oceans, the biomass and the unburnt fossil fuels?
+Why are minerals found in &quot;large&quot; quantities and not scattered throughout the earth as individual atoms?
+What is the status of meteorological data exchange standards?
+Current consensus on the Messinian Salinity Crisis
+What is the origin of the ocean&#39;s salt?
+Why did people draw so many continuous squares in the sand on the beach at Cape Juby?
+Is there value in using a model that fails at validation against measurements?
+Where does the water from rain in rain forests come from?
+Is it possible for rivers to freeze completely and stop flowing?
+Why Vp/Vs and not Vs/Vp?
+Why does Earth have abundant oxygen in the atmosphere?
+Why is March colder than September in Northern Hemisphere?
+Why don&#39;t cold fronts and other steep-gradient weather effects just dissipate?
+What causes the Earth to have magnetic poles?
+What is the origin of the Montmartre mountain in Paris?
+Why Earth&#39;s magnetic poles are (and were) in their positions?
+Are there situations where the groundwater table doesn&#39;t follow the morphology of the surface?
+What do quasi-geostrophic and ageostrophic mean?
+Naming convention for sea ice thickness per unit area of ice or ocean
+Why does the colour of amethyst fade if exposed to too much light?
+Did the impact event that caused the Chicxulub-Crater definitively and single-handedly cause the Cretaceous-Paleogene extinction?
+Can large (and wet) storms really trigger large magnitude Earthquakes?
+What would a replacement for SEGY look like?
+Are there any techniques for imaging the deep Earth besides seismic waves?
+Does the Great Pacific Garbage Patch increase sedimentation rates over the patch?
+How does the precession of the Earth&#39;s apses affect climate?
+When can taste be used to help identify rocks?
+Carbon Dioxide levels appear to be linked to the Milankovitch cycles according to Ice Core data but what is the mechanism?
+Where can I get archived hourly temperature data?
+What is a source of worldwide temperature data that also includes extreme weather?
+Geomorphology of Mountains With Wind only Erosion
+Can Venus be considered to be tectonically active?
+How will increased $\ce{CO2}$ affect forests and other vegetative areas?
+Why is there Uranium in Earth&#39;s Crust?
+How significant is a 5-10 mb drop in pressure over a 20 minute period?
+Does the heating of the oceans due to greenhouse effect negate the acidification due to increased CO2 levels?
+What is a typical value of the P&#233;clet number for internal waves?
+To what extent is hydroelectric power really renewable?
+Potential explanations of Red Sea crossing
+How do you calculate the depth of penetration in a Schlumberger array?
+GOES Visible Channel - asymmetry between morning and afternoon
+How are Earth&#39;s rotational changes due to large earthquakes calculated?
+Which places on Earth would be affected the least by severe climate change?
+What is the methodology to analyze future climatic extremes using the results of climate models?
+At what point does plate tectonics stop?
+What type of cloud formation is this?
+What are the non-anthropogenic causes of The Netherlands&#39; low elevation?
+What is the predictability of El Ni&#241;o/La Ni&#241;a?
+Why don&#39;t scientists use fire entry suits to study volcanoes?
+How does a &#39;fire tornado&#39; form?
+Is Antarctic sea ice at record levels?
+Did Jupiter really make Earth (in)habitable?
+Why does phosphate rock contain uranium?
+What was the ocean circulation like during the time of Pangaea?
+How will cloud feedback effects on the climate change as the result of global warming?
+How does one measure what causes earthquakes?
+Does a green or yellow sky actually indicate a tornado?
+Why do Tsunamis travel slower than sound?
+How does remote sensing of ocean currents work?
+Why does El Ni&#241;o enhance the jet stream?
+How can I estimate a 2 m temperature from / in an atmospheric model?
+Will the Earth ever stop rotating?
+Sea Level in Paleogeographic Maps
+How to measure stretching direction on chocolate-tablet boudins?
+What influences tide-height the most? Can I guess the height by looking on a globe?
+How and where do double-terminated crystals form?
+What is a good definition of the word &quot;rock&quot; for teaching?
+How are subsurface wave speeds determined without subsurface sensors?
+How do mantle plumes travel from the core of Earth to the crust?
+Why does the Hadley cell descend at 30 degrees?
+Barite and Acantharians
+How did tectonic plates originally come to form?
+What causes waves to form the characteristic &quot;breaking&quot; shape as they approach the shoreline?
+Where does wind come from?
+Cloud-to-ground lightning in Florida?
+How accurate are climate proxies in giving us a clear picture of global average temperatures throughout Earth history?
+What lithologies are deemed most suitable for the storage of nuclear waste
+How can scientists be confident of isotope ratios in past eras and varied locations, used for radiometric dating?
+Where can I obtain ocean wave data of the Southeast Asian region?
+What is the difference between a high-resolution model and a regular model run?
+In what sense did the Oklo reactor &quot;trap&quot; its own nuclear waste?
+What is the range of possible atmospheric pressures on the surface of the Earth?
+What can I use as a heatproof, non-magnetic glue for samples?
+Is Mars&#39; mantle homogeneous or heterogeneous and what might this say about mantle convection?
+Why does Mars&#39; experience an &#39;ice age&#39; at high axis obliquity, when Earth experiences an ice age at low axis obliquity
+Are ice-ages dependent on an un-equal distribution of land-masses?
+What is the appropriate vertical datum to use globally?
+Why is there no middle ground between tornadoes and hurricanes?
+Great Lakes - cookie cutter clouds
+What are the differences between implicit and explicit methods when applied to modelling Earth systems?
+Interpolating spatial data in contiguous sea areas only
+Can the overuse of geothermal energy become an environmental concern?
+How are the patterns in solid rock born
+What exactly is wind velocity
+Interpretation of a seismogram (three components)
+How did this rock dome (pictured) form?
+Zeolites, odor control, and the witchcraft of sunlight
+How many percent of volcanoes are glaciated?
+How much fossil fuel came from the Carboniferous?
+How much would the Greenland landmass isostatic rebound contribute to long term climate change?
+Is there a standard definition of a &quot;dry-down&quot; event in hydrology?
+Academic but accessible defense of the scientific understanding of anthropogenic climate change?
+Optimized interpolation method with fixed-location sample data points?
+Is it possible to create an enclosed manmade weather system?
+How much of the underwater land masses within the arctic ocean is considered continental shelf?
+How stable is the Gulf Stream? Could it stop suddenly?
+Olympus Mons sized volcano on Earth?
+When did/will peak conventional oil happen?
+Would it be geographically feasible to store water on land to counteract sea level rise?
+Ore deposits buried under cities?
+Width of strata in stratigraphic column
+Why does the Inter tropical Convergence Zone shift?
+Is there a name for this type of ice crystal?
+What is the area with the largest velocity vertical shear in the ocean?
+About meddies: what are they? How do they form? How are they maintained?
+What causes these banded clouds?
+Software for sediment transport modeling
+Why does sea level correspond to boundary between oceanic and continental crust?
+How were we able to measure carbon dioxide levels in earlier climates?
+What are the impacts of sublimation on an annual mountain snowpack?
+Why does every tsunami travel differently?
+Are sandstorms like regular storms?
+How much Uranium is there in the Earth&#39;s Crust?
+Why is earth not a sphere?
+What, if any, paleoclimate data can be derived from stromatolite fossils?
+What determines the spectrum of high and low frequency waves emitted by an earthquake?
+Biogenic origin of authigenic zeolites
+What caused the Cretaceous uplift of the Harz mountains (Germany)
+Can concretions form in non-sedimentary rocks?
+Does anyone know of a DBMS with global geospatial search?
+Why does the shoreline sometimes recede prior to a Tsunami?
+Is it possible to forecast ocean salinity 100 years into the future?
+Are mantle plumes distributed around the core randomly or in a known pattern?
+Why do those glaciers form on the lee side of the mountains?
+Why does the earth spin clockwise?
+How can I tell if a rock is really petrified wood?
+Why is there a daily inequality for low tides?
+Why does the rising of high clouds due to climate change impart positive radiative feedback on radiative forcing?
+Recharge a dry aquifer?
+How do seismologists locate the epicenter and focus of an earthquake?
+How to interpret the use of late and early Tertiary from older literature?
+Do ringwoodite minerals point to an &quot;ocean&#39;s worth&quot; of water, or a true subterranean ocean?
+Are the processes of the rock cycle currently in dynamic equilibrium?
+Why is the Atlantic Hurricane Season defined as being between June 1 and November 30?
+What is the tallest fully underwater seamount in the world?
+Does volcanic activity fluctuate?
+Why are methane spectroscopic parameters harder to determine and relatively poorly known, compared to other Earth trace gases?
+What would happen if we could revert $\mathrm{CO}_2$ production but took it too far?
+Why is Montana warmer than Wyoming?
+Model types: Robust diagnostic versus prognostic
+Is the poleward migration of the maximum intensity of cyclones a result of tropical expansion or are there some other contributing factors?
+Fine particulate matter - Why the lack of attention? What can be done to tackle it?
+When a tectonic plate subducts, does any of the subducted material melt, or is it just the mantle above the subducted slab that melts?
+How long does it take for the atmosphere to mix?
+How does radiogenic argon-40 get into the atmosphere?
+How do meteorologists grade their past forecasts?
+Ozone gas (O₃) endurance in the atmosphere
+What are the guidelines for constructing variable names that follow CF conventions?
+July/August hottest months (northern hemisphere): because of continued warming or other effects?
+Probability distribution of fault throw displacement and height limiting mechanisms
+Winds in a northern hemisphere hurricane
+Determining a rock age using volcanic ash layer
+Is there a way to find the direction to land in the middle of an ocean?
+Propagation of sound after lightning
+Is the urban heat island effect stronger during a particular season or part of the year?
+What is the &#39;natural variation&#39; in global temperature that many skeptics mention?
+Is there a convenient place to get vertical wind shear info for my location?
+How do I find the volume of ocean between any two layers of ocean depth?
+How is the Rossby Radius used to determine that synoptic weather systems are 1000-2000km across?
+Temperature as a function of luminosity and greenhouse gas concentrations
+How could humans alter storm intensity or direction other than cloud seeding?
+Is there such a thing as a &quot;basalt dike&quot;?
+Generic pedo-transfer functions to compute field capacity and wilting point from sand/silt/clay?
+Is the cause of Old Faithful&#39;s bimodal distribution for eruption times straightforward?
+How many joules are required to mine a unit of coal?
+What are the causes of the supercontinent cycle?
+Sea breeze - magnitude of horizontal pressure gradient?
+Are there any general-purpose climate-model coupling projects?
+Looking at ocean depth/latitude profiles of dissolved oxygen and nitrate. Why is dissolved oxygen low when nitrate is high?
+What is the mechanism behind changes in oxidation state (of iron, for example) as magma rises?
+Why are alpine river water green - blue?
+Why would volcano eruption cause cardiac arrest?
+How can odor travel be tracked
+Is it possible for a natural fluorescent mineral to glow from the sun&#39;s rays?
+Turbidity/clarity vs optical depth
+How much methane clathrates are buried in continental deposits?
+To stop anthropogenic climate change, is it necessary to stop extracting petroleum and start pumping carbon under ground?
+Why are there no hurricanes in the southern Atlantic basin?
+What does the term &quot;Snow Interval&quot; mean?
+Glaciology: odd pattern of smooth and ribbed chunks of ice in Antartica
+From where do weather radar maps get their data?
+How are Richter magnitudes of past earthquakes estimated?
+Will dust storms be more frequent in the future?
+What atmospheric radiative effects, if any, do contrails cause?
+What is the definition of a continent?
+What is the oldest sediment?
+How deep is the permafrost in the Antarctic?
+Are cloudy night warmer than nights without clouds?
+What geophysical knowledge have we learned by the construction of IceCube?
+Is there a database of global rainfall time series?
+How important is understanding linear algebra in groundwater modeling?
+How much of earth&#39;s molecular oxygen in the atmosphere is due to plants?
+How and why do these tree-like river structures form?
+Will the Southern Ocean act as a net source or sink for atmospheric $\ce{CO2}$ in the future?
+Numerical weather forecasting - resources for a programmer?
+How to interpret hourly precipitation forecast?
+Why do greenhouse gases affect ocean temp so much?
+Is Iceland an example of a hot-spot overlying a mantle plume?
+How do Kelvin waves determine surface temperature variations?
+How do we measure the total heat content contained in ocean and atmosphere?
+Why is heavy precipitation from atmospheric rivers more likely to hit the West Coasts than the East Coasts?
+How do we measure (or empirically calculate) the amount of entropy in the atmosphere and oceans?
+Why is the inside of the Earth so hot?
+How does geothermal heating work?
+What causes the beautiful Auroras on the north and south magnetic poles?
+What is the percentage of the global water cycle (evaporation, precipitation) that occurs over the ocean?
+Is the Earth&#39;s hot inner core necessary for life?
+What are the differences between geology, petrology, and lithology?
+Is there a database of the geologic/stratigraphic units of France?
+What is caesium-137 used for in fracking?
+How does a meandering river form?
+Why does the meandering pattern of the jet stream itself propagate?
+Coriolis effect and Cyclones
+Does anyone know of a comprehensive listing of geostationary weather satellites?
+How are organic walled microfossils preserved in the fossil record?
+Phase changes deep in planetary interiors and their implications for surface tectonics
+Why are oceanic plates denser than continental plates?
+Alternatives to Plant Functional Types as parametrisations in land surface models?
+What kinds of remote sensing required to observe methanogenic life on Titan?
+How much heat is transported from the interior to the surface in the form of hydration enthalpy?
+What is the current theory about the formation of Tibet?
+How far from basalt bedrock can magnetometic survey find archaeological features?
+Is Earth an organism?
+Do normal modes of oscillation cause permanent deformation?
+Bifurcation Scenarios in the Atmosphere
+Has the number of natural disasters per year increased significantly in the years since human-caused climate change started?
+Why is the troposphere 8km higher at the equator than the poles?
+Exhumation of blueschist
+Formation of flint &amp; chert in limestones/chalk
+Are clouds significantly easier to simulate in weather models than climate models?
+How do we know graptolites were pelagic?
+Is there a piece of upside down foreign crust in the USA?
+Is it possible to find the magma chambers that produce supervolcanos?
+What is the motivation of using the Enhanced Fujita Scale in place of the Fujita Scale?
+How would a Mars rover identify a microbialite fossil?
+Where does the biggest land-based ice cap reside?
+Why would a suite of related rocks have one anomalous sample?
+Where to find an accurate Mercator Projection world image?
+What are the scientific consequences of the lost of the Nereus submersible?
+What geological processes can cause local biases in the fossil record?
+How do climatologists define the &quot;start&quot; of a rainy season in a unimodal monsoonal climate?
+What is the primary cause of the &quot;Norwester&quot; winds that affect parts of India &amp; Bangladesh?
+What tidal databases are available to be used as model boundary conditions?
+If it rains harder, does it mean the rain&#39;s duration will be shorter?
+Percentage of dry land surface with sea level elevation lower than 1 km
+How good were climate models of the 1990s at predicting the global temperature trends of the 2000s/2010s?
+Is it possible to see Auroras from the equatorial region?
+How to determine how long ago a rock was broken?
+What are Tetens coefficients?
+Average Aragonite:Calcite ratio in biogenic CaCO3 in the oceans
+Is soil a renewable resource?
+Why do Volcanoes give out so much Sulphur Dioxide and Carbon Dioxide?
+The river or the hills; which came first?
+Formation of limestone without living organisms?
+How long does it take to form amber?
+How does soil redox potential affect the rate of denitrification?
+How long did it take for Earth&#39;s magnetic field to first appear?
+How does the sand appear on Hawaiian beaches
+How can you explain this storm phenomenon?
+Why do gold deposits form only in certain areas of the earth?
+What happens to the higher frequency content of the tremors associated with a volcanic eruption?
+What caused the bend in the Emperor/Hawaii chain of islands, 45 million years ago?
+Why are titanium oxides lumped in with magnetite for the purposes of analyzing water bubble nucleation?
+Why is q used for specific humidity?
+Why are alkali basalts found at rifting centres and on top of &#39;plumes&#39;, whereas MORBs are generally tholeiitic?
+Are there any high-resolution urban CO2 concentration data sets?
+Why is a layer of the subsoil so dark on this construction site?
+What makes the conditions at the core/mantle boundary ideal for aluminum to combine with other elements besides oxygen?
+What efforts have been made to separate the microseismic events related to wind-related ocean waves from the components of volcanic origin?
+How old is Casiquiare canal?
+What evidence is there for geological mechanisms that formed the Siberian traps flood basalt?
+What is it about ancient craton geology that results in associated kimberlite pipes containing economic diamond deposits?
+Why is colder seawater more compressible?
+What is the importance of mixing caused by outgassing in the ocean?
+What tectonic mechanisms cause the North and South Islands of New Zealand to be so geologically different?
+What are the causes of lower UV radiation at lower elevations?
+How to get cell indices from latitude and longitude in WRF model grids?
+converting SU file to ASCII format in seismic unix using OpenSeaSeis
+viable geothermal energy supply from exhausted fracked gas wells?
+Color of ocean waters and Ekman pumping - what is the connection?
+Equation for predicting contrail formation
+Where did the energy released due to gravitational binding energy of the Earth go?
+What is the age of the earliest traces of life on Earth?
+Forecasting oceanic rogue waves
+Do other terrestrial planets have &quot;earthquakes&quot;?
+Regarding various types of atmospheric pollution
+What is Geoalchemy?
+&#39;Peak water&#39; in the Ogallala Aquifer, USA?
+Stability correction factor in the Wavewatch III wave model
+What is the geochemical origin of carbon dioxide with the &#39;white smokers&#39; of the Champagne Vent?
+Dry atmospheric temperature profile (dry adiabatic vs. isothermal)
+Can climate models reliably predict meteorological extremes?
+Nuclear testing and the Anthropocene, a chemostratigraphic link?
+Deuterium-less oceans
+Does temperature affect partial pressure of gas dissolved in water?
+Why is there a bend in the Lomonosov Ridge?
+Is a San Andreas volcano possible?
+How important is Sahara dust for the Amazon?
+Why do most opal deposits occur in Australia?
+What methods exist for remote profiling of oceanic columns?
+What determines how fast clouds move?
+How does the pole-to-equator temperature gradient scale with height contours?
+How is ocean heat content measured?
+How deep was the Vredefort Crater when it happened?
+What causes &quot;hydrocarbons&quot; to take the form of petroleum versus natural gas?
+Why is there a line of volcanoes along the northwest coast of North America?
+What are the ramifications to life on Earth when the Earth&#39;s magnetic poles switch?
+Why is the Yellowstone National Park unique for its geysers?
+Why does the &quot;Ring of Fire&quot; pretty much define &quot;Pacific Rim&quot;
+What factors determine the height of the turbopause?
+Are Argo probe data used for numerical weather prediction (NWP)?
+Why were no interferometers launched on weather satellites between the &#39;69-&#39;72 IRIS-D and the 2002-onward AIRS?
+Are El Ni&#241;os stronger when there is a longer gap from the last El Ni&#241;o?
+Can overshooting tops enter the stratosphere, or will they rather push the tropopause upward?
+How are paleomagnetic polarities determined?
+What generates the microseism?
+Correlating the Caledonian and Appalachian Orogenies
+How do we determine subsurface composition?
+Equatorial Bulge and Tectonic Plates
+Why does Earth&#39;s outer-core rotate in the opposite direction to the inner-core?
+How do scientists determine the absolute or &#39;chronometric&#39; date of fossils?
+How is the radiative efficiency of a given gas (like a given CFC) analytically calculated?
+Use of Neodymium in Paleoceanography
+Is there any correlation between La Ni&#241;a/El Ni&#241;o and seismic activity?
+How was the Marinoan Glaciation triggered?
+Why is colored seismic inversion called &#39;colored&#39;?
+What causes &quot;shallow&quot; moonquakes?
+Regarding the theory of the origin of water on Earth through meteorites, why wouldn&#39;t the water evaporate on impact?
+How does El Ni&#241;o affect thunderstorm/tornado/CAPE activity in the central United States?
+Is it true that &quot;[sand] grains in the Coconino Sandstone come from the Appalachian Mountains&quot;?
+What kind of minerals have no cleavage plane?
+What&#39;s the geological period of the birth of the river Ganges?
+Estimate litter production
+Identifying sedimentary rocks in hand specimen
+How are minor tributaries of a river determined?
+Synoptic weather predictibility under climate change scenarios
+What does it mean when the depth of earthquakes get near the surface over a period of time?
+Is the epicenter always directly above the hypocenter?
+Is it right practice to validate temperature data with reanalysis data?
+How do I derive the formula for lithostatic (overburden) pressure?
+what are the ground motion prediction equations for 3-D ruptures?
+P wave to S wave conversion
+Is there any link between sea-water inflitration into groundwater and nitrate?
+Are the elements of an averaging kernel matrix always centered on the diagonal, or can they be exclusively off-diagonal in rare cases?
+What is this rock?
+How will climate change affect the extent of the Sahara Desert?
+How can I downscale daily values of relative humidity?
+How has the relative ratio of igneous, sedimentary, and metamorphic rocks changed over Earth&#39;s history?
+Is there a reliable way to identify regions with negatively-correlated winds?
+Effect on sea level if the Earth stopped rotating
+Odd structures in 66 year NCEP daily temperature reanalysis
+What does groundwater consist of?
+Determining the paleoelevation of mountain ranges
+Are there significant amounts of rare earth elements on Iceland?
+How to estimate dispersion in stratified flows
+Epicenter location of the 900-930 A.D.,7.4 Magnitude Seattle Earthquake?
+Why do rainbows appear to have a fixed structure?
+Are there measurement techniques that can help determine the exact geometry of a volcanic vent?
+What are these &quot;ship wrecks&quot; (pictured) in the old volcano crater?
+Lake inflow-outflow problem
+How does the composition of volcanic rock change as it makes its ascent towards the surface?
+Does Contwoyto Lake empty into both Bathurst Inlet and Chantrey Inlet?
+What are the factors that dictate a given topology for seismometer placement around a volcano?
+How long until Earth&#39;s core solidifies?
+How much energy is needed to alter the path of a hurricane?
+What happens to sea level when a ship sinks?
+How much silicon is in the Earth&#39;s core, and how did it get there?
+Standardized scale for coastline length or mapping in general?
+Is the Younger Dryas associated with an extinction event?
+Temporal Resolution of Seismic data
+What is hydraulic diffusivity?
+Measuring bed dip angle from contour lines, which lines to pick?
+Are there any metal anomalies other than iridium in the K-Pg boundary?
+Relation between direction of shear and cyclone formation
+Where does the symmetry of cloudy bands come from?
+What is El Ni&#241;o Modoki?
+What geological processes would &#39;restart&#39; subduction processes?
+What, if any, paleoclimate data can be derived from igneous rocks?
+What sort of instruments do planetary geologists use to predict that there are oceans on the moons Titan and Europa?
+Why would magma have high amounts of nickel and chromium?
+What caused a fall in atmospheric oxygen about 1.9 billion years ago?
+What is the difference between an inertial instability and a symmetric instability?
+Was volcanic activity more prevalent when the dinosaurs roamed?
+What tectonic structures delineate the split between the Australian and Indian tectonic plates?
+What does geochemical data tell us about Earth&#39;s earliest palaeoclimatic conditions?
+Noctilucent clouds and anthropogenic climate change
+Where does the lithium in Salar de Uyuni comes from?
+Intuitive explanation of precipitation amount
+What&#39;s the partition coefficient (D) of Nb for apatite?
+Is there conclusive evidence for the Antarctic Circumpolar Current developing after the glaciation of Antarctica?
+Active rifting in Antarctica?
+Should total ground heat flux be 0?
+What is the lowest latitude at which snow has been recorded at sea level?
+How strong can a glacial icequake get?
+How do we use oxygen isotopes as temperature proxy?
+Sudden Localized Surface Water Temperature Increase In Eastern Lake Superior, Canada
+What are these lake-like blue patches in the desert, visible in satellite image?
+How Mauna Loa $\ce{CO2}$ monthly trends are computed?
+How did sand dunes appear in the midst of a fertile region?
+Does earth&#39;s size affect the temperature of the poles?
+Distance to epicenter vs distance to focus
+Two severe cyclones connected by a monsoonal trough
+Why do tropical cyclones around Australia have erratic paths?
+What is a Geophysical Model Function (GMF)?
+Is there a correlation between hot springs and earthquakes?
+Does bathymetry affect ocean topography/height?
+What causes the different colours of the salt pits in the Saloum Delta in Senegal
+What was the first rock in the rock cycle?
+What causes the &#39;calm before the storm&#39;?
+What will happen to me if I touch the aurora?
+Does within-canopy wind direction correlate with wind above the planetary bounday layer?
+What is the difference between roughness length and zero plane displacement?
+Are there any quantities defined analogically to the virtual temperature, but for other gases?
+Can we predict which annular modes existed during the time of Pangaea?
+How will climate change affect the 3D distribution of lapse rate in the atmosphere?
+How have global sedimentation rates changed over the last billion years?
+Magnetic &quot;magnetic hills&quot;?
+Any other fumarolic ice caves in the literature?
+Why is there no High-Resolution Infrared Radiation Sounder (HIRS) on Metop-C?
+How much cheaper is it to mount oceanographic sensors on elephant seals and other animals, compared using Argo floats and other abiotic sensors?
+What is the Calcite Compensation Depth and what is its significance for carbonate deposits?
+What are the key differences between warm and cold core cyclones?
+Is a mega tsunami that will destroy America inevitable?
+Horizon letter for bedrock
+Why is a seismogram interpreted as a convolution?
+What evidence is there that plant evolutionary history &quot;dances to a different beat&quot; than that of animals?
+What tools are available to build unstructured grids for ocean models?
+How can I plot a Skew-T log-P diagram?
+Earth Science Search Engine
+How can the &#39;abiogenic oil&#39; hypothesis be disproven?
+Why does volcanic dust pose such a hazard to air travel?
+How long to melt all the polar ice?
+Do seismic travel times from one location to another differ based on factors other than distance?
+Transfer precipitation forecast in mm to expected snowfall in cm
+How to determine the transmissivity of a system of rocks and faults from the stationary drawdown pattern?
+What geophysical instruments should I use to detect water without drilling?
+Why are some theories as to the cause of glacation less popular among the scientific community?
+What determines the differences in results between various weather models?
+Does the meridional overturning circulation slow down the temperature increase from global warming?
+How much is Iceland/Norway/Western Europe warmed up by the Meriodional Overturning Circulation?
+How was the atmospheric/oceanic circulation different prior to the formation of the Isthmus of Panama?
+What is &quot;qflux&quot; and why is it important for climate models?
+Sediment layer chronology
+How much does the Meridional Overturning Current strengthen the Gulf Stream?
+What is a massif and what differentiates it from other types of mountains?
+Why does halite have perfect cleavage at the (110) plane?
+Are there any photographs of mountains without significant erosion (on Earth or otherwise)
+Argument for designing an ocean monitoring network based on satellite-derived chlorophyll-a concentration?
+How are the thickness of ice sheets from previous glaciation periods determined?
+Who are the 3% in the often cited &quot;97% of climate scientists&quot;?
+Do fluctuations in radioactive isotope decay rates affect carbon dating techniques?
+Weight vs. Mass of Clouds
+Relation between fault rupture aspect ratio and slip rate?
+Why does the Northern polar vortex usually have two centers?
+How much does ocean cover percentage change between glacial periods?
+Paleogeographic atlas software
+Is the atmosphere becoming thicker?
+Is it theoretically possible to artificially create amber?
+How accurately can explosions be triangulated from the IRIS seismogram data?
+What geological mechanisms result in the great depth of the Mariana Trench?
+Given the well known effects of the inverse turbulence cascade for 2D flow, does it make sense to use grid resolutions that resolve turbulence?
+Is it known what determines the rate with which plate tectonics occur?
+What is the total Earth&#39;s interior energy budget?
+How to calculate flow duration curve for a set of 12 year data?
+How are spherulitic structures formed in basalt rock?
+A parcel of air in an isothermal layer
+Obtaining hourly weather data, including direct and diffuse insolation
+How do you use the streckeisen (QAPF) classification ternary diagram to identify igneous rocks based on chemical rock composition?
+What are the geological mechanisms for sea floor spreading in the Bismarck Sea?
+Successful Earthquake predictions
+What evidence is there linking melting ice caps and changes in tectonic movement?
+How to calculate relative humidity?
+Database of geological group or formation exposures?
+What amount of permafrost carbon release could be expected with the IPCC worse-prediction of a 4.8C temperature rise?
+Resources for learning the technical parts of atmospheric modeling
+Why would there be no hydrocarbons in the Sveconorwegian belt?
+What are the advantages in looking at an OLR map versus looking at IR satellite imagery?
+How does one create petroleum/crude oil for future generations?
+Have meteorites been found in the oldest sedimentary rocks?
+Has an entire plate ever subducted?
+What visual wave behaviour help to tell if a tide is going in or out?
+Release mechanism for methane clathrate at the PETM
+What is the reason why there are radiosonde measurements in the atmosphere?
+Hypotheses about Silurian carbon isotope excursions?
+Did a gamma ray burst contribute to the Ordovician mass extinction?
+What is the difference between eluvium and alluvium
+Why is there so much oil in Saudi Arabia, Venezuela and Canada, but almost none in Europe?
+How global was the Bonarelli Oceanic Anoxic Event?
+Pressure as a function of altitude
+Relationship between illuminance and cloud cover
+Why does air seem to affect local surface temperatures so much?
+Why is the lithostatic pressure gradient 1 psi/ft? How is it derived from density?
+How are &#39;Morning Glory&#39; clouds maintained?
+What fraction of dry land is below sea level
+What tectonic structures exist on the Eurasian - North American plate boundary in eastern Siberia?
+Why is the concept of &quot;mass extinction&quot; a relatively recent development in geology?
+Why is ocean surface velocity around 3% of wind velocity?
+What&#39;s with this anomaly in this sounding (the CAPE and CIN readings)?
+LWC and Absolute Humidity
+Can impact events cause widespread volcanic activity on the other side of the planet?
+What is the tectonic setting for the formation of the Great Dividing Range in Australia?
+What are the criteria that make a planet (in)habitable?
+Does the gravitational pull of the moon affect the composition of Earth&#39;s atmosphere?
+Extent of the Persian Gulf
+Is it true that distance between earth and sun is closer in winter season (January) and farther in summer season in the Northern Hemisphere?
+What is the age of the Gamburtsev Mountains?
+About the effectiveness of sand-bags
+Alpine schistosity
+Pressure as a function of altitude above 11 km
+Snow from Fire: Could graupel, or even snow, fall from pyrocumulus clouds?
+How much has the total transport of the Antarctic Circumpolar Current changed over time?
+Mega-tsunami, what is the greatest possible height of a tsunami?
+How are critical loads of nitrogen deposition on eco-regions determined?
+The climatological variance of albedo, soil moisture in weather models
+Minimum flow duration curves
+Do different lavas have different volcanic volatiles associated with them?
+When will the Final Ice Age happen?
+What causes the entrainment of atmospheric gases towards a volcanic ash/tephra plume?
+How to measure the cycles of earth moving/rotation?
+Change in weight since the time of the dinosaurs
+Predicting school closures with historical weather prediction data?
+How to compute the earthquake occurrence probability under ETAS model
+The spiraling cyclone track - Cyclone Nathan
+How is equilibrium of 21% of oxygen in atmosphere established?
+How does Antarctica stay frozen?
+Earth ocean basins
+Using sodium chloride load as a point source pollutant variable in SWAT model?
+Why does Aragonite form in one case and an acetate in another?
+Does El Ni&#241;o increase the amount of heat that escapes into space, or does it increase the amount of heat trapped on Earth?
+Are certain isobar temperatures higher in mountainous regions?
+Can the clouds on Venus and Titan be categorized in the same way as clouds on Earth?
+How will climate change affect the total kinetic energy in the atmosphere?
+How has river to ocean flux changed over the last 500 million years?
+What periods of the fossil record are most lacking in specimens?
+Is there a standard definition of the term &quot;mountain&quot;?
+Which are the biggest methodological differences between archaeological and geological approach to stratigraphy?
+What supports the Rockies?
+How can I create a CF compliant netCDF file?
+What causes a volcano?
+How is heat transferred from the core through the mantle to the crust?
+What is the difference between a geologist and a geophysicist?
+Why do tectonic plates have a tendency to drift closer to the equator?
+Measurement of groundwater levels
+Lab procedure for analyzing/assessing the presence of semi-volatile solids
+Is Mount Everest currently getting higher or lower every year?
+Is this graph showing the average temperature on Earth going back millions of years accurate?
+What is the difference between a &quot;flood&quot; and a &quot;flash flood&quot;?
+Is the Arctic sea ice volume increasing?
+Project Mogul: Does upper atmosphere indeed have a sound waveguide channel?
+Why is the warm phase of the Pacific Decadal Oscillation associated with stronger El Ninos?
+How does the amount of mass in an atmosphere affect the seasonal changes and dynamics of the planet&#39;s climate?
+Why does the wind periodically change direction?
+How will climate change affect the latitudinal distribution of precipitation over each latitudinal region?
+Was the Southern Hemisphere cooler during the Younger Dryas?
+How much heat do hurricanes transport from equatorial to more polar latitudes, and from ocean to atmosphere?
+Permeability of well screen as a limitation to a slug-in test
+Who originated Taylor&#39;s axiom of lunar formation, and where?
+The relationship between specific discharge and flux
+Why is the Ring of Fire there?
+Is ground level ozone dangerous to human health when other pollutants are not present, for example, at high altitudes?
+Question about earthquake data attribute codes
+Why is Sacramento so warm for its latitude?
+How bad is a &quot;bad&quot; oil spill?
+Where can we see the noctilucent clouds?
+What would the geology and climate of a supposed landmass near the pole be like, assuming a thoroughly warmer planet?
+Calculating Monthly Accumulation value of the Clearness Index KT
+Geometrical differences of subduction zones
+What is this Cape Breton rock?
+What kind of coal did I find?
+Why do Euler poles for plate motions not stay fixed in time?
+Does the long-term ice-core temperature record provide reasonable evidence that the current temperature trend is not anthropogenic?
+Per capita $\ce{CO2}$ emissions
+What properties must a rocky body possess in order to exhibit the magnetic dynamo?
+Iowa State GOES Visible Data - misaligned EPSG:4326
+How can I find a large petrology dataset?
+Strangely bright morning twilight over Switzerland
+Understanding the Mercator Projection
+&#39;Late Veneer&#39; on other planets
+Why does seismic activity shed light on the inner core rigidity?
+Laboratory simulation of the Earth&#39;s magnetic field
+Does the climate have any effect on plate tectonics?
+Are the &quot;polar vortex&quot; and &quot;cut-off lows&quot; over/near the Great Lakes new phenomena?
+What are the tectonic implications of the Quaternary Igwisi Hills, Tanzania, kimberlite volcanics?
+Alternative WMS servers for GOES-East satellite imagery
+What are the high field strength and large ion lithophile (HFS or HFSE &amp; LIL or LILE) elements?
+Are there locations on earth that only have one season?
+What do the derivative or the integral of amplitude of a seismogram mean?
+Is the temperature (even a bit) warmer in a forest?
+Oceanic-atmospheric coupling between the Indian Ocean and the Pacific Ocean basins
+What are the tallest hydrothermal vents in the world?
+Is there any consensus of what caused the Lusi Mud Volcano eruptions in Indonesia?
+How isotropic is the Earth&#39;s inner core boundary?
+What is the geochemical source for the helium detected in deep Arctic explosive eruptions?
+Acidity of rock
+The different types of plagioclase
+Calculating the displacement of a fault
+Canadian equivalent to AMLIS database?
+Earthquake probabilities
+Predicting volcanic eruptions by experimentally proven volatile outgassing observations
+Climatology of the Indian Summer Monsoon - A modern consensus
+Minimum sea-level pressure and maximum wind speed intensity relationship in Hurricane Katrina (2005)
+Relationship between atmospheric density and atmospheric pressure?
+What caused the high temperatures that resulted in the Cretaceous aged komatiite lavas of Gorgona Island, Colombia?
+Source of water for the Great Artesian Basin in Australia
+Weak flashes of light in the sky
+Underwater rock conduit
+What caused a measurable patch of Mt. St. Helens&#39; ash to be deposited across Oklahoma?
+Water veins underground causing health problems
+How do I prepare for the International Earth Science Olympiad?
+How do we convert the seismic trace wavelet to zero phase which is in mixed phase?
+Sea Surface Height Data
+Vortices in the Atmosphere Sustained only by PGF
+How has and how does the lithosphere affect climate change?
+Climate on an Earth without an Axial Tilt
+Characterizing earthquakes using accelerometer data
+How have levels of outgoing longwave and incoming shortwave radiation changed over the last 20-30 years?
+How do Rossby Waves in the ocean form?
+How can I calculate the average latitudinal temperature anomaly between a city and all other locations along the city&#39;s latitude?
+What are monsoons caused by?
+Do river fluxes help contribute to long-term carbon sequestration?
+How will climate change affect the entropy budget of the atmosphere?
+How deep could the surface of the Earth&#39;s crust get?
+How much total heat is contained in the upper layers of the atmosphere?
+Is there a standard definition of a hill?
+Checking the bedrock with radiowaves - how does it work?
+What is the concentration of silver in tap or freshwater in the United kingdom
+Is global warming occuring only because of humans?
+A good book or source for climate science and meteorology basics?
+What are the domains of Earth Science?
+Why are most cirrus clouds present over the equator and over tropical continents?
+What are some options for online and offline particle tracking in ocean models?
+Is a billion years of Earth&#39;s history missing?
+What, if any, scientific value do global soundscapes have?
+What definition of &quot;seamount&quot; is used by the largest utilised databases of seamounts?
+How does the meridional overturning circulation affect sedimentation rates in the North Atlantic?
+Why does the meridional overturning circulation take the convoluted path that it takes?
+Why is Arizona the fastest-warming state in the U.S. (since 1970)?
+Why is the eastern Pacific full of stratocumulus clouds, and why do they have so much variation in net radiation?
+Why are there no crystals with 5-fold symmetry?
+Life on Earth previous to us
+What is a fault?
+If there&#39;s acid rain, is there such thing as acid snow?
+Does over-cropping large areas really change the amount of rainfall?
+Historical atmospheric partial pressure &amp; Henry&#39;s law constant
+Relation of El Ni&#241;o to Monsoons
+Am I observing orographic rainfall?
+North Indian ocean tropical cyclones
+Which theory is stronger, that iron came from outside or was formed within earth?
+Is there an earth science discipline, or subdiscipline, that only studies magma or lava?
+How will the rising ocean affect aquatic life?
+Why are there more intense earthquakes in Iran than in Iraq?
+What&#39;s the contribution of different types of river sources?
+How long does one touch on a stalagmite/stalactite lasts?
+coriolis force in atmospheric/ocean modeling
+Is Atlanta too far inland and too far above sea level to be affected by the comet in &quot;Deep Impact&quot;?
+How do I interpret the specs of a weather balloon?
+Would it be wise to monitor real time human activity to anticipate earthquakes?
+What geological processes affect the speed of Kilauea, Hawaiian lava flows?
+Is there evidence to delineate where a southern extension of the East African Rift &#39;plate boundary&#39; is developing?
+Monsoonal interactions with mid latitude disturbances
+How do archaeologists address time dilation when analyzing carbon dating results?
+Is the Principle of Original Horizontality a good indicator?
+Interpreting some hydropower data. What does DSF mean in this context?
+Will a volcano erupt in Australia soon?
+Is the Principle of Fossil Succession accurate?
+Could Earth have had a greater axial tilt?
+What does the absence of passive margins between 1740-1600 million years ago tell us about the tectonic environment at that time?
+What causes the semi-annual mesospheric meteoric potassium variability?
+How do perennial rivers in high alpine areas maintain year round flows?
+Statistical weather prediction
+What precursor geological activity occurred prior to the Par&#237;cutin Volcano eruption in 1943?
+What is the long term impact of large scale removal of material from subterraneal caches on the structural integrity of the soil?
+How to Calculate the Equilibrum Function for use in Tide Calculations using Harmonic Constituents
+NASA GLAS Lidar Data Format
+Is there an estimate for the length of the American Cordillera?
+Will global climate change alter the interannual and/or intraseasonal variance of temperature and/or precipitation?
+Shallow water height as vertical coordinate
+Bulk and dynamic viscosity in the atmosphere
+What is the origin of the Laacher See caldera magma in Germany?
+TRMM rainfall measurement for synoptic systems
+Sand on the beaches of Kanyakumari, India
+Why is seawater saline?
+What impact on climate did 2011 earthquake and tsunami have?
+Is wave spectrum always positive and why?
+Has a reduction in car use ever had an effect on the ozone layer?
+Why does part of the P-wave convert into a S-wave with an increase of incidence angle?
+When calculating flood recurrence intervals, do you use annual instantaneous peak flows?
+Did a crater cause the break up of Gondwanaland &amp; separate Australia from Antarctica
+Thermohaline Circulation in the Oceans
+How reliable were early measurements of palaeomagnetic directions?
+What is the earliest tropical cyclone in record?
+Dependence of solar irradiation through the atmosphere on Sun&#39;s altitude
+Incised valleys and hydrocarbon potential
+What are Horton&#39;s laws?
+Do large-scale modes of variability (like NAM/SAM/ENSO) exist in the ocean?
+How does heat get transported between the surface layer, twilight zone, and the deep ocean?
+How much carbon is sequestered out of the atmosphere through marine snow?
+How do we measure the total amount of variation in height of Earth&#39;s topography?
+Why is my ♦ hammer (i.e. diamond) so durable, but it can burn?
+What type of rock is this?
+What made the Grand Canyon the &quot;greatest&quot; canyon in the world
+Were dinosaurs with feathers common?
+What&#39;s the difference between the upper &amp; lower mantle?
+How can we measure the thickness of the Earth&#39;s mantle?
+Is seismology really the only way to measure the thickness of Earth&#39;s layers?
+What is the furthest observable phenomenon from Earth that is Earth Science?
+Why is earth&#39;s axis tilted?
+Are there more earthquakes near the equator or poles?
+How does the lapse rate in clouds compare with the lapse rate of air?
+What is a seamount?
+How are jet streaks formed?
+What determines the eastward speed that mid-latitude high pressure/low pressure systems move at?
+How common is it for warm fronts to be responsible for record high temperatures?
+Golden and red colored light even after sunset
+Can thunderstorms be thought of as a heat engine?
+How to reduce the atmospheric temperature artificially?
+What is the time-lagged correlation between historical $\ce{CO2}$ records from ice cores and global temperature records?
+If all the sand in the Saharan Desert were to be removed, what would the remaining landscape look like?
+What reflects UV radiation more: stratus clouds or cumulus clouds?
+Meaning of the C in the unit &quot;mg C L-1&quot;
+What is the reasoning behind the statement &quot;Faulting will occur along the plane where the shear stress is the highest&quot;?
+Slope of Saturation vapor pressure versus temperature-A parameter in Penman&#39;s equation
+Where and how can seismic data for earthquakes and volcanoes be downloaded?
+What geological events could cause a Volcanic Explosivity Index (VEI) level 9 eruption?
+What geologic features could this video game environment be modeled from, and how do they form?
+Resources to determine temperature probability for a given location on a given date
+What would the precursors to a repeated Lake Toba super eruption?
+How do hybrid cars reduce carbon emissions (wouldn&#39;t they just transfer fuel emissions to electricity consumption?)
+Pressure of condensation of an air parcel
+What are the formula weight and gram-formula unit (gfu)?
+Where can I find a table of ocean temperature pressure and depth
+How to determine that sustained wind speed exceeded the threshold value?
+Is it feasible to use depleted oil wells for geothermal production?
+Is the Cameroon Line still an active rift zone?
+Is there conclusive evidence to refute an earlier oxygenation of the Earth&#39;s atmosphere?
+What are the mechanisms maintaining the Dune of Pilat?
+What rocks are these?
+Freshwater changes in time?
+Pyroclastic flow protection
+Differences between hydrothermal vents on Earth and Europa
+Fictional Land - How can I keep dense fog in an area for half a day?
+What type of storm cloud is this?
+What is the tectonic explanation for parallel ridges in the Arctic Ocean?
+What is the name of this feature on the Red Sea coast of Saudi Arabia?
+Negative values of relative humidity in CFSR
+What is the mechanism for deep-sea volcanism of the Gakkel Ridge in the Arctic?
+How does the Sun heat the Earth?
+Magma resultant from group 1 and group 2 elements?
+Why can Thomsen&#39;s parameter $\epsilon$ be negative in VTI media?
+Impossible or improbable? Hurricane crossing the equator
+Why does lightning strike from the ground-up?
+What started the Dust Bowl, and could it happen again?
+(How long) would Earth&#39;s atmosphere last without a global magnetic field?
+Similarities between grand circulation solvers and mantle convection solvers
+Why do snowflakes form into hexagonal structures?
+How much oil is created each year?
+How would plate tectonics differ if Earth had no water?
+Why does Coriolis determine the rotation direction of a cyclone but not my drain?
+Are there any uncharted waters left on earth?
+How is the mass of the Earth determined?
+Why do the Siberian methane craters have smooth vertical walls?
+How do we know the asteroids formed at the same time as earth?
+What is the status of the Raymo &amp; Ruddiman idea that Tibet cooled the Earth?
+Why is Earth&#39;s age given by dating meteorites rather than its own rocks?
+How can the following equations for meandering rivers be theoretically obtained?
+What would it take to confirm or refute the Snowball Earth Hypothesis?
+Farthest point from the center of the Earth
+How do weather models work?
+Why is Europe warmer than North America at similar latitudes?
+Estimating the permeability tensor of an oil field by remote sensing
+What would be the temperature of earth if there was no atmosphere?
+Is earthquake prediction possible?
+How and why did the oceans form on Earth but not on other planets?
+What causes &#39;positive&#39; lightning to be rarer, higher charged, and longer lasting than &#39;negative&#39; lightning?
+Why is Earth&#39;s inner core solid?
+How much will sea level rise if all the polar ice melts?
+Why does El Ni&#241;o only exist in the Pacific Ocean and not the Atlantic/Indian Oceans?
+Are Richter-magnitude 10 earthquakes possible?
+During the &quot;Ice Ages&quot; or &quot;Snowball Earth&quot; times, where was all the energy?
+What are some of the strongest theories against the existence of mantle plumes?
+Placement of crustal thickness estimation from 1D inversion of surface wave dispersion curves
+Peak phosphorus - what are the sinks?
+Would the Earth function the same spinning the other way?
+Why do some planets have lots of $\mathrm{N_2}$ and others none?
+How much have global GPP and biomass changed over Earth&#39;s history?
+Equinoxes and solstices: start of the season or mid-season?
+What sort of climate zones would be present if Earth was tilted like Uranus?
+How would an icicle &quot;grow&quot; upwards?
+Why was the initial theory of plate tectonics so controversial?
+What do weather forecasters mean when they say &quot;50% chance of rain&quot;?
+Is there any simple way of using the Coriolis effect to determine what hemisphere you are in?
+What causes bottom water to rise?
+How is ocean salinity measured from space?
+Can pyroclastic flows cross water?
+How are the banded-iron-formation iron-ores formed?
+How to distinguish P, S, Love, and Rayleigh waves in a seismogram?
+What is the steepest surface that can hold snow?
+Where can obsidian be found?
+How can the average coldest day of the year be before the winter solstice?
+Is climate chaotic?
+Is it true that a butterfly flapping its wings can result in a tornado in a distant location?
+How is global weather model skill measured?
+How can I improve the numerical stability of a coastal hydrodynamic model?
+How can we guess the size of the Earth&#39;s inner core(and what it&#39;s made of)?
+Will tropical cyclones form and be sustained in areas they previously were not due to global climate change?
+Why is Earth&#39;s inner core made of an iron-nickel alloy?
+Does Earth&#39;s air leak into space over time?
+Why do more tornadoes happen late in the day?
+Is there any explanation for the large amount of sea ice around Antarctica in 2014?
+Historically, how has the fraction of Earth covered by water changed?
+What properties must a rocky body possess in order to exhibit plate tectonics?
+Why is there a seasonal cycle to the amount of CO2 in the atmosphere?
+What does it mean for waves to &quot;feel&quot; the bottom?
+Could the extraction of energy by wind turbines be harmful to the environment?
+What would be the first thing which will render the Earth uninhabitable?
+Paleontology science fair ideas?
+Why are weather kites no longer used (much) operationally?
+Why did the Laki eruption of 1783 produce so much fluorine?
+What tools allow a quick comparison of NetCDF output from ocean models?
+What can we learn by studying lunar atmospheric tides?
+How do tropopause folds form and do they have any impact on synoptic scale weather?
+Why do tropical cyclones not tear themselves apart?
+What are rare earths and why do they cluster near alkaline magmatism?
+What is the cause of the jet streams?
+Why do crystals, like quartz and diamonds, form in different colors?
+Could earth&#39;s core lose its heat?
+What caused the Younger Dryas cold event?
+Why is Earth&#39;s outer-core liquid?
+Is there geological evidence that the moon once collided with the Earth?
+What are the applications of hydrostatic solvers vs non-hydrostatic solvers in numerical weather prediction?
+Significant difference between averaged wind speeds and averaged wind power density, for wind generation modelling?
+What was the Amazon like during Green Sahara?
+What is the origin of the dominant atmospheric nitrogen content in Earth&#39;s atmosphere?
+Does vegetation contribute to long-term carbon sequestration?
+How do we know that we are NOT in an &quot;Ice Age?&quot;
+How much of the current global warming is due to human influence?
+Can mining trigger earthquakes?
+Is fracking likely to produce earthquakes?
+Why does a subduction zone produce a serpentinization diapir rather than volcanism?
+Why does the El Ni&#241;o Stop?
+What causes intra-plate faults, such as the New Madrid fault?
+What determines a mineral&#39;s hardness?
+If 75% of radioactive material remains, how many half-lives have elapsed?
+Is it possible for a sting jet to form over a continental landmass?
+What are the physical upper bounds on the magnitude of an earthquake?
+What geophysical events can (temporarily) increase the Earth&#39;s rate of rotation?
+Natural nuclear explosions
+What data does a skilled meteorologist look at to predict thunderstorms?
+Why won&#39;t Yellowstone explode?
+What were the tallest mountain ranges in Earth&#39;s geological past?
+How much of a mountain is below the surface?
+What are the differences between an LES-SGS model and a RANS based turbulence model?
+How does anthropogenic heating affect global warming?
+What is the meaning of -999 degrees Celsius?
+Is the color of the sky the same everywhere on earth?
+Why does Volcano Lightning occur?
+Why deep ocean didn&#39;t freeze during snowball Earth?
+What is this strange feature on Mars in Valles Marineris
+Converting glacier volume to mass: what ice density to use?
+Have there been any attempts to measure profiles through deep convective systems using dropsondes?
+How do I explain why the Tibetan plateau is colder than lowlands at similar latitudes?
+What are the major differences between weather models and climate models?
+How long does it take for the ocean conveyor to circulate?
+What temperature do small meteorites have on impact
+Why do felsic materials have lower melting points than mafic?
+Paleogene transantarctic seaway
+In what geological situations can I find gold?
+What is responsible for the underwater waterfall illusion of Mauritius Island?
+Ice Coverage on the Laurentian Great Lakes
+What is the force imposed by underwater currents?
+Why does the so called &quot;tornado alley&quot; exist?
+What factors affect the size of rain shadows?
+What constitutes a blizzard in meterological terms?
+Why do Earth and Venus have different atmospheres?
+Why are most peninsulas oriented north-south?
+Will model resolution have an effect on model spin-up time?
+Does the Strength of Earth&#39;s Magnetic Field Influence Climate?
+What factors determine the number of Hadley cells for a planet?
+Is there a difference between rock and stone?
+Can earthquakes contribute to Antarctic ice loss?
+How do I convert specific humidity to relative humidity?
+Do tornadoes have eyes?
+How did helium deposits form?
+Why is aerodynamic resistance defined inversely?
+Break in human nitrogen input in 1990s
+Are there secondary causes of sea level change?
+How do urban areas affect rain?
+What happens to global temperature when we stop all the vehicles for a year?
+To what accuracy and precision do we know the volume of the Earth?
+How many trees would I have to plant to solve Global Warming?
+How is carbon distributed among the atmosphere, the oceans, the biomass and the unburnt fossil fuels?
+Why are minerals found in &quot;large&quot; quantities and not scattered throughout the earth as individual atoms?
+What is the status of meteorological data exchange standards?
+Current consensus on the Messinian Salinity Crisis
+What is the origin of the ocean&#39;s salt?
+Why did people draw so many continuous squares in the sand on the beach at Cape Juby?
+Is there value in using a model that fails at validation against measurements?
+Where does the water from rain in rain forests come from?
+Is it possible for rivers to freeze completely and stop flowing?
+Why Vp/Vs and not Vs/Vp?
+Why does Earth have abundant oxygen in the atmosphere?
+Why is March colder than September in Northern Hemisphere?
+Why don&#39;t cold fronts and other steep-gradient weather effects just dissipate?
+What causes the Earth to have magnetic poles?
+What is the origin of the Montmartre mountain in Paris?
+Why Earth&#39;s magnetic poles are (and were) in their positions?
+Are there situations where the groundwater table doesn&#39;t follow the morphology of the surface?
+What do quasi-geostrophic and ageostrophic mean?
+Naming convention for sea ice thickness per unit area of ice or ocean
+Why does the colour of amethyst fade if exposed to too much light?
+Did the impact event that caused the Chicxulub-Crater definitively and single-handedly cause the Cretaceous-Paleogene extinction?
+Can large (and wet) storms really trigger large magnitude Earthquakes?
+What would a replacement for SEGY look like?
+Are there any techniques for imaging the deep Earth besides seismic waves?
+Does the Great Pacific Garbage Patch increase sedimentation rates over the patch?
+How does the precession of the Earth&#39;s apses affect climate?
+When can taste be used to help identify rocks?
+Carbon Dioxide levels appear to be linked to the Milankovitch cycles according to Ice Core data but what is the mechanism?
+Where can I get archived hourly temperature data?
+What is a source of worldwide temperature data that also includes extreme weather?
+Geomorphology of Mountains With Wind only Erosion
+Can Venus be considered to be tectonically active?
+How will increased $\ce{CO2}$ affect forests and other vegetative areas?
+Why is there Uranium in Earth&#39;s Crust?
+How significant is a 5-10 mb drop in pressure over a 20 minute period?
+Does the heating of the oceans due to greenhouse effect negate the acidification due to increased CO2 levels?
+What is a typical value of the P&#233;clet number for internal waves?
+To what extent is hydroelectric power really renewable?
+Potential explanations of Red Sea crossing
+How do you calculate the depth of penetration in a Schlumberger array?
+GOES Visible Channel - asymmetry between morning and afternoon
+How are Earth&#39;s rotational changes due to large earthquakes calculated?
+Which places on Earth would be affected the least by severe climate change?
+What is the methodology to analyze future climatic extremes using the results of climate models?
+At what point does plate tectonics stop?
+What type of cloud formation is this?
+What are the non-anthropogenic causes of The Netherlands&#39; low elevation?
+What is the predictability of El Ni&#241;o/La Ni&#241;a?
+Why don&#39;t scientists use fire entry suits to study volcanoes?
+How does a &#39;fire tornado&#39; form?
+Is Antarctic sea ice at record levels?
+Did Jupiter really make Earth (in)habitable?
+Why does phosphate rock contain uranium?
+What was the ocean circulation like during the time of Pangaea?
+How will cloud feedback effects on the climate change as the result of global warming?
+How does one measure what causes earthquakes?
+Does a green or yellow sky actually indicate a tornado?
+Why do Tsunamis travel slower than sound?
+How does remote sensing of ocean currents work?
+Why does El Ni&#241;o enhance the jet stream?
+How can I estimate a 2 m temperature from / in an atmospheric model?
+Will the Earth ever stop rotating?
+Sea Level in Paleogeographic Maps
+How to measure stretching direction on chocolate-tablet boudins?
+What influences tide-height the most? Can I guess the height by looking on a globe?
+How and where do double-terminated crystals form?
+What is a good definition of the word &quot;rock&quot; for teaching?
+How are subsurface wave speeds determined without subsurface sensors?
+How do mantle plumes travel from the core of Earth to the crust?
+Why does the Hadley cell descend at 30 degrees?
+Barite and Acantharians
+How did tectonic plates originally come to form?
+What causes waves to form the characteristic &quot;breaking&quot; shape as they approach the shoreline?
+Where does wind come from?
+Cloud-to-ground lightning in Florida?
+How accurate are climate proxies in giving us a clear picture of global average temperatures throughout Earth history?
+What lithologies are deemed most suitable for the storage of nuclear waste
+How can scientists be confident of isotope ratios in past eras and varied locations, used for radiometric dating?
+Where can I obtain ocean wave data of the Southeast Asian region?
+What is the difference between a high-resolution model and a regular model run?
+In what sense did the Oklo reactor &quot;trap&quot; its own nuclear waste?
+What is the range of possible atmospheric pressures on the surface of the Earth?
+What can I use as a heatproof, non-magnetic glue for samples?
+Is Mars&#39; mantle homogeneous or heterogeneous and what might this say about mantle convection?
+Why does Mars&#39; experience an &#39;ice age&#39; at high axis obliquity, when Earth experiences an ice age at low axis obliquity
+Are ice-ages dependent on an un-equal distribution of land-masses?
+What is the appropriate vertical datum to use globally?
+Why is there no middle ground between tornadoes and hurricanes?
+Great Lakes - cookie cutter clouds
+What are the differences between implicit and explicit methods when applied to modelling Earth systems?
+Interpolating spatial data in contiguous sea areas only
+Can the overuse of geothermal energy become an environmental concern?
+How are the patterns in solid rock born
+What exactly is wind velocity
+Interpretation of a seismogram (three components)
+How did this rock dome (pictured) form?
+Zeolites, odor control, and the witchcraft of sunlight
+How many percent of volcanoes are glaciated?
+How much fossil fuel came from the Carboniferous?
+How much would the Greenland landmass isostatic rebound contribute to long term climate change?
+Is there a standard definition of a &quot;dry-down&quot; event in hydrology?
+Academic but accessible defense of the scientific understanding of anthropogenic climate change?
+Optimized interpolation method with fixed-location sample data points?
+Is it possible to create an enclosed manmade weather system?
+How much of the underwater land masses within the arctic ocean is considered continental shelf?
+How stable is the Gulf Stream? Could it stop suddenly?
+Olympus Mons sized volcano on Earth?
+When did/will peak conventional oil happen?
+Would it be geographically feasible to store water on land to counteract sea level rise?
+Ore deposits buried under cities?
+Width of strata in stratigraphic column
+Why does the Inter tropical Convergence Zone shift?
+Is there a name for this type of ice crystal?
+What is the area with the largest velocity vertical shear in the ocean?
+About meddies: what are they? How do they form? How are they maintained?
+What causes these banded clouds?
+Software for sediment transport modeling
+Why does sea level correspond to boundary between oceanic and continental crust?
+How were we able to measure carbon dioxide levels in earlier climates?
+What are the impacts of sublimation on an annual mountain snowpack?
+Why does every tsunami travel differently?
+Are sandstorms like regular storms?
+How much Uranium is there in the Earth&#39;s Crust?
+Why is earth not a sphere?
+What, if any, paleoclimate data can be derived from stromatolite fossils?
+What determines the spectrum of high and low frequency waves emitted by an earthquake?
+Biogenic origin of authigenic zeolites
+What caused the Cretaceous uplift of the Harz mountains (Germany)
+Can concretions form in non-sedimentary rocks?
+Does anyone know of a DBMS with global geospatial search?
+Why does the shoreline sometimes recede prior to a Tsunami?
+Is it possible to forecast ocean salinity 100 years into the future?
+Are mantle plumes distributed around the core randomly or in a known pattern?
+Why do those glaciers form on the lee side of the mountains?
+Why does the earth spin clockwise?
+How can I tell if a rock is really petrified wood?
+Why is there a daily inequality for low tides?
+Why does the rising of high clouds due to climate change impart positive radiative feedback on radiative forcing?
+Recharge a dry aquifer?
+How do seismologists locate the epicenter and focus of an earthquake?
+How to interpret the use of late and early Tertiary from older literature?
+Do ringwoodite minerals point to an &quot;ocean&#39;s worth&quot; of water, or a true subterranean ocean?
+Are the processes of the rock cycle currently in dynamic equilibrium?
+Why is the Atlantic Hurricane Season defined as being between June 1 and November 30?
+What is the tallest fully underwater seamount in the world?
+Does volcanic activity fluctuate?
+Why are methane spectroscopic parameters harder to determine and relatively poorly known, compared to other Earth trace gases?
+What would happen if we could revert $\mathrm{CO}_2$ production but took it too far?
+Why is Montana warmer than Wyoming?
+Model types: Robust diagnostic versus prognostic
+Is the poleward migration of the maximum intensity of cyclones a result of tropical expansion or are there some other contributing factors?
+Fine particulate matter - Why the lack of attention? What can be done to tackle it?
+When a tectonic plate subducts, does any of the subducted material melt, or is it just the mantle above the subducted slab that melts?
+How long does it take for the atmosphere to mix?
+How does radiogenic argon-40 get into the atmosphere?
+How do meteorologists grade their past forecasts?
+Ozone gas (O₃) endurance in the atmosphere
+What are the guidelines for constructing variable names that follow CF conventions?
+July/August hottest months (northern hemisphere): because of continued warming or other effects?
+Impossible or improbable? Hurricane crossing the equator
+Why does lightning strike from the ground-up?
+What started the Dust Bowl, and could it happen again?
+(How long) would Earth&#39;s atmosphere last without a global magnetic field?
+Similarities between grand circulation solvers and mantle convection solvers
+Why do snowflakes form into hexagonal structures?
+How much oil is created each year?
+How would plate tectonics differ if Earth had no water?
+Why does Coriolis determine the rotation direction of a cyclone but not my drain?
+Are there any uncharted waters left on earth?
+How is the mass of the Earth determined?
+Why do the Siberian methane craters have smooth vertical walls?
+How do we know the asteroids formed at the same time as earth?
+What is the status of the Raymo &amp; Ruddiman idea that Tibet cooled the Earth?
+Why is Earth&#39;s age given by dating meteorites rather than its own rocks?
+How can the following equations for meandering rivers be theoretically obtained?
+What would it take to confirm or refute the Snowball Earth Hypothesis?
+Farthest point from the center of the Earth
+How do weather models work?
+Why is Europe warmer than North America at similar latitudes?
+Estimating the permeability tensor of an oil field by remote sensing
+What would be the temperature of earth if there was no atmosphere?
+Is earthquake prediction possible?
+How and why did the oceans form on Earth but not on other planets?
+What causes &#39;positive&#39; lightning to be rarer, higher charged, and longer lasting than &#39;negative&#39; lightning?
+Why is Earth&#39;s inner core solid?
+How much will sea level rise if all the polar ice melts?
+Why does El Ni&#241;o only exist in the Pacific Ocean and not the Atlantic/Indian Oceans?
+Are Richter-magnitude 10 earthquakes possible?
+During the &quot;Ice Ages&quot; or &quot;Snowball Earth&quot; times, where was all the energy?
+What are some of the strongest theories against the existence of mantle plumes?
+Placement of crustal thickness estimation from 1D inversion of surface wave dispersion curves
+Peak phosphorus - what are the sinks?
+Would the Earth function the same spinning the other way?
+Why do some planets have lots of $\mathrm{N_2}$ and others none?
+How much have global GPP and biomass changed over Earth&#39;s history?
+Equinoxes and solstices: start of the season or mid-season?
+What sort of climate zones would be present if Earth was tilted like Uranus?
+How would an icicle &quot;grow&quot; upwards?
+Why was the initial theory of plate tectonics so controversial?
+What do weather forecasters mean when they say &quot;50% chance of rain&quot;?
+Is there any simple way of using the Coriolis effect to determine what hemisphere you are in?
+What causes bottom water to rise?
+How is ocean salinity measured from space?
+Can pyroclastic flows cross water?
+How are the banded-iron-formation iron-ores formed?
+How to distinguish P, S, Love, and Rayleigh waves in a seismogram?
+What is the steepest surface that can hold snow?
+Where can obsidian be found?
+How can the average coldest day of the year be before the winter solstice?
+Is climate chaotic?
+Is it true that a butterfly flapping its wings can result in a tornado in a distant location?
+How is global weather model skill measured?
+How can I improve the numerical stability of a coastal hydrodynamic model?
+How can we guess the size of the Earth&#39;s inner core(and what it&#39;s made of)?
+Will tropical cyclones form and be sustained in areas they previously were not due to global climate change?
+Why is Earth&#39;s inner core made of an iron-nickel alloy?
+Does Earth&#39;s air leak into space over time?
+Why do more tornadoes happen late in the day?
+Is there any explanation for the large amount of sea ice around Antarctica in 2014?
+Historically, how has the fraction of Earth covered by water changed?
+What properties must a rocky body possess in order to exhibit plate tectonics?
+Why is there a seasonal cycle to the amount of CO2 in the atmosphere?
+What does it mean for waves to &quot;feel&quot; the bottom?
+Could the extraction of energy by wind turbines be harmful to the environment?
+What would be the first thing which will render the Earth uninhabitable?
+Paleontology science fair ideas?
+Why are weather kites no longer used (much) operationally?
+Why did the Laki eruption of 1783 produce so much fluorine?
+What tools allow a quick comparison of NetCDF output from ocean models?
+What can we learn by studying lunar atmospheric tides?
+How do tropopause folds form and do they have any impact on synoptic scale weather?
+Why do tropical cyclones not tear themselves apart?
+What are rare earths and why do they cluster near alkaline magmatism?
+What is the cause of the jet streams?
+Why do crystals, like quartz and diamonds, form in different colors?
+Could earth&#39;s core lose its heat?
+What caused the Younger Dryas cold event?
+Why is Earth&#39;s outer-core liquid?
+Is there geological evidence that the moon once collided with the Earth?
+What are the applications of hydrostatic solvers vs non-hydrostatic solvers in numerical weather prediction?
+Significant difference between averaged wind speeds and averaged wind power density, for wind generation modelling?
+What was the Amazon like during Green Sahara?
+What is the origin of the dominant atmospheric nitrogen content in Earth&#39;s atmosphere?
+Does vegetation contribute to long-term carbon sequestration?
+How do we know that we are NOT in an &quot;Ice Age?&quot;
+How much of the current global warming is due to human influence?
+Can mining trigger earthquakes?
+Is fracking likely to produce earthquakes?
+Why does a subduction zone produce a serpentinization diapir rather than volcanism?
+Why does the El Ni&#241;o Stop?
+What causes intra-plate faults, such as the New Madrid fault?
+What determines a mineral&#39;s hardness?
+If 75% of radioactive material remains, how many half-lives have elapsed?
+Is it possible for a sting jet to form over a continental landmass?
+What are the physical upper bounds on the magnitude of an earthquake?
+What geophysical events can (temporarily) increase the Earth&#39;s rate of rotation?
+Natural nuclear explosions
+What data does a skilled meteorologist look at to predict thunderstorms?
+Why won&#39;t Yellowstone explode?
+What were the tallest mountain ranges in Earth&#39;s geological past?

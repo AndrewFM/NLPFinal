@@ -3,12 +3,13 @@ import os
 import sys
 import numpy
 import random
+from sklearn import metrics
 from sklearn.pipeline import Pipeline
 from sklearn.linear_model import SGDClassifier
 from sklearn.feature_extraction.text import HashingVectorizer, TfidfTransformer
 
 #Gather together the data
-train_size = 2000
+train_size = 4500
 data = []
 
 for site in os.listdir("Question Corpus"):
@@ -34,18 +35,11 @@ classifier.fit_transform(train_data, train_targets)
 
 #Check accuracy of classifier
 test_predictions = classifier.predict(test_data)	
+print(metrics.classification_report(test_targets, test_predictions))
 print("Classifier accuracy is: "+str(numpy.mean(test_predictions == test_targets)*100)+"%")
+print("\n")
 
 #Get questions from user
 while True:
     user_question = input("Enter a question: ")
     print("I think your question belongs to: "+classifier.predict([user_question])[0])
-
-
-
-
-
-
-
-
-

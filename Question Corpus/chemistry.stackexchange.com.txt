@@ -2499,3 +2499,2504 @@ What is the driving force for the growth of uniform size participates in a matri
 Is At a non metal or a metalloid?
 Why does meltwater taste different?
 What software can calculate aqueous solution equilibria?
+Why is gold golden?
+Can an atom have more than 8 valence electrons? If not, why is 8 the limit?
+Why can we smell copper?
+How is Teflon adhered to frying pans?
+Is toothpaste solid or liquid?
+Why is the 2s orbital lower in energy than the 2p orbital when the electrons in 2s are usually farther from the nucleus?
+Do all salts taste salty?
+How does chloroform degrade nitrile gloves?
+Is it actually possible to dispose of a body with hydrofluoric acid?
+Does water really &#39;go bad&#39; after a couple of days?
+Is a negative pH level physically possible?
+How do you melt metals with super high melting points?
+Striking examples where Kohn-Sham orbitals clearly have no physical meaning
+Is there a general consensus on the causes of the alpha-effect?
+What makes some metals melt at higher temperature?
+Why do any impurities lower the melting point of an isolated substance?
+Bonding in C₂, a carbon-carbon quadruple bond?
+Why does menthol (e.g. peppermint) feel cool to the tongue?
+How can one explain Niobium’s weird electronic configuration?
+How does Palladium dissociate H₂ so easily?
+Why does pasta really boil over?
+Carbon atoms at the edge of a diamond
+Why is arsenous acid denoted H₃AsO₃?
+What is antisymmetric exchange? What is J-strain? Where does it come from?
+Flammability (NFPA) - how is it defined?
+Why do atoms generally become smaller as one moves left to right across a period?
+Why are there no cheap diamond equivalents?
+Why are smoke odors persistent in fabrics?
+Is Carbon Dioxide Organic or Inorganic?
+Why does nitration yield a meta product in this reaction?
+Pauli exclusion principle and resonance
+What software is used to generate the PDB molecule of the month images?
+How does Walter White make pure crystal meth using a non-stereospecific reaction?
+Why do elements in columns 6 and 11 assume &#39;abnormal&#39; electron configurations?
+Why do we write NH₃?
+Are there any general rules for choosing solvents for recrystallization?
+Is activated carbon classified as organic or inorganic?
+Splitting of multiplets in &#185;H NMR spectra?
+What makes banana bonds possible in diborane?
+Why is methane&#39;s molecular formula conventionally &quot;CH₄&quot;, while water is &quot;H₂O&quot; (among others)?
+Why shouldn&#39;t Uranium come in contact with water?
+How can antibonding orbitals be more antibonding than bonding orbitals are bonding?
+Oil breaks down condoms?
+How Quantum Software Packages Work?
+Hypothetical: What happens to water as pressure increases to infinity?
+What software can calculate aqueous solution equilibria?
+What&#39;s a minimal yet chemically-meaningful kinetic system for an oscillating reaction?
+Side reactions of NHS Chemistry
+Differences between phenols and alcohols
+Why is the recipe of Coca Cola still a secret?
+Why are the rare earths erbium (Er), terbium (Tb), yttrium (Y) and ytterbium (Yb) named like that?
+Proper typography of &quot;NOx&quot;
+Why is snow white?
+Why are there two Hydrogen atoms on some periodic tables?
+Why is distillation not a viable way to seperate ammonia from water?
+Why do different substances have different boiling points?
+Pros and cons of Cartesian vs. Z-matrix representations of molecules?
+Why does Sulphur, but not Oxygen, catenate?
+How does oobleck work?
+How does adding lemon juice to sugar make better caramel?
+Electrical conductivity of graphite
+Regioselectivity of acid-catalyzed ring-opening of epoxides
+Unit of the equilibrium constant: contradiction of Bridgman&#39;s theorem?
+Why do we use helium in balloons?
+Why is methanol toxic?
+Gibbs free energy-minimum or zero?
+Are there any ionic amorphous solids?
+What can I do if I don&#39;t get a phase separation between my organic and water phases?
+How may copper acetate ligands be manipulated to change colors?
+Symmetry lost in orbitals?
+What makes diazo compounds so unstable and explosive?
+Why does ice cream make soda fizz?
+Why do the names of most chemical elements end with -um or -ium?
+Xenon and the human body
+When is it true that more nodes equals higher energy?
+Can a multi-species system oscillate around equilibrium?
+How to solidify sand
+Which is the strongest acid?
+What is the difference between &quot;reaction in both directions&quot; and &quot;equilibrium&quot;?
+Why formulate drugs as HCl salts when HCl is in stomach acid?
+Why is it that every snowflake is unique?
+Why does brown sugar have a strong smell but white sugar doesn&#39;t?
+Salts that are more hydrophilic than NaCl
+Silver, its bactericidal features and water
+During the development of aspartame, why was the methyl ester chosen?
+How large is the energy difference between keto- and enol-form of guanine and uracil?
+Why are arenes with conjoined benzene rings drawn as they are?
+What are known examples of drugs that racemize/stereoconvert in vivo, and how are they converted?
+How is Vanadium&#39;s 3+ ion paramagnetic?
+How do you separate enantiomers?
+What makes an epoxide stable?
+What is natural bond orbital theory used for?
+Why are the majority of cleaning solutions basic?
+What does this notation mean?
+How can I update a map/mesh and coordinates in a PyMol session file?
+Choosing the right condenser
+67 failures at extracting acetaminophen from Excedrin(R)
+How to convert Carbon dioxide into Carbon and Oxygen?
+What is the chemistry behind this &quot;petrol from air&quot; technology?
+Why are some salt solutions coloured?
+Why is gold golden?
+Can an atom have more than 8 valence electrons? If not, why is 8 the limit?
+Why can we smell copper?
+How is Teflon adhered to frying pans?
+Is toothpaste solid or liquid?
+Why is the 2s orbital lower in energy than the 2p orbital when the electrons in 2s are usually farther from the nucleus?
+Do all salts taste salty?
+How does chloroform degrade nitrile gloves?
+Is it actually possible to dispose of a body with hydrofluoric acid?
+Does water really &#39;go bad&#39; after a couple of days?
+Is a negative pH level physically possible?
+How do you melt metals with super high melting points?
+Striking examples where Kohn-Sham orbitals clearly have no physical meaning
+Is there a general consensus on the causes of the alpha-effect?
+What makes some metals melt at higher temperature?
+Why do any impurities lower the melting point of an isolated substance?
+Bonding in C₂, a carbon-carbon quadruple bond?
+Why does menthol (e.g. peppermint) feel cool to the tongue?
+How can one explain Niobium’s weird electronic configuration?
+How does Palladium dissociate H₂ so easily?
+Why does pasta really boil over?
+Carbon atoms at the edge of a diamond
+Why is arsenous acid denoted H₃AsO₃?
+What is antisymmetric exchange? What is J-strain? Where does it come from?
+Flammability (NFPA) - how is it defined?
+Why do atoms generally become smaller as one moves left to right across a period?
+Why are there no cheap diamond equivalents?
+Why are smoke odors persistent in fabrics?
+Is Carbon Dioxide Organic or Inorganic?
+Why does nitration yield a meta product in this reaction?
+Pauli exclusion principle and resonance
+What software is used to generate the PDB molecule of the month images?
+How does Walter White make pure crystal meth using a non-stereospecific reaction?
+Why do elements in columns 6 and 11 assume &#39;abnormal&#39; electron configurations?
+Why do we write NH₃?
+Are there any general rules for choosing solvents for recrystallization?
+Is activated carbon classified as organic or inorganic?
+Splitting of multiplets in &#185;H NMR spectra?
+What makes banana bonds possible in diborane?
+Why is methane&#39;s molecular formula conventionally &quot;CH₄&quot;, while water is &quot;H₂O&quot; (among others)?
+Why shouldn&#39;t Uranium come in contact with water?
+How can antibonding orbitals be more antibonding than bonding orbitals are bonding?
+Oil breaks down condoms?
+How Quantum Software Packages Work?
+Hypothetical: What happens to water as pressure increases to infinity?
+What software can calculate aqueous solution equilibria?
+What&#39;s a minimal yet chemically-meaningful kinetic system for an oscillating reaction?
+Side reactions of NHS Chemistry
+Differences between phenols and alcohols
+Why is the recipe of Coca Cola still a secret?
+Why are the rare earths erbium (Er), terbium (Tb), yttrium (Y) and ytterbium (Yb) named like that?
+Proper typography of &quot;NOx&quot;
+Why is snow white?
+Why are there two Hydrogen atoms on some periodic tables?
+Why is distillation not a viable way to seperate ammonia from water?
+Why do different substances have different boiling points?
+Pros and cons of Cartesian vs. Z-matrix representations of molecules?
+Why does Sulphur, but not Oxygen, catenate?
+How does oobleck work?
+How does adding lemon juice to sugar make better caramel?
+Electrical conductivity of graphite
+Regioselectivity of acid-catalyzed ring-opening of epoxides
+Unit of the equilibrium constant: contradiction of Bridgman&#39;s theorem?
+Why do we use helium in balloons?
+Why is methanol toxic?
+Gibbs free energy-minimum or zero?
+Are there any ionic amorphous solids?
+What can I do if I don&#39;t get a phase separation between my organic and water phases?
+How may copper acetate ligands be manipulated to change colors?
+Symmetry lost in orbitals?
+What makes diazo compounds so unstable and explosive?
+Why does ice cream make soda fizz?
+Why do the names of most chemical elements end with -um or -ium?
+Xenon and the human body
+When is it true that more nodes equals higher energy?
+Can a multi-species system oscillate around equilibrium?
+How to solidify sand
+Which is the strongest acid?
+What is the difference between &quot;reaction in both directions&quot; and &quot;equilibrium&quot;?
+Why formulate drugs as HCl salts when HCl is in stomach acid?
+Why is it that every snowflake is unique?
+Why does brown sugar have a strong smell but white sugar doesn&#39;t?
+Salts that are more hydrophilic than NaCl
+Silver, its bactericidal features and water
+During the development of aspartame, why was the methyl ester chosen?
+How large is the energy difference between keto- and enol-form of guanine and uracil?
+Why are arenes with conjoined benzene rings drawn as they are?
+What are known examples of drugs that racemize/stereoconvert in vivo, and how are they converted?
+How is Vanadium&#39;s 3+ ion paramagnetic?
+How do you separate enantiomers?
+What makes an epoxide stable?
+What is natural bond orbital theory used for?
+Why are the majority of cleaning solutions basic?
+What does this notation mean?
+How can I update a map/mesh and coordinates in a PyMol session file?
+Choosing the right condenser
+67 failures at extracting acetaminophen from Excedrin(R)
+How to convert Carbon dioxide into Carbon and Oxygen?
+What is the chemistry behind this &quot;petrol from air&quot; technology?
+Why are some salt solutions coloured?
+Is there any substance that&#39;s a 4-4-4 on the NFPA diamond?
+Is it possible to work out the colour of *any* molecule?
+Why does water dissociate to H3O+ and OH- rather than H+ and OH-?
+What is Inert Pair effect?
+How can I clean my lab coat?
+How many molecules does it take to have a phase?
+Is it still possible for an amateur, a hobbyist, or a science buff to make relevant discoveries in chemistry today?
+Why is FORTRAN so commonly used in computational chemistry?
+Conductivity as a function of acid concentration
+Precedence of 1,2 carbocation rearrangement
+Do terminal amides participate in $\pi$ stacking?
+Michael reaction or nucleophilic attack at the alpha carbon of an alpha-beta-unsaturated ketone?
+Mechanism for oxidation of arenes via permanganate
+What benefits do higher-rated NMR tubes provide?
+Zero order reactions
+Not your ordinary hard water deposit
+Why is iron in the brown ring compound in a +1 oxidation state?
+Stiffness of chewing gum
+By what reaction does (–)-sparteine decompose in ambient conditions?
+How come trigonal S and P compounds do not undergo inversion at room temperature?
+What material are heat bags made of?
+What is Cβ (C-beta) deviation?
+Silver and milk (or milk products)
+Rock that transfers image
+What open-source software can produce 3D PDF representation of molecules?
+Chemical compounds responsible for the colors in flowers?
+Choice of doping elements in semiconductors
+How should I go about picking a functional for DFT calculations?
+Liquid which neither dissolves in water nor oil
+Any false chemical element in history of chemistry?
+Fundamental forces behind covalent bonding
+Will gaseous ionic compounds be free moving ions?
+What is the IUPAC nomenclature of alkane with higher C atoms (more than 200)?
+What exactly is happening when sodium, potassium, or other alkali metal explodes in water?
+Are there notable organic compunds which look very similar but have very different properties?
+What are the g-block&#39;s predicted properties?
+How do the molecules know the future? How do they proceed to form &quot;Most Stable&quot; compound?
+Are chiral quasicrystals possible?
+How do I figure out the hybridization of a particular atom in a molecule?
+Difference between exothermic and exergonic
+Why does ice water get colder when salt is added?
+Why do salts dissolve? Why do NaCl crystals not stick together?
+What is known about liquid carbon?
+Do the names of some elements have anything to do with Planets?
+Is the nomenclature &quot;primary&quot;, &quot;secondary&quot;, &quot;tertiary&quot;, and &quot;quaternary&quot; carbon atoms limited to $sp^3$ carbon atoms?
+Ortho-effect in substituted aromatic acids and bases
+the reason behind the steep rise in pH in the acid base titration curve
+Why only two atoms share an electron and not three?
+Is there an energy cost associated with flipping the spin of an electron?
+What is the unit of pH?
+The Acidity of Boric Acid
+Why do SN1 and SN2 reaction not occur at sp2 centres?
+Why is water &quot;the universal&quot; solvent?
+Why is ethyne and not ethene used for welding?
+Safety in handling of concentrated ammonium fluoride
+Determining the pH of an organic solvent
+What is the difference between physical and chemical bonds?
+Non-integer hybridization
+How can we synthesize para-nitrophenol
+Why do thiols have such a propensity for bonding with mercury?
+Definitions of autocatalysis
+What do typical results from inductively coupled plasma mass spectrometry (ICP-MS) look like, and how do I interpret them?
+Resolution in Mass Spectrometry
+Why is AgCl less soluble than AgNO₃?
+What makes a radical &#39;free&#39;?
+Is it possible that diamond can be grown from aqueous solutions?
+Why does meltwater taste different?
+What is a good method to measure the redox potential of a cellular system?
+Energy-efficiency aside, what are the chemical constraints on CO₂ capture and methanation?
+How were elements and molecular formul&#230; determined in the old days?
+Is there a simple way to get the circular dichroism of a molecule from it&#39;s structure?
+How do I type a simple chemical equation in Microsoft Word?
+Why does radium have a higher first ionisation energy than barium?
+Why do some solutions eventually stop boiling and start &quot;popping&quot; as they get more concentrated?
+Can we process waste just by decomposing it to homogenous mass and extracting the elements from it?
+Why do compounds like SF6 and SF4 exist but SH6 and SH4 don&#39;t?
+Why is the Wittig reaction syn stereoselective?
+What exactly is Hydrogen bonding (and why can&#39;t it exist with atoms other than Fluorine, Oxygen, Nitrogen)?
+Open flame combustion in bizzaro world
+Stoichiometric defects in ionic crystal?
+Chemistry behind Gale&#39;s Coffee Maker in Breaking Bad
+What are some good examples of rate equations for a math class?
+Why does depurination happen at a higher pH (or under less harsh conditions) than depyrimidation?
+Why is the definition of the mole as it is?
+Why does bond angle decrease in the order H₂O, H₂S, H₂Se?
+Why do many transparent plastics turn opaque when deformed?
+Why are DCM and Chloroform so resistant against nucleophilic substitutions?
+Can in any case the faster step of the reaction be rate determining?
+Why is a temporary name given to an element with an atomic number above 100?
+Dipole moment of cis-2-butene
+When I dissolve sugar in my cup of tea/coffee, does it become a liquid or gas, or neither?
+I&#39;m disagreeing with my chemistry teacher over this enthalpy of formation problem, so can someone tell me if I am right or why I am wrong?
+Why would 1kW power supplies fail around Nitric acid (HNO3) gas?
+How can 30 ml of water be heated in less than 10 seconds?
+Is it possible to make a drug that liquefies heart plaque to treat heart disease?
+Can metals have a net negative charge
+How does NaCl maintain its crystalline structure?
+Stability of organophosphorous vs organophosphates?
+What is the mechanism of APTES mono-layer formation on glass substrates?
+Color of chromate and permanganate
+Can recent developments improve the total synthesis of B-12?
+How do orbitals coexist with a nucleus?
+Are there any major exceptions when comparing electron affinity?
+Is aqueous medium necessary for complex formation? if so, why?
+How is the electron &quot;trapped in the crystal&quot; in irradiated NaCl?
+What is the meaning of the &#39;2&#39; on some Compressed Gas Hazard signs in the lab?
+How do I determine the absolute configuration experimentally?
+What factors are important for quantitative analysis of a proton 1D-NMR spectrum?
+How are turbostratic graphite phases formed?
+When simulating spectral line broadening, which convolution is preferred?
+Why is slush hydrogen at the triple point?
+Edges of graphite
+What does &quot;reaction coordinate&quot; mean?
+What are the border definitions in the Ramachandran plot?
+Is enthalpy additive in mixing?
+Why is 1-ethyl-3-methylimidazolium tetrafluoroborate (EMI-BF4) often considered a prototypical room temperature ionic liquid?
+What is the difference between an HMQC and HSQC experiment?
+Why are many drugs in the hydrochloride form?
+How does Polytetrafluoroethylene (Teflon) differ from Polyvinylidene fluoride (PVDF) as a protein binding membrane material?
+Can I test for lead with household chemicals?
+Why do aromatic hydrogen atoms have a higher chemical shift value compared to aliphatic hydrogen atoms?
+Chemical synthesis via 3D printing?
+Why first water and then acid?
+What are the alternatives to the Periodic Table of the Elements?
+standard reference for thermodynamic properties?
+Can molecules diffuse upstream when emptying a cup of tea?
+Why is H₂O a dipole?
+What are the chemical reactions behind fire?
+Bond order for carbonate ion for resonance
+Is there a simple field test for heavy water?
+Why do oxidation numbers work?
+Why are there quantised energy levels in the vibrational energy of a molecule?
+Where can I find a downloadable spreadsheet of element properties?
+What makes Coke acidic?
+Understanding how mass spectroscopy works
+Please explain why dioxygen difluoride is so dangerous
+Why do transition elements make colored compounds?
+Why is H₂O V shaped?
+Why does chlorine have a higher electron affinity than fluorine?
+What is hydrogen-rich water?
+Electrophilic Aromatic Substitution: Are protonated OH-groups ortho-/para- or meta-directing?
+maximum number of electrons each shell
+Bond Length of CO+ is expected to be more than CO but it is found to be less. Why is this so?
+Hyperlithiated Carbon Species
+Why doesn&#39;t the boiling point of an aqueous solution depend on intermolecular attraction?
+How to explain the concept of mol and reactions involving mol quantities
+Can Entropy Increase During Bond Formation?
+Is greater relative AA battery capacity at high currents indicative of greater capacity at low currents?
+Why does salt dissolved in water taste like salt? If it&#39;s just Na+ and Cl- ions
+CO2 removal from mushroom growing tent
+If radium has such a long half-life, how can radon possibly be a threat to us?
+Does hydrogen bonding strength correspond to Bronsted basicity in a given medium?
+Why six C atoms are usually seen in cyclic compounds?
+Why is dU an exact differential and dq an inexact differential?
+Are there any good examples of commonly ingested molecules that contain particular toxic individual elements?
+Does increasing concentration of copper sulphate decrease or increase its conductivity?
+Why is beryllium transparent to x-rays?
+Ashes to diamonds --- How?
+Would it be possible to create a (non-toxic) alcoholic drink that, when zapped with laser, changes color?
+DFT Functional Selection Criteria
+Where do the bubbles in a glass of water come from?
+Why is NaCl3 possible?
+Do Faraday&#39;s gold colloidal solutions still exist?
+How to find the second order perturbation to wave function?
+How does the choice of metal (oxide) catalyst affect the range of unsaturated compounds that can be hydrogenated?
+What&#39;s the chemical nature of a dishwasher&#39;s rinsing agent?
+Why does the sulfone ring in tazobactam open when the lactam is hydrolyzed?
+How does conductivity work for non-redoxed ions?
+Is there a theory behind selecting elements that may be successful in potential superconductors?
+What dictates the lifetime of a solvated electron in a given solvent?
+Why does benzene bend in this reaction?
+Why are equations of state for a non-ideal gas so elusive?
+How are $\sigma$ and $\sigma^\pm$ determined in Hammett plots?
+what kind of suspension liquid should be used with ferrofluid (so it does not stain the glass)
+How are non-carbon stereogenic centers named (S/R)?
+What are the mechanisms for capture of As(III) and As(V) by magnetite from water?
+What is a rigorous definition of gas volume, and how is the Van der Waals equation derived?
+Can a NOESY NMR experiment be halted partway through and give meaningful results?
+What do the different grades of chemicals mean?
+How to name this cyclic compound with an O
+Why is mercury a &quot;fancy proton&quot;?
+What is the effect on humans of using dry ice and liquid nitrogen as food additives?
+Hierarchy of electronic wavefunctions
+Does the chemical in an alkaline battery make battery leaks unavoidable?
+What is the chemical structure of H₂SO₄?
+Why are alcohols with longer chains less polar?
+Why are equilibrium constants unitless?
+The Evans auxiliary: rotational freedom of the benzyl group - stereoselectivity still guaranteed?
+What&#39;s the chemistry behind only charging a Lithium-ion battery to 80% capacity at most, to increase its lifespan?
+Why do some materials turn black and others white after combustion?
+Is it Possible to Synthesise Ethers from Carboxylic Acids?
+Difference between thermodynamic and kinetic stability
+Carbon with 5 bonds?
+Why isn&#39;t water acidic?
+Which chemical properties make the substance to be explosive?
+Is there a point at which Ethanol (E10) fuel becomes harmful to gas tanks or engines if not used?
+Why do chalcogens (Group VI) stink so badly?
+What&#39;s the physicochemical difference between a chromophore and a fluorophore?
+Why are the halogens good disinfectants?
+Why is it important to use a salt bridge in a voltaic cell? can a wire be used?
+How does alum improve the settling of particles to produce &#39;clean&#39; water?
+What utility does the Tau bond model of orbital overlap have?
+Why can&#39;t pure water conduct electricity since it can be reduced at cathode and oxidised at anode?
+Does freezing a solution with water always cause the water to separate and form the ice lattice?
+Is there any relationship between ultrasonication and temperature
+Why search new elements?
+What causes the smell in rotten meat-grease and how can I get rid of it thoroughly?
+Why do people often capitalize element names?
+Derivation of the Hartree-Fock equations. Functional variation
+Is oxygen with a positive charge more stable? (comparison of canonical structures)
+How does one tell if a specific molecule is acidic or basic?
+At what amount is digesting soap unhealthy?
+What makes substances explosive
+Would it be possible to produce a non-toxic atmosphere using a coal fire and frozen oxygen?
+Why do solutions become saturated?
+Why does the energy gap for π - π* transitions shrink with the size of the pi-conjugated system?
+Proton transfer equilibrium in bisulphite adducts
+What is the pKa of the oxonium / hydronium / H₃O⁺ ion?
+What exactly happened when I added $\ce{KOH}$ to $\ce{H2O2}$?
+Why can Cu have an oxidation number of +2?
+Why doesn&#39;t a table sublimate, while ice does?
+Why does diamond conduct heat better than graphite?
+What is the origin of the differences between the MO schemes of O₂ and N₂?
+Is BCl₅ possible?
+Why is magic acid a superacid?
+What is C2H5-O-CH=CH2?
+Turn lead into gold via radioactive decay
+How to synthesize methamphetamine?
+Evidence of orbitals?
+Which is the densest gas known?
+By what mechanisms can molecules with the same empirical formula be so different?
+Why do atoms &quot;want&quot; to have a full outer shell?
+Why is sand that insoluble?
+How does H2O2 bond
+How to check if azobisisobutyronitrile (AIBN) is still active?
+Why is gold unreactive when only one electron in outer shell?
+Fireplace window: Can one influence how fast soot is building up?
+Why was atomic mass scale changed from Oxygen - 16 to Carbon - 12?
+Why doesn&#39;t HCl form when you dissolve NaCl in water?
+Can we really see the bonds?
+Organizing my &quot;chemical&quot; cabinet
+Why is pyridine used when making tosyl esters from alcohols?
+Can magnetic fields affect a chemical reaction?
+How to I extract cyanide from apple seeds?
+How pure NaCl is typical table salt? How is it purified?
+Do molecules with axial chirality have &quot;stereogenic units&quot;?
+Is the atom the smallest particle, which takes part in chemical reactions?
+Is there a general / simple formula for Slater&#39;s rules?
+Chlorosulfonation mechanism
+What would follow in the series sigma, pi and delta bonds?
+Can we prolong life?
+Acid catalysed synthesis of ethyl ethoxymethylenemalonate
+Why is benzyne an intermediate?
+General rules for deciding volatility
+What is the geometric configuration of the four fluorine atoms during the synthesis of xenon tetrafluoride?
+How does one recognized Td/Oh symmetry in molecules?
+Is the Springborg 6D phase space model used in modern molecular orbital modeling?
+Why do Magnesium and Lithium form *covalent* organometallic compounds?
+Are there any examples of nuclear spin isomers having consequences for chemical reactivity?
+How does dimethylsulfoxide serve as a cryoprotectant?
+Stability of H⁺ ion
+Is the specific heat of liquid iron constant?
+Do noble gasses besides Helium form diatomic molecules at low temperatures?
+Synthesizing Mandelic acid - way too simple?
+Differences between KOH and phosphorus pentoxide as drying agents?
+Order of Dipole Moments
+What is &#39;autogenous pressure&#39;?
+Why are atoms with eight electrons in the outer shell extremely stable?
+How do non-polar substances dissolve in non-polar solvents?
+What is the opposite of a surfactant?
+What is deuterium-depleted water actually used for?
+What happens during cleaning silverware?
+Naming of quantum chemistry basis sets
+What is the difference between distilled water and rainwater?
+Alloys for inkless metal pen
+Can quantum entanglement affect the chemistry of molecules?
+Name of a proton bonded to a hydroxyl carbon
+In a Koppers-Totzek reactor, why do I get CO and H₂ instead of CO₂ and H₂O?
+Molecular and Atomic Orbitals and Antibonding
+Why are solid phase organics often conjugated to HCl?
+Has the molecular diatomic oxygen trianion been observed or predicted?
+What is the definition of of &#39;compound&#39;, &#39;mixture&#39;, &#39;element&#39; and &#39;molecule&#39;?
+Why do Organolithium or Grignard reagents act as nucleophiles and not as bases with aldehydes and ketones
+Chemical diagram for cummingtonite?
+How to determine which gas is more soluble
+Saturated vs Unsaturated Fats -- Structure in Relation to Room Temperature State?
+Why does a substance with an endothermic heat of solution dissolve?
+What is the difference between hand wash and body wash soap?
+What does the eta notation mean in the naming of a transition metal complex?
+When did the atom Theory Become indisputable?
+What happens when you mix alum with soap?
+Why is Tantalum so unreactive?
+When measuring avidity should you use the ligand concentration or the nanoparticle concentration?
+Regarding logic behind Organic Chemistry
+Is real water made up of heavy water and light water?
+Transition state and free energy
+Can 1 mole of H2 react partially with one mole of O2?
+Phenyl vs methyl cis/trans stability
+Competing resonance and inductive effects in a substituted benzene
+Why is Density Functional Theory notoriously bad at describing oxygen molecules?
+Overlap between computer science and chemistry?
+How can normal potentials be explained?
+Covalent bond deformation
+Do eta-4 benzene ligands participate in Diels Alder or other cycloadditions?
+Does the hybridization model gives us any further insight on Molecular Geometry?
+Can an aqueous solution conduct electricity forever?
+What molecular features create the sensation of sweetness?
+Why fluorine doesn&#39;t act as the central atom in inter-halogen compounds?
+Finding the number of cyclic isomers algorithmically
+The last element&#39;s atomic number
+What is the smell of &#39;burning&#39; metal?
+van der waals nonspecific interaction definition
+Why is the alpha particle called a particle when it is made of four particles?
+difference in the functioning of Alkaline and Acidified KMnO4
+rate determination by 1H NMR spectroscopy
+Approximate time for pure water pH to equilibrate in open air?
+Why does free chlorine in the stratosphere lose its ozone-depleting potential after about 100,000 reactions?
+Are atoms really round?
+How long burned tobacco smoke remain toxic?
+How could alcohol be made into a powder?
+Rationalizing the Planarity of Formamide
+Relationship between magnitudes of forward and reverse kinetic rate constants
+Are metallic/ionic bonds weaker than covalent bonds? I was taught the opposite. Now I&#39;m confused
+Will heating diatomic oxygen enough break the O=O bonds?
+What is the reason for anomalous expansion of water?
+Why is the bond angle H-P-H smaller than H-N-H?
+Rationalising the order of reactivity of carbonyl compounds towards nucleophiles
+Hosoya Z Index and Correlation with Boiling Point
+Does O2 have a color in the gas phase
+What are these crystals on my champagne cork?
+How hazardous are peroxide-able ethers if stored properly?
+Explaining Ionization to kids
+Why is there sulfur in black powder / gun powder?
+Biological Consequences of Asteroid Mining—Death by Isotope?
+What chemicals are used in receipt paper?
+What really happens atomically in an explosion?
+Influence of Temperature on Biochemical Reactions
+Is there a catalyst that will reduce an alcohol to an alkane?
+Why is disilyne bent?
+Why is proton transfer so fast?
+How can a protein folding transition state have zero lifetime?
+Which is more basic, hydrazine or ammonia?
+Oxidation of formate ion by peroxydisulfate in water solution: Why are there &quot;strange&quot; kinetics?
+Grignard reagent vs Gilman reagent
+Standard list of odors?
+If caffeine is an alkaloid, why is coffee acidic?
+Why does Nitrogen form N₂ (and not N₄) while but Phosphorus forms P₄ (and not P₂)?
+Does bleach turn a substance white or colorless?
+1H NMR proton coupling
+IUPAC Naming: 2-phenyloctane or 2-octanylbenzene
+What possibilities are there for refining aluminium on the moon?
+Where does the molar mass difference between N₂ and CO come from?
+Why does N₂ react with O₂ to Form NO at high temperatures?
+Negative ions and health: pseudo science or something more?
+Practical safety of storing potassium
+What causes the really bad smell of rotten potatoes?
+How do I excel in Chemistry?
+pKa differences and reactivity
+Diels-Alder without molecular orbital theory
+What is the meaning of &quot;no Hessian Eigenvalue &quot;?
+Does hydrogen really have seven isotopes?
+What forces hold ink on paper?
+How does epoxy stick to stuff?
+Mechanism of styrene dimerization
+In infrared spectroscopy, why is there no C=C reading for E alkenes?
+What causes spray cans to get cooler when shaken?
+What are the meanings of dotted lines and waves in structural formulas?
+Why are inert gas (especially Xenon) compounds powerful oxidizing agents?
+Why is it that the bigger the side-chain is, its hydrogen atoms tend to be more equatorial?
+Availabilty of magnesium ions in phosphate buffer
+Are buckminsterfullerene-corannulene complexes actually stabilised by π stacking?
+Living-cationic vs cationic polymerization
+What are the major factors that influence LogP
+Are Pulay forces expensive to compute?
+Experimental calculation of solubility product constant
+Gas chromatography/mass spectrometry: Can I use peak ratios and molecular mass to derive quantity?
+What is the difference between an angular and linear skeletal formula?
+Why are there no edge dislocations in a face-centered cubic (FCC) lattice?
+What does the charge distribution around a Stone-Wales defect look like?
+How to understand this form of writing the solution: (some salt • n H₂O)?
+Rotation energy barrier for carboxypyrazolate
+Why are strong acids and bases not suitable as primary standards?
+Is circularly polarized light ever used to isolate particular chiralities?
+Why is fabrication of ordered graphite substrates difficult?
+Why do biphasic systems of fluorous and organic solvents form?
+Explain the nomenclature of 7-amino-4-methylcoumarin
+What is the timescale of disulfide bond formation?
+Is the order of orientation of electron box diagrams meaningful or arbitrary?
+13C NMR spectrum only showing solvent
+How to calculate the equilibration time of two connected chambers of salt solution, initially at different concentrations?
+Activated Carbon - Desorption in sunlight?
+How to characterize gaseous ethylene that forms as byproduct?
+Ceramics in &quot;bullet proof&quot; vests?
+MacGyvering a sealed tube
+How to translate the mobile phase from thin layer chromatography to column?
+Do hydrogen halides (HX) form strong or weak acids?
+Negative retention for chloride in hydrolysate filtration
+How can one optimise the formation of copper acetate?
+Are there any molecules with delta bonds in their ground states?
+A quick method for separating liquids?
+Deliquescence/efflorescence: How can I convert between salt concentration and RH?
+Why does an ideal capacitor give rise to a rectangular cyclic voltammogram (CV)?
+Can I use one alkaline battery to recharge another?
+Interpreting a formula tattoo
+Modern alternatives to Gaussian
+Isolating salt from sea water using filters
+Will alcohol or soap damage plastic or rubber?
+Why does hand sanitizer turn into a liquid after coming out of the bottle?
+How is the yellow colour of nitric acid removed?
+Naming this substituted cyclohexenol
+Calculating entropy: why consider a reversible path?
+Why does 9-fluorenone dissolve in hexane?
+Polypropylene 55 gallon drum
+What do graphene &quot;armchair(5,5)&quot; and &quot;zigzag(5,0)&quot; refer to?
+Why do single, double and triple bonds repel each other equal amounts?
+Is there a standard symbol for molar density?
+What are the key chemical characteristics that determine the octane rating of fuel?
+Treatment of copper (0) with sodium hydroxide
+What is the name of the &quot;primary&quot; carbon in a benzene derivative?
+Acetic acid freezing distilation
+Why does H₂ form on such a long time scale?
+Why can an s orbital only hold two electrons?
+Where did the rest of the elements come from?
+Why don&#39;t the electrons move through the electrolyte (instead of the circuit) in a galvanic cell?
+Why does Naphthalene turn into needle-shaped crystals by sublimation?
+What is a pure substance?
+What will be the product when 3,4-Dibromocyclohexene is reacted with sodium followed by heating with selenium?
+What would be the mechanism of the given reaction?
+Why are all the phenyl protons in benzyl alcohol equivalent in the &#185;H-NMR spectrum?
+White powder observed after boiling water in electric kettle for many weeks
+Reaction mechanism for oxidation of primary alcohol to carboxylic acid
+How can a group be both a good nucleophile and a good leaving group?
+Why aren&#39;t lower aromatic organic compounds taught?
+Significant Figures Interpretation
+What happens to the oxygen when carbohydrates turn into hydrocarbons?
+Why is this atom sp&#178; hybridised?
+Increasing the solubility of Sodium Hydroxide
+Common Elemental Termolecular Reactions
+Tetrahedral or Square Planar
+Books for a very advanced 3rd grader (elementary school)
+If electrolysis splits water, why does only either hydrogen or oxygen (but not both) bubble up on one pole?
+Conducting current in electrolytes
+What chemicals are in tap water that gives it a slightly basic pH level
+Why can&#39;t rust form without water?
+Interpretation of Figure - biofunctionalization
+Molecular Imaging - Any surprises to be had?
+Determing Empirical Formula
+Experiment to show that air contains about 20% oxygen
+Is it safe to condense water into a liquid nitrogen trap?
+What does lowercase r-s notation mean?
+Consequences of using reagent preserved with sodium azide on gold film
+How should I modify my molecular dynamics simulation so that known chemical reactions can be modelled?
+Why aren&#39;t there any triangular molecules?
+How does initial rate of reaction imply rate of reaction at any time?
+Is there any special rules for checking the aromaticity of polycyclic compounds?
+Does it make a difference in energy if a reaction is done in many steps or in one step?
+Why are sigma bonds stronger than pi bonds?
+How should elements be colored? And how many bonds does an atom have?
+Is it possible to save an insoluble snowflake?
+Extraction of Sn from SnO2
+Spontaneous Reactions
+Is hybridization used in ab-initio valance bond calculation?
+Understanding moseley&#39;s law from the rydberg-type equation?
+Mathematical basis of why enthalpy of mixing is 0 for ideal gas
+Why do branched chain compounds have lower boiling points than the corresponding straight chain isomers?
+Can a battery powered by iron and air really provide a feasible power source for automobiles?
+Why is Charcoal such an excellent adsorbent?
+Example of raw 1H-NMR data?
+Order of reactivity of carbonyl compounds to Nucleophilic addition reaction
+Why does water evaporate at room temperature?
+Resonance stability: ester vs. thioester
+What is the mechanism of action of anaesthetics?
+How explosive is hydrogen gas?
+Why does nitric acid not turn yellow everytime?
+How to separate HCl and NaOH from salt and water solution?
+Rate and mechanism of the reaction of Mg and HCl
+How can I make an acidic pen to burn paper on writing on it?
+The Crisscross method for finding the chemical formula
+How many Ga atoms are connected to one As atom in solid state Gallium arsenide
+How to calculate reduction potentials from given standard potentials for cobalt?
+Why is it necessary to avoid even traces of moisture from a Grignard reagent?
+Questions about Buffer System (Lab)
+Lone Pair &#39;more repulsion&#39; VSPR Theory
+How does glue work?
+What is the Structure of FeSO₄ • NO?
+What makes C=O more stable that C(OH)₂
+Where is the acid in DNA/RNA?
+What makes teflon such a strong material?
+Removing prenylated phenolics from clothing, shoes, and upholstery
+Structure that breaks InChI
+Why do acids favor the oxidizer? And bases the reducer?
+How much can the pH change through dilution?
+Does having constant pressure imply a temperature change? Why isn&#39;t the volume needed to calculate the final temperature and energy?
+Are there any full worked examples of DFT calculations?
+Entropy - &quot;Wiggle&quot;?
+Why no thermal expansion for camping tents?
+What exactly does it mean for the reaction of superoxide with non-radicals to be spin-forbidden?
+Why can&#39;t light pass through a gold foil, but alpha particles can?
+Bicycle tube inflation with 16g CO2 cartridge
+How does mixing lemon juice in hooka water affect the composition of the mixture?
+Why does nitrous acid exhibit (unexpectedly) different bond angles?
+What is Bent&#39;s rule?
+Utility of Bent&#39;s Rule - What can Bent&#39;s rule explain that other qualitative considerations cannot?
+Scary jelly forming on zinc anodes
+What general uses do beta-lactam functional groups have?
+What is the IUPAC systematic name for methane?
+Thermodynamically Reversible Processes: How does an infinitesimal step make a process reversible and how is maximum work derived from the process?
+Is the transformation of pi bonds to sigma bonds always energetically favorable?
+Heats of combustion and stability of rings
+Do reverse reactions occur in combustion?
+Sodium Bisulfate vs Sodium Bisulfite
+Difference between shells, subshells and orbitals
+Is cyclobutadiene anti-aromatic?
+Beer freezing after being opened
+Caclulating the Solubility of Fluorite in River Water
+Carbon-Sulfur Bond Lengths; Resonance Effects (Or Lack Thereof)
+What makes carbon special and versatile?
+Where&#39;s my experimental error coming from?
+Is there a pH range for &quot;neutral&quot; detergents?
+Is there a simple way to separate deuterium oxide from tap water?
+Properties of f-orbitals
+Why doesn&#39;t limestone thermally decompose instead of turning to marble?
+What Causes there to be a Maximum Amount of Salt which can be Dissolved in Water?
+Reduction of α,β-unsaturated nitro compounds
+Why does microwave heat up things so much more quickly than visible light?
+Is it likely that increased understanding of quantum physics will change our understanding of chemistry?
+Why did the salt on the skin of my turkey react with the aluminum foil it was touching?
+Mechanism of dehydrogenation with Nosylate
+How does Resonance stabilize a molecule?
+Whats the difference between entropy and the (dis)order of a system?
+Would there be a difference if deuterium is embedded instead of protium (regular hydrogen) in acids?
+Why are triamino compounds so rare?
+Is a hydrogen bond considered to be a van der Waals force?
+What is the white substance left behind after boiling down water
+Is Acrylamide carcinogenic? Why?
+Temperature of an atom
+What are the products of the reaction of 1-methoxycyclohexene with dilute hydrochloric acid?
+What is the Ka of OH- and Kb of H3O+?
+What&#39;s the type of bonding in La@C60?
+To what extent can hydride shift go?
+Does chemistry need machine learning?
+Why is SN2 favored greatly over SN2&#39;
+How do I synthesize 3-phenyl oxirane-2-carbaldehyde from chloroacetonitrile?
+What will be the major product on chlorination of m-nitrophenol?
+What is the meaning of &quot;superionic&quot;?
+Non-halogen intermediate between alkane and alcohol under basic conditions?
+Similar proteins in milk, oats and eggs
+GAMESS and Gaussian : what is the maximum efficient number of supported nodes?
+What is the viscosity of menstruation blood?
+Do core electrons have molecular orbitals?
+Writing Kp expressions?
+Predicting orbital angular momentum effects on magnetic moments
+Molecular explanation of the Hofmeister Series
+How to differentiate a metal from its ion?
+Brittle d-block metal trend
+Effect of periodic acid on cyclohexane derivatives
+What&#39;s the difference between precipitate and turbidity?
+How can I perform structure alignment on an inorganic species?
+What organic solvents are suitable to use with potassium permanganate?
+Hanging a spoon on the face
+Regenerating the imaginary data of a 2D NMR spectrum with a hilbert transform
+Why is it so difficult to create mock NMR spectra of macromolecules?
+When we heat a borax crystal, why does it first expand and then contract?
+What is the behavior of a Zwitterion during ion exchange chromatography?
+Can class D fire extinguishers be used for other fire types than metal fires?
+Test presence of oxygen &gt; 1%
+How does temperature affect the concentration of flavonoids in orange juice?
+Efficiency of various Ewald-type schemes for the summation of electrostatic interactions
+How does brewing time and brewing temperature affect the flavonoid concentration of green tea?
+Difference between non-thermal and thermal ionized gases
+Where can I obtain tables of P-V-T/compression factor data?
+Calcium carbonate toxicity
+Why are peroxides explosive?
+Why does oxygen not condense onto open dewers of liquid nitrogen?
+What is the exact nomenclature of ionization?
+Extracting elemental ratios from X-ray photoelectron spectroscopy (XPS)
+Cyanogenic glycosides and HCN
+Why is a squared cosine window function commonly used for 2D spectra?
+Why does Chloride attack CrO?
+What does the ZZE tag in an Chemical Table file refer to?
+Copper Chloride: neutralizing and disposal
+Copper substituting silver in Tollen&#39;s reagent
+How did Michael Faraday melt Sodium Chloride?
+Is there a liquid crystal or similar material that gets cloudy when an electric field is applied, but is otherwise clear?
+Really Slow Chemical Clock Reaction
+What is known about the phase of matter at very high temperature and enough pressure?
+What is the &#39;ancestral term&#39; in the LS coupling scheme?
+What meaning do multiple real solutions of a truncated virial equation have, if any?
+Why do H₂ and O₂ create H₂O?
+What does it mean when &quot;a gas is dilute in CO₂&quot;?
+Options for long term storage of helium?
+Chemical reactions with a room-scale cooling effect
+Is it possible to get energy from frozen methane without oxygen?
+Are redox half-reactions &quot;real&quot;?
+What chemical file formats are compatible with 3D printing?
+Molecular orbitals of heteronuclear diatomic molecules
+Clogged drain, commercial products are ineffective
+Identifying a glass frosting chemical
+How can scientists be certain that there are no undiscovered elements missing from the periodic table from hydrogen to lawrencium?
+Negative Kelvin Temperature
+Hybridization sp3 and sp2
+Why does gas particle velocity affect rate of effusion?
+Reduction and re-oxidation of TiO₂
+Explain Platinum&#39;s electronic configuration
+Is electrochemically activated water a real technology?
+Predict Products
+Forms of carbon in incomplete combustion
+Does sublimation happen only on the surface or throughout the body?
+Classical reason for good heat conductance in diamond?
+Resonance in carbocation derived from allenes
+Why is the relative atomic mass of carbon not exactly 12?
+Why do shape and size have the greatest effect on the optical properties of nanoparticles?
+How can I dispose of chlorine and sodium hydroxide as table salt and water?
+Why does sulphur and oxygen form sulphur dioxide?
+Completely chemically inert metal alloy?
+What makes Kleenex Cool Touch tissues cool to the touch, and is it safe?
+Does citric acid react with carbonated water?
+How to find whether there is oxygen present inside a well of diameter 1m at depth 50m?
+Law of Multiple Proportions: What is the significance of small whole numbers?
+Why does nucleophilic substitution favour being in an aqueous solution?
+Why do single elements in a molecule have an oxidation state of zero?
+Why do metals tend to lose electrons, as opposed to maintaining electric neutrality?
+Chemical Equilibrium - Why do changes in pressure cause a shift in the ratio of products and reactants?
+How much CO₂ should one expect in an IR spectrum?
+Bonding and anti-bonding orbitals in the light of time-dependent Schr&#246;dinger equation?
+Nitrogen Monoxide
+Easily removable material that sticks to skin
+What household substances could be distilled
+Anomalous Electron Configurations
+Why does Oxygen not like to be doubly Anionized?
+What chemicals are going to be used to make the smoke black or white?
+Stripeless cleaning of windows
+Selective etchant for Al2O3 (Does not etch Al, Cu, Zn, Sn)
+Resonance structure and hybridisation
+Oxidation of ketones
+Measuring Thermodynamic Stability
+Normal Spinel and Inverse Spinel
+What does under-stoichiometric or stoichiometric mean?
+Spontaneous explosion of a bottle containing alcohol and milk
+What is the difference between graphite oxide and graphene oxide?
+Can iproniazid be prepared by reacting isoniazid with 2-chloropropane?
+How is this an autocatalytic reaction?
+Bonding and Antibonding
+Electron density definition of single, double, triple bonds?
+Total magnetic moment of atom
+Chemical properties of isotopes
+Can you heat water with additives?
+How can melting point equal freezing point?
+Reviving Li-ion battery in freezer?
+Why are there multiple lines in hydrogen line spectrum
+Computing of strengthening of pi-interaction
+What chemical available in 18th century would explosively react with phosphorus?
+How do I determine the crystal field splitting for an arbitrary point group?
+How chemists find out the electronic properties of elements (atomic numbers)
+Why is O2 the supporter of combustion?
+Why don&#39;t metals form covalent bonds in bulk metal?
+Why is the carbon dioxide we exhale transparent?
+colloidal osmotic pressure?
+Have we ever created artificial metals?
+Difference between Reaction Rate and Rate Law?
+EZ-Water - Fraud or breakthrough?
+What is the net ionic equation for this molecular equation?
+Is there a difference between imidazolidinone and imidazolidone?
+If pH of the solution is zero, what would be the normality of an H₂SO₄ solution?
+What does the &quot;3,4&quot; mean in 3,4-methylenedioxymethamphetamine (MDMA)?
+Why apart from when building atoms in the first place, the 3d is the lower energy orbital?
+Why does ammonia act as an acid in only the first of these two reactions?
+Why is Aluminium Carbonate unstable?
+Will bridged compounds undergo $S_N1$ reaction?
+How can enzyme/substrate reactions that adhere (largely) to quantum theory also require &#39;Newtonian&#39; consideration of gravity?
+How can Al2O3 be called an acid?
+When and how in anaerobic digestion is water dissociated?
+The Lewis structure of HNO3
+Which functional group is -CSSH?
+Resonance of benzoic acid
+How does the ambient temperature affect the rate of redox reactions in a salt lake?
+Why is lanthanum a lanthanide and actinium an actinide?
+What chemical properties make some grassses usable for producing textile fabrics?
+Is pure water very corrosive?
+Why are noble gases stable
+Why is water wet and fire hot?
+How to get defect-energy level diagram from PL data
+What is the chemical basis for superglues?
+Ozone catalysis
+How do I create a concentrated solution of singlet oxygen (in the dark)?
+Why aren&#39;t atomic radii calculated using Schr&#246;dinger&#39;s equation?
+Why does acetylene, having acidic proton, not react with strong bases like NaOH and KOH?
+Is it possible to create a salt with multiple anions with only one cation(e.g. CaBrCl)?
+How is an aqueous Ag+ the same as [Ag(H2O)2]+?
+Molecular Oxygen in Suzuki Homocoupling
+Flavor transference through the air and plastic bags
+How to properly relate quantum mechanical energy to the classical world
+Can I damage a biotinylated antibody in solution by vortexing or mixing too vigorously?
+The energy gap between a pi-conjugated system with (2 bonding and 1 anti-bonding orbital) and (1 bonding and 2 anti-bonding) orbitals
+Reaction Order Greater than 1
+Why is the melting point of p-Dichlorobenzene higher than those of o-Dichlorobenzene and m-Dichlorobenzene?
+What is the carbon dioxide content of a soda can or bottle?
+Pressure and LeChatelier&#39;s Principle
+Rate and order confusion
+Halogen bonds in QuteMol
+Activity Coefficients from Electrode Potentials
+Mistake in Wikipedia article on fugacity?
+What&#39;s the relationship between Van der Waals forces and hydrophobic interactions?
+Why is a singlet state called singlet and a triplet state called triplet?
+Why does the water in a Powerade bottle tastes a little like Powerade after many refills?
+Don&#39;t Understand Beta Decay
+Calculating Commutator of Differential Angular Momentum
+Electronegativity Considerations in Assigning Oxidation States
+Inorganic chemistry reaction mechanisms
+HNMR - Peak Splitting
+How does the crystal know where to stop stacking the unit cells?
+What is difference between aluminium mercury alloy and gallium aluminium alloy?
+Calculating the pH of a dilluted aqueous KOH solution
+Why does Mercury have low melting and boiling points?
+How to make approximation of rotational partition function of diatomic linear molecules?
+How does lone pair of a central atom affect the dipole moment?
+How can we justify setting the affinity $\sum_i \mu_i \nu_i$ equal to zero at chemical equilibrium?
+How does hydrogen gas build up in hot water lines?
+Why is introductory chemistry so non-rigorous?
+Soap and rain water, why does it not rinse off?
+How does the pyramidalization effect the bonding angles in a distorted octahedral environment?
+Does vinegar neutralize the strongly basic compounds in cement?
+Do filled Orbitals also hybridize?
+Why is O=C=O nonpolar?
+Reaction mechanism of combustion of H2?
+Acid-base equilibrium of NH4CN
+How can I identify whether a substance is KOH or NaOH?
+What causes photovoltaic (solar) cells to degrade?
+Which compound has the highest melting point?
+Catalytic iodine in synthesis of phosphonium salts
+In cracking, why does C form double bonds?
+Oxidation state of HOF
+How much does water expand when heated, and does salt affect that?
+Exceptions to motif: nucleophile attacks electrophile
+What is the cause for thermodynamic reversible and irreversible process?
+Nitrobenzene reduction with (tin) Sn catalyst: Why is C-H bond cleavage preferred over O-H bond cleavage?
+Does knowing the ratio of masses of the elements in a compound lead to the unique chemical identity of the compound?
+Donation by inductive effect and withdrawal by conjugation
+Safe explosion demonstrations
+Why N2O is a &quot;laughing gas&quot;?
+Metal Compounds that bond covalently
+Could neutralisation of safe chemicals produce dangerous ones?
+What is the difference between polyethene and polyethane?
+Which chemical is responsible for making marker ink permanent?
+Heisenberg uncertainty principle
+Nuclear magnetic resonance : Difference between S and I
+How do we know that hydrogen gas consists of two hydrogen atoms?
+How does salt and water promote corrosion?
+Mathematics in inorganic and quantum chemistry
+How does a Frost diagram reproduce the solutions to the wave equation?
+Positive or Negative Anode/Cathode in Electrolytic/Galvanic Cell
+Converting Ethanol to Butyne
+Why does K⁺ have 0 valence electrons?
+Why doesn&#39;t diamond have $\Delta H_f^\theta=0$?
+Does everything exist as a gas at P = 0?
+Why is structure B disfavored?
+Nernst equation and electrolysis
+Why are weak acids weak?
+How to determine peroxy oxygen?
+Nanoscopy Nobel Prize - why are all the tools in the visible light range?
+What kind of chemicals would exist at the heat death of the universe?
+Why can&#39;t carbon form an ionic bond?
+Why F replaces axial bond in PCl₅?
+Is there a hierarchy to functional groups?
+Determine what the unknown element is
+Interpretation of TD-DFT results
+How does the radial distribution function of Vanadium differ from that of Calcium and how does this affect the ionic electron configurations?
+Electron Density of C1 and C2 in 1-phenylpropene
+Conditions for spontaneity
+Acidity of substituted phenols
+Products of Lead(II) nitrate decomposition
+Dissociation of water into H+ and OH-: Does the law of mass action hold at nanoscale?
+How does B2Cl4 have two perpendicular c2&#39; axes?
+Born-Oppenheimer Approximation reloaded
+Hydrocarbons with only 4 carbon atoms
+Does water have a smell?
+Why do many pharmaceuticals contain fluorine?
+How does dimethyl sulfoxide transport other molecules through skin?
+What&#39;s the difference between a nucleophile and a base?
+In the wet medium of an ocean, how does a hard shell form?
+Does radioactivity affect chemical reactions
+Percent composition, maybe?
+What is the reason behind choosing the specific elements used for the synthesis of heavier elements?
+What is the chemistry behind cleaning silverware with aluminium foil
+How to know whether s-p mixing will happen in heteronuclear molecules?
+What are the physical properties affected in ZnO when there is a sulfur impurity?
+IUPAC naming - choosing the main branch doubts
+Wade&#39;s rules for Zintl ions
+What causes the lowering of vapour pressure in volatile/nonvolatile solvent mixtures?
+Cell overpotential diagrams
+London dispersion forces and distance relationship
+Step up reaction – increase carbon chain length
+Radon gas in earthquake prediction - Why Rn?
+Are matrices a good way to do stoichiometry?
+Are there yellow metals besides gold and copper?
+How to express uncertainty containing values with error progression?
+pKa of Cacodylic acid?
+Is there a field of chemistry that doesn&#39;t do experiments?
+Does the &quot;Bat Gen&quot; claim to produce more energy that it uses?
+Stability of di-substituted alkenes
+Adding lemon to lentils changes color from black to pink, why?
+Why is copper (II) coordination number so big?
+How does VSEPR theory explain the formation of different bond angles in PCl₅?
+Does fluorescein decompose from long term exposure to light?
+Does the boiling boint of miscible liquids follow a linear relationship?
+Can Liquid CO₂ dissolve plastic
+Why are oxime geometrical isomers stable?
+Why do people assume 28 oxygens in chlorite mineral formula?
+Storing large quantities of KOH
+Is delta H a state function?
+Grignards reducing carbonyls
+What is the meaning of the &quot;dot&quot; notation in chemical formulas?
+Why are water droplets shaped like that?
+Possible to grow optical calcite?
+Is most of the weight you lose actually released as carbon dioxide when you exhale?
+Combustion in liquid state
+Is 2-bromobutane chiral?
+In which country is it allowed to practice non-clandestine amateur chemistry?
+Why does small value of van der Waals gas constant &quot;b&quot; ensure easier liquefication?
+Second ionization potential of Gadolinium
+What reaction is happening when a lithium polymer battery &quot;is on fire&quot;
+&#39;Emulating&#39; calcium hydroxide
+Why do dianions (such as malonate) bind cations more strongly than anions?
+Explain the formation of replicators to a layman
+Why does water evaporate spontaneously at room temperature despite dG &gt; 0?
+Claisen Condensation to Ketone
+How much ozone is produced by ionization of air and how turn ozone into oxygen
+Synthesis of ethyl methyl ketone from 2-(4-hydroxyphenyl)ethyl methyl ketone
+How come there aren&#39;t any silicon analogs of alkenes or alkynes?
+Naproxene syntheses: electrophilic aromatic substitution on activated naphthalene
+Bandgap of a semiconductor for photocatalytic water splitting
+Timescale of Protonation and Deprotonation across micelle layers
+Z-matrix of a series of 5 colinear atoms
+Where do I find datasheets of zeolites?
+Mercury, amalgams and mercury compounds
+Has QTPIE ever been applied to 1D metals such as polyacetylene?
+Reaction between Silver Nitrate and Aluminium Chloride
+How long does it take to run a MS/MS experiment
+What is it about the relationship between the Fe&#178;⁺ and Fe&#179;⁺ in magnetite that makes it diamagnetic?
+Retention of surface texture after combustion
+Why is calcium fluoride insoluble?
+How do copper sulphate and the like change crystal structure on adding water of hydration?
+Why is a sodium metabisulfite-starch-HCl solution unstable?
+Do Na or Li need heat in order to react with Cl₂?
+CHARMM parameter files for NBD (nitrobenzoxadiazole)
+MO-Scheme of SCN- and its bonding properties when used as a ligand
+Handling and storing sodium hydroxide, hydrochloric acid, hydrogen peroxide and isopropyl alcohol
+Are there any general chemical rules for choosing initiators for a polymerization reaction?
+The mole is used extensively in chemistry, why not elsewhere?
+Does borax do anything more for &quot;boosting&quot; detergent than adding active oxygen would?
+Are all cubic point groups encountered?
+Oxidative chlorination mechanism (sulfide to sulfonyl chloride)
+Temperature dependence in absorption spectroscopy
+What is a neutral atom?
+Which cyclohexane conformation is more stable?
+Algebra of conserved quantities for chemical reactions
+What type(s) of gloves are effective against DCM and acetone?
+How to plate zinc evenly on a threaded bar
+What is the molecular structure of the coating on cast iron cookware known as seasoning?
+Water electrolysis
+What is the bandgap value of SiO2?
+Why do lipids in a cell hydrolyze into glycerol and fatty acids?
+Comparison of acids: how to interpret experiment
+Highest Energy Electron - possible typo in my book?
+How to properly dispose of sodium...or store it properly
+Why does cesium have a positive electron affinity?
+Oxidation number for Nitrogen in Ammonium sulfate
+Why would the loss of H₂ to space mean that the Earth&#39;s geochemistry would be based on acid/base reactions?
+What determines the electronegativity of an element?
+Methane seems to dissolve more readily in cold water. Why?
+How useful is the assumption that water doesn&#39;t auto-ionize in the following?
+How do amines react with flue gases to absorb CO₂?
+Why not &quot;Oxygate&quot; OO4(2-)?
+Why does polonium form acidic oxides?
+Shape of C₂H₂ molecule
+How does the work that won the 2012 Sustainable Chemistry Award contribute to sustainable chemistry?
+Separating NaClO from its aqueous form in bleach
+Why is bread warm at room temperature?
+The effect of structure on the boiling points of organic molecules
+If a sugar is nonreducing, does that mean it doesn&#39;t ionize in water?
+What is the exact definition of Salinity?
+What sort of molecules or polymers are used in OLED displays?
+Fitting titration curve
+What chemical compounds were used in CRT phosphors?
+Maximum temperature attainable by thermite reaction
+Adenine precursor synthesis
+Tests on sodium peroxoborate
+Is this the lowest chair conformer of Beta D-galactose
+What is in silico energy optimization?
+Computation of pH when an acid and base are mixed in solution
+Is it not safe for health to finish a bottle of wine during a week
+What does the &quot;D&quot; group represent on a chiral center?
+Reaction of magnesium with the surrounding air
+How is the magnetic property of an element affected when the element is part of a compound?
+Simultaneous equilibria
+If I have a chiral substrate, should I always assume that both enantiomers are present?
+How does localized bonding theory and hybridisation work?
+A first-order reaction at infinite concentration
+Why cannot HCN react with ethene?
+How does the litmus pH indicator work?
+Lennard Jones liquid vapor phase transition
+Having trouble understanding basic redox
+What defines matter&#39;s phase at room temperature?
+What is the appropriate method to visualize electrostatic potentials?
+Is it Possible, Chemically, to change a Dextrorotatory Compound to its Levorotatory Counterpart?
+Why carbonyl compunds are more reactive towards catalytic hydrogenation than alkynes and alkenes?
+What is the nature of chemical energy?
+Dissolving Organic Tissues
+Fourier transform for spectroscopy spectra?
+Measuring distance in a conductive liquid
+Is formaldehyde a carbohydrate?
+Differences between H-H-O and H-O-H
+Can flexible plastics have reflective coating (vacuum metalized)?
+Basic Understanding of Relative Atomic Mass
+Covalently bonding amide to glass
+Phenomenon where fumes can relight an extinguished flame
+Potential diffrence between two graphite strips in NaCl solution
+What is the procedure of designing a salt bridge for a galvanic cell?
+Is At a non metal or a metalloid?
+Why is it hard to reduce titanium dioxide?
+Predicting molecular geometry from a formula
+Can you carbonate a non aqueous liquid?
+Iodine clock with moving bands
+What is the influence of an alkyl-hydroxy group on a benzene ring?
+Can there exist any element which has an 8th principle shell?
+Drying a distillate liquid
+LiAlH₄ with carboxylic acid
+acyclically stereocontrolled reaction: organolithium and 2-chiral compound
+How can potassium disappear after cooking?
+Can dust or fingerprints interfere in ultra-violet spectroscopy
+Why is the mole a unit of measurement?
+How can I measure the pH of high-viscosity fluids like dough?
+Ca and Mg hydrated radius in clay flocculation
+Can a polymer have different resonance structures?
+Confusion in unit cells of crystal system
+Removing titanium from tantalum crucible
+Which of Mono-, Di-, Triphenylmethane is the most acidic?
+How to determine a Reynolds number for mixture of 2 liquids
+reaction of toluene?
+aromatic nucleophillic substitution?
+How to estimate HCN content in a volatile mixture?
+Why are sigma bonds the only ones used in determining the geometry and bond angle in VSEPR theory? Why aren&#39;t Pi bonds used?
+Sodium Hypochlorite Production Explanation
+Solvation of uranyl formate/acetate
+How many electrons can an orbital of type f hold?
+What non-toxic non-water substances have a freezing point very close to water&#39;s?
+Why Do Carbonates, Oxides, and Pure Metals Precipitate Before Metal Sulphides?
+Diagonal line going through groups IIIA-VIA on the periodic table
+Is there any difference between a completely filled orbital and an half-filled one?
+Prediction of ionic reduction?
+Why is it not dangerous to dissolve NaCl?
+How can I separate the vinegar from a 5% white vinegar to make a more concentrated solution.
+How would one go about making a cheap freeze spray?
+What determines the density of an element?
+Is sublimation caused by an environmental difference or an element&#39;s composition?
+Number of pi-electrons in an energy state
+How to quickly cool a test tube without cracking it?
+Is the electron configuration redundant?
+Are there positive ligands?
+why does FeCl₃ have such a specific smell?
+LCAO (Linear Combination of Atomic Orbitals) and Phases
+Why are the total energies of transition states so commonly corrected for zero-point vibrational energy?
+Why do people still use the mole (unit) in chemistry?
+Oxygen and sulfur bonding
+Why do liquid crystal displays (LCDs) visually distort under pressure?
+Is it possible to melt diamonds into a liquid?
+Why does the reaction quotient use the products (multiplications) of reactants and products, rather than their respective sums?
+What does the Sm5Ge4 orthorhombic structure look like?
+Deviation from Raoult&#39;s law because of adhesive and cohesive forces
+What is the joke that is shown in this picture?
+How much electricity could be generated by a person&#39;s stomach acid?
+Standards for drawing chemical molecules
+Have there been no advances in the determination of effective nuclear charges since Clementi and Raimondi in the 60s?
+Why does water cause a jet flame when poured over a bunch of tealights?
+When temperature is decreased, why do reactions occur at all?
+Pointless comparison in Clayden et al., Organic Chemistry
+Caffeine boiling and melting points
+Aldol condensation products in different conditions
+Nomenclature of organic compounds
+Prediction of products in reaction of dicarbonyl with alpha-haloketone
+Are there any amphoteric substances other than H₂O and NH₃?
+Are there any significant industrial processes that use liquid ammonia as a solvent?
+Mercury assisted deprotection of dithiane
+Why does ZnO turn yellow when it is hot?
+Reaction intermediates of MnO2 catalyzed H2O2 decomposition reaction
+How can molecularity be the order of the rate determining step?
+Is tea powder better dissolved when put in hot water?
+What is chemistry considered the study of?
+Defining and testing custom made DFT functionals?
+My gallium is not melting
+Why does the 3rd electron shell start filling up with scandium?
+Standard solution and extracted solution : same concentration?
+Getting to use the lab!
+What is the Melting point of diamond?
+Is Linus Pauling&#39;s General Chemistry still readable and up-to-date today?
+What is the cost of 1.00 g of calcium ions as provided by this brand of dry milk?
+How does High Frequency water electrolysis work?
+Is pyrite (FeS₂) an ionic or a covalent compound?
+What are the products for the redox reaction HCl + SnCl₂ + KMnO₄?
+Why are excited Slater determinants used to describe electron correlation?
+Why is fluorine the most electronegative atom?
+Why does HNO3 not give off H2 when reacting with Cu?
+Difference of dipole moments of dichloromethane and trichloromethane?
+Why does the equilibrium constant change on scaling the stoichiometric coefficients of a reaction?
+reason for the stronger acidic property of phenol than alcohol
+Steam distillation- how it actually works?
+Why electronegativity difference greater than 1.7 are ionic?
+Why isn&#39;t 4-hydroxybenzoic acid formed along with salicylic acid in kolbe&#39;s reaction?
+How much UV lamp power is needed to initiate radical polymerization?
+What is the oxidizing agent for Fe in the following redox reaction?
+Does partial charge violate the law of quantization of charge?
+Correlation Diagram Doesn&#39;t Match Selection Rules?
+Stability of cyclobutyl methyl carbocation
+Do materials exist that absorb Visible light and emit Near InfraRed light?
+Why is filter paper fluorescent?
+Why are high pressures used in cracking of long-chain hydrocarbons?
+How can I reduce Crystallization temperature of seed oil to be used in winter as biodiesel?
+How strict is the &quot;to excite electrons the energy must equal the energy state difference&quot; fact?
+Titration of sulfuric acid with sodium hydroxide
+How can water catalyse a reaction between iodine and aluminium?
+Natural Bond Orbital (NBO) analyses: Physical significance/interpretation of E(2) &#39;stabilization energy&#39;?
+Normalizing the wave function $\psi (x) = A$
+Most stable carbanion
+Converting organic carbonate to formate ester
+How could a scientist from the 1800s to the 1920s run spectroscopy of chemicals?
+Why does potassium react the most vigorously with water?
+How can we rationalise the amount of crystal water in coordination complexes?
+What&#39;s the difference between PBE and B3LYP methods?
+Magical reaction tanks
+Why is it ACETone?
+Why is crystalline aspirin washed with chilled water in the purification process?
+Furan and maleic anhydride: Why is the major product exo?
+Why does increasing number of salt bridges increase voltage of electrochemical battery?
+Why is the para carbon in Benzaldehyde NMR more deshielded than the ortho and meta carbons?
+Which ion of iron to use?
+Bonding in the phosphate ion
+Rusting of an Iron nail at oil water boundary surface
+What is the conformer distribution in monosubstituted fluoro bullvalene?
+Why are solids and liquids not included in the equilibrium constant? What about in a reaction rate calculation?
+&quot;Generally Octahedral&quot; - Meaning?
+What is the active ingredient in this &quot;stimulant?&quot;
+Is there a means to measure pH without indicators?
+Can a proton be ejected from an atom?
+If salt crystals make a cube shape, what is this &#39;X&#39; marking?
+Counting Nodal Planes in cyclopropane
+Is it possible to remove salt from food without changing the flavor?
+What stable arrangements of hydrogen-bonded water exist in the range of 4-20 water molecules?
+is this statement always true? : The more -OH functional groups in the molecule, the more is its viscosity
+Electronic model with highest prediction rate
+-ic -ous nomenclature
+Carbon Oxides and stability
+Byproducts of the neutralisation of hydrochloric acid with sodium hydroxide
+Heisenbergs uncertainty principle
+What are Nitrogen fumes?
+Why is the size of Al3+ less than that of Li+?
+Synthesis via Sn2/Sn1, E2, E1: Choice of solvent
+Is the valency of carbon satisfied in graphite?
+Amount of Phenolphthalein required
+How do people check the type of defect in a crystal?
+Problems with thermodynamic derivatives
+Can electrons switch orbitals within a shell?
+relativistic effect: d-electrons in metallorganic complexes
+How can I work out what reaction will happen?
+Is there a systematic way to determine the expected cubic structure of metals?
+How do I round a calculation involving both addition/subtraction and multiplication/division to the correct number of significant figures?
+Deamination of Spermidine?
+Boat conformation: axial hydrogens
+During a phase change in matter, why doesn&#39;t the temperature change?
+Why is one lobe of an sp3 hybridized orbital smaller than its other half?
+How can we measure atomic radius of atom?
+What happens when 0.02 mole NaOH is added to a buffer solution?
+Are phenylboranes susceptible to ipso or meta substitution?
+Toxicity of a sheet of lead?
+Baking soda bath to deacidify newsprint?
+How to determine number of structural isomers?
+How can two orbitals constructively and destructively interfere simultaneously?
+What is the point of introducing virtual orbitals in Hartree-Fock calculations?
+What is charge shift bonding?
+Steric effects of a lone pair and piperidine
+What are chiral environments?
+Dibromomethane bond angles
+What is Chevron with Techron fuel?
+Why is sugar used in low-cost homemade rockets?
+Salt concentration and electrical permittivity of water
+Is a single carbon atom stable?
+How to find the molecular formula for a hydrocarbon compound from known combustion products?
+Periodic trend in difference of energy between the s and p orbitals
+How does Ostwald-Walker method work?
+Introduction to Chemistry Textbook - Theory based
+What is the lower bound to the temperature at which a fire can burn?
+&quot;Carbon snakes&quot; - what physico-chemical process causes the exothermic response?
+Are radioactive isotopes of silver dangerous?
+How to analytically quantify a chemical&#39;s potential to intercalate DNA?
+What is the word for how polyprotic an acid is?
+How can we recreate old pharaos&#39; perfumes?
+Methods for Determining Partial Charges
+Show the vibrational frequency of F2- is much lower than that of F2
+How many unique molecules exist? And how many exist only by synthesis?
+How is bonding in the trihydrogen cation and triatomic hydrogen possible?
+How is the bond length calculated from the total electronic energy?
+dissociation rates: trans-effect rule in square planar complexes
+Diatomic halogens - bond strength
+What are t2g and eg in CFT?
+Conversion of one atom to another to get the element of the latter atom in abundance
+Cyanide ion non-bonding/lone pair?
+Are carbocations that bad?
+Is there non-redox reaction?
+How can I deduce the linearity of XeF2 from the IR spectrum?
+How to assign the signals in the H-NMR of Aspirin?
+What does the ‘−1’ superscript mean in units?
+Orbital overlap and size &quot;mismatch&quot;
+What is the mechanism for demercuration?
+Why is an ester more acidic than a ketone?
+SN2 vs SN1 in Secondary Alkyl Halides
+Inductive effect and hyperconjugation - one elephant, different parts?
+Why doesn&#39;t rubidium react with nitrogen gas?
+Explaning Cis &amp; trans isomers through VSEPR
+How do I calculate the concentration of H₂SO₄ by a titration experiment with NaOH?
+Structure of carbon fiber
+Why the salts in a salt bridge?
+Why are there different chemical structures for epinephrine (adrenaline)?
+Why is mercury much more toxic when inhaled than injected?
+Is There a Difference in the Definition of Complete and Stoichiometric Combustion?
+Cyanide from seeds breaking down in a pond
+Fire resistance of PVC
+Why do the d orbitals have these notations?
+What is tryptose
+Nomenclature for different types of ice
+Should I use H3O+ or H+?
+Hydrogen electrode
+Is phenoxide aromatic?
+C-H vs C-C: which is stronger?
+Significance of Proton Tunneling
+Ratios of produced gases in water electrolysis
+Inductive effect of isotopes of H
+Factors of London Forces
+How to find the mass of the solute given a concentration as a mass fraction?
+What would be SMILES notation for a compound with delocalized bonding?
+Why isn&#39;t water an ionic compound?
+Have Ionic Liquids been used to refine aluminum on an industrial scale?
+Why is Osmium the densest known element
+If the hydroxide ion is such a poor leaving group then why does water dissociate?
+How is it possible to quantify the strength of a Lewis acid/base?
+Why is the electronegativity of hydrogen 2.20?
+Why is sand, sand; and why is glass, glass; While both mainly contain Silicon Dioxide?
+what is the white fuzz left behind on basement floor after puddle evaporated
+What type of Organic Substance is used in LCD
+Using MO theory, give an explanation for the C-C bond length in cyanogen
+Is it possible for Hydrogen to lose its electron?
+Are there two compound resins that tolerate over 1000&#176;C for glass/carbon fiber?
+What is it with resonance structures?
+How is it possible to obtain a value of 8/3 as an oxidation state?
+Quick-and-Dirty Molecular Dynamics by Mass-Weighted Atom Translations?
+A different structure of Ozone?
+Why do nitro groups confer explosive tendencies?
+What substance in a gummy bear reacts with heated Potassium Chlorate to create an explosion?
+Why is Gibbs free energy more useful than internal energy?
+Catenane optical activity
+Is there a reaction happening between Coconut Oil &amp; Hydrogen Peroxide?
+Why is the pKa (COOH) of alanine and glycine similar but the pKa (NH_3) different?
+Is there a name for the opposite reaction to the dissolution?
+Are there different types of melamine resin?
+Is tetraammine dichloro cobalt (III) an optically active compound?
+Ion-selective electrodes
+What is actually a redox reaction?
+Finding specific activity of an enzyme from Km values for a reversible enzyme reaction
+Relationship between surface area of electrode and reaction rate of hydrogen in fuel cells
+Is Saliva an acid or base?
+Why neutrons are neutral?
+The sponge isn&#39;t foaming up, why?
+Dehydration of methylcyclobutanol
+Does mercury fulminate really look like crystal methamphetamine?
+Does C₂H₅OH react with K to form C₂H₅OK and H₂?
+Redox Half Reaction - Reduction
+What&#39;s wool made of?
+Is the term carboreduction interchangeable with carbothermic reduction
+Why are potentials of cells with magnesium electrode always lower than expected?
+How can I draw 2,3 diethyl heptane
+Are All Solutions of Weak Acid/Bases Buffers?
+Why do molecules have to have a change in dipole moment in order for them to be IR active?
+Why does decreasing the pressure of the system increase the relative volatility of a binary solution?
+A good book for learning paper and thin-layer chromatography
+How to quantify amount of pigments in plant leaves?
+Fluorine reacts with Ammonia
+If Alkynes can be reduced to Alkenes using Sodium in liquid ammonia, why can&#39;t Alkenes be reduced to Alkanes?
+Structure of Metallic Hydrogen
+Acetone and Sodium Hydroxide
+Are there any magnetic particles that are safe to inhale?
+Which pH indicator will give a dramatic color change with small changes in the amount of carbon dioxide dissolved in water?
+Aromatic ring substitution: how are MNT and DNT further nitrated if nitro groups deactivate benzene rings?
+What is the actual reason behind PCl₅ existing as an ionic solid?
+How fast do electrons move around the nucleus?
+What allows all 3 states of H₂O to be present at the same time?
+Why is enthalpy of atomization of Mn exceptionally low?
+Why is a hydroxyl group more activating than a methoxy group in electrophilic aromatic substitution?
+Electrophilic substitution of pyrrole (regioselectivity)
+Amine addition to nitro group
+Density Functional Theory with Generalized Gradient Approxmations (GGA) - What Happens if the Electron Density Shows a &quot;Kink&quot; at the Ion Position?
+Do multielectron atoms have nodes?
+What is the major product on chlorination of 2-methylbutane?
+Why does basic peroxide react via conjugate addition rather than through direct addition?
+Effect of temperature on cooking
+How much does the quality of glassware matter, really?
+Peracetic acid stability
+Hybridization of the oxygen in furan?
+Reverse Friedel-Crafts mechanism
+What is non-expansion work?
+Why does sulphur form S8 instead of S3?
+Do core electrons in bulk material have discrete energy levels or continuous energy band?
+Difference between radial,planar,angular and spherical nodes
+Why do exam questions specify &quot;dilute acid&quot;?
+When and why do hot material take heat from cold material?
+How quickly does sulfur hexafluoride mix with the atmosphere?
+What is palindromic DNA?
+What determines whether an aldol reaction will occur again or eliminate?
+Why do some chemical symbols contain a single letter while others contain two letters in the periodic table?
+Why/how do cloves break down plastic?
+Why can you not make a compound with a quaternary alpha carbon using malonic ester?
+Are all lattices Bravais lattices?
+Truly Understanding the Second Law of Thermodynamics and Entropy
+Why is i-butane more stable than n-butane?
+Is a 2-D periodic structure isomorphic with the surface of a torus, a sphere, neither or both?
+Why is the benzyne triple bond distorted?
+Should one pronounce “periodic” the same in “periodic acid” and “periodic table”?
+How is silica bead bonded into polystyrene?
+Predict XPS Spectrum of Organic Monolayers on a Semiconductor
+Solution based measurement of Solvent-Accessible Surface Area of macromolecules
+Are these two space groups in a group–subgroup relationship?
+What is probability of 3 possible products, between two chemical species
+Gel electrophoresis - What causes the DNA fragments to stop?
+The most stable furan resonance structures?
+Why is Nitric Acid such a strong oxidizing agent?
+Bond energies database
+How would I calculate the Normality of a 0.00167 molar solution of KIO₃?
+Is there any danger of forming explosive reaction products during the electrodeposition in Diethylene glycol?
+What is the difference between an ionic and molecular activity model? (Example: Diopside-Hedenbergite)
+How does a Brunauer–Emmett–Teller device function?
+How do you determine the amount of acrylamide in foods such as baked fries?
+What is the difference between temperature and thermodynamic temperature?
+What chemicals are present in burnt toast?
+What salts are/are not birefringent?
+Why is the Gaussian Window Function used to enhance resolution in 1D NMR spectra?
+Difference between lab-grade and food-grade purity?
+How can I be safe and protect myself using trimethyl tin chloride?
+What is burst nucleation?
+How to determine stable electron states in ionic and covalent bonds?
+Good acid for cleaning marine toilets
+Pipetting strong acid with plastic material
+How can I identify and neutralize the chemical leaching out of new nitrile gloves?
+What legal guidelines exist for completeness of a Materials Safety Data Sheet?
+Modeling perturbations of a quantum mechanical system
+Moment of inertia for a triatomic molecule
+Is there an alternative to the half-reaction method to solving red-ox reactions?
+Why must an oxidizer not touch rubber?
+Does &quot;covalent&quot; AgCl (aq) exist and if so, how to quantify its concentration?
+What components of safety should be included in a chemistry laboratory experiment conclusion?
+Does this set of quantum numbers have a unique solution?
+Understanding dissolution of CO₂ in Selexol and Rectisol
+Is ash fireproof?
+Boiling point of vodka
+Is there a way to calculate how fast water will cool?
+Materials used in metallic glass
+Why are noble gases stable?
+Is crushing an avocado a chemical or physical change?
+Why are isomers difficult to separate?
+How can I determine the pH of solution?
+What&#39;s the energy density of liquid nitrogen?
+How to calculate the solubility of CaF₂ at different temperatures?
+Why is tin (II) fluoride more effective in turning apatite into fluorapatite?
+How to fluorinate polyethylene?
+What is the meaning of &#39;(en)&#39;?
+Find mass of CO₂ and heat released per minute in a combustion reaction
+Thought Experiment: Applying a high frequency high voltage to methane
+Product of reaction. Dimedone and benzaldehyde
+Is an explosion merely an exothermic reaction?
+Is combustion considered a redox reaction?
+Does potential difference or current drive electrolysis?
+Clathrate Compounds with Quinone
+Extraction of hydrogen and oxygen from water
+Can the electrolytes be in gaseous state?
+How dangerous is Cobalt (II) Chloride used in silica gel balls?
+Source for thermodynamic and/or transport properties
+Introduction to modeling chemical reactions
+In practice, how dangerous is liquid oxygen as an oxidizing agent?
+What are my products in this SN1 reaction, how do I know?
+Preparation of alkyl halide from alcohols
+Why does chocolate ice cream melt faster than others?
+Are different enclosing mark types in chemical names needed to differentiate between substances?
+Why does the hydroxide ion have a negative charge?
+Correct nomenclature for reaction types
+A thermoset or a thermoplastic?
+Which materials/compounds expand in response to cold temperatures?
+Kinetic energy of electrons emitted in Photoelectron Spectroscopy
+Derivation of formula for Degree of Unsaturation
+Basis sets that can be used for macrocyclic complexes
+Why does the conversion of SO₂ to SO₃ require high pressure?
+What is the process for purifying KOH?
+Is diamond an allotrope or polymorph of carbon?
+Ambiguity in synthesis (crystallization)
+What is charge density?
+What is a &quot;lagged bath&quot;?
+Why are nitrogenous hydrocarbons sometimes colorful?
+What will be the major product of this Wurtz reaction?
+&quot;Tie-breaker&quot; rules for IUPAC nomenclature of organic compounds
+How do you Synthesise Glycosides of flavonoids and stilbenoids?
+Is it possible to crystallize a solid ingot of metal from an (acidic) aquaous solution?
+Could you estimate the rate of reaction from the chemical structure of the reactants? If so, how?
+What is the reaction between Magnesium chloride and Sodium bicarbonate?
+Can ammonia be detected by a 1D-1H-NOESY experiment?
+How is the time for a test tube in a centrifuge determined?
+How can oxygen atoms suddenly appear on the product side of an equation?
+Why does water become less dense when it cools
+Is there a bifurcation node in the potential energy as a function of reaction progress equation of chemical reactions?
+Why are these molecular orbitals invalid for hexatriene?
+What is the product when Lithium solid is dropped in water?
+Is it possible to calculate chromacity coordinates using absorbance values?
+Can you create a buffer with a strong acid?
+How do chemists find a procedure to produce a given substance?
+What barriers prevent plastic from becoming a fiber optic, data transmission medium?
+Obtain chemical insight from neural network results
+Interpreting equilibrium equations correctly
+What are the factors controlling the fate of post-adhesed volatile molecules of the olfactory epithelium?
+Do I really need 4 different water treatment systems with this water analysis?
+Tool that generates electrostatic maps of molecules?
+Complexes formed by Lanthanides and Actinides
+Covalent Bond/Hydrogen Bond
+Is it possible to separate salt from food, or at least convert it into something that doesn&#39;t taste salty?
+Why does permanent marker writing come off a white board when coated with white board marker?
+Energies of atomic orbitals on molecular orbital diagrams
+$K_{eq} $ vs $K_c$
+Deodorizing using baking powder instead of baking soda
+In acidic solution, what does ClO₃⁻ reduce into?
+Why do frying pans stick less with heat?
+What is the substituent on this benzaldehyde? (MS attached)
+How can I know the colour change of this reaction?
+How do you change the cis-trans isomerism of compounds?
+Did Mendeleev predict the existence of neutrinos?
+In aminobenzoic acid, do we have three different pKa&#39;s?
+Chemically removing rust without leaving any unwanted residues
+How is hydration free energy of a solute measured experimentally?
+How many electrons are transferred in this redox reaction?
+Correct definition of terminal alkynes?
+$K_c$ expression for heterogeneous equilibrium
+Entropy, enthalpy, and reversibility
+Calculate Ethanol content after heating for N minutes
+What does it mean for a reaction to favor the reactants/products?
+How can diesel fuel produce less carbon monoxide but more carbon particulates?
+Easy-to-do experiments that clearly show outstanding properties of graphene
+What is the highest the boiling point of water can be raised?
+Surface Functional Groups/Notation
+Finding transition states in Gaussian – focus: Electrophilic Addition Reaction
+Why is a theoretical titration curve higher than a practical one?
+Why is Lanthanum a &quot;fluoride ion sensitive electrode&quot; and hence used for measuring &quot;flouride concentration&quot;?
+Is there a word for a compound that has both ionic and covalent bonds?
+Esterification of a carboxylic acid and the production of water
+Geometrical isomerism in cycloalkenes
+How do indicators work when they mixed with each other?
+Reaction mechanism of imine reduction to amine using an aluminium amalgam
+Can you colour a flame, and what would the effects be?
+Effect of vibration on wine quality
+Cement strength by moistening
+Z* effective charge and Ionization Energy
+Safe, easily detectable gas or aerosol for testing fume hoods
+Exothermic or Endothermic reactions
+What is the heat energy required to perform electrolysis equivalent?
+Does an onion completely remove &quot;fresh&quot; paint VOCs and other chemicals emitted?
+Azeotropes and separation by distillation?
+Why does sodium react with water?
+Activity of hydrogen ion
+Analytical solution to first-order rate laws
+Which are the differences between resonance Raman and fluorescence?
+How many molecules of O2 are needed to oxidise 25g of Mg?
+Optical isomerism in Co-ordination Compounds
+Do you break the metallic bond when you break a metal into two pieces?
+Why is nicotinoyl chloride available as its hydrochloride salt? How can we separate them?
+What&#39;s the technical term for supercharging an acid with an oxidizer? And does it always work?
+What is the structure of 2-methylimidazolate?
+Which elements have no liquid form at atmospheric pressure?
+What is the principle of diffuse reflectance spectroscopy behind band gap measurement?
+What is advantage of creating elements that disappear in a flash?
+Which silver halide is the most soluble?
+How is it that the equilibrium constant does not depend on mechanism?
+Use of Sulphuric Acid in Crystallization
+Will compressed hydrogen float in air?
+Molecular chirality and optical rotation
+Would Chlorine or Chloramine gas show up on a VOC test?
+Hybridisation of the Carbon in an Carbanion
+What substance is used for staining brass?
+Thermodynamic cell efficiency clarifications?
+How are the following aromatic?
+Electrolysis of Aqueous copper (II) nitrate
+Why is fluoroantimonic acid so strong?
+How much water vapour can a gram of Uppsalite absorb at NTP?
+Is the reactivity of Benzene with an -N(R)₃⁺ group greater than its reactivity with an -NH₃⁺ group?
+Photochemical ligand substitution of metal carbonyls - role of water cooled lamp-jacket?
+Copper oxidation
+Calculation of Atomic weight percentage in AAS
+How to figure out the state of aggregation of an unknown substance via properties of a chemical equilibrium in a closed system?
+Absolute limits on solubility of immiscible solutes?
+Is it possible to light a match by scratching it on hard surfaces, like they do in movies?
+What units do I use for energy in the Boltzmann distribution?
+Do chaotropic and kosmotropic affects occur in polar non-aqueous media?
+Internal vs external steam distillation
+Toilet spray effect
+Is there any substance that&#39;s a 0-0-0 on the NFPA diamond?
+Isothermal vs. adiabatic compression of gas in terms of required energy
+What is the edge of a diamond like?
+Ozonolysis conditions for Benzene
+What&#39;s up with SiO₂ being tetrahedral?
+What can cause artesian well water to smell?
+Does minimizing ANY type of energy ALWAYS predict a state of equilibrium?
+Plastics for food packaging
+Spontaneity of an exothermic reaction when temperature is decreased
+In Thomson&#39;s atomic model, why did he not assume that there are positively charged particles embedded in a negatively charged sphere?
+Why is cyclopentyne unstable?
+What is the approximate lifetime of an $S_N2$ transition state complex?
+Viscosity of two different solutions
+Can I synthesize iron acetate like this?
+Why do bubbles form when it rains?
+What are the dimensions of a and b in van der Waal&#39;s real gas formula?
+Comparing acidity of substituted and aromatic carboxylic acid
+Comparison of ionization enthalpies of Cs and Fr
+Program that simulates basic reactions in organic chemistry
+How to predict a COSY NMR spectra for an AMX spin system?
+Chemical Spill in Charleston, West Virginia
+Suggest methods and basis sets for a variety of systems
+What chemical properties make LSD so psychoactive?
+How to demonstrate the safety of wearing leather shoes in the chemistry lab?
+Distilled water to clean greasy stains: Why does that work?
+Splitting of $d$ orbitals when ligands approach central metal ion
+What does the negative superscript in the term symbol for ground state Oxygen stand for?
+Can polyatomic ions (CO₃ ,PO₄ ,SO₄ ,NO₃ ) be considered conjugated systems?
+How to achieve clean dishes and glasses?
+Reaction of alkenes with Br₂ in presence of NaCl
+Variable oxidation state of transition metal ions
+Stability of superoxides of alkali metals
+Ester as a solvent
+Can luciferin + ATP → luciferyl adenylate + PPi be reversed?
+How do I derive the Nernst equation in the case in which R is absent?
+What&#39;s the mechanism of the reaction of (E)-methyl 3-(furan-2-yl)acrylate in acidic methanol?
+Is there a name for the pair (c, R), where c is the stoichiometric coefficient of a reactant R in some chemical reaction?
+The significance of the dissociation constant of an indicator
+Why does HCl ionize in water?
+Is pitchblende the same as Uraninite?
+What chemical reaction can cause this blue-ish deposit?
+Spectrophotometric assay by pNPP
+Why is this organic compound trans, and not cis?
+What&#39;s Standardization, and why do it?
+what chemicals cause the smell of a septic tank?
+Do I need a license or certificate to practice chemistry or what are the advantages if did have one?
+Maximum pressure that can be produced by a combustion reaction
+Activated Complex Products/Reactants
+Does benzene have isomers and resonance structures?
+What is a product of water ionization ?
+How many grams of each substance will be present at equilibrium?
+calculating Kp with partial pressures
+Learning Chemistry With Software?
+What is the term for the amount of volume change at a phase boundary?
+Why does the equilibrium constant depend on the temperature but not on pressure and concentration?
+How do I perform a gravimetric analysis of Portland cement?
+What is a complete reaction?
+How to determine polarity in large molecules?
+Why do electrons follow from Zn to Cu but not Cu to Zn in the lemon battery experiment?
+Alginate nanoparticles
+What is &quot;stuffy&quot;/&quot;stale&quot; air composed of?
+Coconut aldehyde mechanism
+Deriving goldman equation
+Conceptualizing Multiple Equilibria
+Reaction Pathways: What to do when IRC geometries are relaxed (optimized) and the energy changes significantly
+Time taken in changing surface tension
+What type of intermolecular forces will dominate Diethyl ether?
+Could someone please explain the difference between m/z and m/e in mass spectroscopy
+Rate Constant Units and Eyring Equation
+Possible methods for copper (II) reduction to copper (I)
+Structure of Fe1C13H10O2
+The bond in coordination complexes
+Oxalic acid structure
+Why is dialysis tubing impermeable to sucrose?
+Why weren&#39;t the electrons attracted to doubly charged Helium particles in the Rutherford experiment?
+Avoiding snow melting with salt
+Reaction between hydrogen peroxide and ozone
+Why lanthanides and actinides are shown separate from standard periodic table layout?
+Why does cyclopropane give bromine water test?
+Why is a volumetric flask shaped the way it is?
+How many signals would be seen in total in the 13C NMR spectrum
+How do I take chemistry notes on Mac?
+Migratory aptitude in pinacol-pinacolone rearrangement
+Is this textbook bonding picture of hybridization in ethene wrong?
+Assessing fire hazard of compounds
+Equation Balancing Paradox
+MacGyvered chlorine gas protection
+Demountable simple fume hood
+Validity of Henry&#39;s Law for an Oxygen/Bitumen System?
+Thermodynamics adding salt to water changes the temperature
+Solvent for copper(I) iodide, copper(I) thiocyanate, silver iodide for HTM deposition; safety for methylammonium lead iodide
+How to calculate the amount of chlorine emitted yearly by a leak in the air conditioning system?
+Is there any emerged master principle in chemistry, like the theory of evolution in biology?
+Electrolysis of Water
+Meaning of depiction of atomic orbitals
+How is Melatonin Synthesised?
+Is the bond enthalpy of S-O stronger in SO₃ or SO₃&#178;⁻?
+Is Bond Formation &quot;Strictly&quot; Exothermic?
+Do buffers only work for species of the opposite variety? (I.e. weak acids buffer strong bases and vice versa)
+Does this activation of carbonyls usually involve a SN1 or a SN2?
+Hydrogen halide acidity
+Why do cotton clothes take a longer time to dry as compared to synthetic clothes?
+How to calculate the pH of a buffered solution with Henderson Hasselbalch?
+Why is the water reduction of oxygen favored in acidic conditions?
+Why does the Wurtz reaction form such an unstable compound with torsional strain?
+Can there be a reaction in which nuclear fission or fusion takes place along with atomic recombination?
+Why is CaCl2 called Calcium chloride?
+Differentiating between Titration, Buffer, diluted buffer, Deionized H₂O
+Supercritical Steam Expansion
+What is Sodium Chloride like in gas state?
+gas: moles and pressure
+Intermolecular Hydrogen Bonding
+Why is the enthalpy of vaporization greater than the enthalpy of fusion?
+Determine the ΔH for the reaction in kJ/mol of ethanol?
+How does a Microbial Fuel Cell work?
+The definition of formal Charge
+Safety when handling cyclohexylamine in non-industrial amounts
+Shape Of Cetyl Alcohol
+Why do different alcohols have different effects on the brain?
+What is the proper Lewis structure for HCOOH?
+Why Aren&#39;t Chlorides Of The Noble Gases As Prevalent As Their Fluorides?
+Atomic radii of Sc,Ti and Fe,Co
+How to obtain product ratio from energy differences via Boltzmann statistics
+If CO2 is nonpolar how come much more dissolves in water than O2?
+IBrF2 - van der Waals repulsions - and number of unique bond angles
+Are homemade batteries economically practical?
+Difference between nickel catalyst and Raney nickel catalyst
+Organic chemistry textbook for self-learning?
+Cleavage of Ethers
+How can I reverse engineer a commercial cleaning solution&#39;s &quot;other ingredients&quot;?
+How can I determine the chemical composition of local rocks and minerals?
+Why do unbonded electrons exist in pairs?
+How dangerous is taking a bath in Coca Cola?
+Why does ozone have an electrostatic potential map similar to that of SO2?
+Why is O2 a biradical?
+Environmental Alkylating Agents
+Disposing of Hazardous Waste: General
+Nitrogen dioxide dimerization
+Making Zn in school lab
+Why can the lone pair not align with the phenyl moiety in 2,6-xylidine?
+How does sulfuric acid dehydrate sugars?
+How to calculate the equilibrium composition after a change in partial pressure of one component?
+Is working in the chemistry lab hazardous to health in the long term?
+Most negative and most positive value for proton chemical shifts
+HI/P reduction mechanism
+Differences between chemical physics and physical chemistry?
+What is the bond angle of water?
+Ozone resonance structure: differing opinions
+What&#39;s the order of oxidising strength of the oxyacids of Chlorine?
+Length of copper wire in 1 lb spool
+Show proposed mechanism is consistent with the experimental rate law
+Is 4-nitrobenzaldehyde or 4-aminobenzaldehyde more likely to be hydrated?
+Significant figures used to imply stated error?
+What happens if you autoclave HEPES?
+Electron distribution in a C-S bond
+Adjusting PBS with HCl: pH drift after dilution of phosphate buffer
+What are the correct resonance structures of bromoethene?
+Is the Ocean acidification inconsistent with the Bjerrum plot?
+Determining redox half-reactions of single displacement reactions
+Do electrons only fill &#39;spin up&#39; first? Or could it start filling &#39;down spins&#39; first?
+How much energy does it cost to have electron configurations that are not in accordance with Hund&#39;s rules?
+Do dark lines on porcelain dishes indicate usage of aluminium for the color?
+Why is magnesium hydroxide not hygroscopic?
+What is the molecular mechanism of ammonia&#39;s toxicity?
+Why are d-d electronic transitions forbidden and weakly absorbing? Why do they occur at all?
+Is the colour of leaves due to d-d transitions in chlorophyll?
+How do electrons travel through nodes
+Correlation between the virial coefficients and a &amp; b in the corresponding Van Der Waals equation of state
+Would equal masses of gold and copper result in the same volume change if added to water?
+Unknown anion (one carbon and two nitrogen atoms, charge 2-)
+Can every conductor be electroplated using copper and sulphuric acid?
+Symmetry labels for orbitals
+How to interpret the MSDS warning?
+What actually is the Wavefunction?
+Why does Zn react with NaOH?
+Is Pyrene Aromatic?
+Where to find common inorganic/organometallic molecules?
+Contactless non-ferrous metals hardening?
+Determining the Packing Geometry of Compounds
+Standard electrode potential for electrolytic vs galvanic cells
+HCl/diethyl ether + Nitrogen?
+Heat of combustion for Octane
+Which proton is more acidic in this compound?
+Asymmetry in trigonal bipyramidal geometry
+How does sugammadex (a modified cyclodextrin) draw rocuronium into its lipophilic cavity?
+Why is KF the most ionic compound?
+How does copper reduce dilute nitric acid to nitric oxide and concentrated nitric acid to nitrogen dioxide?
+Why doesn&#39;t calcium carbonate dissolve in water even though it is an ionic compound?
+Is graphene chemically reactive?
+Complicated reaction mechanism
+How does aminoguanidine interfere with the formation of advanced glycation endproducts?
+Proof that Equilibrium Constant is a Ratio of Rate Constants
+Empirical formula of Berthollides
+how to measure dissolved oxygen?
+Electrolysis of a solution of zinc sulfate
+How to derive the nuclear spin of 23Na?
+Is the Kekule structure of benzene completely wrong?
+Confusion about the relationship between free energy and kinetic energy for reacting gases
+Why doesn&#39;t the Brady&#39;s test (2,4-DNPH) work on carboxylic acids?
+What holds atoms together?
+Will I get bromine by electrolysis of the brine from the Dead Sea?
+Mechanism for hydroxyethylation on nucleobases (e.g. Thymine)
+Ultraviolet acid base indicator
+D/L Configuration
+Why do glucose, galactose and mannose differ in solubility in water?
+Most effective means of removing coffee stains from carpet
+Osmium tetroxide and meta-chloroperoxybenzoic acid
+&quot;There are no chemical cliffs&quot;
+Volume of different gas in a container
+why does a glass tube show white bands after being heated with a torch?
+How does a redox reaction between ClO- and Br- take place?
+Real life chemistry :boiling carrot dices
+How can I determine the number of possible pairs of diastereomers?
+What should the Rehm-Weller equation look like?
+Dehydration of secondary alcohol reaction. (E1 Reaction)
+How do I isolate calcium from calcium carbonate?
+Does it matter if all rust is removed before it is painted over?
+Why is this procedure containing a mistake? Among other questions
+How is the energy of reactants in a chemical reaction found ?
+Finding rate constant at different temperature
+Symmetry representations
+Yttrium -- rare earth or transition metal?
+What happens if the electronegativity difference is exactly 2.1?
+How to get the reducible representations of the B-B and the B-Cl bond of B2Cl4
+Sn2: Neopentyl halides and Methyl Halides. Are neopentyl halides completely inert? Even to small Nucleophiles?
+Are there carbon-silicon alloys?
+Why is ammonia so much more basic than water?
+Role of Alcohols(EtOH,MeOH) in nitro reduction used for Metal(Sn,Fe)
+What is &#39;equality&#39; of chemical bonds?
+How ‘lively’ would this ‘health’ potion be?
+How can double compounds like XeO4 form tetrahedral structures despite having double bonds?
+Why concentrated sulfuric acid for dehydration and dilute for hydration?
+Why is there a doublet instead of a singlet in this Wittig reaction salt configuration NMR?
+How are Phenols made?
+Cleaning up equipment contaminated with ethidium bromide?
+Do chemicals have an expiry date?
+Does inversion of configuration necessitate reversed optical rotation?
+why does hydroquinone have non zero dipole moment?
+What makes elements radioactive?
+What do short-range and long-range corrections mean in DFT methods?
+Is the Nitrogen in pyridine electron withdrawing and what effect does this have on electrophilic substitution?
+Why is the +3 oxidation state of Cerium more stable than +4?
+What is the reaction mechanism of a 5-endo-trig cyclization?
+Why does pasta become sticky after being cooked?
+Why is water transparent?
+More acidic - protonated carbonyl or protonated hydroxyl?
+Can you concentrate alcohol by evaporating the aqueous solution at room temp and collecting on a cold surface?
+Do water hybrid cars really exist?
+Rationalizing enamine stabilities
+How to Determine Acid Strength?
+Phase diagrams (weird region)
+Carbocation rearrangement in alkene addition reaction
+Organic synthesis problems
+Does Iron (III) Sulfate react with copper?
+IUPAC name for a compound
+A misunderstanding about the energy profile of reactions with a catalyst involved
+What defines an element&#39;s taste?
+What do atoms look like?
+Current in Battery
+Why do esters actually smell?
+Why &quot;bromine&quot; as opposed to &quot;bromine water&quot; as a reagent to produce 1,2-dibromopropane?
+What is the resonance structure of nitro-aminobenzene with a broken aromaticity?
+Experiment to prove that water has air
+The use of ice water in an experiment
+Can a single monomer be a macromolecule? If so, when?
+C-H Bond Dissociation Energy varies with substitution
+How do epoxys cross-link?
+What properties of an element determines the maximum number of bonds it can make?
+Why does superglue ignite cotton?
+Can you have addition polymerisation with monomers other than alkenes?
+Expressions for constant volume and constant pressure heat capacities
+Is there an authoritative list of chemical reactions/transformations?
+Benzotriazole to o-phenylenediamine
+Experiments in chemistry involving use of stereo microscope?
+why do 2 atomic orbitals form 2 molecular orbitals?
+Why does Cobalt have different coordination numbers in its complexes with water and thiocyanate?
+Is it possible to make broad spectrum light absorbing paint?
+In the elementary steps of a reaction, why do we assume that the coefficients of a reactant corresponds to its order?
+What value of temperature does T represent in Gibbs Free Energy Equation?
+Drying Clothes Outside Below Freezing
+Heat given off from an electrochemical cell compared to mixing reactants
+Why does a liquids height in a Barometer depend linearly on pressure?
+What is the mechanism by which sugars glycate proteins?
+Bonds within complex anions
+Why does water change phase so easily?
+How to activate charcoal
+Is there a pressure dependent function for freezing points of water and carbon dioxide?
+Is it possible to make metal fulminates?
+What does it mean if a functional group has &quot;higher priority&quot; in terms of IUPAC naming of organic compounds?
+Gibbs Free Energy : What is it trying to say actually?
+Electronegativity and HCl and HF molecules
+Making three membered ring using different reactants
+CO poisoning - What I&#39;ve been taught is a hoax?
+How are nuclei stable?
+Why is predicting products of chemical reactions difficult?
+What happens to the NADH produced by lactate oxidation?
+What&#39;s the difference between perfect and ideal gas?
+What is Nano Zinc Oxide?
+Magnetic stirrer with hot plate
+How do I make a dysprosium chloride solution from dysprosium oxide?
+What are the biochemical ramifications of ingesting of distilled water?
+Friedel-Crafts Alkylation and hybridization
+Acetylation reaction
+Formula of entropy change
+Why are sp hybridized carbocations high energy?
+Non-Newtonian substance - Tahini
+Does NaOH react with K to form NaOK or KOH?
+Is it possible to extract magnesium from epsom salt
+Why does SnCl2 occur despite the octet rule?
+How to calculate bond enthalpies from first principles?
+Memorizing the periodic table
+What type of organic compounds are used in OLED technology?
+Why is oxygenated water not H2O2?
+How exactly are molecules detected in space?
+What are some popular science books in chemistry?
+Which orbitals of the hydrogen atom are degenerate for n=3?
+On the stability of deuterium
+Which chemical reactions occur between my tongue and the food I eat?
+Oxidation State of the Sulfur atoms in the Thiosulfate Ion
+Lifetime measurement: double peak in instrument response function
+Wavelength of iPhone 4S camera light for visible spectroscopy calibration
+Grignard formation and vicinal dihalides
+About purifying ethanol - What type of ethanol?
+What property of zinc chromate makes it a good anticorrosion paint
+Kinetics vs Thermodynamics
+Why is ozone an electrophile in the ozonolysis reaction?
+How to buy 1g of enzyme that is sold in units/mg?
+How do we know whether we will get a mono substituted or tri-substituted product during electrophilic aromatic substitution?
+Preparation of oxalic acid from acetylene
+How to take water-dispersed PEDOT:PSS and disperse it in an organic solvent?
+Ionic equation for reaction of iron (ii) chloride and zinc?
+Solubility of Noble Gases
+Is water a better nucleophile than bromide?
+Can I make a buffer from two different weak acids or bases?
+In molecular orbital theory, why does s-p mixing in the dinitrogen molecule not effect the 1σᵤ orbital?
+Addition reaction of alkene
+Why does temperature affect cell potential?
+Ozonolysis of nitronate
+Is s-p mixing referring to hybridization or is it the mixing of one atoms s orbital with the other&#39;s p orbital?
+Diels-Alder rate of reaction
+Post-Hartree Fock Methods
+How does NMO reform Osmium tetroxide after reaction with an alkene?
+Are all strong bases alkalis?
+Safe yet strong exothermic reaction?
+Order of electrophilic substitution
+Boiling aluminum in high-alkalinity water
+How is a free radical on allylic position more stable than at Benzylic position?
+Which is more stable ? - A carbanion on a vinylic position or a carbanion on a benzylic position
+Which is more stable ? - A carbanion on benzene ring or a carbanion on a vinylic carbon on an aliphatic chain?
+Wine resveratrol buccal delivery questions
+Pre heat coal before burning
+Equivalence ratio explained
+Why doesn&#39;t the double bond get preference for suffix in IUPAC naming of an Hydrocarbon when both double bond and triple bond are present together?
+Why is ionic strength (mu) calculated differently for these 2 examples?
+Can I react a Grignard reagent (ethylmagnesium bromide) with water and then ammonia?
+Will all thermodynamic equations have a linear dependence with moles?
+How to predict the &#179;&#185;P NMR spectra?
+Why does the &quot;gap&quot; between atomic radii get smaller down the periodic table?
+Which gas makes Orange juice bottles swell?
+How to remove a stuck stopper from a flask
+Why do the pennies in the pre/post 1982 penny experiment sometimes dissolve completely?
+Chalky residue from melted ice cubes
+Attack of amine on amide
+1H NMR Broad peaks
+How many critical points? Why?
+Why does Fe(CO)₄ adopt a tetrahedral, as opposed to square planar, geometry?
+Is there an experiment that visibly shows the effects of metastability?
+Possible Synthesis of MVK from 2-Butanone?
+What is an orbital boundary surface?
+Pt[BrCl(PR₃)₂] cis, trans isomer nmr - Which is cis and which is trans?
+Please explain the following graph for a quantum mechanical harmonic oscillator
+How does a catalyst affect the rate equation
+Why is 2-methylpropene less in energy than its alkene counterparts?
+Why is p-methoxyphenol more acidic than p-methylphenol?
+Why do E2 reactions (dehydrohalogenation) only occur when the hydrogen and leaving group are in the same plane?
+Isn&#39;t the mass of a carbon 12 equal to a mass of 6 neutron + 6 proton + 6 electron?
+What is meant by word on arrow?
+Acidity In Organic Compounds
+Are there any STP liquids not containing large amounts of hydrogen and oxygen that are safe for human contact?
+How chemically homogeneous is air?
+Finding identities of diatomics from Spectroscopy and Mass Spec Data
+Comparing SN2 reaction rates
+Why use a salt bridge at all in an electrochemical cell?
+Definitive Guide To Removing Stains From Baby Clothes
+Learning about explosives
+What is involved in this firey demonstration?
+Why are C6 dispersion forces named C6?
+How to store methanol
+Can weathering change the composition of something so that it appears different?
+Why macromolecule ligands such as Crown ethers form more stable complexes than open chain ligands?
+NaClO Concentration
+Abnormal termination of GAMESS in frequencies calculation
+Why are so many wave functions associated with hydrogen?
+Carbonyl electrophilic reactivity
+Can any atom donate more than 1 lone pair as a coordinate bond to the same metal?
+What forces keep a cotton fiber together?
+Can carbon monoxide contaminate water?
+Benzylic Oxidation of Cyclic Molecules Using KMnO₄
+How does one determine the relative basicity of a nitrogen in a molecule?
+Why is Lithium the strongest reducing agent, and not Cesium?
+Is there a way to turn alcohol into a solid gel?
+Effect of different electron withdrawing/transition state stabilising groups in nucleophillic aromatic substitution
+Determining the H+ Concentration of Na3PO4
+What is the difference between ΔG and ΔG &quot;with an o on top&quot;?
+Why is there a difference in the colours of K₂Cr₂O₇ and K₂CrO₄?
+Fluorination with xenon difluoride
+Determine how many gauche interactions?
+Do hard drive platters contain toxic chemicals?
+What is the difference between melting and dissolving?
+Why does activated carbon preferentially adsorb anions?
+Blue Silica Gel more harmful than the orange ones?
+How do I calculate the degree of dissociation in equilibrium?
+Synthesis of Chloroquine from 7-Chloro-3-Amino quinoline
+Adulteration of turmeric with Metanil yellow
+What is the correct name for this lab technique [crystallization]
+Material which fits certain required properties
+How to find the band gap for a compound?
+Diamond filtering - is it real or bogus?
+Samsung&#39;s S-Plasma Ion - scientific basis
+Can nanotechnology reduce electrode losses in electrochemical cells?
+Radiation time vs. half life period
+How can I compute the temperature change from the de-excitation of excited particle species?
+What is the energy package released to the outside world?
+What is the name of cyclopropane with a double bond?
+What chemicals could absorb/adsorb ambient atmospheric methane?
+How to compute the residence time for given flow rate in standard cubic meters?
+Why don&#39;t atoms with expanded valence shells have a formal charge?
+Is tin and tinware toxic?
+Why do collisions in elementary reactions of higher-orders appear to be more likely?
+Inherent error in mass and volume?
+Calculate the heat capacity of the calorimeter?
+Why doesn&#39;t water play a role in reactions in aqueous reactions?
+How do I find change in Gibbs free energy of this reaction?
+Energy of the n-th level for an atom
+How does hot tub &quot;shock&quot; work?
+How do I balance this combustion reaction?
+Is there a way to detect bleach residue on a surface?
+What&#39;s the name of this electrolysis device?
+Calculating laser wavelength/power to cause emission of light in a gas?
+When considering Van der Waals forces, why do dipoles form?
+Why does milk flake?
+How do surfactants spread in the case of multiple materials?
+Cleaning a round-bottom flask, especially after distillation
+If gases turn into liquids under pressure, what does carbon dioxide turn into?
+Breakdown of valine
+Which C-C bond would break first, the one in ethane, or 2,2-dimethylpropane?
+Compounds that vary water&#39;s superheated and supercritical limits
+Is there a household method to decolorize potentially contaminated water?
+Which theta should be taken from xrd pattern for calculating Scherrer&#39;s equation
+Is half-full rule and full rule allowed on 6th and 7th period?
+Which conformer of Beta D-glucose is more stable
+Is it okay for a sulfite ion to have 10 electrons around the sulfur?
+Why can dissolution reactions (e.g. dissolution of calcium chloride) be exothermic?
+Non-Commercial Thermal Insulation
+Electronegativity of zinc vs copper in galvanic cell
+Why is my NaCl solution seemingly saturated, when I followed the recipe for an isotonic solution?
+Is phenolphthalein used in laminar wood construction panels?
+How can I find pKa from a titration curve?
+Why water can&#39;t mix with oil or cooking oil?
+How do you Synthesise a Fatty Acid Amide?
+How does one synthesise 2-Monoglycerides from Triglycerides?
+Hydrazine synthesis
+Homemade Rocket Fuel and Engine
+How can I produce hydrogen gas efficiently and cheaply?
+Is the vinegar and baking soda experiment safe for children?
+Periodic Trends
+What will be the Ozonolysis product?
+How do you create primary amines from alcohols?
+Electronegativity
+How would you go about synthesising amino sugars from sugars?
+Is it possible to estimate a substance&#39;s water solubility from data like the substance&#39;s partition coefficient, dissociation constants, etc.?
+What commonly availible salts are strong dessicants?
+Why is there a max radius for an orbit of an electron around a nucleus?
+How might one reduce the concentration of bubbles in their ice, from ice cube trays?
+How do you Benzylate (add a benzene group to) cyclic compounds?
+Are pesticides used on fruit easily washed off?
+How to extract elemental Bismuth from pepto bismol?
+Why does electrolysis take so much time?
+What causes Copper Rose?
+Why does attractive forces of nucleus increase more than shielding across groups?
+How can you estimate how much of a substance will dissolve in a given lipid?
+How would you Synthesise LY-293,284?
+What is the mechanism of functionalisation of nanoparticle using long chain alcohols
+Nitrogen triodide energetics
+Hydrogen - its place in the Periodic Table
+How can I control the oxygen in an erlenmeyer flask in a bioprocess?
+How would I select the strongest Plastic Material?
+Influence of solubility at different pHs on the complexation constants
+Quantum dot band gap energy equation
+How can a substance be diluted to nothing?
+large wavelength range and list of x/y numerical data points of elements
+What is the reaction between Oxalic Acid and Potassium Permanganate?
+Database for molecular dipole transition moments?
+Are there computer searches for new theoretical minerals in a similar vein to Folding@Home or SETI@Home?
+Stir bar size and volume to stir
+Unique calling code for a chemical reaction
+Chemical reaction calculator
+Solubility of Calcium Fluoride in water
+Delta G for Standard Hydrogen Electrode reaction
+Is it possible to produce graphene out of air?
+How was the quantum 3-Body problem solved?
+How does Sodium Bicarbonate act as a Deodorizing agent?
+Presumptive test for modafinil?
+How, chemically, would you remove protruding phenyl groups?
+Is there a specific term for reactions of the form A + B → C + D?
+Number of bonds in a Lewis Structure
+How am I to interpret the phrase &quot;a solution of acid&quot;?
+How to calculate the pH of a buffer after HCl was added?
+Why are the oxide materials insulating?
+Isopropyl alcohol forming peroxides
+Removing wine stains from a decanter
+Source of the no. of isomers in alkanes, and other organic molecules
+Approximation of electron density of a small molecule
+Electrolysis: Water to Hydrogen gas?
+Relative racemisation in SN1 reaction?
+Why does molten plastic (PLA) stick to metals (AL)?
+Pronunciation of &quot;alkene&quot; vs. &quot;alkyne&quot;
+Strongest chloride complex as perdicted by HSAB theory
+What is the effect of substituting oxygen with sulfur in drug molecules?
+Why Inductive effect operates only through single bonds?
+Consumer Report for Lab Equipment
+Prediction of surface atoms in molecule from its graph
+Degradation mechanism of hydroxymethylfurfural to 2,5-dioxo-3-hexenal and 4-oxopentanoic acid
+In Goodman and Gilman what does R,S-citalopram refer to?
+Chemical methods to extract Oxygen from Rust
+On the scale of stuff with a pH
+Are metals hydrogen bond acceptors or donors?
+Integrated rate law graphs
+Tetrahedron is minimum energy conformation for atom with 4 electron domains in VSEPR theory
+Making a saturated solution of Na₂CO₃
+How to detect harmful gas occurence in carboy bottle
+Finding Pv in Pv=nRT for molecular hydrogen
+Create my own solar cells?
+How do chemists decide on which detergent to use?
+Flame temperature for cooking food
+How do I chill water without a refrigerator?
+Why do molecules having a higher $M_r$ have stronger inter-molecular forces?
+Oxidation State in Tetraaquadichlorochromium(III) chloride
+Forms of Henry&#39;s law versus ideal gas law
+What is the substance in the new water cooler filter that give bubbles and taste a bit like soap
+Parts of a manometer
+A few questions about the conditions of the Diels Alder Reactions
+What is the condensation point of water?
+Cathodic protection of aluminium
+How to chemically postpone a chemical reaction
+How do you calculate the absorption spectrum of water?
+Having problems running DFTB using dftb.org parameter files on Gauss 09 (G09)?
+Can natural gas appliances run on Hydrogen?
+Photosynthesis, science fair
+Electrolysis of molten Calcium Chloride: Identifying the product
+Is the electronegativity value ever used in calculations, or is it just a number assigned to each element?
+Soil-solution cations in competition for exchange sites
+Different reactions of clean and rusty iron nails in vinegar (acetic acid)
+Is this relation in case of a mixture of ideal gases valid?
+Gold nanoparticles in a water/oil environment
+Why are partial molar Gibbs energy and Gibbs energy per mol equal?
+Counting valency of atoms, in a molecule with python
+At what temperature will proteins and fats boil in a vacuum?
+Bond of interest
+Less maintenance-dependent continuous pH testing
+Material that is flexible when cold but comes brittle when hot
+What is the best way to detect the presence of tear gas?
+Determine concentration Using Beer&#39;s law
+Does caffeine isolated from coffee contain harmane?
+Would concentration of a compound in equilibrium increase even if it&#39;s not favored by a volume decrease?
+Which gems can be prepared on a small scale basis?
+How can one test if a ruby is real?
+Reaction of an electrode
+Dead-body Ashes: biodegradable or not?
+Lines on inside of hexagonal shapes of structure diagrams
+How can I calculate the energy of a solution by knowing all of it&#39;s elements?
+How to determine an oxidation number of an atom in the compound, that has at least two elements, which are not hydrogen or oxygen?
+Finding electron configuration of Lanthanide-ions
+How do we actually know the chemical structure of a compound?
+Which computational method/basis set should I use for small molecular ions?
+Structure of N₅P₃?
+Maximum oxidized compound
+Thermodynamics behind Deliquescence?
+Is it possible to react two distinct carboxylic acids to form a dicarbonyl ester?
+Why is AlMg3 called aluminum alloy?
+Notation &quot;5% solution&quot;
+Is it possible to create an acid anhydride that&#39;s stable in water and if so what conditions must its structure satisfy?
+Oxidation state of metal in metal oxo complexes always positive?
+How much heat is required to dehydrate a hydrate?
+How can geometric isomerism arise due to steric factors?
+NaHCO₃ + HNO₃ -&gt; NaNO₃ + H₂O + CO₂ ... but something weird happens to me in practice
+Does the hydrolysis speed increase when more H+ ions are in the solution?
+Are sulfonyl-carboxylates stable in water?
+How to get the freeze point of mixed liquids?
+Which reaction between Lugol and Hydrogen peroxide?
+Why do buffers need to be composed of equal amounts of the acid and salt?
+Why do the reactions of Magnesium in steam and cold water differ?
+What is the reaction mechanism for the hydrolysis of Amifostine?
+Calculate vapor pressure from volume
+The ionization energy of H₂⁺ molecule ion
+How did the first amino acids appear on earth?
+Bayer-Villiger Reaction - Migratory Aptitude
+How do we represent a molecule in text form?
+Lone pair electrons on secondary carbon vs primary carbon
+References to draw 3D molecules with directionality of non-bonding electron pairs and p-orbitals
+How to calculate the probability of finding an electron in a box between 0.25L and 0.75L?
+Why was anhydrous magnesium carbonate “upsalite” discovered so late?
+How to make artificial sea water
+The violation of a certain rule or principle in the following electronic configuration
+Energy required to remove an electron from He
+What can you use to remove hair gel?
+Heating copper wire and sulfur powder
+How to calculate crystal field stabilisation energy?
+Carbon Free energy vs Temperature Diagram
+Solvated solids
+Why are there free electrons in a metal?
+How to change CO₂ to a less polluting gas?
+Which atoms form which elements?
+Symmetry and stability of a molecule (Jahn-Teller Distortion)
+How do I start studying chemical nomenclature?
+Homemade reactor for water cooling
+How did Halogens become known as Halogens? They are not the only elements that form salts!
+Why sponge can&#39;t absorb mercury
+What is the definition of organic compounds?
+How to calculate the heat capacity of a calorimeter based on a neutralisation reaction?
+Does hydrogen peroxide exhibit intramolecular hydrogen bonding interactions?
+Is ionic bond just formed by &quot;electrostatic&quot; interaction between two oppositely charged ions?
+Why does MgCl2 lower the freezing temperature, and how does it do so?
+Why do they use graphite anodes in the Hall-Heroult process?
+Why do C-F bond has less dipole moment than C-Cl bond?
+How would substitution reaction results differ between reacting halides with a tertiary bromoalkane vs reacting it with a primary bromoalkane?
+What chemicals cause the acrid smell of burning food?
+Functional group naming order?
+Finding the percent of calcium carbonate in commercial antacid by using back titration
+Propagation of uncertainty
+What&#39;s the convention for the symbols of enthalpies of formation, reaction, etc.?
+How are non-Stoichiometric compounds determined?
+Why does Ruthenium only have one electron in its 5s orbital in the neutral oxidation state?
+Evaporating the water of a solution of only carbonate ions and water gives?
+Why are NaCl and NaBr not soluble, whereas NaI is soluble in acetone (in the Finkelstein reaction)?
+Why does a wood fire create benzene?
+How does shock trigger nucleation of gasses dissolved in a liquid?
+How do I calculate the normality of NaBrO3?
+Bonding and nodes with molecular orbitals
+Phase diagram analysis
+Crossed aldol condensation products?
+Are these two reactions equivalent?
+Why distinguish between polarity and hydrophobicity?
+De-/protonation of R-OH group by acids and bases
+Best consumption-safe liquid for caffeine solubility?
+How do I remove free biotin after biotin-protein conjugation?
+Why does the excitation and emission spectrum of a fluorescent molecule have overlap?
+Difference between reversible and irreversible thermodynamic process
+Critical separation at which molecule breaks
+Explaining redox reactions to a 6 year old?
+Difference between sodium ion and a transition metal ion dissolving in water?
+How do I determine the temperature at which a dissolved substance evaporates?
+How can I avoid crystallisation of sugars in vinegar at low temperatures?
+How can I generally determine which bonds are longest/shortest in a molecule?
+Why Cl⁻ can&#39;t act as bidentate ligand?
+How to identify ionic compounds
+Crossed Cannizzaro products
+Ionic or covalent bond
+Why is current non-zero when applied potential is still below E$^0$ in cyclic voltammetry?
+What is going on in this reaction?
+Iodate ion (IO3-). Is it polar or non-polar?
+What are the units of P and V when R is expressed in terms of J/mol-K?
+Could micrograms of polonium really change the viscosity of a whole teapot?
+Intuition for electrode potential
+What&#39;s the reddish powder that oozes out of a black rock?
+Is aromaticity of the 4 aromatic amino acids affected by pH?
+Does using stonger soaps help me lose weight?
+Enthalpy change in an adiabatic system
+Determine compound acidity based on structure
+How do I distinguish internal energy and enthalpy?
+Plutonium having more oxidation states than samarium?
+How do you determine a chemical formula given the molecule&#39;s crystal structure?
+Is it possible to cut yourself on pyrite?
+Carcinogens, how do they work?
+Are there natural conditions that could enable the formation of noble gas compounds?
+How can different no. of unpaired electrons lead to different colours of co-ordination compounds?
+Looking for raw interferogram data / raw FID data from FT-IR / FT-NIR / FT-NMR
+Non-hardening adhesive
+Decomposition products of PET
+How to read a given chemical formula?
+What&#39;s the difference between mass spectrometry, mass spectroscopy, and mass spectrography?
+How to synthesize t-Boc protected derivative of PVA
+Why does hydrogen so easily take the place of oxygen in organic molecules during reduction reactions?
+What does it mean by degree of aromaticity of a molecule?
+To which state of matter does the flame belong to?
+Would trans hydride ligands on a metal complex be beneficial for a catalyst?
+Smelly matters in urine - do they have lower or higher boiling point than water?
+Is a diamond a single molecule?
+Epsom salts - heavy metal contamination myth?
+How to find the sequence of a nonapeptide based on separation experiments?
+Are all PP(Polypropylene), i.e. resin code 5 plastics, safe for microwave and steaming?
+How to calculate the frequency of cyclohexane conformational interconversion?
+cooling/refrigeration essentiality for carbonated softdrinks
+Why don&#39;t B, C, Si, have ionic forms?
+Why is absorbance spectrum continuous and not quantized?
+What are the products of a bromination reaction?
+Determining standard Gibbs free energy for water?
+How does CrF₆&#179;⁻ hybridize?
+Riemer-Tiemann reaction products
+For a given teabag and dunking duration - will I get more caffeine in a bigger cup or the same amount?
+Organic Chemistry- Hyper-conjugation
+Can we goldify metals?
+What are the products of the dissociation of NaHCO3 in water? What is the relative pH of the solution?
+Dihydrogen monoxide
+Alcohol irregularities in Hydrogen NMR
+existence and stability of Bifluoride ion
+Protactinium-234 half-life
+How to properly denote imaginary magnitudes of vibrational frequencies
+Intermolecular forces in secondary amines compared to primary amines
+Molecule with 13 total electrons
+Evaporation velocity of ethanol: adding ethanol vapour to a gas mixture
+Are all organic molecules with odd-numbered electron count radicals?
+What would explain urine that resists freezing?
+Does supersaturated caffeine polymerize?
+Thermodynamic stability of benzene ring
+Why does helium seem to exhibit an ionization energy affected by the shielding of electrons?
+Is the scientific explanation behind Smartkleen legit?
+Why is ionization energy measured in gaseous phase?
+Are entries ever removed from the Merck Index?
+Reaction of ethene with ammonia and sodium
+Biochemistry for a mathematics student?
+Gold&#39;s atomic structure and bonding in relation to the separation techniques used
+Boiling-point elevation paradox
+Conversion of potassium dichromate solution to a less toxic solution
+Benzene and resonance
+Problems with precipitation of transition metal solution
+Remove empty space from structures with R and S groups
+Can dust conduct electricity?
+Oxygen in water: How is it single if it&#39;s always double?
+How to treat Magnesium powder and ribbon
+The formula for finding the percentage of isotopes in an element&#39;s atomic weight?
+Heterogeneous Equilibrium Without Gas
+Determine the equilibrium constant for this reaction
+Why do the trends in reactivity not apply for francium?
+When a thin lead sheet is hammered, what happens to internal energy
+Decomposition of potassium permanganate under prolonged heating
+Is alcohol lewis base or bronsted base?
+How to calculate the amount of HCl needed to neutralise a mixed solution of NaOH/ BaOH₂?
+Which of these reduction reagents would me most appropriate to yield this product?
+Determining Fluorescence Quantum Yield of C60 in Toluene
+How do you find the average rate and instantaneous rate given a kinetics plot?
+Can someone please explain buffers to me?
+Red Cabbage Indicator colour change with Sodium Metabisulphite
+Can an organic compound have an ionic bond?
+Number of molecules and atoms are same in a gas, how?
+&#39;Hard&#39; soap vs. &#39;Soft&#39; soap: Why do they work this way?
+Reaction between ammonia and iron
+Symmetry of an in-phase and an out-of-phase wavefunction &quot;approaching&quot; each other in an MO
+Phase transition from gas to solid
+Why is phenolphthalein an appropriate indicator for titration of a strong acid with a strong base?
+Which factors best account for the increase in boiling point?
+Why are NMR typically taken for a power of 2 scans?
+Endothermic and exothermic reactions
+For which pair of species is the difference in radii the greatest?
+Trends for electrical conductivity?
+Why is the orbital angular momentum of a pi electron along the axis of two atoms&#39; molecule one?
+can an alloy be used to make another alloy?
+Halogen Oxyacid Trend (acid strength)
+Why Ionic compounds dissolve into water
+Convert CO₂ ppm volume to ppm weight?
+What does the subscript of atomic orbital mean?
+Conservation of angular momentum in electronic transition
+Low-volatile liquids that &#39;ball-up&#39; on siliconoxide or perfluoroalkanes
+What is the difference between doxycycline hcl and doxycycline hyclate?
+Most common material in the universe
+Why can&#39;t the molecularity be determined from the rate law?
+Incomplete Combustion products
+Why does Pb normally have an oxidation number of +2?
+Aldol of 7-oxo octanal
+Which branches of chemistry and in what order to learn (self study)?
+Using Activities and extended Debye-Huckel equation, find the ph of the solution 0.020 M NaCl
+Hygroscopic behaviour of DMSO - how bad is it?
+How many milliliters of 0.202M NaOH to 25.ml of 0.0233M salicylic acid to adjust the pH to 3.5
+Why should one perform an extraction with multiple small portions of solvent as opposed to one large portion?
+How to Find Each Element in Nature
+Heat when dissolving solutes in water
+What is going on when pen stops working on a section of paper?
+Instantly seperate oil and water
+Spectrochemical Series - Sigma Donor Capability
+Why is the 8-electron rule more important than the 2- or 18-electron rule
+What are the physico-chemical processes at play in ironing of clothes?
+If metals want to &quot;lose&quot; electrons, then why will copper ions take electrons from a zinc electrode?
+Simple Kinetics Clarification
+Draw pyridine as an R Group
+How much hydrolysis will likely occur of the following bonds at pH 1-4 in the time period of 1-3 hours?
+Why does no Robinson Annelation Occur?
+Where does the characteristic peak for phtalic acid diethyl ester at m/z 149 originate?
+metal salt solutions g/l means hydrate or anhydrous
+Why NH4OH? Why not NH3(aq)?
+Why is Cyclodextrin cavity hydrophobic?
+How to find trace methanol content in fermented fruit/distillate?
+Addition of NaCl and CaCl2 to snow
+Is sodium chloride really odourless? If yes, what do I smell?
+Half equations for H2O2
+Why is the groundstate electronic degeneracy of monoatomic O(g) 5?
+Condition for formation of azeotropes
+How can water be electrolysed if it&#39;s not ionic compound?
+Amphoteric amino acid titration
+Vibrational Spectrums of HI, HBr, HF, and HCl
+What is this red substance that has accumulated at the bottom of a plastic bottle full of petrol (see picture)?
+The Acidity of the Hydrated Iron (III) Ion
+Why do strong acids have weak conjugate bases?
+Does anything like this covalent concerted bond exchange reaction exist?
+What is the difference between enthalpy of formation and Gibbs free energy of formation?
+Can water be ignited in an ozone atmosphere?
+Why oxygen is enclosed in parenthesis in some chemical reaction?
+Probability of measuring a particle in the ground state: having trouble with the integration
+How can I calculate the Yield of this simple reaction? Better yet: what am I asked?
+What is a good way for a laymen to purify alcohol to near 200 proof?
+Do undissolved salts in saturated solvents enter equilibrium with the dissolved salts?
+Enthalpy changes (comparing methods)
+How were the elements discovered before modern technology?
+Fractional Bond Orders &lt; 1
+Why does sp2 hybridization imply adjacent sp2 hybridization?
+Calculation of the standard potential E(Fe/Fe3+) from given potentials
+What is the minimum pressure for existence of a liquid solution?
+How could scientists produce accurate chemical structures before they could capture images of molecules?
+Fourth principle of Molecular Orbitals
+What attributes cause a substance to be nonconductive or conductive
+PI Bonding in Carbon Dioxide
+How would you name this organic compound?
+What is there in this 3D representation of organic molecules I fail to grasp?
+Conformations of Butane
+Accuracy of pH meters in MgSO4 solution
+What is some advance reference books about alloy that gives a lot historical background and applies a lot of theoretical equation or formulas
+Lewis structure of Cl2SO
+Drinking water out of a 24 year old Ether Bottle
+Why does pH affect fermentation?
+What&#39;s the Acid Ionization Constant of the Hydrogen Proton?
+How is percent error calculated?
+Permanent suspension of cocoa powder into water
+No indicator is suitable when titrating weak acid with weak alkali
+the chemistry of fog machines?
+Is CH₃CH₂CH₂Cl saturated or unsaturated?
+CuI, CuSCN Solubility in Ammonia Solution
+Is my teacher correct? Increasing the temperature of the reaction
+Specific Heat of Water Solution
+Behavior of NaCl in water with electrodes
+Since aqueous acids release Hydrogen cations into the solution, will an electric current create Hydrogen gas?
+What solvent would have the fewest ions?
+Explanation for the reactions in a saltwater battery with zinc and copper electrodes
+Why is N₂ stable but HCN and C₂H₂ unstable?
+In the lattice model, what&#39;s a nearest neighbor?
+In a redox reaction, why does more than one oxidation state of an element form?
+Finding overall order of reaction
+Why are atom spherical in shape ?
+Are ther known compounds of Argon? What is their molecular geometry and hybridisation?
+What happens as an acid is mixed with Sodium Chlorite
+I heard aluminium doesn&#39;t produce fumes when burnt but the opposite happened, how?
+Refluxing with tilted condenser
+How to determine the molecular formula of a compound given its molecular mass and mass percentage contribution of the involved elements?
+Which electrodes do not corrode at all?
+Can Lead (Pb) oxidize Tin (Sn)?
+Water flow in condenser
+Mechanism for Tollen&#39;s classification test for Aldehydes?
+How is chlorophyll made in plants?
+Recrystallization of two unknown compounds?
+What&#39;s the difference between Carvacrol and Thymol?
+How can sulphur and phosphorus expand their octet
+How to calculate the potential via Hess&#39;s law? Is my textbook wrong about this?
+Why pipetting with a 30&#176; angle?
+Units for dissociation constant and relationship to Gibbs Free Energy
+Who is Hr&#230;&#240;raford, the &quot;learned clerk&quot; &quot;writing in modern chemical Latin&quot;?
+What kind of metal alloys can resist corrosion from molten salt?
+Rust forming and being washed off by the same substance
+How do I find out what benzene containing compound this is with IR and NMR?
+Kinetics of Interstellar Chemistry — Applying steady state to formation of H₂
+Plot of Arrhenius Equation with temperature
+Why isn&#39;t SiC called carbon silicate?
+Why does ice cream not go back to its original form upon refreezing?
+How do erasable pens work?
+What is reactivity really, and can it be quantified?
+How can metals like magnesium and sodium burn underwater?
+Sign of the work done during a reversible compression
+Will heating alumina (Al2O3) to its melting point yield pure Al?
+What is an effective fabric-friendly solvent for aluminium chlorohydrate?
+Why does fusing benzene rings not produce polycyclic alkynes?
+Acid-Catalyzed Hydration
+What is the mechanism of monofunctional glycosylase catalysis?
+Lewis Structures - Peripheral Octets
+Is there an easy way to remember charges on ions?
+Van der Waals Radius clarifications
+Why doesn&#39;t the viscosity of water change much with temperature like it does for other substances?
+Atmopsheric Gas IR-Spectra
+Any possible additives to a drain cleaner I use as a source of NaOH?
+When are we justified in making assumptions in questions
+Which is more soluble in water and why: K₂HPO₄ or CaHPO₄?
+Why is a ketone more nucleophilic than an ester?
+Ethanol and water hygroscopic equilibrium concentration
+Can two positive ions be next to each other in a formula?
+How can the density of water be maximised?
+Oxidation numbers of phosphorus pentachloride
+how are the frequencies at a local maximum of PES like?
+4 Compounds in Equilibrium with One Another - Determine Their Equilibrium Concentrations
+Grignard: Unreacted Magnesium
+What do the half-reactions need to be for balancing a redox reaction in an acidic medium?
+On spontaneity of a redox reaction
