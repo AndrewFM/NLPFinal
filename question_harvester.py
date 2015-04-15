@@ -42,21 +42,22 @@ site_list = [stackexchange.StackOverflow,
 #Extract questions from each of those sites, and store them later for our future purposes.
 #This will be the training data for our site classification task.
 
-num_questions = 200 #Number of questions per site to extract
+num_questions = 2500 #Number of questions per site to extract
+user_api_key = "I9AkihbZDuFtUu)8rxEi*A(("
 
 for s in site_list:
 	print("Collecting questions from "+s)
 	outfile = open(s+'.txt', 'wb')
 	outfile.close()
-	site = stackexchange.Site(s, impose_throttling = True)
+	site = stackexchange.Site(s, impose_throttling = True, app_key=user_api_key)
 
 	q_so_far = 0
-	questions = site.recent_questions(pagesize=50)
+	questions = site.recent_questions(pagesize=100)
 
 	while q_so_far < num_questions:
 		for q in questions:
 			outfile = open(s+'.txt', 'ab')
-			outfile.write((q.title+'\n').encode('utf-8')) #i don't know how encoding works, help
+			outfile.write((q.title+'\n').encode('utf-8'))
 			outfile.close()
 			q_so_far += 1
 

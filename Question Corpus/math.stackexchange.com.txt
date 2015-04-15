@@ -1,24 +1,49 @@
+Show that if limf(x)=L then lim|f(x)|=L. And, consequently if f(x) is continuous, then |f(x)| is also continuous.
+Limit and continuity
+Use the Mean Value Theorem to prove an inequality
+Conditioning events on a conditional expectation
+Does $\sum_{n=1}^{\infty}(-1)^n\frac{n}{\sqrt{n^3 + 6}}$ converge?
+How to differentiate $x^2-|x^3|$?
+$d_n=(1+(2/n))^n$ converge or diverge and find the limit?
+Calculation Issue (not a math problem, but I just need help with calculation)
+Gluing together holomorphic functions on $\mathbb{P}^n$
+Are there infinitely many Smarandache-Wellin primes and does anyone care?
+Difference between rotation and pure rotation
+closed sets which are strictly contained in open set
+How to solve an optimal control problem where you chose how the state affects its own law of motion
+Surreal numbers in set theories other than ZFC
+Richard Pavlicek&#39;s combinatorial problem
+Deriving differentiation rule
+Property equivalent to minimum angle (regular meshes in finite element sense)
+Convergence of a monotone sequence of real numbers
+How to solve power series expansions.
+Question on definition of group acting on a topological space.
+Mittag-Leffler Expansion
+How many uranium-238 atoms are left after 1.338 x 10^10 years?
+Number of ways you can form pairs with a group of people when certain people cannot be paired with each other.
+Determine height/width of rectangle in perspective
+Why do these sequences intersect at point?
+Find transformation matix
+Building an infinite set $A\subseteq\mathbb{Z}^+$ such that $\forall a\in A,(a^2+1\mid a!)$
+Proving that these curves intersect
+Distance between function and subspace
+Determining spectral bounds variationally.
+Show that a variety is irrducible
 Unbiased estimator for member of random sample
 Prove ${4n \choose 2n} = {\frac{1\cdot3\cdot5\cdots(4n-1)}{(1\cdot3\cdot5\cdots(2n-1))^{2}}}{2n \choose n}$
-$d_n=(1+(2/n))^n$ converge or diverge and find the limit?
 question on the proof of uniqueness of completion
-How to solve power series expansions.
 Find a one-to-one correspondence (i.e, a bijection)
 Question about $M/GI/ \infty $ queue
-closed sets which are strictly contained in open set
 Difference between Monte Carlo sims and sensitivity analysis
 Complicated inequality, how to prove?
 What is the simplest way to find an inverse matrix?
-Number of ways you can form pairs with a group of people when certain people cannot be paired with each other.
 Why do I get the Fibonacci sequence when I start with 1 and keep using the + sign?
 Is there among first 100000001 Fibonacci numbers one that ends with 0000?
 How to Prove this mathematical expression????
 Let $p$ be a prime. Why is ${p^mn \choose p^m}$, where $p \nmid n$, not divisible by $p$?
-Richard Pavlicek&#39;s combinatorial problem
 How do I show this relation between exterior product and the projection of a tensor product
 The number of ways of dividing a number by three separate integers.
 Understanding products and coproducts
-How many uranium-238 atoms are left after 1.338 x 10^10 years?
 Simple Symmetric Random Walk
 Is this matrix positive semidefinite for all $n$?
 Set of points - exclude a point
@@ -33,57 +58,6 @@ seeking for Newton&#39;s like inequalities as sufficient condition for polynomia
 Minimum variance unbiased estimator (MVUE) of a parameter
 Derivative of a definite integral?
 Proof of $\mathcal{O}_{\mathbb{P}^1 \times \mathbb{P}^1}(a,b)$ is ample $\iff$ $a,b &gt;0$.
-Proving that these curves intersect
-Prove Product Property of Eigen Vectors
-Show that $g(a) = g(b) = 0,\ \int_a^b f(x)g(x)dx=0 $ implies $f(x)=0$
-Is $\mathbb{Q}(\sqrt{2},\sqrt[3]{5})=\mathbb{Q}(\sqrt{2}+\sqrt[3]{5})$?
-Pullback 1-differential form
-Confusing (but probably easy) question regarding boundedness
-Regularized least squares inequality
-let $K$ be a compact set in $\mathbb{R}$. show that $K$ is also compact in $\mathbb{R}^{2}$ when regarded as a subset in $\mathbb{R}^{2}$
-Not all finite exchangeable families can be infinitely extended
-Calculate rotation/translation matrix to match measurement points to nominal points
-How would you use Fubini&#39;s theorem to solve $\int_{0}^{1}\int_{\arcsin(y)}^{\frac{\pi}{2}} e^{\cos(x)} \, dx \, dy$
-About random variable X, which is a certain number of cars that can pass over a bridge in a 5 minute period
-Are the solutions of a Sturm-Liouville equation entire in the spectral parameter?
-What Rule generates the sequence $8,8,10,12,12,14,16,16$?
-Taking module sheaf commutes with tensor product
-Unbiased estimator for member of random sample
-Prove ${4n \choose 2n} = {\frac{1\cdot3\cdot5\cdots(4n-1)}{(1\cdot3\cdot5\cdots(2n-1))^{2}}}{2n \choose n}$
-$d_n=(1+(2/n))^n$ converge or diverge and find the limit?
-question on the proof of uniqueness of completion
-How to solve power series expansions.
-Find a one-to-one correspondence (i.e, a bijection)
-Question about $M/GI/ \infty $ queue
-closed sets which are strictly contained in open set
-Difference between Monte Carlo sims and sensitivity analysis
-Complicated inequality, how to prove?
-What is the simplest way to find an inverse matrix?
-Number of ways you can form pairs with a group of people when certain people cannot be paired with each other.
-Why do I get the Fibonacci sequence when I start with 1 and keep using the + sign?
-Is there among first 100000001 Fibonacci numbers one that ends with 0000?
-How to Prove this mathematical expression????
-Let $p$ be a prime. Why is ${p^mn \choose p^m}$, where $p \nmid n$, not divisible by $p$?
-Richard Pavlicek&#39;s combinatorial problem
-How do I show this relation between exterior product and the projection of a tensor product
-The number of ways of dividing a number by three separate integers.
-Understanding products and coproducts
-How many uranium-238 atoms are left after 1.338 x 10^10 years?
-Simple Symmetric Random Walk
-Is this matrix positive semidefinite for all $n$?
-Set of points - exclude a point
-What does the notation $\mathbf{R}^\mathbf{R}$ mean?
-How many multisets of length $d$ of a set of $n+1$ elements?
-For subspaces $S,U,W$ of a $K$-vector space, prove $S\cap\langle U\cup W\rangle=\langle\langle S\cap U\rangle\cup\langle S\cap W\rangle\rangle$
-A number $n$ which is the sum of all numbers $k$ with $\sigma(k)=n$?
-Are all continuous one one functions differentiable?
-Mini Tetris Winning Configuration
-Is $\operatorname{card}(I)=\operatorname{card}(D)$
-seeking for Newton&#39;s like inequalities as sufficient condition for polynomial to have only real zeros
-Minimum variance unbiased estimator (MVUE) of a parameter
-Derivative of a definite integral?
-Proof of $\mathcal{O}_{\mathbb{P}^1 \times \mathbb{P}^1}(a,b)$ is ample $\iff$ $a,b &gt;0$.
-Proving that these curves intersect
 Prove Product Property of Eigen Vectors
 Show that $g(a) = g(b) = 0,\ \int_a^b f(x)g(x)dx=0 $ implies $f(x)=0$
 Is $\mathbb{Q}(\sqrt{2},\sqrt[3]{5})=\mathbb{Q}(\sqrt{2}+\sqrt[3]{5})$?
@@ -108,8 +82,106 @@ functions and recursions
 Can a continuous real function take each value exactly 3 times?
 Absolute value of complex Radon measure
 Why is the internal hom of a Kan complex also a Kan complex?
+Find a meromorphic function $f$ with poles at $\dots,-3,-2,-1$
+What are the three subgroups of $\mathbb{Z}_4\times\mathbb{Z}_6$ of 12 elements?
+Trigonmetric calculus,
+the integral of normal derivative
+Calculate $\sqrt{5}$ using taylor series to the accuracy of 3 digit after the point $(0.5*10^{-3})$.
+Momentum a cotangent vector?
+Martingales and stopping times question
+How many trials given a certain probability
+Gamblers Ruin Special Case
+What&#39;s the Lebesgue measure of this set?
+A pedagogical proof that 9&#39;s can be ignored when calculating digital roots
+Prove that $\int_{a}^{b} f(x)g&#39;(x) dx = 0$ iff $f$ is constant
+When is $\mathbb{Q}(x)$ a finite extension of $\mathbb{Q}$?
+number of integrable functions is greater than number of differentiable functions
+Evaluation of $\int\frac{1}{x^4-5x^2+16}dx$
+Sine Sum : Inverse Circular Function Proof
+Show that if limf(x)=L then lim|f(x)|=L. And, consequently if f(x) is continuous, then |f(x)| is also continuous.
+Limit and continuity
+Use the Mean Value Theorem to prove an inequality
+Conditioning events on a conditional expectation
+Does $\sum_{n=1}^{\infty}(-1)^n\frac{n}{\sqrt{n^3 + 6}}$ converge?
+How to differentiate $x^2-|x^3|$?
+$d_n=(1+(2/n))^n$ converge or diverge and find the limit?
+Calculation Issue (not a math problem, but I just need help with calculation)
+Gluing together holomorphic functions on $\mathbb{P}^n$
+Are there infinitely many Smarandache-Wellin primes and does anyone care?
+Difference between rotation and pure rotation
+closed sets which are strictly contained in open set
+How to solve an optimal control problem where you chose how the state affects its own law of motion
+Surreal numbers in set theories other than ZFC
+Richard Pavlicek&#39;s combinatorial problem
+Deriving differentiation rule
+Property equivalent to minimum angle (regular meshes in finite element sense)
+Convergence of a monotone sequence of real numbers
+How to solve power series expansions.
 Question on definition of group acting on a topological space.
+Mittag-Leffler Expansion
+How many uranium-238 atoms are left after 1.338 x 10^10 years?
+Number of ways you can form pairs with a group of people when certain people cannot be paired with each other.
+Determine height/width of rectangle in perspective
+Why do these sequences intersect at point?
+Find transformation matix
+Building an infinite set $A\subseteq\mathbb{Z}^+$ such that $\forall a\in A,(a^2+1\mid a!)$
+Proving that these curves intersect
 Distance between function and subspace
+Determining spectral bounds variationally.
+Show that a variety is irrducible
+Unbiased estimator for member of random sample
+Prove ${4n \choose 2n} = {\frac{1\cdot3\cdot5\cdots(4n-1)}{(1\cdot3\cdot5\cdots(2n-1))^{2}}}{2n \choose n}$
+question on the proof of uniqueness of completion
+Find a one-to-one correspondence (i.e, a bijection)
+Question about $M/GI/ \infty $ queue
+Difference between Monte Carlo sims and sensitivity analysis
+Complicated inequality, how to prove?
+What is the simplest way to find an inverse matrix?
+Why do I get the Fibonacci sequence when I start with 1 and keep using the + sign?
+Is there among first 100000001 Fibonacci numbers one that ends with 0000?
+How to Prove this mathematical expression????
+Let $p$ be a prime. Why is ${p^mn \choose p^m}$, where $p \nmid n$, not divisible by $p$?
+How do I show this relation between exterior product and the projection of a tensor product
+The number of ways of dividing a number by three separate integers.
+Understanding products and coproducts
+Simple Symmetric Random Walk
+Is this matrix positive semidefinite for all $n$?
+Set of points - exclude a point
+What does the notation $\mathbf{R}^\mathbf{R}$ mean?
+How many multisets of length $d$ of a set of $n+1$ elements?
+For subspaces $S,U,W$ of a $K$-vector space, prove $S\cap\langle U\cup W\rangle=\langle\langle S\cap U\rangle\cup\langle S\cap W\rangle\rangle$
+A number $n$ which is the sum of all numbers $k$ with $\sigma(k)=n$?
+Are all continuous one one functions differentiable?
+Mini Tetris Winning Configuration
+Is $\operatorname{card}(I)=\operatorname{card}(D)$
+seeking for Newton&#39;s like inequalities as sufficient condition for polynomial to have only real zeros
+Minimum variance unbiased estimator (MVUE) of a parameter
+Derivative of a definite integral?
+Proof of $\mathcal{O}_{\mathbb{P}^1 \times \mathbb{P}^1}(a,b)$ is ample $\iff$ $a,b &gt;0$.
+Prove Product Property of Eigen Vectors
+Show that $g(a) = g(b) = 0,\ \int_a^b f(x)g(x)dx=0 $ implies $f(x)=0$
+Is $\mathbb{Q}(\sqrt{2},\sqrt[3]{5})=\mathbb{Q}(\sqrt{2}+\sqrt[3]{5})$?
+Pullback 1-differential form
+Confusing (but probably easy) question regarding boundedness
+Regularized least squares inequality
+let $K$ be a compact set in $\mathbb{R}$. show that $K$ is also compact in $\mathbb{R}^{2}$ when regarded as a subset in $\mathbb{R}^{2}$
+Not all finite exchangeable families can be infinitely extended
+Calculate rotation/translation matrix to match measurement points to nominal points
+How would you use Fubini&#39;s theorem to solve $\int_{0}^{1}\int_{\arcsin(y)}^{\frac{\pi}{2}} e^{\cos(x)} \, dx \, dy$
+About random variable X, which is a certain number of cars that can pass over a bridge in a 5 minute period
+Are the solutions of a Sturm-Liouville equation entire in the spectral parameter?
+What Rule generates the sequence $8,8,10,12,12,14,16,16$?
+Taking module sheaf commutes with tensor product
+Homemorphism from projective plane to S1 and Moebius strip
+Correlation of Proportions
+my math question is
+All sets of rational numbers are bigger than the set containing infinite integers - or are they?
+Is $\mathbb{Z}\times\mathbb{Z}/((6,5),(3,4))$ is finitely generated?
+Prove that $(n+1)^{n-1}&lt;n^n$
+functions and recursions
+Can a continuous real function take each value exactly 3 times?
+Absolute value of complex Radon measure
+Why is the internal hom of a Kan complex also a Kan complex?
 Find a meromorphic function $f$ with poles at $\dots,-3,-2,-1$
 What are the three subgroups of $\mathbb{Z}_4\times\mathbb{Z}_6$ of 12 elements?
 Trigonmetric calculus,
@@ -142,7 +214,6 @@ Is this olympiad-like question about remainders an open problem?
 Inequality $|e^z -1| \le 2 |z|$ for complex $z$ with $|z|\le1$
 a question about real analysis,I need to know whether these two sequences are equidistributed.
 Countablity of sets
-Determine height/width of rectangle in perspective
 Find CFG for language $\#_a(w) = 2\#_b(w)$
 Sphere packing in a cuboid algorithm
 How is problem solving ability on an olympiad level relevant to mathematical graduate study/research?
@@ -173,7 +244,7 @@ R.V. X and Y have joint density $f(x, y) = e^{(-x-y)}$, find $P(X+Y\leq 1)$
 Maclaurin Series - finding the co-efficients for functions that require the product rule
 Prove that the greatest lower bound of $F$ (in the subset partial order) is $\cap F$.
 FIR Filter blocking specific frequencies z transforms
-Maximum likelihood estimation when the density is F(x/��)=1-(1-x)^��
+Maximum likelihood estimation when the density is F(x/θ)=1-(1-x)^θ
 Twice differentiable functions that are harmonic
 Combinatorics Homework Problem: $n$ People Sit Down. What is the Probability that $m$ Seats are Occupied?
 $u_{xx}+u_{yy}=0,1&lt;r&lt;3,0&lt;\theta&lt;\frac{\pi}{2}$
@@ -199,3 +270,2232 @@ Conditional (Truncated) Expectations &gt; Unconditional Expectations
 Estimate $|S_n(x)|=\left|\sum _{k=1}^n \frac{\cos (2\pi \lambda_k x)}{\lambda_k}\right|$.
 Ring homomorphism from $M_3(\mathbb{R})$ into $\mathbb{R}$
 Key differences between almost complex manifolds and complex manifolds
+What do we know about a group when we know it&#39;s order?
+Prove that $\frac{1-\frac{1}{3^3}+\frac{1}{5^3}-\frac{1}{7^3}+..}{1+\frac{1}{3^2}+\frac{1}{5^2}+\frac{1}{7^2}+..}=\frac{\pi }{4}$
+The biggest degree of a map between fixed surfaces
+Trapezoidal rule in 2 dimensions
+Consider this question from Marker
+How do I extrapolate summation notation from a given series?
+Moral mistake in Hartshorne?
+Show that R is an equivalence relation
+Finding the radius of convergence for a Maclaurin series
+conditional expected value for multinomial distribution
+pullabck of rational normal curve under Segre map
+How to draw regular tetrahedron from center?
+basic mathematical induction problem
+First uncountable ordinal
+An obstacle encountered in a proof of the existence of a best approximating polynomial of degree $\leq n$
+Defining an operation on a quotient set
+Length of tensor product of finite length modules is finite
+Is it possible to write an Unambiguous Grammar for Two Hard Language ?!?
+find the minimal polynomial over $\mathbb{Q}$ of the algebraic number $\mathbb{(1+\sqrt{5})/2}$
+The Homomorphism Induced by a Continuous Map
+Pdf for distance between two uniform random points in a circle
+Solve $x+x^{\frac{1}{e^{-x}}}+e^{-x}=p$, where p is some real number
+Upper bounds and Lower bounds (Relations Proof Problem)
+Pseudo-inverse gives the minimum norm for x
+Regarding the distribution of pivotal functions not depending on their parameter(s)
+How to get the PDF for $p(a)$ $p(b)$ by using convolution?
+Proof for diagonals of a rectangle
+How is this logarithmic identical transformation true?
+Show that a relation $R$ is transitive, iff $R^n\subseteq R$ for all $n\geq 1$
+System of Equations, Representing Solutions
+I hear that some operators don&#39;t have analytical properties. What does that mean?
+Universal covering of the complement of a circle in $\mathbb{R}^3$
+Method of solving no-homogeneous recurrence equation
+free module Homework Problem Construction Verification
+On critical values of a linear function $g:SO_2\times \mathbb R^2\to \mathbb R^2$
+Determinants order of operations
+Definite integral of function is zero
+How to find the Dual space
+How can I write the equation of this graph?
+The Three Princesses
+Example of a white noise series that is not a martingale difference series with respect to its natural filtration
+Proving $\binom {n-1}{r-1}=\sum_{k=0}^r(-1)^k\binom r k \binom{n+r-k-1}{r-k-1}$
+Show that the probability mass function (PMF) of X
+Reduce distance between two points by %
+Frobenius kernel is regular normal elementary abelian p-subgroup?
+Interpretation of a combinatorial identity
+Some question about extension of bounded linear operator
+Proving that $H_0(X)=\tilde{H_0}(X)\oplus\mathbb{Z}$
+general two-state markov chain properties
+Does there have to be a point on elliptic curve over $\mathbb{C}(t)$
+Find length of oblique side of trapezium.
+Which of this two numbers is the bigger?
+How to plot standard deviation rings of a bivariate normal distribution?
+Changing money , Combinatorics
+Limit of monotonic function
+I know $bc\neq 0$ .I have to show since $B$ is not scalar , $\operatorname{rank} B=1$
+Sufficiency of $X_{(n)}$ for random sample of scale uniform variables.
+Unbounded Geodesics and Nonpositive Curvature
+About subspaces of $\mathbb{R}$ as vector space over $\mathbb{Q}$.
+Almost sure convergence of the series of independent random variables
+Self-adjointness of $X^2$
+dual ball of L^1 w*-sequentially compact?
+linear least square estimation with random sum
+Henon (two-dimensional mapping with a Strange Attractor)
+If the equation $|x^2+4x+3|-mx+2m=0$ has exactly three solutions then find value of m.
+An entire function is a polynomial iff the Taylor expansion around $0$ converges uniformly
+Critical point outside of domain when finding the intervals on which a function is increasing and decreasing.
+derivative of a linear mapping
+Prove that $\frac{a^n-1}{b^n-1}$ and $\frac{a^{n+1}-1}{b^{n+1}-1}$ can&#39;t both be prime.
+Strongly connected components problem help with using lexicographic order to create a graph
+Example of sequence function on $C[a,b]$
+Is the Banach-Tarski paradox realistic? Why is Volume not an invariant?
+If $y=\sqrt{6 \pi c x}$ where $c$ is a constant- the equation is nonlinear, what needs to be done to gain a linear equation?
+Show that $A∩B∩C= ∅$ is only true when $A∩B = ∅, A∩C = ∅$ or $B∩C = ∅$ or show a counterexample.
+Trying to understand a proof in Rudin concerning winding number
+Interpretation of conditional expectation as a random variable
+Reflection to get within convex polygon
+How is this identical transformation true $x^{1-\log(x)}=1\Longleftrightarrow \log x^{1-\log(x)}=\log1$?
+How do I prove that the set of all possible points of R lie on a circle?
+Representability criterion with universal element
+I want to learn math from zero
+Find the coordinates of the points at which the line tangent to the graph of the function f(x) has the designated slope.
+What is $\left[\frac{1}{2}(p-1)\right]! \;(\text{mod } p)$ for $p = 4k+1$?
+Find the Number of Lattice Paths
+How to calculate &quot;general&quot; integral $\int\limits_{a}^{b}f(x)^2dx$?
+Maximizing revenue
+$x$, $y$, $x+y$ and $x-y$ are prime numbers. What is their sum?
+Examples for Burnside problem.
+Moving part of the sequence to fit a function.
+Covering Space of Orthogonal Group
+If $0 &lt; \frac{a}{b} &lt; 1$, does subtracting the next largest number $\frac{1}{n}$ always make the resulting fraction&#39;s numerator less than $a$?
+if you had to choose a degree again, would you pick math?
+How to stabilize cyclic tridiagonal matrix algorithm?
+want to design a mathematical formula
+Every compact metric space is complete
+Little mistake with Levi-Civita symbol property
+Integral of a two-valued function with two branch cuts
+Building a training program... for mathematics
+Breaking the AC barrier using Kelly- Morse set theory
+Using an isomorphism to define &quot;sameness&quot; for groups
+Why are vector spaces not isomorphic to their duals?
+Saturated model for Th(Z,+,-,0,1)?
+$\{K∈K(X):K⊆U\}$ for $U$ open in $X$ generates $\textbf{B}(K(X))$
+Diophantine equation resembling FLT
+How did Rudin conclude his argument there is no &quot;boundary&quot; between convergent and divergent series?
+Does $\{y\in \mathbb{R}^n:\operatorname{rank}((x,y,Ay))=2\}$ have zero Lebesgue measure?
+Solving the boundary value problem $-\Delta u=0$, $u(x,0)=u(x,B)=0$, $u(0,y)=0$ and $u(A,y)=\sin(\pi/B\cdot y)$
+Tree addtion has to do with Pascal&#39;s Triangle, why?
+Banach space it isn&#39;t Hilbert space
+Dual space question
+What would be my alpha and beta
+Showing a function is convex
+Are there any mathematics &quot;problem websites&quot; similar to Project Euler?
+Looking for a formula to evaluate likelihood of a successful event with increasing occurrences
+Supposedly easy hypergeometric probability question? Are my answers right to parts i and ii and how to do iii?
+Trisecting a line in the complex plane
+If $AB$ has zero trace for every matrix $B$ of zero trace, then $A$ is a scalar matrix
+How to integrate $\frac{x}{\sqrt{1+x^2}}$
+Power Series representation of $\frac{x^3}{(3x+4)^2}$
+Existence of non-dedekind-complete archimedean field?
+How to find probability of random variables and expected value and variance
+Covariance inequality for infinitely many exchangeable random variables
+Proving rigorously the supremum of a set
+What are some fast ways to generate random numbers?
+Can I define a bounded sequence whose Banach limit is not unique?
+Non-factorizable graphs in which every edge can be extended to a maximum matching
+Probability nad Statistics
+What is a good free software to draw complicated Venn diagrams?
+On matrices with trace value zero
+The asymptote of $y=\mathrm{sinc}(t)$ as time increases
+probability theory regarding death
+jets and vertical differential
+Show something is a Martingale
+When is the $L^{2}$ norm smaller than the $H^{-1}$ norm?
+Computing the volume of a fundamental domain of a lattice
+Does the power spectral density vanishes when the frequency is zero for a zero-mean process?
+Fiber summation of symplectic Lefschetz fibrations.
+$\arg\max$ of an increasing function grows as the region grows.
+Show system of ODEs has a periodic solution by finding smallest annular trapping region
+integrating to find a mean
+Given the set of all polygons with m sides and perimeter 1, why is there an element with maximal area?
+I want to study Maths in France but have no idea about anything University related, let alone Uni abroad?!
+Differential $dx$
+The subspace sum of a point and a closed subspace is closed
+Proof of martingale representation theorem monotone class argument
+Sample space for sampling from (a large) student population...?
+How do we see the rank of the braid group?
+In noetherian topological spaces the direct limit presheaf is a sheaf.
+Algebraic word problem.
+About the special linear group $SL(n,\,\mathbb{Z})$
+Pointwise convergence implies uniform convergence under concavity?
+Existance of limit and Integrability of a function
+Prove that if p is an odd prime and p does not divide $ac$, then $ax^2+bx+c \equiv 0$ mod $p$ and $cx^2+bx+a \equiv 0$ mod $p$
+An example of a dense and co-dense set in a metric space with countable derived set
+Applying the martingale representation theorem
+Finding an explicit formula for An in terms of n.
+How do we identify twin primes .
+$f \circ f^{-1} = i_B$ proof using the fact that $f^{-1} \circ f = i_A$
+Prove/disprove statement about positive sequence which tends to infinity
+How to apply Cauchy-Schwarz inequality to show an infinite series is bounded?
+Isosceles trapezoid with inscribed circle
+Density of conditional distribution
+Disjoint closed sets in a second countable zero-dimensional space can be separated by a clopen set
+What&#39;s the difference between $ω^{&lt;ω}$ and $ω^{ω}$?
+on a game playable with tokens
+Relation Between Eigenvalues of Block Matrices
+Question about the centralizer and conjugacy classes
+Generalization of Dirichlet convolution
+Calculus graphing question.
+Covariance inequality for $n$ exchangeable random variables
+Linear Programming constraint equivalent of conditional
+calculate all combination of indistinguishable objects
+$n!+1$ being a perfect square
+Seemingly straightforward: Integral of ratio of polynomials
+2D Fouier Series coefficent
+Non-existing Limit of $\sin x$
+Difficulty faced in solving maths problems
+Definition of a Finite Normal Extension
+Total curvature of an ovaloid.
+Solution manual of MDP: Discrete Stochastic Dynamic Programming?
+train cost optimization problem
+Stochastic kernel as linear operator
+Why non-real means only the square root of negative?
+Why is determninant called volume of the fundamental parallelpiped in geometry of numbers?
+Weak convergence and lim inf and lim sup of the sequence of norms
+How can you derive $\sin(x) = \sin(x+2\pi)$ from the Taylor series for $\sin(x)$?
+Minimising $|a+bw+cw^2|$ such that a,b,c are consecutive integers?
+Functorial construction with two integral domains
+simple root of a complex variable function
+injectivity. identity map of a ring to its tensor product
+Online service for completing the square
+How can I project a matrix on the set of symmetric positive definite matrices with trace 1?
+How to prove $\operatorname{val}(f) = f^+(X)-f^-(X)$ in flow networks?
+Pointwise convergence in R^R (Topology)
+Prove that $z^2 \equiv ab$ mod $p$ is solvable if and only if both or neither of $x^2 \equiv b$ mod $p$ are solvable.
+Terms needed to approximate with given error?
+Convergence of infinite series from 2 to infinity 1/(x((lnx)^2))
+Proving the Heisenberg Group is a group
+System of linear equations where unknowns can only be +1 or -1
+Show that this Variation of Thomae Function is Unbounded in any subinterval of [0,1], proof outline check.
+How to factorize $x^4+2x^2-x+2$?
+Expectation of product of two correlated gaussian variables
+Approximation algorithm for mine packing problem
+How prove this geometry inequality $R_1^4+R_2^4+R_3^4+R_4^4+R_5^4\geq {4\over 5\sin^2 108^\circ}S^2$
+Get angle in degrees of coordinate on circle.
+Are all prime ideals in $\mathbb Z[\sqrt{-5}]$ of the form $\langle c, a + b \sqrt{-5} \rangle$?
+Smooth maps (between manifolds) are continuous (comment in Barrett O&#39;Neill&#39;s textbook)
+characterization of some finitely generated Z-modules
+Where is my mistake in this DFA minimization?
+Show that $f(x)=0$ for all $x \in [a,b]$.
+Solve this inequality for B
+Continued fraction for $[1,2,3,4,5,6,\dots]$
+Adding fractions with exponents
+show that $\int_0^{\infty}\ln(2x)\frac{ax-u(1-e^{-2ax})}{\sinh^2(ax)}x^{2u-1}dx=\frac{1}{2u}(\frac{\pi}{a})^{2u}|B_{2u}|:u \in N$
+Clash of arrows
+Approximation of the Sine function near $0$
+Is the Godeaux surface irrational?
+Closed-form expression of $\frac{1}{N^{n}} \left[ N^{n+1} - \sum_{k=1}^{N} (k-1)^{n} \right] $
+Euler walk by joinning subgraphs
+Estimate or evaluate the sum: $\sum_{k=1}^n \frac{\cos k x}{k}$.
+Detect if two ellipses intersect
+Counting permutations of length n without patterns
+Markov Process with conditional pdfs
+Calculus Riemann sums for circle and ellipse
+Difficulty turning a quadratic equation to &quot;vertex&quot;-form
+linear algebra question ( true or false )
+Theories with countably many countable models
+What are the bounds on Variance?
+Solving inverse Laplace Transform with convolution theroem.
+Strongest topology makes unit ball compact
+Show that $g(x)=\text{mid}\{f_1,f_1,f_3\}$ is measurable.
+Find $\left \lfloor 1000S \right\rfloor$ where $S=\sum_{k=2}^\infty (-1)^k\log_k e$
+There is $\lambda \in F$ such that $M-\lambda I$ is not invertible.
+Number of $\sigma$  -Algebra on the finite set
+How to minimize $a \times b$ where $a^b≥x$?
+Combinatorial Interpretation of these two identities
+sobolev space question?
+How to find value of $x$ in this formula
+Definition of Cofinal Segment
+Bound for the distance of projections onto the unit sphere
+Solids of Revolution around other functions.
+Finding the expectation and variance of a stochastic process
+Projection theorem for nonclosed subspaces
+using Fermat&#39;s little Theorem to find the least residue of $5^{38}\ mod\ 13$
+How fast was the Turing&#39;s machine for breaking the enigma code?
+Graph Coloring and Complete Graph
+Field Extension and basis of polynomial set
+Expressing a line as a linear combination of two points on the line.
+Proof by induction of Bernoulli&#39;s inequality: $(1 + x)^n \geq 1 + nx$
+Contour lines and implicit function theorem
+How do you calculate the kernel of a matrix
+Finding the irreducible polynomial of $\zeta_6, \zeta_8, \zeta_9$ over the field $\mathbb{Q}(\zeta_3).$
+Simulating r.v.&#39;s from a joint density by rejection sampling in R. Continued
+&quot;Genealized&quot; notion of an exact sequence
+Counting unordered partitions on nested concentric disks
+How to convert $\pi$ to base 16?
+Is a complement of the union of all open first category subsets a Baire&#39;s space?
+Is GRP a subcategory of SET, or not?
+Solving 2nd order ODE using method similar to variation of parameters
+Asymptotic behaviour of ODE
+Prove the multiplicity property for $n!$
+Probability of succesful rolls of different sided dies
+For what values of $b\in \mathbb R$ is $\pi-b$ rational?
+Three containers first contain $r$ red balls second $g$ green balls and third contains $b$ blue balls
+Integral Domains and Unique Factorisation Domains
+Gershgorin circle and invertible matrix
+Prove that $\sqrt[3]{5-\sqrt{2}}$ is not a rational number
+Ideal in $\mathbb Z[x]$ which is not two-generated
+Is the cube root of a prime number rational?
+Recursively defining sets of strings discrete math
+When this operation is associative?
+Finest good cover of a topological space
+Rationalization of $\frac{2\sqrt{6}}{\sqrt{2}+\sqrt{3}+\sqrt{5}}$
+first order: show that $\forall x (\phi \vee \psi)$ =||= $(\phi \vee \forall x \psi)$
+Uniqueness of solution
+Russian Roulette and conditional probability
+Use Euclid&#39;s algorithm to find the multiplicative inverse $11$ modulo $59$
+the definition of Semigroups as S[x]
+Estimate on rate of growth of a power series
+How to construct a surface with a closed curve?
+Argmax as the parameter of a function?
+Solving 2nd Order ODE w/Laplace Transforms
+Reduction of a polynomial in residue field
+Modulus: Invariant Domain
+Integral Inequality $\int\limits_0^1f^2(x)dx\geq12\left( \int\limits_0^1xf(x)dx\right)^2.$
+How to prove that a sequence converges
+How to explain if a quantity is a pivot quantity?
+Subring of a commutative Noetherian ring
+Examples of Fractals From Simple Algorithms
+Proof that $-(-x) = x$ using just the field axioms
+How many special kind of numbers are there which are less than $M$?
+Dates with 8 consecutive digits
+Prove that every elementary matrix is invertible, and the inverse is again an elementary matrix.
+Surface constructed using curves
+How to show that $P(B \mid \overline{A}) = 1 - P(B \mid A)$?
+Show $(URU^* - \lambda I)^jv = 0 \Rightarrow (R - \lambda I_n)^jU^*v = 0$
+equisatisfiable symbol in logic
+Nullspace of a linear mapping from higher to lower dimension
+Showing that the 2-torus is parallelizable
+Can&#39;t get Logical Error
+Understanding Alexandroff compactification
+Trigonometric integrals
+Number of fibres under finite non-flat morphism
+Probability of tossing five coins and getting at least one head
+An argument for &quot;Brocard&#39;s problem has finite solution&quot;
+How can I verify that the ideal $(x^2-zw, z^2-yw, y^3-xw, w^3-xy^2z)$ in $\mathbb Q[x,y,z,w]$
+Classification of line bundles by Griffiths and Harris
+How to find the n-th derivative?
+Maximizing xy subject to x+y &lt;= a x&gt;0 and y&gt;0, using Hessian to check concavity of f
+What is the side-view of a cylinder?
+Consider $f : \mathbb{N} \to (-1,1) \cap \mathbb{Q}, \ n \overset{f}{\mapsto} \sin(n)$. Is $f$ a surjection? If not can we make it a surjection?
+Show the two fundamental groups representation of the Klein bottle are the same
+What&#39;s the difference between the euclidean algorithm and the extended euclidean algorithm?
+Sum of the area of infinite similar equilateral triangles
+Finding a function f(n) such that T(n) = O(f(n))
+Write down the explicit form of the $15$ Killing vectors of the 5-sphere
+Applying chain rule in probability?
+Linear interpolation of complex numbers
+$R/Ra$ is an injective module over itself
+Matrix norm optimization problem : $\min_{\textit{ }x} \| A x B \|_4$, $x$ in the &quot;unit&quot; circle
+Numerically solving a steady state equation (diffusion reaction with monod kinetics)
+Proof that $1 &gt; 0$ using the field and order axioms
+Writing quotient ring&#39;s elements in a form
+Properties of divisible modules
+Maximum value of $ x^2 + y^2 $ given $4 x^4 + 9 y^4 = 64$
+Factorize the given Equation
+Newton&#39;s method for multivariable function roots
+Simplifying fractional exponents
+Soundness and completeness
+Approximating an L2 function by analytic functions
+Intersection of two convex lattices polygons
+Integration.Matrix.Determinant.Inverse.Trace.
+Relative Extrema of $|x^2 - 1|$ for $-4 \leq x \leq 4$.
+smallest eigenvalue of rank one matrix minus diagonal
+Finding error control capability of Hamming distance
+Probability of intersection greater than product of probabilities?
+Transformation Property of Bivectors
+Improper Integral with trigonometric functions
+Induced homomorphism - Homology
+Multiple Group Representations using Cayley&#39;s Thm
+The Cauchy type integral with a square root singularity in the density function
+Taylor polynomial for an integral
+What does it mean to say a diagram commutes?
+Finding a counter example for $ \left(A+A\right)&#39;\subseteq\left(A&#39;+A\right)\cup\left(A&#39;+A&#39;\right)$
+How many infinite subsets of the Naturals have natural density (asymptotic density) zero?
+multivariable limit of $\frac{x^2-y^2}{\sqrt{x^2+y^2}}$
+behavior of function
+What is the nature and location of maxima of expected log-utility?
+Finite field extensions - $K(\alpha)$
+Nilpotent elements in the quotient ring of a polynomial ring
+A question regarding space-state representation
+Is this condition enough for irreducibility?
+Find the largest $k$ such that $3^k$ divides the product of the first $100$ odd integers
+Fourier transform of a scaled variable
+Why $K = (X_1, X_2, ...)$, the ideal generated by $X_1, X_2, ...$ not finitely generated as a R-module?
+prove that $\forall k\in \mathbb Z$ if $(m,n)=1$(coprimes) then $(k,m,n)=1$
+Expression for $dW$ for a 3D position dependent force $\vec{F}(\vec{r})$.
+Heuristic explanation for oscillatory behavior of first $n$ primes&#39; multiples
+How to define $y= |x+2|+|x-3|$ in a piecewise manner
+Cantor&#39;s Diagonal: Why not a 1-2 Correspondence between the Naturals and Reals?
+How do you rearrange the terms of a lower and upper Darboux sum to yield another inequality?
+Help me find the rule of this number sequence
+The &quot;$GL_2(\mathbb{Z}[1/p])$-part&quot; of an element in $GL_2(\mathbb{Q}_p)$
+problem about p-cycles
+Evaluate this finite product
+Reverse Order of Elements of Image
+What are the permutations of 6 different variables with multiple values?
+asymptotics of the Fourier transform of Daubechies wavelet
+Prove that $2^n\le n!$ for all $n \in \mathbb{N},n\ge4$
+Integral: $\int \frac{dx}{\sqrt{x^{2}-x+1}}$
+Classification of prime ideals of $\mathbb{Z}[X]$
+Proving algebraic equations with circle theorems
+Can someone explain this problem I am having with the proof of the Riesz-Fischer theorem
+Notation issue - Asymptotic behaviour: is $\sim$ too restrictive?
+Integer functions $f_k(n)$ which return {0,1} depending on whether or not $k|n$
+Laplace transform nonlinear equation
+pleaze help linear algebra ( subspace )
+Essential Prime Implicants and Minterm Expressions
+MANOVA (Related to eigenvalues)
+Natural exponential function Origin question
+Given $R \in \mathbb R$, choose $a,b,c$ from discrete set so that $a^{-1} + b^{-1} + c^{-1} \approx R^{-1}$
+Compact subset of an open set
+Solve the initial value problem, $y&#39;-xe^y=2e^y$, $y(0)=0$
+Region bounded (Positive x-axis and y-axis)
+When a real valued function is multiple of the natural logarithm
+Short differential-form free route to understanding a specific surface integral
+Transfinite Induction in Peano Arithmetic
+Non Distinct Eigenvalues
+Probability of forming a committee of seven with 5 men
+How to use a Matrix Pencil to decompose Exponentials
+How to calculate Cartesian coordinates for an element after rotation has been applied?
+is 0 in the following Ideal?
+Trig substitution for integral with no square root?
+$X$ is inner product space then its completion is Hilbert space?
+Binary Integer Programming with one nonlinear constraint
+Generate equation from pattern
+Differential Equations: solve the system
+Consider the differential equation
+Quadratic number field which is Euclidean but not norm Euclidean
+How to linearize the following?
+Why are &quot;algebras&quot; called algebras?
+Roots of biquadratic equation
+Can we calculate this product explicitely?
+A big &quot;smallest&quot; number
+&quot;Restriction&quot; of a Differential Operator on a Vector Bundle to the Space of Local Sections?
+Galois group of $x^4-2$
+diagonazable iff the minimal polynomial splits into pairwise distinct linear factors
+weak lower semi-continuity of high oreder functionals
+Planetary Motion: A comet describe a parabola about the sun
+A necessary and sufficient condition for a surjective map to be closed
+The solution to this problem and its mathematical operations
+Circle construction
+Necessary and sufficient condition for separation of variables to give all solutions.
+Consider the following system of differential equations
+Combination of $k$ vertices from the $n$ vertices of $n$-sided regular polygon
+How to compute perverse sheaves?
+Differentiate polynomials in $\mathbb{Z}_2$
+Natural structure over a set of measurable functions
+i need a matrix in order to calculate g-inverse of it.
+Find remainder when $2^{30}\cdot 3^{20}$ is divided by $7$ without using calculator
+The property of roots of quadratic equation
+Derivative with summation operator
+Solving a SAT algebra question
+How many solutions does this boolean equation system has?
+are calculations in ideals associative?
+Antiderivatives: A car is traveling at $50 mi/h$ when the brakes are fully applied........
+Aperiodicity of Markov chain
+Function Transformations
+how to solve Dirac Equation numerically?
+Parametrization of arbitrary objects to display on an x-y-scope
+Extend ${\bigl(1+\frac1x\bigr)}^{{x}}$ to $\overline{\mathbb R}$
+Expected state of a Markov chain
+Can anyone please help with this integral. Very much appreciated..
+Showing that all possible outcomes are equally likely.
+two way ANOVA and linear regression model.
+Number Theory Primitive Roots Confusion
+Snow White split 3 liters
+Sums of three cubes in arithmetic progression equal to a cube $x^3+(x+y)^3+(x+2y)^3 = z^3$
+prove is sequence an is a monotone decreasing sequence of real numbers and series an converges then Lim nan =0
+Finite field extension over the rationals need only one generator?
+Are PL-homeomorphic manifolds diffeomorphic?
+What does a single-line superscript left arrow mean?
+Eigenvector and eigenvalue of an infinte, symmetrical matrix
+Evaluate the integral by converting to polar coordinate
+Literature request: Method for constructing projective manifolds
+If $z_n \rightarrow 0$, and if $\{c_n\}$ is bounded, then $\{c_n z_n\} \rightarrow 0$
+How to write an equation with a denominator parameter less and greater than 1
+single value computation
+Elementary Fluid Dynamics help!
+Rate of change in the area of a triangle given the rates of change of two sides and their included angle
+Is that possible to calculate Shannon Entropy with a negative value of dataset?
+Formula for the area of the surface obtained by revolving the curve $y = f(x)$ about the line $y = -k$
+How to optimize these parameter
+Non-affinely parametrized geodesics
+Haar&#39;s theorem for the rotation-invariant distribution on the sphere
+Equation that defines multi-dimensional polynomial
+Finding the limit of a sequence with an undesirable $\ln k$
+How to prove that the tangent map $T\phi$ into the pullback bundle is smooth?
+Why Demazure operator is an endomorphism of $\mathbb{Z}[P]$?
+A∩B∩C=∅, then A∩B=∅,A∩C=∅ or B∩C=∅
+Prove $\frac{-5-\sqrt{5}}{2}$ is a quadratic residue when $p\equiv 1\pmod 5$
+Rational Zeros Theorem, get the possible solutions
+Greens function for boundary value problem
+Convergence of series involving the prime numbers
+Can we expect $g(f\ast h)= gf \ast gh$ for some $g\in C_{c}^{\infty}(\mathbb R)$?
+Software for Solving Numerically Fractional Differential Equations
+Confused by partial derivatives
+Coanalytic families of Banach spaces
+Set Notation help?
+Need help with Riemann sum
+Basic Functions: Adding on to every X
+Find $dy/dx$ of $(xy^2)+5 = x + 2y^2$
+Help with an inequality in Cazenave&#39;s book &quot;Semilinear Schrodinger equations&quot;
+Which way to write the transition matrix arrow?
+How to evaluate the length of the perimeter of a low eccentricity ellipse?
+Fermat&#39;s Little Theorem question?
+Formalizing Those Readings of Leibniz Notation that Don&#39;t Appeal to Infinitesimals/Differentials
+Recursively defining sets of strings
+The path of the shock
+Field extension in rational functions
+What are &#39;Regular Products&#39;?
+The average age of a human if the age of the earth were expressed in a 16 hour day
+Primitive roots for composite modulus
+Determine the Taylor expansion for the solution of the differential equation
+Limits and &#39;L&#39;Hopital&#39; in higher dimensions.
+$x^{\frac{2}{3}}$ is not locally lipschitz at $x=0$
+Procedure for plotting domain $|2z+3|\gt 4$
+Can every perfect square exist as the sum or difference of two perfect squares?
+Find the equation of a 4th degree polynomial.
+Variance of a Gaussian Random Variable
+Diagonalization: Eigenvalues Vs Elementary Row Operations
+Does Schatten-p (quasi-)norm satisfy the norm inequality for 0&lt;p&lt;1?
+Dual norm of quasi norms
+Solving 2nd Order ODE w/Laplace Transforms + Heaviside
+How many complete triangulations of the sphere are there in which every vertex has exactly degree five?
+Triangulations of surface.
+Help with double simultaneous equations and roots
+How much does Proof writing improve over the years?
+Finding solutions to a system of equations: $b+c=46_a b\times c=545_a$
+Positive semidefinite matrix proof
+Understanding Asymptotic Notation of a constant
+Request For An Example Of A Continuous Map Relative To The Box Topology On $\mathbb{R}^J$, When $J$ Is Infinite
+About ring $( \frac{F[t]}{t^2})$
+Is sum of all divisors each multiplied by it&#39;s respective totient for a particular number is multiplicative when two numbers are coprime?
+Prove that $\int^2_0 x(8-x^3)^\frac{1}{3}dx=\frac{16\pi}{9\sqrt{3}}$
+Jacobian determinant of unitary transformation
+Finding the partial fraction of $x+21/2(2x+3)(3x-2)$
+Showing a linear combination of matrices is nilpotent for any constants
+Midpoint of side, center of gravity of triangle, ....
+Mixed Strategy Nash Equilibrium of Rock Paper Scissors with 3 players?
+Cantor&#39;s diagonal argument and alternate representations of numbers
+Are clopen sets Borel?
+How to write an &quot;infinity&quot; matrix
+Verify Solution inhomogeneous differential equation.
+Can a number have both a periodic an a non-periodic representation in a non-integer base?
+STATE AND PROVE PRINCIPLE OF SYMMETRY FROM COMPLEX ANALYSIS
+What are the bases $\beta$ such that a number with non-periodic expansion can be approximated with infinitely many numbers with periodic expansion?
+Optimal $A\in \Sigma$ that maximizes an objective
+What does a skew second fundamental form geometrically mean?
+What does the term &quot;undefined&quot; actually mean?
+Why descend from a hill is not measured negative?
+Taylor expansion of $\sin(x)$ and periodicity
+Problem on &quot;Distribution&quot; of conditional expectation w.r.t a sigma field
+When does $f_n(x) = a_n \times (1 - nx)$ converge uniformly?
+How to get an equivalent permutation
+Prob. 2.7-10 in Kreyszig&#39;s Functional Analysis Book: Is my solution good enough for anciliary purposes?
+How local is the exponent in the definition of a function with analytic/algebraic singularities?
+Is this integral function bounded?
+Problem understanding the proof of a limit
+What is the underlying geometry of the space in this advertisement
+Direct proof. Square root function uniformly continuous on $[0, \infty)$ (S.A. pp 119 4.4.8)
+Empirical distribution generates exchangeable $\sigma$-algebra
+Cartesian products with a set of outer measure zero
+Necessary Conditions for Saddle Value point
+$E[R^2]$ by saprcings
+First Order ODE – A skydiver weighing 180 lb falls vertically downward
+Primary Decomposition Theorem applied to projections in $\mathbb{R}^2$
+How to write product as a nested sums
+Compactness in weak topology does not imply sequential compactness
+show that $g(x)= x^n f(\frac 1x) \in \Bbb F[x]. $ where $\Bbb F $ is a field
+I have to show $p=p(x-\lambda)$ if and only if they have the same zeros in $F$
+interval boundaries for covariance of two variables, given their covariance with a third variable
+Complex Analysis: Schwarz&#39;s Lemma
+If every maximal ideal is finitely generated is the ring Noetherian?
+Square surface with four fixed points
+Isomorphism of tensor product involving a principal ideal
+Generators of a subgroup of the modular group
+$\mathbb{R}^3 \setminus A$ deformation retracts onto $S^1 \vee S^2$
+Is it true that an integral domain $R$ is a UFD if and only if intersection of any two principal ideals of $R$ is principal ?
+Asymptotic geodesic on hyperboloid.
+Spectrum of a Weird Graph Laplacian
+If there are Predicates before Predicate Calculus, why is it called such?
+Does normalization of a random vector, destroy uniformity?
+Is the convolution of a function $f(x)$ and a polynomial $p(x)$ always a polynomial?
+Can dx=dy happen when x and y are independent?
+What do $F(-∞, ∞)$ and $C(-∞, ∞)$ stand for?
+Two definitions of Jacobson Radical
+Fredholm integral equation of first kind
+Convergence in normed spaces
+Monograph about periodic representations of numbers in non-integer bases
+Spherical Harmonic Expansion On Non Unit Sphere
+Excerise 12.2 from Ross Elementary Analysis
+What are some interesting properties of $A - 2I$ when the matrix $A= \tiny \begin{pmatrix} 1&amp;*&amp;* \\ 0&amp;2&amp;* \\ 0&amp;0&amp;3\\ \end{pmatrix}$
+product metric on Riemannian manifolds
+Calculate line integral $\frac{-y}{x^2+2y^2}dx +\frac{x}{(x^2+2y^2)}dy$
+Calculating sequence product
+Period of a function?
+Different definitions of differential forms?
+Totient and division
+Number of Ways of Partitioning a Rectangle
+Probability that random walkers meet
+translating one sentence to FOL , an interview question is wrong !?
+Solving equation containing different terms of the form x^x
+Correspondence between line bundles and $U(1)$-bundles: a mistake from the physicists?
+Hyperbola - the average of the angle between the tangent and the line to the focal point
+Proofthat the variance of a discrete random variable increases with a parameter
+Second-countability of spaces with calibre $\aleph_1$ and a point-countable base
+Is zero odd or even?
+Number theory: show that ${ 1^2, 2^2, 3^2,... , m^2}$ cannot be a complete residue system
+Showing multiplicative inverse has the same order $\pmod{p}$?
+calculus optimization help
+Stochastic representation formula
+least mean squares(conditional expectation) problem
+Inequality involving probabilities
+Sum of roots of unity a root of unity
+How to fix any random variable???
+a question about the evaluation of integral
+How to calculate the inversion of a triangular matrix
+Conditional Probability
+Precalculus Roots of Unity
+Proof of Newton&#39;s Binomial Expansion
+series of powers of integer powers
+Does convexity of the distribution function imply convexity of the density function?
+Show This theory is complete with four countable models
+Can someone advice edge contraction tool?
+Ideas for math problem solving class for undergraduate students in university
+Does new matrix also have integral eigen values?
+Find rectangles whose area increases by a factor of 20 when their length and width increases by k
+Finding Domain$(\cos (\sin x))^{1/2}+\arcsin((1+x^2)/(2x))$
+Maximum likelihood estimation (MLE) calculation
+Probability of extinction in branching process
+Checking dependency of variables in a contingency table
+I have to show $p(x-\lambda)$ is an irreducible monic poynomial.
+Notation used for multivariate random variables
+Quadratic Number Fields
+Linear Algebra: Dual Basis Problem
+Weighted Standard Deviation for Histogram Bin Height
+Is division by two an open map in topological groups?
+How show $ S \models \forall x ( \alpha \Leftrightarrow \beta)$?
+Show that for all real numbers $a$ and $b$, $\,\, ab \le (1/2)(a^2+b^2)$
+A polynomial in $g$ approximates every $f$ iff $g$ is injective
+Stabilizers of permutations
+Prove that $\coth ^2(x)-1\equiv \mathrm{cosech}^2 (x)$
+Why is the composition of smooth multivariable functions smooth?
+Summing of digits for large numbers
+How to solve the equation $Au+Bv=C$
+Intersecting family
+Range of Fourier Tranform 0n $L_1(\mathbb{R})$ is dense in $C_0(\mathbb{R})$
+Where can I find an algorithm to compute $\min_{x \in \Delta_n} \langle g , x - y \rangle_1 + c\lvert x - y\rvert_1^2$?
+A complete subset of a metric space is closed?
+Fourier transform of a 3sinc^2(100πt)
+Maximum Principle for a Poisson Equation?
+Express the symmetric difference using only complement and intersect?
+How to express a signal in terms of Riesz bases?
+Showing the polynomials are a basis of $P_2$
+A real analysis proof question (related to sin(1/x))
+Let $U=2X$ and $V=-3Y$. Find Correlation (U,V) given Correlation $(X,Y)=0.8$.
+When lower limit of integration is a function of the variable of differentiation while the upper limit is positive infinity
+Integral of a square compared to the square of an integral
+Are all mathematicians human calculators?
+Curve Orientation on a Surface
+If 3 people throw 3 balls $B_1,B_2,B_3$ and rank their distances (normally distributed), what is the chance that $B_2$ went the furthest?
+Literature about Ultrafilters
+Finding the sum of many square root values (greatest integer function)?
+Differentiability of CDF
+Find volume bounded by curve $x=\sqrt {25-y^2}$, and the line $x=3$, rotated about the $y$-axis
+How many ways to arrange books on a bookshelf?
+Prove that these result are the same
+If $N_1, N_2, \dots, N_n$ are distinct unique Sylow subgroups, how do we know $N_i \cap (N_1N_2 \cdots N_{i-1}N_{i+1} \cdots N_n)=\{1\}$?
+Evaluate nested summation of a function
+Identity in Ramanujan style
+Finding tangent&#39;s equation that touchs parabola at $(4, 4)$
+Why does the integral of absolute value function not return actual area?
+ODE arising in physics
+A weak* dense subset intersected with norm ball contains no ball
+Prove that$ f(x)=\ln(x)$, where $ x&gt;0$ is of exponential order.
+If $A$ is connected , $B$ is open and closed and $A \cap B$ is non empty then $A \subset B$.
+Question about a solution of a system of three non linear equations in three unknowns
+How to prove / disprove these conditional probability statements?
+PDF &amp; values of a random variable
+The proof of the Plancherel Theorem
+Is the nth root of a product of n terms used in place of the average anywhere?
+unknown permutation
+Doubt in paper about comparison of spreadsheets
+A curve has infinitely many points
+How I can to solve this Partial Differential Equation?
+every category is equivalent to its universal cover
+What&#39;s the relationship between continuity property of Lebesgue measure and continuity on a metric space?
+How to find a basis for this subspace
+Show that $2^{105} + 3^{105}$ is divisible by $7$
+If $\left&lt;3\right&gt; \cong \mathbb Z_2$ and $\left&lt;2\right&gt; \cong \mathbb Z_3$, why isn&#39;t $\left&lt;3\right&gt;\left&lt;2\right&gt; \cong \mathbb Z_2\mathbb Z_3$
+Find the complex velocity potential of a vortex in the presence of a circuar cylinder
+Fourier Series of $f(x) = x + |x|$
+Are $(\mathbb{R} - 0, \times)$ and $(\mathbb{R}, +)$ the same group? What is its name?
+Inherent Pitfall of Lebesgue Integration?
+planetary motion: Particle describes an ellipse as a central orbit about a focus
+Drawing 3D level sets/curves
+Integrate the following using property of definite integrals from limits $\,\,\pi/2$ to $0$
+Is the support of the Gaussian finite or infinite?
+Prove every strongly connected tournament has a cycle of length k for k = 3, 4, … n where n is the number of vertices.
+Approximation of monthly payment using Taylor expansion
+The support of a the sum of random independent variables
+Subvarieties and finding ideals
+Example of weakly separated function
+Basic algebra/fractions: derivation
+exact roots of $e^{ax}-x=0$
+Question in vector algebra regarding minimum value of modulus.
+How to solve this determinant problem?
+Annihilating Ideal of a Ring
+How can I reduce the occurrence of algebra mistakes in my solutions?
+If $\int_t ^{t+1}f=1$, then showing $f(x+1)=f(x)$
+Degree of minimal polynomial over $\mathbb{Z}_7$
+prove there is no tournament with 4 vertices and 4 kings
+Show that if $P = NP$, then deciding whether a boolean formula is minimal is in $P$.
+Proving that the algebraic multiplicity of an eigenvalue $\lambda$ is equal to $\dim(\text{null}(T-\lambda I)^{\dim V})$
+probability question regarding coin flips
+Prove that $\mathbb{Q}(r+s\sqrt{t})=\mathbb{Q}(\sqrt{t})$.
+Sets of 5 numbers where Mean = Median = Mode = Range = Single digit number.
+How do I evaluate these undefined limits?
+How to prove a function is periodic?
+Prove a lower bound for $a/b+b/c+c/a$
+Showing a set is not norm bounded
+Reduction from Hamilton Path to Hamilton Cycle
+$|G| = 1155$, $N \lhd G$, $|N| = 55$, $K \leq G$, $|K|=35$. $|&lt;N,K&gt;|$ and $|N \cap K|$?
+Decomposing an undirected graph into trails
+Number of pairs of integers $(a,b)$ with $a^2+b^2=n$ for a constant $n$
+Show that a point $ a \in X$ is not a cluster point of $X$ if $a$ is isolated.
+Looking for resources on &quot;Weierstrass Existence Theorem&quot;
+Integral using complex numbers shortcut
+Every topological space in the continuous image of a metric space
+systems of equations with 9 equations and 5 unknowns
+Prove a matrix is Hermitian, if its eigenvalues are real and satisfy an orthogonality relation
+Real Roots of Complex Variable Equations
+Relationship between ellipsoid radii and eigenvalues
+Mass conservation
+Non-convex function with global minimum
+Prove that intersection of diagonals in trapezium divide parallel segment to equal segments
+Do indiscernibles imply additional non-stardard models?
+Zero Homogeneous Polynomials
+When does a matrix has a Cyclic Decomposition and when a Rational Form?
+Denesting radicals like $\sqrt[3]{\sqrt[3]{2} - 1}$
+Completing the square in the form $(Ax + B)^2 + C$
+Calculate the area between functions
+Use the ANOVA procedures to find the test hypothesis
+Idempotents in Banach algebra and closed linear span of resolvents
+very simple trig question.
+$k^2 e^{ikx} \rightharpoonup 0$ in the Sense of Distributions
+Find a lambda-expressions F, K such that for all M, FM = F and KM = MK
+Finding the Laplace Transform Inverse
+Trying to figure out a formula with given input and outputs.
+Example of a function $f$ on $X$ to $\mathbb{R}$ which is not $X$-measurable but $|f|$, and $f^2$ are measurable.
+Show DLO + $\{ \phi : \phi = c_o &lt; c_1 &lt; \ldots \}$ has three models up to isomorphism
+Proving $(a_1,b_1)\times (a_2,b_2)\times\cdots\times(a_n,b_n)$ is open in $\mathbb{R}^n$.
+Just wundering about votes + stuf
+Inequality with Laplacian
+Does this have a name?
+Taylor series expansion approximating an integral?
+Having trouble setting up the limits of integration.
+How to interpret combination and permutation problems?
+Analytical challenge - solve how 100 people can all meet among each other!
+what is the relationship between a circle and a square?
+Is the union of two projective curves in the projective plane a projective curve?
+Internal Direct Product
+Does Continuity in Weak Operator Topology imply Continuity in Strong Operator Topology?
+Which statement is NOT true?
+Completion of a sequence space
+Asymptotic series of Confluent Hypergeometric function $U(a,1,z) $ as $z \to 0$
+All the zeroes of analytic $f$ in $A$ are isolated, or $f \equiv 0$ on $A$.
+Vector vs Parametric
+How to solve power series for terms and convergence?
+(Maple) Finding the number of terms of the 2014th Term of Fibonacci Sequence
+Fractional Sobolev spaces on closed manifolds
+Book recommendation for Abstract Algebra
+Solving Nested Radical
+Let $ X = $ R and let $ \mathfrak T $ $= \{U \subseteq X : 2 \notin U \; or \; U = \emptyset\} $ Closed sets?
+Modulus Syntax in congruences
+Determining the UMVUE for a discrete scaled uniform sample.
+When is a group isomorphic to a proper subgroup of itself?
+Inner product is jointly continuous
+(Maple) Solving Differential Equation with Maple
+Find determinant value
+Show $x - \sin(x) &lt;\frac{x^3}{6}$ if $x&gt;0$
+Probability density function for distance between two points.
+Harmonic oscillator differential equations
+Converse of Borel-Lebesgue in $\mathbb R^n$
+Two-state Markov Chains
+Question about contraction mapping (an easy example)
+Prove that a compact metric space is complete.
+Determine the intervals of increasing and decreasing behavior, extreme, and boundedness of the given function
+Finding non-zero elements of a Ring, a and c, with ab=c
+Prove that in a quadrilateral, the lines joining the midpoints of the opposite sides and the midpoints of the diagonals are concurrent
+Checkerboard Expected Value Question
+Show the series $e^{-\cos n}$ diverges.
+An example of a group with $1+np$ Sylow $p$-subgroups
+Chern class of complex vector bundles
+Prove that if $f$ is Riemann integrable on $[0,1]$, then $f$ is measurable and it equals to Lebesgue integral.
+How do I find a partition of an equivalence relation?
+Maximum likeliood estimation of variances of transformed variables
+Diophantine Equations with Factor Exponents
+How to draw heart shape using Maple
+Using Banach Contraction Principle to prove existence of PDE solution
+Coordinate - Resizing and Positioning
+How would I prove the following convergence?
+Symmetric Group and Alternating Subgroup
+Tensor norm for matrix algebra over an $L^p$ operator algebra
+Integral involving stokes theorem, really need help!
+Notions of consistency / heterogeneity in sets of vector values
+Are there Latin squares with no repeats on the diagonal not of the form 2y+x+1(mod n)?
+Proof of sum-free set in $\mathbb{Z}_p$
+Prove that the set $[0,1)$ is a closed set in the half-open interval topology of $\mathbb{R}$.
+Find a recurrence relation and initial values for W(n), the number of words of length n from alphabet {a,b,c} with no adjacent a&#39;s.
+When do the paths of two dispersive waves cross?
+Complex values of the cube root
+How do you solve for p
+Residue class field of coordinate ring
+Locality of Borel measure
+Why Poisson is same at lambda and lambda - 1
+Solving the congruence $2x^3 - 3x^2 + 1 \equiv 0 \pmod{49}$
+Where is the flaw in this argument of a proof that 1=2? (Derivative of repeated addition)
+Albert, Bernard and Cheryl popular question (Please comment on my theory)
+Simplification of powers
+Area of rhombus and interior isosceles triangles
+perfect coin is tossed n times. Let Sn denotes the number of heads obtained. What is the expectation of Sn?
+Finding the exact value of arctan function then adding it?
+Cross Power Spectral Density from Individual Power Spectral Densities
+Numerical integration to find mean arterial pressure, as used in cardiovascular physiology
+Resistors to be used in a circuit have average resistance 200 ohms and standard deviation 10 ohms...
+the Galois closure of $\mathbb{F}_4(x,y) / \mathbb{F}_4(x)$
+Are the integrals of the following function path independent in the following domain?
+Bianchi Identity - Gauge Theory
+Proving that the integral of one function is equal to the integral of another
+finding eigenvalues and eigenspaces of a linear operator
+Find the population mean and standard deviation
+Jacobian of an error function containing state space vector (for linearization)
+Differential forms - looking for 3 definitions!
+What are the zeros of the j-function?
+Mean residual lifetime divided by odds of survival?
+System of two ODE
+Degree of field extension $F(x) / F(x^2 + 1 / x^2)$
+The Poisson Integral is harmonic
+Interpreting and understanding the identity $e^{iz} = \cos(z) \pm \sqrt{\cos^2(z) - 1}$
+Move the last two digits in front to multiply by $6$
+Internal Direct Product Sums
+Squeeze Theorem for Factorials
+What are monomorphisms in the category of real vector bundles over a fixed base space $X$?
+Finding a solution to a PDE
+Pole of elliptic function
+Find all prime numbers of the form $n^2 + 4n$
+Bounds for spectrum of self-adjoint operator on Hilbert space
+Multivariate Optimization
+Writing numbers as a sum of 2s and 3s
+Fast generation of Pareto-distributed randoms.
+Is this an Integral Domain?
+Why isn&#39;t $\mathbb Z_9 \cong \mathbb Z_3 \times \mathbb Z_3$ by the fundamental theorem of finite abelian groups?
+Proving that a function is integrable if and only if it is right continuous at $0$
+Fraction Transforms
+A mathmatical question about Wolfram Alpha&#39;s loading graphic
+A small doubt in group rings.
+Evaluation of non-solvable/solvable x(?)
+Calculating $f&#39;(x)$ while $f(x)=$ $\int_{0}^{x^2-3x} (2 + \sin t^2)\,dt$.
+Let $R$ be a PID. Prove that $\exists c \in R$ such that $c\mid a, c\mid b$ and $c = ax + by$.
+Riemann-Stieltjes Integrability and Convergent Series
+Continuous function crosses the boundary?
+Solving Complex Eigenvalues
+Rate of change of a multivariable equation w/ respect to another equation
+Degree of extension fields
+Using Complex Analysis to Compute $\int_0 ^\infty \frac{dx}{x^{1/2}(x^2+1)}$
+Cross Product and Scalar Product proof
+Picard Theorem for Locally Lipschitz functions
+Group $G$ acts on set $Ω$. $|G| = 30$, $Ω$ has size 3.
+Firm has complaints, probability
+This one weird thing that bugs me about summation and the like
+Combinatorics : Sum of multinomials
+fair distribution of table tennis players in roster
+Is trace of regular representation in Lie group a delta function?
+Is it necessary to read point set topology to read differential geometry?
+Cantor-like subset on a set of positive measure
+Global extremes and continuity of multivariable function
+Discrete Fourier Series Transformations
+Dot Product Question
+What does inversion mean?
+Different module on same set
+Hint on how to proof that $x^2$ is convex
+In the card came &quot;Projective Set&quot;, show that 7 cards do always contain a set.
+Probability of taking a random sample of 24 measurements and getting a mean of at least 103.6 of true population
+Convex optimization problem: linear equality and inequality constraints
+Is there a field k, not necessarily algebraically closed, for which variety V(y) in k^2 is reducible?
+Increasing and Decreasing function - calculus
+Variance of a MLE $\sigma^2$ estimator; how to calculate
+What is the best Shafarevich&#39;s algebraic geometry book for beginners?
+How to calculate $f&#39;(0)$ and $f&#39;$ $(\sqrt{2})$ while $f(x)$= $\int_{x}^{x^3} e^{t^{2}}dt\ $?
+Integral&#39;s Closed-form expression in terms of hypergeometric function
+Proving a result using Riemann-Stieltjes integration
+Prove or disprove: There exists a prime p &gt; 3 such that p + 2 and p + 4 are also prime
+When does &quot;successive substitution&quot; not work?
+Puzzles in a proof
+A matrix $Q$ has orthonormal columns, but $QQ^T \neq I$
+Probability of circle inside square
+Evaluation of Spence&#39;s function.
+Norm closed subspace, and weak* dense
+Various Intersections of Sylow p-subgroups.
+how to find a dimension of cuboid if we are given only volume and surface area of cuboid???
+Calculate $\int_\Gamma \frac{2z+i}{z^2(z^2+4)}$ with residue theory. Where $\Gamma:|z-3i|=4$ is positively oriented circle.
+Where is my formula false??
+RH would follow from $\displaystyle \frac{p_{n+1}}{p_{n+1}-1}&lt;\frac{\log\log N_{n+1}}{\log\log N_n} $ for all $n&gt;1$; what is my mistake?
+Proof by Elements to Show $D^{c} ⊆ A^{c}$
+Binary strings and recurrence relations
+how to draw geodesic on the ellipsoid?
+Torus-like Riemann surface for a genus 1 Cassini oval
+Solving RSA cipher without calculator
+Finite fundamental group and covering spaces
+Nonlinear second-order ODE $yy&#39;&#39; - (y&#39;)^{2} = y^4$
+Cauchy inequality
+Finite-dimensional unitary representations of $SL_n(\mathbb{R})$
+Stoppage time for sequence of uniform random numbers with a recursively shrinking domain
+Consider the ring homomorphism $ϕ : \mathbb{R}[x] → \mathbb{R}[\sqrt{−3}]$ defined by $ϕ(x) = \sqrt{−3}$.
+Using Partial Fraction Decomposition to acquire appropriate form for GCIF
+Writing a series of polynomial equations of certain degree from a sequence of binary bits using Magma
+There exists a unit vector in a normed vector space such that the corresponding norm in a quotient space is within $\epsilon$ of 1
+is that true or false and justify the answer
+algebraically closed field in a division ring?
+Substitution in complex integration
+Possible solutions of a diophantine equation:$p^2+pq+275p+10q=2008$
+$a^2+ab+b^2 \equiv 0 \pmod n$ if and only if $ a\equiv b\equiv 0 \pmod n$
+Proof that if $a &gt; 0$, then $\frac{1}{a} &gt; 0$ using just field and order axioms
+Selfadjoint Operators: Relative Boundedness
+N2 diffusion through a vertical fluid column
+integral- center of mass of a right angled triangle
+Proving relations between kernels and images of a Group G
+Complex euclidean tensor products
+How to choose an inner product with respect to a basis in such a way that this basis is orthogonal
+Direct sum of range(B) and kernel(B*)
+Hypergeometric probability question for Magic the Gathering (a card game)
+How to compute $\frac{t^2}{t+1}$ to the form $\frac{1}{t+1} +t -1$
+Morley Rank of Conjunction
+Linear Function Transformations
+Jet prolongation and affine bundle.
+Selfadjoint Operators: Empty Spectrum
+Find the expected value ${\mathbb E}(x_k)$
+Parabolic points and curvature.
+Construct holomorphic function from harmonic function
+Is a group of order of a power of p a p-group?
+Derivatives of $f$ doesn&#39;t match accordingly to the Cauchy-Riemann equations?
+Find all polynomials such that $P(A)\subset U$ for a countable subset of the unit circle $U$
+Highschool Geometry: Finding Common Tangent
+Further from Cauchy inequality
+How to show this equality holds?
+Question about uniformly most powerful test for obscure pdf
+Random DFS properties
+Eigenfunctions of hyperbolic Laplace–Beltrami operator
+Differentiability of CDF at 0
+Related Rate- cost revenue and profit. need help solving
+Maximum likelihood estimate of intersection point of multiple lines
+quotient ring question
+Counterexample to Fraiss&#233;&#39;s Theorem for infinite signature
+the sum of powers of $2$ between $2^0$ and $2^n$
+Why $ M\models \forall x ( \alpha \to \beta)$ Is False?
+I&#39;ve been told that writing $x\equiv a,b,c \pmod d$ is abuse of notation, is it really?
+Elements of order three in $GL_3(2)$
+Algorithm design for enumerating pairs of noncommuting elements up to conjugacy
+Corollary to Maschke&#39;s Theorem.
+how to prove that the proof by induction is true using the rules of inference?
+Finding density and distribution functions
+Height of a pyramid
+$\epsilon-\delta$ proof of a limit of a function $z(x,y)$
+Notation for a statistic, or function of a random variable
+Verifying Stokes&#39; Theorem on two intersecting cylinders
+Is there a name for this modified newton&#39;s method?
+Is there any closed form for the following series?
+Snell envelope and optimal stopping time
+Inviting 4 friends out of 8 for a week such that each friend visits at least once
+Find a linear operator
+Fundamental group of infinitely many glued copies of a space
+Find basis for kernel and matrix representation
+Consider $\phi: G \to S_4\times D_{15}$ a homomorphism and onto
+Probability distribution of request handling
+Vector dimensionality inference
+Calculate $\int_\Gamma ze^{z}dz$ where $\Gamma$ is line from point $z_1=0$ to point $z_2=\frac{\pi i}{2}$
+Flux integral through elliptic cylinder
+Question about this equation
+SVD and transpose of a skinny matrix
+An identity involving the Chebyshev polynomials
+Self adjoint operator and vertex conditions in quantum graphs
+Relations and Equivalence Sequences
+The Null Subset of a Given Defined Set
+Questions on the formula for 2x2 inverse
+Investigate continuity of $\frac{x-y}{x^3-y}$
+Artin conductor of a character and factorisation through $(\mathbb{Z} / N\mathbb{Z})^{*}$
+For a primitive Pythagorean triple $(a, b, c)$, is it always true that $\gcd(a,b) = \gcd(b,c) = \gcd(a,c) = 1$?
+Achieving the Cramer Rao Lower Bound (CRLB)
+algebraic equation with trace
+Is $f(x) = \ln (x^2 + 1) $uniformly continuous?
+Suppose that $F&#39;(x)\leq G&#39;(x)$ for all $x \in \mathbb{R}$. Then $F(x)\leq G(x)$ for all $x \in \mathbb{R}$.
+Equivalence of the Sup/Inf Definition of the Integral
+Can anybody help me deducing this argument without using RAA and CP?
+laurent series expansion problem 1
+expectation of matrices with random components
+Reference Request for Complex Analysis (with some specificity regarding Ahlfors and Cartan)
+Approximation of a continuous function by the polynomial of a continuous function
+Problem with tracing computation from Turing Machine
+Write an expression for Pr[|X&#175;N | &gt; t] in terms of &#181;, σ2 , and Φ(&#183;), given random sample of observations?
+Is there a relationship between trigonometric functions and their &quot;co&quot; functions?
+Transitive Relations
+$f(x) \to 0$ faster than $x \to \infty \implies f&#39;(x) \to 0$ faster than $x \to \infty$ too?
+How find the postive $m,n$,such $a^n\equiv 1\pmod m$
+evaluate $\int \frac{\tan x}{x^2+1}\:dx$
+What is Phase congruency?
+Mutual Information Gaussian
+Evaluate the following series using elementary methods.
+Finding degree of minimal polynomial of $a$ over $F$
+Confused about integration over zeroes.
+Write down basis for the set of all polynomials $f(x)$ of degree at most 5 such that $f(2) = 0$.
+$\mathbb{R}\mathbb{P}^{2}\cong\frac{\mathbb{S}^{2}}{\sim}$
+Find two matrices P,Q such that PAQ is in normal form?
+multivariable limit of $\frac{x^2y^2}{x^2y^2+(x-y)^2}$
+The Jacobson radical under maps
+Related Rates - volume
+Finding equation of tangent to the curve perpendicular to the line
+General Topology, Bounded set related to point of accumulation
+Congruence mod $p$
+lines through a point of the projective plane
+example of not surjective isometry on a bounded not closed set.
+permutation test for one-way ANOVA?
+Evaluate the indicated trigonometric function
+Statistics Question
+Compute maximum R-squared of time series
+About the construction of Quot-Schemes
+Related Rate- cost revenue and profit
+Implications of a Gronwall-type inequality
+Can We Say &#39;There Exists an Element&#39; Without saying &#39;This One&#39;?
+Finding the interval of convergence of $\sum^{\infty}_{n=0}\frac{(2n)!}{(n!)^2}x^n$
+Is an affine transformation s graph always a plane (or hyperplane)?
+Polynomial Division for crc
+Graph Theory: small-worldness
+Range of function $y=(e^x-e^{-x})/(e^x+e^{-x})$
+maths permutation help
+Two parallel lines with non-integer points identified: Is it a $T_1$ space?
+Find the hyperbolic distance in the upper hyperbolic plane
+Do equations that rely on a fractional number of variables exist?
+$\int_{0}^{\infty} \frac{\cos x - e^{-x^2}}{x} \ dx$ Evaluate Integral
+Are these recursive sequences convergent?
+Find the matrix $A$
+How do you describe the sample space of a lottery (49 balls, 6 draws without replacement)?
+Two dice roll questions related to rolling a Yahtzee
+How to find the derivative of $(e^{-t} +e^t)^3$
+Some maximization over stochastic matrix
+Eigenvalues of transition matrix of a random walk on a line
+What is infinity in complex plane and what are operation with infinity extended to complex numbers?
+tail event of a symmetric random walk
+Subspace of $L(V)$
+Recovering knot crossing orientations from a Gauss code or Dowker notation
+Construct an explicit bijection $f:[0,1] \to (0,1]$, where $[0,1]$ is the closed interval in $\mathbb R$ and $(0,1]$ is half open.
+Given an integral equation, integrate the function.
+Recommendations for textbooks covering these parts of mathematics?
+A closed subset of a locally connected space is locally connected?
+A straight line L with negative slope passes through the point (8,2) and cuts the positive coordinate...
+The domain of $f(x)=\left(\Bigl\lvert\bigl\lfloor |x|-1\bigr\rfloor\Bigr\rvert-5\right)^{-1/2}$
+principal ideal notation
+Related Rates (part2) y=\sqrtx
+How to prove this inequality? $(a+b+c=1)$
+Series Expansion from Polynomial w/ Coefficients
+simplifiying an expression $(n + 1)! − 1 + (n + 1) \cdot (n + 1)!$
+$\mathbb{F}_4(x,y) / \mathbb{F}_4(x)$ is a Galois extension, with $\mathbb{F}_4(x,y)$ a function field of an algebraic curve
+Sentences, Formal Grammars with derivation (parse) trees
+What are endomorphism, automorphism of an operator algebra (or C*-algebra)?
+Conservation of norms by the 2-d euler vorticity equation
+Square root&#39;s inequality
+Free product of infinite many groups is not finitely generated?
+If $|\det(A+zB)|=1$ for any $z\in \mathbb{C}$ such that $|z|=1$, then $A^n=O_n$.
+eigenvectors for hypercube graphs
+Degree of an extension of $ \mathbb{Q} $
+True or false question about polynomial ring
+Please help me to solve this analysis problem.
+What is the probability of two people telling the truth?
+Compute the derivative of the log of the determinant of A with respect to A
+How to efficiently calculate $ax+b$ once I know $a$ and $b$?
+Number of escalator steps we can see
+Rotation group of $20$ degrees
+Sequences that contain subsequence $1,2,3$
+Question about relationships between images and kernels of a group
+Lagrange multipliers in Calculus of Variations
+Constructing functions with Given Hessian
+Addition and subtraction error
+Help me understand Gr&#246;bner basis result please
+Erdős Prime Sieve Conjecture
+Prime ideals lying above in $\mathbb{Q}(\sqrt{-5})$
+Are all normal numbers transcendental?
+Eigenvectors belonging to different eigenvalues are linearly indepenent. Problem with proof.
+Confidence interval for Uniform($\theta$, $\theta + a$)
+How to get derivative of this matrix function?
+Demonstrate uniform continuous distribution using tangible items?
+Prove that $B \in \Lambda_\text{loc}^2 $ if $B=(B_t)_{t \in \mathbb{R_+}}$ is a real valued B.M
+The minimum degree of G(n,p) with p=(1+o(1))ln(n)/n
+Related Rates problem, xy=4
+elementary substructure in a satureted model
+finding kernel and image for homomorphism
+Clarification about the Computation of the Homology of the Connected Sum in degree $n-1$.
+Typos is a book. Probability
+Show that the set, $S = \{x ∈ [0, 1] | f(x) = 0\}$ , contains a finite number of elements.
+Why does |A1|=18 and |A2|=6 in this rolling a die random variables question?
+A question on the continuity of a functional
+Factorization in modular arithmetic
+A problem on probability concerning distributions of particles
+Picard theorem for functions which are locally lipschitz
+Proving these are logically equivalent?
+About characterization of atomistic posets
+Simple Residue calculation
+Illegitmate inference in solving a linear equation (which one?)
+Concerning series of positive real numbers whose terms are decreasing and tending to $0$
+Normal matrix is diagonalizable
+Weak convergence of an integral of an exponential of a Wiener process
+Explain the following summation
+Does a correlation of 1 or -1 imply a linear dependence? If not, please give an example
+Integrating a rational function.
+Finding solution to this stochastic differential equation
+Translation matrix in spherical coordinates system
+Condition on Inequalities
+Huge Triple Integral
+can anyone help me in my homework in algebra
+Is there a metric proof for the Caristi theorem?
+$y=3^{\cos(x)}$ how to graph this goniometric function
+Let R = Z[ √ −7] = {a + b √ −7 | a, b ∈ Z}
+Why is $P(A\mid B)=\sum_{i=1}^n P(AB_i\mid B)$?
+Generalized wave equation
+formulating lpp
+Simple inequality with exponential
+prove that there is a function $g:\mathbb R\rightarrow \mathbb R$ such that $\forall {x,y}\in \mathbb R^2\space ;\space f(x,y)=g(x+cy)$.
+Calculus Questions on Fibonacci and Length of Curve
+Combinatorics - Contest Problem. Seeking a mathematical enhancement of my solution.
+If $\dim V = n$ and $S$ is a linearly independent set in $V$, then $S$ is a basis for $V$, True or False?
+How to convex problem with multiple constraints? $\underset{\mathbf{A}}{\text{minimize }} \|\mathbf{A}\|_F^2$
+How to get the graph for $y= \log_{1/a} (x)$ from $y= \log_a (x)$?
+Looking for an ODE problem involving a tower and structural vibration
+definition of a fiberwise homotopy
+Trying to Find Bounds on a Trig Function
+Prove that if a set H has only one limit point, then it is countable.
+Prove that the limit of $\lim\limits_{x \to 4}{\frac{\sqrt{x}-2}{x-4}} = \frac{1}{4}$
+Counterexamples in Real Analysis
+Solve $x + y + t \le 10$
+How to find one side of a rectangle, if I have other side and slope
+System of equations with radicals
+Approximate unit for an ideal and its limit
+Complexity of given recurrence
+convert riemann sum $\lim_{n\to\infty}\sum_{i=1}^{n} \frac{15 \cdot \frac{3 i}{n} - 24}{n}$ to integral notation
+Continuous Annuity Question
+A problem of Ramanujan&#39;s interest: closed form of $1 + 2\sum_{n=1}^{\infty} \frac{\cosh(n\theta)}{\cosh(n\pi)} $
+Can you always cover a circle in a finite number of steps with this &quot;radar&quot; algorithm?
+References request on characteristic class
+Limit of f(x) knowing limit of f(x)/x
+Frenet frame and tangent space.
+Determining Equation Based on Number Set
+$H_\infty$ norm of a transfer function by Matlab
+Eigenvalues and eigenvectors of an integral operator
+Showing an uncountable set is equivalent to the positive set of integers
+Area of rectangle.
+Laplace Equation on the Corners and Boundary of a Rectangle?
+Determinant of a block lower triangular matrix
+Injectivity of $T:C[0,1]\rightarrow C[0,1]$ where $T(x)(t):=\int_0^t x(s)ds $
+Fourier transforms of the Heavyside function and the absolute value function
+Adjoint of a 3x4 matrix
+Alternative proof about the order of the alternating group?
+Method for finding a arbitrage opportunity when market price of call is incorrect
+combinatorics - pigeonhole principle - 2
+Determine whether the solutions are stable or unstable.
+Calculate Exact Value of $\sin\theta, \cos\theta$ and $\tan\theta$
+Vector Subspace involving polynomials
+Reference to line parametrization
+Every set with more than point admits a permutation with no fixed point and the Axiom of Choice
+How do I prove that $Z[w]/(a)\cong Z_{N(a)}$?
+limit with $\arctan$
+Eularian graph, prooving certain properties.
+Taylor series expansion of the function $f(x)=x \arctan x-0.5 \log(1+x^2)$ about the origin int the region {$|x|\le1$}
+Baby Rudin Theorem 9.17
+A difficult integral (expectation of the function of a random variable)
+If $\triangle ABC\;,\frac{a}{b}=2+\sqrt{3}$ and $\angle C=60^0,$ Then find ordered pairs $\left(\angle A,\angle B\right)$
+How I can solve this exercice?
+Generate duplicate element from a matrix by formula $b(i:j)=A(i:j,:) \times A^{-1} \times b$
+Showing that an operator is the projection
+Solving a Diophantine Equation of the form $N(N-1) = 2X(X-1)$ for $N, X &gt; 0$
+How can I factorize this quadratic expression
+Openness/closedness of the set of all $x \in [0,1]$ having a decimal expansion using only the digits $0,1,9$
+Quadratic Polynomial factorization
+For any given value x, are there uncountably many (countably infinite) binary sequences (ones and zeroes) whose limiting relative frequency is x
+If $|r|&lt;1$,$k\in\mathbb{N}$ and $x_n=r^n$ then $n^k\cdot x_n\to 0$
+explain limit computing result
+Splitting a number to a sum of perfect powers
+A result on closed neighbourhood finite coverings
+Prove that any non-abelian group of order $10$ is isomorphic to $D_5$
+Arbitrarily large arithmetic progressions only with perfect powers?
+Concave and convex functions
+Is this of any real importance to the mathematical scientific community?
+Conjugacy classes of the group $G=\langle a,b\mid a^6=1,b^2=a^3,bab^{-1}=a^{-1} \rangle$
+Linear Algebra and Graph theory
+Finding a positive definite function to apply Lyapunov&#39;s Stability Theorem
+Find density functions from bivariate gaussian random variable.
+Polynomials mod prime $p$
+Intersection of cube and sphere surface area and volume
+Property of free submodules for a module over a PID
+What resources are necessary for IMC (International Mathematical Competition among Undergraduate Students)?
+Using the first isomorphism theorem, find a quotient ring of $R[x]$ which is isomorphic to $R[\sqrt{−3}]$
+What&#39;s the limit of the following one
+checking optimality using complementary slackness
+Convert non-linear equation into linear form i.e. (Y=mX+c)
+Does there exist non-compact metric space $X$ such that , any continuous function from $X$ to any Hausdorff space is a closed map ?
+Linear Programming: Three variable graphical solution
+Number of ways to ride from one city to another
+How to limits $\lim_{n\to\infty}\left(\sqrt{n\cos^4{n}}+\sqrt{(n+1)\sin^4{n}}-\sqrt{n+2}\right)$
+Euclidean Algorithm Question
+What is the length of a sine wave from $0$ to $2\pi$?
+How will inverse of A will be affected if
+Books to learn physics, being a math major
+How to find average walking time per day
+about statistics
+Consider the equation: $x&#39; = f(t,x)$. Prove that there is a two-way correspondence between the initial and the limits of the solutions.
+Jordan normal form theorem proof question
+Jordan normal form theorem - a question about the proof I&#39;ve found
+Jordan normal form
+Jordan normal form proof
+Normal Cone of a Convex Set
+$3 \times 3$ matrices are similar if and only if they have the same characteristic and minimal polynomial
+Show that two ideals are equal
+Gyroscopic rotation.
+Algebra -Finding value of X
+Given an odd $x$ there is an $m,n$ such that $2^n + 1 = 3^m x$?
+Convergence of vectors
+Prove $f_n\to f$ on $[a,b]\implies \int_a^b|f_n-f|\to 0$
+If $F$ is continuous and $\lim_{\left\|x\right\|\to\infty}F(x)=\infty$, then all niveau sets $\left\{x:F(x)\le\alpha\right\}$ are compact
+describe the ring $R=M_2(\Bbb F)$, where $\Bbb F$ is a field
+How to diagonalise this pentadiagonal pseudo-Toeplitz matrix?
+Can we choose $g$ so that $\|(g\widehat{(f^{3})})^{\vee}\|_{L^{p}} \leq C \|g_{1}f\|_{L^{2}}^{r} \|(g_{2}\hat{f})^{\vee}\|_{L^{s}}$?
+Theoretical computer science text for high-school student
+density function, distribution function, continuous random variable
+In the card game &quot;Projective Set&quot;: Compute the probability that $n$ cards contain a set
+Partial derivation of three variables with respect to four variables
+ODE and time: Short-hand notation?
+$\sigma$-algebra of events invariant under permutations
+Why is $\arctan(x)=x-x^3/3+x^5/5-x^7/7+\dots$?
+What is a &quot;natural group action&quot;?
+What is the necessary sufficient condition for being projector operators?
+Regular expression. Proof.
+Prove independent increments
+The Poincar&#233; dual of a space-time curve
+Transformation of graphs
+Orbits of mapping class group on four-punctured sphere
+Algebraic extensions help?
+Clarification: Suppose that $(v_1, \ldots ,v_n)$ is a basis of $V$ and $(w_1, \ldots ,w_n)$ is the basis of $W$ ...
+If there is an injection $f: X \to Y$ with $m=n$ then $f$ is a bijection.
+different types of number series and their uses in real life
+How many natural numbers less than $10^{2015}$ have their digits in non-decreasing order?
+Integer solutions to $\prod\limits_{i=1}^{n}x_i=\sum\limits_{i=1}^{n}x_i^2$
+Definition of an Elementary Number
+Showing a companion matrix is normal
+The derivative $\frac{d}{dx}\bigg(\int_{a}^{x}f(x) \text{ }dx \bigg)$
+If sup A &lt; sup B, there exists an element b ∈ B that&#39;s an upper bound for A. (S.A. pp 18 q1.3.8)
+Find where 2 triangles intersect in 3d
+Is the following a Wiener process?
+Continuous onto Map from semi open interval to open interval
+Determine if it&#39;s a tree and find K
+Relationship between Factorial and Binomial coefficients
+Lifting adjunctions
+Suppose $\dim V=n$, $\dim W =m$, and $T\in L(V,W$)...
+How to calculate the errors of single and double precision
+Multivariable limit $\lim_{(x,y)\to(0,0)} (x^2+y^2)^{x^2y^2}$
+Strict ceiling and floor notation
+How do I prove that this function $f: \mathbb{R}^2 \to \mathbb{R}$ is not continuous at the origin?
+Diffeomorphism between a sphere and ellipsoid in $\mathbb R^3$.
+limit $\lim_{(x,y)\to(0,0)} \frac{xy}{\sqrt{x^2+y^2}}$
+Conjectured diagonal Ramsey numbers
+How do mathematicians find formulas?
+Hausdorff measure, volume form, reference
+Deformation theory in a paper of Bogomolov and Tschinkel
+Variant on Law of Iterated Conditioning
+Complex expansion of this matrix
+Matrix addition/multiplication with different sizes
+Statistics - Estimation problem
+Complex number wierd sum.
+Local Rings, How to prove Z/(P^l)Z is a local ring
+Representative Pedagogical Examples of Groups, Real Functions, Modules, etc.
+How does he get this equality?
+probability problem, communication system of n components.
+Cabri 3D - Rotating a triangle
+Collatz algorithm generalization try-out (Collatz k-algorithm)
+Establish the identity: tan u(csc u - sin u) = cos u
+Is the point on the left or the right of the vector in 2D space?
+Is there any relation between these matrices?
+How many &quot;equators&quot; and &quot;poles&quot; 4-sphere has?
+Permutations and group acts
+Given integers a; b; c; d;m; n; u; v satisfying ad -bc = 1, u = am + bn, v = cm + dn, prove that (m; n) = (u; v)
+If a certain group action fixes every element $x$ such that $x^4=1$, then the action is trivial
+Establishing the upper and lower bounds of normal using standard deviation
+$k-$defectivity of the Veronese variety $v_{2}(\mathbb{P}^{n})$
+Exercise in group action blocks
+A comparison between heights and between grades
+finding a point on a surface? the surface is an ellipsoid
+Concept of random sample? I have a truly problem understanding it.
+Properties shared by Similar and Unitarily Similar Matrices.
+How can I prove that $Set^I≃Set/I$?
+Intuitive meaning of immersions
+Prove that Binet&#39;s formula gives an integer, using the binomial theorem
+What is the reverse image of $f:[0,6\pi] \rightarrow \mathbb{R}$, $f = sinx$?
+Chronology condition and metric perturbations
+Tangent surface of a twisted cubic curve
+Vector subspace.
+Extremal length of a compound object
+If $A $ is a square matrix of size $n$ with complex entries such that $Tr(A^k)=0 , \forall k \ge 1$ , then is it true that $A$ is nilpotent ?
+Square coefficient matrix, matrix transpose, and solvability of the corresponding system of equations
+linear algebra texts suggestions
+Limit of $y \ln (x^2+y^2)$
+How do I see that a homeomorphism $\sigma$ is an open function?
+Residue class ring of Dedekind domain
+tensor product and algebra
+Function&#39;s Transformation&#39;s Roots.
+How to prove this inequality $(\sum_i x_i y_i)^2 - \sum_i x_i^2y_i^2 \leq 1-1/n$?
+Numeric system without &quot;zero&quot;, how to explain importance of zero to average person?
+Decompose the vector AC as sum of vectors parallel and perpendicular to AB
+Linear Equations solution for only 1 known RHS constant
+Why $\sqrt{-1 \times -1} \neq \sqrt{-1}^2$?
+Recurrence Relation and finding cosine of a function of them.
+How to systematically count the number of integer isosceles triangles?
+Let $S$ be a regular surface and let $F$ be a diffeomorphism. How can I prove that the image $F(S)$ is a regular surface?
+$\mathcal J = \{ U \subset X \mid X \setminus U \ \ \text {is compact} \} \cup \{\emptyset\}$ defines a topology on Hausdorff space $X$?
+How to graph $|z-1| &lt;2$
+Why is discrete space ``discrete&quot;
+Name of the set $B:= \overline{A}\setminus A$
+Predecessor on the final coalgebra (the extended natural numbers): difference of notation
+Proof of Eckart-Young-Mirsky theorem
+Extra Operation required for Smith Normal Form over PID-Theoretical Justification
+What does the inverted V represent in math
+How to find the orthogonal complement of a subspace?
+How to solve $\int_0^{\frac{\pi}{2}}\frac{x^2\cdot\log\sin x}{\sin^2 x}dx$ using a very cute way?
+What is the prerequisiste to study Tensors for application in signal processing?
+Joint PDF given, find missing constant
+Proof that $\frac{1}{x\sqrt{x}}$ is $O(\frac{1}{x})$
+Show $\int_{-\infty}^{\infty} e^{-it^2}dt=(1-i)(\frac{\pi}{2})^{0.5}?$
+How to prove $\oint_{\partial D} \left( u \frac{d u}{d x} dx - u \frac{d u}{d y} dy \right) = \oint_{\partial D}u\frac{d u}{d \mathbf{n}} ds$?
+Lagrange Multipliers and optimisation
+A property of the subgroups lattices
+Is there a spectral sequence to estimate the connectivity of a homotopy limit of a cosimplicial space?
+Help required! Polynomials
+Equation discrepancy ?
+Let $P(x),Q(x) \in \mathbb{Z}[x]$ such that, exist $a,b \in \mathbb{Z}^+$ and $a&lt;b$: $P(a)=Q(a)$ and $P(b)=Q(b)$
+Confusion in Godel&#39;s numbering for subscripts
+Positive definite matrix proof with post
+Can a non-constant analytic function have infinitely many zeros on a closed disk?
+For any $n \in \mathbb{Z^+}$ Not extis $P(x) \in \mathbb{R}[x]$ with coefficients in $B$ and all roots of $P(x)$ in $A$
+(co)limits in the category of diffeological spaces vs. category of smooth manifolds
+If every row in a square grid corresponds to a column, then every column corresponds to a row.
+Expression of character of coset representation
+Prove that if $3|mn$, then $3|m$ or $3|n$
+question about the conditional pdf
+How to rewrite this probability formula?
+Evaluation of $\int\frac{5x^3+3x-1}{(x^3+3x+1)^3}dx$
+finding discr&#232;te coordinate of Intersection of two convex polygon?
+inhomogeneous poisson with exponential lambda function
+What are the necessary and sufficient conditions for a cubic equation to have integers roots
+Proof that graph is 2-connected
+Density of the rationals in the reals
+Trying to show that the set of all $2$-element subsets of a denumerable set is denumerable
+What is the result of sum $\sum\limits_{i=0}^n 2^i$
+How to find the order of G using the size of G and its complement
+A real number $x$ such that $x^n$ and $(x+1)^n$ are rational is itself rational
+Numeric Keypad - Restrict number
+Proving inequalities: $\sum_{k=1}^n a_k \leq \sum_{k=1}^n ka_k \leq n \sum_{k=1}^n a_k$
+Modular inequality of sequential terms: $|x_ny_n-xy| \le |x||y_n-y|+|y_n||x_n-x|$
+Understanding pumping lemma - length $p$ - in connection with other thread
+Edge and vertex connectivity of bipartite graph
+if $b^k$ is a primitive root, then $b$ is a primitive root
+Explain why graph of f lies below the $x$-axis in interval $[4\pi/9,5\pi/9]$
+Continuity dot product
+Finding Sum of all Distict number whose LCM is N
+Representation of symmetric functions
+Density of unbounded set modulo t
+Show that $({\sqrt{2}\!+\!1})^{1/n} \!+ ({\sqrt{2}\!-\!1})^{1/n}\!\not\in\mathbb Q$
+Maximize the largest eigenvalue of a Hermitian matrix constrained by quadratic polynomials
+Uniform continuity of sums and quotients
+Calculate $\int_{\gamma} \sqrt z dz$ where $\gamma = C(2,1)^+$
+Need to show following equality
+Inverse Matrix in 3D
+The inverse of the Gamma function at $-\infty$
+Show $A \subset S$ (open) is a regular surface if $S \subset \mathbb R^3$ is a regular surface.
+Find cohomology ring of $H^*(S^n \times X)$
+Why using $v^T \cdot u\text{ instead of simply } v \cdot u$?
+Complex Exponential in Differential Equations.
+direct sum and tensor product of representation of lie algebra
+Can the union of disjoint open sets be connected?
+how to compute the integral $\int_0^1 (1-x^p)^n dx$?
+Bound for the sum of a finite sequence
+Prove that ${\sqrt2}^{\sqrt2}$ is an irrational number without using a theorem.
+Increase of the rms during diffusion - Derivatives calculation
+Determining diagonalizability of a matrix containing complex enteries
+Need help with a better understanding of change of basis matrix and corresponding theorems
+join-semilattice vs Upper-semilattice ?! definition problem ?!
+Does the series converge or diverge and how can you tell
+Appell Sequences as Group under Addition
+How do I show that a directional derivative is defined in every direction (for every vector) for a function $f: \mathbb{R}^2 \to \mathbb{R}$?
+Diophantine equation $a^3 + b^3 + c^3 = 2$
+Orthogonality and projection of a vector
+Using Exponential Shift to find general solution of an ODE
+For which $q\in\mathbb Q$ is $\sin(\frac\pi2q)$ rational?
+Decibel adjustment on Bode diagram
+Limit at $\infty$ of a polynomial multiplied by a negative exponential
+Maple problem HELP
+Spherical and Hyperbolic lines in the Extended Complex Plane.
+Example of non interchangeability of the order of taking graded moduls with respect to three filtrations
+Is there a number $x\neq0$ whose products with $\pi$ and with $e$ are both rational?
+Fractional-order Halanay-type inequality
+Introductory Group theory textbook
+Power form of regression equation which is not centered at x=0?
+problem on permutations
+Find all equilibrium values of the given system of differential equations:
+What is the optimal investing solution for the given simulated market?
+Subspace of $L^p(X,\Sigma,\lambda)$
+Looking for a distribution to describe 2D &quot;lines&quot;
+If $y&#39;=\dfrac{1}{x+1}$ and $y(0)=0$, find the value of $y(-2) $
+Maximum of $x_1 - x_2 - x_3 + x_4 - 2x_5$ with some constraints
+What is the next perfect square of the form 14444... in decimal notation?
+Prove that $H$ is a subgroup of $G$
+M&#248;ller Operators: Functional Calculus
+If distance b/w two lines is $\frac{1}{\sqrt{3}}\;,$ Then $\alpha $ is
+Linear Algebra Questions over vector Spaces
+Can You Help Me With This Continuous Markov Chain Question?
+For what values of $z$ is the following function differentiable?
+Find triangle angle knowing side length change and angle change
+Prove that $3 - 2 ^ {1/7}$ is Irrational
+Block Toeplitz Matrix
+Find conditions on positive integers so that $\sqrt{a}+\sqrt{b}+\sqrt{c}$ is irrational
+How is this definite integral solved: $\int_{-\sqrt3}^{\sqrt3}{e^x\over(e^x+1)(x^2+1)}dx $?
+Sigmoid function that approaches infinity as x approaches infinity.
+$\log_2 13$ is irrational
+Please factorise this
+Proof of some inquality on convex sets in $\mathbb{R}^n$
+Continuity of subdifferential mapping
+Integrate two sets of Data and check similarity
+Let $G$ be abelian, $|G| = sp^i$ with $p$ and $s$ relatively prime. Show that $|K_{p^i}| = p^i$ and $|K_s| = s$
+Direct method in the calculus of variations
+How to prove the language of all binary numbers that are prime is nonregular using pumping lemma?
+Is it possible to have $|f(x) - f(y)| \leq M\| x - y \|$ under such conditions?
+how to solve $\sin\theta+\sqrt{3}\cos\theta=-\sqrt{3}\;$ for $\;\theta\;$ when $\;0^\circ\leq\theta&lt;360^\circ$
+Given several integrals calculate ${\int\limits_5^6}$ f(x) $dx$
+Algebraic number theory topics for undergrads
+Why do some say that $f(x)=\frac{1}{x}$ discontinuous?
+If $f\in C[a,b]$ and if $\int\limits_a^bf(x)g(x)dx=0, $
+Need some good problems on Weierstrass Approximation Theorem
+Convergence of sequence $x_{n+1}=\sqrt{2x_n+3}$
+What does it mean for a category to be &quot;tensored over&quot; another category?
+Estimate number in an interval, given mean and standard deviation of normal distribution
+Peak Height of $\DeclareMathOperator{\sinc}{sinc} \sinc^2(x)$
+Discrete optimization of weighted sum under constraint
+Help me understand this algorithm problem.
+Can Waring problem be solved with triangle inequality?
+Prove that $w/w_0$ (no idle over minimum possible) $\le 2-1/n$ for any set of tasks on an n processor system
+Determine if a rectagle is fully &quot;compatible&quot; with a given Polyomino
+Log of characteristic function
+showing that $n$th cyclotomic polynomial $\Phi_n(x)$ is irreducible over $\mathbb{Q}$
+Is the rhombic dodecahedron the only isohedral polyhedron that tiles 3-space (other than the cube)?
+If the positive numbers x,y,z are in harmonic progression, then log(x+z) + log(x-2y+z) equals
+Binomial? probability of two producing defective articles machines.
+Definitions of Platonic and Archimedean Solids using Symmetry Groups?
+Limit of $x^2e^x $as $x$ approaches negative infinity without using L&#39;hopital&#39;s rule
+Existence of a particular vector in kernal of $d \exp_x$
+Shortest Path on Specific Graph with one Property !?
+Intuition for &quot;weights&quot; in simple linear regression
+Show that the ring of integers $A$ of the cubic field $\mathbb Q[x]$ with $x^3=2$ is principal.
+Expected Value of a Continuous Random Variable (Example from Sheldon Ross&#39;s Book)
+What is the period of this sequence?
+Calculating Chi-square probability with $X^2$ and degrees of freedom
+A uniqueness problem to ODE (Picard-Lindelof or Cauchy-Lipschitz)
+How can I solve this system of linear different equations?
+Calculating the number of arrangements of items into compartments?
+How do I solve this system of Differential equations?
+How can I find the closure of $P[a,b]$
+How find this limits $\lim_{n\to\infty}\left(\sin{\frac{\ln{2}}{2}}+\sin{\frac{\ln{3}}{3}}+\cdots+\sin{\frac{\ln{n}}{n}}\right)^{1/n}$
+First three nonzero terms in series solution of a differential equation
+The discriminant of (1,x,x^2) in a cubic field.
+Gauss elimination using 4 digit arithmetic with rounding
+Throw 10 Dice how many diff outcomes possible
+How to calculate the z-score for the number of times an event occurs?
+Optimality Conditions and Optimal Solution to minimize f(x)
+Does the &quot;equality semigroup&quot; have an accepted name?
+Metric tensors and linear (differential) operators defined on a manifold and its osculating sphere
+Existence of complicated convex functions
+Proving that the set of languages over an alphabet Σ is a monoid regarding concatenation
+Determinant of a Linear Transformation 2
+Transformation of graphs, finding the values of unknowns
+Multivariable Integral (changing coordinates)
+In a ring $R$, Show that if $x^2 =0$ then $x-1$ and $x+1$ are units .
+This is a linear algebra question: Determine whether this is a subspace in $\mathbb{R}^3$, $H=\lbrace x \in \mathbb{R}^3:x_1+2x_2-4x_3+7 \rbrace$,
+Prove $\{ (x,y) \in [0,1]^2: x-y\in \mathbb{Q}\}$ is measurable.
+infinite monkey problem - probability of an infinite sequence containing an infinite sequence
+Finding the variance of X with a variable p between 0 and 1
+Jucys-murphy elements commute with each other.
+The linearness of extension of linear bounded operator
+Finding $\frac{d}{dy} \int_{a}^{y} f(x,y)dx$ when $\int f(x,y)dx$ is non-trivial
+Error in using Matlab detectSurffeatures
+What is the number of people that leave the meeting?
+Linear programming: basic solutions?
+measure of a set invariant by rational translation
+Entropy upper bound inequality for Sub-Gaussian Random Variable
+Number of possible passwords with $6$ to $8$ characters
+Verify that the vector a=&lt;1,1,1&gt; is perpendicular to both L1 and L2.
+Can transcendental to the power transcendental be rational?
+Non regular language that satisfies pumping lemma
+Question on direct sum of vector spaces
+Relations equivalence
+Computing reduced singular value decomposition
+Equivalence Classes points on the plane
+The Lebesgue measure of set of small values of the Sinc function
+Show that $g(z) =\bar{z}$ is continuous at every point of $\mathbb{C}$ and that it&#39;s not differentiable at any point.
+When is the direct product of two cores itself a core?
+how to prove that the following is not a regular language?
+Binary variable and constraint help
+How to simplify expression with Fibonacci numbers
+What is An Image (of the Riemann Sphere)?
+derivatives of non-analytic smooth functions
+Taylor Series Expansion for ${z^2+4z^4+z^6}/(1-z^2)^3$
+This proof from the textbook that the number of columns of a matrix equals its rank plus its nullity does not make any sense...
+How to convert equation to time domain
+Solve equation with lower gamma function: $A \gamma(2;x/B)=x$ for $x$
+$f(x)$ is continuously differentiable on $[0,1]$, prove that $ (\int_0^1 f(x)dx)^2 \leq \frac {1} {12} \int_0^1 (f&#39;(x))^2 dx $
+Integrate $sin(ax)/(x(x^2 + b^2)^2)$ from 0 to infinity, where a and b &gt; 0.
+Given a function $x^a y^{1-a}$, confusion about how the curves vary as I very $\alpha$.
+Proof by Contradiction to show that if $f^{-1}$ exists, $f$ must be onto
+Multiplying and factoring in Formal Power Series
+Prove that there exits an automorphism from $G$ to $G$ when dim G=infinite
+Exist a eigenvector $v=\begin{bmatrix} x \\ y \end{bmatrix}$ such that $x,y &gt;0$
+Help finding the inverse of an exponential function
+Why is Mergesort $O(n)$ rather than $O(n\log{n})$?
+Describing ideal that vanishes at the variety
+Absolute convergence to zero imply convergence to zero?
+Proving that normalising a vector in $\mathbb{R^n}$ is continuous
+Showing $(f^{-1}∘g^{-1})=(g∘f)^{-1}$
+Is this integral is right or wrong?
+Regarding least squares, value of n in a scatter plot
+Does a complex manifold always admit an acyclic cover for the sheaf of holomorphic functions?
+What textbook(s) do I need to self-study grade 9 - 11 math? I failed Gr 11 Math twice.
+Prove that $G$ is a vector space over $\mathbb Z_2$
+Directed spanning tree
+Are the following sets closed in certain topologies?
+Probability in Word Problems
+For all $\epsilon&gt;0$ there exists $f,g$ such that $\|f\ast g\|_p&gt;(1-\epsilon)\|f\|_1\|g\|_p$.
+Show that the point group $\overline{G}$ can not be a subgroup of $G$ generated by a single glide reflection.
+Is trace of regular representation in Lie group a delta function?
+What is the height of cone if Volume = 4000 and CSA=470?
+Find gradient of a equi-angular spiral (log spiral)
+Let S ⊂ R 2 . Show that if cl(S) is convex, then S is convex.
+points with integer coordinates inside triangles in $\Bbb{R}^3$
+Prove every even integer greater than $2$ can be expressed as the sum of two primes.
+How to do continuous-time Bayesian updating?
+Monotone increasing continuous function with $\int_a^b f&#39; = f(b) - f(a)$ which is not absolutely continuous
+the real part of a holomorphic function on C \ {0, 1}
+Method of successive approximations to solve $y&#39;(t) = ty(t)+2 , y(0)=0$
+Basis and dimension of the subspace of solutions to $A\mathbf{x}=\mathbf{0}$
+Prove that $1+\sum_{m=1}^n \frac{1}{m!}\geqslant 2\ $ for $n=2,3,4,5,\ldots$
+If $R$ and $s$ are the range and standard deviation of a set of $n$ values, then $4\le R^2/s^2\le 2n$
+Operator norm of a convolution
+What do I enter in &#39;number of successes:&#39; for Confidence Interval Proportion (excel)
+Energy conservation $\iff \frac{dE}{dt} = 0\ $?
+How can I solve like the following exercise that shows in the image
+Computing the mean of a Gaussian random variable
+Relation between two vector norm and matrix norm
+Proving that uniform convergence implies pointwise convergence.
+generators for group for the given finite field?
+Second partial derivative of a minimum function
+For which $p$ the sequence $x^n$ converges in the Sobolev space $W^{1,p}(I)$?
+Segments on a family of parallel lines
+Finding linear dependance of a set of functions
+Could we define two random variables such that the product of them is Normal distribution(Gaussian)?
+Does the Frobenius coin problem require the denominations to be pairwise relatively prime?
+Permutations regarding $3$ women and $4$ men
+Tangent line of a lemniscate at (0,0)
+Intersection of two circular arcs with same center
+Let $F(x)=\int_0^x {e^{e^t}}dt$, what is $\int_1^2\frac{e^x}{x}dx$ in terms of $F$?
+Why does my Barabasi Albert model implementation doesn&#39;t produce a scale free network
+For any prime $p ≠ 2,5$, prove there are at most four values of the last digit of any power $p^{i}$?
+Let $X$ be the union of axes is it homeomorphic to a line, a circle, a parabola or the rectangular hyperbola $xy = 1$?
+Solution to the following system of linear equations?
+Question about optimization
+Number Theory : Is a complete residue system modulo $n$ a group?
+Let A,B,C be the vertices of the triangle, find the center of the following rotations
+$x^{2}+1 \neq n! $(using Complex Number )
+Proof that when repeatedly splitting a heap of marbles into two and writing down the product of the two heap sizes, the total is ${x \choose 2}$
+Finding covergence/divergence of series using the integral test
+Reference Request for Minkowski (?) Theorem proof.
+Give an example of a set $A$ and a function $f\colon A \to A$ where $f$ is onto but not one-to-one.
+Calculating inter-arrival times and arrival times of a Poisson process
+Reciprocal over a summation
+Determine the units of the ring $A= \mathbb Z[X]/(X^3)$ and the structure of the group $A^*$
+Performance Task
+The solution to this joint distribution problem is too terse for me to understand.
+Is the kernel of a ring homomorphism a subring?
+Struggling to reduce a summation
+How to evaluate $\int{\sqrt{tan(x)}dx}$
+Does $\lim_{N\rightarrow\infty}\frac{tr(A&#39;A)}{N}=0$ imply $\lim_{N\rightarrow\infty}\frac{tr(A)}{N}=0$?
+Prove $f(x)=g(x)$ for all $x \in\mathbb{R}$
+Integrate x^(2m)/(1 + x^(2n)) from 0 to infinity, where 0 &lt;= m &lt; n.
+A preimage and its image are $244◦$ apart. If the preimage was reflected over two intersecting lines, at what angle did they intersect?
+Expected Value of the Maximum Number of Heads in n Flips
+how to find the 8th term of a geometric sequence when you aren&#39;t given the first term
+Evaluating the indefinite integral $ \int \sqrt{\tan x} ~ \mathrm{d}{x}. $
+Real Analysis continuous function question
+Nonlinear PDE Variation of Nonviscous Burger&#39;s Eqn.
+Binary remainder not equal to the decimal remainder
+Prove that: $\{Kf_n \ ; n \in \mathbb N\}$ is equicontinuous
+Find all solutions mod $19$ to $4x^2+6x+1 \equiv 0$ mod $19$
+Y-Axis units on FFT graph
+Index of a finite group
+show some sum is exactly 1
+Gauge transformation on a principal bundle
+Evenly Spaced Integer Topology is Metrizable
+$R = \Bbb F_7[x]/(x^2+2)$. Is $R$ a field?
+Show that the function kf defined by kf(x) = kx for all x∈[a,b] also satisfies the conclusion of the intermediate value theorem.
+Fundamental group of the complement homogeneous variety in $\mathbb{C}P^{2}$
+Prove that minimum of the matrix norm is achieved at certain parametres
+Rearranging $\sum_{k = 0}^{+\infty} \left(z+\frac{1}{2}\right)^k$.
+Prove the following trigonometric identity
+Discontinuity of a function regarding limits
+Is it possible to find angles inside a shape if I am only given the slopes and lengths of the lines?
+Integrate e^(cos(theta))cos(n(theta) - sin(theta)) from 0 to 2pi.
+Percentage problem from 8th grade
+Expressing ${}_2F_1(a, b; c; z)^2$ as a single series
+Question about projecting vector onto Subspace
+Property of Hausdorff spaces
+Difficult geometry question involving Pythagoras theorem?
+Matrices - Inverse of the principal square root of a covariance matrix (^-1/2)
+Not sure how to evaluate $\lim_{x\to 0}\frac{\sin6x}{\sin2x}$ (without l&#39;Hospital)
+Let A= [0,1] - {1/n │n ∈ N}. Find sup(A), inf(A), min(A), max(A).
+How to prove convexity of a given set
+next nine births at a hospital all being girls determine whether the event is independent or dependent and find the probability
+Is the algebraic closure of $\mathbb Q$ in the field $\mathbb Q_5$ a number field?
+Prove trigonometry identity:
+Finding the number of isomorphisms which exist between $\mathbb{Z}_{3}^{2}$ and $\mathbb{Z}_{3}^{2}$
+Prove the field of fractions of $F[[x]]$ is the ring $F((x))$ of formal Laurent series.
+Equivalence of closure of sets
+Prove that the alternating group has a subgroup of order 12
+When do we need combination factor?
+Calculating if a point is within the overlap of two circles
+Find a function so whenever it is near a lattice point $\lim_{x \rightarrow [x]}=[y]$
+A doubt about real analysis concerning countable sets
+Proving associativity of symmetric set difference
+linear system consistent with matrices extended
+Proving a fourier transform expression with green&#39;s formuls
+Proof that the following integer multiplication is well defined
+Map in $C(\mathbb{T})$ with constant modulus 1
+When the associated bundle to a $U(1)$-bundle is an holomorphic line bundle?
+condition of equal almost everywhere for functions
+How to show a set of vectors are a basic for a given plane
+Why do lagrange multipliers have the form $\nabla G$
+How to prove: $\alpha$ and $\gamma$ have the same $T$-annihilator, then so do $f\alpha$ and $f\gamma$
+Simply connected covering space
+Is it possible to take infinite sums of infinite sums?
+How to show $ y′(t) + y(t) = h(t) $ has a bounded solution, if $h(t)$ is bounded
+Roots of Unity for Precalculus
+How to compute the following real integrals using the residue theorem?
+if f:[0,1]$\to$ $\Bbb R$ is continuous and has only rational [respectively, irrational] values, must f be constant? Prove your assertion.
+Linear homogeneous DE of minimal order that has the solution $y_1(x) = x^2e^x$
+mathematical symbol for vector appending
+Groups such that every finitely generated subgroup is  isomorphic to the integers
+How does one know T(a) is the base case in T(n) = T(n-a) + T(a) + cn
+Evaluating $\int \frac{\operatorname d \! x}{\sin^4{x}+\cos^4{x}+\sin^2{x}\cos^2{x}}$
+Turan-related graph theory question
+Non-linear operation over a linear transformation
+Profit Function where total revenue is re-spent on production?
+B&#233;zout&#39;s identity proof that if $(a,b,c)=1$ then $ax+bxy+cz=1$ has integer solutions
+Order-preserving map of regressive functions on $\omega_1$
+Relatively prime and CRS
+Decomposing continuous linear functionals on a locally convex space with 2 seminorms
+How to calculate $\frac {d}{dx}$ ($\int_{1}^{x^2} \sqrt{ln(t)}\,dt$), when $|x|&gt;1$
+Prove $Ker(\phi) =(x^2 +1)$
+Finding $y=b$ that dissects the area between $ y=36, y=12, y=x^2$ into 2 equal halves.
+Does a statement have to be true for all conditions to be transitive,symetric,reflexive?
+Finding a permutation to satisfy given condition
+Bayesian Updating with 1 Signal but 2 Unknowns
+Find all points on surface at which the tangent plane is parallel to the plane
+if there is an injection between $A$ and $B$, does there exists an injection between $P(A) $ and $P(B)$?
+Supremum/Infimum and min/max
+Determine if $n$ is prime?
+Find the position of a circle tangent to two other circles
+When does a real inverrtible matrix send a lattice in $\mathbb{R}^2$ to itself?
+how would i simplify this into an identity?
+The number of non-isomorphic spanning trees in K4
+Supremums and subsets
+Showing that a function is L1
+Maximizing the frobenius norm subject to constraints $\underset{\mathbf{S}}{\text{maximize }} \|\mathbf{S}\|_F^2$
+Not sure how to find closure of a set A
+Equivalence of $\forall x (L(p,x) \implies \neg L(s,x))$
+$i \notin \mathbb{Q}[\sqrt[4]{2}]$ without using topological properties of $\mathbb{R}$
+Is it legitimate to solve $ y&#39;(t) = [y(t)]^{2/3} $ by dividing both parts with $ [y(t)]^{2/3} $
+Classification of critical points for plane autonomous system
+Diagonalize and calculate the $n$th power of a matrix
+Why is area of a surface of revolution integral $2\pi y~ds$? not &#39;$dx$&#39;?
+Holomorphic function injective on annulus =&gt; injective on unit disk?
+Why Are Fresnel Functions Used For Splines?
+Proving the set identity $(X \cup Y) = X + Y - (X \cap Y)$
+What is this expression in big O notation?
+Trigonometry / Sum of two angles (α + β) if sinα = 8/17 and sinβ = 15/17
+How do I exactly project a vector onto a subspace?
+Compute the character $Ind_{H}^G \mathbb{I}$ by computing the character of $\mathbb{C}[G/H]$
+How can I get smooth curve at the sigmoid function?
+Proof involving Lagrange&#39;s Theorem
+How to calculate a spline for points in general position?
+Diffusion semigroup generated by Laplacian
+Terminals and co-terminals for angles
+Is π normal in base π?
+Generating function of a_n * b_n
+Why is the sample set notated with $\chi$ in statistics?
+The number of e-even connected components of a graph
+Showing $f$ is convex
+Show that a Cauchy sequence has a fast-Cauchy subsequence
+How many degrees of freedom are in a flat metric and how does one count them?
+Book recommendations for reading A. Okounkov and A. Vershik&#39;s approach for complex irreducible representations of symmetric groups?
+Prove a matrix is not diagonalizable
+How to find the actual doubling time with the rule of 72.
+Maximal ideal of $\mathbb{R}[x]$
+Proof by contradiction that $P \rightarrow Q$ is true
+Show that the splitting field of $x^8-3$ has degree 32 over $\mathbb{Q}$
+Inverse Laplace Transformation of a heaviside function.
+Finding solutions for the Riccati equation $y&#39;+y+y^2 = 2$
+Kelly criterion with more than two outcomes
+95% Confidence Intervals
+Geometry involving area of rhombus and interior isosceles triangles
+The name for predicting future rolls of dice based on the past
+Let $I, J\subseteq \Bbb R$ be open intervals, and let $f:I\to\Bbb R$ be a function.
+Let [a,b]$\subseteq \Bbb R$ be a closed bounded interval
+Adding Vectors With A Missing Angle or Magnitude
+Rearrangement of harmonic oscillation formulae
+Ricci curvature of the Grassmannian?
+How many $9$&#39;s are there in $0.999\dots$ in the first $n$ places after the decimal point?
+Find out if $f&#39;&#39;(0)$ exist and $x=0$ is a inflection point
+Taylor Series expansion and radius of convergence for $e^z+e^{-z}+2cosz/4$
+Is $\sum_{k=0}^n \frac{1}{a+bk}$ ever an integer?
+When do three complex numbers define a lattice?
+Find the Order of this Group
+Show that every prime factor of $4t^2 + 1$ is equivalent to 1 modulo 4
+Proving that $\sqrt{2}+\sqrt{3}$ is irrational
+simplex method: assignment problem
+About the closed form for $\lim_{y\to +\infty}\left(-\frac{2}{\pi}\log(1+y)+\int_{0}^{y}\frac{|\cos x\,|}{1+x}\,dx\right)$
+Why can I not include unused cards into a second binomial coefficient?
+Does the power series converge or diverge
+What do these notations mean, if we read those in English?
+How do I solve?
+Fundamental question about generating function
+How do logicians notate a proposition that posits the instantiation of a property?
+Solution to a set of number theoretic constraints
+If $\nabla f(x) = 0$ on a set $S$, is $f$ necessarily constant on $S$?
+Find a basis for Kernel and Image of a Linear Transformation
+Does there exist any positive integer $n$ such that $e^n$ is an integer (to show $\log 2$ is irrational)?
+What is the probability that a player will receive a red card over the course of the season
+Show that Thomae Function is Lebesgue Integrable
+Does $B = \{x-2, x(x-2), x^2(x-2)\}$ span $\{p(x)\in P_3(\mathbb{R})|p(2) = 0\}$?
+Scaling and cross-validation in statistical models
+Double urn probability and multiple instances
+Proving Integrability of $sgn(\sin(\frac{\pi}{x}))$
+How to prove that the matrix $A^k$ approaches $0$ as $k$ approaches infinity
+Trying to show that set of all one-element subsets of a denumerable set is denumerable
+How many boolean formulas are there over n variables?
+Calculate work done using integral
+Does every kernel function need to be a dot product in practice?
+Trying to find injection between two sets
+Maximize trace of matrix equation given two constraints
+length of the focal chord
+Proving positivity of the exponential function
+Prerequisits for Gauss-Green theorem
+Find an isomorphic map from the space of polynomials into 2-tuple polynomials
+Basic Multivariable Question
+Help with finding the basis of a polynomial vector space
+Finding $\lim_{x\to\infty} \frac {(x!)^{\frac 1 x}}{x}$
+How does squaring a function affect it&#39;s removable singularities?
+Conditionally convergent sequences and implications
+Show that $\det \rho(g)=1$ for elements g of odd order and $\det \rho(g)=-1$ for elements g of even order.
+Random numbers generator CLT , problem with dependence on $n$
+What is the difference/similarirty between P() and P[] in the discussion of Probability Theory?
+What am I doing wrong here? Calculate the line integral of $f(x,y,z) = xe^{yz}$ from $(4,2,3)$ to $(0,0,0)$.
+finding variance of gaussian distribution from mean
+Integrability of $f$ does not necessarily imply convergence of $f(x) \to 0$ as $x \to \infty$
+Question on the existence of a prime ideal contained in the $\ker$ of a homomorphism $\mathbb{C}[x,y]\rightarrow\mathbb{C}[t]$.
+Faster Sage Code for Diophantine Equation?
+A linear functional of $H^k$
+Help needed in a proof to show path connected-ness of a special kind of set in real Euclidean space
+How to solve $\ln(x) = 2x$
+Prove if $x$ is greatest lower bound of $U$ then $x$ is the least upper bound of $B$
+Quadratic bound for prime numbers
+Integral of $\cot^2 x$?
+Solutions to linear elliptic equations with presribed value at zero
+Proper axiomatization of Euclidean Geometry that Euclid would approve of
+Dual of polynomial ring
+How to write $\mathfrak{su}(3)$ Lie algebra as a sum of two subspaces?
+Finding the length of one side of a cuboid given the volume
+Proof the isomorphism between symmetric group &amp; subgroup ?
+Matlab code for Jacobian and nonlinear function
+Commutation Relation - Generators of Semisimple Lie Group
+Isomorphism of varieties via coordinate rings
+Find the number of ways to form 15 teams out of 15 men and 15 women.
+Finding basis for kernel and range
+Negating multi-layered statement regarding a formal language
+is that true $\mathbb{R}(a, b) = \mathbb{R}(a)( b) $?
+boundedness theorem or maximum minimum theorem for this question.click here to see question .
+Geometric understanding of why $D_1\cong \mathbb{Z}_2$
+Evaluate $\int\cot(\beta x)\sin(\alpha x) \text{d}x$.
+Elementary book on Matrices
+Combinations/probability calculations using ball
+Space spanned by matrices
+Inverse Trigonometry Plots ArcT(T(x))-Clarification
+Let f be analytic on ∆
+Conditional expectation $E(X | X&lt;Y)$ when $X$ and $Y$ are independent
+Proof of the discrete Fourier transform of a discrete convolution
+Solve $p^3=p^2+q^2+r^2$ where $ p , q $ and $r$ are prime numbers.
+Determine the coefficient of polynomial det(I + xA)
+Question on The Inductive Proof of the Implicit Function Theorem
+How to understand Differential Equations?
+Showing that $\int_0^\infty \frac{|\cos x|}{1+x} \, dx$ diverges (Baby Rudin Exercise 6.9)
+Prove the function to not be continuous at $z = 0$
+Let $\tau$ be a closed tableau. Prove that $\tau$ is not satisfiable.
+Affine curve is union of $d$ lines through point of multiplicity $d$.
+Eigenvalue Bound of Block Matrices
+Determine the order of the factor group
+Given endomorphisms, show that every one-dimensional subspace is invariant over these endomorphisms
+How can I show that $\left(a-n-1\right)!/\left(a-1\right)!=\left(-a\right)!\left(-1\right)^n/\left(-a+n\right)!$?
+Find the possible signatures of the bilinear forms
+Finding the integral $\int_0^1 \frac{x^a - 1}{\log x} dx$
+Let u be an algebraic element of K whose minimal polynomial in F[x] has prime degree. If E is a field such that F&lt;E&lt;F(u), show that E = F or E=F(u)
+calculate the following limit: $\lim\limits _{x\to -1}\ln x$
+Optimizing a program and calculating % of total execution time improved
+How to understand/remember Holder&#39;s inequality
+How to choose a contour in order to use the residue theorem to sum up a series from Ryzhik?
+CW -complex structure of boundary of a manifold
+Use of permutations and combinations for a conditional seating arrangement
+Prove that if $\lim_{x\to c} f(x)=L$ then $\lim_{x\to c} 7f(x)=7L$
+Area inside an ellipse
+Textbook on infinite loop spaces
+Finite extnsion of local field.
+Interpretation of sheaf flat over a base
+How to prove $ABC$ is isoceles?
+Mathematical Expressions
+Limit of $\frac{\sin(xy)}{x}$
+Differential Equation
+How to properly translate the coefficients of a Taylor series?
+Show that $4^\frac{1}{3}$ is an algebraic number?
+Principle of superposition
+2D rotation matrix: express sin and cos in terms of the elements and the norm of an arbitrary non-zero vector
+Let $\Phi = \{Rwt, Rzt, Rwt \wedge Rzt \rightarrow Rxt, y\equiv t\}$. Does $\mathcal{J}^{\Phi} \models Rxy$ hold?
+Is $p\in\big\{x,...,2x\big\}$ lower-bounding $p\in\big\{x^2,...,(x+1)^2\big\}$?
+Two cards are selected at random from a deck
+Multivariable function&#39;s limit $\frac{y^3-x^3}{x-y}$
+Using only the definition of uniform continuity, prove that the following functions are uniform continuous:
+Give an alternative proof of Wilson&#39;s theorem ($g$ is a primitive root modulo an odd prime $p$)
+Commutative Operators from QM
+Isomorphic categories
+Constructing a piecewise probability density function
+Finding the minimum wins in a round-robin tournament.
+Coupled second order differential equations
+Why $\sqrt{-1 \times {-1}} \neq \sqrt{-1}^2$?
+Quotient norm question
+Proving a property of Legendre Polynomials
+How to define &quot;is a structure&quot; by a first-order formula of ZFC
+How to prove that every nonabelian group of odd order is not simple?
+Linear functional on bounded functions in $\mathbb R$ that is translation invariant
+What type of number is this $\frac{\sqrt2}{2}$?
+Given $y = x.\phi(z)+\psi(z)$ and $z_y \neq 0$. prove that $z_{xx}(z_y)^2 - z_xz_yz_{xy} + z_{yy}(z_x)^2 = 0$
+Showing that $\log(\log(n))^{\log(n)}$ is $O(7^{\sqrt n})$
+$P^n$ transition matrix of a Markov chain
+Negating logical statement of continuity
+Why do they use absolute value symbols for $|z|=r$ considering any number squared is positive?
+Function that returns an odd number if (n-k)&lt;0
+How to find convergence or divergence of a series?
+$D$ is effective iff $f^*D$ is effective?
+Convergence behavior of $\sum_p \frac{1}{p \log p}$ and generalization.
+How can we use Fubini&#39;s theorem to simplify $\int_0^r\frac 1{\sigma^{n-1}}\int_0^\sigma\rho^{n-1}f(\rho)\;d\rho\;d\sigma$?
+$g(x)=\frac{x}{m}-1+\log m$, $g(x) \ge log x$
+Variables of integration.
+Solution to a ODE system using a power series
+Proof of inequality about mutual information
+proof related to convergence of a integral
+Probability of n random numbers under a threshold
+Why is the $ n $ - exterior power of a symplectic form does not vanish?
+Universal Properties and Equalizer
+Number of times the loop is executed
+Solutions of the constant coefficient Helmholtz equation via the Fourier transform
+Calculate trend of week
+How should trigonometric expressions be simplified?
+How to find an open ball for a metric space?
+Pullbacks and Varieties
+Using Stokes&#39;s theorem
+Give an example of an open set in R under the usual topology that is not expressible as the union of a finite number of intervals
+How to prove that the exponential function is the inverse of the natural logarithm by power series definition alone
+prove $|x\ln x|&lt;\epsilon$ if $0&lt;x&lt;\delta$
+Every nonprincipal ultrafilter on $\omega$ is uncountable.
+If p and q are prime which elements are in the subgroup? (GRE question)
+Delta function in spherical coordinates. Does my professor have a mistake?
+Using generators to write representations
+Evaluating $\lim_{n\to\infty}n\sin(2\pi en!)$
+Kullback-Leibler divergence when the $Q$ distribution has zero values
+Profile likelihood: Box-Cox transformation
+$x^4\equiv-1 \pmod p$ is solvable if and only if $p \equiv 1 \pmod 8$ or $p=2$
+Books for difficult quantitative aptitute and logical reasoning questions.
+Why doesn&#39;t superposition imply linearity? Why is homogeneity needed?
+How many people would you need in a room to ensure with 100% probaility that three have the same birthday?
+$m$th power residue, necessary and sufficient conditions.
+Chain rule, directional derivative - multivariable calculus
+generating queries-2
+Applying the &quot;Cavalieri Principle&quot; to approximate integration
+Any positive measure subset of $\mathbb R$ contains a positive measure Cantor set
+Find 11^644 mod 645
+Matrixproduct of A&#39;A expressed as a sum
+Closure systems
+Finding tangent vector for a curve at a given point
+Smoothness of inverse Fourier transform
+Dependent Bernoulli trials confidence interval
+Borel image of a Polish space
+Does the natural (asymptotic) density of a set A change if a subset of A with natural density zero is subtracted from A?
+Dilating sinusoidal period at certain abscissa $x$?
+self dual boolean function
+A problem from Artin
+Solving the indefinite integral of a trig function
+Suppose that T is a topology on R that contains the set of all closed intervals. Prove that T is the discrete topology on R.
+How to evaluate limit with absolute value
+Construct a subset of a rectangle
+$\int_1^n g(x)dx = \log (n!) - \frac {\log n}{2} - \frac{1}{8n}+ \frac{1}{8}$
+How to complete this character table of GL(3,2)?
+Solving $x^x \equiv x \pmod{17}$.
+Reference for proof of Hochschild-Kostant-Rosenberg for Hochschild cohomology
+Every sequence of sets have coverging subsequence
+ANSML - Proving of the matrix identity $\nabla_AtrABA^TC = CAB+C^TAB^T$
+Infinite coin flipping
+What it means SO* (2N)?
+Limit w/o L&#39;hopital
+Formula to convert currencies
+Solving the definite integral of trig function
+Spectrum of Schr&#246;dinger operator in dimension two with periodic decreasing potential
+How to do surface integral in spherical co-ordinates?
+How many ways can we split a group of $n$ elements into groups of different sizes such that each group contains more than $1$element
+How to prove: at each place of a word that is no bracket or comma exactly one term begins
+Generalization of Minkowski inequality
+Show $(\partial^2 z / \partial x \partial y)^2 = \frac{\partial^2z}{\partial x^2} \cdot \frac{\partial^2z}{\partial y^2}$ for $z=ax + yf(a)+\phi(a)$.
+Prove there exists a matrix that satisfies the equation
+Fundamental Equations of Plane Curves
+Proving $\frac{p-1}{2}$ is a primitive root modulo $p$ if and only if $2(-1)^{(p-1)/2}$ is a primitive root modulo $p$
+Trapezoidal and Simpson&#39;s rule?
+Highschool Probability: Chances of player winning
+N-Tuples or N-functions in category theory
+Basic question about integrating by parts
+understanding relative matrices
+Integrability of a function, $(x,y)\mapsto 1_{[0,\infty)\times[0,\infty)}(x,y)(e^{-x}-e^{-y})$.
+Expected number of numbers chosen.
+How to show that $\mathbb Z+x \mathbb Q[x]$ is a GCD domain ?
+Marbles numbered 1 to n in a bag, what is the chance that at least five marbles are drawn out in the order of their number?
+Equivalent of $\int_0^{\pi/2}\cos^n(\sin(x))dx$
+Simplify $ \frac{b}{a-b}+ \frac{a}{b-a}$
+Is there another way to solve $\int \frac{x}{\sqrt{2x-1}}dx$?
+Is this statement about open sets in induced topologies true in general?
+Number of integral values of M
+Simple algebra that is not a simple ring
+A limit problem regarding logarithms?
+Solve the following integral: $ \int \frac{x^2}{x^2+x-2} dx $
+What would the notation G/H mean in terms of groups and subgroups?
+Solve $e^x+x=1$
+Why do we tell functions from relations in structures?
+Show that $S=\{\wedge, \Leftrightarrow\}$ are not an adequate set of connectives
+Residue theorem
+Convergence to infinity of a sum of independent random variables
+Prove operator is isometry
+What will be the sum of the series of binomial co-efficients?
+Pairing Vertices by Edge Color
+What is the meaning of 40 factorial in the system with base 13.
+Finding a function
+Importance sampling estimate
+What&#39;s the spectrum of the operator $g\longmapsto f\cdot g$?
+Martingale not uniformly integrable
+Estimating an integral using the Poisson summation formula
+Isomorphic Free Groups and the Axiom of Choice
+Closure under addition
+Differentiability of a function in two ways
+Show that $|f(a)| &lt; sup \{|f(x) | : x \in A \}$ for every $a \in A^{\circ}$.
+Proof infinity=1 IDK is there an error?[Solved]
+Isn&#39;t this a non-surjective epimorphism on the category of sets?
+Construct a circle cutting two other circles at right angles
+3D Dodecahedron model: Construction question.
+Confusion about Lusin&#39;s Theorem.
+Prove that the system of linear equations has a solution
+Simplification of an expression sums and products
+Repeated coin flips probability
+what does a critical number is doing for a function??
+Random walks : Hitting and recurrence Times relation
+Set of points at which a function coincides with its convexification is compact?
+If a prime $p\mid ab$, then $p\mid a$ or $p\mid b$
+Solving this ODE through derivatives?
+Are there Karnaugh maps over other algebras?
+prove this inequality $ E|X| \geq \frac{1}{\sqrt{E X^4}} $
+prove these inequalities:
+Let $a$ be a quadratic residue modulo $p$. Prove that the number $b\equiv a^\frac{p+1}{4} \mod p$ has the property that $b^2\equiv a \mod p$.
+Question about closed sets
+An example of a group that that has an order of M that is abelian?
+Chances of meeting someone in the next 75 years
+If $\frac{a+b}2$ is rational, can we say that $a,b$ are rational?
+Show that language $L&#39;$ is regular given $L$ is regular
+Particular case of an Implication
+The Fourier transform of exp(-x)*heaviside(x)
+Partial Sum of this function
+4 girls and 8 boys are randomly divided into 3 groups of equal size
+Solving this recursive relation
+$\sigma$-finite measure and $\sigma$-semi-finite measure
+Verifying whether an expression equals $\frac{1}{x}$
+Using Central Limit Theorem to show that random walk exits a interval a.s. in finite time.
+Is every open cover of $\{(x,y) \in \mathbb R^2 : x^2+y^2=1\}$ also an open cover of some $\delta$ annulus around the unit circle?
+Lp Problem Of Production Of a company over quarters
+What separates an axiom from a proposition?
+At what points of r in real number is f continuous?
+Solving $y&#39;(x)-2xy(x)=2x$ by using power series
+Inequality involving sums and products (related to multi-stage rockets)
+How do $\ln$ and $e$ cancel out when there is an exponent that is negative?
+Category Theory textbook (learning through guided discovery Dummit and Foote)
+How to prove if a series converge
+How find this system equation with Euler&#39;s totient function
+Let $K$ a field with characteristic $p&gt;0$. Show that $\{x \in K : x^{p^n} =x \}$ is a subfield.
+Topological properties of floating point number
+Laplace transforms for a pharmacokinetics multi-compartmental model
+If $H$ is a bilinear form then for every $x$ there exists non-null $y$ with $H(x,y)=0$
+If it rains, John is sick. It didn&#39;t rain. $\vdash$ John wasn&#39;t sick. Is this valid?
+Show that limit exists if $f$ is upper bonuded
+Kolmorogov complexity equality
+How to construct a DFA for truncate the rightmost symbol from a given string?
+Proofs in undergraduate mathematics
+Convergence of a sequence of matrices
+Equivalence of regular expression
+How to convert $V \otimes W^*$ to a matrix space?
+Does the limit exist? (Calculus)
+Monotonous function or monotonic function
+Prove the reciprocal of a function is integrable if it is bounded
+Proof of Fermat&#39;s last theorem for $n=5$ using primitive roots of unity?
+Proving a property of Pythagorean Triples
+$x\over(1-x)$ $y\over(1-y)$ $z\over(1-z)$ &gt;= 8 when $x ,y ,z $ are positive proper fractions and $x+y+z = 2$
+Find vector perpendicular to two vectors without using cross product
+Compute $\iiint_V \sin^2 (x + y + z) \,\mathrm{d}x\,\mathrm{d}y\,\mathrm{d}x$ where $V$ is an ellipsoid.
+Kolmogorov complexity inequality
+Distance between two rectangulars
+Inverse limit of small categories
+Why wasn&#39;t the length of key mentioned in this algebraic notation of Vigenere Cipher?
+Rationalize and simplify $\frac{x-1}{\sqrt{2\sqrt{x}} + 1 - \sqrt[4]{x}}$
+Finding coordinate vector relative to different bases
+Show they are primitive roots regarding the given condtitions
+Difficult improper integral: $\int_0^\infty \frac{x^{23}}{(5x^2+7^2)^{17}}\,\mathrm{d}x$
+Rationalizing the fraction $\frac{1}{1-\sqrt2 -\sqrt3}$
+Dual Problem(Lagrangian)?
+Identifying compositions of reflections, and rotations in a hexagon
+How to solve matrix differential equations problem
+Prove that the square root of 3 is irrational
+Compactness result
+quadratic equation what am I doing wrong?
+What&#39;s a good place to learn Lie groups?
+Partial fractions expansion problem $\frac{x^3-1}{4x^3-x}$
+Is this set of $C[0,1]$ compact?
+Finding the probability of loss from standard deviation in normal distribution
+Find the distribution with the following Laplace transform.
+Does Bounded Covergence Theorem hold for Riemann integral?
+Compute $\lim_{n \to \infty}\int_{0}^{\infty} \frac{n \sin(\frac{x}{n})}{x(1+x^2)}dx$ using Dominated Convergence Theorem (just require checking)
+Principal component analysis - calculating variance
+Only one cancellation law? Then $G$ may not be a group...
+How do I prove that $\alpha/\lVert\alpha\rVert$ is differentiable?
+Natural bijection between $\mathbb{N}$ and algebraic numbers?
+Calculate the infinite sum $\sum_{1}^\infty \frac{\log{n}}{2n-1}$
+How to find the singularities of the function $z(1-e^{\frac{1}{z}})$ and classify them
+tensor product of formal power series
+Right-continuous supermartingale is almost sure cadlag
+Generating function for a sequence
+Further Reading on Stochastic Calculus/Analysis
+Optimal Kolmogorov complexity
+Gr&#246;bner Basis and Division Algorithm
+When the argument of complex numbers is a well defined real valued function?
+Variable transformation $Y= \sin (X)$ where $X$ is uniform on $[0, \pi]$
+Convergence test of sinus function
+Mutually Orthogonal Latin Squares
+Computing the dimension of a vector space in terms of matrix rank
+What&#39;s rotation matrix minus its transpose?
+Sphere - Sphere intersection cone angle
+Is c parameter or constant (random variable X with given density)
+10% fraud, while purchasing and selling. Whats the overall profit?
+gram-schmidt process on standard basis
+Continuity with respect to initial conditions
+Solving an inequality $B&lt;n!$ without a calculator or gamma function?
+Expected number of rolls?
+$\{x: x^T Ax = a\}$ is unbounded for any $a \in \mathbb{R}$, then A is indefinite
+Converse to Chinese Remainder Theorem
+Finding the coordinates of a centroid using weighted average
+Arveson spectrum for a unitary representation of a group on a Hilbert space
+Solving the recursion $T(n) = T(n-1)\cdot T(n-2)$
+Prove that the inner product is the number of orbits of $G$ on $X \times Y$.
+connections between polar set, polar cone?
+How can I minimize a quadratic on the unit simplex?
+How many ways to distribute
+determining recognizable or decidable (TM that accepts a TM)
+how to determine transient and recurrent state from transition matrix
+What&#39;s the theoretical basis for integration using partial fractions?
+Finding the inverse of a matrix by elementary transformations.
+Rijndael S-Box algorithm: Can someone please explain how this code calculates the multiplicative inverse?
+Evaluation of the series $ \sum_{k=0}^{\infty}\frac{k}{2^{k+1}\left ( k+1 \right )^2}$.
+greatest common divisor of 4 integers
+Is there a way to standardize the Poisson distribution?
+Uniqueness of homogeneous Fredholm equation of the first kind
+Finding Slant Asymptotes using synthetic division rather than long division
+Info on Mean Value Inequality
+$x^3+ (5m+1)x+ 5n+1$ is irreducible over $\Bbb Z$
+Is this module injective?
+Why is this true? Problem with indices
+A quadratic equation is expressed to zero, what is the less specific case of this called?
+Find probability that $X\sim Geom(p)$ is even
+If we have exactly 1 eight Sylow 7 subgroups, Show that there exits a normal subgroup $N$ of $G$ s.t. the index $[G:N]$ is divisible by 56 but not 49.
+Troubles with this $\int{\sqrt{x^2-2x-1}}dx$
+How do I prove that there are only two possible orthonormal basis?
+Enabling lower values in an equation to give a greater probability
+Product of subgroups which is not a group - infinite case
+$G$ is a finite group,with eight Sylow 7 subgroups. Show that there exists a normal subgroup $N$ of $G$ s.t. index $[G:N]$ divisible by 56, not by 49.
+Solving $x^2 - 11y^2 = 3$ using congruences
+Number of real embeddings $K\to\overline{\mathbb Q}$
+Prove &#171; If P(A) is a subset of P(B) =&gt; A is a subset of B &#187;
+If $K:=\mathbb Q\left(\sqrt{-3}\right)$ and $R$ is the ring of integers of $K$, then $R^{\times}=\mathbb Z\big/6\mathbb Z$
+End-of-semester presentation idea on PDE
+Binomial Series. Product series of coefficients
+Definite integral of exponential function
+Compactness Theorem explanation
+Coin Tossing Game Optimal Strategy
+Is this property with inequality true?
+Let $G$ be a finite simple group. Suppose that $A, B &lt; G$, $G = AB$ and $A$ is an Abelian group. Is it true that $A \cap B=1 $?
+Convergence range of $\sum_{n=0}^{\infty}\frac {(-1)^n3n}{(x-4)^n}$
+System of logarithmic equations
+Integer Part and Arithmetic Progressions
+Partion the boundary of a $n$-dimensional ball and write each partition as the graph of a $C^1$-function on a open subset of $\mathbb{R}^{n-1}$
+Is there any other way to model Seven Bridge of K&#246;nigsberg?
+Limiting probability of a successful bid
+Showing $\operatorname{ord}_ma^s=k$ if $\gcd(s,k) = 1$ and $\operatorname{ord}_ma=k$
+Does bitwise-XORing substrings results in a uniform distribution?
+How to maximize the minimal amount not payable with the exchange of at most two coins?
+Factoring quadratic expression $25t^2-16r^2$
+Probability of presence of not defective products in a pack.
+Question related to Symmetric Difference
+Is the following a number field?
+Do coalgebras arise outside the study of bi/Hopf-algebras?
+What is the special of product of the incidence matrix and its transpose for an undirected graph
+How to compute the chord length of an ellipse?
+An example for generalized operator projection.
+Is $n^{th}$ root of $2$ an irrational number?
+Is the sum and difference of two irrationals always irrational?
+Can both $x$ and $\sin(x)$ be rational at the same time?
+KKT Sufficient condition when optimal solution is intuitively at the boundary
+Problem in proof of: Show the order $d$ of $a$ modulo $m$ exists and $d\mid\phi(m)$
+Solving an equation with the sum of inverse cosine and inverse tangent
+Find the closed form of $\int_0^{\large \frac{\pi}{2}}\frac{x^{2n}\cdot\log{{\sin{x}}}}{\sin^{2n}{x}}dx, \space n\ge 1$
+How should this equation be read, $|z+1+3i|=|z-5-7i|$
+two different Monte Carlo approaches
+Inverse Laplace Transform of $\ln[\frac{s^2+a^2}{s^2+b^2}]$
+A question on the well-posedness of of p-Laplacian
+Colimits in $Ch_R$, help with a step of the proof
+Some proprieties of a peculiar scalar product
+Approximation using $1-x \le e^{-x}$
+Find the radius of convergence of the Maclaurin series $x\cdot ln\left(x^2+\sqrt{x^4+9}\right)$
+I need the proving of $x\log(x)=(\frac{x-1}{x})+\frac{3}{2!}(\frac{x-1}{x})^2+\frac{11}{3!}(\frac{x-1}{x})^3+...\frac{S_{n}}{n!}(\frac{x-1}{x})^n$
+Calculate $\int_0^{2\pi} \frac{sin(t) + 4}{cos(t) + \frac{5}{3}}dt$
+(Kiselev) Construction of an arc of a circle
+a question on well-posedness p-laplacian
+$(123)!$ divided by $(25!)^x$. What is the maximum possible integral value of $x$?
+maximal ideal of a polynomial ring
+Show that $\rho$ must be 2-dimensional
+Lagrange&#39;s multiplier not working
+Proof of Frechet-Hoeffding Copula bounds
+Compute $\lim_{x \rightarrow +\infty} \frac{[\int^x_0 e^{y^{2}} dy]^2}{\int^x_0 e^{2y^{2}}dy}$
+The intermediate value property of functions
+3d animation of a marble inside ellipsoid
+Where to find an algorithm for decomposing rational functions into elementary fractions?
+Intuitive Explanation of Bessel&#39;s Correction
+Two-parameters Wiener process
+Derivatives of hyperbolic functions and Osborne&#39;s rule.
+If two invertible matrices A and B commute, then A^-1 and B^-1 must commute as well ??
+Fractional derivative of exponential function
+Characterizations of positive definiteness of a symmetric matrix of order $2$
+How do I integrate this
+general solution of the equation $\frac{dy}{dx} =\exp(y/x)$
+Determine whether the series $\sum_n \frac{1}{n^n}$ converges or not?
+Different definitions of trigonometric functions
+Maple, solve coupled differential equation
+Modular Multiplicative Inverse of a Number
+Integral of $x^{12}(1-x)^8$
+Homomorphism. Monoids. Language.
+What&#39;s the difference between $\sum_{r=1}^n(ar+b)$ and $\sum_{r=1}^nar+b$
+How to show measures extend from $\mu_0$ isn&#39;t unique
+Calculate the maximum value of the complex modulous |v-u|
+How to calculate $\binom{17}6 21$?
+Isomorphisms: $(Aut(V), \circ) \to (GL(n, \mathbb{R}), \cdot)$ and $(Or(V), \circ) \to (O(n), \cdot)$
+Transforming 2nd order ODE
+Find $\int_{|z|=R} \frac{1}{(z-b)(z-a)^m} dz$
+complex main branch of a logarithmic function holomorphic correct
+Given $a,b$, what is the maximum number which can not be formed using $na + mb$?
+Number Theory proving questions
+Find the number of positive integer solutions such that $a+b+c\le 12$ and the shown square can be formed.
+Random Walk on Z
+Does the total derivative always require its inputs (e.g. $x,y$) to be defined parametrically (e.g. $x(r,\theta)$)?
+Does the series $\sum^\infty_{n=1}\frac{n!}{\sqrt{(2n)!}}$ converge/diverge?
+Transforming the Laplace operator from Polar to Cartesian coordinates
+Expected distance of a moving object
+Prove a lemma on algebraic closure (model-theory)
+What happend if the divergence of a vector field is zero?
+CDF of two variable
+Does every measurable function create a partition of its domain?
+Eigen values &amp; eigen function
+ordering two rational functions
+Is $|K/\tau|\leq 1$?
+The curve segments $y=e^x$ for $0\leq x \leq 1$ and $y = \ln(x)$ for $1 \leq x \leq e$ have the same length.
+One of properties of Poisson random variables
+For which values of $ a $ can this function be a valid distribution function?
+One strange way to generate b-spline base
+double decker, 13 card flush vs. 18+ of each color card. Who has the better odds of winning?
+Some doubts and questions with the trace of a matrix
+For which $k$ are there most partitions of $n$ into $k$ parts?
+If $C=M \times (0,1)$, what is an integral over $\partial C$?
+Topological entropy of circle homeomorphism is zero. True or false?
+can a positive integer have 2010 facters?
+How level sets look like when a critical point degenerate?
+What do this quotient group $\frac{C^*}{R^+}$ represent?
+How to show that the boundary of an antipodally symmetric 1-chain contains an even number of antipodal pairs?
+Proving by induction $2^k - 1 = 1+\cdots +2^{k-1}$
+Solving ODE ${dV \over dt} + \frac{1}{\tau} V = f(t) = Ae^{j \omega t }$
+Topologies on a 3 point space
+Calculating the sum of all pairs
+Need help with integral to evaluate electric field around a spherical shell.
+Lagrange Interpolation Polynomial Degree N
+Prove a trigonometric identity
+Minimum number sticks requirement
+Prove that $(A,B)\sim(P,Q)$ and $(C,D)\sim (P,Q)\implies (A,B)\sim (C,D)$?
+Is 0.9999... equal to -1?
+MLE of Binomial (checking presentation of answer)
+Solution of inhomogeneous Fredholm integral equation of the first kind with symmetric rational kernel
+solving a linear equation in a mixture problem
+The continuity of a function defined by pieces
+Statistics: Sampling without replacement
+Find sum of supremum and infimum of $\tan(x)^{\sin 2x}$
+Newton&#39;s Second Law
+Calculating the volume of an oblique ellipse cone
+Can the hypergeometric function be extended analytically to the complex plane in the interval [1,$\infty$ )?
+Representation of a non-standard normal variable squared
+Pdf of variable as combination of two random variables with exponential distribution
+treat Infinite as a quantity to resolve Zeno&#39;s dichotomy paradox
+How can i solve this function (multipath fading)
+Eigenvalue-eigenvector advance question
+How to find solutions when variables are used for digits in a number?
+Proving a function is L2
+Is there a general method to calculate the generators of the subgroups of $\textrm{GL}(n,F)$?
+How can I get a solution manual for my (abstract algebra) textbook?
+Finding a positive integer&#39;s residue representation
+The median minimizes the sum of absolute deviations
+Summation simplification explanation
+Summation of all possible combinations
+Compound poisson process
+Determine over $\mathbb{Q} $ and $\mathbb{C}$ all $3 \times 3$ matrices with $A^4 = I$
+Oracle for the inverse function
+hard lemma from a paper
+Learning mathematical concepts
+Expected max load $m$ balls into $n$ bins
+Fastetst method for calculating $\frac{(a+b)!}{a!b!}\bmod{m}$
+Show that $\lim_{n \to \infty}\Phi_{n}(x)=f(x)=\lim_{n \to \infty}\Psi_n(x)$
+Calculating normals for a polygon mesh (3D computer graphics)
+How to calculate anti-log using calculator?
+Proximal operator of spectral norm of a matrix

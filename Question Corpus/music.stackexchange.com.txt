@@ -48,6 +48,56 @@ Controlling high frequency of heavily distorted guitar tone (metal)
 Why Move to a 7-String Guitar?
 Get time signatures to show up in a ChordNames context
 So I *need* the music but I don&#39;t actually read it - how bad is it?
+Can people really sight-read advanced pieces?
+Tools to improve sight-reading of rhythms
+Looking for a piano sight reading app that listens to your instrument
+Is it possible to learn theory without sight reading?
+How to teach the staff to a teenager?
+guitar buzz or humming (grounding problem)
+How to record a piano with high quality?
+Locked Hands Passing Chords
+Noise while not touching guitar strings or metal parts
+Learning how to sight sing without prior singing
+E string remains silent when playing fast legato from A string on violin
+Villa-Lobos Etude No. 2 - Arpeggio part - how to play the consecutive bass strings
+Duration of a quarter note with a 3 written beside it (on a synth display)?
+Strategies for choosing chords for an arrangement
+What&#39;s the theory behind using a B major chord in Bb major?
+Why are key signatures like E# and B# necessary?
+What does a preamplifier pedal do?
+Building a Reference Room
+How to sing better in a band situation?
+How do you play two consecutive up bows?
+Saxophone vs Trumpet: range, overtone series and intonation
+Home recording: Preamp or Dynamic Mic?
+Cheap Audio Interface for the Rode NT1
+Guitar/Bass tablatures for underground metal bands
+Software that allows playing in different temperaments
+How to have one voice in multiple staves with lilypond?
+Arranging a piece for full Orchestra
+Can one tell by ear whether a bowed instrument is being played up or down?
+How to use VST (virtual instruments) on a live gig
+Can the fan fretted design on guitars acheive pythagorean intonation?
+Lilypond generated with MuseScore does not fit the width of the page in XeTeX doc
+Can I easily defret a normal guitar to play it as a fretless guitar, or do I need to alter it further?
+What techniques can be used to get a bigger, more resonant orchestral bass drum sound?
+Electric fretless bass guitar intonation
+Is it normal to struggle through &quot;The Jazz Piano Book&quot; by Mark Levine?
+Did baroque composers expect you to &quot;bring out&quot; the voices in their pieces, the way today&#39;s critics seem to enjoy in players?
+What is the meter of this song
+High pitched ringing noise on single coil pickups
+Debussy&#39;s &#39;sneaky Tristan&#39; in his own performance of &#39;Golliwogg&#39;s Cakewalk&#39;?
+Electric guitar vs classical guitar
+List of average genre tempo (BPM) levels?
+Is this old Soviet era guitar worth keeping?
+How do I write good tablature?
+Combine Rests in Finale
+What does this b5 indication refer to?
+how do I play this part in &#39;Peacherine rag&#39;?
+How to play together online?
+Ηοw can I generate larger than the default images of chord diagrams using Lilypond?
+What key is the song &#39;Uptown Funk&#39; in?
+What is a &quot;flat wrist&quot;?
 How to name quarter tone chords
 Instruments on their own tracks - music file and repositories?
 How to know which chord shape to use for each root note in the scale?
@@ -199,3 +249,2253 @@ Barre chords kill my thumb!
 How to evaluate the quality of sound of a piano?
 Does Chinese music avoid counting in 4s?
 Instruments that challenge your ear
+Learning to keep time
+Chopin op. 28 no. 4 - bar 16 symbols
+Book recommendations to understand theory and harmony of music. Classical, Jazz, R&amp;B everything :)
+So, what does this tenuto mark mean in Bernstein&#39;s piano music?
+What exactly is Bootleg in electronic music?
+How should I tune my Norwegian-styled hardanger fiddle to play the tune called &#39;Fanitullen&#39;[&#39;The Devil&#39;s Tune&#39;]?
+Improvising on the piano as a solo instrument: what octave range to cover?
+What does this notation mean for the piano?
+How to write music theory symbols in evernote?
+I have Finale and I am having trouble
+Why is Hendrix&#39;s tuning at Woodstock in between Eb and E?
+Fret buzz when guitar is in certain positions
+Is a high A in the key of D flat still flat?
+What is transcribing music supposed to teach?
+Finger Picking vs. using a Pick on Bass Guitar
+Which other chords are considered equivalent or function like a V7?
+Alesis SamplePad resets itself / possible ground loop?
+replacing individual Midi drum instruments with MacBook &amp; Alesis DM Lite
+Are tonal (sharp, flat and natural) key signatures octave specific?
+Why does a Cm13 chord use A instead of A♭?
+Reducing Neck Pickup Dissonance
+Guitar bridge out of place?
+Is it safe to use distortion or overdrive with an acoustic amp?
+What is the Difference between Maple and Rosewood Fretboards
+How many lessons are necessary to pick up the basics of violin with sufficient practice?
+How can I learn to read bass clef score more naturally?
+What was Randy Coven&#39;s gear
+How to keep the tempo still stable?
+Chest voice &amp; Head voice? Or Chest voice, Throat voice AND Head Voice?
+How to practise, ear piano playing after years of sightreading only?
+Which type of microphone is optimal to use for the singing piano player?
+What type of microphone is suitable for cello together with a looper pedal?
+Roman numeral notation for a suspended chord?
+Fender Strat - parity between neck and middle pickups
+In Bach&#39;s Prelude in A Minor, what chord is B D G# and what&#39;s its function?
+How can I improve my piano accompaniments?
+What is the impact of overlooking learning scales?
+Where do I release the soft pedal in Ravel&#39;s Jeux d&#39;Eau?
+Unstable lowest note on Yamaha YRS-302B
+How do you build guitar &#39;muscle memory&#39; faster?
+How can I make my voice sound like a breathy female?
+Are there more than 2 Clefs?
+What do the clavinova model numbers tell me?
+How to compare clavinova models from different years?
+What is the relationship between &quot;do re mi&quot; and note letter names?
+Uses for augmented chords in composition
+In Pythagorean tuning, what&#39;s the frequency of the tonic of each key?
+What Does a Compressor Pedal Do?
+Why do electric guitars have narrow necks?
+Picking up violin again
+Compound meter( 6/8) beat subdivisions?
+How should tuba valve springs of different size be reassembled?
+Damper pedal for Requiem for a Dream
+At what point does one use fugue in the Gloria of the Mass Ordinary?
+More dissonant chords/intervals in the bass clef when frequency proportions are the same?
+Sharps vs Flats - Formula to determine correct sharp and flat notes in a scale
+Major Seventh chord with root note as melody : why the dissonance?
+Is there a preferred string gauge for different styles of music?
+Colliding staccato marks and ties
+What are the practical reasons for still having transposing instruments?
+Is it orthodox to use the pedal when playing Bach on the piano?
+How are fingerings on ornamented notes to be interpreted?
+Why are double strokes (with the same hand) taboo on timpani but recommened on snare?
+Do veneered tops on electric guitars really matter?
+What is the purpose of this (?) rubber band?
+Small clefs on score
+Modes, Scales, Getting The Tonality/Color Of Said Modes, Etc
+What is a chord with a diminished third called?
+Double bass position for very high octave
+Why is the &#39;&#39;backbeat&#39;&#39; called the &#39;&#39;rock beat&#39;&#39;?
+Resources for learning to play the recorder
+Acoustic Guitar | How to adjust the gap between the strings and the fret board
+What guitar tunings allow many chords without fretting between &quot;live&quot; strings
+Does using a capo put you out of tune?
+How do you practice trills on piano?
+Pay-to-Play Gigs
+How to (re)gain relaxation and muscular control? Any excercises, methods?
+How do I tune my violin when I cannot yet do it by ear?
+Is it OK to replace a harp string with an adjacent string?
+Why is the bass clef indicated twice on the same line in this Bartok piece?
+What Software Can I use to Capture Midi and Transcribe as Real Notation?
+Delay with your hands
+Is it possible to play 2 wind instruments well?
+Editing larger sound files in Kontakt 5
+Naming convention for trumpet mouthpiece size
+Why do Flugelhorns and Cornets have such dissimilar sounds?
+What do we call music which is not played on the beat?
+How would you finger this Cmaj9 chord?
+How do I hit lower notes on my flute?
+Using an 8 Ohm amplifier output with a 16 Ohm cabinet
+What do these numbers at the start of the music score mean
+Why are guitar strings numbered this way and not the other way around?
+Polymeter vs Polyrhythm
+Middle Eastern percussion MIDI files
+How to recreate a sound on a synth
+How to judge a mix, on e.g. muddiness and balance?
+circles and other gestures not really keeping time
+Is there a particular word, name, classification or designation that differentiates &quot;Slavic Sung&quot; Vibrato?
+How to learn about mixing and mastering with Samplitude?
+Why would a teacher ban the metronome altogether?
+Arpeggio vs. Acciaccatura
+Are there any resources to self-learn the bass guitar for those who already know theory?
+Traktor audio 6 recognizes only one deck when pluging into my mac pro, what should i do?
+Is there more than one right way to tongue?
+How do I learn to play the flute with vibrato?
+Variation of Chopin&#39;s Mazurka Op. 68 no. 4 in F minor
+Does anyone have any tips on how to do pseudo modulation?
+&quot;Ut&quot; and &quot;La&quot; notation on horn and cornet instruments in orchestral score?
+How to interpret this ASCII tab?
+C major 6th chord and A minor 7th chord: same notes but different quality, why?
+Is there a canonical piano grading system?
+Is there a difference between 2/4 and 4/4
+Self learning path for Guitar
+Can a chord contain both the C and C♯ notes? (as opposed to containing C and D♭ notes)
+Should I fix my piano or buy a digital one?
+How much does an electric guitar&#39;s body physics affect the tone, playability, etc?
+How does the performance of &quot;rubato&quot; differ in the classical and romantic styles?
+Keyboard + laptop or synthesizer?
+Separate MIDI Drumtrack to edit each part individually
+Tips for how to stay calm before a concert
+Plugins for creating MIDI Notes in Ableton Live
+How to change tempo of grid in Cubase without affectig MIDI?
+Guide-lines for creating a simple chord-progression?
+What is this &#39;tone&#39; of voice called?
+What does it mean to clap back the rhythm? (Grade 6 Piano Aural)
+What are the practical advantages of keyboards with non-weighted keys vs. weighted hammer action?
+Exact pitch of blues scale notes
+Black stains on my fingertips after playing a new guitar
+Why is it common to write tuba sheet music in concert pitch?
+How to play a G-chord?
+Can I daisy chain two mixers together to create more input channels (a sub mixer)?
+What does &quot;gajo&quot; mean as a musical directive on sheet music
+How to get a good distortion sound on Guitar Rig
+Is it important to have three pedals on a digital piano?
+How to decide what kind of truss rod wrench to buy?
+How to fix jitter in Piano Marvel 2.0?
+How to cope with a fickle flute?
+Is there any accompaniment software for a USB midi keyboard?
+Looking at the fretboard is ruining my stage presence
+What should I practice before getting into the chords
+Where is a natural harmonic for the note C on guitar?
+Right hand wrist &amp; forearm soreness
+Piano blues - What is being played on this guys left hand
+Is it normal for most people to play root or inverted chords?
+Bill Frisell&#39;s Blues Dream
+Record with Focusrite Scarlett 6i6 and non-asio applications
+What do you call the melodic pattern with 3 notes?
+Is there a way, in Lilypond, to eliminate the instrument name from a staff from outside of the staff context?
+Why are the Goldberg Variations considered a demanding work?
+Sound spectrum to notes software
+Application of different fingering pattern exercises to improvisation on the guitar
+How do I get touch tracks working in Logic Pro X?
+Is there any midi software that can display in real-time the notes I play next to the &quot;real&quot; score?
+12 String Guitars - Some Information?
+harmonic and melodic minor chord function
+How do you write successive, non-functional chord progressions?
+How to record MIDI automatically?
+how are Yamaha PSR-s650 and DGX-650 different in terms of performance features?
+What greater possibilities allows playing late from the conductor
+When to use a2 / unis / tutti in orchestral score?
+How are intervals defined and measured?
+How to accurately intonate a 3 saddle telecaster?
+How much dynamics, tempo fluctuation is acceptable in Baroque music on piano? How to achieve expressivity?
+Chord Melody vs Chord Solo: Are these terms interchangeable?
+Sampler Track Resets In Logic Pro X
+What are the best methods to study violin positions?
+How do I troubleshoot guitar speakers?
+Can someone explain to me how to get my guitar pickup to work on speakers?
+What is this technique in cinematic music called?
+Time Signature Count
+In Lilypond, how to abstract multiple tags into a variable or function?
+How does instrumentation change the personality of a piece?
+How much practicing time per week is enough to progress with piano for beginner?
+Word for part of a beat
+We got together with another guitarist. What can we play together?
+4 part harmony chords
+Tutorials or advice on layering synths
+How can I reproduce the choppy synth in &quot;Come on Home&quot; by Franz Ferdinand?
+How robustly can I treat my tremolo?
+grade 1 piano exam 2015/16
+How can I tell if my microphone is broken?
+Why can&#39;t I tune my Floyd Rose Tremelo?
+Is there more than one use for Roman Numerals in music notation?
+How to play a lot of keyboard parts of a song at the same time live?
+How do I play this correctly in key or without?
+On a guitar, what keys correspond to different capo postions?
+Learning Violin Online
+Music arrangement for EDM
+7/6 no 3 or 13 no 3, 9, 11; which chord name is more correct (if any)?
+Fifths of #9 chords
+How do I lower the action on my Floyd Rose guitar bridge?
+Can&#39;t cut sound recordings in Cubase 5
+Classical examples of a &#39;fifth voice&#39; or &#39;ghost soprano&#39;
+The optimal order of songs to perform during the exam
+What instrument is inexpensive and can be self-taught?
+Is &quot;pattern-based&quot; playing specific to instruments or tradition?
+How can I get a song tabbed?
+Is there a &quot;standard&quot; or &quot;typical&quot; drum kit layout?
+John Bonham&#39;s bass drum technique
+Teaching yourself piano as a support instrument only?
+Amp with 90 degree phase shift
+Is it possible to play all melody songs on 10 hole diatonic harmonica?
+What type of bass strings produces a very warm and mellow sound?
+Why is the guitar tuned like it is?
+What are some qualities to consider when purchasing a cello?
+Why do we call the Hendrix chord 7#9 instead of 7b10?
+Scale length with incorrect bridge position
+What is the minimum break angle for strings on a guitar?
+How can I get the vocals to stand out better in the mix when recording?
+Difference between &quot;hi&quot; and &quot;low&quot; on amps?
+Is there such thing as a piano-like keyboard with all whole tones between two adjacent white keys?
+How to make a bass growl?
+Voiceleading and piano
+Minor major seventh flat five chords: do they exist, and if so, how should they be used?
+Music notation for guitar
+Circle of fourths in Jazz
+What are the differences between tone, note and pitch?
+What are the trade offs between using a pick and fingerstyle for guitar?
+Vintage vs Modern Saxophone Mouthpieces
+Creating a Risset glissando with Chuck - How do I get rid of the &quot;click&quot;
+What is the best way to learn Alzapua?
+What is the name of the &quot;clip&quot; for guitars
+Accidentals in First Species Counterpoint
+1st Species Counterpoint Tritone Reached Melodically by Step
+What is the difference between upstrokes and downstrokes while strumming a guitar?
+Are the formulae for Minor scale and Major scales related?
+Where can I find Drum Scores / Sheet Music?
+How can I learn to sing and play an instrument (like Piano) at the same time?
+Where can I go to learn how to fix my guitar?
+How to make Electric guitar sound like a saxophone
+I want to learn to play a specific song on the piano
+How to get experience as a young conductor?
+Can acceptable trills be played on an old M1 with unweighted synth action?
+Bach: How is this mordent to be realized? Why do people play it like a trill?
+Congregational involvement in Protestant and Catholic services during the time of Luther
+How can I make a note repeat endlessly when I hold down a key in Garageband?
+Virtual MIDI Keyboard - get the output
+Is there a common name for the major II chord found in minor key progressions?
+Singing: holding on to the morning low notes
+How do I train myself to sing pure vowels?
+what is causing this buzzing sound on my A string
+Spectrum analyzer on electric guitar
+Does a phrase ending in V7/V - V end in an authentic cadence or a half cadence?
+What is the difference between portamento and glissando?
+What is a good solo to learn in the Dorian mode?
+Accompanying notes to higher key
+Is there guided recording of classical music?
+Do I need piano lessons?
+What does it mean when I see a chord named Em7/5+
+If A minor doesn&#39;t have any accidentals, is it still minor?
+Feeling like a hair stuck in my throat - could it be a &quot;singing injury&quot;?
+What does the indication 9 7 mean?
+Why does the dominant chord contain a flattened 7th?
+I&#39;m trying to understand the key of a song that uses chords out of the scale
+Score analysis: Minuet in G Minor BWV Anh 115
+Simple chord progression question
+Can a chord be both major and minor?
+If I am playing lead in G scale, does it mean that I must start with a G note and end with a G note?
+Chord Progressions Including Majors That Should Be Minors
+Banjolele: retune GDAE -&gt; GCEA
+My guitar sounds off tune
+Guitar Banjo used as G-banjo
+Hanon and Self-Taught Bad Technique
+Is Hanon&#39;s &quot;Virtuoso Pianist&quot; good for self-taught musician?
+How to get rocktron talk box to sound like peter frampton?
+The teaching of scales, chords and keys
+Why does the IV - V# - I chord progression work so well?
+12 to 6 strings on a 12 string guitar?
+Switch to Clarinet or Saxophone, which one is easier for an oboist?
+Where do the musical note names come from in the chromatic scale?
+Which keyboard works - beside Bach&#39;s - are part of the study curriculum *and* regularly performed in public?
+What kind of effects make this Korn sound?
+Can someone learn practicing piano with a MIDI keyboard?
+What is the difference between a xylophone, a glockenspiel, marimba, a xylorimba and a marimbaphone?
+Correct way of writing this bend in ASCII tab notation
+Why do I yawn while singing?
+How loudly should one sing while warming up?
+Alternate keyboard input methods for a digital touchscreen piano?
+What notes to sing with chords
+What are the characteristic intervals or scales of 13-limit harmony and beyond?
+Is there a name for this type ascending inversions of a repeated chord?
+When should I use a boost pedal in a performance?
+Marimba Bars on a Vibraphone Frame
+How does one read very loud or very soft dynamic markings (e.g. ffff, ppp)?
+What are the types of strings for an acoustic guitar, and which one is more appropriate for a beginner?
+Does 3/4 time signature differ from 6/8?
+How does one remember epic song lyrics?
+What key could the progression Cm - G - Dm - Am be in?
+Performance practice of baroque triplets
+Just intonation with Fluidsynth
+BPM marking doesn&#39;t check out or am I just reading it wrong?
+Why does Fux use F# in his counterpoint to a firmus written in G mixolydian
+Create a track that loops and can end quickly
+Are whole and half note rests supposed to only be written on specific lines?
+Me and the grand staff: how to achieve pacific coexistence
+How to create an mp3 file that is shorter than 1 second?
+How can I connect my CDJ / DJM 2000 Nexus with Traktor?
+What do dots on the tempo&#39;s equal sign mean?
+Speed picking on electric guitar
+How much time are you supposed to spend on a piece approximately at your difficulty level?
+&quot;best&quot; chord name for a min♭6
+Exercising fingerstyle bass technique
+David Brubeck&#39;s &quot;Take Five&quot; in 4/4 Time
+Im6 chord in a minor II-V-I
+Neck is bowed and truss rod cannot be tightened further
+Major Blues Scale over I-IV-V progression
+How to train recognizing chords by ear ?
+Is the sound of a semi-hollowbody guitar significantly different from that of an equivalent solid body?
+Audio jack has fallen inside the body of semi-acoustic guitar, how to get it out and reattach it?
+Is it normal to have a guitar&#39;s single coil neck pickup louder than the bridge humbucker?
+Is there software for computer assisted drum lessons with MIDI input?
+Is this progression considered to be in A mixolydian?
+Is it learned or innate our reaction of happiness or sadness in music?
+How can you get a Country and Western sound with just a guitar and vocal?
+Is there a name for a piece of music that wanders about in tempo?
+Is it acceptable to change tempo in the middle of a song or is this a bad idea?
+Why are we told to hold keys down while tuning?
+What does this indication mean?
+What are some good suggestions for a bass player&#39;s plucking fingers?
+Country music elements
+Is there a formula/theory for writing country licks/riffs?
+Do music students find practice journals useful?
+How can you find the key of a song by ear?
+What is it called when a music has two concurrent tempos
+Reinforcing an acoustic guitar&#39;s bridge
+Jazz piano versus classical piano
+Does the type of wood on a solid body electric guitar affect its tone or sound?
+Ways to use quartal chords
+Preparing for my first jazz gig
+What&#39;s the difference between &quot;modal music&quot; and &quot;tonal music&quot;?
+Chorus pedal, before or after the distortion?
+How to tell if an electric guitar has good quality
+Choose a sound card to work in real time
+How do you check or correct the FOH sound engineer?
+Are electric guitar types associated with certain music genre?
+Can the Yamaha YDP-V240 be made to sound like the Casio AP650 with the lid open?
+Confusion about major and minor second intervals
+Equivalent Key Signatures
+How the time signature affects how to play a melody
+Methodology to Master Guitar as an adult
+Distortion pedals similar to Boss&#39;s DS-1
+Blues Scale Notes - major 6th?
+Why do harmonics played on guitar sound lower as you move to higher frets while fretted notes sound higher?
+How can I improve my piano sight reading?
+Ways to warm up vocal cords?
+Electric guitar effects and amplification
+Where to go for basic help with college prep for a career in Music Therapy?
+TS vs TRS cables to connect mixer to audio interface
+Essential things to memorize in music theory
+Is this a dissonance? What causes it?
+How does a pipe organist deal with latency or delay?
+Syncing audio recording with video recording
+When does audio latency matter and not matter?
+Why would expectations of students vary largely between instruments?
+Do vintage guitars really sound better with age? Or is this perception affected by selection bias?
+Diminished progression
+Historical origins of 8-count bars in dance vs 4-count bars in music
+Multieffects Pedal to USB Recording Device
+Were the Goldbergs meant to be played in one go?
+How to elaborate a good practice routine?
+How to differentiate between a diminished fifth and an augmented fourth interval?
+Augmented chords and chord substitution?
+What is the quality of the Ryoji Matsuoka M30 Classical Guitar
+What is the correct way to play the two ornaments in BWV 541?
+What&#39;s the difference in sound between different wood grades?
+Jazz guitar vocabulary
+Which Piano Course is Best for Me (trained musician but beginner at piano)?
+Diatonic Function of Accidentals in Counterpoint
+What happened to the orchestral scores of Johann Strauss?
+Electronic music beats: Sample or Synthesis?
+How to play an accompaniment with a midi keyboard on Linux?
+Saxophone for beginner -- which one (small hands)?
+Do you need long fingers to play alto saxophone?
+Clefs for saxophone playing
+Different modes of pentatonic scale
+Compare these two sheets of music(piano)?
+How to identify the guitar chords of a song
+Is my mandolin broken?
+Piano sustains when pedal not pressed
+Could a microphone preamp with transformer sound differently from the transformer-less preamp?
+Is 7 string guitar a must have for lower tunings?
+Figuring the Classical Fingering from Sheet Music
+lilypond engraving lyrics to small part with voices
+Bass guitar fret buzz: should I care?
+Understanding music with multiple key changes within chord progressions
+What did ancient cuneiform notation look like, and how did it work?
+Can I use nylon with steel string guitar?
+Mozart K545, what is the correct fingering for the left-hand runs starting measure 50?
+Playing chords in electric guitar with extra-jumbo frets
+How do I become a better electronic music producer?
+VSTHost: How to configure &quot;wave devices&quot; without latency/delay problems?
+Will I be able to overcome from having spring like movement of my pinky finger while playing guitar?
+Associating chords with scales
+Why is my bass making a buzzing noise?
+How to tune a guitar/bass without a tuner?
+Name of guy who teachs famous training technique for beginner drummers
+What do I need to record my electric guitar with my computer while using headphones?
+How do I get out of my song writing rut and compose something new and fresh for a change?
+Use only - 3 strings on six string guitar - which ones would you use and how would you tune them?
+playing softly - full grand piano
+Is there a name for &quot;slapping&quot; a hammond organ?
+Whining noise from one piano key
+How can I record on my keyboard?
+How do I use my computer as an amp and effects processor
+When should I use a direct input box vs. plugging in directly?
+Is making things over-complicated a common mistake for new songwriters?
+If you add an E to a Bm chord, what do you have?
+What does a major-7 chord resolve/lead to?
+Are there alternatives to developing calluses when learning guitar?
+Why are four-chord songs (I-V-vi-IV) so prevalent?
+What is a perfect fifth?
+What are the benefits of practicing standing up (guitar)?
+Tips and tools to help transcribing a bass line in tablature
+Playing with a pick with less pick-sound
+Garageband 10 pitch correction
+What&#39;s the name of the phenomenon in which upon hearing same sound repeatedly, one begins to hear a rhythm?
+Music Producing and Making a Cover
+How is he hiding his pick?
+How does Gdim7 fit in C# minor?
+What makes the 4/4 back-beat rhythm of rock-n-roll so compelling?
+Is there a term for a chord progression that chromatically ascends or descends an octave?
+So I want to start playing again. But not right now, in a while. Some pieces and advice?
+Is there a name for a chord which combines the major and minor thirds of the root?
+How is scale knowledge typically tested in music schools/colleges?
+Logic Pro 9 EVB3 Tonewheel Organ - Classic Organ Dry - House Bass preset values
+How to improve the process of transcribing my music into notation?
+What does it mean to be tone-deaf musically and how does one improve?
+How to make songs with chords that don&#39;t belong in a scale?
+Is there a resource/site that I can use to practice harmonization?
+How to efficiently play two consecutive notes on the same fret?
+Is there a way to force Serato Scratch Live to create unique copies of all songs placed in a crate?
+How the multiple analog synthesizer voices work together?
+What exactly does practising scales teach?
+How do I become better at &quot;playing outside&quot;?
+Why do some arrangements of notes make a good melody and some don&#39;t?
+Is there a word can I use to express the fact that a piece of music has no notes in?
+How to be fluent in music writing
+Appreciating the music of J. S. Bach
+I am a singer who has problems with tempo
+Why do modern popular songs composed on piano sound different than songs composed on guitar?
+How can i improve my intonation on violin?
+What&#39;s the correct notation for a full bar note or rest in non-common time?
+What distinguishes Rock-n-roll from Rhythm-n-Blues?
+What harmonic spectrum is produced by oscillator sync?
+What do multiple notes on top of each other in a staff mean?
+Automatic &quot;regular&quot; chords (not arpeggios) in FL Studio
+What does this notation mean?
+Changing from bass to saxophone
+Loosen strings for long-term storage of violin?
+How to determine the name of a chord from knowing the notes I am playing?
+Nutcracker theme in Shostakovich&#39;s 5th symphony?
+When practicing on my instrument - which is more important - quantity or quality?
+How to practice piano more efficiently and effectively?
+MIDI controller keyboard or home keyboard/digital organ for starting playing piano?
+How do I make drums sound satisfying in a room without soundproofing?
+Glossary of Guitar Effects
+Finding the Shadaj (tonic) in Hindustani Sangeet (North Indian Classical Music)
+Why do quartal progressions typically not utilize common tones?
+Tablature vs. standard music notation? (guitar)
+Learning to play guitar songs using on-line tabs - how to get strum patterns?
+How does speaker design affect audible sound?
+How can I improve my sense of time?
+What are the levels of scale mastery (or, how do I know if I&#39;ve mastered a scale)?
+Need help with electronic music complexity
+How to turn any song into a Bachata song?
+How to translate rock guitar style to keyboards?
+Traveling or moving neck bow
+What is the Hanson system used for?
+Harmonic stop on cello without fingers
+Why picking direction indicators in music?
+Sharps at the start of a score
+Why does plucked and bowed string of violin produces slightly different pitches?
+Using a Capo to transpose from Eb to G
+Do musicians that began playing from an early age have an incontestable advantage?
+Is there a highest note representable on sheet music without using an octave higher notation?
+Using the Dorian Mode
+(1/√π)/√⅔ as a time signature?
+Learning to play bass guitar: Fretless vs Fretted
+Piano Accidentals and Key Signatures
+I want to learn 24 hole tremolo harmonica. I can&#39;t find anyone to teach this in person. What should I do?
+How do you read Graphic Scores?
+Where should I put delay pedal, before reverb or after?
+Are there any benefits of using a Capo?
+Do I need to use a guitar capo for this song?
+Guitar Strumming and the High E string
+How to find popular and relevant songs from different decades?
+7 sharps on a piano music sheet
+What is B II, followed by a dashed line, and what does it mean?
+Using keyboard/MIDI controller to learn piano
+Using Fruity Loops to create Pop Music
+Best strings for heavy metal (I love distortion)?
+How to minimize the pain for a beginning guitar student so they won’t give up before they develop callouses?
+Is there a term for learned &quot;perfect&quot; pitch?
+What is a good software that allows on-the-fly looping?
+Lilypond staffs extend past end of music
+What is a good solo to learn in the major scale?
+Why do many songs in major keys use a bVII in the chord progression?
+How to hear yourself better at the rehearsal studio?
+Microphone pick up patterns for live performance - advantages/disadvantages of cardioid, supercardioid or hypercardioid?
+Is it OK to keep guitars in a glass or plywood rack?
+Boiling/washing used guitar/bass strings - is it worthwhile?
+Progression path from an apprentice to a guru in music theory?
+What are the different ways to hold drumsticks and what are the pros and cons of each?
+What is the most effective way to clean the rosin off the strings?
+Is learning an instrument online a bad idea?
+Did they ever make a double bass this huge?
+How to play these overly extended intervals on piano?
+What is the usage of &quot;Zooming Out&quot; in showing an amplitude envelope
+Is there a correct way to sing without belting or projecting?
+Music Notation - Little notes
+Triggering a sequence on Mainstage and on a Analog Rytm with a Beatstep controller
+Purpose of double-sharps and double-flats?
+Cleaning a tarnished flute
+How do I write notation for multiple voicings?
+Collective word for sharps and flats in the key signature
+How can I keep my amp from buzzing?
+Rules of how the bass should (and should not) move in chord progressions
+Statistical Average range for a Male singer
+Sheet music equivalent of ellipses/etcetera
+Why do I wear out the frets on my guitar faster than most other folks? Do I need a lighter touch?
+What does it mean for a sound to be &quot;dirty&quot;?
+Algorithms for music composition
+How can I overcome the fear of performing in front of an audience?
+What key is correct when guitars are half step down?
+Flat symbol in key signature and bar
+Rest above a note in a piano piece
+How to correctly classify different guitar tunings?
+What is the difference between &quot;Solo&quot; and &quot;Improvisation&quot;?
+Can chords found in parallel modes of the relative minor of a key (or relative major when in a minor key) be considered borrowed chords?
+What usally follows an Augmented major seventh chord
+Can you directly start to learn the alto flute without beginning by the C-flute?
+Practice amp for a flute/piccolo
+Can you start playing piccolo without playing the flute?
+Building complex chords from Complex figured bass
+Octave changes on 2nd time
+Is there piano notation for finger sustained notes (as opposed to pedal sustain)?
+What is the best way to develop a theoretical approach to practical harmony for guitar?
+How important is harmony theory?
+Guitar notes: rest vs tie
+How common is the complete circle of fifths progression?
+DAW Synthesizer that allows you to start with a sample instead of a recorded wavetable sample
+Fingernails and vibrato
+Releasing MIDI key causes a sound - using Ableton Live - how to avoid that?
+Is it possible to learn Flamenco guitar on a steel-string guitar?  Will it sound right?
+Playing non-Western scales on the Oud
+How much of classical Arabic maqam music is improvised?
+Must one be born with a sense of rhythm to learn to play a drum set with both feet and both hands?
+Why do standard modern pianos have 88 keys?
+transposing instruments: How to learn to play standard sheet-music?
+What does the tie across other different notes mean?
+What is this cross staff tied/slurred note supposed to be?
+Does an implied tie exist
+Do accidentals apply to other staffs of the same type?
+When to use a dot or a tie in music notation?
+What is Dot &amp; Tie in Drumming sheet?
+Notating 6 (or more) triplets with a single beam?
+How should 3 notes joined with 1 beam line drawn on 5-staff-line?
+How to remotely listen to acoustic piano accompanist, so they can record a track with no voice, but at my tempo?
+Can I use a Line6 Spider combo amp as a cabinet?
+modulating by a tritone
+What is meant by a &quot;release&quot;?
+I don&#39;t like my &quot;head voice&quot;, is there anything I can do?
+Logic Pro X and Ivory II American Concert D No Sound
+Is there any easy technique or guide to remember chord conversion?
+Transposing Second Waltz (Shostakovich) for Bb clarinet?
+Scraping my index finger on frets
+Causes of sharp pain in a fretting finger after playing guitar or bass?
+Do non-tonic ear training exercises hurt music students?
+Palatino student clarinet compared to a Allora Vienna intermediate one?
+How high from the ground should the keyboard from a piano be?
+Band-in-a-Box type software for Linux
+Where can I go to play an acoustic piano regularly?
+Traditional Grip Finger Technique
+Wrist problems when using the first fret
+Why is the diminished scale &#39;artificial&#39;?
+Can I switch from the keyboard to the piano?
+Really silent guitar practice
+Which advanced chords can I use for a song composition in scale of G?
+Major and minor scales
+Which fingering to use when playing the same piano key twice in a row?
+How do I play Do Re Mi Fa etc using just one string?
+How to mic an upright piano to record singing and playing?
+Difference between minor and major pentatonic scale boxes?
+Why is the lowest note on the piano an A?
+Why are there twelve notes in an octave?
+PA System: What type of speaker for that &quot;punchy&quot; bass?
+Why Seven Principal Tones?
+What is the optimal proportion between the teacher time (lesson) and self dependent work?
+How do you find the best teacher?
+Music notation software for JianPu and erhu notation
+How to approach the study of a piece for guitar (Leo Brouwer, Estudios Sencillos no. 6)
+Is there a MIDI music notation program (e.g. Finale) that automatically detects rhythm?
+What are modes and how are they useful?
+Octaves in counterpoint
+What is the importance of vocal vibrato?
+How to differentiate between 12/8 vs 6/8 timing (or hemiola)
+Do I have a problem in my ring finger?
+Analyzing a Jazzy ending
+What tonal differences are there between 1 x 12 and 2 x 12 cabinets?
+How many sound interface inputs do I need to record drums?
+Learning Guitar Licks
+proper uses of minor seventh chords
+Will learning to play another instrument help me to become a better guitarist?
+What is the difference between splicing and superimposition?
+Which instrument can a person play with 2 malformed fingers on each hand?
+What is good software for learning how to sight-read?
+Microphone positioning to record acoustic guitar &amp; singing with a single mic?
+How do I find chords to go with my melody in music I write
+How to press several piano keys with one hand simultaneously?
+How to use a 61-keys digital piano?
+Does it make sense to do exam grades as an adult learner?
+What are the legal issues of posting a cover version online?
+Can I use a pedal for Casio CTK-1200 keyboard?
+Fuzzy top A on saxophone
+Taking up piano exams
+How much difference does the guitar make when recording with a modeler?
+How to not to break string of guitar while tuning?
+How to Tune a 10-hole Harmonica?
+Is there a name for the screeching sound made when changing chords on a guitar?
+What is the purpose of two staff lines?
+Connecting guitar to Amplitube
+Is there a name for this sort of ambiguity with respect to the rhythm of a piece, and/or is this a recognized technique in composition?
+In a song in G major the sound F appears and sounds good. Is there a name for such a phenomenon?
+Is there a name for this: text syncopates otherwise unsyncopated vocal music?
+Is there a name or common usage of this piano damper pedal effect? 
+How does one analyze tricky time shifts?
+What is the proper name of the dash symbol over a note and how to play it
+How did the notes of the Western musical scale get their letter names?
+I have some lyrics with a melody and a chord progression. How do I go about adding music to it?
+How many hours of practice total are typical for different piano grades?
+What is the proper way to notate the end of a section played &quot;sul ponticello&quot;?
+What kind of converter do I need to go from a Yamaha-p105 &#39;USB to Host&#39; to standard MIDI?
+iOS app that recognises intervals
+What would happen if I played two or more notes on a monophonic modular analog synthesizer?
+How to set up multiple tracks recording in Magix music maker
+Best method to learn all chords on piano
+Fender guitar preamp
+Microphone sound not detected on Casio CDP-230R
+Are there any good vocal training apps for ios?
+Should I rest the bass drum beater on the skin or in air when playing a drum kit?
+What does this note - B# - mean?
+What are the differences between an American and Mexican Fender Stratocaster?
+Expand Bass Guitar Playing Beyond Root Notes
+Will learning guitar tabs help me improve at learning other tabs/playing melodies?
+How can a shy singer get feedback?
+I am a beginner piano player, have no idea how to emphasize a downbeat
+How does your brain learn to play the piano two-handed?
+Switching from piano to harpsichord
+Why did composers write atonally?
+Numbers above notes
+Adult learning to play popular songs on piano
+Is there a DAW for iPad with support for tempo and measure changes within a project?
+Problem determining vocal range
+Playing Pizzicato on an Electric Bass Guitar
+What is a typical volume range for a singer?
+Looper app for iPad?
+What&#39;s the Italian musical term for &quot;in minuet steps&quot;?
+How can I slice and modulate samples in Logic like Ableton&#39;s Slice To Midi feature?
+bass technique for 4th and 7th jumps
+What&#39;s the concert pitch for Saint Petersburg Philharmonic?
+Augmented 5th on B double sharp?
+Octave shift context
+Meaning of diamond-shape notes on guitar staff
+Beating &#39;Blank Page Syndrome&#39; and Projecting Intent
+In a classic 12-bar-blues pattern, what are the changes for a &quot;chunka-chunka&quot; rhythm?
+Transposing on a guitar
+How can I get a violin sound from my electric guitar?
+What are some effective ways to use a key change during a song?
+Are there any nice ways to play B diminished chord (B triad from C Major scale) on standard tuned guitar?
+How to learn rap music?
+How to use padKontrol with Ableton Live?
+Why does this note sound like it is not played?
+Resources for singing
+Is this a Csus4 chord?
+Is there a computer program to transcribe songs to sheet music?
+Proper symbol for this chord (1 5 7 9 11)?
+What does a triangle mean in chord notation?
+What is the right way to look after a concert flute after playing it?
+How exactly the exact symbols (C C# D D# E F F# G G# A A# B) of 12 tone equal temperament with octave (2x) and perfect fifth (3/2) found?
+How does one sing with vibrato?
+Composing in Phrygian mode
+Guitar rig: the switch from beginner to intermediate
+Notation for flute trills in music score
+How do C1, C2, C3 relate to C and CSus4 on guitar?
+Can a breath controller be used with a keyboard?
+Will my wind instrument be damaged if I leave it assembled?
+Where on earth do I begin?
+Why shouldn&#39;t I put electric guitar strings on my acoustic guitar?
+What is a Neapolitan 6th?
+How to easily build chords on fl studio
+Will it negatively influence the sound of my acoustic guitar if I put stickers on it?
+Minor 11 chord - request for note by note example, and theoretic explanation
+What is the cheapest hardware synthesizer, or where are schematics for DIY?
+Is it better to memorise each scale, or just memorise the patterns?
+Guitar scales further up the fret board.
+Notations mentioned in answers re. trombone
+Alternative ways to classify Instruments
+F# Minor and F# harmonic Minor are same?
+Every time I press &#39;record&#39; I forget how to play and sing!
+Why is a note sometimes a 4th and sometimes an 11th?
+What does a small x-like symbol before a note mean?
+leaps: small vs. large (learning counterpoint)
+How can I get through some difficult runs in a piece otherwise at my level?
+Is there a word for a type of song about a &#39;thing&#39;?
+Learning the piano strictly by learning chords...and saving scales and complex fingerings for later...
+What to look for in a bass amp for extended range bass guitars?
+Any way to improve musical memory?
+What ukulele chords would go well in a song with a C-F-G7-C progression?
+Chromatic accordion: how can the left hand slide down while pushing?
+Analog Delay, guitar pedals, time measurement
+I want to record but am nervous about it, why, how to get ready?
+Piano question (walk-ups and downs)
+Do I need an effects loop in a bass amp?
+Why do guitar chords never sound harsh to me?
+Beatles - Because: Chord progression
+Melody within a chord progression
+How can I significantly improve my hand independence on piano?
+The origin of &quot;Battle Ends And Down Goes Charles&#39; Father&quot;
+Can piano be self learned?
+Is a Cm7 chord considered minor or dominant?
+How loud is an alto recorder
+Trying to get that tube sound from a gainclone amp
+Should I look at the fretboard while I play guitar?
+What are the different ways in which musical instruments are grouped together?
+I love with Ableton Live as a composition tool (session views). But I can only use Logic Pro X for studio mixes. What can I do?
+Is it possible to plug one guitar into two amps?
+Is it possible to create a professional music with Fl Studio?
+Question about reading music sheets
+Why does B work as a bass note against F7 in Bb?
+Do different minor chords (vi, ii, etc) convey different nuances?
+Is the following non-standard fingering for an A shaped barre chord still technically sound?
+Do bass notes basically just accent and/or add notes to the above harmony?
+Ending a song with a dominant chord
+When did keyboard partitions start to use the G-clef for the upper staff ?
+Guitar less resonant than when new; humidity problem?
+What does the &quot;o&quot; notation signify?
+Is it possible to do tempo changes while practicing with metronome?
+How to sync original bpm of an mp3 file to the bpm of my drum module?
+What is the &#39;+&#39; symbol mean in a chord?
+Why are the chords C-E-G and G-C-E both considered C Maj?
+Trumpet low C♯ and D
+How to avoid audio clicks when automating the bypass paremeter in the tremolo plug-in in Logic?
+Should ossia stave barlines connect to main stave?
+Are doubly augmented and doubly diminished intervals practical?
+In simple terms, how would you describe Rhythm and Melody
+Acoustic and classical guitars, which is which?
+Should a new guitarist practice on 1 instrument or vary it?
+What is &quot;groove&quot;?
+How can I get the instrumentals for a song?
+Is it mandatory as an electric guitarist to get obsessed with kit?
+My electric guitar gets noisy when I bend over
+Why do retailers mark songs as &quot;explicit&quot; when they clearly are not?
+What are the Reggae Chords
+I&#39;m a bass and I need to know what a Russian bass vocal range is
+Can it be wrong to use a series resistor in a 2x12 cabinet to have matching impedances?
+How to find an analysis of a classical piece in the internet
+How can one restore a very old guitar?
+What do I need to start playing violin amplified?
+What&#39;s the difference in sound, between an acoustic guitar with a soundhole magnetic pickup and an electric guitar?
+Tips on identifying intervals by ear?
+Simple looper pedal that can switch between at least 4 (layered) samples
+Can amplifying input port break sound card?
+Do we find music arranged according to Western Music Theory pleasing because of &quot;biological instinct&quot; or because of what we learn?
+Can I map half my midi controller keyboard to one octave and the other half to a different octave?
+How important is string-muting when playing the bass?
+Writing SATB arrangements so that the bass voice is still audible
+Are counterpoint and harmony mutually exclusive?
+Why is the complete circle of fifth progression more common in minor than major?
+Do notes from non-natural minor scales fit well in the associated major key?
+What is this musical symbol (inverted &quot;Z&quot; inside a staff)
+How can I learn to play vibraphone like Gary Burton?
+MIDI: How do I refer to (and search for) software that will play audio from a MIDI piano?
+How to play different beats on different hands? Drumset
+Absolute Beginner wants to play Jazz Piano
+Sound-to-color synesthesia - a good and helpful thing?
+What is the importance of tempo and time-signatures?
+How to achieve jazzier improvisation?
+MIDI controller and software integration
+Piano getting out of tune and noisy after 6 weeks
+Proper organ glissando technique?
+Are the accidentals counted as a single note or double notes?
+Modulating between minor keys
+Can you use a Marshall single channel footswitch with a MG102FX 4-channel amp?
+Which one to teach first: solfege or absolute notation?
+Cheap acoustic guitars versus more expensive models: Which materials and/or construction elements have the biggest impact on sound quality?
+Need help understanding tab for ukulele. Does anyone know any good on-line resources?
+Alternative Analysis for Non-Functioning Secondary Dominants
+What are some interesting ways notes and chords are spelled in cultures outside of the U.S.?
+What are &quot;Es&quot;, &quot;As&quot;, etc. chords?
+How can I develop mastery of polyrhythms in playing guitar?
+What exactly does &quot;feat.&quot; mean?
+How does one describe the level of playing that is neither piano nor forte?
+Why is the back of a double bass&#39;s body cut in the middle?
+What frequencies should the violin and viola be tuned to?
+Skype lesson - voice and instrument into Skype
+How to bind two different samples one on my pad and the other onto keyboard keys
+M-Audio Oxygen v4 49 Disconnection Problem
+Audio interference in recording
+What physical effects cause ageing/worn guitar strings to change their tone?
+What might make for &quot;ambient&quot; or &quot;atmospheric&quot; classical music?
+How should I write a 2nd interval between two voices?
+Groovy piano/rhodes tunes
+Guitar Notation E-Gt
+What&#39;s the correct technique for strumming a guitar?
+What are some good/interesting ways to exit a circle of fifths section?
+To which notes do dynamics notation apply? (eg. pp)
+Does &#39;just&#39; or &#39;well&#39; temperament center around the key of a given piece, or is it key-agnostic?
+Is keytar playable with both hands?
+Trill in Chopin Nocturne
+How can I get a less directional sound from a loudspeaker?
+Writing Arrangements
+Happy, oriental minor songs
+Two sounds speak in a same time, how can I set it back?
+What kind of string should I use for my Folk Guitar?
+What food / drink affects vocal characteristics?
+I&#39;m tonedeaf. If I sing to my baby, will I damage his/her musical ear?
+#iv dim leading to I (tonic)
+Guitar intonation issue - still flat but screw as far as it&#39;ll go
+Ways to get out of a scalar rut?
+How long should each chord in a chord progression be played?
+Can I widen the grooves on my guitar&#39;s nut myself?
+Is our ability to learn music related to our ability to learn languages?
+How can I stop my electric guitar strings from rusting so quickly?
+Why is the tonic chord of a key formed with the 1,3 and 5 notes of the key but the major chords in that key are the I IV and V?
+What defines a Tango?
+Methods in Singing Synthesis
+Do pianos really need to rest before tuning, after being moved?
+chord progression if the chords are not part of the scale?
+Use of Music Theory in Composition
+Acoustic guitar as solo guitar in a band
+The melody+chords pattern in perspective
+How to play a piece &quot;cantabile&quot;?
+Why did composers of the Baroque sometimes write two of the same dance in a suite?
+Practical limitations of the 4 mallet technique for idiophones from a compositional point of view
+Can you really teach how to play notes on the flute?
+Short scale guitar tuning to A
+How can you assign a single track to multiple outputs on Cubase 5?
+Vocal free-time song: legato question, and slur (&quot;portamento&quot; vs &quot;glissando&quot;) specific case
+Harmonizing a melody for 4 voices... help?
+I am looking for sampling software for the keyring 49?
+Parallel octaves vs doubled octaves
+Website that displays chords on a keyboard
+Is there a way to keep my guitar/bass cable from becoming unplugged when I move?
+Alternate tunings on a 12 string guitar
+How difficult is to get basic melody out of Theremin?
+Is it important to add a noise gate/suppressor to a pedalboard chain?
+Books on orchestration specializing in dynamics?
+What&#39;s the term for speaking fast in a verse
+Will different gauges resolve my sound/distortion problem?
+Where to upload (keyboard) transcriptions?
+Why “delta” chords?
+What can I do to minimize damage to my picking hand wrist as I practice guitar?
+I can hardly memorize piano notes
+Is there some way to quantify melodic transitions?
+Are Music Grades somewhat standardised around the World?
+Is it possible to move patches around on the microKorg?
+What&#39;s the name of the &quot;dual voice&quot; effect in hip hop music?
+How do I learn proper breathing when teaching myself the flute?
+How does a flutist maintain a grip on the flute when the stops are open?
+Playing flute High notes: role of lip position and one&#39;s mood
+Blowing Low Notes on the Transverse Flute
+How to prepare for an audition when chops are tired?
+AMEB Grade 4 Theory question - harmonising cadence points in a melody?
+What does a goniometer (sound) show?
+Does a person have a biological lower and upper limit with the tone one can achieve with his/her voice?
+Why does music increase abstract reasoning ability?
+Does good intonation alone really make you &quot;louder&quot;? If yes, why?
+Violin E string
+What is it called when singers very rapidly change pitch while singing the same syllable of text?
+Akai APC Mini Compatibility with FL Studio
+6th string root dominant 7th barre chord voicing
+What does &quot;rhythmically&quot; mean on sheet music?
+Open strings and semitones on a classical guitar
+What is the standard location of piano pedals?
+Why do guitar teachers and lesson books teach playing a G Major chord without using your pinky?
+How can different compositions use C Major?
+Why do composers use seemingly/unecessarily complex time signatures?
+DIY pedal board without a hinged lid
+Connecting Maschine to Synth
+How to transition between chord progressions of two songs in different keys?
+Four dots over tremolo minim (half note with slash)
+What does it mean when one says that rock and jazz have strong beats on the even numbered beats?
+What do the numerator and denominator of a chord name in roman numerals mean?
+What do dotted stave lines mean?
+What is the process to get from learning an instrument to playing a song you actually want to play
+What do these beamed half notes mean?
+What is the proper humidity range for an acoustic guitar?
+How is electric guitar played without cables?
+Which is more economical for a casual/learning player - real piano or electronic?
+Why do the Canadian and American ways of writing chords symbols differ?
+Put a cup of water inside a piano?
+Why is an amplifier&#39;s effects loop useful?
+How close to a radiator is too close?
+Processing Vocals/Layers of Vocals
+What does the 3 above the staff represent?
+Soft pedal modified to act as practice pedal
+Best method to learn to play barre chords?
+POD X3 Live with M-Audio Oxygen V4
+Vocal fach and passaggio
+Room-wide humidity buffering
+Why are notes on the harmonica laid out the way they are?
+How often should I replace the strings on my guitar?
+How do you identify a good acoustic guitar?
+What does &quot;NC&quot; mean?
+What does &quot;I Solisti Veneti&quot; mean?
+What does &quot;1 x Tacet&quot; mean?
+What does &quot;Open Vamp&quot; mean?
+What does &quot;Doubletime feel&quot; mean?
+What is &quot;Phrasing&quot; in the context of playing a Solo?
+What to look for when buying a digital piano for a beginner?
+Replacing steel strings with nylon strings
+Non-diatonic chord?
+What are these small numbers, and squiggly lines on this guitar sheet music
+Acoustic guitar strings change by time and should i change them?
+What staff affected by a dynamic mark?
+What gives a piece of music its personality and feeling?
+How do archaic instruments affect contemporary music?
+Improving as a solo guitarist without learning scales
+Logic Pro X - Recording From Multiple Controllers
+Do the &#39;natural&#39; chords to use in a key change if you use a different mode?
+Why can some people play music well who don&#39;t &quot;know music&quot;?
+When looking at tablature for guitar how do you figure out what chords to use?
+Software for trying out 19-TET (and others)
+Multiple sets of notes on sheet music
+One of the tuning pegs is at the end of its range on my Floyd-Rose guitar, what can I do?
+Arthritis In Hands (Playing With Pain In Hands) - Are There Recommended Approaches?
+Can one become a concert pianist if they start learning at the age of 10?
+What is actually involved in moving a piano?
+What&#39;s music? A question about &#39;foundations&#39;
+For fingerstyle guitar, is anchoring your pinky on the guitar bad?
+How do you practice Audiation (playing music in your head)?
+Raised leading tones in Phrygian mode counterpoint
+Best way to indicate a time signature in inline text?
+Meaning of &quot;Battuta&quot; in Counterpoint
+Voice-crossing in First Species Counterpoint
+Can&#39;t differentiate between time signatures
+How to avoid the &quot;clogged throat&quot; feeling when singing?
+How cold is too cold to move a piano?
+Clarinet extension in Wagner&#39;s Tannhauser
+Clean Amp + Distortion pedal vs Distortion from amp?
+How to get started recording music with Reaper?
+Learning Appropriate Finger Picking Styles with Alternating Tunings
+Strap button screw length for acoustic guitar
+Queuing up and outputting MIDI files
+How to tell if an old piano can be restored?
+How much higher will I realistically be able to sing with daily practice and dedication?
+How to improve piano accompaniment for singing
+Making a solar system piece out of Holst&#39;s &quot;The Planets&quot;
+Does Singing Lower Notes Require More Breath?
+How to programmatically generate Parsons code from a sound file?
+Can a song in one key contain major chords that are not in the key? Or does that change the key?
+Trying to understand a nice harmonic end
+What is the definition of &#39;playing in the pocket&#39;?
+Finale software: How can I add a measure within a numbered repeat ending?
+Simplifying a complex melody in Finale
+What is a Musician?
+What is it called to take a scale but start on a different degree?
+C major being dramatic like C minor
+How can I learn timing from a guitar tab?
+Quality Loss when recording with amp simulators
+Why does my tone knob seem to act as an on/off switch and what should I do about it?
+What approach should I take to learn Jazz/blues guitar?
+Can blues be upbeat and cheerful?
+How to achieve a good tone with a small guitar amplifier
+What is the meaning of &quot;4/2 ₵ II?&quot;
+Numbers under a note
+How is the mordent played in the given piece from Petzold
+Entrance of the Queen of Sheba- in need of clarication on sheet music
+Is music really infinite?
+the fingering intended by the composer
+Is playing blindfold a good practice method?
+What methods are there to determine when a violin string should be replaced?
+Is stomping on the soft pedal of an upright piano bad for the piano?
+Examples of musicians expressing in words how they comprehend music
+What are some ways to improve my embouchure stamina besides regular practice?
+Low B keeps going out of tune
+Is singing a matter of talent or practice?
+Bored when playing instrument
+Is there a name for a minor scale with a raised 3rd or a major scale with a lowered 6th and 7th?
+why major chords only have 1-3-5 notes why not other notes?
+Modulation in the violin solo Bach&#39;s Laudamus Te
+How to play faster songs on the violin?
+Meaning of marking &quot;armonici&quot;
+How do I teach a five-year-old violin?
+Extended melodic structures
+Logic Pro X Movie Sound
+Practice amount and habits for time constrained individuals
+Dear Mr. Fantasy by Traffic, drum section in the first verse
+How can I connect speakers to my POD 2.0 and get a good sound?
+Are there reliable free/cheap software tools which will transcribe a sung melody/lyric?
+Practice logging software
+Is there a Relative Pitch Clef?
+Can I use a tablet for looping?
+Is there some software tool that analyzes audio to produce pitch information?
+Audio level on recording a piano
+Audio mixers versus computer software
+What are the Solf&#232;ge names of the semitones between the basic do, re, mi, etc?
+How do you do accidentals (eg. E♭) in solf&#232;ge (Do Re Mi)?
+Which enharmonic to use when writing down a sequence of chords
+What are the various ways of vocalizing rhythmic figures?
+What are the characteristics of a Sarabande?
+&quot;Folk size&quot; guitar: equivalent to 000 body type?
+What are the parts of a classical composition?
+How to start playing by ear/improvising?
+How do I write music down from a recording?
+How do I learn to &quot;play&quot; FL studio by ear?
+Alesis DM10 (2011) with Logic Pro x
+What are the specific progressive steps to take in basic ear training?
+Chronic hand pain and stiffness and guitar playing
+What&#39;s the meaning of the phrase &quot;an eighth note at quarter&quot;
+Systematic ways to study the piano?
+High notes from guitar amplifier hurt my ears, even at low volume
+Will Playing a Guitar Through a Bass Set-Up Damage the Amplifier and/or Speaker?
+key changing in a song?
+How should I understand time signature?
+What actually changes in related scales?
+Is it necessary to tune a guitar to some standard pitch?
+Why should I alternate fingers in this piece?
+Composition - How to connect musical periods
+Melodic Minor - Uses
+What exactly is the point of the Melodic Minor Scale?
+Multichannel recordings with computer
+How can the ukulele D7 chord have different fingerings with different sounds?
+Do any musicians release the original separate tracks for remixing/remastering?
+How to choose drum pitches?
+Deciding how to articulate Baroque semiquavers
+Different note head uses in MuseScore?
+How to improvise over a C#, B, A chord progression?
+Ensuring one&#39;s sweep picking is uniform in dynamics?
+What are the disadvantages of buying a short-scale bass guitar
+How do you play a glissando with two notes?
+How do you draw a quarter rest with a pen/pencil?
+Any quick way to know if my tune is already used?
+How can I retain a tempo so as to keep in time when playing with a group?
+What does the arc under fingerings mean?
+How do you properly define diminished 9th, 11th and 13th chords?
+Which tone names should I learn on a transposing instrument like a saxophone?
+Protecting signed acoustic guitar?
+Is there a way to let me switch delay before/after distortion without needing additional pedals?
+Are there rules that determine whether a chord belongs to a particular key?
+How should range on the flute grow as I learn?
+&#39;Cello mute: how to store on strings w/o altering sound?
+iii9 - I progression in Bach?
+Is there such a thing as an Add#9 chord?
+Can a 7/8 scale guitar be detrimental to my playing ability?
+Why is dropped D tuning used so often?
+Get segno to appear above chord-names in lilypond
+How to start self learning to play guitar?
+soprano getting worse and worse
+Which exam board should we use? (UK)
+What defines pop music as a genre? Which patterns and trends can we find in pop music?
+How to play bass part in Yann Tiersen&#39;s &quot;Comptine d&#39;ete no. 2&quot;?
+Single reed mouthpieces: How do Facing Lengths, Tip Openings, and Chamber Sizes affect playing?
+Singing seated on the floor: Best position?
+Is guitar action affected by tuning?
+Can you introduce fugue themes in the middle of a measure? If so, how?
+When we talk about an 88/76/etc Key piano, does that include all keys or just white notes?
+Blackout during practicing oboe
+Opposite of rinforzando?
+How not to touch neighbouring strings?
+I don&#39;t like my voice
+What does &quot;in position&quot; mean when referring to scored music?
+Why isn&#39;t D the &quot;most central&quot; note?
+Chord Roles/Reputations
+What is the terminology for how we identify numbered notes like C4, E3, D6, etc?
+DS or DC al coda how to tell go to 3 and 4 verses
+What&#39;s dance music and what&#39;s the difference from electronic music?
+How to extend and strengthen low end of vocal range? (I need about a whole tone extra.)
+No sound output in LMMS
+Question about analyzing a Dm C A# chord progression
+File formats for sheet music
+Transcribing a Standard MIDI File to sheet music
+What makes a song a &quot;rock&quot; song?
+Why is it so hard to count beats and play at the same time?
+Debussy: Reflets dans l&#39;eau: Rhythm Ambiguity
+Digital Pianos vs Old Upright Pianos for classical music
+How do I play notes in a scale/key freely up and down the neck without getting caught in boxes and shapes?
+Software that slows down music to help in transcribing
+How to learn the piano, if I can already play the piano accordion?
+Guitar tuning problems
+Will a portable electronic keyboard sound better if connected to MIDI software?
+Why is a C7 chord named a dominant seventh chord?
+Could someone help me understand a little about sound/tone? Beginner/intermediate guidance perhaps
+61 keys +better piano sound or 76 keys + relatively low piano sound
+When is a piece in A minor versus C major?
+How important are chord inversions as an intermediate guitar player and what are their applications?
+Simple, easy software for recording over yourself
+Moving to guitar from piano
+How is a chord progression with G#, D#m, F and G possible?
+Time signature change.
+Why do snare drums sound better on up beats?
+Pedals, pedalboards and velcro
+How does a tab guitar player learn sheet music?
+Change staff height in Musescore
+Bass trombone maintenance
+Is the particular skill of singing the melody correctly necessary to be able to play the trumpet?
+Are canons easier to write than fugues?
+Once I know the chords, how do I recognize the chord progression?
+Why does bowed string instrument size matter?
+Are certain instruments &quot;arpeggio friendly&quot;?
+How to know if my guitar&#39;s neck is bent or not?
+How to Write A Fugue
+What&#39;s this thing attached to trumpet?
+problem with guitar intro on ELPs &quot;From the Beginning&quot;
+Is my digital piano suitable for learning to play?
+Proper warm-up before playing piano for little finger and ring finger?
+Atypical tetrads
+V chord becoming 7th? minor key
+What&#39;s a buffer pedal and how to use it?
+What is the relationship between the melody line and the rhythm chords?
+What keys contain both E and Am, and is there an easy trick to determine this?
+How do I transition smoothly going up or down while singing without strain or breaking? Is mixed-voice the key? How do I work on it?
+Beginner books for music appreciation for music-theory illiterate adult
+Using flatted third in 12 bar blues
+What are good ways to pick MIDI instruments that go together?
+How to get better sound through multi-effects processors
+How to test all three piano pedals
+How much pedal should be used in practice?
+What is the difference between Overdrive and Distortion?
+Is True Bypass better than Buffered Bypass? Is it possible to be neither?
+How can you use the BYPASS output on a BOSS TU-3 Tuner Pedal?
+What guitar effects pedals are important to get according to genre?
+Why is a reliced guitar often more expensive than a corresponding normal model?
+How many types of modulation are there?
+What are some useful and effective exercises for training absolute pitch?
+Beethoven sonata no 8
+Rachmaninoff Piano Concerto 2 without piano
+How necessary is an USB Audio Interface?
+Music sheet notation explanation (Alto sax)
+Difference between squire teles
+How I am I supposed to &quot;Properly&quot; follow through to the next string while playing the electric bass guitar?
+Is there any difference between these two note values?
+Nylon strings for alternative tunings on hollowbody electric
+Program that converts MIDI files to sheet music with notes written in
+What does an arc mean above the notes in a piano sheet music? How do I play it?
+Varying shuffle rhythm in recording with Reason
+Would it be worth buying better pickups for a cheap bass guitar?
+How do I notate multiple musical voices on one staff in Sibelius?
+Adjust left / right angle of guitar neck?
+String skip in tablature
+What&#39;s the difference between the &quot;smooth&quot; strings and the &quot;rough&quot; strings?
+Open D5 tuning for guitars
+Bracketed phrases in numbered notation
+Beamed note with unfilled heads — What is this?
+Meaning of &quot;actual notes&quot; above staff
+Pinky And Ring Finger Independence And Dexterity
+Can anyone recommend a good resource of baroque cello etudes or exercises?
+How realistic is to earn for living from music, assuming Bachelor or Master degree?
+How do I determine the chord progression Roman numerals?
+Will having an opposite gender vocal trainer affect or slow down one&#39;s learning?
+How far “off” can a piano unison be and still be considered “in-tune”?
+Lifting off vs keeping fingers on the fretboard after striking a note
+What improvisational techniques were employed by Thelonious Monk and Charlie Parker that defined bebop?
+What is the best way to learn to sing harmony?
+Playing cello, should my left hand thumb clamps the neck like pliers do?
+troubles with shifting
+Breaking In New Cello Strings?
+Good jazz pianists to transcribe for a beginner
+Is it acceptable to play the same note simultaneously on different strings on cello?
+Electric Guitar: is a good practice or bad habit that I tap the strings with my picking hand when there is a rest
+How to read these notes
+Why are notes named the way they are?
+Does each note have a more specific name depending on its pitch?
+How to calculate the difference in cents between a note and an arbitrary frequency?
+Songs to play with notes of a major seventh
+How can I toughen up my fingertips?
+Exercises For Conditioning a Broken Hand
+Note Flag instead of Beam
+Mixed Voice - The illusive resonance. Any real ways to actually find this (again..)?
+Notating Original Songs for Musicians
+Comparison between different exam boards
+&quot;Correct&quot; notation for a minor chord?
+Minimum specs required for a laptop to run Ableton Live for live performance?
+Mathematics of Ritardando
+Lack of sustain on guitar
+What is this jazz scale?
+How to know if it&#39;s a mode or scale?
+Score transcription community
+Vertical wall mount / Holding a guitar by the neck
+Ranges in the Real Vocal Book
+The Elements of the Oratorio
+Why does this progression sound good, even if it not resolve to the root?
+Detecting absolute pitch by ear
+How the body vibration on a semi-hollowbody guitar affect the sound through the pickups?
+16/16 vs 8/8 (accents)
+Why do baroque operas tend to have postmodernist stage designs?
+What&#39;s the earliest known piece of polyphonic music?
+What is the percentage breakdown of different time signatures and their rate of occurrence in popular music?
+Edge Zero II tremolo not parallel to the guitar body
+Who is the successor of Schnittke?
+How to create fast runs (i.e. speedy notes)?
+Are there any software to build and 3D simulate an entire audio visual live show?
+Electric Guitar: when playing seated, is it a bad habit that the neck is not locked at a fixed position?
+2 x Mono vs 1 x Stereo Quality
+How can I keep learning new songs and not forget the previous ones?
+Setting up a &quot;hot mic&quot; for a softer vocal sound
+Is &#39;Gianni Schicchi&#39; the shortest well-known opera ever written?
+How can I figure out the key of the song I&#39;m writing on the guitar?
+Composing a piece using the idea of Dual Modality
+How to Write A Ragtime Piano Piece?
+How does string gauge affect intonation?
+Does the line between the time signature have a name?
+Keyboard and Voice: What is the keyboard playing?
+Can you learn how to drum with the game Rockband 3 and e-drums?
+What are the most effective ear training methods ?
+Requesting useful suggestions on ear training, for developing perfect RELATIVE pitch
+What is the &quot;unresolvable chord&quot;?
+Instrument grade exams
+Will a 61-key keyboard severely restrict my piano repertoire?
+Why does looking at the keys make me unable to play a piece?
+Learning a guitar tab: separating bass line from melody
+How much work do DJ&#39;s do?
+What are &quot;full size&quot; piano keys?
+Does a note/key/string struck on one piano cause the same note on another piano to resonate?
+What does it *mean* to be a good guitarist
+Suggestions for switching from piano to electronic keyboard?
+How reliable are keyboards and electric pianos?
+Bass and treble clef brass parts
+How to determine the key and write melodies for a chromatic chord progression?
+Is &quot;harpvox&quot; an existing musical instrument?
+Chord symbols for inversions of 7th chords
+What is this voice used by female singers in Bulgarian folk music?
+What is this bass belt strap?
+Skills for writing your own songs
+Are there any rules of thumb for shifting the key signature within a tone net?
+How much is too much damage?
+How to buy the &quot;right&quot; power attenuator for a tube amplifier?
+Fretless rosewood fingerboard care
+How can I ensure each instrument and vocals are audible during band rehearsal?
+How to control unintentional, natural vibrato in singing?
+Right hand accuracy
+Need to know Accidentals details in piano music sheet
+Why does the following chord progression sound good?
+What is this type of vocals called?
+If between E and F is a halftone, why can F not be an E#
+Playing keyboard at a wedding
+Chords Built On Different Scales
+Does there exist a singer&#39;s muzzle or silencer?
+What&#39;s a good Android app for tuning a brass instrument
+The difference between self-taught and professional pianists
+Simple, step-by-step excercises for those who wants to learn to play sheet music?
+How can I get my guitar to &quot;the next level&quot; from intermediate to ok
+Is Nigel Kennedy&#39;s version of Hungarian Dance No. 5 any good?
+Timing issues with audio interface
+What is this vocal style called, and how can I learn it?
+Chord naming conventions: add2 versus add9
+How can I be sure that I am singing effortlessly in my natural voice?
+Position of white dots in guitar fretboard
+Do hollow body guitars really sound more &quot;mellow?&quot;
+Intonation problems with a low b string
+Left hand thumb position for ukulele
+Removing stuck screws from woodwind instruments
+Why is the reverb effect so much more pronounced on headphones?
+Do I have a grounding issue?
+Music in your head
+What exactly constitutes a PhD in music?
+How can I increase the accuracy of my playing?
+Chords in Moonlight Sonata 1st movement
+Do ear plugs have a big effect on ability to hear the music?
+Strength of clarinet plastic reeds compared to wooden
+How to create four-part harmonies?
+How does a DI box work together with guitar?
+Are adult male sopranos / trebles counter tenors?
+Are short fingers detrimental to becoming a pianist?
+Music Store Etiquette
+Electric guitar tone control fault
+What are some techniques to control feedback in a musical setting?
+How do you strum an upstroke without striking an unwanted string?
+I can&#39;t edit marker text in Logic Pro X
+Is there software to copy existing music sheet?
+Tuning a guitar in D# with digital tuner in iso440
+What is the flash midi player used by musipedia?
+How can I get decent audio from a clip on 3.5mm microphone?
+Musical factors when picking a good school to go to.
+Left hand position for high fretting (electric guitar)
+Improving bass transcription skill
+Is there a pickup for Melodica?
+Cheaper Rehearsals - Regular Practicing
+What&#39;s the use of transparent plastic double bass strings?
+How to identify a particular song or piece?
+Harmony analysis program
+Putting a steel string on a classical guitar? (classical guitar with truss rods)
+Songs that resolve late
+Weird open string sound
+How should I go about learning the oud?
+What does it mean that a Stratocaster is vintage?
+Can bass chord notes be different octaves after playing the root?
+Why is bass note so important in harmonic analysis of music?
+Is there any real-world difference between time signatures such as 4/4 and 8/8?
+How can you tell if the singer is in pitch?
+What would I need to get percussive sounds out of my acoustic guitar?
+What are the benefits of practicing scales for a guitar player?
+D string buzzes when I play a chord, but not when I play the string alone
+How loud is a concert flute?
+How to use delay with distortion/overdrive and/or a crunchy amp?
+Yamaha 300 series v. Aulos 500 series
+How can I learn more chords
+What to call finger positions on fretless bass?
+How to tell the time signature of a song by listening?
+Are minor scales meant to be in sharp or flat keys?
+Feeling of keyboard keys: spring (or elastic) against balanced keys keyboard
+What are the characteristics of a signal from a typical electric guitar?
+Advice on Bass Pedal
+How to convert notes to finger position on a guitar?
+Can&#39;t seem to find a good tutorial on theory for guitar players
+What playing techniques are sensitive to &quot;jamming fingers&quot;
+Guitar recommendation for beginner with practice information
+Headset balancing sound
+Does technicality detract from feeling?
+How can this simple bass line be categorized in chords or scales?
+Singing software
+Proper technique for screaming vocal style
+Looking for notation software with good playback
+Help with interpreting notation in Chopin&#39;s nocturne op. 9 no. 2
+New Jackson Rhoads RRXMG control knob confusion
+What is the connection between time-signature, beat, and tempo?
+How do I convert music to a mathematical formula?
+Vocal Resonance and the Acoustic Chamber
+What&#39;s the difference between &quot;feat&quot;, &quot;artist1 X artist 2&quot;, &quot;artist1 Vs. artist2&quot; and &quot;artist1 &amp; artist 2&quot;?
+Explanation of Phrasing, Accidentals, articulation, modulation for a piano player
+Co-wrote song in previous band, can you use it in a new band
+Pop filters and dealing with plosives in live performance
+Is it possible to differentiate Major scale and Minor scale by ear?
+What does a circle before/between notes mean?
+Learning piano via MIDI keyboard... questions
+What is the theory behind scales?
+Using my keyboard overseas
+Why learn scales? What are they for?
+Music in the 1990s
+Balance between pressure and fullness in singing
+How to read lyrics and music without getting lost?
+Is there a good Guitar Chord building web site?
+Finger hitting multiple keys
+Removing human voice from songs
+What is urgency when referring to music
+Portable power supply for keyboards
+How to sing &quot;like a girl&quot; for men?
+How much is my Qs7 64 key alesis worth?
+Sheet Notation for Am piano
+In jazz, what is an upper structure triad?
+Can I use a separate pre-amp in my combo amp&#39;s effects loop?
+Why does playing the piano give me a pain in the neck?
+How to remove reverb from a recording of a voice?
+Tonnetz algorithms
+Lead sheets vs score at vocal auditions: Changing standards?
+Alternate picking while palm muting
+Why is the recorder a good instrument to start with?
+Three Days Grace guitar distortion tone
+Advice on how to gain velocity feeling on DAW keyboard (piano)
+Which roman numeral should I use for F# diminished chord in the key F Major?
+Complete Classical Guitar Course-Guide?
+Which app they used here?
+Is it OK to play guitar with capo on 5th fret, since I have arthritis in thumb &amp; finger joints?
+How to interpret this chord notation?
+Limits of Fortissimo and Pianissimo
+How low can a normal 6 string guitar be tuned?
+How to remove vocals from a song?
+Color Based Music Notation
+Difference between the string section and wind section
+Which guitar amp input to use with a preamp/effects processor?
+What is the minimum amount of equipment a drummer needs to play gigs?
+What does the &quot;+&quot; symbol mean in a keyboard piece when attached to a note?
+How to begin learning the CAGED Method
+What pedals to get this effect?
+When to use inversions in harmonizing a bass line
+What gives the sitar its characteristic sound?
+Is falsetto a serious type of singing style for a man?
+Chord progression notation
+When should falsetto be used for a male voice?
+Resources for &quot;popular&quot; counterpoint?
+What does it mean to be able to write a fugue?
+Tuning a tuning fork?
+How to make your chord progression sound smoother?
+Why is the whammy bar sometimes called a &quot;Tremolo&quot; arm?
+Sound proofing underneath the drumset
+How to use chords notations in the tab?
+Odd symbol in B&#233;la Bart&#243;k&#39;s Mikrokosmos Book 1
+Is there a more specific name for this instrument than &quot;PVC instrument&quot;?
+Bartok - Mikrokosmos - Book 1 - 10 &quot;With alternate hands&quot;: Thumb on a black key?
+Is i-V a stronger progression than I-V?
+Learning an alternative moving-do solfege -- futile?
+What is a session musician?
+What is this electrical thing in my piano?
+Are music covers and the sheet music of their arrangements legal on YouTube?
+Can Guitar pro 6 read files from a link?
+Music Theory: Frequencies related to playing a note on guitar
+Does a diminished first exist?
+Cajon as Alternative to Drum Set?
+What are the different rhythm styles? Is that the right word?
+How to differentiate between head voice and falsetto?
+How to expand falsetto range?
+How does one set up a guitar amplifier to produce a rock sound/feel?
+How do you sync a Roland Boss RC 300 Loop Station to external rhythm sources?
+Rhythms notes for didgeridoo
+How to specify global markup font-size or other property in Lilypond
+Tuning electric guitar: should I connect it to amplifier when tuning?
+What causes us to hear harmonics?
+Keyboard volume pedals
+Why are the natural notes on the staff special?
+Diatonic scales
+What&#39;s modded in guitar effects?
+When tuning a guitar, should you always end with tightening the string rather than loosening it?
+Basics of stage presence for guitarists
+How do you identify a good amplifier?
+Are there any practical differences between Humbuckers and Mini Humbuckers?
+Guitar beginner
+What should i turn on/off first? turntables, mixer, headphones, audio interface
+Performance practice of Viennese Waltz
+Fretless bass buzz
+Right hand position for mandolin
+Simple explanation of counterpoint?
+Electric guitar grounding
+How to breathe properly?
+How do i get a Zacky Vengeance sound on my electric guitar?
+Ethno and folk music of the german region (excluding bavaria)
+Composing melody for recorder
+Is it ever too late to learn guitar?
+Preventing headphone cord from tangling while drumming
+What could be the key of this chord progression?
+how do you play a double mortent on the piano
+How do many keyboard players sound different in each song?
+How to decode this CSV from a MIDI file?
+Do different synthesizers produce the exact same sawtooth (and square, etc) waveform?
+Connecting several speakers to an amplifier - multi room sound
+Setting twelve string guitar for country blues
+start with lyrics or harmony?
+Why do tube-based guitar amplifiers sound so good?
+Basic effects for bass
+Practice advice: Struggling with alternative left hand and off beat right hand melody
+How does fusion guitar playing work?
+Working out strums per second given beats per minute - using guitar tabs
+Remembering the Chords
+How to relax my wrists?
+Clicking noise in digital piano should i return it?
+Why is music for strings more likely to be in keys with sharps?
+Why do notes have multiple names?
+How to order VST plugins correctly
+How do I get the bar lines in successive staves to align?
+Remote Performance Workflow
+Live Vocal Effects because I don&#39;t like my voice
+Strap button repair
+Knowing when your throat is open
+Do all chords in a progression usually fit within a scale
+What are the various methods of tuning the guitar?
+What are the parts of a modern song?
+Novation launchPad S + Yamaha P105 - How do they connect
+Is there a standard notation for piano fingering?
+Will learning trumpet damage my single reed embouchure?
+Buzz in the G string
+Help identifying an harmonic progression
+Why does my thumb hurt when I play bar chords?
+What are some of the things that influence a player&#39;s &quot;tone&quot;?
+Where should my thumb be gripping when playing A shape barre-chords?
+soloing over I-IV-V blues progression (E-A-B)
+Trouble keeping time to a beat
+Can I use a sound reinforcement (PA) amp with guitar cabinets?
+Legato right hand technique
+Diminished chord with one raised note
+Are kevlar straps on bass drum pedals reliable?
+1/4 to 1/8 jack problem
+Do musicians count the meter all the time?
+What melodies can be played on the first 5 notes of the major scale?
+What are some resources/techniques that will help me understand how to create synth sounds?
+Why do I need to learn counterpoint if I know harmony?
+Becoming a good guitar teacher
+Are there guitar/pickup/effect setups for &quot;ganged&quot; distortion?
+Unwanted distortion from a guitar transducer
+i-bVII-bVI-V Progression
+Most common jazz theory method book
+How to make ASIO work with multiple programs: how can I listen to Guitar Rig plus something else through the same interface?
+Getting back into music after a long hiatus
+Is &quot;You shouldn&#39;t play all 6 strings together on an electric guitar&quot; good teaching?
+Development of electric guitar - why not put a mic in front of a acoustic guitar?
+Difference between Baritone and Euphonium
+Why is greensleeves considered to be in sextuple meter?
+Bass-guitar online exercises for not-beginner
+Switching from a short-scale bass to a &#39;normal&#39; one - Tips please?
+How to hold a bass guitar while playing
+Bass fret board position knowledge
+Is it ok to release a demo EP with average quality on Spotify?
+Playing a Melody While Singing
+New set of strings on (bass) guitar with no adjustable intonation
+Comparing MIDI recordings with real/electric piano notes via microphone
+Acoustic recording quality - mic or audio interface
+Is today&#39;s (popular) music recorded or synthesized?
+Recording practice jams with a cell phone: reduce input clipping
+Learning pick and finger-picking at the same time?
+Is Emajor the dominant chord in A minor?
+How to identify the duration of notes that I hear (In my head or on records)
+How to play barre chords high up on the neck
+When learning a song on guitar by ear, how do you find the chord placements?
+Acoustic guitar with pickup vs. semi-acoustic guitar
+How to insert lyrics in TuxGuitar?
+How do I know when it&#39;s time to change a tube on my amplifier?
+Pattern Identification: Rit. followed by a tempo
+What&#39;s the term for the intervals between notes within a scale that produces a chord
+Double Sharps And Double Flats
+Restringing a 7 string bass: Considerations
+Are minor sevenths allowed in baroque counterpoint?
+Equal Interval Usage
+What are horogram patterns and how do they relate to time signatures?
+Tuning hierarchy for orchestras
+How to start piano composition?
+Correct exercise for Piano techniques
+What does this tablature notation mean?
+Chord compatibility or something else?
+Changing compound intervals into simple intervals to simplify a piano arrangement
+How to give voice into a chord progression?
+What is a simple way to determine the notes in a scale?
+Is there any scale that contains eight different notes?
+What to call the chord G B F# A C# F#
+Keeping fingers close to frets when playing barre chords
+Can the interference of a power drill damage a guitar&#39;s pickups?
+How often should I use my guitar humidifier?
+What is an atonal mode?
+Why do the notes of a blues scale sound good with the I, IV, and V chords?
+Memorizing a random sequence of complex chords
+What&#39;s the difference between overtones and harmonics?
+How to adapt guitar playing style to a new genre
+What is a good freeware MIDI editor for minor changes running on Windows?
+Record Label Instrumentals
+Why were sound effects like the gunshot included in the General MIDI (GM) standard?
+Good books for romantic/contemporary period performance?
+Double stopping pizzicato on the violin
+Fingers Too Short for Barre Chords?
+Guitar - How to play two-string mini-barre chords?
+Pentatonic Scales Question
+How to sing major minor and seventh chord in a song?
+What does circled letters mean over sheet music?
+Why are 1/2 (or 3/4, etc) violins called that way if they are not 1/2 size?
+I&#39;m a musical novice. Can I start my child off on piano?
+How are sharps and flats written in the nashville numbering system?
+What is the rhythmic notation for 5/8 the duration of a whole note?
+How do you achieve this bass heavy effect?
+Resource of musical phrases good for practicing transcriptions?
+Valiha maintenance
+Musically Interesting Guitar Exercises
+How to establish a mode?
+How to stop vocal fry?
+Is it okay to remove the cork from a trumpet&#39;s mute?
+Any heads-up tips for recording bass guitars?
+Do 1/2 size violins sound at normal pitch?
+What are the key points for holding effective auditions?
+Tell the difference between a natural and a sharp/flat tone?
+Voice leading confusion
+Detect piano notes and chords
+Why do some artists tune their guitars half a step or whole step down?
+Can any guitar be tuned in Drop D
+Must &quot;first-time bars&quot; and &quot;second-time bars&quot; appear together?
+Finding motivation learning guitar without a band
+What&#39;s so special about minor and major scales?
+International notation system
+Is it legal to sample a karaoke version of a song?
+Research and studies in Melody
+Really light electric guitar strings and the blues
+What kind of chord progressions am I using?
+Help for electro-acoustic pickup? (Element Active System)
+What does a DI box do?
+Coated Strings—Gimmick, or worth the money?
+Do chord changes affect the key of a song or do all chords in a song belong in the same key?
+String bending on an acoustic?
+Is there a tradeoff between vocal flexibility and safety?
+Extend measure so it occupies whole line
+D major in a C major Chord progression?
+How to calculate the resulting frequency of two tones played together?
+What kind of a mic should a beginner voice artist look for?
+If Irish button accordions are typically B/C how and why are they often played in D or G?
+Making all elements clearly audible in the mix
+Best option to practice piano whilst away from home?
+What is the difference between a mode and a scale?
+Struggle improvising guitar with other musicians / band / jam session
+Approaches to free improvisation
+What is a good way to learn to sing?
+How many outputs needed for live performance when using MIDI controllers?
+What kind of bandoneon or concertina is appropriate for playing tango music?
+Soft note marking
+Is there a name for the dotted eighth - sixteenth rhythm pattern?
+Identifying Vocal Harmonies
+Creamy vs Crunchy Distortion
+Why do I sing a lot better post intense workout?
+Is it reasonable to try picking up the tin whistle quickly?
+How to memorize a long, seemingly random, sequence of two notes at a time?
+What are &quot;sweeping phrases&quot;?
+How to play same note legato?
+Where to start when learning legato?
+What exactly are complex sounds in terms of audio waves?
+What is a parallel seventh?
+Techniques for &quot;Dynamics&quot; with Distortion on Electric Guitar
+What is Voice Leading?
+Ηow can I replicate the sound οf this instrument?
+Do I need a pop filter when I&#39;m recording guitars?
+Altering the sound of a guitar to match a sitar
+Syncing Cubase with External Sequencer
+Tips for increasing loudness while mastering in Ableton Live
+Why are melodies typically played or sung by high voices or instruments in an ensemble?
+Please help me name this chord
+How do I know when I&#39;m singing in key?
+I&#39;m using a Roland TD-11KV Electric drum kit, and recording the toms sound different. Why is this?
+What factors should be considered to determine the correct gain level when recording instruments?
+What is different in double basses without a full body?
+Where do musicians draw their melodies from?
+Guitar learning path for beginners
+Too much string on the tuning peg?
+How can I play F&#252;r Elise well?
+What are the repercussions of using really thick gauge strings on my electric guitar?
+Left hand Finger Technique
+Is it normal for new bought ukeleles to be out of tune every few minutes?
+Slightly tone-deaf?
+Singer &quot;benchmarking&quot;
+Need help with notation and time signatures
+As of 2012, are there any companies producing electro-mechanical keyboards?
+How do I know when to stop singing?
+What is the (Practical) theory behind applying chords for a Song?
+Why do we use such complicated notation?
+Notation for a turn with a half step
+When learning a guitar part/song by ear, how do you determine where to put the capo?
+Why is bII 7(b5) considered a dominant?
+Naming convention for augmented 6th chords
+How to improvise a walking bass line
+Is G sharp major a real key?
+With sheet music, how do you determine whether the song is in the major key or the minor key?
+Trill in Bach fugue WTC 1 BWV 851
+Is this an acceptable fingering of a G Chord?
+How do you count off a 3/4 waltz?
+Cymbal rolls on electronic drums
+What&#39;s a &quot;guide&quot; in the studio recording process?
+What is the difference between mono and stereo?
+Correct terminology for chord inversions
+Does the MicroKORG XL+ have internal speakers?
+How can a guitarist treat and avoid lateral epicondylitis in the fretting arm?
+Colorful sounding chords
+My fingers ache after practice. What can I do about it?
+What are the rules for using diminished chords in part writing?
+Different Simile Marks
+Why are notes beamed across the barline in this piece?
+What are the advantages of point to point (PTP) wiring?
+Minor scale with 7th chords, 7th not raised on 1 and 3
+Composing/Arranging for a String Quartet
+What are the benefits or drawbacks of playing different types of guitars?
+Songs with everyday &quot;background noises&quot;
+Roman Analysis of &quot;Ab B G&quot; chord
+What scales can I play over Maj7 with lowered ninth?
+Can a scale contain both a sharp and a flat note?
+What are the chords in the harmonic minor and the melodic minor scales?
+Chords triads in any scale
+How to make people interested in what we&#39;re teaching?
+What is tritone substitution?
+Drummer: Follow Bassist, Guitarist, or Lead
+What is the purpose of the mixolydian scale?
+Differences between the concept of Scales , Raagas, and Thaaths?
+What is the I-vi-ii-V Chord Progressions?
+Is there any other blues chord progression?
+Chord progressions
+Is there a general rule when to use a 9th, 11th, and 13th chord on piano
+Modal chord progressions for Rock music
+Learning Bossa Nova Guitar
+What is this guitar trick called?
+How should I practically prepare/digest/view printed sheet music on a piano?
+What are the limitations for a guitarist with arthritis in his hands?
+Tabs/Partitures Version Control System?
+Can a tuner help to tune my violin in perfect fifths?
+I heard a song of Coldplay today but I can&#39;t figure out what it is (whistle provided)
+Sharp pain in fingertip of fretting hand index finger
+Recognizing downwards intervals by humming corresponding upwards interval - bad practice?
+I need help to understand chord intervals (not single note intervals)
+Diminished Intervals in Voice Leading
+Musical Aids to Memorize Intervals
+Where to start from?
+Boogie Woogie in another keys what are the limits?
+Sweaty hands while playing piano
+&quot;Easiest to sound ok&quot; small non-reed woodwinds to learn
+How do I reduce treble from an electric guitar without the use of an equalizer ?
+Caffeine / Alcohol Before or During Rehearsal
+Why do old russian guitar songs sound out of tune?
+Difference between Polychords and Extended chords
+Vocal attack technique
+Who plays the chords during a live performance when lead guitarist is soloing?
+Indian Bamboo Flute: Practice
+Do all jazz musicians [in a band] need to know a song&#39;s melody?
+What is intonation and how can I find out if my guitar has correct intonation?
+How to Harmonize uncommon scales?
+How to give more depth to vocals when mixing?
+Are there any VSTs for removing harmonic content from audio?
+Problem with low tunings on my guitar
+FL studio as VST plugin into Virtual DJ 8
+Are there any VSTs that emulate analog output filters?
+&#39;Fine&#39; at the end of the song
+How useful are learning aids in teaching oneself piano?
+What to look for in a $1000 archtop guitar?
+Where does punta music originate from?
+What&#39;s the point of keys other than C and Am?
+Any established exercise to ease finger movements while playing piano
+What notes are optional in jazz chords?
+How do Pre War Martin Guitars Differ From Modern Ones?
+Looking for software that checks for voice leading mistakes in MIDI, MusicXML, or MuseScore formats
+What does Grt. and Sw. mean in this organ score?
+Learning Piano without a teacher
+Which one has more impact on the sound, the string or the body?
+Electronic Wind Instrument technique resources
+Valve (tube) amps and clean tone
+What is distinctive about the Hammond B3 organ?
+Is my 1951 &quot;Nocaster&quot; worth restoring?
+Travel instruments: what are the smallest and lightest?
+What are the limitations of the ABC notation format?
+Low audio output from DJ controller
+Billy Corgan&#39;s Sound, on Siamese Dream
+Using two microphones for vocals
+Low E buzz troubleshooting
+How do I make funk rhythm guitar sound fuller and nicer?
+What are most common effects (pedals) for Post-rock music genre?
+Website that analyze songs?
+How can I develop an interesting or challenging 8-Beat rock rhythm?
+What kind of acoustic guitars are good for rhythm playing?
+Making sense of 5/4 time signatures
+What&#39;s this rhythm called?
+What Moods have been associated with D-Flat major?
+Is a tie needed into a second-time bar?
+How many bars can a clarinet sustain?
+Half step mordent in Sibelius
+Relationship between 3/4 and 4/4
+Name for descending semitones under a repeating musical phrase?
+Why note B is marked with H in Scandinavia and Germany?
+Where could I find songs where the drums are muted (to play along on an electrical drum set)?
+What are some great exercises for adult recorder players?
+How to turn any (pop) song into a jazz song?
+How do preamps and power amps compliment/replace guitar amplifier heads and combos?
+Notation symbol I&#39;ve not seen before
+String bending on acoustic
+Is it possible to create a completely new genre of music
+Need Help in Starting to Learn Guitars?
+Why is the last semiquaver outside the last triplet of the measure?
+Do I need a teacher to learn violin?
+IEM, 3.5 and 6.35 jacks - Only get left ear when plugged fully in
+How do I sync a Maschine instance on mac to a Maschine instance on pc?
+Achieve samplepad/keyboard synth sound with a bass guitar for playing live?
+Forgetting the piece when playing for the teacher
+Is there a program that will teach me how to play a piece of music coded in a MIDI file?
+When tuning a guitar, why is it only in tune for a moment?
+How to reset tremolo?
+What would Rock sound like to people in the Baroque era?
+Beat detective clips move backwards
+What type of strings to use for easier bending in fast solos?
+What pitches for singing &quot;Movable Do&quot;?
+What is Debussy&#39;s influence on bebop?
+The Kokyuu! (Holding down strings on bowed instruments)
+Why do drumsticks break?
+Ideal Cowbell Placement
+Advice for choosing a beginner drum kit?
+How do i differentiate a crash cymbal from a ride cymbal which looks so similar
+Why are there many guitarists, but only one drummer in a band?
+How does one prevent sweaty palms when playing the drums?
+What are the advantages of WAV vs. MP3?
+How to play repeating notes quickly in the left hand on the piano
+What can I do about my problems with piano scales which manifest in just one direction?
+How to strum a ukulele chord with skipped string?
+XLR vs 1/4 (jack/TRS/TS) output on digital piano. What is better to connect to audio interface?
+Want to learn composing and producing music with a DAW. Where do I start?
+Which type of wood for an electric guitar should one choose for rock/metal music?
+Scotland the Brave - advice for newbie painist
+Exercises for quickly identifying intervals on the staff
+Alternative treatment for Intention tremors in my left pinky and ring finger
+How can I learn 48 holes tremolo harmonica?
+Proper way to learn to dj and beat match for a total beginner!
+How to improve/train pinky dexterity for guitar playing (after long absence)
+Ableton stores MIDI mappings but does not react to inputs
+What does the distance between a pickup and strings do for the sound?
+Difficulty tuning in Drop D
+Is there a gigantic dataset with songs and chords I can download?
+Learning to create melodies
+passing chord preceding 4th in minor scale?
+Why does the 5th string of a 5 string banjo usually start from the 5th fret?
+How to enter overlapping notes in Sibelius 7
+Photoscore rhythm problems
+How to insert cautionary key signature before repeat mark using Sibelius 7
+What is a good for system for learning theory through improvisation?
+A reliable foundation from which to understand what &quot;key&quot; really means
+Understanding the key concept
+Progressing from a C Minor 9th
+Understanding minor key harmony
+Tied Db in Liszt&#39;s Consolation No. 3
+What are the pros and cons of Traditional Grip vs. Matched Grip for snare and drumset?
+Μy little finger is too weak to play guitar
+How to Read Sheet Music
+What is the difference between equivalent Flat and Sharp keys as far as musical notation? Are there any reasons to prefer one over the other?
+What does &quot;al primo&quot; mean?
+How can I add a solo soprano stave in finale?
+Why must the final bar complete the anacrusis?
+How do you write a continuous arpeggio in sheet music?
+Tempo, time signature and note lengths
+Chord analysis of Rachmaninoff&#39;s Piano Concerto No.2 Movement 1 mm 86
+Practice before a gig - bored of material
+Band rehearsal: how to lessen the dependency among members for timing and cues?
+Exercises to integrate syncopation into improvisation
+Basic synth performance in Pop-Rock songs
+How much time should I put between movements?
+What is the difference between swing and shuffle?
+Is there a term for music composed of everyday sounds?
+Is Warsaw Concerto a piano concerto?
+Piano tuning just under the absolute pitch
+Four dotted sixteenths in a triplet
+Fingering Advice for Bach Invention 13
+What&#39;s the difference between genre and style?
+In traditional (tonal) harmony, how is the word &quot;sonority&quot; used?
+Suggestion on how to play triplets?
+Tabbing Triplets With Large Intervals
+How to use MIDI keyboard for note input in Cubase?
+trying to figure a chord in song
+What is the full list of possible chord names? Are there chords that don&#39;t have a name in chord theory?
+3/2 Time signature
+Capitalization of key names (C Minor vs. c minor)
+Acoustic Yamaha U1: One key sounds too loud
+Changing amp tubes
+Music Theory on guitar chord progression
+How important is to reach the bottom limit of the key when pressed?
+What are the correct mechanics for a guitar F barre chord
+How can I sync Logic Pro&#39;s tempo (click) with a mp3 containing a song?
+Does the size or shape of the resonance hole affect the tone?
+How can I find the length in seconds of a quarter-note (crotchet) if I have a tempo marking?
+What is the meaning of &#39;/5+&#39; in a chord?
+Cubase Elements 7 - line in inputs not working
+What is the nature of the signal between an electric guitar and an amplifier?
+Do phase inverter tubes effect the sound of my amp?
+How accurate are the pedal indications of Bach - Busoni, solo piano works?
+How to play a quarter note after a half note when they&#39;re the same note?
+Numbers above notes in piano sheet music?
+Why is a grand piano better than an upright piano?
+Acoustic guitar - how to wind strings on the tuning posts
+Pianist at 22 years old
+What would be a good method to learn a new piano piece?
+What does this split stem notation mean?
+Finger Exercises for Piano when not playing
+What is the difference between minor and major chords?
+name of the strumming technique
+What do you call a chord that is not complete?
+What is balanced audio all about?
+Are octaves, fifths, fourths and thirds considered as &quot;consonant&quot; in all music cultures?
+Multiply-diminished intervals from a major
+Interval of a 4th above the bass
+How do you organize your set list for a gig?
+Switching Gears from 4/4 to 7/8 and back to 4/4
+How did &quot;Mary had a little lamb&quot; become popular blues?
+Understanding a digital tuner
+How are tuplets drawn?
+Find good length for song when setting text to music
+Do music theory books differ per instrument?
+Get rid (or die trying) of latency when using a MIDI instrument
+Tips for beginner guitar technique
+Bass Guitar - Practicing and Improving
+What is the correct way to play/mute strings with the thumb?
+I need help understanding a complex (or maybe compound) time signature
+Sibelius midi export makes things complex
+Right hand technique used in gypsy jazz guitar
+How do I change the strings on a double bass?
+Just intonation with Finale Human Playback?
+Classical music theory notation for chord inversions (figured bass)
+How do I keep my concentration going to the end and not get distracted thinking about how well it&#39;s going?
+What are some commonly used chord progressions in contemporary Musical Theatre styled songs?
+Getting Apple - Logic X to recognize outputs in mono as opposed to stereo pairs
+Copying only Chord Symbols in Finale
+What is Tempo (Speed): Moderate 4
+Arbitrary length full-measure rests in Lilypond
+Is the action of my guitar really high?
+What is a coldplay?
+Is there a software/website to play notes on snare drums?
+Getting the right sound from a left-hand percussive when playing slap bass
+How to write music using standard notation / Finding key
+Steel-string parlor guitar - effect on tuning stability when changing string gauge?
+What is the best setup for high gain and low noise for my amp and effects?
+Should I focus on scales or chords?
+Percussion notes in the vocals
+Frequency Meter App
+Guitar practice: more often but less time or once in a few days but for a few hours?
+What string gauge should I use for my 7th string on a guitar
+How to play chords on guitar from piano?
+Can I split guitar string gauges?
+What are some resources for applying my computer skills to augmenting my musical performance?
+How do I begin finally making music on the piano?
+What is this chord called that looks similar to power chords?
+Why do certain rooms/vessels respond to specific frequencies?
+Should I get my guitar re-set up when changing string brands, but not gauges?
+How does the angle of strings above the headstock affect tone and stability?
+E-B-G-D-A-E Guitar Strings Vs. E-A-D-G-B-E Guitar Strings?
+How do I know what size guitar strings I need?
+Correct process for replacing guitar strings
+How to choose a tuning for a fingerstyle arrangement?
+String configuration on a bass guitar
+What is the best way to learn finger-picking on an acoustic guitar?
+Bar width in Sibelius
+Creating Happy Melodies and Chords
+Mark Knopfler picking finger patterns — Sultans of Swing intro
+What electronic keyboard can I upload music to play on it?
+Softer strings?
+What is the technical term for what the percussion is doing in this song?
+Composing chord progressions for samba
+Reduce a tube amp power or volume
+Essential strumming patterns/techniques? and the theory behind it?
+Am I able to repair the pegs on my violin?
+Clean and polish an old violin
+How to practise jazz drumming with only a snare
+How possible for someone with bass voice to sight sing?
+How do I connect my musical instrument to a computer?
+Name of bell-like instrument
+What is A flat to C minor?
+How can you get guitar and bass tone out of a guitar?
+Pros &amp; cons of in-ear monitors (IEM)
+abc notation : different chords sounding exactly the same
+&quot;Dull&quot; sound when recording dry audio from an Ibanez S series, not caused by old strings?
+Chord performance in different scales
+Chord notation for stacked and inverted chords or intervals?
+Difficulty playing piano due to my small hands and short fingers, anyway around it?
+Is writing important for electronic composition?
+Awful timing when recording multiple tracks
+Practicing modes on the piano
+Restringing a 12-string guitar with heavier strings - is it possible?
+What&#39;s the difference between the french and the german double bass bow?
+Does the tempo marking on a piece refer to the bottom number (# of beats/measure)?
+How to practice singing quietly
+Origin of the &#39;squigly line&#39; used for quarter note rest?
+When did the appearance of the quarter rest in music change from its original appearance?
+How should I control my voice while rapping?
+Terminology for tension idioms in composition
+How to record my guitar on my computer
+I&#39;m having trouble with bent notes not terminating cleanly but dropping a little in pitch at end
+Digital Piano Software vs Sound Module
+Methods of effectively recording drums (out of studio)
+Are there any breathing methods for Rap vocals?
+What are the indicators of a quality electric guitar neck?
+How are double stops / divisi indicated in violin scores?
+How to practice guitar in apartment with paper thin walls?
+Is it okay to sit on guitar combo amplifier?
+What does a piano teacher do?
+What brass band instruments can a cornet player feasibly cover on short notice?
+Practicing pitch on trumpet
+Why does the orchestra tune to the oboe?
+Fixing off-tempo MIDI performance
+Where in a pedalboard chain would a multi effect pedal be placed?
+Guitar chords high on the neck
+How to predict the loudness of an amp based on description
+Trying To Figure Out A Chord Type
+Reading material for making the switch from FL to Reason
+short segment of different time signature
+What is a scale consisting of Root, m2, m3, P4, d5, M6, M7 called?
+Why does this harmonic minor scale notation use a natural sign?
+What improvisation techniques do players like Doc Watson and Tony Rice employ to transcend cliches of bluegrass improvisation?
+Why does music seem to transpose when I yawn?
+What chord progressions are used in traditional Celtic music?
+Beginner&#39;s question about compound time signatures
+How to check an acoustic guitar is solid top or not?
+Why does this key change work?
+Looking for a trance gate midi device for Ableton Live/Max for Live
+Rendering lilypond score into html page
+Sticks moving in my hands (weak grip?)
+Is it a bad idea to attach my strap just above the nut?
+Studies showing the brain chemical reactions when listening to depressive music
+Lilypond - two voices, with overlapping beams
+Why do wooden woodwinds sound better than plastic?
+How to prevent high pitch feedback when palm muting
+Maintain same volume levels in a digital guitar processor
+How to play accents on short notes on the violin
+Why is there a key signature if I never play those notes?
+Improving Timing While Improvising A Solo
+I need a DAW for live performance
+Import PDF score into editing software
+Why does a grand piano nearly always sound better than an upright piano?
+Techniques for creating melodies
+How can I understand what scale should I use?
+How much to pay sound person?
+Scale degree naming
+What are the effects of steroids taken for asthma on the throat and vocal abilities?
+How do I change the time signature of a measure without changing the time signature of a piece in Finale?
+Looking for a high level Music Programming language
+How to do apoyando in Romance de Amor?
+What is a &quot;D-10&quot; Chord?
+Getting Started Recording and Arranging Drums, Guitar, Bass, Vocals, Etc
+How do enharmonic notes affect harmony and chord progressions?
+Replacing Viola and Basso continuo
+Switching from Acoustic Classical Guitar to Electric Guitar
+Is there any name for two melodies that are being played at the same time?
+The Musical Effect of a Unison Ensemble
+Determining What Chords Fit With A Scale
+How does the type of wood used to make an acoustic guitar affect its sound?
+Why do composers choose different keys for their works?
+Learning to play what you&#39;re thinking on the guitar
+Why do I get more tired when I play on stage?
+Differentiating between II and II7 (secondary dominant V of V)
+How does one improve on his/her drumming technique without owning a drumset?
+what&#39;s the difference between a gauge .011 and a gauge .012 string?
+what other midi controller could I connect with YAMAHA TG55
+How to find your vocal range using the guitar?
+Unknown Notation - Thick Horizontal Bars Between Notes
+What does a double bass string eliminator do?
+Markup text inside second volta bracket
+Are certain subdivisions &quot;uncountable&quot;?
+Suggestions for transition from 6/8 to 4/4 (Piano accompaniment)
+What is the Slonimsky-Schillinger Symmetric System?
+What causes this weird sitar-like sound?
+How to avoid excessive bow-hair damage when playing &quot;scratch percussion&quot; on string instruments?
+How can one categorize himself as a Beginner or Intermediate Guitarist?
+How to make nails grow faster?
+Learning a guitarist&#39;s style through his music
+How do I define an Lilypond/Scheme alist as cons of two a lists?
+Guitar not holding tension
+How to select a key-signature for a song
+Was the Angolan style of music called kizomba inspired by Kassav&#39;?
+How can I analyse all the tracks contained in a folder with Traktor 2?
+Earliest-*known* use of a double leading tone cadence?
+Why are the white and black keys on the piano placed the way they are?
+Drummer looking to learn one-handed keyboard
+How can I practice in an apartment without annoying the neighbours?
+What&#39;s the purpose of a sound post?
+Harmony in Phrygian : What chords are tonic, subdominant, and dominant?
+Is it bad for a piano player to work out?
+What to consider when selecting the number of keys for a keyboard
+How does &quot;triplet feel&quot; for eighth notes affect non-eighth notes?
+I want to join a Barbershop Quartet. How can I prepare myself?
+What is the four tonic system?
+How does a advanced classical pianist start to play pop music?
+Piano performance: slippery keys due to sweat of previous players
+When singing, how to avoid being distracted by vocal harmony or other vocal lines?
+What are the musical instruments that have the sounding range that has at least all notes on this range A#1-C5?
+Loose piece of wood inside violin
+String gauge, scale, and tuning relationship? (Guitar in particular)
+How do I use slash chords in music composition?
+What makes each of the inversions of a major chord different in usage?
+Why is it common to hammer-on a second note on the base string of a sweep-picking part, and is there a technique to playing it correctly?
+How to use bIII in music composition?
+Barenreiter (or urtext) Beethoven symphonies scores
+What options are there for cheap synthesiser/synth modules to get for gigs?
+Naming chord inversions
+Tritone substitution in a ii-V-I progression and chord names
+Make different ranges across a midi keyboard play different voices?
+Is there a color code for notes?
+How does one break out of a musical plateau?
+In &quot;All we like sheep have gone astray,&quot; are we laughing with Handel or at him?
+Are there guitar strings for very high tunings?
+How do I develop a bass voice?
+Mix or Mastering problem?
+How do I tune my cello to play the second Bach suite(prelude)?
+Just bought a digital piano - have some &#39;newbie&#39; computer music questions
+When was Screaming vocals actually invented, and by whom?
+Drum Theory Resources
+interesting 2-3 bar ideas for a beginning improviser
+What are some techniques to alter a repeated phrase
+What should I look for in a ukulele amp
+How does one create their own finger-style guitar music?
+Tuning Up Versus Tuning Down
+When is it a remix, and when is it a cover?
+How to make melodies effectively?
+Who invented the special left hand grouping for Chopin Ballade no. 4?
+Is it considered poor skills if a (Western) classical singer has to cough during performance?
+How to sing higher head voice notes more quietly?
+Elements of a horror musical song?
+Scruggs Banjo Tuners - are they necessary?
+Are there any small, cheap devices I can record audio onto from a 3.5mm or 6.5mm source?
+Advice for a compact midi keyboard for practice
+Do guitar strings wear when not used?
+Beethoven repeated sforzando
+How does the Buzz Feiten tuning system work?
+Can I write a program to calculate the BPM of my mp3s?
+Difference between &quot;Bar&quot; and &quot;Measure&quot;
+Counting while Playing
+Tracking down hum in several amplifiers in a home studio
+Good non-Henle urtext edition of Bach?
+Two electric guitars on one amp
+The concept behind relaxing music?
+Harmonical analysis of Fm D♭ E♭ B♭
+Is there a general term for a single note or a chord?
+Is there a less clunky word for a single note or a run of single notes?
+What is the name for a group of five?
+What are the terms for beats and a set of beats in a dance?
+Distinguishing intervals
+Stravinsky&#39;s opera &quot;Mavra&quot; and its influence upon the popular song &quot;Katyusha&quot; by Blanter
+Can turning on an amplifier without a connected load (cab) cause damage?
+What&#39;s the right way to hold a pick?
+Another word for shots
+Playing with an mp3 player in performance
+The Secret Current
+Is there a special name for &quot;I - V - i&quot; or &quot;i - V - I&quot; Modulation?
+Minor scale chord substitution
+Is it possible to identify autotuned concerts?
+How to chord progress from C major key to A minor key?
+Learning guitar without making noise
+Do you use a metronome for songs or just for scales and exercises?
+Is there a way to measure the consonance or dissonance of a chord?
+How to mic and amplify an accordion for live performance?
+Playing vinyl with Traktor Scratch Pro 2
+Why doesn&#39;t Traktor update the key and BPM fields after I analyze the track?
+Upon importing a folder to my collection in Traktor, how can I configure Traktor so that only non-analyzed tracks get analysed?
+Set pitch back to 0% (Original BPM) in Traktor
+Move cue point to previous beat in Traktor
+Pause Traktor deck automatically when cue point is reached?
+What is a power amp?
+Definition of the note C
+F Dorian and Associated Chords
+Where to apply my effects pedal?
+What is causing this weird distortion coming from my amp?
+Dip-polishing silver-nickel keys
+Do some measures get no numbers, in an opera score?
+Tone knob usage
+How do I find guitar chords to play while I sing &quot;Frozen Heart&quot; from disney&#39;s Frozen?
+Need help identifying this scale
+Describe the 4 cable method for connecting a multi effect pedal to a guitar amp
+Why don&#39;t pianos use multiples of 12 for the number of keys?
+Math PI represented musically
+Hardware emulation vs Software emulation during guitar recording
+Playing guitar with webbed fingers
+Where along the strings to pick?
+Guitar pickup selection
+What is the difference between monitors and (loud)speakers in technical terms?
+Is this chord progression III I II III?
+Confused about diminished chords for guitar
+What do you learn in music colleges, for drums?
+How to create an interval from a note which doesn&#39;t start a major scale
+Drumming curriculum for a four-year old student
+Is there a single command for vertical padding in LilyPond \markup?
+Is there a way to notate alternative transitions between 2 sections of music?
+Uses for the Prometheus scale?
+Why do Major keys contain minor chords?
+Quantization for recorded audio tracks
+I want to improve my voice and singing
+What is the difference between Electro and House?
+Why did Shostakovich not release his 4th, but did release his 5th symphony?
+How do I play this?
+What is this finger style strumming called?
+Add pre amp to audio interface to enhance sound quality?
+The 25 Daily Exercises versus learning songs for beginner saxophone
+Why does conventional playing style give the string manipulation to the left hand?
+How to start learning FingerStyle guitar?
+Which to choose Yamaha CLP, Roland RP, Adagio KDP digital piano
+Harmonizing Bourr&#233;e in E minor
+High D on Tenor Recorder
+Do I need to have my guitar re-set up if I change the string gauge
+Spd-sx Roland and power converter
+Is there a device that would be a mixer with multiple outputs to jam with headphones?
+Error computing prime form of a pitch class set
+guitar scales: where to start
+how to build vocal stamina
+(Post)-minimalist compositional techniques
+F# major vs Gb major?
+Electronic device that introduces harmonic overtones
+Software that Transposes Music?
+Guitar chord ear training website/software
+What&#39;s the difference between two notes played on strings of different thickness?
+How to prevent snare rattle?
+Different types of grace notes
+Importance of sight reading for non-professional jazz guitarists?
+How to resolve chords (and general questions)
+How to become a DJ
+What is the difference between a riff and a lick?
+Guidelines for piano composition/transcription
+Polyphony vs Homophony in Hymns
+iPad app to live-sample vocals and repeat the sample in the background
+How to keep rhythm
+Composing melodies for a song on finger-style guitar
+Learning to play songs by ear and using a metronome
+Real examples of guitar technique Wikipedia calls &quot;polyphonic strumming&quot;
+Guitar: No sound from second string, but other strings sound normal
+What scales are suitable for funk? Is there a funk scale?
+Is there a guitar effect set up that can emulate the sound of Nashville tuning?
+Notating tenor vocal parts with 8va G-clef in Sibelius 6
+How to notate this ornament?
+Really Silent Piano
+How to correctly position your larynx when singing?
+What things to look for when buying my first ukulele?
+Recording device
+What is the clearest way to signify the harmonic function of a polychord?
+Should one write # or b?
+What purpose do accidentals serve in music?
+Keeping time when tired
+How to express &quot;dreaming&quot; with other than the whole tone scale?
+What to look (out) for when buying a (second-hand) electronic drum kit?
+What does it mean for a song to be played in C minor, D, etc?
+Playing the Ukulele besides singing
+Chord Type 7th Extension and the Major Scale
+Are there any good online resources on how to build drums?
+What are the benefits of guitars with fanned frets?
+How does a bass with tilted frets work?
+Where to start with orchestration?
+How to improve singing?
+Guitar Pro 6 – electric bass is quiet
+music with frequencies : software editor
+What is the purpose of the pop filter?
+What factors affect a guitar&#39;s ability to sustain a note?
+Which fret do I place a capo on, to play Eb music using C chords?
+How do I find a good reverb pedal for a huge, soul-filling sound?
+Choosing an electro-acoustic guitar
+Still Major Intervals?
+Is there a technique to &quot;extracting&quot; second voices from songs?
+How can people stand on their double basses?
+What poem was the inspiration for Rachmaninoff&#39;s duet Suite 1 Op 5 mvmt III?
+Line6 pod hd500x or a different processor?
+How do you quickly form this C7 shape on guitar?
+MIDI-Keyboards with integrated audio?
+Quality of Sound Box changing with time?
+Separate the top matter from the staves in lilypond
+What is a multi-tonic system?
+Doesn&#39;t a major scale share all its notes with its relative minor and vice versa?
+Classical music vs March music relationship
+Is it normal for frequent guitar playing to be accompanied by wrist pain?
+Consonance &amp; Dissonance Relative To Melodies
+is there a note location chart available for 22 hole chromatic harmonica?
+How to read guitar pro chord strumming tabs
+What instruments are used in this work?
+Are there other re-orchestrations of Schumann&#39;s symphonies besides Mahler&#39;s?
+&quot;Figured&quot; woods and veneers for guitars
+Where can I find a complete list of Freddie Green chords?
+What is a good way to train one&#39;s mental resources for improvising?
+How do I play the synthesizer on my own?
+Fingertip care for guitarists
+What made Mozart unique as an improviser?
+What should a guitarist learn first: Rhythm or Lead?
+Is there a name for this guitar technique for Paganini&#39;s Capriccio #6?
+Are there some classical pieces that lend themselves well to guitar?
+How much can transposing a song by a half step or a whole step help a vocalist?
+How come songs in a certain key play notes not in that key
+Automatic transcription software with ABC output for Android devices?
+I want to learn my first dire-straits solo, what is a good one to start from?
+How to synthesize grand piano sound
+Scales - Melodic and harmonic minor
+How were tuning/temperaments indicated on scores (if they ever were)?
+Can absolute pitch be learned or acquired by anyone?
+What Android app is most-used for reading music on the bandstand in these circumstances?
+What&#39;s the best method for learning how to play triplets over quavers?
+How to identify the root note of a chord
+What note type in the 7th of a chord? - Music Theory
+Diminished Intervals
+Is this melody in a particular scale?
+What is the name of the interval Db - D#?
+What note(s) are a diminished 3rd above D-flat?
+Do songs written in certain modes not have keys?
+How did JS Bach improvise?
+What is the approach taken by Bill Frisell to improvisation in jazz music?
+Is an inversion a different chord, or a different voicing?
+What is M-Base and how do I play it?
+Carved fingerboard between frets on a guitar
+What is needed for an electric woodwind?
+Does Phish base their improvisational style off of any predetermined techniques?
+Composing Music- Interpretation
+Custom xylophone sticks?
+What factors contribute most to the tone of an electric guitar?
+Can I force Traktor to use more than one CPU when analyzing tracks?
+Notation of multiple voices in Piano Music
+How to rosin a bow?
+What are the principles for improvising over an ostinato?
+Good piece to start learning multi-finger tapping
+How can I deduce in which scales and mode to play?
+How do you know what beat to emphasize based on the time signature?
+How to discover the strum of guitar tabs?
+What are some of the components of a good guitar solo?
+What are the principles of improvisation in newgrass music?

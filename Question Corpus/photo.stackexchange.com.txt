@@ -1,53 +1,4 @@
-Is stop bath necessary for black and white prints?
-Is there any point in photographing directly to black &amp; white?
-How to fix Albinar 7000 Tilt on Tripod Head?
-Where can I find photos with EXIF data online for learning purposes?
-Canon EOS T2i 35-55 mm lens. Won&#39;t autofocus
-Why am I am seeing rings (banding) instead of smooth graduation in my sunrise pictures?
-Canon EOS SL1 - Manual focus stopped working
-Do powdered chemicals expire?
-What kind of &#39;guerrilla&#39; background / backdrop is being used in Felipe Dana&#39;s Cracklands portraits?
-Why does the same f-number mean same amount of light?
-Why don&#39;t they make all DSLRs with an electronic shutter?
-Does sensor size affect lens distortion?
-What tool can visualize metadata from many photos on a Mac?
-Can Minolta Macro be used on a digital body?
-Can two computers running Photoshop Elements 13 share the same catalog?
-Is the Canon 7D compatible with all EF and EF-S lenses?
-Can&#39;t move images in a selection (normal selection, not a smart collection) in Lightroom 5 every once in a while
-What factors determine the size of focus step done with remote shooting?
-How to do 1 or more photos per second without jitter using a Canon 7D?
-Nikon D5100 flash doesn&#39;t work
-Will the Yongnuo YN560III flash work with Olympus E500?
-How to obtain the fisheye model from blender
-What filter is best for mid-day beach photography?
-What effect does a UV filter provide?
-Are 2 megapixels enough for HD resolution pictures?
-Does the Eyefi X2 Pro transfer files point-to-point in &quot;private network&quot; mode?
-Alternative to EOS Remote app for 6D?
-Aperture - unreferenced image - how to relocate it
-Very dark violet on black - what kind of damage is that?
-Can a regular SATA SSD be used with a camera taking CFast cards?
-What is the heaviest micro 4/3 lens?
-How can I get a circular star trail effect?
-Nikon d7000 is taking duplicate pictures
-Marathon &amp; Sports Event Photographers: Are they freelance or agency/company-related?
-Why is there a mechanical shutter in a digital camera?
-How significant is 3% additional sRGB coverage in a monitor for photographic work?
-How to do Continuous Printing
-How to best filter away high ISO noise in Gimp?
-Where can I get a replacement case for my Nikon SB400 flash?
-How do I calibrate two displays to the same color? (LCD, LED backlight and CCFL backlight)
-Nikon 16-85 VR focus noise problem?
-Why is only Nikon not readily available in airport duty free shops?
-Why does my Nikon D3100 display &#39;File contains no image&#39;?
-Why aren&#39;t electronic shutters used everywhere?
-What&#39;s the best way to get constructive critique of your photographs?
-How to take upright grave stones without squatting down?
-Lack of sharpness: is it me, or my zoom lens?
-What is the maximum weight a micro 4/3 lens mount can support without a tripod collar?
-How can I get correct focus when taking a self portrait with a DSLR?
-Do bigger focal lengths capture more light?
+What can I do when my Nikon D5200 gives an SD card error with every card?
 Is stop bath necessary for black and white prints?
 Is there any point in photographing directly to black &amp; white?
 How to fix Albinar 7000 Tilt on Tripod Head?
@@ -120,7 +71,107 @@ What are good schemes for storing photo equipment at home?
 Need suggestions on a good RAW Viewer
 Nikon Coolpix 885 not saving to new 8gb memory card
 What are the possible reasons my Pentax K-r malfunctions when using flash?
-Nikon D5100 �gPress Shutter Release Button Again�h error, but fixing itself after left alone for a while
+Nikon D5100 “Press Shutter Release Button Again” error, but fixing itself after left alone for a while
+50mm stuck on the body
+How can I best use a (high end) point and shoot camera to take great photos in bars and clubs?
+Pentax K-r: how do I turn off multiple exposure?
+Why is my Nikon D300S changing shutter speeds between shots?
+How do I measure the correlated color temperature of a light source with a DSLR without a gray card?
+What is the cause of black bars on a photo of AMOLED display?
+Should I buy an original manufacturer battery, or is a generic brand OK?
+Generic battery advice for Sony&#39;s NP-FW50
+&quot;Press Shutter Release Button Again&quot; Error on Nikon D40x DLSR
+What is the importance of the back focal length of a lens?
+Are there recent entry-level/prosumer DSLR cameras that can use/are compatible with high quality older manual lenses?
+How to precisely focus in self-portraiture with very wide aperture?
+Colour matching with Photoshop and Canon IP7250
+Sharpest lens on Nikon FX body
+Is there a lens adapter for Canon lenses to Nikon mount
+How can I properly take advantage of this equipment?
+Is there good free software for editing Canon RAW files?
+My D750 is shooting fuzzy video - anybody know why?
+Am I experiencing field distortion while astro photographing when stars on the edges give trails?
+What to do when my DSLR&#39;s shutter suddenly sounds different and there&#39;s a black line across the top of my photos?
+How to open a raw file in Camera Raw full size rather than cropped to in-camera aspect ratio?
+Is there a way to improve continuous drive speed on my EOS-M?
+Can I use old filters from SLR film cameras on newer DSLR cameras?
+What causes darker areas on a still from a video stream when moving light source has passed through the image just before it has been taken?
+How can I know the focal length and sensor size of my webcam?
+Why do SLRs and DSLRs use different flash gels?
+What can I do when my Nikon D5200 gives an SD card error with every card?
+Is stop bath necessary for black and white prints?
+Is there any point in photographing directly to black &amp; white?
+How to fix Albinar 7000 Tilt on Tripod Head?
+Where can I find photos with EXIF data online for learning purposes?
+Canon EOS T2i 35-55 mm lens. Won&#39;t autofocus
+Why am I am seeing rings (banding) instead of smooth graduation in my sunrise pictures?
+Canon EOS SL1 - Manual focus stopped working
+Do powdered chemicals expire?
+What kind of &#39;guerrilla&#39; background / backdrop is being used in Felipe Dana&#39;s Cracklands portraits?
+Why does the same f-number mean same amount of light?
+Why don&#39;t they make all DSLRs with an electronic shutter?
+Does sensor size affect lens distortion?
+What tool can visualize metadata from many photos on a Mac?
+Can Minolta Macro be used on a digital body?
+Can two computers running Photoshop Elements 13 share the same catalog?
+Is the Canon 7D compatible with all EF and EF-S lenses?
+Can&#39;t move images in a selection (normal selection, not a smart collection) in Lightroom 5 every once in a while
+What factors determine the size of focus step done with remote shooting?
+How to do 1 or more photos per second without jitter using a Canon 7D?
+Nikon D5100 flash doesn&#39;t work
+Will the Yongnuo YN560III flash work with Olympus E500?
+How to obtain the fisheye model from blender
+What filter is best for mid-day beach photography?
+What effect does a UV filter provide?
+Are 2 megapixels enough for HD resolution pictures?
+Does the Eyefi X2 Pro transfer files point-to-point in &quot;private network&quot; mode?
+Alternative to EOS Remote app for 6D?
+Aperture - unreferenced image - how to relocate it
+Very dark violet on black - what kind of damage is that?
+Can a regular SATA SSD be used with a camera taking CFast cards?
+What is the heaviest micro 4/3 lens?
+How can I get a circular star trail effect?
+Nikon d7000 is taking duplicate pictures
+Marathon &amp; Sports Event Photographers: Are they freelance or agency/company-related?
+Why is there a mechanical shutter in a digital camera?
+How significant is 3% additional sRGB coverage in a monitor for photographic work?
+How to do Continuous Printing
+How to best filter away high ISO noise in Gimp?
+Where can I get a replacement case for my Nikon SB400 flash?
+How do I calibrate two displays to the same color? (LCD, LED backlight and CCFL backlight)
+Nikon 16-85 VR focus noise problem?
+Why is only Nikon not readily available in airport duty free shops?
+Why does my Nikon D3100 display &#39;File contains no image&#39;?
+Why aren&#39;t electronic shutters used everywhere?
+What&#39;s the best way to get constructive critique of your photographs?
+How to take upright grave stones without squatting down?
+Lack of sharpness: is it me, or my zoom lens?
+What is the maximum weight a micro 4/3 lens mount can support without a tripod collar?
+How can I get correct focus when taking a self portrait with a DSLR?
+Do bigger focal lengths capture more light?
+Can I use a Yongnuo RF-603II to fire a remote flash with my dSLR?
+What Yongnuo wireless triggers work together?
+How to do time-lapse photography without intervalometer using Nikon D3300?
+Becoming a Photographer
+Canon speedlites not firing when in Live View
+What setups work to trigger a Profoto B1 and Canon 600EX-RT Speedlights together from canon body
+What photo sharing sites allow frequent re-uploading from Lightroom in the background?
+Can the YN-E3-RT be used, mounted on top of the YN-622C?
+Raw vs Jpeg for non-professional use
+What are the options for a good photo / RAW browser + editor for mac?
+How do I add lens correction for my model+lens to Lensfun in Darktable?
+How can I calculate what the effect of an extension tube will be?
+Is there a reason for raw over jpeg if you have your lighting figured out?
+How to correct photos which were overexposed at the edges only?
+Printing Profile Targets Using ColorSync Utility in Mac OS X Yosemite (10.10)
+How can I achieve consistent skin tones in my photographs?
+How to get more clarity and less shadow when photographing jewelry?
+will a Canon GP-E2 show up as a usb drive on a chromebook so I can back up the log files?
+What are good schemes for storing photo equipment at home?
+Need suggestions on a good RAW Viewer
+Nikon Coolpix 885 not saving to new 8gb memory card
+What are the possible reasons my Pentax K-r malfunctions when using flash?
+Nikon D5100 “Press Shutter Release Button Again” error, but fixing itself after left alone for a while
 50mm stuck on the body
 How can I best use a (high end) point and shoot camera to take great photos in bars and clubs?
 Pentax K-r: how do I turn off multiple exposure?
@@ -154,7 +205,7 @@ Is there a Fuji X10 raw converter for Linux?
 How can a super tiny iPhone 6 Plus lens produce significant DOF?
 What is bokeh, exactly?
 Does getVerticalViewAngle() give actual Camera Angle Field Of View(CAFOV) value?
-Is it normal for the left pin on the Nikon SB-910�fs 3-pin external power source terminal to be deeply recessed?
+Is it normal for the left pin on the Nikon SB-910’s 3-pin external power source terminal to be deeply recessed?
 Nightlife/holiday help?
 What is the relationship between ARW delta compression and dynamic range?
 Converting RAW images to lossless jpeg using GIMP?
@@ -199,3 +250,2252 @@ Is it a good workflow to do separate raw processing on different parts of an ima
 Is it safe to charge a Coolpix S9900 with an Anker 60W USB charger?
 Does cross-processing transparency film accomplish anything for relatively conventional photography?
 How can I do a bulk search to see if any of my photographs are used online without my permission?
+Why are there no full-frame lenses with leaf shutters?
+Lenses round ..Photographs square shaped why?
+Is the Pentax FluCard noticably slower than a typical class-10 SDHC card?
+How does a circular lens produce rectangular shots?
+Nikon D3300 - Trouble Focusing on Birds both Stationary &amp; Moving
+My 300mm lens doesn&#39;t focus. How do I know if it is broken?
+How to prevent zoom-creep?
+Is it typical to experience zoom creep with the Canon EF 24-105mm F/4 L IS USM?
+Nikon D5100 Producing Corrupt Images
+Is a Photoshop CC psd file backwards compatible to CS2?
+Can over-turning the focus ring break the lens?
+Body Only or Body+18-135 STM?
+Are D-Lightning and in scene mode effects applied when shooting in RAW mode
+Nikon D3000 70-300 Nikon lens - How to get lens converter off the lens?
+How can I fix a Nikon DX 18-135mm with an aperture stuck open?
+What&#39;s the name of this effect / how can i mimic this? (photo editing question)
+Old Yashica Flash with Nikon D3200
+The frame counter of my Nikon FA (analog) is broken. How to activate the light measurement regardless?
+Do the DSLRKIT PT-08XT triggers work with a Vivitar 283 flash and a Sony NEX 6?
+Can I get HSS with off-camera Canon 430EX II speedlites, radio triggers, and a Sony A7?
+Pictures start in focus then go out of focus?
+How to correct partial overpolarisation in sky?
+How can I do astrophotography with my 70-300mm lens?
+Is there a time limit for bulb mode (generally)?
+Why are the tops of people&#39;s bodies missing from this photo taken with a tablet from a moving car?
+Can I connect my Canon Rebel T3i to laptop to keep the battery charged while making a timelapse?
+Can anyone suggest books/resources on the artistic side of photography?
+How to get longer than 8 second exposure on a Nikon coolpix p520?
+How would you set up a long-exposure shot from the computer?
+70-300 or 70-200mm lens?
+Can anyone reproduce the white/gold vs. blue/black dress&#39;s binary perception effect with a totally different subject?
+Is there a name for this broken glass effect?
+Does Lightroom or a RAW format store the original rotation of an photo?
+How do I stop my Nikon D40 from blurring when the flash is off?
+How much does it cost to replace a DSLR shutter?
+Excluding nested keywords from smart collection
+What does a dynamic range difference of 2.7 EV really represent?
+What can I do when autofocus suddenly starts blocking at around 2m on a Nikkor AF-S 28-70mm 1:2.8 D?
+Why does Nikon D3100 makes occasionallly noise and viewfinder shifts when pressing shutter button
+Is it worth buying cheap lens attachments for my camera?
+How to choose a gaffer&#39;s tape?
+How can I tether a camera programmatically?
+How can I take a macro shot without a macro lens?
+Best way to get into cheap macro?
+720p with 30fps on a Canon SL1
+LR Mobile Sync Only Starred/Picked Photos in Collections
+Nikon D5100 takes photo of black square
+Why would my Tamron lens auto focus stop working?
+85mm fast prime vs 70-200mm 2.8 for indoor fashion studio shoots
+Color issue: studio images have a pink hue
+What is the licence on the photo used in this &quot;Deep Space Image&quot; question?
+How to remove label adhesive from used lenses?
+Nikon 300mm autofocus makes noise and stops working temporarily
+Moon with a foreground
+D3200 &quot;Lighting is Poor; Flash Recommended&quot; with 35mm f1.8DX lens on Manual
+Scrum photo technique
+Who is the photographer of this black and white photo of two female nudes standing over a pile of clothes?
+Batch saving images with reduced colors
+Can I use vintage lenses on Nikon D3200
+Nikon D5300 wifi password
+Why there is more shutter lag when using live-preview as compared to viewfinder?
+How to achieve this colored-haze effect in Lightroom?
+What is the Nyquist Limit and what is its significance to photographers?
+Low budget entry level Speedlite?
+Do I always get the same colours when I set the white balance correctly?
+LightRoom 5 Export looks different to the Develop screen
+Prints are too dark when printing from computer, but not from sd card
+Are there any drawbacks to putting good glass on a cheap body?
+How do I configure my Nikon D3300 so technical info doesn&#39;t pop up after every shot?
+How do I find the focal length that will fit a poster in the frame from across the room?
+Comparing a6000 to a7 photos on Flickr
+Any known issues when using Google Drive with Lightroom 5 (Catalog &amp; photos) on two computer?
+Will any non-AF lens work on a Nikon camera with built in AF already in the camera body?
+Enable TIFF compression in Canon Digital Photo Professional 4
+Can I get a Yongnuo YN622C to trigger a Nissin Di700 in hss?
+Camera body with autofocus
+Is there any information on Fuji X Wifi protocol
+How can I strip tags from a JPEG without removing the color profile?
+Why do modern DSLRs support JPEG but not lossless formats other than RAW?
+Are the 50mm f/1.8 and 75-300mm zoom good lens choices beyond the kit lens for a Rebel T1i?
+How do I get back to shooting mode with the D5100?
+How can I geotag images with location data in a CSV file?
+blurred background effect with my canon eos 70d with 18-55 mm lens
+Can I get Yongnuo YN622C to trigger Novatron M500 strobes?
+How can I set up an off camera flash using the reading from the light meter?
+Nikon D5100: should I avoid the firmware update if I want to use 3rd party batteries?
+How do I get this look in my photos
+Is it possible to export metadata, including facial tags, from Windows Live Photo Gallery to iPhoto?
+Why would you have a light meter chose your aperture for you?
+How to accurately calculate size in image using relations and a reference
+How can a Gossen Sixtomat light meter work without electricity?
+What is a light meter, how do I use one, and for what sort of digital photography do I need one?
+Why do I meter under the chin with a lightmeter?
+Do I need a $600 light meter or will a $250 one do?
+How do dedicated light meters account for light transmittance?
+What is the device held near the subject&#39;s face in this picture?
+How does Saturation in Lightroom work?
+In OSX, why don&#39;t my Panasonic and Olympus DNG files have thumbnail icons?
+How to verify\calibrate a light meter?
+Lightmeter not changing values after adjusted flash power?
+How to select a light meter?
+Why use a dedicated light meter instead of the one built into the camera?
+How do I read the shutter speed from my light meter?
+Technique to manually set aperture and focus for a low light scene during normally lit time of day?
+How do I stack two photos in Photoshop to reduce noise?
+Where do you find the inspiration for your photographs?
+How do I create this kind of soft and blueish look in Photoshop?
+Deep Sky Photography with telescope without Tracking
+Can I fix the large pink mark which appears on all photos with light background from my Canon Powershot ELPH?
+First prime lens for newbie Canon 600D?
+How can I find the film speed and type of unmarked, exposed120 film?
+Canon Rebel XS will not take pictures in AF mode
+How do I get my Canon 60D to recognize a Yongnuo YN-560 III flash?
+Gain Factors and Dynamic Ranges of Digital Cameras
+How to programmatically determine as-shot ColorTemp from NEF (RAW) file?
+What is the real world impact of the lossy compression used for NEF RAW files in some Nikon cameras?
+Why won&#39;t my Quantaray teleconverter, which fits my EOS3, mount on my Canon 60D?
+PS Elements vs Lightroom for image management
+Need help saving pics on Nikon D3200
+Printing on Hahnem&#252;hle Photo Rag 308 and 500 gsm with Canon PIXMA PRO-100
+What causes this strange Posterization when changing to B&amp;W?
+How to stack photos in Capture One like Aperture?
+Can Tamron 16-300mm lens fit on a Canon 700D?
+How to capture detail of craters on the moon?
+Sony MIS hot shoe splitter / MIS pass through RF transceivers
+Why are the Curiosity pictures shown tilted?
+Which cameras were used prior to Apollo 11?
+Can Tamron 16-300mm Macro Lens fit to Canon EOS 600D?
+While stacking filters, can polarizing filter be placed behind ND filters?
+Can changing metering mode change focus?
+How do I permanently set continuous mode on the Nikon D5100?
+How can I use my Minolta 3500xi flash with my Sony A camera?
+Is the Vivitar SF 4000 flash compatible with my dSLR?
+What is causing the bright flare on all of my images?
+What are the pros and cons of using macro rail vs lens focus?
+Any help on suitable milkyway lenses
+What is a parfocal lens and how beneficial is it to photography?
+How do I prevent white box(es) (face detection) from showing up on my Canon EOS 60D?
+Does a filter exist to color-correct color negatives when copying them with a DSLR?
+Why does my lens refocus when the f-stop is changed?
+What happened to Foveon sensors?
+What is the effect of changing the Aperture
+Canon 5D - Focus viewfinder indicators in Manual focus mode
+5D Autofocus - disable tracking after lock?
+How to take a picture at the same time everyday?
+What is the difference between Project, Album and Folder in Aperture 3?
+Identify app used for Instagram effect
+How do I create emphasis with a single color in a B&amp;W image?
+Lightroom - How Do I find Photos that are Missing Copyright Metadata?
+Bubble Effect on image (Photoshop or online)
+Why is Lightroom 5 not rendering what I see in every other JPG viewer?
+Where can I get replacement parts for a Mamiya RB67 film back?
+What lightweight telephoto lens are available for Nikon bodies?
+How can I get tack-sharp portraits with the focus perfectly on my subject&#39;s eye?
+Why does BRIGHT red in direct sun come out orange?
+Does a photographer take pictures or make pictures?
+Tips for photographing a wedding
+How do I photograph a landscape with a solar eclipse where the sun is not the main subject?
+How can I compute the FOV of a light field captured by a Lytro camera?
+What flash triggers can remotely set the mode and power on multiple flashes?
+Is there a special term for cameras that use standard, replaceable batteries?
+How do I zoom in during image playback on a Nikon D3300?
+How to fix shutter problem with Magic Lantern on a Canon EOS M?
+How fast does a sensor cool down sufficiently after a long exposure?
+What software can show my most frequently used focal length?
+What is the best way to photograph iridescent glitter?
+What type of lens mount is this Som Berthiot?
+Is it worth getting a zoom lens which overlaps with lenses I already have?
+What Yongnuo flash and trigger works with the Panasonic GH4
+Better to buy an older high-level camera or newer entry-level camera?
+MacHood Cinema Display Hood in US?
+Lightroom - Vivid faces effect
+How to achieve a flash image with a very bright, almost-whited-out subject and dark background?
+How to apply the Rule of Thirds with people?
+Help wanted re using Spyder2express calibrator with Windows 8
+How can I find my own style?
+zoom lens for Baseball games
+Will a key light, a back light, and white reflector as fill achieve a white background for portrait photography?
+Why change to open-aperture metering when this causes the need to stop-down for old lenses
+Recommended focal length for a fashion shoot
+how to capture snowflakes like this
+Does a flash work well with regular alkaline batteries?
+Tips for shooting a longer exposure in a car?
+What are the pros and cons when shooting in RAW vs JPEG?
+Achieving Bokeh using Aperture vs Focus Point
+How should I approach people to take their portrait?
+How can I get my camera to focus on water dropping?
+Street photography tips?
+Save soft proof preview to file
+What can I expect for battery life from my Nikon D5100?
+Nikon 50mm 1.8g vs 1.8d?
+How to ask a subject(person) to photograph them?
+What is a good focal length for street photography?
+How can I get this &quot;brushed background&quot; but clear subject effect by manipulating film negatives?
+How to prepare a photo to use as a web site background
+One-way sync from Linux to Flickr
+Promaster Flash Module TTL on a Modern Canon DSLR
+What is the best long-term storage for a film camera?
+What kind of lenses will work with my new Nikon DSLR?
+Copy as DNG from lightroom to lightroom
+What is this soft curved brushstroke-like effect?
+How to achieve this smudge effect in photoshop?
+How can I get a 12ft wide field of view at 3ft distance?
+What lens do I need to take a decent picture of a graduation ceremony from football-field seating?
+How to shoot a reflection in a ball bearing without appearing in it?
+&quot;Getting Started with Lightroom Mobile&quot; popup disappears before I can click on it!
+How much zoom does a lens need to have before we call it a superzoom lens?
+Why are fixed-aperture lenses not more popular?
+Why eye-controlled focus is gone?
+Re create existing filter from example
+How to change aperture in manual mode on an entry-level Nikon SLR?
+What is a &quot;pseudo mannequin&quot;?
+Why do lens manufacturers produce lenses with few aperture blades?
+Can I repair a Nikon D90 LCD screen that has moisture in it?
+Are there any really silent but good DSLR cameras?
+What my PPI should be set at for others to download my photos?
+What is the better material choice for a gorillapod? Metal or plastic?
+GPS location information does not seem to be recognised by Lightroom 5.7.1
+Will using a DX lens on an FX Body compromise ISO performance?
+How do I create Lightroom smart collection containing all virtual copies?
+How are compact system (mirrorless) cameras typically charged?
+Photo upload problem from my camera (Nikon d3200) to my PC (Windows 8.1)
+Shopping system for event photography
+What&#39;s the best equipment to use for off-camera fill-flash on location?
+What does the built-in AE Chip for Nikon do on a Rokinon lens?
+How can I further decrease the exposure in a studio environment?
+Add an orientation mark to a polarizing filter&#39;s rotating ring
+What does &quot;R&quot; mean in Fujifilm&#39;s XF Fujinon lens names?
+My Canon PowerShot SX500 IS won&#39;t turn on
+Why do light sources appear as stars sometimes?
+What&#39;s the difference between using a 50mm f/1.8G and a 50mm f/1.8D with a Nikon D80?
+How to nail focus for DSLR astrophotography?
+What needs to be considered when purchasing an enlarger?
+Can Lightroom facilitate the consolidation of 2 external drives to a third?
+How can I use tethering software together with a wireless trigger for my Nikon D5100?
+How can I effectively change the background of a portrait in Photoshop?
+What settings should i put my Canon 1200D on to photograph the moon?
+Hi everyone, DAY time long exposure
+How can I correctly adjust skin color in Photoshop when I have a color vision deficiency?
+Do different lenses affect noise level?
+How can I add a border to a JPEG photo without affecting quality?
+What is the difference between levels, curves and contrast settings in post processing?
+What can I do to improve the sharpness from my Canon 60D for stock photography?
+Flickr uploader (sync) for Windows 8
+Can I change firmware from canon to nikon in a Metz Mecablitz 44 AF-1 digital?
+Ideas for Daily Exercises to Improve Photography Technique
+Canon 1000D and sigma ef-610 flash issues
+What camera-lens combination should be preferred for shooting models and art gallery?
+Why is my Nikon D5100&#39;s screen flickering while auto focusing under a streetlight in live view?
+Can a smaller sensor&#39;s &quot;crop factor&quot; be used to calculate the exact increase in depth of field?
+What Singh Ray filter combo should I use for very long exposure coastline and landscape photos?
+Can&#39;t control settings on Nikon D3100 - Shutter speed, ISO, Aperture
+DSLR with bar/qr code scanner untethered!
+How does &quot;designed for APS-C&quot; affect focal length?
+Calculating the field of view for a Nexus 5
+What are the options for a damaged zoom lens?
+What&#39;s the full frame equvialance of this phone lens?
+Does the size of blower matter to clean the sensor of the camera?
+Why do Canon EF and EF-S lenses exhibit the same crop factor?
+Do I need a specific type of lens to work with my Canon T3i, or will any lens work?
+Windows Canon Raw Codec
+automatically change my aperture for my lens sigma 24-70 f:2.8
+What do all those cryptic number and letter codes in a lens name mean?
+Color calibration red color cast
+What makes the Zeiss Otus 1.4/55 so special?
+What makes a Carl Zeiss lens so special in a smartphone?
+Sony Cybershot LCD screen replacement, inverted colors
+White background - overexposed subject
+i think there problem my nikon VR kit lens (18-55)
+Fujifilm S1: Manual focus does nothing?
+What type of camera do I need to take reasonable photos across a swimming pool?
+At what shutter speed threshold does a tripod start to matter?
+Why are these black dots / spots appearing in my pictures?
+Photos Imported into Aperture Aren&#39;t Showing Up
+Post Processing for Gritty Street Images
+How can I light an Indian wedding without spoiling the decor or blocking the view with stands and gear?
+How can I fix a &quot;Cannot communicate with battery&quot; error on Canon 7D?
+Standards or widespread guidelines for updating of Exif or other metadata when modifying photos or other images?
+How to disassemble a lens assembly?
+What corrections does MS Camera Codec Pack apply?
+How to auto-trim solar eclipse photos?
+Best focusing techniques with sony a7r
+How can I set the aperture in A mode with a D lens on my Nikon D90?
+Color Temperature, Contrast, Brightness, and Saturation
+Attaching a bridge camera to a telescope (62mm filter piece to a T-ring)
+What order to use range extending tubes in and the effect on aperture
+GoPro 4 or Canon for photos of northern lights?
+Plate Screw with load-bearing eye
+Is it possible to trigger a Canon 600 EX-RT with a Fuji&#39;s on-camera flash?
+How do I get my EOS M to release the shutter with an adapted manual lens?
+How do I use filters that came with my mirror lens?
+How to film a eclipse of the sun with a phone cam?
+How to photograph a total sun eclipse?
+Nikon D60: Autofocus of two AF-S lenses not working anymore after using another lens
+Significance of shutter speed?
+protection for contributing to stock images
+Time lapse of solar eclipse?
+Why does my point and shoot camera lose the date/time when I turn it off?
+Lightroom on external HHD and used on two computers with Mobile
+How can I achieve a color grading like in this photo?
+What are the downsides of converting FD(n) lenses to EF mount?
+Can I photograph a solar eclipse using a 10-stop Big Stopper (+ extra ND?)
+What full-size tripods are shortest when folded?
+Is there a standard vocabulary for posing?
+Will any EF-lens fit on a EOS film camera?
+How to soften harsh shadows during post processing?
+Is there any way to change settings of my Nikon D5200 through my smart phone?
+How to keep a photograph from getting smaller when rotating it 90 degrees?
+Nikon D3100 &amp; sync cord for Novatron Lights
+What flash slaves can be used with a Canon Speedlite 600EX-RT?
+X-Rite i1 Display Pro - settings for a notebook
+Pano Pro versus Gigapan for panoramic photos?
+Can anyone identify the silver rangefinder-style camera in this advertisement?
+How to recover deleted Lightroom files?
+How can one correct intensity flicker due to AC line frequency?
+Lightroom colour issue with secondary monitor
+What is the performance of a mirrorless system camera compared to DSLR in dim light?
+Is there an easy way to export images in their original state in Lightroom?
+How weatherproof is an average modern lens?
+What might cause horizontal artifacts in Lightroom after import?
+Why does a bright video feed send more data than a dark one?
+Can I use old Minolta AF lenses on my new Canon?
+How does ground glass work when focussing?
+What is the best way to micro-adjust a camera body to a particular lens?
+What are these blue/purple spots visible underneath the front element of my lens?
+How can I make dark images stand out when displayed on a website with a dark background?
+Is the Canon 1D-X camera&#39;s slight angle of rotation stored in the metadata?
+What free raw processing programs can use ColorChecker DCP profiles?
+Why won&#39;t my Yongnuo YN468-II fire on a Canon Rebel 2000 (when it works on other cameras)?
+How can I photograph only light from my IR source even in the presence of other light?
+I have a bag of white powder, I know it&#39;s either D-76 developer or fixer. How can I determine which one it is?
+How can I convert a photo to a fixed palette with pre-defined weighted color proportions?
+How can I target a specific size in megabytes when saving a JPEG in Photoshop?
+How to photograph oil and pastel art works with Nikon D800?
+What will I lose by switching from FX to DX mode (with an FX lens)?
+Firing a TTL on-camera flash and manual off-camera flashes via radio triggers
+For the same attainable sensitivity, how does DOF depend on sensor size?
+What is the difference between cheaper and more expensive ND filters?
+Can I use rear curtain sync in bulb mode?
+Legal: do I need releases for a photo booth at a public event?
+How can I make a non-PRO Eye-fi transfer RAW files?
+Can the Yongnuo YN622C &amp; YN622C TX be used with the Alien Bees B800?
+How many EV will a softbox knock down off your flash?
+Can I use a Getty Images photo of me?
+Why doesn&#39;t a drastic change in aperture seem to have an effect on this city skyline photo?
+How much of a difference is there saving as RAW over JPEG?
+Why is my zoom lens blurry at focal range past 100mm?
+What does the &quot;paper folded slightly up&quot; symbol mean in Lightroom?
+Pro9000 Mark II desaturation problems
+How can I reduce noise at ISO 100 in photos taken in the twilight?
+is there an online site/group that shares RAW/16 bit TIFF files?
+Can anything be done to reduce the shutter sound on my SLR?
+How can I improve a landscape photo with deep shadows in post-production?
+How to reduce the file size of my photos (to under 15 MB)?
+State of the art in black and white printing
+Is there a medium format film scanner that has an automatic feed
+What does the Basic Highlights adjustment do, and what if I want more than &quot;100&quot;?
+Yongnuo YN-468 II — how can I turn off the beeps?
+Tablet for use with Lightroom 5
+Apertures required to enable autofocus on Rebel T6s/T6i in Live View?
+Why do some photos show entirely black when exporting a 1080p slideshow from iPhoto?
+Why are my tone mapped images turning purple?
+Can I use Canon lenses on a Nikon dSLR?
+How can I recreate the Instagram Filter &quot;Slumber&quot;?
+What techniques do you employ to control contrast in your landscape shots?
+Which Low light zoom lens with image stabilization for DSLR
+An online service to create &quot;photo stacks&quot;?
+Pros and cons of cheap studio strobes vs. hotshoe/speedlight flash for portraits?
+What tele-extender can I use with a Tamron 18-270mm lens on a Canon Rebel?
+Wide Angle Lens recommendation for canon 70D (cropped sensor camera)
+What is the difference between image processing and image editing?
+How can I take photographs which best show scratches on the surface of metal?
+Do photographers see ambiguity in the color of the blue/black (gold/white) dress?
+Canon 60D with SanDisk 32GB microSDHC Class 10 = Card Error
+How to achieve sharp focus on two subjects in a portrait with low depth of field?
+comparable price of flash guns for canon 60 compared to 400-500w strobes
+I have a canon 7d Markii, how to set insignia remote
+set manual focus distance
+Do I need a better Camera or do I need to learn how to use the one I have?
+Suggestions required for pairing Canon 430EX II with an ideal Yongnuo speedlite (2 light setup)
+How can I get maximum DoF with no distance markers?
+Is it possible to share albums privately on Flickr?
+How do I avoid getting different sized pupils when shading half of the model&#39;s face?
+Are Nikon DSLR sensors actually better than Canon&#39;s?
+Is it worth buying a 5D Mark I or an EOS 1Ds II today?
+EyeFi doesn&#39;t support CF cards. Are there any alternatives that do?
+Canon - EOS 1DS Mark II
+Focal length of Leica lenses with Metabones adapter
+How can I take an extended timelapse with my GoPro given the short battery life?
+What battery can I use for an old Canon Ex EE (PX625 vs PX625A)?
+How can I get started with a first flash gun?
+How do modern or recent film SLRs compare to vintage models?
+How can I save money on shooting, developing, and printing 35mm film?
+How can the aperture value written in Exif be larger than the nominal limit of the lens?
+What is lomography?
+Which one is better olympus omd em 10 or Sony alpha 6000
+How to improve the low-light image quality of my Canon 350d?
+Is the build-quality of the Canon 60D as good as the 40D?
+Why don&#39;t we focus at the nearest hyperfocal distance to get everything in focus?
+What are the effects of umbrella size?
+Anyone know of a photo sharing site willing to share ONLY a file link?
+Focusing on hyperfocal distance with Nikkor 35mm f/1.8G prime lens
+Is camera flash actually harmful to infants or newborns?
+Nikon 50mm f1.8D will autofocus, but not take photo with Nikon Df body
+Jpeg images are zoomed and ORF files are not in Lightroom 5
+Recommendations for Wireless Flash Triggers?
+What are the benefits or disadvantages of a prime wide-angle lens for landscape photography?
+Are there any good pancake lenses for Canon EOS DSLRs?
+What do resolution figures mean in lens specifications?
+What underwater strap keeps my equipment safe and usable?
+What image quality is lost when re-saving a JPEG image in MS Paint?
+Why are my 14-bit RAW files being saved as 8-bit on my computer?
+What extender can I use with the Canon TS 24mm?
+Unsharp mask - what do the parameters do?
+Best Unsharp Mask settings after resizing photos for imagemagick
+How would an experienced photographer have taken this shot of a man selling old stuff in a city market?
+Why do images get &quot;corrupted&quot;?
+Canon 5d Mark III: how to switch off the silent shooting mode in the Live View mode?
+Why won&#39;t my D3100 take flash pictures even when focused?
+All the things that I did wrong with this shot
+What kind of lens is typically used for these type of night street shots?
+Is image stabilization a necessary feature for wide angle lenses?
+How can I colorize my astrophotography?
+18-200 lens vs. 18-55, 55-250 and 17-300 for sale, what would be the benefits of one of these vs what I have?
+Which lens should I use for fashion photography with a Nikon D5200?
+Is B&amp;W paper optimized for colour negatives available today?
+Can I use generic flash tubes for studio strobes?
+Super-resolution photos by interactive focus stacking and image stitching?
+How do photo files get damaged?
+Is there a teleconverter to go between Sony Alpha A77 D and Tamron 70-200 f2.8 (with Sony mount)?
+How can I find a compact camera with an ultra-wide lens?
+Importing Flickr tags into Lightroom as keywords
+How do prime lens allow variance of focal length when focusing?
+Is there a way to replicate the look of Allen-Khondji Midnight in Paris and To Rome With Love?
+How to calculate the focal length of cell phone cameras when none of the required parameters are available?
+How do I separate a stuck Nikon 400mm f/2.8 AF-S (non-VR) lens from a D800E body?
+How to make Liveview mode in Canon 450D stop simulating exposure?
+What should I look for in a wireless flash trigger for a home studio?
+Creating a master photo archive - importing photos and detecting duplicates
+Is there a radio flash control system for Olympus that allows setting flash power from the camera?
+Is the angle of view actually different on APS-C?
+Is it better to shoot with a higher ISO, or use lower ISO and raise the exposure in post-processing?
+Cokin Z Pro filter holder causes vignetting at 18 mm on Nikkon 18-35. Any solutions?
+Photography: Set ISO higher or use software edit later?
+What causes this weird angled glowing blur around lights on my low light shots?
+Why can&#39;t DSLR cameras use internal memory to save photos?
+Can I store exposed film in the fridge (when it was stored before shooting, too)?
+Where or how to get exposed, developed colour film to use as a filter for infrared photography?
+Why do I get dark horizontal lines (stripes or bands) in bad lighting with my Fuji X-T1?
+What is the best way to store negatives from the 1940s and &#39;50s?
+Where is the serial number located on the Yongnuo YN-568EX II?
+Will a Vivitar lens work with my Nikon camera?
+How can I set a shutter speed slower than 30s on my Nikon D5200?
+How to avoid glare problems with insert-your-photo portfolio books?
+Mamiya M645 Super not focusing right
+Is there a setting for the adjustment brush in Lightroom that makes the &quot;edit pins&quot; disappear?
+What software shows the most accurate version of a photograph for web viewing?
+How can I upload photos rejected as corrupted to Blurb Books?
+Is it lenses which make your photographs, not camera bodies?
+What are the differences between different types of focusing screens?
+How can I automatically correct aerial perspective in landscape photographs?
+How to best photograph clothes for ecommerce?
+Night pictures lights superimposed to a second location?
+Is it normal for a fast prime to exhibit purple fringing in middle of the image?
+Is it possible to do non-destructive JPG color correction?
+Lightroom: How to apply a predefined set of keywords to 1+ images in one action
+Which is better to use : Mirror or totally reflecting prism?
+How can I improve my clothing photography with a limited budget?
+Nikon D610 problems with over and under exposure
+How do I get regular people to relax and not to overprepare having their portrait taken?
+How to best take top down pictures of things organized neatly?
+How can I take a picture of the moon as part of a night landscape?
+Why are my NEF photos unusually dark in RawTherapee?
+How would IR-assisted white balancing work?
+When shooting one-on-one with a subject, what are some tips and tricks to get into a &quot;photoshoot&quot; mood?
+Rodenstock XR-Heligon 50mm 0.75 Lens
+How to read a film color response chart?
+Canon RC-6 remote control not working with Canon 550D
+Can I swap cheap ink into my printer for documents and expensive ink in for photo prints?
+Why do large format cameras seem to keep vertical lines vertical rather than converging?
+Why store both JPEG and raw?
+Does the crop factor affect the field of view (FOV)?
+What lens for catalog-quality photos of long guns?
+Should I worry about a camera I am interested in &quot;winning&quot; on Snapsort?
+What are the effects of using a crop lens with a full frame sensor?
+How to take extremely long (multiple month) exposure photos?
+How does physical aperture size relate to f/stop?
+Without modification, is the built-in pop-up flash EVER appropriate?
+How do I make the Fuji X-T1 not take a picture when I connect an external audio source?
+Are there any adapters for using EF lenses on FD mount?
+How much do lens lineups vary across DSLR platforms?
+What makes the Nikon 1 series different from Nikon&#39;s existing DSLRs?
+Tele-zoom lens choices for Nikon 1 J1?
+Should my collection of older Pentax lenses be a deciding factor in my first DSLR purchase?
+What are the connectors like on a &quot;standard light stand&quot;?
+How can I accurately photograph an empty picture frame?
+Can I use an off-camera Canon 90 EX to trigger a Canon 430 EX II?
+What&#39;s the generic term for portable flashes (Speedlites, Speedlights etc)?
+Is there a quick way to use &quot;remote trigger&quot; drive mode on the Nikon D7100?
+Can the Canon EF-M camera use the focus by wire lenses?
+What software is available for macro focus stacking?
+Advice for someone just entering the world of off-camera flash?
+Is there a specific color temperature to film?
+Can I take the 4 second photo delay off my Canon 600D?
+How do the 35mm Zeiss Loxia vs Sony Zeiss Sonnar compare for IQ for landscapes?
+Why does fungus form in lenses, and how to get rid of it?
+How can I position my marquee from the bottom left of my image?
+What are the best methods you have found for attaching filters to unthreaded lens tubes?
+Are L-plates and anti-twist plates only made for the Arca Swiss QR system?
+Is it more cost-effective to build a home studio piecemeal or buy a lighting kit?
+What are the key photography-related features from Photoshop that are missing in GIMP?
+Would it be better to use hotshoe flashes or studio lights for a product shoot?
+Firing master flash with Yongnuo RF-603 II
+F-mount to EOS adapter from Nikon to Canon
+How to remaster images from an early digital camera?
+Hot shoe flash units and softboxes for portraits; good beginner setup?
+Concerns with glass slides vs glassless
+Should I use JPG or TIFF for high-quality prints?
+How to change Shutter Speed and Aperture on Canon T2i?
+Are the Yongnuo clones of canon flash equipment and lenses legal to sell/buy?
+Can the Olympus EPL3 camera be tethered to a computer?
+Should I Always Crop My To-Be-Printed Photos to a 4:3 Ratio?
+Does the internal structure of an umbrella-type softbox impact light quality?
+Are small on-flash softboxes useful, or a gimmick?
+How can I bring out the texture and sheen on a model&#39;s clothing?
+How can I unlock my manual focus ring?
+How to remove white spots from a scanned picture?
+Manfrotto flex arm: heavy duty or regular?
+What is this yellow mark I get on dark photos?
+Preparing/using a camera color profile using IT8 target on Linux/Darktable
+How to remove oil from aperture blades?
+What adapter lens would fit my Nikon D5100 55-300mm lens?
+what is the virtue of lightroom&#39;s print module?
+Actual Focal Length on APS-C cameras
+Susan Sontag&#39;s &quot;On photography&quot; - Where can I find concise summaries of the 5 articles/essays?
+How can I easily convert a large number of pictures from RAW to scaled down JPG?
+What is a &quot;diffraction limit&quot;?
+Does noise in images depend upon &quot;Megapixels&quot; or &quot;ISO&quot;?
+What is color temperature and how does it affect my photography?
+Odd couple photos
+What do I need to know about using a polarizing filter at night?
+Where does the term &quot;f-stop&quot; come from?
+how do I Auto Focus Nikon 55-300mm f/4.5-5.6G ED VR AF-S DX Nikkor to my nikon d7000
+Why does storing a long exposure photo take almost as long as the exposure time itself?
+Slow image review after long exposure shot
+How to re-organise an existing Lightroom library?
+Inconsistent exposure with same settings--why?
+Why does the Fujifilm X30 limit shutter speed limit in aperture priority mode?
+What type of lens can I add to my webcam for closeups 5-20cm away?
+Why are objects far away inverted through a lens but not through the viewfinder?
+Can I adapt a Minolta AF-mount Tamron zoom lens for use on a Canon or Nikon DSLR?
+Which is the correct filter size for Canon SX30 IS?
+Does shrinking the upscaled picture improve its quality (in terms of blur)?
+Memory speed on Sony camera
+Why is my SD card filling up too fast?
+How to fix uneven/gradient lighting on a canvas with white background?
+Is Canon 16-35/4 IS better than 16-35/2.8 II at f/4?
+How to determine if a new lens is a subpar copy?
+What is the purpose of gamma correction in today&#39;s screens and how does it relate to graphics and photography?
+Capturing steam coming out of a cup in a snowy day
+Why does my Canon 550D make a small sound while focusing?
+How did Suren Manvelyan create the macro pictures of eyes?
+Why does harsh light give darker shadows?
+Which filter would I use for daytime lightning long exposure?
+How does using a teleconverter affect the aperture of a lens?
+How do I hide unflattering body features in a low key shot with rim lighting?
+How to select &quot;white point&quot; before calibrating a monitor with Spyder3
+What can I use to shift a tripod mount to the side for easier access to the battery compartment?
+What is the &quot;best&quot; photography tripod for taking panorama pictures?
+Yongnuo YN565ex flash, what is the SL option for?
+What are the differences between Canon and Tamron 70-200mm f/2.8 zoom lenses?
+What is a rolling shutter? When do I have to be aware of it?
+Nikon D3100 taking black images. Stuck shutter?
+position of the object within a photography
+What is a good photograph
+migrate from Lightroom 3 to Lightroom 5: publish services
+How does dragging the shutter work?
+Is it possible to modify a camera by changing cmos sensor?
+Interior/architecture lighting solutions?
+Does the brand of the micro SD adapter matter?
+Is it worth to buy old Sigma lens instead of Nikkor?
+any reason not to disassemble old lens for kids experiments?
+What should I look for in a wide angle lens?
+Why are Micro Four Thirds lenses so expensive compared to Canon?
+What third party flashes can be remotely controlled from an Olympus?
+E-mount lenses to A-mount bodies?
+How can I remove the hair on the sensor from this picture?
+How to transfer all my photos from my Canon camera to my iPad&#160;mini in wi-fi?
+How can I get non-blurry photos of a wriggly baby with a point-and-shoot camera?
+Should film cameras be stored with a cocked shutter or not?
+What tools are available for RAW image processing in Linux?
+Can I take macro photo with a mirrorless camera as easily as with a compact camera (even without a macro lens)?
+How could some old film cameras without electronics set exposure?
+Aperture like event view in Lightroom 5
+Does chromatic aberration always have the colours displaced in the same way or does it depend on the lens?
+newbie just got a d3200
+Was there a film camera that was silent?
+Is the fact that in-camera HDR was used available in EXIF metadata?
+Recognize dry areas by separating diffuse and specular reflections
+Why does the YN-565EX need a radio trigger with the YN-560-TX?
+How to Mount Pentax K-Mount on Canon
+How to match colors on photographs stitched together?
+Can I trigger my flash with an iPhone?
+How do I identify the lens mount for this old lens which says &quot;for Canon&quot;?
+What Nikon cameras is a Sigma AF-k lens compatible with?
+How do I deal with a lens stuck on a Nikon D90?
+Is the effect of a fisheye lens visible in an optical viewfinder or Live View?
+How can I convert a timestamp in Lightroom&#39;s .lrprev files to an actual date?
+Memory card is not showing all data
+What should I expect in maintenance costs after shutter failure for a DSLR?
+Can I damage the focus system by turning the focus ring when the lens isn&#39;t mounted?
+Is there a &quot;special look&quot; to images from large sensors that can&#39;t be replicated with a smaller one?
+How do mask like this using Photoshop?
+How To take a bulb mode shot in dark night
+Why is my ISO so high when shooting indoor photos with flash
+Using motorized lense on a motorized Nikon body
+How do I identify the lens mount used for an old Soligor lens?
+What is the difference between AI Focus and AI Servo autofocus modes?
+How strong is the tripod mount on the bottom of a DSLR?
+What vintage mechanical camera looks like the Fuji x20?
+Why do my photos appear grainy when taken at the widest aperture?
+What is the best practice for batch compressing jpeg files?
+What modifiers and workflow should I use to light a hand-painted muslin background?
+How do I use an exposure of 1 minute or longer, on the Sony NEX-5R?
+How can I incrementally date photos?
+can you remove a hair on the image sensor in light room?
+Artifacts in shadows, RAW format
+What insurance options are available for rental lenses?
+is there a quick fix to a broken shutter?
+How do the two styles of tripod mount strap connectors compare?
+Can a laser pointer damage the sensor in a digital camera?
+RAF (Fujifilm RAW) preview on a Mac
+New to digital photography - should I buy a D300?
+Is an 18-200mm lens sufficient for an Alaska trip?
+Has anyone used Canon EF lenses on Sony mirrorless cameras?
+How can I edit the capture date in Nikon raw file
+What is a remote shutter release?
+How can I batch crop based on face location?
+Camera tips for Smartphones
+How do you downsample an image in Photoshop CS6?
+What is &quot;infinity focus&quot;?
+How to remove dust from inside lens and prevent recurrence
+Can I sync my iPhone to an external strobe / flash?
+Can a detached rewind crank on a Superheadz UWS leave my film accidentally exposed?
+Canon 750d very slow focus speed
+Get HDR for part of a image
+Is there a problem with capture date in Nikon P340?
+Can a telephoto lens have a wide field of view?
+Nikkor AF 70-300mm &quot;Lens Not Attached&quot; Error
+How can I blur the background of an image using Capture One Pro?
+How does focal length change perspective?
+Black spot in image of Panasonic Lumix ZX3
+&quot;Lens not attached&quot; appearing whenever I try to use my Nikkor 70-300mm?
+Where can I print a panorama?
+Nikon D3200 - protection against snow, cold and rain, and how well does it work in -20/-30C? No tripod!
+Do I get more detail from a shorter focal length by being physically closer?
+Nikon D3200 image quality compared to D3300?
+How good are the EF-mount to E-mount adapters?
+Is the weird red and yellow patch near the center of my photo chromatic aberration?
+What&#39;s the difference between wedding album print types?
+Is it possible to use a flash for modern DSLR on an older film camera?
+Why isn&#39;t it safe to use EF-S lenses on fullframe?
+Why is the battery required to manually focus through the viewfinder?
+Emulate Gimp&#39;s Grain Merge in Photoshop
+Trying to fix flash from the 70&#39;s/80&#39;s AGFATRONIC 200B
+Nikon D3200 - quality loss with stock lens and with old lenses?
+Cokin Z-Pro ND filters with Tokina 11-16mm lens
+Macro/Telescopic converters for Nikon D3200&#39;s 18-55mm VR2 lens?
+Live view from my laptop
+How should i go about optimizing images?
+What is the native color gamut of a modern digital sensor?
+Does every frame of video (or live view) on a DSLR count as a shutter actuation?
+Adding flash makes picture darker. Why?
+How to configure the camera to capture true colors of ambient light?
+Can the Canon 5D Mark II be set to save exposure settings on auto power off?
+So why does Canon 5D Mark II have a better video quality than Canon 60D?
+Why are there no dark yellows, or bright violets?
+Canon EOS700D Flash: Why are exposure times different in modes P and Av if all settings are &quot;equal&quot;
+Could I use an old Canon FD lens on a new Canon EOS M3?
+Which lenses can use with my Sony A-mount body when using mount-adapters and what are the disadvantages of such adapters?
+Actuation count
+Large DOF in low light for portrait in front of a landscape?
+What&#39;s the advantage of an expensive industrial camera over a consumer device for microscopy?
+How can I make the flash fire when it is connected with a cord?
+Buy Canon 6D or wait?
+What good DIY projects (which involve a digital camera) do you know?
+How much do I charge for the first time wedding photo shoot?
+Suggestions for Desktop Archiving Software using Blu-Ray disc
+What is the purpose of &quot;A-DEP&quot; mode on Canon cameras?
+How can I fix my Canon rebel XT?
+Low-light photography: How much light reflects off a surface
+Will an always-on ring light provide a less annoying option than flash for portraits during events?
+What is the difference between a step-up and a step-down ring?
+How to print a photo for backlit presentation?
+Nikon D3100 Won&#39;t Take Photo -- says light is too low
+Is video a good alternative to low available light photography?
+Can screw-on macro lenses produce decent results?
+Can screw-in wide angle adapters/converters produce decent quality results?
+Why can&#39;t I view a picture preview on Windows 7?
+What&#39;s the difference between Canon EF-S and EF-M?
+What publicly-accessible high-elevation photography-locations exist in New York City?
+How to brighten the face of a backlit subject
+What&#39;s the difference between Time-lapse, Hyperlapse and Flow Motion?
+What&#39;s the maximum length of USB cable that you can use for tethering?
+What is a focus limiter?
+Charging similar battery packs in a charger intended for only one of them appears to work; Are there non-obvious reasons for not doing this?
+Where to get IKEA Premiar sized canvas prints for the same rate?
+Nikon 18-55 mm Lens Focus Wheel Jammed
+Minolta x370s low range led blinks in all light conditions
+How to get Manual Control of my iPhone 4
+Nikon D7000 and Nikkor 28 2.8 is not working together
+Can I take multiple exposure shots with my Canon 600D?
+How do I copy published services to a new lightroom catalog?
+Do TTL flashes always &quot;count&quot; as a single pre-flash?
+What is a zone plate?
+How do I know if a tiny lens crack is a manufacturer fault?
+.CR2 pictures damaged and corrupted
+is it possible to get &quot;bokeh balls&quot; using a cellphone camera?
+Is the model release form per shoot or per subject?
+Can I use old Pentax lenses on newer Pentax DSLRs?
+Does stacking more lens filters decrease overall image quality?
+Why does the exif data show a max aperture 1.6 when I am using a f/1.8 lens?
+NIght photography and long exposures with film
+What am I photographing INSIDE my camera?
+Does the Nikon EH-5a AC Adapter also charge the battery
+How to pause a batch operation in photoshop to allow for user interaction?
+What equipment/ Which settings required for a 400 person group photo?
+Can the Panasonic GH4 remotely fire a Canon Speedlight 320EX?
+How do I sell my photos at art festivals?
+Why am I getting dark black photos in P, S, and A mode on Nikon D5200?
+How to clean an old metal newspaper photo engraved plate?
+How to insert a new picture beside existing one without also making it black and white?
+Canon Rebel EOS XTi: USB not connecting when using external power
+Camera for high volume automated shooting of product pictures
+What software can replace Apple Aperture?
+Who was the first to introduce a beauty dish?
+How can I get multiple different images on one page in Lightroom&#39;s custom print layouts?
+What are the advantages and disadvantages of compact cameras vs phone cameras?
+Why does my camera insist that my Nikon 50mm f1.8 be locked at its lowest aperture setting?
+Digital Photography Plugin List
+What Photoshop plugins are must haves?
+Should I buy a compact, SLR, or DSLR camera?
+Is there a disadvantage to step-up rings?
+How do I improve the quality of lowlight back-lit bottle photographs with a point and shoot camera?
+How do I get a decent zoom lens for my Micro 4/3 camera?
+Why does a speedlite not fire when taking a still during movie mode?
+What software should I use for converting fisheye photos to normal rectilinear photos?
+Which is a better way to store your photos? RAW or TIFF?
+How do I use a card formatted as exfat by my Canon 6D in Linux?
+Performance of large libraries
+How do I calculate the distance of an object in a photo?
+Why is &quot;fine art&quot; photography predominantly in B&amp;W?
+Import photos from camera in an ordered way
+What kind of LR or PS filters are used in these photos?
+How can I take long exposures using a Nikon D7000 with wireless remote?
+Do focusing screens exist for modern DSLRs?
+How can I best take a tripod on a plane trip?
+median stack mode is blurring my stars
+Sigma lens adoptor to Nikon camera
+Why do cameras have mirror system?
+Why does the IR-Assist beam of Canon Speedlites not get used in AI Servo AF mode?
+External power for compact camera?
+Nikon D3200 Android USB control
+How can I detect upscaled photos?
+Why is the neck strap of an SLR attached to the top plate of the body?
+Explanation of the fisheye phenomenon
+Why is my Metz 58 AF-1 flash showing low battery when fresh batteries are being used?
+Controlling style of motion blur in long exposure photos?
+How can I simply remove the fish-eye effect of my DJI Phantom vision 2 lens?
+How do you take pictures in a dark room?
+Nikon D90 error F---
+Are there still two classes of Canon IXUS/Powershot/IXY/ELPH around?
+What *exactly* is white balance?
+Remotely start recording on 60D with Yongnuo RF-602&#39;s
+What causes white blank images when shooting with a Canon PowerShot A4050?
+Does a JPEG image uncompressed to bitmap prior to displaying it on the screen
+Where to find information on Olympus SZ-17?
+How to drain Nikon DSLR battery?
+How do you attach asset tags to camera equipment?
+How to understand a quote for the correct exposure when shooting ColorChecker?
+Using a 4K Monitor for photo editing
+Is there any alternative of &#39;Animoto&#39; for making movies from images?
+What to look for in a starter-level off-camera flash?
+Suggestions for photographers / videographers to best work together at the same event?
+Get Canon 17-55mm f/2.8 to replace 35mm Prime?
+Sharing Lightroom Catalog
+How do I work out what is fair to pay for photo editing?
+Is it possible for increased ISO to improve focusing in low light?
+What are the lighting characteristics of a beauty dish?
+What is the most compact camera/lens setup with movements?
+Why do my photos &quot;glow&quot;?
+how to use a speedlight flash in dark room
+What can I use instead of a human to practice shooting with flash?
+Is Cowboystudio 4 channel remote trigger compatible with Canon 60d?
+&quot;Shooting was interrupted, Sweep faster&quot; error when taking a panorama on Fujifilm FinePix S9400W
+Is it possible to add an aperture ring on Nikon G Lenses?
+matching artificial light temperature to ambient light?
+Is Yongnuo RF 603NII N3 compatible with YN-565EX II Flash Unit without using slave in flash unit
+Methods for dithering a DSLR
+Trying to light my set better: Help?
+How to Take out some lines and shadows in the background by photoshop?
+noticeable improvment with 70-200 f4 (non is) vs kit lens (18-135 is) and 70-300 (is, non L)?
+Windows 7 how to switch through monitor ICC profiles and see instant change
+Is there an easy way to convert all my photos from .NEF to .JPG for upload to Facebook?
+Are there cheap or DIY focus assist solutions for the Canon 5D?
+Grinding an RRS plate to fit new body
+What software or workflow can I use to keep track of who is who at events?
+If I&#39;m editing in Photoshop, is there any advantage to using Camera Raw directly rather than Lightroom first?
+Where can I find the maximum lens weight for my camera?
+Are DSLRs a dying breed, making now the time to switch to a mirrorless camera system?
+Too heavy a lens?
+Increasing Pixels
+What is the effect of repeated sensor cleaning on the battery?
+If I have an 85mm lens for portraits, is a 50mm useful as well?
+How can I shoot with a fast aperture in sunlight?
+Batch processing in Lightroom without import
+What is it called when two images from different locations are blended seamlessly into one?
+Best Neck Strap
+What is this format? PNG unreadable by browser
+Batch exporting files from DNG to jpg
+What&#39;s the point of a DSLR?
+Image quality - related to camera or not? Blurry, artificially sharpened images
+Could the Nikon V1 be a good camera for sports photography?
+Why did Canon come up with APS-H and why did the top-of-the-line 1D&#39;s *still* use it and 1.3x crop, when FF existed for four years (the 5D)?
+What workflow will speed up sorting photos stored on a NAS in OS X finder before import into Lightroom?
+What are the metal items on top of an older Nikon lens?
+What is Arbitrary Release Time Lag?
+Canon 5D MKIII - how to view the photos of the full card?
+Fitting all pictures in a square canvas
+Remove GPS Location
+What software should I use to batch cropping images from paper notes?
+Is it possible to create an inside-out panorama?
+Can I convert a standard collection to a smart collection in Lightroom?
+What is the distinction between a professional and amateur photographer?
+Is it possible to photograph the aura of a person?
+What are the risks of using Magic Lantern?
+Shooting flying birds
+D5200 LCD monitor failure
+What type of lens is more suitable for this type of portrait shot on railroad tracks?
+Why don&#39;t cameras support JPEG 2000 format?
+What apertures are required to enable autofocus, including cross-type or high-precision focusing, on Canon DSLR cameras?
+Does the camera white balance setting affect the raw image at all?
+What is the difference between Canvera and Karizma wedding albums?
+Why isn&#39;t my Canon 60D saving images to SD with pics taken using swivel screen/viewer?
+Why doesnt the Photoshop CC Save for web action not close the save dialog?
+Canon EOS 1V HS doesn&#39;t fire Canon EX430 ii or PocketWizard
+How much flare should I expect with a Hoya HMC Filter?
+What camera can I use as a high-resolution macro video recorder?
+Is a 70-300 lens something you would get in addition to a 85 mm lens?
+What to label digital prints made from scanned negatives in an exhibit?
+Why are some webcam lenses &quot;recessed&quot;?
+How to solve change in front and back focus at different diaphragms?
+Does making a focus area smaller in spot metering help with focusing?
+Why do I see no photos on my film?
+Why is DSLR autofocus much faster than Mirrorless autofocus?
+Toyo Optics wide angle lens okay for X S I?
+Calculating DIY lens hood
+Do mobile cameras ever vary f stops?
+How to remove fog while shooting and during post-processing?
+What&#39;s the difference between Bokeh and Gaussian Blur?
+In what practical applications is the position of the sensor plane relevant?
+What is the name of the Canon SX60 HS Wireless Protocol?
+Mechanical Aperture Control Adapter for my Nikkor lenses
+How can I use a reflector for wider group shots?
+Will two lights plus octaboxes be a good starter setup for portrait photography, or can I get away with one umbrella?
+How do I make my photos look like these soft, yet sharp and colorful examples (using Lightroom)?
+Is there any reason to choose a standard size SDXC over Micro SDXC?
+I&#39;ve &#39;lost&#39; a photo. I know I have it but I don&#39;t know where — how can I find it?
+Is there any point in using automatic sensor cleaning on my DSLR even if I never remove the lens?
+What are the 5 basic lighting setups used in studio portrait photography?
+Where can I buy a 77mm 12 - 15 stop ND filter at a reasonable price.
+Best approach to handle flash with my film camera?
+SD cards - I keep receiving a message saying there&#39;s a problem with my SD card, but it&#39;s brand new!
+Why does my generic Chinese intervalometer stop short of selected number of frames?
+Nikon d5100 producing extremely underexposed images
+How does the Minolta AF 24 mm f2.8 compare to the Sigma AF 24mm F2.8?
+Is there any difference between cropping an image in ACR vs. Photoshop Elements editor?
+Is a Pentax K1000 relevant today, and how can I get the best use of it?
+(How) should I start with film photography?
+What is Lightroom *really* doing when I change a Camera Calibration?
+Lightroom 5 colour profile issue
+Lightroom: create smart collection for specific development setting value?
+Enable Auto focus after timer on Nikon D800?
+Can I live view my Nikon D3200 via laptop/ tablet etc?
+Why do I get white images with black vertical stripes?
+Digikam RAW import: Preview
+Adjust exposure compensation in manual mode?
+What does CHA mean on Nikon D-90?
+How to remove external flash stuck on camera body?
+Will a 50mm EF lens give the same result as a 50mm EF-S lens?
+If I swallowed my SD Card would it be readable when it emerged?
+How to remove write protection from MicroSD
+Nikon D5200 Auto-Focus problems though working with live-view
+Why does my Nikon D5100 suddenly have a 30-60 seconds delay before auto focus starts working?
+What is the EF 28 - 105 mm 1: 3.5-4.5 lens best for?
+How can I remove banding noise from this image?
+How can I replicate the style of images produced by an old Finepix digital camera?
+can i transform my manual focus lens into an autofocus lens?
+What are the advantages of using the optical viewfinder over live preview to take photos on a DSLR?
+How to create a secondary black &amp; white batch and preserve original color batch in Lightroom
+Whatever happened to dust?
+How to get started with strobes?
+Should I upgrade my body or lens first?
+Canon 1000D shutter stuck. How to fix?
+my wedding photos were a gift but now she wants to put them all over the internet
+Photoshop multiple color filters
+EOS-1N (Film SLR) - Set aperture with modern EF lenses?
+What color corrections are being used here?
+What is the shutter speed, aperture, and focal length of the Kodak Funsaver disposable camera?
+Is something wrong with my camera display?
+What process can I use to print my picture so edges are embossed and can be felt?
+How to sync EXIF data and date information from iPhoto to Flickr
+How can I find the sensor position on my camera?
+Does Lightroom automatically save the date of printing events, or just the date a print is saved?
+Why don&#39;t comparisons of aperture take sensor size into account?
+Is it possible to do remote capture on a Canon DSLR?
+Is resolution the same thing as active pixel count?
+Should i spend on upgrading my Beginner Camera or go for a new Lens instead?
+What are the (dis)advantages of the Canon 600EX-RT compared to the 430EX and 580EX?
+Are there any radio flash triggers capable of P-TTL?
+Very small quick-release?
+Panasonic GH3 bulb setting without remote?
+How can I keep the shutter open until I release with the Panasonic GH3 remote?
+F1.0 and beyond
+camera mobile phone takes pictures at constant focal length if 3.5 mm.supposed to have autofocus and touchfocus
+Is there a self-timer mode on the GoPro Hero 3+?
+how to control my 5D mark II using my computer
+Test the Stability of a Tripod?
+Why doesn&#39;t exposure change when changing focal length?
+How does a stitched panorama compare with a wide-angle lens?
+How to achieve auto focusing with a non-TTL flash (YN-560 II) in low light situation?
+Calculate Distance to Object in Android knowing the Size, Focal Length
+Identify a photo filter or a post-processing technique
+How do I set the proper exposure for nighttime moon photos?
+Is there a rule for something like &quot;footroom&quot;?
+Where is my DOF button in 550D?
+How do I blur the background around an object in post-production?
+how to achieve this washed out processing effect
+How to use Hugin straight line control points?
+What is the difference between touch focus and autofocus?
+Technology stack for event photography with multiple photographers
+ND filters set Recommendation for Lee/Cokin Z-Pro Holder
+Are there softboxes that will work both with portable speedlights and and with studio flashes (Bowens Gemini 400RX)?
+Is there a more affordable program than Lightroom?
+How does autofocus deal with the time to change aperture and raise mirror?
+What&#39;s the difference between CCD and CMOS image sensors?
+How were photographs printed in newspapers in 1929?
+Comparison of DOF between a 30mm f/1.4 and a 35mm f/2 lens
+What deep sky objects can be photographed without a telescope?
+Canon 50mm f1.4 no longer focuses reliably
+Lightroom synchronize finding all photos as new photos
+Does focal length matter for a macro lense when use for close-up photos
+Why isn&#39;t the size of an object in macro image exactly proportional to the ratio of the focal length and distance in front of that?
+How does one take intriguing, artistic shots of older, smaller, historic buildings?
+Does Lightroom take sensor size into account when applying lens correction profiles?
+How do I keep my Nikon D5100 from attempting to autofocus with every shutter press?
+What are some tips to keep a lens from rolling on its side when kept horizontally on a table?
+Nikon D300 Slow Shutter Regardless of Shutter Speed
+How can I open CR2 files with Photoshop CS4&#39;s ACR?
+Android camera application that allows earbud mic clicker to snap pictures?
+Tips for Shooting Crowds, Political Demonstrations, Rallies and other &#39;Lively&#39; Events
+My Nikon D3100 says no lens attached when I use a T-Mount with it
+What can I do with an 18-55 mm kit lens?
+Lens Adapters For Point and Shoot Cameras?
+How can I get proper flash exposure in AV mode without using ETTL?
+Do all my speedlites need to be trigered wirelessly to do proper HSS?
+Choosing between Lenses Canon 70-200 f2.8L IS II vs Canon EF 70-300mm f/4-5.6L IS USM
+Darktable: How to edit level on each RGB channel?
+Off camera flash with cheap camera
+Are there professional studios that are available to take pictures of sculpture?
+Can I use a Vivitar Auto Thyristor 3700 Flash with my Nikon D3100?
+Giving compact digital camera a Brain
+Relationship between the focal length and sensor size
+Technical book or resource (non-creative)
+Do I need to update nikonD3100 firmware to use a microSD 32GB HC1 card?
+Nikon SB-600 remote operation nonsense
+Is there a correct way to swap lenses?
+Manual and Autofocus not working on near field with Canon Rebel T3
+Are airport x-ray scanners safe for DSLRs / lenses / storage media?
+Is it safe to override my camera&#39;s &quot;flash busy&quot; warning when the battery is low?
+Would a 85mm lens have allowed me to blur the background better in this photo of a DJ in action?
+How do photographers manage multiple lenses?
+Is it safe to use a third-party replacement battery charger?
+Why does Nikon D3100 locks Shutter in Autofocus mode?
+How to create the equivalent of an Adjustment Layer in an editor that does not support it?
+Where do we focus when shooting cars in a street?
+How to disable the red eye protection flash with sony powershot DSCWX80 or WX60?
+What are the dangers of removing a lens while the camera is on?
+Is it risky to change lenses in the cold?
+What kind of camera bag would I look for to allow fast lens swaps?
+Is it dangerous to do a lens change with power on?
+How do I avoid dust entering my camera when changing lenses?
+What do &quot;dark current&quot; and &quot;sensitivity&quot; mean for a camera module?
+lens care: compressing lens without full-time manual focus when camera is off?
+What are some good online forums for discussing photographic editing?
+Lightroom: Photoshop documents not displaying in catalogue
+How can I use CMYK values to white balance skin?
+What is the cause of this unusual concentric blob defect (taken in below zero conditions)?
+Can vibration damage my camera?
+Fotopro monopod tilt head — available in the USA?
+Weird sticky liquid on old tripod (+10 years)
+How is Nikon&#39;s PF optics different from and similar to Canon&#39;s DO optics?
+How can I trigger an off-camera flash with a Polaroid SX 70 or a Yashica-Mat?
+Does the Canon AF/MF switch actually do anything on L lenses?
+smart phone gripper for large phone
+Issue with Yongnuo 568EX flash on i-TTL mode
+What mm lens for distance shots?
+Understanding Lightroom/ACR Exposure Non-Linearity
+Should I store RAW file or DNG for backing up
+Does the right calibration temperature for my monitor depend on season?
+Effective viewing of Margulis&#39; latest tome
+Can I get a better results with my Canon 50d?
+How do I fix a dog&#39;s wrong colored eyes in flash photos?
+What is a good way to get cats to be more photogenic?
+Why don&#39;t smartphones default to 4x6?
+How can I remove shine on someone&#39;s face in Lightroom?
+What is the &#39;Golden Ratio&#39; and why is it better than the &#39;Rule of Thirds?&#39;
+Tamron 18-200 mm vs Nikkor 18-200 mm lens
+Canon EOS 6D/5D - Lightroom - Flickr - Exifdata missing
+Autofocus problem on new Nikon D5300
+Copyright of a product
+How can you reduce noise in Lightroom 3?
+Can I tune the auto ISO algorithm on my Canon 600D?
+How does D7100 bracketing work?
+Create a track from gps data
+How can I create a map with GPS data from EXIF?
+How to take this group portrait with faces in profile only lit from the side they&#39;re facing?
+How do I set up two off-camera flashes with Yongnuo RF-603II triggers?
+photo color differs when viewing on chrome vs Picasa 3
+How to do DIY repair of rubber grips on Nikon cameras?
+What does f/4.5-5.6G stand for on a Nikon Lens?
+What is a &quot;pictorial effect&quot; in photography, and how do I get it with a digital camera?
+Canon Powershot SX20IS User error
+What can you do with Lightroom catalog files if Adobe stops support for Lightroom?
+How can I avoid light bleed in a studio shot?
+Are mobile phone camera lenses good enough to support 20MP sensors?
+Kiron 70-201mm f/4 Macro Lens to a Nikon Dslr 3100
+How do I get Spyder3Express to work on a Mac OS X dual screen setup?
+Nikon D3200 with IR remote control uses AF-Light although turned off
+Why is the on-camera flash trying to pop up when using a D7000 with a MK930 Speedlite?
+How big should the images on a contact sheet be?
+Do I need to leave my Nikon camera on for three days to recharge the backup battery?
+What effect does a bright light have on a DSLR?
+How can I know how far the in focus area extends
+What is a good 360 degree camera?
+Breaking composition rules
+What distance should there be between two shots for a stereogram?
+35mm vs 40mm: Does it matter?
+Is it normal for Nikon DSLR viewfinder and live view shutter speeds to differ?
+How to make a microscope with a DSLR camera?
+Does it matter what edge finding algorithm you use?
+Did Calumet distribute Lee filters?
+What low-cost non-fisheye wide angle lenses are available for Canon and how do they compare?
+What are the differences between pictures shot with spherical and aspherical lenses?
+Is the camera sensor or the lens the limit to resolution?
+What is aperture, and how does it affect my photographs?
+Why doesn&#39;t photo editing software have RGB parade or vectorscope-style color correction?
+What is the best way to photograph an object when the background has to be replaced in post?
+Food photography project
+How can a high resolution camera matter when the output is low resolution?
+Is there any difference between using camera filter and photoshop like software postprocessing?
+When should I use saturation over vibrance?
+Why does the aperture value change in manual mode on my D70s?
+What could I do to take a better picture of this outdoor fountain at night?
+How should I select a price for a landscape image?
+Getting UFRAW into GIMP 2.8.14 on Yosemite
+Photographing Signage
+I scratched the glass on my Canon 550D&#39;s optical viewfinder — what can I do about it?
+Looking for adjustable length hanging system
+Why isn&#39;t my Nikon D7000 in Commander Mode working with my SB600 flash?
+What does Exposure Bias 12/6 EV mean?
+Should I use a 100mm Macro lens as a portrait lens?
+Why did &quot;pure&quot; photography displace pictoralism so completely?
+Why is manual focus off after installing a 45&#176; split-prism focus screen?
+Can I use old Pentax-mount Vivitar lenses on Nikon DSLR?
+What steps should I take if my photo is used without permission?
+How do you detect when your photos are used without copyright permission?
+What is the reason of &quot;banded&quot; bokeh on Sony a7?
+How is this high-key, bright cityscape effect achieved?
+Projector friendly pictures?
+Shooting full manual during an event or function
+How do I shorten the &quot;loading&quot; of photos on the card?
+Takes long to turn on with memory card but not without it
+Which is the application used for this photo with glow around dark things? I saw many pictures like this on instagram, but nobody answers
+System Gain vs ISO
+Converter and lens combination to try on sony a7 or a6000
+Wondering if my Nikon lens is broken
+Could I have taken this landscape shot better with my P&amp;S, or do I need a better camera?
+Is there any plugin for Lightroom that enables face recognition?
+Blurred corner problem
+How can I achieve this &quot;golden&quot; effect?
+Does the older but still more expensive Pentax K-5 offer any advantages over the new K-30?
+Does lens age affect color produced?
+Corrupt SD cards asking to format?
+How do I find the right backpack for my full frame DSLR plus lenses?
+How can I control the white balance from an Android application?
+DNG updates settings in the file itself?
+Which EXIF tag to set for the 35mm equivalent focal length?
+What&#39;s the difference between saturation and vibrance in Lightroom?
+What are the practical differences between Canon 580EX II and Canon 600EX-RT?
+How can I calculate the effect of non-TTL flash on exposure?
+Do any DSLRs offer in-camera file encryption?
+When should I (if at all) start a new Lightroom catalog?
+How can I protect myself when providing photographic services to someone who is just getting their business started and can&#39;t afford me yet?
+What are best practices for using Lightroom libraries?
+What extension tube options are there for the Pentax system?
+D7100: How to adjust default settings?
+What Is The Scale Of The Y Axis of The Histogram in Lightroom / ACR?
+How to create custom Google Streetview panorama?
+Lightroom/ACR Histogram Shape
+Correct EXIF metadata for Rokinon 8mm fisheye lens
+Which galaxies can we photograph with a DSLR and a telephoto lens?
+How to brighten stars in Photoshop?
+Will the auto document feeder scanner in PIXMA printers scan sheets as small as 4x6?
+Keeping menu or preview showing for longer on Nikon D5100
+What causes an f/0 error on a Nikon D700?
+Lines through my images - help
+Is there an effect of temperature on film exposure?
+What are the advantages and disadvantages of negative film versus reversal film?
+Sony A58 vs Canon EOS 1100D
+Does the Canon EF-S 24mm f/2.8 STM Lens offer any significant advantage over the Canon 18-55mm IS II at a 24mm focal length?
+Negative vs transparency film
+Is there a way to adjust the aperture of a Nikon lens without a camera or physical aperture ring?
+How can I remove all transient objects from multiple photos, leaving only the background?
+Manual off-camera flash compatibility with multiple bodies?
+Will moldable play foam work in a camera bean bag?
+Is there a standard tripod mount?
+Why are lower focal length lenses wider?
+How to make ordinary extra-ordinary without juxtaposition?
+Can I save multiple Lightroom virtual copies (the whole stack) in a single DNG file?
+What are the relative pros and cons of a Pentax K1000 or Nikon F for getting into film photography?
+Is it possible to use the GoPro camera when it is connected to a pc/notebook with a USB Cable?
+How do I scan old negatives that have black dividing lines versus the clear lines on the newer negatives?
+Is there any way to save the develop settings of a virtual copy in Lightroom?
+is Photron Stedy Pro 560 compatible with canon 600d
+How does using a 2x teleconverter with 70-200 f/2.8 affect use?
+DPP output is not sharp
+Does the Sony A7 run Android, or if not, is there another way to write applications for it?
+Canon EOS Rebel T3 Shutter Speed Acting Weird On Auto
+Is there an efficient way to export/publish modifications to albums with custom sort orders?
+What resources can you suggest to help me write contracts?
+Which rights to photographs should I retain when writing a contract?
+What are some photography contract gotchas or must-haves?
+Is it possible to get smaller aperture with diaphragm in front of the lens?
+Why does &quot;bulb&quot; mode usually rely on holding the shutter button?
+Practicality of using a telescope as a super telephoto lens?
+Is modifying a photo to educate generally fair use?
+What is the color structure histogram and how does it work?
+Does the Canon M have actual, significant deficiencies vs. the competition?
+NIkon D90 back LED keep blinking
+Steps towards becoming an amazing creative model photographer?
+How can I correct a blurry viewfinder beyond the built-in adjustment?
+Can I do a timelapse on my Nikon Coolpix l820?
+In intuitive explanation what is zig zag scanning?
+Does an already set (or not yet risen) moon still wash out stars?
+What is the easiest color to see on black and white?
+My &quot;flag&quot; option is gone from Aperture — where did it go and how do I get it back?
+Will lenses with filter attachment size 58mm fit my camera when the kit lens has filter size 72 mm?
+What is the best lens for shooting flat surfaces?
+How do I calibrate the diopter correction on my DSLR&#39;s viewfinder?
+Why don&#39;t we have Manual flashes with High Speed Sync?
+Why do I need an add-on lens to take smartphone macro photos?
+Why does my camera turn off after taking 2 to 3 shots?
+Can smartphone applications allow you to take macro photos?
+USB Possibilities in Olympus PEN Lite E-PL5
+Is there a flash system that will work with for both Canon 5DMKIII and Sony A7MKII?
+What is the difference between a pentaprism and a pentamirror?
+How do add on macro smartphone lenses allow you to take macro photos?
+How can I take &quot;Photo Sphere&quot; style images with a regular camera?
+How are virtual tour photos taken?
+How can I calculate the effect of a supplementary close-up lens (a.k.a macro filter)?
+How does a macro lens focus so close?
+Why do higher end lenses use USM instead of STM?
+What steps would I need to take to get involved in working as a photographer for endangered or rare animal species?
+What criteria to consider to match cameras and lenses for shooting people at parties?
+How do I choose which low-cost fisheye lens is right for me?
+Is Nikon AF Nikkor 28-80mm Lens compatible with Nikon D5100 DSLR?
+Where do rays of light from one point strike the film?
+Snow creates circles on my photos, how do I prevent that?
+How can I transfer all of my photos in any format from an SD card using an iPad?
+What rigid print media is best for a photographic exhibition?
+How do I reset Ufraw to default settings in Windows?
+How can I set my Canon 5D Mark II to JPEG only?
+How to preserve and store very old photos (50/80 years old)?
+Question about software-based filters for manipulating already recorded video
+How to mass convert RAW images into JPEG in Lightroom 3?
+How can I easily replace raw files with jpeg format in Lightroom?
+How do you achieve this brownish skin color moody look on your photos?
+What are the tradeoffs when replacing two zoom lenses with a superzoom?
+What to look for in a scuba diving camera for a non-photographer?
+Portrait photographer asked to shoot a wedding — how should I respond?
+Will longer interval during NightLapse mode on GoPro hero4 increase battery life?
+Optical or Digital Image stabilization?
+Can you reprint photos off a roll of film?
+Is it worth using Pentax&#39;s Premium JPEG quality setting?
+What is the EV scale?
+What historic reasons are there for common aspect ratios?
+What is the difference between in-lens image stabilizing and sensor-based image stabilizing?
+Do flash guide numbers assume some amount of ambient light built-in?
+Will a charger for Canon 60D batteries work on 40D batteries?
+Why does Darktable show D5300 RAW (.NEF) in pink in darkroom?
+Using varnish for protecting photographs?
+Is it possible to bracket with flash only around a manual setting on Nikon D7000+SB700?
+How do I rig up a color filter for my Sigma 8-16mm Ultrawide?
+Is there a way to add captions to Lightroom photos based on title and/or description?
+Can I legally sell a photograph with a border made to look like an old Polaroid print?
+Are RF wireless triggers systems compatible with one another?
+What did pros do when their photos storage getting huge?
+Lightroom- Renaming timeline files to the exported name
+Why don&#39;t sensors have a wider aspect ratio?
+Why don&#39;t sensors on satellites and rovers degrade as quickly as DSLRs on the space station?
+Does the autofocus work with Tamron 70-200 DI VC USD and Tamron 2x teleconverter?
+Why are Curiosity Mars rover photos black and white with huge white border?
+How can you write/convert Picasa&#39;s People tags to the EXIF data?
+Nikon D7000 thinks aperture of non-cpu lens is always 16 and overexposes photos
+Out-of-focus areas are not blurry, they&#39;re duplicated?
+How does the Nikkor 35mm prime compare to the Nikkor 40mm Micro for portraits?
+I need a camera with specific needs. And I hate cameras
+Do old sepia photographs fade to neutral gray, or is something else going on here?
+Easiest way to have Lightroom destructively replace RAW files with TIFF files?
+Is cleaning shutter release from the battery compartment with alcohol safe?
+What are the pros and cons of a viewfinder versus a liveview?
+A6000 and Sony 55-210mm - At 210mm, with tripod, I am getting a &quot;wavy&quot; distortion to all objects in range
+Will lightroom sync offline library changes when external drive reconnects?
+What filters are commonly used in photographing the moon with a DSLR at night without a telescope?
+Which focal-length lens is usually used for portrait photography, and why?
+Does the Pentax K1000 have a sensor for a remote shutter release?
+What is the difference between Nikon NCP and NP2 picture control files?
+Nikon Speedlight: Slave mode and built-in flash/commander light
+What is a cheap standard/wide prime lens for Canon APS-C?
+How does the Tamron 70-200mm F/2.8 without VR/IS compare to the Nikon 70-300mm F/4.5-5.6 VR?
+How to save large photos with web safe colors?
+How to estimate the minimum magnification to capture features of a certain size?
+Is there a reason to get a newer iPad to use with Capture Pilot?
+How to calculate the correct focal length needed for a subject of a given size and distance?
+Diagnose a damaged lens from focus test results
+Nikon AF-S 55-300mm VR vs. Tamron SP 70-300mm VC USD
+How can I best photograph white powder so I can later cut it out of the background but keep natural shadows?
+What causes an SD card to go corrupt?
+How can I get better photos of people on a lit stage using a Galaxy S5 phone?
+Combining multiple exposures
+Recovering Lightroom edits after a system hard drive failure
+Converting ARW pictures taken with a Sony A6000 to PNG or TIFF with ImageMagick
+Setting slower shutter speeds for canon 5d mark ii
+How can I avoid green flare on my sunrise photos?
+Why does my Finepix S2950 not show the image quality I expect?
+Does this test chart show that my kit lens front focused?
+How can I fix the overly-bright background in my landscape photo?
+Why is the battery on my Panasonic dmc tz8 draining in a few hours even though it&#39;s off?
+Best program to batch compress JPGs with minimal loss?
+Does Pentax make a lens adapter to fit Olympus lenses?
+Is cropping out someone&#39;s ear a no-no in a portrait?
+High ISO or faster lens for a distant evening portrait?
+My RAW .NEF files cant show properly in windows 7 image viewer
+Can in-camera JPEG have image quality advantages over (third party software) converted RAW?
+Camera suggestion needed for long term remote timelapse
+Off-camera flash bracket - flash position
+Lumix DMC-TZ8 - SDHC card empty
+Is Lighroom 5 available only as subscription?
+Sticky substance on mode dial and back of monitor (D5200)
+How to disable automatic cropping that&#39;s done after distortion correction in DxO Optics Pro 9 or 10?
+Canon 70D with Neewer/Godox TT560 flash not working in hot-shoe
+Why does getting closer or zooming in decrease depth of field?
+What exactly happens when one turns the focus ring on a DSLR while shooting video?
+What focal length lens do I need for photographing the moon?
+How do you even see the focus area rectangle when in dark?
+Flash for a6000
+Lightroom 4.4 - on synchronizing folder, LR says photos are missing but are not, and requests remove + re import?
+Output image of RawTherapee is different
+What to bounce?
+Weird rainbow colored chromatic aberration
+Are images like this possible straight out of a D40 without post-processing?
+How to create smart collections in Lightroom for hierarchical keywords?
+What is the diameter of my lens?
+How can I reduce the recycling time between shots when the built-in flash is enabled?
+Is it normal for there to be tiny dust particles in a new lens?
+Advice on shooting a magazine centerfold
+Can I use older screw-type lenses on a Nikon DSLR?
+How to Get a Whiter Background when Taking Photos Against An Off White Wall?
+What should my plan be for photographing in a nightclub setting?
+Darktable - How to do localized editing with masks?
+Why does an exported JPG image from RawTherapee have much more noise?
+Is there a tulip-flower lens hood that will work with the Nikon AF Zoom-Nikkor 35-70mm f/2.8 D?
+Is there a free program to (batch) change photo file&#39;s date to match EXIF?
+Does the Sony A7 have a way to automatically adjust exposure parameters with a button press in M mode?
+Compositing images while preserving focus blur
+Does hyperfocal distance only apply to manual focussing?
+How important is it to buy the Sigma USB dock?
+What is the most honest way to cite pixel count (resolution)?
+How can slightly blurred photos be improved in post processing?
+How to capture snow flake?
+Compositing partially-overlapping objects with little depth of field
+Is there a noticeable difference between 1.8 and 1.4 prime lenses?
+How to fix Yongnuo 568EX speedlight not switching to manual mode?
+How are aperture changes implemented on D-series Nikkor lenses?
+High speed sync Flash with 430EX II off-camera
+Could you recommend an under-$30 tripod for a DSLR?
+What should I do about Canon PowerShot &quot;Lens error, restart camera&quot;?
+How do I take a good portrait for a CV or resume?
+How to fix a Nikon 100mm f/2.8 Series E lens not being properly recognized on a D300?
+Can HDR technique be used to take picture of a subject with bright background?
+Canon T5i (lp-e8) high capacity battery grip/battery bank?
+What is the white balance of film?
+Cheapest camera possible to use for &quot;scanning&quot; slides using a projector and a camera
+What&#39;s the difference between using an Image Stabilization and not using it?
+CCD sensors use a digital shutter. Why don&#39;t the more expensive CMOS sensors?
+Determining lag between pushing the button &amp; taking a shot
+Online Printing API?
+Is there a way to &#39;lock&#39; an image&#39;s history stack in darktable?
+Which Canon lens would be best for landscapes and night skies?
+Sony Cyber-shot DSC-RX100 III remote for consumers without a smart phone?
+Albinar&#39;s compatibility with Canon t5
+Does converting RAW files to TIFF lose image quality?
+Is there a way to use an extender on a Canon EF-S lens?
+Find focus and effective range of single focus camera
+Free software to create photo book (Pdf)
+What camera &amp; lens combinations are ideal for animal photography
+Looking for a remote flash trigger for Sony
+How can I delete presets in Lightroom 3?
+How to take a picture with subject in focus but with a circular light-trace effect around it?
+How to move this chair to a room
+Are USB connectors for Nikon D300 (or all camera using USB Mini-B plugs) standardized?
+High Speed Sync with Canon 7D and Sigma EF-610 DG Super
+Will a short focal length cut it for indoor event photography? (Context: It&#39;s Crowded, Dark, Has Mixed Lighting, and Requires Walking Around.)
+Mirror lens for Nikon D5200 camera
+What to gain from using a Nikkor AF-S 85mm f/1.8G instead of a AF-S Nikkor 35mm 1.8G
+Single remote trigger for fifty cameras
+How well will a nonweatherproof Canon Rebel DSLR hold up in the cold and snow?
+Contrast detection AF not working?
+How to use a green screen to change the background color while preserving shadows?
+What is a &quot;rail system&quot;? What about rods?
+Did I make a mistake in choosing a D5300 rather than an older higher-end model?
+What are some of the use cases for using green and black Chroma keys?
+1/250 flash sync useful with a 180 mm lens?
+Astro-photography - 8 inch Schmidt-Cassegrain vs 10 inch Newtonian
+How can I transfer pictures from my Canon Digital Rebel XTI (400D) to my Mac?
+I dropped my camera and it won&#39;t turn on and the lens won&#39;t mount
+How can I take wide angle macro photos with a Nikon APS-C camera?
+Canon PowerShot SX160 prevent lens opening due to accidental power on?
+What causes these green dots in my image?
+Do professionals really never use a 24-70 lens?
+Stopping down in manual mode with automatic ISO?
+Officejet Pro 8600 Plus or Epson Perfection 1650 for Photo Scanning?
+How to recover from a crash during import into Lightroom 5?
+Polariser and ND together
+what are these strange artifacts on this photo?
+Is Nikon D40X still good enough for a beginner?
+Can two or more different models of Yongnuo flash work together?
+Rename a file based on whichever tag contains the earliest or oldest date?
+Can I use an optical slave flash with my Sony DSC RX100?
+How can I adjust white balance for many photos by the same amount in Lightroom?
+What are the advantages and disdvantages of the Canon 18-55 IS MKII vs IS STM kit lenses?
+Should I really lug around a lens cap everywhere?
+Simple comparison of LightRoom 4, Corel AfterShot Pro, DarkTable
+What went wrong with this concert photo and what could I have done to make it better?
+How good is Sigma 70-300mm F/4-5.6 DG Macro Lens
+Is there a Clippy for Photography?
+Canon 60d Wireless Remote
+Lightroom- How to import into same folder from different day?
+How to achieve this effect in photoshop?
+22-inch Beauty Dish with speedlight?
+Is there a general formula for image size vs. print size?
+Commercial use of photos of toys?
+What are the Yongnuo flash naming conventions?
+Targus Universal Wireless Shutter Release
+How do I achieve this look #84934837
+Online viewer for panorama photos?
+What do I need to make my own camera stand with a 40&quot; horizontal arm?
+Making Affordable Security Camera System
+applying random instagram type filters to a bunch of photos
+700D how to blink on over-exposure?
+Is Nikon D3200 optimal for my situation?
+Where to announce or release &#39;opensource&#39; photos
+shooting night sky photos with nikon d3300
+Canon 5D Mark III + Multiple shots in single shutter release?
+Self-hosted gallery that will base on existing library structure
+Does the lens I just bought have a fungus?
+Brighten a subject without Flash
+What&#39;s the best workflow for shooting stationary objects in a makeshift studio?
+How to turn an external flash off and reactive the incorporated one (Canon 600D)?
+What is the &quot;round&quot; tripod plate used for?
+Unusual ideas for a 10 yr old taking photos on theme of &#39;Cold&#39;?
+How to put back shutter button from a Nikon coolpix P520
+Color schemes and perception: If L*-linearity does not imply perceptual intensity linearity, then what is the best metric of perceptual intensity?
+Err 80 appears when I turn on my Canon EOS 5D Mark II
+Canon rebel t5 image on LCD
+Calculate angle/field of view from 2D image
+What should I look out for when buying a second-hand DSLR body?
+Where is a camera&#39;s preview image stored, when shooting in RAW?
+What is the meaning of the distance parameter for line control points?
+Thinking of buying a canon 550D - few questions
+What should I consider when using DSLRs in cold weather?
+What method can I use to create an indoor panorama?
+How do I import an iPhoto library into Lightroom, keeping adjustments intact?
+How can I get good motion shots (long exposure) of the sea in daylight?
+Will my photo look good as a canvas?
+Nikkor 70-200 2.8 VRII - Does Autofocus &lt;5m really work?
+Nikon Coolpix P510 - Recommended low-light settings?
+Timelapse video, pictures taken over a year. Sky flashing
+What cheap flashes can be wirelessly triggered by a Nikon SB-900?
+What are the technical advantages and disadvantages of mirrorless?
+How many keywords are possible in Lightroom without a performance penalty?
+Apply adjustment brush area to video in Lightroom 5.3
+How to shoot a 220 yard photo with an 18-135mm lens
+How safe is it to photograph sunset or sunrise?
+Why is my Nikon Coolpix S3100 showing &quot;File contains no image data&quot; when I try to view old photos?
+Use Lightroom as a photo editor only, without catalogueing?
+How do I take a &quot;projector output&quot; photo, showing the beam from my car&#39;s headlights?
+Why do wide angle prime lenses have relatively small apertures?
+Photography in public places: Is it allowed or needs permission
+Is there a 3rd-party wireless slave for Nikon SU-4 triggering?
+Utilities for comparing different JPEG compression engines?
+Why does L*=0 not correspond to black in the L*a*b* color space?
+Is it possible to rotate an image by an arbitrary angle in Lightroom?
+What is the photography term for blurred / dragged lights?
+So my iPhone 6 camera lens is as wide as my full frame 35mm DSLR lens?
+How can I print a 4x6 image to 4x6 photo paper with a 1/4&quot; border?
+How to adjust colours displayed on MacBook Pro?
+Why do digital cameras not have an iso rating?
+How do I properly expose dark scenes containing bright light sources?
+Which graphics card should I use for Photoshop (nVIDIA or Intel)?
+Nikon SB-600 flash will not fire; what can I do to fix it?
+How can I use a manual-focus Minolta MC Rokkor-PF 55mm SLR lens on a four-thirds system?
+What are my rights as a press photographer?
+Should I store unedited/raw, edited, or watermarked images while backing up on DVD/CD?
+Why does a small change in focal length of two lenses make a $1000.00 difference in the price?
+Can I charge the battery inside a Nikon D90 through the camera&#39;s USB port?
+What is the purpose of a dual LED flash?
+Which of these lenses should I get for low light conditions?
+Why do event organisers have the right to restrict the activities of photographers?
+How do I prevent bumps and bashes to my camera in crowded areas?
+Reducing ambient color while preserving sharpness with a flash in concert photos
+What are the appropriate lenses for concert photography
+Can I trigger multiple Yongnuo manual speedlight with one Nikon camera?
+How to calculate camera settings for a family group portrait with a film camera and flash?
+What lens focal length most closely resembles the human eye perspective?
+Need to know the size for printing a poster
+What works with RC2 quick release?
+What should I look for in lenses for long range and close up animal and natural shots?
+How can I fire a single canon 430ex flash remotely from a Canon 6D camera?
+what qualities should I be looking for in a long range lens
+General guidelines on choosing a lens for an image sensor
+How can I preserve adjustment layer effects when merging?
+How well will a Canon 2x extender work with a 60D and 100-400mm L?
+Is using a large aperture with flash uncommon?
+MY canon D1200 doesn&#39;t take a picture in AF mode
+Are Sigma lenses comparable to Canon lenses for a Canon camera?
+Where is the focal point of a camera lens?
+Inconsistent TTL results when flash used off-camera (YN565 EX II)
+What is an easy way to remember the full stop scale?
+Using nikon lenses on a canon body
+Uneven exposure with Sony a35 - one side of image much lighter than the other
+Advice on developing expired Kodacolor 400 film
+Is lens geometric distortion, chromatic aberration and light fall off still as much of an issue?
+Tripod With Horizontal Attachment
+Are Nikon focus screens cross compatible?
+Phone camera (Samsung S4): is it possible to determine the distance to the object in focus on jpg picture?
+Using the Lumix GM-1 for Aurora
+How to seamlessly rate in Photo Mechanic but also edit in Lightroom?
+How can i check the details of my photos clicked by nikon 5100
+Where to get serious portfolio book printed?
+Nikon D200 battery woes
+How do mountains affect lighting at sunrise and sunset?
+Nikon d3100 edited images not saved on SD card
+Developing cyanotypes with an LCD projector
+Are there downsides to a wireless (infrared) remote shutter release?
+Waterproof Long Distance Wireless Shutter Release?
+How can I take portraits which seem to capture the essence of a subject I&#39;ve just met?
+What is the purpose of pre-focusing on a Canon AF35m ii?
+How do you make the most stunning sunrise and sunset photos?
+How do I take good portraits with a bridge camera and superzoom?
+What open source software for auto-alignment of photographs?
+How iPhone 5S can have such a big aperture? f/2.2?
+Which is the best version of Helios 44 series 58mm f/2 M42 mount lens
+What are the different types of light brackets?
+What would be a DSLR to use for combination outdoor photography and astrophotography?
+Senior picture 72 dpi vs 300 dpi
+Which lens for a milky way photo
+How do I use gels to make my flash match the color of the ambient light?
+How do I lower ISO in an intentionally dark photo and maintain contrast?
+What is this style of photo editing called?
+What is the advantage of using L*a*b in Photoshop?
+Can the Canon 600D take images one stop up &amp; down for creating an HDR image?
+Are there any hardshell covers / protectors for lenses?
+What hood fits a Canon 70-300mm telephoto USM IS lens?
+What are the most valuable photographs on the planet?
+do mirrorless camera lenses have automatic diaphragms
+Where can I buy a camera off the internet?
+About AV mode in Canon DSLR
+Confused between 2 &quot;pro&quot; point &amp; shoot cameras
+What are good online or DVD tutorials for my new DSLR?
+How to prevent condensation inside the camera when taking pictures in a cold place?
+Why my &quot;action&quot; shots are blurry even shooting on AF-C, is this a lens or camera limitation?
+Why can&#39;t I set my Pentax K-5 IIs to ISO 100?
+How can I use a filter and hood with my Nikon L820?
+What is the relationship between ICC profiles and the color modes of my wide-gamut monitor?
+How outdated is the Nikon D80?
+Why can I see beyond sRGB in CIE Chromatic Diagram
+How can I best record and improve my pre-shoot planning process?
+Using a linear polarizing filter with a DSLR
+Is there a name for the style of putting a strong color gradient over a photograph?
+How should I specify minimum quality requirements for images submitted to my image archive?
+Retina Display-Can anyone suggest how to literally make an image &quot;retina display&quot;?
+How do I generate a mask of the skin tones in an image?
+What is &quot;Highlight Tone Priority&quot;?
+Can you use EOS Utility to Manual Focus whilst remote shooting movies?
+Nikkor f/1.8G 35mm or 50mm?
+Missing focus with Canon 50mm 1.8 lens - is it the lens or me?
+What type of cloth is safe to clean lenses?
+Settings on ISO and Aperture for Sunset on Canon 600D
+Is it true that cameras with larger sensors are more likely to mis-focus under low light?
+How can I see the *real* raw values from a raw file?
+Why do my Cybersyncs fire my Sunpak flashes with the test button, but not the shutter release?
+What can cause blurry and out of focus images on a Nikon D5300 in no flash mode?
+Which flashes are weather-proofed?
+Minimum requirements to capture a &quot;Street View&quot;-like photo?
+Why does my Nikon FE occasionally fire at &#185;⁄₉₀th regardless of setting?
+How is a Bulb mode enabled for a Canon EOS 70D?
+How can color temperature be measured using a digital camera?
+How can I force Lightroom to render previews for my collection?
+How do you mail a large framed print?
+What software tool can I use to convert a photo to line drawing?
+What is a reasonable formula for depreciation of photography equipment?
+What program can automatically resize &amp; crop a folder of images to a certain resolution?
+How can I take horizontal photos where the object is lying flat on the floor?
+What&#39;s the best way to scan in hundreds of pictures?
+Is it possible to control sliders of darktable from tablet?
+What are the best and worst diffuser materials for DIY softbox/light tent?
+Which lens cap do I need for an Olympus 14-45 f/3.5-5.6 lens?
+Are equipment reviews from websites like kenrockwell.com and bythom.com reliable?
+What is the CTG file in Canon SD card?
+What kind of plastic is used for good camera bodies?
+What are the technical difficulties behind building a sensor with high dynamic range like the human eye?
+What exactly is &quot;base ISO&quot; and how do I find what is base ISO on my camera?
+When does the camera use the mechanical shutter and when does it use the electronic shutter?
+I&#39;m Buying a Camera for a Short Film, Need Suggestions
+Pixelstick wireless remote trigger alternative
+Can&#39;t control aperture with D800 and AF-s 80-200mm D in Manual mode
+Samsung NX1000 focus ring does not work, can&#39;t get off manual focus mode either
+D90 and lenses upgrade
+Can I use a 55mm close-up filter on a lens with 67mm filter threads?
+In Auto mode, the shutter speed on my D3000 is too slow
+How does software that extracts or views EXIF work?
+Why is my DSLR taking pictures with the top darkened?
+Camera stops by itself while shooting, or shows no battery, then ok again?
+How to capture details of the moon?
+How to do time lapse with bracketing burst?
+Lightroom plugin development -- is it worth it?
+Canon G11 Lens problems
+shutter speed on auto focus
+How to make a 3d model from an object in a photograph?
+Is there a tool which will resize photos based on level of actual detail in the original?
+HOW TO SHOOT LARGE CARPETS
+How can I extract the captions from Facebook albums?
+How does the dynamic range of the human eye compare to that of digital cameras?
+Shutter button full-press on Powershot SX700 HS: immediate shot without autofocus
+What to do to replace an aging Four Thirds DSLR?
+How durable are zoom lenses?
+Long exposure mode in Nikon with a Remote shutter control
+What is the legal consensus on &quot;pinning&quot; photos using Pinterest?
+What is the purpose of graduated color filters?
+How does the usual jpeg 0-100 quality settings translate into Photoshop&#39;s 0-12 quality setting?
+What are the specifications for a mini-jack shutter cord?
+What cameras are the amaro, mayfair, walden instagram filters based on / inspired by?
+Micro SDHC card in Canon 500D
+Lens adaptors for a 30mm ring size wearable camera. with either 4x 8x or 12x fixed power
+Valid value for shutter speed based on Focal Length
+What is the relationship between focal length and shutter speed?
+Why does it look better when skilled photographers apply filters and tricks to their photos?
+What to do about autofocus problems on a brand new SLR?
+Is it possible to smartly control the camera from a smartphone using a wireless module?
+How can I keep my camera warm while photographing time lapses over a few hours of 25F / - 4C temperatures?
+Are there digital cameras that allow user apps?
+Why does JPEG quality go up to twelve?
+Overexposed images when using ring flash
+Create a huge collage of photos
+Problem in white balancing photographs taken in sun
+Can I calibrate the D7000 LCD brightness to better match my monitor?
+How do I set up my studio for shooting large rugs from the ceiling?
+Will the Nikkor 55-300mm/f4.5-5.6 lens work with Nikon D5200?
+What is the purpose of the little metal cylinder the focus ring of certain FD lenses?
+What kind of shoes are best for wedding photography?
+Nikon D5100, Top of Photo is &quot;Blacked Out&quot;
+How does this TLR camera expose properly?
+How to clean shattered UV filter glass from Lens?
+Using Rokinon 14mm or Tamaron 17-50mm as a general purpose lens (APS-C)?
+JPEG image problem
+Is waist level photography with a digital camera practical?
+How can I wrap a new pattern around a 3D object in a photograph?
+Are third party battery grips good enough?
+Is it okay to store a battery in its (unplugged) charger?
+What camera settings would make shooting easy in a darkish church?
+Moving the Color Trim to Quick Control Screen
+Is it possible to see images on screen when shooting in continuous mode on a Nikon d5300?
+Why use JPEG instead of RAW?
+Are there any instructions for Pixel X-650 flash?
+Pros and Cons for using a camera strap and what better alternatives are available?
+Is there a sane reason why &#185;⁄₁₂₅ is not, instead, exactly half of &#185;⁄₆₀?
+How often should memory cards be formatted?
+Does simply opening and closing a JPEG file decrease image quality?
+What are the differences between Epson v330/300 and Epson v500 scanners?
+How to apply color management to the Windows 7 mouse cursor?
+What is dynamic range and how is it important in photography?
+Applying adjustment layer only to one layer in photoshop
+Is the Nikon D5200 good enough for professional use, such as wedding parties?
+Is it true that &#39;80s 35mm photofilm had quality corresponding to 24 megapixels?
+Are Yongnuo 622 and tx triggers compatible with Gloxy 990 flash?
+Do pro photographers use &quot;Auto Lighting Optimizer&quot;?
+Why would someone want a plain screw rather than a release plate?
+How to retain focus point information in JPEGs exported from Lightroom?
+Can I reproduce a photo taken with a larger sensor by converting camera settings to their equivalents?
+How to prevent a child from accidentally deleting photos during playback?
+Can I buy a direct upgrade from Lightroom 3.5 to Lightroom 5?
+Canon DSLR T5 Lens Compatibility
+How should I handle the poor quality of my camera&#39;s rear LCD screen?
+Where can I buy high quality greetings cards blanks in the UK?
+I don&#39;t see the hole in the lens getting bigger or smaller, so is it damaged?
+What is the benefit of a wide-aperture lens if you stop it down?
+Brush cursor showing red preview on pressing alt and right click and drag is not showing up in photoshop cs5
+Macro using Point and Shoot
+Photography editing style and secret
+What does Time for Print (TFP) mean in practice?
+How to create lighting with rays on the background?
+Why isn&#39;t my grey card giving me repeatable results in the same room with different lighting?
+How do I set the aperture on my Canon camera with an old Zuiko lens mounted with an adapter?
+Why does the FoV of adapted lenses seem to be the same as kit lenses with the same focal length?
+What is Bulb Mode?
+closeup filter vs dedicated macro lens
+Why my camera shots have a dark area?
+How to recharge camera battery in the wild
+When were white seamless backgrounds and platforms first used in studio lighting?
+How can I get white balance support for Canon EOS 1100D in UFRaw?
+Is there a free utility which can adjust the white balance of Canon CR2 RAW files?
+What is the maximum aperture consistent with the Nikon F-mount?
+What is the difference between Corel Paintshop Pro 7 &amp; Aftershot Pro 2?
+Is there software which automatically assists in recolouring black and white photos?
+Is there software on Macintosh for adding GPS data to RAW files?
+What head to select for my monopod?
+Focus Effect for Canon Powershot SX520
+How to make a long-expodure photo
+In what way does the lens mount limit the maximum possible aperture of a lens?
+Where can I get cheap neutral density filters that work in the near infra-red?
+Can I update the Camera Raw part of Lightroom?
+GoPro 4 Night Timelapse
+Is saving money buying a tripod with only 1.5kg payload false economy?
+Why my Uniross Ni-Cd batteries are not getting charged?
+Why professional photographers use DSLR?
+What is this style of photo called?
+How to shoot light trail photos with iPhone?
+Can deleting files using Windows corrupt camera cards?
+How to respect the dimensions when we reduce the images?
+What is the &quot;exposure triangle&quot;?
+What are the advantages of metal mount vs plastic mount?
+Deciding between two lenses
+What&#39;s a &quot;photopolymer holographic diffuser&quot;?
+How can I colorize a black and white photo using colors from a similar photo?
+How would I blur something out of a photo?
+Why are gray cards, and not red or other colour, used for camera metering?
+Achieving dark matte background in studio
+How is the quality of the Sigma 18-300 DC Macro lens?
+Are there any downsides to scaling down unsharp images?
+Does it matter to put grid before or after sock/diffuser?
+Working on JPEG saved from RAW is this the same as working on RAW ?
+What&#39;s a powerful waterproof flash?
+Shooting video frame by frame / electronic vs mechanical
+How does autofocus confirm work with manual lenses?
+Looking for a new zoom lens for a DX frame Nikon, should I get Nikon 18-200mm or something else?
+Does the K1000 need a battery to trigger the flash?
+Will a 18-140 lens be good for basketball stadium photographs?
+Why are high-end compacts still shipping without GPS?
+Viewer for Sony Cybershot 3D MPO pictures
+How to identify whether the available light is too harsh or too soft?
+How should I set the Canon T2i for low-light?
+How can I tell which Instagram filter was used?
+Mounting Sigma 70-300mm 1:4-5.6 APO Macro Super on Nikon D3200
+How to get this effect (moving people, blurry, high-key)
+Camera rec: 4:3 | DSLR Light-weight, fast focus, image quality
+Can I use a Pentax lens on a Canon body?
+History or Name of style where model has black writing on their chest?
+Will my Ricoh GR1 be safe in tough weather for mountaineering photography?
+What to do when my camera says &quot;lens error&quot;?
+Canon 1000D SD card maximum
+Canon G12 has no display but takes pictures
+Why is AF performance different in automatic and selective mode?
+What is the impact of changes between the old and new Nikon 18-300mm lens?
+Lightroom vs. Elements vs. Photoshop: Side-by-side comparison?
+Why are lens apertures usually 1.4, 1.8, 2.8, 4...?
+How to measure angle of tilt of a camera on a tripod?
+Is it possible to photograph me without reflections on my glasses?
+Which polarizer is better
+What is 5-axis optical stabilisation? How does it work?
+How do popular free RAW editor/converter compare to each other on Windows?
+Does an aperture value exist, where a lens creates a brighter image than the real view?
+Stack of 4 seconds exposure photos of Milky Way, how is it done?
+astrophotography with Nikon D3300 is possible?
+First time buyer help - Nikon D3300, Nikon D5200 or Canon EOS100d
+How to set correct exposure in low light condition
+Medium / Large Format Pinhole Camera
+What are some smaller digital cameras with remote shutter releases?
+Films and x-ray scanning in airports
+Is the Yongnuo YN-622C transceiver compatible with the Alien Bee 800?
+Nikon D3200 lens flange has undocumented Button or lever
+Nikon d7000 change aperture while shooting video
+Is lens focal length specified considering the effect of barrel distortion on field of view?
+Is there a free piece of software that will export metadata for a folder full of images to a table?
+Will the petal-shaped &quot;HB-45 II&quot; lens hood work with my Nikkor 18-55mm?
+Camera Insurance for a 3 Month Winter Expedition?
+Who shaped portraiture pre 1960, and how?
+How should I respond to a lowball offer for commercial use of one of my photographs?
+How can I take selective color pictures with my Canon T1i?
+What are these green numbers on my Canonet’s aperture scale?
+Where can I get poster printing for higher resolution than 5400 x 3600 for 36&quot; x 24&quot;?
+What would be the optimal settings for shooting Jupiter from non DSLR?
+Will a Soligor 35-70mm C/FD fit on my Canon AT-1? Or do I need a specific lens mount?
+Is there a &#39;rule of thumb&#39; that I can use to estimate depth of field while shooting?
+camera for b&amp;w fine art
+How long can Contax T2 work with a brand new CR123 battery?
+What is the philosophical justification generally accepted by photographers on why they should be able to profit privately over public property?
+Issue with Object focus using canon 1100d
+Why do I get blurry pictures at far distances, but sharp results up close?
+Canon printer not printting .tiff files at the correct size
+How is this effect created in Photoshop?
+What are the differences in cost per picture for home photo printers?
+How to safely disconnect Canon EOS camera from Mac?
+What is the benefit of a vari-angle LCD monitor on a camera?
+Handicapped shooter needs remote view finder display
+Can someone explain film speeds to me?
+How can I calibrate two monitors individually in Windows7?
+What makes &quot;fine art&quot; fine art?
+Why is my Canon Digital IXUS/ELPH making distorted photos with purple cast
+How much light do I need for handheld product photography in a lightbox
+Is there a benefit to using a FX body when using DX Lenses?
+How to resize RAW image files without converting to JPEG?
+Panoramic camera and length measurements
+What makes this Eggleston picture great?
+Not able to get the Shutter Actuations/Count for my Nikon D5300
+Where to get a tutorial on how to create full 3d panoramic cube images set with your camera and photoshop?
+What do I need to know for volcano photography?
+Best practices for documenting your photography gear
+Lightroom Crashes on Launch
+Is there a Canon equivalent of the Nikon CLS?
+Leaving Apple Aperture for Adobe Lightroom, is there any way to avoid losing my photo adjustments?
+What flashes are compatible with the Canon A-1?
+How do I prevent condensation in my waterproof GoPro casing?
+video images vs. burst images
+Why did my whole roll of film shot with my Olympus Infinity Zoom come out blank?
+How to judge the difference between the real photo and what you see in LCD?
+How can I get photographs which look like 3D renderings?
+Choosing between a normal lens and a zoom 35-70mm lens
+How do you pronounce &quot;bokeh&quot;?
+Should I use 0.976 as the Canon 5D mkII Crop Factor / Focal Length Multiplier?
+What setup would I need to photograph the numbers of a plane overhead?
+Can I enable pixel binning on Canon PowerShot G1X?
+Night portrait photography problem in lightning
+Minimizing harsh shadows when photographing big things?
+Can I take pictures at Little League game without official permission or payment?
+What exactly is focal length when there is also flange focal distance?
+Can the Photoshop drag-zoom tool be set to use the center of the current view?
+Do I need other camera lenses if I have an 18-200mm or other super-zoom?
+Is it possible to use the Photoshop CS raw editor for JPG files?
+How to illuminate an outdoor night time portrait with a cityscape background?
+which tripod suitable for beginner?
+Color film comparison: How does Fujifilm Superia compare to Kodak Portra?
+How many pixels in a megapixel?
+Which alloys are used in the Canon EF 300mm f/2.8L?
+How to make SONY NEX F3 pictures display the date it was taken at the bottom right corner?
+How does Jefry Chandra edit his photos?
+Multiple exposures on medium format film
+How well does Nikon CLS commander mode work outdoors?
+What are good situations to use Multi-Flash / Repeating Flash feature?
+When might you use multi flash on a speedlight?
+Does the Canon 6D do focus-point spot metering or center spot metering?
+How do I find the right size of filters for a lens?
+Recommended wildlife photography lenses for Nikon DX bodies with no AF motor
+Can color effects achieved by Levels or Curves in Photoshop be replicated by Gradient Maps?
+How was this long exposure photo taken?
+Can I use my Vivitar 283 flash with any DSLR cameras?
+How to tell if a digital camera shoots quickly
+My DSLR Canon generates Raw and JPEG images of same size
+What is difference between Canon EF-S 18-55 mm IS and EF-S 18-55 mm IS II lenses?
+Canon 70D - What happened to flash group C?
+Is it normal to have tiny black dust spots in the viewfinder of a DSLR?
+Nikon Lens - Stopping down causes over exposure in Aperture Priority mode
+Can using an old flash damage a new DSLR?
+Difference between Wireless Flash Trigger and wireless flash controller
+Is it technically possible to build a camera body to correct for lens defects?
+What factors are important for a camera maker to upgrade an existing model?
+Why do some programs show my portrait photographs in the wrong orientation?
+Is light fall off corrected for in modern cameras?
+How can I extract just the value of a tag without the name using exiftool?
+Nikon D3200 does not recognize the Nikkor AF-S 50mm 1.8G
+how to capture low key and high key images without using external flash?
+Is this a genuine Nikon Lens Pen?
+How to produce a black negative?
+Source for colored Wratten filters?
+What are the pros and cons between the Lomo&#39;Instant and the Fuji instax mini 90 Neo Classic?
+Would the 40mm pancake or 50mm prime be better for street photography with a Canon APS-C camera?
+Can I use Mikona MV-328 flash on any DSLR cameras?
+Image in focus at the back (LCD) but not when shown in computer
+Are there any photographers&#39; agents in the UK midlands (not London)?
+Is it better to have light come from the left side?
+Why do my vertical photos go back horizontal when transferred from camera to iPad? How to avoid that?
+Is it common to have problems with soft images on a 7D?
+What does &quot;DMC&quot; mean?
+Why are there so few high quality APS-C telephoto lenses?
+What is the difference between edge detection, Sobel detection, and Canny detection?
+How do I make a package look &quot;heroic and important&quot; in a advertising shoot?
+How to clean a studio light bulb?
+Pentax-K 50mm lens, thread of 49mm or 50mm?
+What does DPI mean?
+How to photograph a lightbulb?
+How can I calibrate a Dell U2412M for 100% of Adobe RGB?
+How can I use a vintage M42 manual prime on an entry Nikon DSLR?
+Is there a way to delay shutter release when using a remote shutter, possibly with the aid of Magic Lantern?
+What can cause yellowish horizontal bands when using a relatively high shutter speed?
+Making the whole photo in focues using Nikon D7100 with nikkor 18-105 mm
+Does a &quot;body-only&quot; DSLR need a lens added before use?
+What is a &quot;crisp&quot; photo?
+Nikon zoom lens troubleshooting
+Is digiscoping a good alternative to using a super-telephoto lens for birding?
+How can I achieve a soft but detailed film look digitally?
+My roll of film didnt rewind inside all the way?
+How to estimate camera sensor size?
+Body difference of D90 and D7100
+Whats wrong with my roll of film?
+How can the focal length of a lens be many times greater than the lens&#39;s physical length?
+Can a lens be a zoom lens and a macro lens at the same time?
+Most Common Aspect Ratio?
+What is the best way to auto crop bulk images?
+Aerial Camera Ground Footprint Calculation
+How can I improve my exposure in low-light situations?
+What should I buy? (new body vs. lens)
+evaluating shutter speed in auto mode in Canon EOS xD
+Older Lightroom and newer Camera (e.g. Lightroom 4.4 and EOS 70D) - will it work?
+Effect of color space on RAW?
+How do I tell if an image is exposed correctly when I can&#39;t trust the LCD?
+Is it better for a beginner to start with black and white photography?
+What are some good places to sell photo prints online?
+Recommend which site to sell photos? and it is for Spanish-speaking community
+How do I get accurate color when taking a photo of an LED?
+How can I improve portraits when shooting in low light without flash?
+Android application similar to Apple Aperture / Adobe Lightroom?
+Is an aperture range of 3.5-5.6 shallow enough to provide great bokeh on a cropped sensor?
+What techniques has Jennifer Tibbetts used to make her photos &quot;pop&quot;?
+What is a normal lens?
+What should I look for in a projector being used for photography?
+Exporting jpg files from Lightroom without develop adjustments
+Why can&#39;t I get a decent white background with product photgraphy?
+What is difference between a 18-55mm and 18-105mm lens?
+Nikon D750 or D5300 for YouTube Videos and macro/landscape photography?
+Problems with shutter speeds in landscape orientation with Canon New F-1
+Beginner Astrophotography
+What is a macro lens?
+How many &quot;MegaPixels&quot; can the human eye see?
+What are the sales volumes of 50/1.4 and 50/1.8 lenses?
+Easy DIY photo paper?
+how to convert CR2 to jpg in batches on digital photo professional 4.1
+Background blur vs. frozen object in long exposure flash photography
+How to fix chromatic aberration with free software?
+How many stops are there between 1/4000 and 1&quot; shutter speeds
+What should I use to reassemble single 35mm film negatives into strips for scanning?
+How can I tell what equipment and lighting setup was used for a studio portrait?
+Can I use a Metz flash with Yongnuo trigger?
+Timelapse software for Linux
+What are the pros and cons of saving as DNG in camera and saving as proprietary RAW and convert in lightroom in post?
+Why do pixels appear when skies are darkened using the graduation in Lightroom?
+How can I prevent my lens hood from causing dark corners?
+Why does AF assist light only work with center focus?
+Does the Exposure Slider in Adobe Camera Raw Have Same Effect as in camera Exposure Compensation?
+I can&#39;t see on display screen what I actually snap by Nikon D5200
+Canon 600D Images
+Does Nikon offer something like an API for developing 3rd party hardware?
+What is the difference between Reversing Ring and Reverse Protect Ring?
+Why do I keep getting out of focus shots on manual focus?
+Sigma 18-35mm F1.8 Canon
+Looking for a true 360 degree camera
+Technically, why is the out of focus area blurred more when using a bigger aperture?
+What does TTL mean?
+How do I open a Nikon AS-2 flash coupler?
+Why do most cameras only support 3 frames of auto exposure bracketing?
+Is in-camera HDR and panorama better than post?
+What are some tips for shooting in low light?
+How to change which modules are auto-applied in Darktable?
+Can I trick the Pentax K1000&#39;s meter to &quot;turn off&quot;?
+How do I properly do shadowless product photos?
+What is the difference between Adobe Photoshop and Lightroom?
+What is the Leica look?
+Fungus cleaning from a Nikon superzoom
+How to shoot/capture the droplets of water being sprayed through a spray bottle
+Why Focus Assist activating in full outdoor light on my Canon EOS Rebel?
+Lens cap alternative to Canon cap which won&#39;t risk damaging my filter?
+Horrible quality of prints developed from film
+Lightroom: how to insert Lens data to many photos at once?
+How to fix Nikon D5200 mode dial giving incorrect modes?
+Simplest setup for photographing large woodflooring panels indoors
+How to take unreal looking flower shots?
+How to flag multiple photos in Lightroom?
+What kind of filters might have been applied to these photos?
+Color spaces for large prints / and or web
+What cheap equipment can I use to hold a reflector in place?
+Why are large zoom ratio constant apertures lenses not generally available?
+Does Sony DT 18-135mm SAM lens has Full-time Manual focus feature
+What do lens distortion data values a, b and c actually mean?
+1 hour photography talk for seniors
+What software is focused on reviewing and organizing images?
+Wide-angle lens &#39;point and shoot&#39; -- Does it exist?
+Are batteries for the Canon XXXD Rebel series interchangeable?
+sorting photos from every minute to every hour
+What&#39;s the best website for showcasing my work to the public?
+Is it possible to use the lenses from a Canon Xl1 on a modern DSLR?
+What is a good software for creating an archive of photos?
+Seeking a way for &quot;authoritiative&quot;, proven method to prove that two photo images are &quot;nearly identical&quot;?
+Is it possible to manage photos without importing them into libraries in iPhoto or Aperture?
+What are the &quot;Continous&quot; and &quot;ISO Sensitivity&quot; settings in auto mode on a Coolpix l820?
+Why do I get different white balance results from a grey card vs a white card?
+Does it make sense to &quot;Expose to the Right&quot; except at base ISO?
+DSLR in AF mode. Do we need to use Focus ring on lens?
+Why does enabling color management make my colors desaturated?
+How to mount a Gopro to DSLR?
+Where to buy a D3100
+Does the human eye experience noise as a camera would?
+How can I avoid the &quot;Low Light!&quot; warning with Samsung S1050 compact camera in Night mode?
+How do zoom, magnification, and focal length relate?
+Any way to bring more detail back in the face in this picture of a man in dim stage lighting?
+Is the Canon XL1 lens (1999) compatible with any of the new prosumer 1080 HD Canon bodies?
+Considerations for Photographing a Nude Wedding
+How can I use mirror lockup with wireless remote on a Canon T4i?
+Saving 24MB Jpeg
+Can I output from Lightroom with zero padded numbered names for use in contact cards?
+How can I give an assitant rights to edit without having the possibility to download the image?
+How to minimize/avoid purple fringing before/during shooting
+Why is there no image noise in my webcam dark frame photographs?
+Fit photos to available screen real estate in Lightroom on Retina/HiDPI screen
+Flash issue on Canon 600d and 500d - showing Err 20 when flash is in manual mode
+Are there super-macro lenses for getting &quot;inside&quot;?
+How to determine the focal length needed to fill a frame with an object given the height and the distance of the subject?
+What focal length does Lee Jeffries use for his portraits?
+I was asked to design a calendar using my photos, what do I charge for the &quot;art fee&quot; for 12 photos, should my name and copyright be included?
+Does Nikon make an external battery for the D7100?
+Photo in windows preview show as portrait but in photoshop or msword show as landscape
+Can I programatically manipulate Lightroom&#39;s &quot;rejected&quot; flag in images?
+How to shift EXIF date/time created by time in days, hours, minutes?
+What are the most important features to look for in a low budget hotshoe flash and why?
+What does an expensive flash unit buy over a cheap one?
+Sharp, in focus portraits - analyse an example please
+Should I buy a adapter ring with or without AF confirm?
+Composite battery adapter
+Canon T2i - Pop-up flash does not pop up
+Lightroom upload to Flickr: Replace Re-Published photos
+What photo storage should I use if I want &#39;private&#39; photo tagging and easy backup?
+How to use built-in flash with off-camera 430ex ii on my Canon 600D
+Yongnuo YN560-II flash not firing with Nikon D3100
+How do I capture the milky way?
+Will a lens with a low aperture value give me better portrait photos?
+How does the iPhone 5s manage to take HDR photos at full-frame rate?
+Why Isn&#39;t This Photograph Pin Sharp?
+How to remove unwanted colors in picture?
+Can I ask Lightroom to delete copied photos from the SD card?
+Why is my Canon Rebel T3i delayed 10 seconds or more before image capture?
+Does a .png file extension on an iPhone image mean that the photo was edited or altered in any way?
+What type of lens should I get for an air show?
+Prevent Yellowing Under High Intensity Discharge Lights
+Losslessly batch convert many JPEGs to sRGB?
+How is it that DNG files are smaller?
+Does super-sampling produce good results?
+Can I fix a M42 50mm lens myself?
+Is the attached digital camera on the top have the same magnification than visible in eyepiece?
+What are resources for a report on digital vs film cameras?
+What is &quot;solid angle&quot; and how does it relate to photography?
+Can I use my room&#39;s wall as a diffuser for a spot light?
+Unable to Install Canon Solution Disc
+How do different books on Gimp compare?
+What is the source of excessive noise in images from my D7000?
+Can the method from the paper &quot;High-Quality Computational Imaging Through Simple Lenses&quot; compete with conventional lenses?
+Is it fundamentally possible to capture an orthographic image of the real world?
+Photoshop saved window arrangements
+RAW images archive?
+When would I _not_ want to use the content-aware mode of Photoshop&#39;s spot healing brush?
+What&#39;s the dynamic range of the iPhone 6 Plus?
+How can one capture gun bore shots?
+What does f-stop mean?
+How can I take long exposures on Nikon D7000 with a wireless remote?
+What is development by inspection (DBI) and how is it done?
+Taking multiple shots in Nikon HDR mode
+Close range stereoscopic recording
+Can I combine extension tubes and macro filters at once to give better macros?
+What are those little hooks on extension tubes for?
+What are the results of developing slide film (E-6 process) with C41 chemicals?
+How do I do macro photography with a Tamron 18-270 VC macro lens?
+How to calculate mean/average photo color in GIMP?
+Nikon D800 Image Not Sharp
+Where is the setting for metering mode located under the D90 menu?
+What cloth patterns and colours should be preferred for clothes while shooting portraits in black and white?
+Problem with processing .CR2 format in Linux
+What is meant by pixels and DPI for photo submissions?
+RF Flash triggers and transmitters
+How can I open a very, very large image to downsize it?
+What is Snapsort&#39;s true resolution?
+What&#39;s a fairly simple way of taking a photo through a microscope?
+How long will exposed film retain some latent image?
+How does a modern DSLR camera and lens actually adjust its aperture
+What is &quot;ISO&quot; on a digital camera?
+Why can&#39;t I use my 64 GB SD card in my Nikon D60?
+Auto-focusing problem on a Canon 500D with a EF-S 18-55mm 1:3.5-5.6 IS(standard kit lens)
+Should the Canon EOS 6D get hot when connected to Wi-Fi?
+What could cause pictures to come out too dark when using a ring flash?
+Is there a Windows panorama stitching package that can stitch RAW files?
+How can I determine the amount of disk space used by my Lightroom photo collection?
+How to get consistent white balance on a 3 photo stack?
+How can I add geotagging information to aerial photos?
+How does long exposure photography work on digital cameras?
+How does focus work on mobile phone cameras?
+How do I repair a detached SB600 flash head tilt/rotate lock-release button?
+Canon EOS Rebel T3i takes a photo upon turning it on
+What is a pump zoom lens?
+How can I configure the number of slides in Vuescan for batch scanning?
+Are there any Eye-Fi compatible apps that will show histograms?
+Why is it called ISO &quot;speed&quot;?
+Is it better to get water-resistant camera bag for cycling, or upgrade to a weather-resistant camera?
+Nikon Lens Types. What is AF, AF-S, D, G mean?
+How to interpret a histogram to know whether the photo is under or over exposed?
+Why are there white outlines around the subject in this photo when zoomed in?
+Why are tripods forbidden in some public spaces and how to deal with it?
+How do I get to be a ringside professional at wrestling promotions?
+What setup/techniques is beaches.com using on their photos?
+How do I focus in low light for long exposures?
+How can I better take indoor photographs with wide aperture and low light?
+What are some common uses of various blending modes?
+How do you photograph artwork in a glass picture frame?
+Just Add Sand: What kind of sand should I fill my sandbags with, and where can I find some for cheap?
+How can I force my D5100&#39;s shutter to stay open?
+Software to manage imports under Linux in addition to Corel After Shot
+Is there a viable way to touch up the paint on an old camera body?
+What&#39;s the best lens for shooting baby&#39;s and children?
+Do focal length changing lens adapters affect the F-stop of a lens?
+Can digital cameras sign images to prove authenticity?
+What&#39;s the best bang for your buck to improve low light portrait shots: Lens, Flash or Body?
+Why are my pictures so shakey?
+What is the difference between the Canon EF 14mm f/2.8L USM and 14mm f/2.8L II USM?
+How effective are the rear weather sealing rings on lenses?
+How can I avoid a strange lens flare at bright lights when using UV filter?
+Digital ISO vs Post-Exposure Correction
+Is there an affordable ultra-wide-angle lens for the NEX?
+Difference between shutter speed, iso and Aperture
+Why are digital cameras said to suffer more from chromatic aberration than film cameras?
+Are the terms &#39;push&#39; and &#39;pull&#39; relevant/applicable to digital photography?
+What specific features do people upgrade camera bodies for?
+How to lock aperture using Reverse ring with Canon 600D?
+What causes this sort of RAW file corruption?
+How can I tell if a photo is real or faked?
+What is the best way to digitize old photographs for preservation?
+In ACR 8.6, is there a shortcut-key to toggle the &quot;Convert to grayscale&quot; checkbox?
+How do I calculate the number of stops between two shutter speeds?
+Why isn&#39;t the aperture visibly changing on my lens when it appears like it is changing on my camera?
+What Windows software can assemble a sequence of photos into a timelapse?
+Dynamic range of Sony RX-100
+Why are my photos not crisp?
+Climbing trees and getting equipment up there
+Convolution algebra and capture, creative, and output sharpening
+How do I constrain filesize of a bunch of photos?
+How to Bond Leg that I Broke of my Mini-Tripod?
+How should I handle auto focus on a moving train
+How to make camera LCD show true RAW data in JPG preview and histogram?
+Is there a way to get Lightroom to extract only part of the folder name on export?
+How can I get perfect sharpness when shooting still art?
+Could a drop at the height of 50cm damage my Nikon D3100?
+Why does crop factor apply with APS-C lenses, and why aren&#39;t these brighter than FF ones at same aperture?
+Solutions to Multiple 70D Connected to a single computer?
+Long Exposure shot - subject too bright
+Why the trend of faded vintage photography?
+Is there a way to get image names from DSLR to a tethered tablet?
+Difference between Minolta MC and MD mounts and can they be used on AF camera?
+Do I use the crop factor in calculating aperture size and area?
+What do the healing brush tools in photoshop do exactly?
+How can I improve this long exposure image?
+How can I use flash with large apertures?
+Blurry night time photos
+What&#39;s the difference between zooming in on a subject vs moving closer?
+Advantages of the RAW image file format
+Which is better for portraits: 18-55mm or 75-300mm?
+Why is Nikon 13 mm f/5.6 (the Holy Grail) considered extreme?
+Is it possible to know the value of color temperature that camera applied on JPEG Images at taken moment?
+Whats the approximate aperture of a pinhole camera?
+Pictures I took from my Nikon D5000 have low contrast. Whats wrong with my camera?
+Why does my Nikon D70 reject memory card after infrared conversion?
+Map R+G+B+infrared to R+G+B?
+Did the Canon Raw format change in 70D?
+Missing photos on a roll of film?
+Can I get a damaged Canon 70-300mm repaired more cheaply?
+Are the aperture, ISO and shutter speed stops perfectly interchangeable?
+Lumia 1020 Auto settings information?
+Difference between long exposure in a dim room Vs. short exposure in a well-lit room (using a tripod, ISO 100)
+Advice on Canon 7D Autofocus problems?
+Incorrect exposed images when shooting sports
+Dull and grainy photos
+How can I make a picture like this one of a bridge in green landscape seem less plain?
+How does iResolution on Panasonic Lumix DMC-GM1 (Micro Four Thirds) work?
+What Digital Asset Management software supports multi-user collaborative catalog management?
+How do you change from portrait to landscape in Lightroom?
+Exposure shooting youth sports during a sunny day
+Canon t3 screen issue
+Why am I getting black photos when I use the Manual feature on my Nikon D5100?
+Using bulb mode with EOS Remote app without having to hold down shutter button possible?
+Is there any protection ring available for reversed lenses?
+How to know if a Canon lens is compatible with my Nikon camera body?
+Why do animals get green-eye?
+Why does the camera say Subject is too Dark and refuse to click the shutter
+Is the Canon 24mm f/1.4L II good for weddings?
+Why does the LCD show only black in Live View in manual mode on T3i, until I half-press the shutter?
+What do you do with your camera clock time in relation to time zones?
+How to recover data from a damaged/chewed up SD card?
+Viewfinder coverage: is it area or angle of view?
+What is the maximum rate at which you could shoot frames (for a time lapse) on a Canon t5i?
+Difference between Small Raw, Medium Raw and Raw in Canon 70D
+What&#39;s the use of exposure bracketing in film cameras?
+Can a photo of a book page be copyrighted?
+Which software to assemble a time-lapse from images?
+How do you focus a shot with an IR/UV passfilter?
+Gigabit ethernet on Canon EOS 1DX
+Infinity focus problem
+How to take high key portraits
+Why are big apertures used for landscape photography?
+How can I get dramatic shallow DOF with a kit lens?
+Not able to achieve shallow dof with aperture of f/4 in nikond5200
+Sony a77 doesn&#39;t recognize Rokinon 85mm manual lens
+Is the camouflage texture of certain wildlife lens covers relevant?
+What is CMOS in SLR camera?
+Dropped Nikon D50: auto focus not working
+Is it possible to take a five minute exposure with a Canon Powershot SX 160 IS?
+What&#39;s the difference between a regular lens and a macro lens?
+First DSLR camera?
+Does the selection of sRGB or Adobe RGB in camera when shooting RAW ever matter?
+How to shoot panorama in Nikon d5200
+JPG Images recovered immediatelly after deleting from SSD, but 95% of files can&#39;t be opened
+In what kinds of images would high noise be most manageable?
+Why would D90 preset white balance be no good
+What kinds of images can I produce the least noise in when shooting in low light?
+Is there an extended-life battery for the Sony NEX-6?
+How can I get the shutter actuation count for Canon EOS 600D (Rebel T3i)?
+Need advice on ND filters
+Can a ghostlike image be caused by a overlap with previous frame on an SD card?
+Programmable cameras that can take multiple shots at different focus settings
+Camera displaying &quot;subject is too dark&quot; message when live view turned off
+Adjustable group shot (add/remove people)
+Big sensor and landscape photography, DoF
+Multiple exposures vs. adjusting exposure of single RAW?
+How can I capture blurry movement and freeze a subject in the same photograph?
+Free program for editing pictures
+how to determine how much power to use in manual mode for external flash?
+Was there ever a photo that made people cry?
+Why can lenses only focus from so close?
+How do I create a sense of power and splendor in an image?
+How to show happiness in a playground without any human presence?
+An inexpensive way to make DIY gels?
+Light meter calculations on micro four thirds
+What is the best lens for taking photos of birds?
+How can I set the aperture manually when using an old teleconverter on my Nikon D80?
+Does the Canon EOS Rebel T5/1200D has any dust related problems?
+What is back-focusing?
+I cannot download pics into Elements 9
+Converting cameras for infrared use: When does the filter have to be replaced, and when is simply removing it ok?
+How to photograph a footprint on metal?
+How can I reduce the effect of sodium vapor street lights in night photography?
+Why isn&#39;t Windows 8 detecting my Nikon D3100?
+Free softwares for editiing
+How is the number of stops of benefit provided by VR determined?
+Panorama macro possible?
+Auto focus vs Single Continuous/Point focus
+Product Photography without a Light Tent?
+Lights for a Light Tent
+Why can&#39;t I shoot continously with my Nikon DSLR?
+How do I get that soft white look in my photos?
+European/UK sources for quality book weight duo coated inkjet paper?
+Applescript for Camera Control Pro activation
+Can a 2 mp camera produce a 2 mb sized file?
+How to batch process images retaining them as PNG in Photoshop?
+How can I get accurate manual focus with an Olympus E-PL3 without having to zoom 5&#215; every time?
+Why do I see posterization in photoshop (and aperture) when I don&#39;t see it on my LCD screen?
+What remote flash triggers can you recommend, on a budget?
+What advantage does giclee have over traditional photosensitive print making?
+Lens for my Nikon D3200 dSLR is giving too much blur
+How do waterproof lenses focus underwater?
+What is the equivalent f/stop for 50mm?
+I am not able to open raw files I have previously opened in photoshop 5.1
+Multiple cameras tethering?
+What are good things I can use as background roll supports?
+Is there any software which will set the EXIF Dates based on the file&#39;s modification date?
+What is the name and type of cable needed to connect 2 or more strobes to a camera so all will go off simultaneously when clicking the shutter button?
+How to get photos to be under 500 pixels
+What is Rembrandt lighting, and when do I use It?
+Differences between canon 17-85mm and 18-55mm
+Deactivating the pop-up flash on the Nikon D7000
+Technical question about aperture and lens
+Is it possible to get an interval precise up to 2 decimal places using a (software) intervalometer?
+Which focal length lens do I need for portrait and landscape photography?
+About Raw file format of Hasselblad H5D
+Controlling multiple cameras
+What is the difference between a telephoto lens and a zoom lens?
+Is there a recommended aspect ratio for panoramic photos?
+Is focus hunting &quot;normal behavior&quot; for the Sony SEL18200SE?
+Bulk color-correct portrait backgrounds
+Approximating a wide XPan shot
+Are there any tetherable compact cameras?
+Expeed 2 vs. Expeed 4 (D3300 vs. D7000)
+What causes the lines in these photos of a fluorescent tube?
+Studio backdrop for clean colored background?
+What are the advantages of a lens having a fixed maximum aperture?
+Can Sony&#39;s Image Data Converter do anything Lightroom can&#39;t do?
+How can I increase the effective focal length of my lenses?
+Why has my camera stopped taking pictures in low light?
+Is there third-party software for Canon tethered live-view shooting?
+Is there a way to automatically transfer photos from a DSLR to a PC hard disk as they are taken?
+Is it possible to get tethered focus and aperture control with any current DSLR?
+Recommendations to tether a Nikon DSLR to a Windows PC?
+What settings should I use to take a burst at the highest possible FPS?
+Why would I want to use a tilt shift lens for panoramic photography?
+When does the Sony NEX-5R use release priority?
+Replacing a Lens Mount
+Sandisk Extreme Pro, 95MB/s - I think I might have bought a fake
+Measure rolling shutter severity of image sensor scientifically
+Stepping up my lighting for lego photography
+Film question: is Arista EDU Ultra 400 still &quot;like&quot; Tri-X 400?
+Does auto mode of flash metering have any advantage over TTL?
+DSLR long exposures and sensor overheat
+How do I keep my tripod mounted camera steady in strong winds?
+What are the pros and cons of setting my camera to lock exposure on half press?
+How can I shoot a photo, through a gun barrel?
+Can I deduce the max. shutter speed from other camera specs?
+How can I activate my AF assist beam on my external flash?
+Does fps relate to still photography or videography?
+What does &quot;Tone&quot; mean?
+Is it assured that every type of lens will be made for a given interchangeable lens camera?
+Why does this lens lose focus when you zoom in but not when you zoom out?
+Photo loses detail out of photoshop
+How does focal length determine lens quality?
+Small bedroom studio, what type of lighting for portraits?
+Can old photos be used in a self-published memoir without permission?
+Why does the Canon 1D Mark III cost more than the 1D Mark IV?
+What are the pros and cons of a cheap 3rd-party wireless remote control for Canon 1Ds Mark II?
+Cheap underwater equipment for d300s
+What lens should I use to be able to fill the frame with a mounted 35mm slide at 12 inches?
+Canon 1Ds Mk II&#39;s scratched Low Pass filter. Now what?
+Is a Canon 450D to Canon 1D Mk 2 upgrade worthwhile?
+1/30 shutter speed with film camera
+Upgrading firmware of an EOS-1Ds with large CF-cards
+EOS-1v not compatible with non EF, manual lenses?
+Trouble with Camera settings
+fEE error using Nikon 85mm1.8 with nikon D80 camera
+How do I accurately capture the colour of sunlight on a wall?

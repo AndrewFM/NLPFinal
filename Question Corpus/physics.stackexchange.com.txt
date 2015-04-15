@@ -1,9 +1,13 @@
+Least Action Principle (Classical and Quantum Theory)
+What is the physical interpretation of the Poisson bracket
+Would this design of a laser phosphor display (LPD) work?
+Is Kinetic Theory part of Statistical Mechanics?
+Newton&#39;s Second Law And Horse Racing
 Computing the probability density of wavefunctions
 Statics: Cable with distributed loads. What am I doing wrong?
 Is this a possible monopole setup, or will it cancel out?
 Is mass essentially an absence in space-time?
 What is the difference between zero background radiation and field background radiation in Nuclear Physics measurements?
-Relationship between kinetic theory and statistical mechanics
 Quasi 1D insulators with strong spin-orbital interaction
 Packing Fraction vs. Packing Density
 Definition of Entropy in thermodynamics
@@ -11,7 +15,6 @@ Finding speed of the speed of the ball at the bottom of a circle
 Meaning of Time Reversal Symmetry
 How calculate Heat capacity of infinitely long column in a gravitational field
 How can i turn home gas from liquid to gas
-What is the physical interpretation of the Poisson bracket
 How to verify/falsify the existence of localised edge states numerically?
 Explanation of a proper time (an add)
 Is there a magnetic force affecting point charges outside of a toroidal coil with sinusoidal current?
@@ -48,12 +51,63 @@ Fourier series for a wave on an infinite string?
 Order of Feynman diagrams for electroweak processes?
 how to strengthen signals of my eVo internet connection
 Why Position &amp; Momentum but NOT Position &amp; Forces involved were considered in Uncertainity Principle?
+Can you use pulsar observations to determine absolute time? How long can you go without anything else?
+Head on collision of a neutron and a atom at rest
+What does Bell&#39;s theorem rule out?
+What is the active and reactive gyroscopic couple?
+How does one measure the power factor?
+How do I express the interaction energy between two charged spheres?
+Shouldn&#39;t the currents be time-continuous here?
+Non-relativistic QFT Lagrangian for fermions
+How does a sonic black hole (or dumb hole) work?
+how to determine direction of gyroscopic couple on car?
+What&#39;s the smallest height difference over which gravitational time dilation has been experimentally observed?
+Can we theoretically balance a perfectly symmetry pencil on its one-atom tip?
+How to calculate required current and specifications for a &quot;wet coil&quot; to generate x Tesla of magnetic field?
+Constrained Motion involving concepts of Center of mass and Newton&#39;s Law
+Why do we use capacitors when batteries can very well store charges?
+How are the field operator and quantum state after a beam splitter and a polarizing beam splitter individually?
+Equation derivation for skipping rocks
+What is the proper time interval for simultaneous events?
+Tensions in a rope
+Can I take the partial derivative of the Lagrangian with respect to a constant?
+Producing photons with same frequency, different amplitude wave
+The probability of finding the electron in the H-atom
+Jets and vertical differential
+Why do we feel hot because of sunlight?
+Ampere&#39;s circuital law for finite current carrying wire
+Does exciting an electron across the band gap change either its position or its localization?
+Combining waves?
+what experiments can be used to distinguish between s-wave and d-wave superconductivity?
+Does disorder reduce superconducting transition temperatures?
+Are there any in depth superfluid mechanic analyses of spacetime?
+Does universe calculate?
+Scattering amplitude and correlation function when probing critical phenomena
+Singing for physicists: How to resonate by body cavities with my voice?
+MRI and precession
+Relative speed and time
+Superconductivity in graphene with spin orbital coupling, is it proper to let the order parameter on two sub-lattice equal?
+Need help buying binoculars online for astronomy (10x50)
+Double image in binoculars
+How could I translate a field of view value into a magnification value?
+Topological term under electron-electron interaction
+Why does paper become uneven when soaked and dried?
+Rayleigh scattering question
+Why is ${\bf N}\otimes\bar{\bf N} \cong{\bf 1}\oplus\text{(the adjoint representation)}$?
+How to solve the Dirac equation numerically?
+Susceptibilities and response functions
+Atomic physics - lattice energy
+Why is the mole/&quot;amount of substance&quot; a dimensional quantity?
+Least Action Principle (Classical and Quantum Theory)
+What is the physical interpretation of the Poisson bracket
+Would this design of a laser phosphor display (LPD) work?
+Is Kinetic Theory part of Statistical Mechanics?
+Newton&#39;s Second Law And Horse Racing
 Computing the probability density of wavefunctions
 Statics: Cable with distributed loads. What am I doing wrong?
 Is this a possible monopole setup, or will it cancel out?
 Is mass essentially an absence in space-time?
 What is the difference between zero background radiation and field background radiation in Nuclear Physics measurements?
-Relationship between kinetic theory and statistical mechanics
 Quasi 1D insulators with strong spin-orbital interaction
 Packing Fraction vs. Packing Density
 Definition of Entropy in thermodynamics
@@ -61,7 +115,6 @@ Finding speed of the speed of the ball at the bottom of a circle
 Meaning of Time Reversal Symmetry
 How calculate Heat capacity of infinitely long column in a gravitational field
 How can i turn home gas from liquid to gas
-What is the physical interpretation of the Poisson bracket
 How to verify/falsify the existence of localised edge states numerically?
 Explanation of a proper time (an add)
 Is there a magnetic force affecting point charges outside of a toroidal coil with sinusoidal current?
@@ -199,3 +252,2250 @@ Relation between frequency, speed, and coverage range
 Electromagnetic wave reflection
 Is there a way to calculate the surface charge density on an infinite plate without using the method of images?
 Surface waves on Dr. Miller&#39;s planet
+what is the capacitance and inductance of an ideal wire?
+band structure of Topological insulators
+What are phase conventions in angular momentum and rotation calculations?
+Anyonic braiding statistics from density matrix renormalization group (DMRG) simulations
+are clocks always wrong?
+Is it possible that neutrinos or some other sub-atomic particle contributes to radioactive decay?
+What is the physical meaning of anti-commutator in quantum mechanics?
+Has anyone published the procedure to generalize ladder operators for any potential in Schrodinger&#39;s equation?
+What really allows airplanes to fly?
+Problem about thermodynamic relations
+Local translations in curved spacetime
+Is normalization consistent with Schrodinger&#39;s Equation?
+Hidden Weyl symmetry &amp; fixed metric lead to simplified correlators
+What is a &quot;Reversed Effective Force&quot;?
+If time standard clocks and any memories about the time standard are destroyed, can we recover the time standard again?
+The nature of measurement
+Experimental verification of bound state transition times
+Two capacitor plates with equal positive charges $q$
+Why can&#39;t a gas be liquified by pressure above its critical temperature?
+Fluid approximation for inflaton?
+Magnetic field question applied in real life
+Determine center of mass!
+Interesting question in Statistical Mechanics involving Lennard-Jones potential
+Can an object experience torque when the only applied external force is at its axis of rotation (IOW, where $F \times r = 0$)?
+Poincare patch of $AdS_2$
+Could dark energy be powered by force particles that obey quantum mechanics?
+Static electricity and door handles
+Interesting: Estimate range of Coulomb interactions.
+Ball flying towards me - Newton&#39;s third law is violated?
+How to use an accelerometer to correctly quantify the magnitude of vibrations
+What invisible flicker do different types of light bulbs have?
+self inductance basic example: meaning of current flow AFTER opening circuit
+Triple point temperature and freezing point
+Bohr/De Broglie simplfied model - joining orbitals
+how far can electricity be conducted in saltwater?
+Where is the energy stored in an inductor?
+First-principles derivation of cutting force
+Is our locally measured time actually conformal time?
+Current scope of Chaos theory and non-linear dynamics?
+nuclear fusion scaling with reactor size
+What are the rules for breaking a glass with your voice?
+What&#39;s going on along the &quot;sides&quot; of an Alcubierre warp bubble?
+Does it mean anything if the commutator of an operator with the Hamiltonian is equal to the Hamiltonian?
+Do the copper connectors we used in measuring the resistance of a wire contribute to the said measurement?
+Amount of entanglement in terms of grteatest eigen value for hermitian matrices?
+For an isolated system, can the entropy decrease or increase?
+Why do clouds not fall?
+using tetrads to glue local currents into global currents
+How can Drift Velocity of an electron causes change?
+What is the concept of phase congruency?
+Calculate the pressure required to stop a pipette (or pipe) from dripping
+Find for how much time, the car with stop and how many meters has it done
+Proving $\rho_{nm}=\sum_k p_ka_{nk}a^*_{mk}= $?
+Calculate energy-density of known plasma in microwave?
+Theoretically, is it necessary that if light passes through a glass slab, its intensity should decrease?
+What is the difference between a material in which the Rashba effect occurs that is not a topological insulator, and one is a TI?
+How can light travel at a speed greater than the speed of light
+Why position and momenta are fluctuating quantities?
+Simple Circuits
+How much energy is required to compress one engine cylinder full of air?
+Looking for an ODE problem involving a tower and structural vibration
+By what maximum amount can we concentrate sunlight?
+Perturbations and Chronology condition
+Schrodinger eqn with &#39;rescaled&#39; Hamiltonian
+Induced electric field due to a moving wire
+Quantum Wave Mechanics
+What is bias voltage and what is it&#39;s function in a Scan Tunneling Microscope?
+Full ionization meaning
+How do I use this &quot; Low-Density, High-Hardness, High-entropy Alloy&quot; to make a good shortsword?
+Earth curvature refraction for dummies
+Maximum Extension of a Spring
+What determines color -- wavelength or frequency?
+Simple pendulum cartesian coordinates
+Why is there no induced electric field in the experiment (Faraday&#39;s Law)
+Calculating temperature from molecular dynamics simulation
+Wheatstone bridge intuition - and the potential divider
+Optics Cornu spiral diffraction
+Factors affecting pain of static electricity shock
+Local translations included in covariant general coordinate transformation
+Series of parallel thermal resistance connection for this enclosure?
+Which values of the Riemann zeta funtion at negative arguments come up in physics?
+Estimate dark matter in a 16 oz cup of water
+What is the force between two points in space due to expansion of space between them?
+Translational Velocity and Frequency question
+How many bricks can be put without disordering the equilibrium?
+Is fluorescence from a single atom/ion visible with the naked eye (e.g. in a strongly coupled trap or cavity)
+Why do electrons in a superconductor lack energy to produce &quot;massive&quot; photons
+A possible way to initiate a nuclear fusion reaction without a nuclear fission trigger
+Criterion for resolvability and spot size for optical systems
+Equation involving; elastic modulus, poisson ratio, radius and pressure of a sphere
+Identity and indistinguishability in quantum and statistical mechanics
+Constructing dual gravity theory from general CFT
+What causes a heat generating source to stabilize at a certain temperature? (Answered by myself, I think)
+Differential operators in curvilinear coordinates
+Can there be Electron and/or Proton Stars?
+Could all the electrons from the metal be ejected out during photoelectric effect?
+Double slit experiment collimating lens?
+Hamiltonian Noether&#39;s theorem in classical mechanics
+Which lamp is brighter, the one through which electrons flow or current
+The position vector of particle in horizontal wire
+Change in radius of a charged bubble
+Induced-EMF in a parallel circuit, vs a series circuit?
+Foam patterns on espresso
+What is a peryton?
+Is there an analytic solution for this Fokker-Planck equation?
+How is parity relevant to determining angular momentum?
+Finding Surface Tension of water at certain Temperature and Pressure
+Energy conservation $\iff \frac{dE}{dt} = 0\ $?
+Potential generated by a hollow sphere with a hole
+Acoustic/Gravity waves subject to constant wind
+What type of Quantum Gate is this
+How are weights and scales used by the public calibrated?
+Functional derivatives as distributions
+Derivation of four-velocity using proper time?
+Reflection of Sound wave (Pressure Wave)
+If you heat a closed tube, does its mass change?
+Recommended books for a &quot;relativity for poets&quot; class?
+Chemical Potential, Boltzmann
+How do we age if we tunneled to Earth&#39;s core?
+Gaussian cgs units
+The potentiality of the electric field
+Explain how waves have momentum?
+High resistance wire as a heating element
+Why does the Nusselt Number for a Constant Surface Temperature, Thermally Fully Developed Circular Pipe Converge To a Constant of 3.66?
+Optical fibers: pulse spreading in an optical fiber due to material dispersion
+Specific heat and latent heat of fusion
+If we hit an electron will it go to an excited state?
+How did Feynman prove that energy cannot be extracted from electric field?
+Fraunhofer Diffraction and Lenses
+Are ultracold atoms unique in nature?
+Is it possible to derive the Doppler effect formulas for sound using relative velocity?
+Mass, energy, and entropy.
+Expectation value of Commutator of Hermitian operators
+Polarization of light upon reflection
+State collapse in the Heisenberg picture
+At what mass and/or radius does a black hole grow?
+Renormalization Group and Ising with d=1 and D=1
+The applied and friction forces of a particle along a straight wire in horizontal plane
+What is the most agreed upon quantum mechanical equation of motion?
+How does a photon drive out the electrons in a solar cell?
+Equation of motion in quantum system
+Measurement problem in the orthodox interpretation
+Induction and electromagnetic fields
+phase-space volumes or cells for N particle system
+Covariant derivative of Levi-Civita tensor
+Two particle operator
+How can silicon have a capacity of 8 electrons in the outer shell?
+A simple question about the principle of conservation of momentum
+Maximum Momentum of Neutral Pion
+Eikonal approximation in QFT
+Help calculating work done by stretching a wire
+Determining the minimum pull force of a magnet required to hold it in place
+Hamiltonian linearly proportional to momentum
+Different noise when knock on a hollow wall
+How to do time evolution of operators in the Heisenberg Picture while staying in the Heisenberg Picture
+How can a fruit be used as a battery cell?
+Is there an area of the universe observable from earth that is newer than the rest
+Electric fields and magnetic fields
+Dipoles lengths underwater vs on land
+What is the physical interpretation of the automorphism on bounded operators induced by an S matrix?
+Does a quadrupole transition mean emission of one photon with spin 2?
+Ways for undergrad to understand physics research?
+Derivation of adiabatic T-V realtion
+Electrostatics problem concerning induction by a point charge inside a conducting shell
+Inverse Gluon Propagator
+Heisenberg picture of QM as a result of Hamilton formalism
+What does a unit like $C^{1/5}$ or $kg^{1/2}$ physically mean?
+Why is stainless steel a poor conductor of electricity?
+Computing the force generated by a sail on a boat
+Which derivative with respect to time is which in the Heisenberg picture of quantum mechanics?
+Generalized Bekenstein-Hawking temperature for Kerr-Newmann-dS black holes
+How did Planck derive his formula $E=hf$?
+Does dark energy work like gravity, but the opposite way?
+Physical interpretation of single layer potential in the plane
+Why does the airflow in the mid-stratosphere of the northern hemisphere rotate FASTER than the earth?
+A simple question about frequencies, vibrations and engineering
+Crank slider Question
+How to calculate the force acting on a magnet due to a solenoid
+Is it possible to counter-act centrifugal force by moving at the same speed in the anti-spin direction?
+Hamiltonian field equations constraints
+Question regarding charge and acceleration
+Why possibility for X-ray to excite inner electrons higher than outer electrons?
+Determine resultant velocity of an elastic particle-particle collision in 3d space
+Born&#39;s rule and Schr&#246;dinger&#39;s equation
+Combining sound absorption coefficients
+Does wrapping a wet paper towel around a glass bottle really speed up the cooling process?
+Why does the human body feel loud music?
+How do Optically Active Compounds Rotate Plane Polarized Light?
+Is work done in rolling friction?
+Is there a naturally occuring sound pressure level reference?
+How do spiral arms form?
+What is the difference between mass defect and mass deficit?
+Is it possible to &quot;pull&quot; sound waves using only an object?
+Is, in terms of sound, pouring water in a bottle the analogous of blowing into it?
+Eqation between sound intensity and distance
+When does $\mathbf n\times(\nabla V_2-\nabla V_1)=0$ imply $V_1=V_2$
+How much weight would I need to put on the end of a tube to break it?
+Current direction and magnetism
+What is the difference between Fermi golden rule and Wigner-Weisskopf theory?
+Special relativity, electromagnetic fields, charge and Q
+Question about average drift velocity of electron in conductor
+Two-component formalism and four-component formalism
+What happens to black holes if/when the universe &quot;ends&quot;
+Increasing the efficiency of solar cell systems
+Does Peskin &amp; Schroeder Eq. (4.26), $U(t_1,t_2)U(t_2,t_3) = U(t_1,t_3)$ imply $[H_0,H_{int}] = 0$?
+One loop correction to the propagator of a scalar coupled to a massless fermion
+How much work can we extract from a black hole?
+Flat universe and accelerating expansion
+What does Ricci tensor do with two vectors?
+Why does the pion not undergo netural particle oscillation?
+Free fall for a longer time
+Why Lagrangian of electromagnetism with Lorenz Gauge evolve Klein Gordon equation?
+Do the arms of a spiral galaxy spin around like a candy bar in long spirals?
+Do virtual photons have a frequency?
+About the orthogonality of the Hamiltonian eigenstates for the the continuous energy spectrum
+Phase space Lagrangian?
+Tensor components change under rotation-translation
+Friction force in rolling motion
+Sommerfeld Parameter Confusion
+CNOT gate application to separated qubits
+s,p,d,f Orbital visualization or simulation?
+Direction of electric field lines and electrostatic force
+Identity operator in terms of the energy eigenstates in case of continuous spectrum
+Integrability in classical mechanics
+How to convert $V \otimes W^*$ to a matrix space?
+Why do the $u$ and $d$ quark not have an associated quantum number?
+Projectile motion maximum distance to origin
+Does one *feel* the electrostatic force while not resisting it?
+How far does a trampoline vertically deform based on the mass of the object?
+Potential and kinetic energy
+How to interpret that forces do not depend on acceleration?
+Dispersion in a rectangular prism
+Can the universe be round but still infinite?
+Does a photon emitted in a potential well due to transitions undergoe a blueshift?
+Confusion regarding rotational motion!
+What is the difference between a parameter, a variable, and an operator in QM?
+Dirac Current Spectral Representation
+Difference between speed of light and of bullet after passing through a barrier
+If the cord has a breaking strength of 25.0 N, explain why the cord broke when supporting a load so much lesser than its breaking strength
+Speed needed to make a car jump from a ramp
+Calculating the magnetic field from rectangular conductor?
+What is a full cycle in damped oscillation?
+Why the direction of dipole moment is from negative charge to positive charge?
+Fierz identity for Weyl spinors in tensor currents
+Why does the medium affect the Coulomb&#39;s constant but not the gravitational constant?
+Bose-Einstein Grand Canonical partition function derivation step
+Is the plane wave model always valid in reflection and transmission?
+Does chirp (GDD, TOD ) affect the temporal coherence of a laser?
+direct interaction theory
+What is the reason behind band gap narrowing in semiconductors
+Particle paths and standing waves
+Can we disconnect an object from the pull of gravity using some material?
+Fate of largest scale structures?
+Explanation of Lorentz-Force
+Dispersion of prism: Graph of angle of deviation versus wavelength
+Question about universe expansion
+Books that develop interest &amp; critical thinking among high school students
+How to find 2nd order pertubation to wave function?
+Chirality in Particle physics
+Is there any such thing as a change in acceleration (ex: 3 m/s/s/s)?
+Physical intuition on $\mathbf{v}\otimes \mathbf{w}$
+How to write a noisy state as a separable operator
+How can space be euclidean when light bends?
+Understanding a modified &quot;delayed choice quantum eraser&quot; experiment?
+Example of law of conservation of energy
+Trouble understanding phase matching equation
+What is the relationship between Faraday cage mesh size and attenuation of cell phone reception signals?
+High school student interested in a career in physics
+Is the focal length of a thin convex lens always less than the radius of curvature?
+In special relativity, is it correct to say the speed of a body B relative to A is the same as measured by every observer?
+Does the definition of the SI unit &quot;second&quot; require that possible perturbation of primary frequency standards should be measured?
+Macroscopic polarization operator (Berry&#39;s phase?)
+A current through a wire produces a magnetic field around it. Is the reverse possible?
+Why do we see light and isn&#39;t everything dark?
+How to understand the uncertainty of quoted value of cosmic black body radiation?
+Third-order susceptibilities of metals?
+Tunnel diode/quantum tunneling
+Fabry-Perot Spectroscopy
+I wonder what kind of proof we have that dark matter is really made of not-yet-discovered WIMP particles and not WISPy?
+Dimensionless numbers in relativistic theory
+Solving a Non-Isentropic rankine Cycle
+Truck driven from a small motor that can carry a heavy load, yet can travel fast.
+Current and Resistance-Effects of the Length of the Wire
+What is the general theory that describes the interactions between strings?
+Time relativity / paradox
+Find the center of mass of a hemispherical shell
+What will be the content of mercury of a can which contains 100 gm water?
+Can the physical properties of the EM field be described directly from the 4-gauge potential?
+What does it mean that a magnetic field&#39;s flux vanishes through any closed surface?
+Why Benard cells are usually hexagonal?
+Relation between coordinates and frames of reference
+Origin of quark masses
+Clarify excerpt from Feynman Lectures on rotations in three dimensions
+Sound waves and chromism?
+How to find the electric field of a charged tube?
+Mechanics Question Help?
+When was the first time that superconducting quasiparticles were called Majorana fermions?
+Path integral in quantum mechanics
+Magnet arcs assemly
+Pass to globally conserved currents from locally conserved currents in curved spacetime
+How can velocity be measured on a persons hand?
+How to tell the order of a Feynman diagram?
+What&#39;s the difference between insulators and topological insulators?
+I were to travel to the other side of the world then is this logic possible? If no, why?
+Are the Voyager spacecraft rotating in space or are they completely still?
+Finding total electric charge on a sheet
+Using Conservation of momentum and Energy to solve a problem
+What gauge field can be constructed from Lorentz symmetry?
+Nomenclature clarification concerning solitons
+Rayleigh length determination for Laguerre-Gaussian Modes
+Carnot efficiency, coefficient of performance for a refrigerator
+Are measurement results only orthogonal?
+Time that we have changing color
+Neutral $K$ and $B$ mesons decay to 2 photons?
+Apply Gauss&#39; law to find electric field around nonconducting plastic sheets
+What is the physical process behind wool shrinking when dried?
+Dimension of Electric Charge in Mass, Length and Time
+Is (rest) mass conserved in special relativity?
+Kallen–Lehmann spectral representation for an arbitrary spin
+Work done by friction on car
+Are only 2 bits of information transmitted in quantum teleportation?
+Derivation of Kepler&#39;s laws
+Particle physics: Why is J^P called spin parity if J is the total angular momentum?
+Celsius to Fahrenheit confusion: why there is no 1 to x ratio?
+Ferromagnetism, magnetic moment per formula unit
+Does a positive or negative charge attract a neutral object?
+How do I find the momentum of a car after a turn of 90&#176;?
+Is fuelless aviation possible?
+Force of gravity at quantum level is indetermined?
+Effects of Lens Changes on Geometric Optics
+Local EPR-experiments with photons in vacuum?
+Why is the water diamagnetic?
+Why does the refractive index not mirror the Lorentzian peak shape of the absorption index?
+What is the sum of the electrons&#39; magnetic moments in a wire?
+Whats the maximum number of electrons that can fit into the outer shell of boron?
+Perturbation theory : quadratic external field
+How do superconducting materials float in magnetic field?
+Reverse Recovery Current of a diode
+Why is acceleration significant to generating power in racket sports?
+Magnets quantum locking/levitating
+How much energy does a PV cell need to work?
+Why can &quot;slow&quot; neutrons trigger fission?
+Normal matrix is diagonalizable
+Volume of Brillouin zone is the same as Fourier primitive cell?
+Infinite series of derivatives of position when starting from rest
+Determine the pressure on the low-pressure side of a gas flowing through an orifice
+Explanation of relationship between pressure and poiling point of water
+Is there no electric field inside a conductor?
+How to find the velocity ratio of a pulley system?
+What is the secondary electron cutoff in ultraviolet photoelectron spectroscopy?
+What happens to the nucleus energy when it decays?
+How does an operator transform under time reversal?
+Precisely when is a matrix representation of Hermitian operator also Hermitian?
+In a positively biased PN junction, where do the injection carriers come from?
+Will the new LHC data falsify some theories?
+Hall-Petch Equation (Units?)
+What field of physics studies space and time?
+Why is energy released during decay?
+A small doubt in reciprocal space(aka K-space) in quantum mechanics
+Is Parity really violated? (Even though neutrinos are massive)
+Geometric measure of entanglement for fermions or bosons?
+Can a relativistic quantum particle be completely confined into a finite hole?
+Magnetic moment of an iron-core solenoid
+General relation between power density of any engine and dissiapation rate and temperature
+Matrix dimensions in the spacetime interval equation don&#39;t seem to agree? (Possible notation misunderstanding)
+Question about the no-clone theorem
+How can the contact point of rolling body have zero velocity?
+Apparent Contradiction in Helmholtz Free Energy
+What determines the factors of the multipole expansion?
+How to calculate liquid pressure regardless of the gravity?
+Superconductivity induced by magnetic flux or temperature fluctuations (+/-)
+Do cosmic strings or global monopoles interact with magnetic field?
+What is the effect of vibrations on an object&#39;s properties?
+How to move liquid uphill against a thermal gradient, without moving parts
+why do x Schwarzschild radii equal time dilation effects of speed of light going y times faster than an object^2?
+Amount of unknown parameters in compressible Euler equations
+Regarding the possibility of Closed Timelike Curves
+How to derive electron number equation of Bogoliubov Hamiltonian using thermodynamic relations.
+What are the photon/electron consequences of matter in a gravitational time dilation?
+What does thermal conductivity actually measure?
+Calculate the speed of projectile motion
+Eddy currents are out of phase with respect to the field generated by a coil?
+Basic rule for diffraction
+Equations of motion of displacement field
+How to imagine higher dimensions?
+Why the EMF of a battery doesn&#39;t depend on distance between the two electrodes?
+Combining two finite number fock spaces into one
+Clarify an assertion on torques from the Feynman lectures
+Alternative to Cooper pairing in superconductivity
+Changing momentum of moving trolley
+If the Hamiltonian is invariant under particle permutations, show that the Hilbert space increases linearly with the number of particles
+Is there a depth at which a human body, with lungs full of air, will no longer float?
+Why are permanent magnets permanent?
+Tension and compression in bicycle wheel spokes - what holds the wheel in place?
+What are pressure threshold patches called in professional terminology?
+Dense plasma focus properties
+Is potential energy an energy exists or potentiality of energy?
+In an all-out nuclear war, how long should remain sheltered?
+Three polarizers, 45&#176; apart
+Entropy of loops in the PV plane
+Rotating rod assembly, finding the force reactions at the bearings
+Are we really sure that the whole universe is expanding?
+What will be the gravitational pull of the Sun if the Sun contracts to a black hole?
+Does time expand along with space?
+Are there any scales other than temperature that have different zero points?
+how much weight can you put on a bike tire?
+Could the LHC be used for fusion experiments?
+Slater-Determinant: When is this appopriate?
+How to calculate the amout of time for oil to get out from a pneumatic cylinder?
+What does it mean to &quot;contract&quot; a tensor identity?
+Young&#39;s Modulus and Vibrating String Harmonics
+Proving Kepler&#39;s 1st Law without differential equations
+Distinguishing between perfect rigid mirror and symmetrical universe
+Sun and planets orbit each other
+Why do some bound states disappear in a discontinuous way?
+Could Quantum Entanglement be related with gravitational interactions?
+Is it possible to send modulated ultrasound wave from underwater to air?
+Is density of a material related to penetration?
+The actual space curvature
+Normalize Fourier Transform For Video Game
+Soliton wave transmission and experiments
+The graph of Alternating current
+Why are three parameters required to express rotation in 3 dimension?
+Since the earth is moving through space, do we experience time dilation?
+Ising model scale invariance
+What is the most accurate experimental confirmation of Rutherford&#39;s $\sin^{-4}\phi/2$ law?
+Variance and Intermittency in turbulence
+Relativity and Current in Wire
+Lagrangian of constrained point mass
+Does all matter emit gravitational waves all the time?
+Does a particle annihilate only with its antiparticle? If yes, why?
+Pair-annihilation why does it occour?
+Independent Phases in Gauge Theory
+Tank draining with piston
+Why do non-Newtonian fluids go hard when having a sudden force exerted on them?
+Why does replacing bra and ket basis vectors by their row and column representations give the wrong matrix representation in a non-orthogonal basis?
+Spin operator: tricky proof using gamma matrices
+Finding equivalent resistance in complex circuit
+Ladder Operator killing state
+On the Bogoliubov transformation in the BCS
+How does quantum mechanics explain stability of electron orbitals?
+How to calculate the focal length of spherical shell (zero meniscus lens)
+What is the overall rate of heat conduction through two pipes of different dimensions if the thermal conductivity is not constant?
+Gravitational electromagnetic clock effect
+Spring compressed between two blocks
+Gravity of photons in different reference frames
+Does Heisenberg&#39;s uncertainty principle work on large objects?
+Computer simulation of the formation of planet
+Rolling in V shaped groove
+Effective masses for different direction
+Heat equation with with time varying boundary condition
+Is the Weyl Postulate correct?
+Degeneracy of Rotational Energy Levels of a Diatomic Molecule
+Why is $p_\phi$ conserved in a Schwarzschild orbit?
+How active is research on non-relativistic quantum mechanics?
+Dimension and Basis properties of $SU(N)$
+Why is static electricity called static?
+Is it possible to use induction ampermeter to measure power consumption of electric water heater and dryer?
+Rotational Spectrum of a Diatomic Molecule
+Singularities across the critical isotherm in Landau&#39;s phenomenological theory of phase transition
+Spectral reflectance identification of types of iron rust
+Phase shift of 180 degrees on reflection from optically denser medium
+Realism vs. locality in EPR/Bell arena
+How do solar panels generate infinite electricity?
+What happens to an electron moving in an electric field?
+How many times should the spoon be stirred for the sugar to dissolve (almost) completely in a coffe cup?
+Practical understanding of energies in LHC collisions
+The interaction between waves and particles according to their wavelength
+Gradient of a normalized hysteresis loop in longitudinal geometry
+Saturn V F-1 engines and beyond
+Why would an object appear a different size when in water?
+Calculating average energy stored in Li-Po battery
+Understanding Poynting&#39;s Theorem intuitively
+Why does a voltmeter give a positive reading for a path in the same direction as the electric field?
+Equation for calculating spring costant
+Hall conductivity from Kubo: Bulk or edge?
+Proof that spacetime interval is invariant
+Gravitinos the key to theory of everything?
+EM field of free moving electrons?
+Coupled wheel and rod (analytical mechanics)
+Who can see the event/apparent horizon and Hawking effect?
+Partial pressures - beyond the concept of point masses
+Best books for mathematical background?
+When can an autonomous system be written using a Hamiltonian?
+Meaning of the symmetrisation postulate in absence of a proper model
+What is the significance of the &quot;squared&quot; in $E =mc^2$?
+Is it possible to heat plasma to the point where there is no electrical resistance?
+When is the spectrum of the Hamiltonian (purely) continuous?
+2600mAh Battery Charging Time
+Calculating the beating length of the directional coupler
+What is temperature?
+How does liquid in a ball affect its rotational acceleration down a ramp?
+image transmission through waveguides
+Perturbations in arbitrary dimensions
+Time crystals : fake or revolution?
+Phase change on reflection only 0 and $\pi$ allowed
+Precise statement of Mermin–Wagner theorem
+Phase change by reflection
+Physical examples of wave function that is stationary in space and varying in time. Something like $\Psi(x,t) = \psi(t)e^{-ikx}$
+Why does the following contradiction arise in Lagrangian Formalism?
+Prove Christoffel Symbol Identity
+Argument of E. Fradkin on the mean-field theory of spin liquids
+The 1st law of thermodynamics
+Drift Speed and Current in Two Different Inertial Frames
+Have they really photographed light behaving both as a particle and a wave?
+Average acceleration versus instantaneous acceleration
+Does the low-energy gauge structure depend on the choice of $SU(2)$ gauge freedom?
+Are magnetic field lines level sets?
+Surfaces that reflect UV rays
+Angular momentum commutation relations?
+Calculating work done on an ideal gas
+How can a photon have energy when its mass is zero?
+Relative error of equivalent resistance of resistors in parallel
+Writing a Green function for Tight binding Hamiltonian?
+Determining the focal length of a gradient index lens
+Superconducting electromagnets?
+Charge of a moving particle
+Electric field from current without Maxwell&#39;s law of induction
+Quaternions and 4-vectors
+Metal Halid Lamp: continous arcing?
+Difficulties with understanding total entropy change and unavailabillty
+In a noiseless environment, how accurate do today&#39;s transmitters send EM waves?
+Has this experiment really demonstrated wave-function collapse?
+Heat balance: how to obtain T(t) with energy in the form u(T(t))
+A spin on relativity&#39;s twin paradox?
+How much drag/friction does moving a magnet past coil make?
+Do Amp&#232;re&#39;s and the the Biot-Savart law give different answers for the magnetic field of a circular loop?
+The free surface of the wave is a material surface
+Relativistic Momentum and Energy - Lorentz Transformations
+Spectral line formula
+Photon propagator integral
+Modifying differential equations representing a projectile system to account for an arbitrary force
+How do you get the curvature tensor of the Schwarzschild Solution?
+Why is the photoelectric absorption coefficient finite at the threshold frequency?
+is it possible to confine an atom in a container
+Closed strings = open ones attached to a D0-brane?
+Diamond changing to graphite
+Is the usually taught solution to forced harmonic motion just a special solution?
+Point group symmetries and unit cell
+Frequency response of a capstan-like mechanical amplifier
+Charge distribution in a heterogenous coin
+why does string theory require holography?
+Physical intuition/interpretation of fractional derivatives/integrals?
+Mercury&#39;s Orbital Precession in Special Relativity
+Would you still be able to see if you were traveling faster than light?
+Force problem related to adhesive and bonding
+What guarantees that in a circular motion in a vertical loop, the resultant of the forces will always point to the center?
+dagger operator in spinor representation
+Joe puts one scale on top of the other and steps on the top scale. What is the reading on the scale? Full question below
+projectiles involving angle of projection
+In the orbiting space station, you are handed two identical boxes, one filled with sand, and the other filled with feathers. How can you determine
+Simplifying a Vector Integral
+Why do snorkelers not need to wear corrective glasses when snorkeling with goggles on?
+How can we detect the property of matter by using mechanical waves or IR or any other way
+Time-reversed twin paradox
+What polytropic index should I use for spherical accretion onto a degenerate object?
+Confusion about average force applied over a time interval
+Rate of evaporation of water with mass loss at set temperature and pressure
+Seiberg-Witten theory and Superconductivity
+Static pressure in relation to CFM
+If photon-photon interactions are impossible, how are higher harmonics generated?
+Is it correct to say &quot;like poles attract, unlike poles repel&quot; while two magnets are placed such that one is inside another?
+Internal energy according to the van der Waals equation
+Problem on finding the spatial components of canonical momenta in Fierz-Pauli Lagrangian
+Thermodynamics helppp
+Thermodynamics Help please
+Why can&#39;t I series 5 D Cell Batteries to achieve 7.4 volts?
+Determining the refractive index of a foil
+Electric flux of a point charge in 2D
+Checking for equilibrium in a square configuration of charges
+Do Shape Memory Alloys (SMA) work harden?
+Diagonalising an infinite Hermitian matrix
+Constant 2 in kinetic energy equation
+Can one apply the Hubbard-Stratonovich transformation to the exponential of the Laplacian?
+What is the force between two charged objects when the space between them is partially filled by a dielectric medium?
+What is the electrostatic force between charges if they separated by a combination of dielectric media?
+The force on the northern hemisphere
+Why can&#39;t Compton scattering happen in leading order of perturbation theory?
+What happens when both of Polarizing filter in LCD screen are Horizontal
+Non-trivial scalar quantity
+Hermitian Adjoint of Spinor
+If the LHC-calculated mass of the Higgs is wrong, how long will it take to determine this with confidence?
+How to find the voltage?
+How to measure the range of a horizontal projectile?
+What does the &quot;UV&quot; in &quot;UV completion&quot; stand for?
+Why is the outside run of high presure line on a ductless mini-split airconditioner insulated?
+Induced electric field
+Exam review problem. Weird answer
+Child-Langmuir Space Charge Law for Non-Zero Cathode Potential (Non-Zero Initial Electron Velocity)
+Gauge invariance and Bohm-Aharonov effect
+Can the Milky Way&#39;s halo be considered to be curved spacetime?
+Could quantum particle have a specific velocity without position at all?
+Specific Humidity in an Air Conditioning System
+When a force pushes an object does the force move the object?
+Curvature of Spacetime
+How to find equations of motion when potential is given by inverse-square?
+Binding energy of Helium and repulsion of protons
+Is gravitational time dilation different from other forms of time dilation?
+Charge renormalization point in massive abelian gauge theory
+What types of materials can be electrically charged by rubbing?
+Why can the Euler beta function be interpreted as a scattering amplitude?
+How does a balloon deflate?
+Does light bend while travelling a path on which refractive index doesn&#39;t change?
+Collisions between an object and a wall
+Power dissipated in Series versus Parallel
+Symmetry in gravitational time dilation
+Which position and momentum distributions arise from some wave function?
+Stone vs. Atomic Bomb
+Solving one dimensional Schrodinger equation with finite difference method
+Would a planet in a binary star system follow Kepler&#39;s Laws?
+Dependence of finite part of loop integral on regularization
+Question on hadamard gate and cnot gate circuit tables
+Kepler problem in time: how do two gravitationally attracted particles move?
+What is the relationship between $a$ and $m$
+Two Bodies Orbiting Around Each Other and Kepler’s Laws?
+Comparing the orbit radius of two spherical objects
+How to calculate wind force (air resistance) on a rectangular object?
+Am I right in my understanding of angular motion?
+Electromagnetism Boundary condition
+Selection rule $\Delta S=0$: Why does a photon not interact with an electrons spin?
+How can there be two Beta-stable nuclei with the same value of atomic mass?
+Intuitive explanation for the existence of an energy gap in superconductors
+Infrared radiation and infrared cameras
+Eulerian mass conservation on a stream line to Lagrangian mass conservation
+Vibrational anharmonic coupling and noise-induced spontaneous symmetry breaking in a hexagonal finite mechanical lattice
+Trampoline physics - what is the right time to crouch and to jump to maximize your height?
+How do logarithms show up in the one loop calculation of the vacuum polarization in QED?
+Given airplane mass, velocity of air under wing, and a wing area, find velocity of air over wing
+How to convert rotational energy into electricity
+Strangeness of QFT
+How to understand the indeterminate process in thermodynamics?
+How does the gravity of a massive non-spherical object act on things around it?
+Theory of relativity. Relative to what?
+Why aren&#39;t orbitals symmetric?
+How to estimate the time spending along the fluid flow
+Could one argue that h (Planck constant) and $\hbar$/2 (Dirac constant) are in fact independant constants?
+Maxwell&#39;s equation in curved spacetime - how come? And experimental evidence?
+How can I relate linear and angular motion using a single formula?
+Loop quantum gravity (LQG) vs. Quantum Graphity -- how are they different?
+Looking back when falling into a black hole
+How to find one of the vectors when we know the other, the angle between the vectors and the result?
+Displacement vector in parallel plate capactor
+Could the International Space Station get us to Mars?
+When does the &#39;standard&#39; angular velocity formula not hold?
+Does the gravitational force of one object interfere with that of another?
+What is the wind speed *behind* a semi-truck moving at 100 km/hr?
+Ratio between thermal conductivity heat transfer coefficient
+Why is it impossible to have a perfect vacuum?
+Entanglement, Bohr-Einstein Debate, Bell&#39;s Inequality
+Floquet quasienergy spectrum, continuous or discrete?
+Exactly which components of special relativity are contained in Minkowski spacetime?
+Is our Universe a larger version of a galactic polar jet?
+Why some material is waterproof while breathable?
+Is carrier charge density and carrier mobility constant in a given material?
+What is fundamentally happening that causes light to change its orientation when repeatedly polarized? (edited)
+circular orbits in general relativity
+Does graphene have a honeycomb lattice?
+Origin of lepton/quark generations?
+Conservation of Energy in Blue Shift
+What&#39;s the interpretation of Feynman&#39;s picture proof of Noether&#39;s Theorem?
+Electronic device malfunctions from condensate
+Expansion of gauge potential on infinite dimensional manifold
+Faster Than light!
+Why do I always hear remote train horn at night?
+How do electrons distribute themselves along a wire attached to one pole of a battery?
+Why is elastic modulus greater than shear modulus?
+How to obtain the asymptotic behavior of Green&#39;s function?
+The formation of black holes and their destiny
+Solve for work done during electrolysis using the Van Der Waals equation
+Why is the release of energy during the He-flash in stars almost explosive?
+Problem in one step of deriving Einstein&#39;s Field Equation from Caroll&#39;s book
+What is an average work day like for a theoretical cosmologist?
+What is Timelike Quantum Entanglement?
+How does a minority carrier diffuse?
+Can energy be extracted indefinitely from a mass dipole/mass negative mass pair in perpetual motion?
+If I charge a battery using a much higher current, can it explode?
+How can we represent the 3 space coordinates uniquely by one point that can be put on a single axis?
+Metric inside a sphere of uniform density?
+Why is the electric field operator normalized by a volume?
+A Theorem Due to Hodge: Hawking/Ellis
+Where does the $50^*$ in $SU(5): 10\otimes10= 5^*\oplus45^*\oplus 50^*$ in A. Zee QFT?
+Unitary groups and infinitesimal transformations - Schwingers way of deriving Lie groups
+How do I construct the Maxwell tensor $\bf{^*F}$ from Fadaray one $\bf{F}$ in a non-flat spacetime?
+The Schwinger Limit and the Breit-Wheeler Process
+Rigorous distinction between quasiparticles and collective excitations
+How can dark matter collapse without collisions or radiation?
+Photoelectric effect stopping potential
+continuity equation and pressure head in a tank
+Difference between steady state and equilibrium?
+What is the usefulness of the Wigner-Eckart theorem?
+Computational physics using mathematica
+Wave-Particle Duality and Quantum Tunneling Experiment
+Destroying currents in superconducting rings by vortex tunneling
+Expectation of momentum in the bound state
+Existance of observables trace orthogonal to Hamiltonian
+Does a source emitting visible light also emit infrared, microwave and radio waves?
+2 Component Spinor Formalism
+What kind of rotations are described by octonions in string theory?
+A yellow lemon is illuminated by green light. What color does the lemon appear?
+Component of a vector perpendicular to another vector
+Physics of a cold and hot top
+How do astronomers measure the distance to a star or other celestial object?
+Is there a list of (the solid state version of) electron affinities?
+Do all &quot;normal&quot; black holes rotate?
+How to write $su(3)$ Lie algebra as a sum of two subspaces?
+Mapping quantum states of different (quantum) physical systems to the same Hilbert space
+Change of variables to apply Melnikov method
+Is this derivation of Black Hole entropy viable?
+Evaluation of Fermi integral
+Upper limit to electric charge confinement?
+Find the electric field of light due to an LED
+What is the magnitude and direction on a charge in a constant electric field?
+Buoyancy problem
+Calculating the (on-shell) action of a free particle
+Is there a simple expression for the coherent information of a Pauli channel?
+Momentum around an accelerated electron
+Can universe or anything be simulated with absolute accuracy?
+Does O$^{2-}$ really exist?
+What will my diamond fibre shirt look like?
+UV filter, does it exist?
+How to expand free energy of Heisenberg spin chain?
+Use of Imaginary Angles in Physics
+Google interview riddle and scaling arguments
+Are atomic energies increasing as the Universe expands?
+What will happen when an unstoppable force meets an immovable object?
+Finding the initial velocity vector of an orbiting body
+What is the simplest way to perform a Cavendish experiment?
+Noether&#39;s first and second theorems
+Violation of Pauli exclusion principle
+Finding time period of oscillations in a multiple spring system attached to a solid cylinder
+Is the &quot;Doctor Who&quot; spacetime affected by Hawking&#39;s chronology protection mechanism?
+Why when I put a teabag into microwaved water does the water fizz?
+Sum of forces with liquid in rotation
+Lorentz Algebra Representation and QFT
+Tension in a Cable Between Two Masses on a Triangle? (Diagram)
+Why does an ice cube not twirl along when twirling a drink glass?
+Higher order principle of isotropy
+Doubts about fabric of the cosmos;What is space!
+Calculating energy density in the early Universe
+Doubts about fabric of the cosmos. Illusion of time?
+Two block connected with spring on a rough surface
+Why are neutron stars mostly composed of neutrons?
+Electromagnetic field question help
+Magnetic field/ electrostatics
+Is a &quot;Perfect&quot; Vacuum theoretically possible
+Doesn&#39;t the Big Bang negate the law of conservation of matter?
+Natural frequencies of a torsion system
+Why are solar panels blue, rather than black, when black absorbs more light?
+how to represent denisty operators in different basis?
+Weight of solid partially immersed in water
+Physicists who were criticised for their works but later celebrated by the people
+What should be the intuitive explanation of wave equation?
+How can humidity change in a closed room?
+Variation in spring constant with respect to the length and no. of coils
+Stacking batteries and electron flow
+Is equivalent resistance always lower if we add a resistor to a passive electronic circuit?
+Why are non-Abelian gauge theories Lorentz invariant quantum mechanically?
+How is derived the relation between capacitances when a $Y-\Delta$ transformation is applied in a capacitors network?
+Dark matter: Will Special Relativity hold?
+Why liquids in hydrostatic equilibrium stay at the same height? (open tubes)
+Is there any chance that quantum mechanics could be incorrect?
+What is Switch Contact Rating?
+The Einstein-Cartan equation as the &quot;living heart of gravity&quot;?
+What does Weinberg–Witten theorem want to express?
+Pole Mass vs. Running Mass vs. Other Running Parameters
+potential barrier scattering when particle energy equals to the barrier height
+Continuity behaviour of a wavefunction when the potential exhibits a discontinuity
+Poisson brackets for constrained system
+Why do we think there are only three generations of fundamental particles?
+Carbon 14 disintegration
+What is the difference between the photoelectric effect and secondary emission?
+Proton scattering off electrons
+Ideally black plates
+geometric ray tracing
+Rolling a ball into a cone; what should the forces overall be?
+Can gyroscope work in zero gravity?
+Relation between surface carrier density and Fermi level?
+Is plant photosynthesis more efficient than solar panels?
+mirror nuclei: accounting for the difference in mass between nuclei
+Delta-V of ion thrusters
+Path of a proton in a magnetic field
+Effective mass in Spring-with-mass/mass system
+Where is the atmospheric pressure equal to zero?
+Seeking a coordinate-free expression of the orbital period for uniform circular motion around a non-rotating point-like mass
+Fermi-Dirac Statistics
+Thermodynamics Work Done At constant pressure and charles law
+Is there any difference between fusing and smashing particles?
+Magnetic cooling and adiabatic process
+Looking for a simple example of generating unequal probabilities in QM
+Estimating the number of atom/nuclei in a single quantum dot
+Beginners Textbooks in physics
+Dumbed-down explanation how scientists know the number of atoms in the universe?
+How many electrons are there in the universe?
+Rotating platform with pulleys and stacked blocks
+Secondary constraints leads to the value of lagrange multiplier
+Electromagnetic field tensor via tensor products?
+When to use Hamiltonian vs Lagrangian?
+Does the superposition principle affect the space of quantum states?
+In a supergiant star, is the energy transport inside the star mostly convective or radiative?
+Why does the Walecka model not include pions?
+Why is there a contradiction in this Newton&#39;s equations of motion related question?
+What physical conditions would allow for this kind of perpetual seesaw
+Why is there a negative sign in front of the optical wave?
+Why does Ohm&#39;s law ignore the Lorentz force?
+Coadjoint orbits in physics
+Backwards airflow in a Venturi tube
+Pauli exclusion principle and relativity
+How can I easily measure the distance between well head and water surface continuously
+Pipe in a flowing river problem
+Do we actually measure distances in light years?
+Fluid in a rotating cylinder
+Hadamard Gate application help
+Proof of the conservation of the energy functional for the Gross-Pitaevskii equation?
+How does energy get transfered from destructive interference point to constructive one?
+Force between two current carrying wires: the general case
+Lagrangian, Kinetic &amp; Potential energy with two masses connected to three springs
+What experimental proof has been found of Einstein&#39;s theory?
+How is the number of electrons in an atom found?
+Grain boundary sliding in creep
+How to combine contributions of individual type of cone cell sensitivity to get the human luminosity function?
+Is speed of propeller-driven airplane limited by the speed of sound?
+Potential of a uniformly charged hollow sphere
+How to find the time evolution for two-component spinor?
+Why dark matter and general relativity?
+Do we see color with higher frequency first?
+Charged particle under a uniform electric field
+Invariance of Maxwell equations
+Cluster decomposition in string theory
+How does Dirac define the representative of $\{\langle\phi\frac{d}{dq}\}\psi\rangle = \langle\phi\{\frac{d}{dq}\psi\rangle\}$
+The Interior of A Nucleon
+Noether&#39;s theorem in field theory: Jacobian factor
+What are the units of color matching functions?
+How can you visualize hard axis of magnetization?
+If we have a current $I$ flowing down a wire, why must the net bound current be zero?
+Why is pale coloured skin said to absorb more UV?
+Largest size of a low gravity, Earth-like planet with Volcanoes and Earthquakes?
+Relation between 1D and 3D partition function
+From where should I start in physics?
+magnetic field of a rotating ring magnet
+Why does the light instantly disappear when we switch off the source?
+How do we know that the Law of Cooling is true?
+Maximal work from cooling a portion of water
+Calculate the approximate number of conduction electrons
+Charge present at the centroid of equilateral triangle
+Path length requirement for diffraction problem
+What is the actual meaning of &quot;a transistor moves to saturation region&quot; and what is the operation of it in NOT gate?
+E-field between inclined plates
+Only differences in chemical potential have physical meaning?
+How fast does the force of pulling a straight rope propagate along the rope?
+What is the &quot;Obscuration Factor (OBF)&quot;?
+Does the readoption of the cosmological constant apply across all models of GR?
+2s orbital wavefunction has non-zero probability at $r=0$?
+Hydrogen radial wave function infinity at $r=0$
+Dimensional Regularization of the Higgs Mass Correction
+How can the Schwarzschild radius of the universe be 13.7 billion light years?
+Understanding mechanical equilibrium
+Why is $\theta \over 2$ used for a Bloch sphere instead of $\theta$?
+Why metals fused in vacuum?
+How can a rotating cylinder produce lift?
+Can the fluid volume in a control volume change over time?
+Lagrangian for small oscillations
+Composition of Lorentz Transformations
+Question about buoyancy
+Electrical conductivity of pool water
+The velocity of air on an airfoil
+Is Dyson Sphere a stable construction?
+Would Special Relativity Predict Time Dilation of a Geostationary Satellite Compared to an Observer on Earth?
+Obtaining electric field of an uniformly charged sphere surface without using gauss law
+Blackbody radiation and emissive power
+Do photons emitted from a LED show bunching?
+What is the fringe separation in Young&#39;s double slit experiment?
+Probability of photon emission
+What exactly is regularization in QFT?
+Could dark matter be gravity leaking in time
+Conservation of angular momentum in a planetary system
+what&#39;s is secret of the football ball pattern
+Solution to the Schroodinger Equation,Morse Potential
+About generator of $SU(2)$ flavor symmetry group
+When is matrix representation of a Hermitian operator invertible?
+Particle in a one dimensional box conditions
+Why is microwave better than visible light for point to point data communication?
+Design process of directional coupler
+Vacuum Systems, Vapor Pressure, and Machine Damage
+Gravity vs. Electromagnetism Scenario
+What is displacement time series?
+Drifting Maxwellian distribution for energy
+Drying clothes with the sun&#39;s heat, without any air
+Motion in a Paul trap: $2n^{\text{th}}$ harmonic with larger amplitude than $n$th harmonic
+Do anti-photons exist?
+How do I prove that the del squared operator commutes with the angular momentum operator?
+How to calculate the force between line of charges?
+Are the electrons spin and his magnetic dipole moment unambiguously connected?
+A reliable aluminium battery that charges in a minute. What&#39;s the catch?
+Hamiltonian acting on sum operator
+Otto cycle efficiency described in pressure ratio (instead of compression ratio)
+How to repeat the Biot-Savart experiment for the direct current in a straight wire and the corresponding magnetic field without side effects?
+Index notation for a Lagrangian with second derivatives
+Is it possible to calculate the radius of star?
+Superposition and simultaneous observation
+Expanding the H and D field in orthogonal modes
+Conservation of Angular Momentum and linear velocity
+Analogies between Fraunhofer diffraction and Josephson junctions
+EM Field tensor of a point charge
+When a thermal source emits electrons how are the spins of this electrons are aligned?
+Statistical Mechanics deals with the same systems that Thermodynamics does?
+Very simply I&#39;ll probe this, how can the new evidence for quantum entanglement even be true
+when an object is lifted (at a constant velocity) shouldn&#39;t the work done on the object be zero?
+Difference between kilogram-force and kilogram
+Tracking down the locality assumption in a CHSH inequality derivation
+How did the concept of energy evolve with the years?
+Kirchoff&#39;s voltage law doesn&#39;t seem to hold in an experiment conducted with series resistor, diode and signal generator
+How is Infinitesimal coordinate transformation related to Lie derivatives?
+Why does red light travel faster than blue light?
+Why does the moment of force (aka. torque) depend on the perpendicular distance?
+Finding finite square well width and depth from transmission resonance
+Special Relativity - Distance Not Increased?
+Why does the non-linearity of the string action prohibit stretching due to strong excitations?
+Noether&#39;s theorem in classical field theory
+Distributions (generalized functions) over manifolds
+What does $\bar{x}_{\textrm{el}}$ represent?
+Does it take more effort to move against earth&#39;s rotation?
+Paper &quot;Gravitational Collapse and Space-Time Singularities&quot;, by R. Penrose
+How to treat an exercise about the rotational acceleration during a throw?
+Why magnetic field lines and force are not orthogonal with magnets?
+Landau poles in dimension &lt;4?
+Homopolar motor and Lorentz force
+What observables are indicative of BCS Cooper pair condensation?
+Is it possible to harness energy from the exothermic reaction of changes of state of matter?
+In what form does energy depart the atom?
+No Eve, we instead eat the snake and resolve the EPR dilemma
+Measurement of the energy of an atom using a cold substance
+In continuum mechanics, why is the stress vector $T=\sigma\cdot n$ not a covector?
+Electron Beam Welding equation
+Continuity Equation for Momentum
+Will the electrostatic force between two charges change if we place a metal plate between them?
+Does air speed vary in a jet engine axial flow compressor?
+Solving Poisson equation - zero padding and duplicating Green function
+How do I describe and calculate the effect of an impacting object?
+Is the strength of a muscle proportional to its cross-sectional area?
+Uncertainty relation for non-simultaneous observation
+How does vasoconstriction/vasodilation of arterioles change blood pressure?
+Interference and windows
+Coriolis force: why is pole-to-equator air flow eastly?
+Relation between pressure, velocity and area
+Understanding percentage dose-depth curves
+In what applications are lasers necessary vs. just convenient?
+Why diffraction is related to wavelength not amplitude
+Where does the energy of a light bulb come from?
+How does exciting an electron&#39;s surrounding electromagnetic field cause &#39;electron excitation&#39;?
+Reference frame of high speed rocket
+How can we test relationship between frequency and peak current of an alternating current?
+Atoms in a piece of paper?
+How do we know dark matter isn&#39;t curved spacetime?
+Electromagnetism Books and Lectures
+Accurateness of measurement of 1Amp&#232;re for the last years, especially depending from the method how to switch on the current?
+Problem about a spring which oscillates due to a external force
+Entanglement ladder algebra and quantization of entanglement
+Is it possible for a planet to be &quot;axially locked&quot;?
+Why does the minus sign in the Minkowski metric mean that nothing can move backwards in time?
+Is $0\,\mathrm{m}$ dimensionless?
+Feynman Parametrization in muon magnetic moment
+Spacetime in Loop quantum gravity
+How to construct an isomorphism between the Complexified Special Linear Lie Group and the Special Unitary Group?
+How to find angle of projection, if equation of motion of projectile is given?
+How can I create particle-in-a-box diagrams in LaTeX?
+discrepancy in theoretical and natural frequency?
+What is exactly the density of a black hole and how can it be calculated?
+How do we force a turbulent fluid to keep the input energy rate equal to energy dissipation rate?
+Why does the density matrix $\rho$ obey a wrong-signed Heisenberg equation of motion?
+Eternal black holes and Hawking radiation
+Question on a mass attached to springs(spring balances)
+Real data on pulleys
+Power dissipation across resistors in series
+What have we built? A resonant loop antenna? Rhombic?
+Can the logarithmic decrement be found from extension of spring?
+Why do nuclear weapons create a blast wave?
+Calculating charge density
+Can rocks glow in the dark?
+Does a pivot exert an additional force, normal to the centripetal force, on an object rotating about it?
+How can the &#39;choice&#39; of a photon said to be delayed?
+Derivation of Newton-Euler equations of motion
+Is liquid helium expensive because of its rarity or because of its low liquidification temperature?
+Is negative energy a consequence of gravitational energy?
+Taking photos without photons?
+Numerical solution to Schr&#246;dinger equation - eigenvalues
+Quantum theory of light
+How does a wormhole form?
+What actually is a continuous charge distribution?
+What is the energy threshhold to produce Cherenkov radiation?
+Ballentine&#39;s proof of (one half of) Stone&#39;s theorem
+Combinations of angular momentum
+Why does the bathroom become hot after a bath?
+5 sigma result proof for particle discovery
+the spring is initially at rest, calculate the maximum compression of the spring
+How to calculate angular momentum (J) in the Kerr parameter equation?
+Does light bend in a vacuum?
+Conservation of energy in rotational mechanics
+Why is the circumferential component of the magnetic field around a solenoid zero?
+Torque on puck moving on plane without friction
+Inhomogenous Schr&#246;dinger equation
+How is capacitance of a cylindrical capacitor calculated?
+Animating an Acceleration Vector - Acceleration of object on a crested path in gravitational field
+Questions on the elementary excitations in the resonating-valence-bond(RVB) states?
+How to understand the entanglement in a lattice fermion system?
+A thought experiment involving relativity
+How does a non-diffracting beam form from a converging ring of illumination?
+Is a single photon also a Maxwellian wave?
+Calculating new temperature of an object when air temperature changes
+What&#39;s the difference between on-axis and peak intensity for a Gaussian beam?
+What is the return probability for Brownian motion in three dimensions?
+At what point does force stop translating an object and start purely rotating it?
+Heisenberg XXX time evolution operator for three qubits
+Ray optics of light
+How do I determine the temperature of a fluid that was x degrees mixed with another fluid of y degrees?
+Why would the curvature in space-time attract photons which have zero mass?
+AC Electromagnets
+Connection between two Petrov classification schemes
+Why does it seem as if big vehicles &quot;attract&quot; mine when I drive close to them?
+Limits of Integration Trig, Mag Field Infinite Length Wire
+How does the Hutchinson Effect work?
+Why dimensionality of the Electric Charge varies with the spacetime dimensions?
+Atlas 2 For Mathematica. Need to calculate Riemann tensor, etc
+Throwing a basketball. What do I need to consider to hit a target?
+How to prove R value for insulation?
+Electrical breakdown due to a charge
+Fourier Transforms Related to Green&#39;s Functions
+Electromagnetic braking hypothetical situation?
+Flux Quanta in the Arahanov-Bohm effect
+What will be the temperature of a 20 by 40 cm piece off gold plated copper when sun shines on it for 5 hours?
+Free Electromagnetic field in Lorenz gauge
+Optimal &quot;Blow up&quot; Configuration
+Precisely speaking, does photon become massive or the phonon become massive, due to Higgs mechanism in superconductor?
+wave function qestions
+Electron propagation
+Why is the magnetic field stronger at the edges of a bar magnet?
+Is the Boltzmann brain problem really clearly established as a problem?
+Electric field from conductive to dielectric media
+Lagrangian formalism (demonstration)
+Using the continuity equation against gravity
+Does my green laser pointer emit three distinct frequencies, or is my measurement flawed?
+Why do thuds occur?
+About time flow
+Is shape of a black body much of a concern in physics?
+Deceleration rate of objects of different mass but the same otherwise
+Why particles don&#39;t lose mass when they radiate
+Gravitational Wave Interference
+Virtual particles and the scaling effect on valence quarks
+Does travelling light help us see past versions of an object?
+Why I hear sound from downstairs clearer than sound from upstairs?
+Does gravity affect magnetism, vice-versa, or do they &quot;ignore&quot; each other?
+What&#39;s the significance of the difference between the quantum numbers, $\ell$ and $m_{\ell}$?
+Charge loop corrections
+How can I find the potential created by spherical capacitor with dielectric material?
+details for the double slit experiment
+Are there tables or data that determine the daylight Moon&#39;s rises?
+How does the magnetic field generated from a rectangular cross-sectional current-carrying conductor differ from a circular cross-sectional conductor?
+What is the &quot;penetrability factor&quot;?
+Dielectric tensor vs. conductivity tensor in (cold) plasmas
+According to the Kirchhoff&#39;s law, what&#39;s the ratio between currents in output branches of a node?
+Is &quot;Elementary Modern Physics&quot; by Richard Weidner and Robert Sells still up to date?
+When do we see particles to be in a superposition of energy states?
+Speed of light yes or no?
+Water and steam ratio
+Adding a total time derivative term to the Lagrangian
+What is a point transformation?
+Friends I need some suggestion
+Software to calculate and visualize reciprocal lattice
+Visualizing GR spacetime distortion in 1+1D spacetime instead of 2D space
+Lagrangian formalism application on a particle falling system with air resistance
+writing wave function of a spinor having a spin component
+Is it possible to formulate a Hamiltonian for a damped system?
+Why should we want to quantize Gravity?
+Why can&#39;t a high intensity beam be injected into the LHC when the machine is empty
+Effect of Eath&#39;s rotation on a ball thrown upwards
+Orbital elevators and the Coriolis effect
+Why can&#39;t electric potential be negative?
+Calculating moment of inertia of a disk - does this reasoning work?
+Conserved quantities in the cart and pendulum problem
+Reference for the Definition of Magnetic Properties
+Intrinsic CPT phase
+Singleton representations of $SO(2, d)$?
+What is an average human&#39;s acceleration?
+Expected value, Fluid Mechanics and Momentum balance
+Tension in string and gravitational force on bob relative strength
+Clearing up confusion about orbital mechanics
+What is the physical cause that circulation on a closed surface is zero?
+How to find the force due to fluid pressure over a surface?
+Introductory quantum mechanics problem
+Explanation for: A monopole antenna must contain a resistor (or equivalent) and therefore must have 2 terminals?
+Viscosity for steam in the Reynolds number
+How does &quot;contamination&quot; through (radioactive) radiation work?
+Could satellites achieve orbit using current laser technology
+What does the behavior of the pair correlation function look like in the vicinity of the critical point?
+Frequency of gravitational waves
+Is Gravitational Lensing Wrong?
+Does this identity that applies to the metric tensor also apply to the stress-energy tensor?
+Vector representations of Lorentz transformation in terms of $E$ and $p$
+What is the difference between a magnon and a spinon?
+Kraus operator rank
+mechanics problem: rope on a fictionless table through a hole
+From String Frame to Einstein Frame for 10D supergravity
+How can electron move and yet have zero total energy?
+Speed of light in a medium as superposition of dipole radiation
+Fujikawa&#39;s method for 2+1-dimensional parity anomaly?
+If velocity is constant, how can $p = F\cdot v$ be non zero?
+2 Questions about Neutrino-Astrophysics - Majorana Masses, Freeze Out/Sterile Neutrinos
+Proof the directivity antenna formula in degrees
+Tachyonic field
+Is it possible for an inductor to have a voltage across it without any current passing through it?
+Physical Interpretation for Schwinger and Hadamard functions
+$p^4$ in radial coordinates not Hermitian
+Induced emf in stationary conductor lying in varying magnetic field
+How to derive the form of the invariant spinor inner product?
+What is the *quantum* of a field?
+Integral over a product of two Green&#39;s functions
+The unreasonable effectiveness of the partition function
+Electric force between charges in two different media
+Is entanglement a classical phenomena?
+Why viscosity is diffusive?
+Visibility of a super-massive star
+Does a capacitor ever get fully charged?
+How does the time evolution of a hydrogen atom work?
+Capillary action and its limitations
+Why are Transparent Conductors Needed so much?
+Shining light (of a particular frequency) on an insulator to make it into a conductor
+Einstein&#39;s mass-energy equivalence
+Two clocks along different worldlines
+How big is the power loss of a downwind wind turbine due to turbulence created by an upwind turbine?
+Color of objects in Yellow sun
+Why is the canonical partition function the Laplace transform of the microcanonical partition function?
+If we connect a block of p-type semiconductor only to a positive terminal, will it become positively charged?
+How to generate a Hysteresis curve using MOKE?
+Is there a force responsible for quantum entanglement?
+My python trajectory calculator for a small mass in a gravitational field - why is energy conservation violated?
+Do particles experience time relatively according to relativity?
+complex gamma function integral
+Why is the sky of the moon always dark?
+Torque direction meaning
+Unmixing of gases: What is the relevant temperature for my Entropy?
+What are some good online texts for electromagnetism?
+Relativistic Kinematics - 2-Body Particle Decay
+Can the gravitational constant be directly measured?
+Vector Problem - Resultant
+Imposing symmetries on asymmetrical dynamic systems
+Is there a horizontal event horizon on a spinning black hole?
+Electric field on a point P near a finite wire
+Was there a period of doubt in the history of the Higgs mechanism?
+Static Friction - Only thing that can accelerate a train?
+Damped oscilator - logarithmic decrement of damping
+Questions about MTW&#39;s &quot;thousand&quot; tests of the Einstein principle
+Finding displacement given time with changing acceleration
+Why the lifetime of acoustic phonons is larger than that of optical phonons?
+Finding electric power generated using heat transfer
+How to visualize the holonormic constraint $(\vec r_i - \vec r_j)^2 - c_{ij}^2$ = 0
+How deep in the ocean can a ping-pong ball go before it collapses due to pressure?
+Consideration of centrifugal force during descent
+Does a lightning strike have a physical weight?
+What (electrical) property does $\alpha$ represent with units of $\textrm{K}^{-1}$?
+Would a three wheeled vehicle be faster than a four wheeled vehicle of the same weight?
+Feynman-like diagrams for photon/electron interaction and electron recollision
+Integration over angles (volume element change)
+Right hand solenoid example
+Translation Operators
+What exactly is a kilogram-meter?
+Minimum possible Kinetic Energy of a confined electron
+What happens to gas molecules after ionization?
+Looking for $\frac{dH}{dT}$ in terms of total latent heat and the change in magnetic moment
+Covariant formulation of physical equations?
+Quantizing highly nonlinear field-theories?
+How can anti-matter annihilate matter?
+Doppler shift for a uniformly accelerating observer
+Scalar and vector defined by transformation properties
+Equation of motion for the center of mass of a rigid body
+System of point masses orbiting a center of mass
+Calculating an integral containing a commutator for the hamiltonian and spin for a one electron atom
+What is the covariant basis around a Schwarzschild black hole?
+Recoil from a photon gun
+Confusion regarding area from graph
+Subgroup of Lorentz Group Generated by Boosts
+Derivation of Archimedes&#39; principle
+Aether atmospheres
+Magnetic field and electric field induce one another forever
+How to find the amplitude of magnetic field of this plane wave
+Special Relativistic Time Dilation -- A computer in a very fast centrifuge
+Proper way to quantize the string in the light-cone gauge
+Branch cuts in two-point function
+What happens when an object is dropped from a very tall tower?
+Is it possible to order individual academic journals?
+Steady State For An Air Conditioner
+How did Lord Rayleigh find the volume fraction of argon to air?
+Change in entropy of the Universe for charging/discharging a capacitor
+Canonical ensemble, energy, heat bath
+$U(1)$ 5-dimensional Kaluza-Klein topological defects
+Cosmic string &amp; grandfather&#39;s paradox
+Florescents and radio waves
+Why do reversible processes not increase the entropy of the universe infinitesimally?
+electroweak field contribution to the space curvature in GR
+Hydrogen atom: potential well and orbit radii
+Derive vector gradient in spherical coordinates from first principles
+Quantum Entanglement
+Is my conceptual understanding pertaining to heat &amp; temperature correct?
+Given a slanted pipe
+Could any object have zero mass?
+Calculating Angular Acceleration of a Rolling Object
+Intrinsic Impedance Clarification
+Anomaly and Weyl spinors
+Which way do black hole jets spin?
+How can I carry out this force summation? Control volume involved
+Considering spin angular momentum, what is the magnetic moment of a hydrogen 1s electron, and its energy levels?
+ϕ-component of equation of moition: proving a relationship
+Do batteries provide electrons
+Induced magnetic field produces electric field and vice versa forever!
+Mode groups in an optical fiber
+Physics simulator based on conservation laws?
+Spring system - 3 DoF system and its properties while changing stiffness
+What keeps electrons in an atom from flying away or falling into the nucleus?
+Negative pressure
+Coercivity of a ferromagnetic material?
+Carnot cycle efficiency increases by which method either increase sink temp. or decrease source temp
+Oscillatory Casimir effect with a spring and repuslive forces
+Torque on a rotational cylinder in viscous fluid
+Velocity of a spacecraft in a circular orbit
+Why is the total energy of current universe conserved?
+Is there a way to calculate if a domed cylinder will balance on its dome or is top-heavy?
+Imaginary time?
+A question about the energy of turning on and off interaction adiabatically in QFT
+In the Leidenfrost effect why droplets flow upwards
+What is the conserved quantity?
+Unitary base transformation applied to continous bases
+How are the Lorentz force, Maxwell&#39;s third law and Faraday&#39;s law of induction clasically related?
+Is the difference between an event horizon and a singularity merely perspective?
+Is thinner glass more heat resistant?
+Can light travel faster?
+Viability of a Fayet Iliopoulos term in the MSSM
+When was Electromagnetically Induced Transparency first introduced?
+Angular acceleration of two rods joined in the center - did I do this right?
+Rutherford Experiment - practical and theoretical questions
+Perturbations of planetary Orbits
+Commuting with time evolution operator implies commuting with Hamiltonian
+Name for the transformation into an accelerated frame?
+Signal-to-noise ratio of the difference between two signals
+Massless boson in 2D and its (retarded) propagator
+Relationship between slit size and wavelength in diffraction
+We Don&#39;t NEED Quantum Gravity because Gravity isn&#39;t Even A Force!
+Coulombian force when the 2 charges are in different mediums
+Effect of temperature on optical rotation of sugar solution
+Photoelectric effect and work function relation
+Show that a photon cannot transmit its total energy to a free electron. Contradiction with Photoelectric effect?
+Translation Operator
+What materials are used in non thermal plasma?
+Evolution operator for time-dependent Hamiltonian
+Can we rigorously define force?
+What is an intuitive explantion for the fact that the Maxwell-Boltzmann distribution of energies is independent of mass?
+What is the correct form of heat diffusion equation taking into account temperature dependence of specific heat
+Simultaneous Decision/Motion
+What are the boundary conditions for EM waves normally incident on the interface between two dielectric media?
+Finding the distance without using time as a variable
+Force needed to push a syringe plunger: does one add force associated with downstream back-pressure to frictional plunger force?
+Is it possible that every single isotope is radioactive, and isotopes which we call stable are actually unstable but have an extremely long half-life?
+Explain an experiment: airstream between two hinged curved surfaces
+Equivalency of conditions involving angular momentum of a rolling ball hitting a wall
+Torque per unit length on infinite rotating charged cylinder
+Difference between a &quot;source dipole&quot; and a &quot;force dipole&quot;
+Calculate the mass of a Schwarzchild black hole with Komar integral
+Speed of sound of a gas mixture
+Question on open organ pipe
+Minimal vs. Non-minimal coupling in General Relativity
+How was it proven that a quantum entanglement measurement of particle A, affects properties of particle B
+Oscillation of a vertical rod supported by horizontal spring
+Two circles in uniaxial anisotropy and remanence plot?
+Which phenomenon makes the electrons revolve around the nucleus instead of crashing into it?
+What is the force on a moving charge in combined magnetic and electric fields, in general, when the magnetic field defines the z-axis?
+How does Landauer&#39;s Principle apply in quantum (and generally reversible) computing
+If I were to keep increasing the mass of particles I throw at a double slit, at what point would it stop creating an interference pattern?
+How can I find the angular and linear velocity of a 2D body that breaks into two bodies?
+Real and virtual photons in the standard model
+Mass dimensions and weak interaction
+Would a spinning, evenly charged sphere generate a magnetic field?
+Gauge invariance of Rarita-Schwinger action in curved spacetime
+Ignoring spin, what is its orbital magnetic moment of an electron in a hydrogen atom in the 2p orbital?
+Do magnetic fields cause ionisation of gases?
+What to do when finite counterterms are undetermined?
+Why is quantum entanglement considered to be an active link between particles?
+Why is orbital angular momentum quantized according to $I=\frac h{2 \pi} \sqrt{l(l+1)}$?
+Close or open circuit?
+Aren&#39;t $\phi^4$ composite operators?
+Does mass curve space?
+Circular motion and momentum
+Negative wavelength in the double-split experiment
+Would light from the Sun necessarily reach Earth after 8 minutes if the Sun was switched off?
+Why is specific impulse measured in seconds?
+What was Feynman&#39;s famous formula?
+How to specify boundary conditions as function of curvature in dynamic elastic beam pde?
+Hookes Law and Objective Stress Rates
+Gauge symmetry is not a symmetry?
+Find max height
+How is Matter Modelled in Loop Quantum Gravity?
+Is there an electric field due to current?
+Calculating the mass of a wormhole
+Meaning of &quot;vacuum state&quot;?
+Specific heat ratio range
+Kramers-Kronig relations for the electron Self-Energy Σ
+Why are we allowed to spontaneously break the Higgs field symmetry?
+Why is gravity viewed as a curvature of spacetime and not the electromagnetic force?
+Polarization vector identity in Minkowski space?
+Determinant for a coupled fluctuation Lagrangian
+Jiles Atherton Model
+Question about a car on a banked turn with no friction
+Type of spring used in recoil system
+What is a &#39;turning point&#39; in WKB and why does it fail at that point?
+How do these factors affect the free fall of objects?
+Notation - d.o.f.&#39;s for Grassmann delta functions in a SUSY field theory amplitude
+How to understand singularities in physics?
+Potential in uniform fields
+Two dimensional elastic collisions with varying angle of incident
+What is the phase of a gauge coupling?
+How is extremely low frequency (ELF) radiation collected by a submarine antenna?
+A rod on an inclined plane
+I need some help trying to convert the specific fuel consumption from imperial to metric units
+Do two photons traveling in opposite directions emit gravitational waves?
+Charge conjugation of gauge field
+Spinors and asymmetry of wave function
+2 + 1 dimensional gravity as an exactly soluble system
+Do quasiparticles have antiparticles?
+second variation of the action for 1-d lagrangian
+Does tin foil keep heat out?
+What exactly is the mass of a body? What determines it?
+Why does the gas get cold when I spray it?
+Space-time translations and Propagator
+Self-made air pump - What does it take to pump up a balloon?
+Explain the notion of light/electromagnetic waves/photons to a non-physicist
+Limitations of Redlich-Kwong equation of state
+Fire: Why is Carbon combustible and Why is Oxygen needed?
+Effect on Q factor and resonant frequency when scaling down a damped oscillator to micro / nano scales
+Pressure change in throttling &amp; flow rate reduction in a water circulation
+Linear Perturbation theory in General Relativity, what to do with products of derivatives?
+A free axis of rotation
+Conservation of energy when focusing black body radiation on another black body
+Spin in magnetic field and eigenvalues
+Radian Zeno-version paradox: Can a particle moving in the circular path reach the angular position of non-terminating decimal form radian value?
+Low-energy &quot;effective measure&quot; from superstrings?
+Help understanding the solution to a problem regarding kinetic energy of a group of point charges
+SR: constant acceleration wordline simultaneity
+Light wave crossing media and the relationship between speed, wavelength, and frequency
+Principle behind Atom Interferometry?
+Interaction rates from cross sections in a thermalized gas
+What are non-local charges?
+Is de Broglie matter wave a mass or a particle hypothesis?
+How can I measure the speed of a figure skater&#39;s spin?
+Acceleration of Simple pendulum
+Will a liquid boil quicker if it is stirred versus if it is not stirred
+Why am I getting that work it&#39;s always the same in both directions?
+Why is capacitance taught instead of elastance?
+Momentum change in collisions (Drude model)
+Could you give boundary conditions to the gravitational potential given the density distribution?
+Why is the electric field inside a solenoid tangential?
+Does spatial coupling prohibit resonances due to an external source field?
+Lower limits for steady-state black holes
+How is CNOT operation realized physically?
+How does Huygens Principle explain interference?
+Electric field inside a conductor placed in uniform electric field
+Do solar panels work forever?
+Does a heavy body move with the slightest force on a frictionless surface?
+Capacitor discharging
+Mechanical Equivalent of Heat
+Determining the neutral axis of an I-shaped cross section with dissimilar materials
+Relativity of Work
+Can Impossible Vacuum balloon be possible with this idea?
+Is teleportation possible?
+How does the Integraph work?
+Is an oscillation the same as a period?
+Anticommutator difference
+Does a normal torch emit entangled photons?
+Calculating power in fluid systems with $pQ.$
+Need derivation of a formula related to determination of moments of a object about $x$-axis and $y$-axis
+Shape of the state space under different tensor products
+Noether Current when the Lagrangian depends on second derivative of the fields
+How does surface tension enable insects to walk on water?
+Is it possible to shoot bullets in space or would the recoil of the gun be too strong?
+What is the physics in a balero toy?
+Reaction coordinate as a function of atomic positions
+Can TEM waves have constant offsets - that is, mean of non-zero in context of Poynting&#39;s theorem?
+Schrodinger field and klein gordon field
+Compact Disc Optics - Why use a linear polariser and a quarter wave plate?
+What causes these rainbow effects using a polarizing filter on an airplane?
+Photoelectric effect and variation of current?
+Prove that $e^{\frac{i\lambda}{\hbar} S_x}S_ze^{-\frac{i\lambda}{\hbar}S_x}=S_z\cos(\lambda)+S_y\sin(\lambda)$
+Is gravitation really a conservative force?
+Meaning of the Coulomb and Higgs branch for non-Lagrangian theories?
+Moment of inertia of rotating particles in center of mass frame?
+What physical effects cause materialization of a system of particles for a short time?
+commutation relations for operators in projected subspaces
+Finding Magnetic Field in loop of wire in semicircle
+Question about basic formalism of GR and the metric tensor
+Direction of friction force between two boxes
+Is there any possibility that space fabric was always there, only matter and time got created through the big bang?
+What do we mean with magnetic monopole and dipole?
+Tensor Operators
+The Solar System explosion in the Nice model
+A few questions on wave packets and uncertainty relations
+How one can write $\bar{\psi}$ in odd dimension?
+Equivalent Capacitance
+Potential Difference between 2 points in a curcuit
+Diffusion vs Gravity in water: does a dissolved ion tend to &quot;sink&quot;?
+Group representations as vectors and isomorphism between weights and matrix generators
+A lens with a variable refractive index
+Determining the force of a spring
+Energy-level choice for electron at photon emission
+Why do Lorentz invariance and Ward identities imply the structure $\Pi(k^2)(k^2\eta^{\mu\nu}-k^{\mu}k^{\nu})$ for the photon self energy?
+SR: vector field and change of reference
+What exactly is fire?
+Induced emf problem
+What would it take to cause lightning to jump between the Moon and the Earth?
+Pressure loss in a syringe
+Induced potential difference paradox
+How the Vortex containing majorana bound state is non-abelian statistics
+When are infinities okay?
+IF I touch anything at 0 volt with my hands and touch earth, will I get shock? Will charges from earth pass through me to 0 volt?
+Are there any Meson colliders?
+Moving objects using light
+Microscopic fields inside a conductor
+Osmotic Pressure vs Hydrostatics
+Path integrals and Weyl ordering in Peskin and Schroeder
+Degrees of freedom in a diatomic gas in 2-dimensions
+Significance of Reversible and Irreversible Process
+Torque on a disc?
+Newton&#39;s Principia: Astronomical prerequisites?
+Drift velocity in Silicon wafer
+How does one determine whether an object will make an EM wave refract in a qualitative way? 
+Do interaction free experiments violate Quantum Physics?
+Special relativity mirror clock experiment inconsistency
+Proof of Liouville&#39;s theorem: Relation between phase space volume and probability distribution function
+Topology of Fermi surface
+Does space between objects contract?
+Gravitational waves as information carriers
+Why are magnetic field lines perpendicular to the surface of a ferromagnetic material?
+How are shock waves related to sound, and are there equations describing its density, size, and pressure?
+Difference between Vernier constant and least count
+Why are log scales so common?
+Measurement of blueshift from Andromeda galaxy
+Is ice denser at 0K than say 253K?
+Is there any way to differentiate between a redshift caused by recessional motion vs. gravity?
+Space: a vacuous void or an entity?
+Center of mass error - calculating systematic error in change in PE
+Are the particle-wave duality and the quantum uncertainty principle united?
+Describing a single photon with creation and annihilation operators
+Non-complex proof that the electric and magnetic fields are perpendicular in a plane wave
+Resolution of force vectors
+What distance does one travels in his lifetime?
+Stern Gerlach with spin in opposite directions
+Does the rate of heat dissipation slow as the temperature differential between the heated object and the surrounding environment decreases?
+How does the Super-Kamiokande experiment falsify SU(5)?
+Why is it possible to define a potential difference in a wire that carries a steady current?
+Why does the &quot;counting rule&quot; of band theory fail to predict the conduction properties of some materials?
+Maximum Penetration Depth for Ultrasound
+Proton creation
+How to find a metric of a general observer?
+Can anything other than recessional motion cause a redshift?
+Induced EMF question. Not sure what I&#39;m doing wrong.
+Teach me Wick&#39;s theorem the honest way
+Quantum harmonic ocillator and the mean energy U(T)
+How can I learn about elastic bodies?
+Measured voltage on coil
+Why does the molar conductivity decrease with increasing charge density?
+Winding number for SSH model
+Prove that $(e^{i\lambda A})^\dagger=e^{-i\lambda A^\dagger}$
+How does the Lorentz force work?
+Can All 4-D column matrices be given as tensor product of 2-D column matrices?
+Would you be able to see yourself in a mirror in front of you as you two are in a room traveling at the speed of light?
+Group theoretic way to find charges after SSB
+Why are some surfaces slippery?
+Is there experimental evidence supporting the equivalence principle between different particles?
+$N&gt;2$ gravitating masses can never reach equilibrium
+Does a static electric field act continuously?
+Water clock in ancient time
+Space and time variant? But together invariant?
+Does the sun have a black hole inside of it?
+Why is it hard to detect a black hole
+Is there a map which shows all the black holes in our galaxy?
+Why do I different values compared to my theoretical time?
+What is the correct quantization of Hamiltonians of the form $H=x&#183;p$ whose naive quantization is not Hermitian?
+Is the speed of light affected by all mediums it travels in?
+Who foots the (magnetic) energy bill?
+Would time dilation cause a planet to rotate?
+Stair well descent
+Discovery of spin-3 particle at LHCb
+Does a photon travel in all directions?
+Metric and the Lagrangian
+How does flux tubes between quarks bind them together?
+ Why will clay, when heated to high temperatures,  harden and become waterproof?
+How can we justify dropping the absolute time hypothesis?
+Dirac quantization condition for magnetic monopoles how is obtained?
+Does big bang have really any justification while we are living within a huge chaos?
+Self Stirring Boiling Liquid
+Before Einstein came up with General Relativity, were there serious reasons to doubt Newton&#39;s theory?
+What is the next step in math education after taking the last undergrad math course?
+Formation of the event horizon seems impossible with singularity inside seems impossible
+What properties does the vacuum have?
+Is dark matter moving faster than light?
+Modelling the diffusion of gas in a container with non uniform temperature
+$U(1)$ connection and spacetime basis $e^{\mu}$
+Simplest way to analytically determine whether a claimed heat transfer process obeys the second law of thermodynamics?
+Uniform Electric Field
+What is the exact physics behind sonic levitation
+Simple estimation of the critical temperature of water
+A question on intermediate step in deriving gravitational anomaly by Fujikawa&#39;s method
+Product of deltas in kinetic second quantization hamiltonian
+Gauge transformation of Lagrangian
+A question about causality and Quantum Field Theory from improper Lorentz transformation
+What is wrong with the Bohr model?
+$\mathrm{SU}(2)$ axis and angle representation
+Does a force being applied in an ideal case to an object of infinite mass where there is no friction always result in an acceleration?
+Why do the high curvature bends in CFLs have their phosphor coating erode?
+Topological theta term as a topological quantum field theory?
+How to calculate the photoelectric effect with photon efficiency?
+Why do we use microwaves in microwave oven?
+Particles interacting with distance invariant force
+3D device simulation of diode (static)
+Strain effects on conduction band edge in k.p theory
+Why does Air Pressure not Matter in Phase Equilibrium?
+Roughness of the Surface and the time that a toy hovercraft hovers?
+Is coherent light required for interference in Young&#39;s double slit experiment?
+Why the center of our galaxy doesn&#39;t absorb us?
+why a charge never converted to energy as it work on other charges by displacing them various times?
+How much does barometric pressure change over minutes?
+Compute distance between planes in a crystal
+Is there a mistake in a QFT textbook?
+Why CAN we see the new moon at night?
+Trying to modify the Tsiolkovsky rocket equation for the real world
+Electrostatics and tv screens
+Relational Interpretation of Quantum Mechanics and Universal Wave Function
+Fock representation of a electromagnetic wave
+Rocket Altitude Calculation
+Does (it make sense to say that ) the universe has a center?
+Why does a field-effect transistor with wrap-around gate work at all?
+Definition of &quot;nonlinear&quot; in the context of perturbation of gravity
+Magnetic Susceptibility
+What is the temperature dependence of the critical current in weak links?
+How to calculate the expectation value of position/momentum using path integrals?
+How to get rotational speed after disk-disk collision with friction?
+The equivalence between Heisenberg and Schroedinger pictures
+Magnetic force between two point charges
+Electric potential energy and signs
+Big knot in my head, please help. (Nuclear fission and binding energy)
+Why subwavelength objects can not be seen with optical microscope?
+Unitarity and measurement
+Does the microgravity environment in highly elliptical orbits differ from circular orbits?
+How is potential energy actually stored in a steel spring at the atomic level?
+Why does the coefficient of performance need to be calculated with $W + Q$?
+Twin paradox...what happens to the ship?
+Electricity in a Lightbulb
+Is there a maximum frames per second (FPS)?
+Bragg diffraction and lattice planes
+Does radar distance depend on the future of the observer in special relativity?
+How does Zeno of Elea&#39;s argument on &quot;motion&quot; make sense?
+What is the Correlation Between Solar Wind Velocity/Density and Sunspot Count?
+Relationship between temperature and wavelength?
+Speed of light and virtual particles
+Difference between quantum numbers j and m and the four others
+Why potential energy of external force on particle attached to spring is equal to full force multiplied by full displacement?
+Charge density of an atomic orbital
+Liquids that change refractive index with magnetic fields
+Good introductory papers and books on laser physics and pulsed lasers
+Static electricty and fields inside of the conductor?
+LArTPC muon sign determination
+Why should Conservative forces have their curl equal to zero?(intuition)
+Every Galilean transformation can be written as the composition of rotation, translation, and uniform motion
+Infinite Resistive lattice problem
+Deriving the Lorentz factor
+How does electrostatic force affect electronic devices?
+Are black holes an infinite source of energy?
+What is the direction of the magnetic vector potential in an electromagnetic plane wave?
+Why is there a voltage drop across a superconducting inductor?
+Why doesn&#39;t light affect a compass?
+Momentum of stationary electron in a curl free vector potential
+Magnetic flux of a loop due to another loop
+Condition on $U_{eff}$ for a mass to get trapped in orbit around a heavier mass
+Covariance of the Dirac Equation
+Faraday induction for seawater flow system
+In a Stern-Gerlach measurement, does passing particles through the B field influence their spin state?
+Formulating a symplectic integrator for a non-local Hamiltonian
+How can we prove this system is in a stationary state?
+Special relativity - twin paradox explored
+Legendre transform for non-local Lagrangians, or Hamiltonian of non-local Lagrangian and their properties
+Geodesic equation from Euler - Lagrange
+Ricci tensor of Metric black holes with nils and solv geometries of Horizon
+An inconsistency in Hamiltonian formulation for non-local Lagrangian: what am I doing wrong?
+Perpendicular Current Carrying Wires Forces?
+Determine the coefficient of static friction of a box
+About recent experimental evidence of Majorana edge states in topological superconductors
+What is the relationship and difference between BHP and Torque?
+Visualise the sound intensity
+Charge operator for Dirac spinor
+Why is tree-level interaction between neutral scalar and photons non-renormalizable?
+If a vehicle (bus, train) rapidly stops (or accelerates, or turns), why don&#39;t our hair or clothes move from the inertial force?
+What are the mathematical models for force, acceleration and velocity?
+How can one reasonably theoretically model polycrystalline materials?
+Is there a friction or retarding force in creating spacetime?
+Electric Field At Centre Of Non Uniform Ring
+Is density functional theory a mean-field theory?
+Question about Hartle and Hawking&#39;s universal wavefunction?
+When the Cosmic Microwave Background radiation cools, where does the energy go?
+In circular motion, with a constant distance, why does the mass of the orbitting object have no effect on its revolution at all?
+Why do my ice cubes stick together?
+Metal Refractive index
+Does the universe follow a general physical and computational principle of evolution?
+Circular motion - is average velocity enough to tell?
+Propagation speed of photons when taking higher-order QFT corrections into account
+Why don&#39;t quantum effects invalidate the speed of light barrier?
+Is the universe a quantum computer - is light speed barrier a computational constraint
+Why can we ignore self energy?
+Laser diode spectrum vs LED spectrum, why so much difference in broadness?
+Why can&#39;t light escape a blackhole?
+Magnetic field of cylinder equal to two current loops?
+Detailed balance condition for coupled Langevin equation
+How to calculate the expectation value of position vector?
+Dielectric slab counter-intuitive formula?
+Mass-to-light ratio and rotation curve from brightness profile
+What does inflationary theory explain which quantum entanglement cannot?
+If the Earth is a good conductor of electricity, why don&#39;t people get electrocuted every time they touch the Earth?
+Do Sidebands mean the frequency of an AM radio wave is not constant?
+One dimensional scattering cross section
+How to obtain band dispersion from a band structure diagram?
+Analytic continuation of imaginary time Greens function in the time domain
+Is it really possible to &quot;discover&quot; the speed of light with a microwave oven?
+Electromagnetic boundary conditions for modelling symmetrical geometry
+Reference frequency
+Force and initial height of thrown object
+Is an atom charged after undergoing beta emission?
+Does the W boson in beta decay affect the gravity generated by the system?
+Curvature of Weyl-rescaled metric from curvature of original metric
+What&#39;s up with my whipped cream?
+Cancelling internal forces/moments term when deriving inertial matrix
+Travelling through a worm hole
+Why does this proof show the gluon propagator comes from the first two terms?
+Does a momentum-independent interaction not renormalize mass?
+Why does a thermoelectric generator need both p and n elements?
+What is the Kerr factor for Sagittarius A*?
+Problem in understanding the assumption made to find the vector-field in an arbitrary-shaped metal
+Frequency of rotating coil
+Why do we have to choose a gauge to quantize a gauge theory?
+Quantum anharmonic ocscillator $E_0(\lambda)$ curve or table
+The g-force of common objects hitting the floor
+Isn&#39;t the Coulomb interaction a photon interaction between two charges?
+Equivalence of delta functions when calculating decay rate
+What is the difference in the behaviour of the commutator in a motor between DC and AC?
+plane wave state used for scattering calculation
+Violently shaking object
+what is difference between homogeneous vs isotropic material?
+Relationship between plasmon resonance frequency and radius for small nanoparticles
+Form of the S matrix for interacting scalar field
+Waves on a guitar string
+Black Hole singularity in Loop Quantum Gravity
+How much of the universes mass is bound up in photons traveling between stars?
+EMF in circuits help?
+Unit consistency
+What&#39;s the maximum pressure from an airborne ultrasound transducer?
+Force and lions
+Understanding wave packets, in particular matter waves, dispersion and point particles
+Is this the correct way to I combine multiple interdependant pressure readings?
+What happens to a body, initially at 300K, kept in isolated space? Will it&#39;s temperature drop to 0k?
+Why is the pressure inside a soap bubble higher than outside?
+Beat frequency for 3 waves
+Fiber optics with broadband, incoherent light
+Cumulative Aberrations of Two or More Lenses
+Angular velocity formula for a particle?
+Quantum Gravity Singularity Question?
+Why does the $\Lambda\mathrm{CDM}$ model end up a cold de Sitter space?
+How to accurately mark with arrows an electric circuit
+Why collide a moving particle with a particle at rest, rather than two moving particles?
+Vacuum has zero spin in Dirac theory
+How does light oscillate?
+What criterion did Abbe use?
+What algebraic structure does the collection of all physical quantities form?
+Quantum simple harmonic oscillator interpretation
+What happens if a wind mill rotates in opposite direction?
+Does a negative and a positive charged body repel vs. attract a suspended negative charged ball with the same strength?
+Difference between a light wave in space and a wave in a pond
+Chi Square Minimization
+$\nabla^{\mu}\nabla_{\mu}$ in general relativity
+Is the electron&#39;s magnetic dipole moment influenced by the measurement method?
+Uniqueness or multiplicity of ADM masses for spacetime manifolds with more than one &quot;end&quot;?
+Size of hydrogenic atoms
+What are the reactions that take place inside battery at the quantum level?
+What will be the final temperature of water when heating at a a rate 10J/s?
+Is it possible to make an electromagnetic shield?
+Is this the reason why acceleration is said absolute?
+Luminance from multiple light sources
+Do physicists theorize an origin to the big bang?
+Is there a black hole in the centre of the Milky Way?
+Is a big bang capable of producing infinite outcomes?
+Once I calculate the Riemann curvature tensor, what do I do with it?
+How to connect these two formulations regarding the need for a density matrix in quantum mechanics?
+How do I derive the Lorentz contraction from the invariant interval?
+Intrinsic structure of electron
+Galilean Relativity is already included in Newton&#39;s Laws?
+First principle band structure calculation
+Thermodynamics thought experiment
+Can the Unruh effect be confirmed by the LHC?
+Converting $F^2$ to $C^2$
+nuclear physics- Energetics and Mechanics of Nuclear Reaction Homework
+In circular motion, what&#39;s preventing me from calculating the circumference of the circle, dividing it by time to find the speed of the object?
+What exactly is heat?
+spinning a water bottle quickly
+Using Maxwell&#39;s demon alongside quantum mechanics to contradict 2nd law of thermodynamics
+I want to know why light even moves at all.
+Are nuclear processes the only processes that release more energy than is input?
+Tidal tails of galaxies after collision
+Translation of the Mechanique analytique
+Electric field in a hollow object
+Ideal chain / entropic spring - what is the *microscopic* force?
+Physics involved in the DNA-structure discovery
+Is gravitational time dilation the same for an object at $x$ radii from a black hole no matter what size the black hole is?
+Why are the proper time and the proper length not defined in the same frame of reference?
+Potential Difference of a wire?
+COP of Stirling engine
+Is it possible to directly pump a laser using sunlight?
+Is $E=mc^2$ false?
+Could this model have soliton solutions?
+Topological invariant for interacting systems using single particle green functions?
+What are these wavish patterns around atoms on microscopic images?
+How to solve infinite square well with exponential solution (of oscillatory type)?
+Why is voltage added when batteries are connected in series but not in parallel?
+Value of Planck scale
+Does anyone take the Wightman axioms seriously?
+Figuring out the time period of an Atwood system
+Final charges on Capacitors connected in a curcuit
+Why does band gap form for Silicon?
+Power spectrum calculation for simple inflaton potential
+Poles for a particle scattered in a delta potential
+What happens if the big bang occurs once again?
+Locally flat coordinate and Locally inertial frame
+Rindler and Minkowski space future/past infinity
+Derivation of Faraday&#39;s law using Lorentz force?
+Water as heat source in a heat pump
+Vertex of gauge boson interaction in an arbitrary gauge
+In $1$-dimensional space, how would the gravity generated by an electron affect a photon moving away from the electron if the photon can’t slow down?
+Is purple in visible light?
+Does a negative line tension in a 3-fluid immiscible interface make sense?
+Accuracy of quantum mechanical algorithms
+Can an Atom be negatively as well as positively charged simultaneously?
+The demise of the Tacoma Narrows bridge was casused by aeroelastic flutter. But isn&#39;t that just a special case of resonance?
+What is actually a conservation law?
+Combination of current sources
+A reference frame is any coordinate system or just a set of Cartesian axes?
+Chern Simons theory
+Is the interference quantum mechanical superposition the same as entanglement?
+Heat flow in a hollow cylinder
+Moment Of Inertia About Centre of Mass
+What is $E$ in the Planck-Einstein relation?
+Is water considered a substance with low friction or high friction?
+problem on electromagnetic induction and newtonian physics
+Could I break the sound barrier using circular motion? (And potentially create a sonic boom?)
+Ernst potential from Kaluza-Klein reduction of axisymmetric space-time
+Energy for burning things!
+Altarelli-Parisi Splitting Function $P_{qq}(z)$ vanishing integral if and only if quark flavour sum rules and equivalence
+Error calculation in parallel resistances
+Orthogonality preservation vs. preparing a state
+Experimental determination of $\Lambda_{QCD}$
+Comparison between isobaric, isothermal and adiabatic expansion
+How come a current sheet of $J_s = J_0 \hat{x}$ produces plane wave solution?
+Recursion relations and stability analysis
+Can sound frequency create more ideal conditions for fire?
+Currents induced by rotation of a coil about magnetic field lines
+Tension on a string
+Optics - Photodiodes - minimum photon energy that a photodiode will be sensitive to
+What is the Hermitian adjoint of operator $\hat{K}\psi = \psi^*$?
+Wave on a guitar string, differential equation
+Quantum to classical mapping: quantum criticality and path integral Monte Carlo
+How to derive this equation?
+Connection between the cosmological constant $\Lambda$ and the cutoff scale $\Lambda$
+Adjoint of momentum operator
+Difference between Speed and Velocity
+Why does a magnetic field raise the ground state energy of an electrical particle?
+Valence bond wavefunction of nitrogen
+The potential profile of two batteries in series
+The semi-empirical formula and $E=mc^2$
+What does 400kW(e) mean?
+Origin of the quark condensate VEV
+Energy transfer using quantum entanglement
+How many are the points which are $n$th nearest to a certain point in a hexagonal lattice
+$n^\text{th}$ operation of creation and annihilation operators on vacuum
+Flux from cube: Relation between the vector field to that of the opposite side
+Find out gradient of electric potential at ${\bf r}$ created by eletric dipole of moment ${\bf p}$
+Has this retrocausality experiment been done?
+Stress testing Quantum Uncertainty, a multi Phase Question
+Right hand rule confusion
+How to pull out the momentum operator?
+How to relate speed of sound with relative humidity?
+Why doesn&#39;t an airplane simply go up in the air and stay there?
+How to derive (the dimensionless coefficient in front of) the moment of inertia for common shapes?
+How to calculate flux density in a toroidal CT that has an electrical line pass through the center?
+Does the Fermi level change under change of temperature, voltage or other conditions?
+In an electron-positron annihilation, in what direction are the photons released?
+Reaction Energy
+Mass of NGC 1097 Galaxy
+Moving electric charges
+Diffraction in Circle of light?
+Elastic collision of point particle and rod
+How high could i jump if I weighed only half as much?
+Do free electrons really not interact with photons?
+Why does this resource say that the Schrodinger Equation can be derived?
+Diffraction and $k$-space
+Ball Rolling Down An Inclined Plane - Where does the torque come from?
+Pulling on a weakened rope - where will it tear?
+How does temperature affect a semiconductor band gap?
+Understanding basic quantum mechanics notation
+Do photons lose energy due to gravitational redshift? If so, where does the lost energy go?
+Why do lines in atomic spectra have thickness? (Bohr&#39;s Model)
+Two-state Hamiltonian matrix in basis
+Antimatter universe and Noether&#39;s theorem
+Considerations and questions for a DIY heat pipe; how to choose a working fluid?
+Symmetries of the action of the free classical Klein-Gordon field
+Workdone in an equipotential surface is zero?
+Can Black Holes Maintain Data Entropy When Formed By a Data Storage System?
+Reference frames are frame fields on spacetime?
+Since Earth spins, would an aircraft travelling opposite to direction of Earth spin take less time?
+Why does Stephen Hawking say black holes don&#39;t exist?
+Is there an implicit assumption that each quantum well contains a single electron only?
+Uniformity in a solenoid
+Are The Quantum Assumptions of MBT Theory Correct?
+How to calculate the resultant movement of a superposition of harmonic oscillators?
+What is the &quot;life time&quot; of a trapped electron?
+Description of charged sphere with Heaviside function in cylindrical coordinates
+Moment of inertia of cylinder
+Orifice Jet Flow experiment
+Why is the lyman alpha line asymmetric at high redshift?
+Why do two connected 1.5-volt batteries become a 3- volt battery?
+Starter&#39;s book on Quantum Mechanics (more general and simple books than full QM textbooks)
+Laser tattoo removal
+Force between two finite parallel current carrying wires
+Back EMF &amp; Current, how can we make the current $I$ stable?
+Metric in Lagrangian and the minimum total potential energy principle
+What does the &quot;T&quot; stand for in T-duality?
+Help with a couple of materials science questions
+Does an aircraft hover at a constant acceleration or varied acceleration?
+Gravity - What happens when two objects of unequal masses fall freely towards the ground? (Revisited)
+Is the change in kinetic energy of a particle frame independent?
+Model of scattering in wet things
+Can someone explain diamagnetism in plasma?
+Using the optical theorem to calculate the imaginary part of a loop diagram
+Distinguishable, Indistinguishable Paramagnetic Ideal Gas
+The Electric Quadrupole
+Calculating imaginary part of a loop diagram using cutting rules for phi^4 theory
+Experimental evidence for Z boson coupling to right handed fermions
+Calculating the torque at a point when a motor is stopped?
+Expression for Atmospheric Pressure with Altitude, including Tidal Forces
+squared position dependent electric field
+Do any, all, or no adjustments to standard model change the Weinberg angle or it’s relation to masses or coupling constants?
+Torque wrench units
+Why does a laser beam diverge?
+How does Ohm&#39;s law relate to transferring energy?
+Entanglement entropy in (1+1)d field theory with dynamical critical exponent $z&gt;1$
+How is Magnetic force on a current carrying conductor $Blb$
+Using nuclear bombs to detect near earth orbit objects
+Home experiments to measure the RPM of a pedestal fan without special equipment?
+Position space wave function of an electron
+Opacity/Transparency of Conductive Meshes to Charged Particles (Electrons/Ions)
+Big Bang...or...Everywhere Stretch?
+Newtons 3rd law, on two opposing discs?
+How does the photon differentiate between events?
+Why is a substrate needed in growing GaN?
+Is acceleration due to gravity constant?
+why is the magnetic field circular
+Interpretation of Mass Continuity Equation in MHD
+What is the fastest way to heat my car?
+Does radiating heat to outer space through the atmospheric transparency window have any impact on heat loss?
+How do probabilities emerge in the many-worlds interpretation?
+Why does this capillary action generator not work?
+Normal force, work and conservativity
+How does humidity affect the path of a bullet?
+Bending of space vs. bending of a body - which is larger, and by what factor?
+Relativity asymmetry?
+Conceptualising the switch from discrete molecules to the continuum (fluid dynamics)
+How can a magnet have a greater magnetic field strength than a bigger, heavier and more powerful magnet made of the exact same material?
+What is the limit for the size of a galaxy?
+is there any molecular transition which emits a photon in certain direction
+What is the mechanism behind the wave - particle duality
+Thermodynamics phase change question
+Expanding universe and speed of light
+Electric Dipole force exerted by a charged wire on a dipole
+Using a circuit to make a magnetic balance to weigh objects
+What&#39;s the degree of freedom of this kind of matrix?
+Thermodynamics and Axioms and the like
+How can 99% empty matter have solidity?
+Finding the acceleration of a mass/pulley system without knowing the direction of the displacement
+Gears in contact?
+Decay Feynman diagram
+Magnetic scalar potential far above a magnetic film
+Why is $\int_{s} \mathbf{h}\cdot \mathbf{n} da = - \dfrac{dQ}{dt}$ &amp; not $\int_{s} \mathbf{h} \cdot\mathbf{n} da = - \dfrac{dQ}{dt} .{dt}$?
+Could a long carbon nanotube be broken by hand?
+Physical interpretation of applying a unitary operator to a state
+Books on cosmology
+How quickly should a fluid come to hydrostatic equilibrium?
+How is a particle observed in the double slit experiment?
+Is the Wikipedia version of the Heisenberg equation of motion correct?
+Conservation of Sea water Vs Conservation of Matter
+Why is the inner product between divergence-free current$\vec{J}$, (satisfied $\nabla\cdot\vec{J}=0$) and a gradient field$\nabla \varphi$ zero?
+Why are planets in unstable equilibrium in a stable orbit
+Can we explain Newton&#39;s first law mathematically?
+How to reconstruct the dependence of the potential from a coordinate?
+How to apply the Relation between net acceleration and time in this case?
+A level 9702/11/o/n/14 question 26 (about interference of sound wave)
+Why does $F=ma$? Is there a straightforward reason?
+Does energy conservation not hold in fission and fusion processes?
+Why do we form cosmological theories based on old data?
+Mass flux across a volume
+Why do things slow down when you move faster, rather than speed up?
+magnetic field due to current in a wire using Biot-Savart&#39;s law
+Why is black the best emitter?
+Why is the prospective new kilogram standard a sphere?
+Air leaking out of a tire
+Does doping silicon affect its coefficient of thermal expansion (CTE)?
+Finding final velocity in inelastic collision
+Thought experiment: Tethered galaxies - to the extreme
+Time evolution of generalized angular momentum operator
+What is the source of energy in this system? (resonance realated)
+What should we do If we wanted to increase the angular velocity of a planet?
+X-ray background radiation
+What is the Philosophy Behind Relational Quantum Mechanics?
+Singlet state and it&#39;s expectation value
+Deriving an Euler Equation
+Wannier functions on a ring
+Variable Gear System
+Conservation of Angular Momentum, as related to a flywheel
+Mass-Spring system on an accelerating jet
+What are the unitary operators for various transformation?
+Calculating $\mathrm{Tr}[\log \Delta_F]$
+Where do sound waves go after being heard?
+How does the divergence theorem justify the integral form of the continuity equation?
+How can I physically interpret voltage and current?
+Does photon polarization take place without scattering processes?
+How do I figure out the momentum of a water balloon when it reaches the person I am throwing it at?
+How much magnetic field will be required to levitate a human?
+What does the continuum hypothesis of fluid mechanics mean?
+How come that an Infinite universe will collapse under gravity?
+Pressure as the magnitude of the reaction force
+Do the laws of physics evolve?
+Applicability of perturbation theory
+Focusing and collimating laser light on a table top scale
+If gravitational waves exist are they technically just another form of light/electromagnetic wave?
+Could laser speckle patterns be used in diagnosing vision defects?
+Free parameters in the Standard Model
+Force due to combination of free space and dielectric
+How is the field of a non-moving charge static if field changes propagate only at the speed of light?
+The Coefficient of Restitution of a bouncing ball
+In general, can a Lagrangian density depend on space-time explicitly?
+What is the function type of the generalized momentum?
+What is the particle distribution in Saturn&#39;s Ring System?
+Is it possible to eliminate Van der Waals interactions?
+Does a nonzero Poynting vector mean that there is propagation of energy?
+The concept of displacement in definition of work
+How do I calculate a Feynman diagram with one loop?
+Is a vector and a unit vector dimensionless
+Continuity equation in fluid mechanics
+What does it mean &quot;Hawking radiation is in a pure state&quot;?
+Can an electron borrow momentum from its field?
+Structure factor of crystals (X-ray crystallography)
+Could gravitational waves and electromagnetic waves/light be the same thing?
+When (or what is the meaning of) $I \propto E^2$?
+Potential Energy in modified Atwood Machine
+spooky nonlocal communication, or bad abstract?
+What causes the specific pattern of sparkly light from a laser pointer
+Is the lay explanation of the equivalence principle wrong?
+$D$-brane and 5th dimensions
+Acceleration due to Gravity: Free Fall
+How can I decrease the volume of a sound wave?
+Integration measure
+Is the Mass flow rate (Mass flux) a scalar quantity?
+Does Bell&#39;s theorem sort out local field theories?
+What is the difference between stress and pressure?
+Does the velocity vector always point in the same direction as the momentum vector?
+Rate of Dripping of tube
+Which of the following has higher resistance - milliammeter or ammeter?
+How can matter reach the singularity of a black hole if time stops at the event horizon?
+conducting hollow sphere in magnetic monopole
+Does the electric force on a charged particle in a uniform electric field increase?
+Symmetries of a Uniform Magnetic Field
+Viscosity calculation of a rarefied gas
+Reciprocal Lattice of a non-bravais lattice
+Why is the bottom part of a candle flame blue?
+How to compute speed without knowing mass or charge values?
+Super-luminal separation
+Ball rolling on half-pipe
+Field in a toroid
+Could the same symmetry be finetuning both the Higgs mass and the inflaton&#39;s interactions?
+What is the definition of parity conservation?
+Does tea stay hotter with the milk in it?
+Cooper instability assuming triplet pairing
+How does the Luminosity Function relate to the tristimulus sensitivity function?
+Wave equations for reflected waves in standing wave calculations, when the end is fixed and when it is free?
+Given that matter cannot escape a black hole, how did the big bang produce the universe we see today?
+How does many-worlds interpretation make measurement unitary?
+Can you put a magnetic ball into a hollow magnetic sphere?
+Sufficient conditions for the energy to be not conserved?
+How do bathroom scales measure body fat percent?
+Detecting absolute motion inside a box
+Magnetic field by a solenoid?
+Is a nuclear bomb in some sense a bullet travelling at the speed of light, but along time rather than along space?
+How is it possible the universe expanded faster than the speed of light during inflation?
+Firewall solution for black hole paradox and creation of black event horizon
+Difference between directional and omnidirectional transmission or reception?
+Altitude altimeter application
+Can we say an atom is ferromagnetic?
+Quantum circuit equivalent of quantum pseudo-telepathy game
+Why isn&#39;t jumping against a wall an elastic collision?
+Entropy $S$ for canonical (NVT) and isobaric (NPT) ensemble
+Centripetal force on a charged particle in a uniform electric field?
+Understanding the Quantum Vacuum State
+Does car tire pressure change with weight of car load?
+Is there a normal downward force here?
+If two observers pass each other in opposite directions at $.5c$ what would effect on each others clocks be?
+Minimum Uncertainty Wavepackets
+The square in the Newton&#39;s law of universal gravitation is really a square?
+Vector decomposition validity
+Centre of Mass and tangential velocity star and planet
+Anomaly for Majorana fermion?
+How can be effect of electric and magnetic fields on the motion of a particle be distinguished?
+beta minus decay: expression for maximum electron energy
+Thermodynamic Internal Energy Reference States
+Can Tension between two blocks on a horizontal plane be discovered in these conditions?
+Fluctuations of an interface with hammock potential
+Cosmological constant theories
+Table of matrix elements of powers of r for radial functions in H atom
+A question on the functional dependence of the Lagrangian density
+Is it possible to block light pollution?
+How can I add a sound wave on top of an existing one, without harming the original&#39;s loudness?
+How can I add two sound waves without reaching distortion - always keep them under a certain value?
+Where can I learn about Motors and Generators?
+Using the Fourier transform to find the natural frequencies of coupled oscillators
+Why do i get a shock if i touch a live wire and my feets are on ground?
+movement of particles in electric field
+Engravings in &quot;Wandering the Immeasurable&quot; sculpture outside the CERN globe?
+Calculate orbit height from tangential velocity
+Why does measuring the spin of an entangled particle cause it to become unentangle?
+The effect of multiple Alcubierre rings
+Basic question about Magnetism and Right hand rule?
+How small does sand have to be to get wet?
+How to use the first law of thermodynamics for simple mechanical systems?
+Searl effect generator simulation
+Repelling a weak permanent magnet with an electromagnet
+Magnetic susceptibility in ising model as magnetization change
+How to build a MOKE (magneto-optic Kerr effect) magnetometer at home?
+Significance of colours in photoelasticity
+Magnification in compound microscope
+Electric field in space created by intersection of spheres of charge
+Why do we use Fourier transforms in QFT?
+Measuring electrical conductance (resistance) of ice and water
+Correct tetrad index notation
+Rayleigh-Taylor Instability dependence on acceleration direction
+Is it theoretically possible to reach 0 kelvin?
+Neutrino cc interaction potential calculation field theoretically
+On the definition of the compressibility`
+Calculating jerk vs Fitts law for smoothness
+Eigenvalues of the radial Schr&#246;dinger equation on a finite integration interval
+Tangent and Normal accelerations position estimation
+Biot-Savart Law Clarification
+Momentum (apparently) not conserved in one of my class&#39; experiments
+Pressure and density using a general Lagrangian
+Do off axis sources produces the same diffraction pattern as on axis sources?
+Identify for $f(\infty)+f(-\infty)$ in quantum field theory
+Electrical eddy current visualization or simulation
+Wait... why exactly does farady&#39;s ice pail experiment prove Gauss&#39;s law?
+Is it correct to use $P=\large\frac{V^2}{R}$ for AC circuits?
+Probability of spontaneous Boltzmann brain formation
+How does the specific resistance / conductivity changes, when melting metals?
+White Holes and Eternal Black Holes
+How can a cable pass signal
+Acceleration of Rain drop
+reactions in molecular dynamics simulations
+Galerkin-type weak formulation for electrokinetics
+What is the physical basis behind burnt calories estimates?
+In the stern-Gerlach experiement how do we know that the magnets don&#39;t change orientation of the electrons to up or down?
+Why does weak equivalence principle say gravity is equivalent to acceleration?
+Time reversal operator in tight-binding model with second quantization form
+Dependence of streamlined flow on viscosity
+How to prove the Bose enhancement factor $(1+f)$ and the Pauli blocking factor $(1-f)$ in Boltzmann equation?
+Can single maximal fraction be increased by one-party local operation?
+Why does the Karnaugh map use gray code and not binary?
+Neumann Green&#39;s function inside semi-infinite conductor
+Gradient and curl of a field in polar coordinates
+Is the center of the universe in another dimension?
+Feynman Diagram in QED non relativistic limit
+Does a magnetic field sustain a current in a loop?
+Why temperature of liquid drops after spraying thru a nozzle?
+Could gravity be repulsive at short distances?
+Why does a bottle shrink when you pour hot water in it?
+Geometry of Hamilton-Jacobi Equation
+What is the area in Faraday&#39;s law if we have only a piece of metal moving in a magnetic field?
+Determining the velocity function for a particle on a rough inclined plane
+Does a time-varying intensity contribute to the photoelectric effect?
+Avoid dependent equations when applying Kirchoff&#39;s Laws
+Reunion condition in the Twin Paradox
+What to measure for cylinder stiffness/compressibility?
+Does a conductor need to touch the battery terminal for electric field to be set up inside it?
+What is the difference between these two equation dealing with time dilation?
+Why is the potential energy for a body raised up by a height negative?
+Need help with physics derivation regarding RF accelerating cavities
+Two bodies of equal mass thrown from a height-Practical physics question
+Lattice geometry and dispersion relation
+Noether Theorem and Energy conservation in classical mechanics
+Physics without time
+Background gamma radiation
+Tired light red shift hypothesis
+Redshift of supernova light curve
+What kind of free energy do we use for a superconductor in a magnetic field?
+Error in radius squared
+A draft makes people feel cold. How can that be measured?
+Correct way to do a Thomas-Fermi approximation for cold gases
+How to solve Kinematics: two objects meeting in the air
+How does independence of two systems follow from the fact that they are both completely described?
+Trying to understand electron diffraction
+what is the kinematics of a particle with complex mass?
+In which direction along a GaN (wurtzite) crystal are only Ga atoms being observed?
+Binomial expansion of non-commutative operators
+Why does current density have a direction and not current?
+How is a ballistic pendulum affected by two objects with different mass?
+Image formed by Refracting light
+Model for temperature and pressure inside a heated vessel with liquid being pumped into it
+How do particles in a wave make the next particles move?
+can a really loud sound travel in space?
+How 2nd-order nonlinear optic response is used in the telecom market?
+Can Theta be greater than 360 degrees in this equation?
+Gravitational force of a ring
+Photon propagator inverse
+Translational versus dilatational zero modes?
+Temperature Frequency relationship for gas?
+General question about the potential barrier problem: Why does $\exp( kx)$ diverge when $x&gt;0$ in the case when $E &lt; V(x)$?
+Calculus of variations and string theory
+Solitons and its infinite extension
+Hamiltonian reduction having constant of the motion
+How is ink&#39;s color produced?
+Potential energy from opposing magnets repelling each other with a gap of 1 mm
+Why does magnetic flux linkage become negative when a coil is turned through 180degrees?
+Force vs. impulse: what is the math description of their interaction?
+Time for water wave to reflect
+Has anyone yet been able to prove relativity wrong?
+What is a spinor?
+A circuit with a solenoid and no resistors
+CMB anisotropy, temperature and doppler effect
+Electromagnetic reaction force?
+1D Ising model and degenerate states
+What happens to the emf generated due to a change in magnetic flux in a coil?
+Help with high school physics
+Timescales for isothermal processes
+Block Sliding Down a Plane (Perpendicular Velocity)
+Photons under pressure
+Which technique is used to measure huge astronomical distances which are in terms of billions of light years?
+Air nozzle outlet profile efficiency, concave/convex
+Where does mass go when energy is converted in to photons?
+Why must the deviations from equilibrium be small for zero difference in energy in this solenoid?
+Calculating the moment of inertia in bifilar pendulums
+How to count the number of modes/polarizations of a Gaussian field theory?
+Is getting the ground state of Edwards-Anderson model NP hard?
+Correct terminology for combined kinematic and dynamic state
+Berry&#39;s phase: in which space does the degeneracy appear?
+Magnetism: why is a steel ball-bearing repelled from a magnet towards a piece of unmagnetised steel?
+Two balls travelling at different speeds collide in two referentials
+charged dieletric/conductor in capacitor
+Where can I find a table for NIST standards on temperature and pressure?
+How does anything move?
+Blowing your own sail?
+Small oscillations of heavy string
+What is a re-entrant energy contour in a band structure?
+Alpha particle in vacuum
+Propagation of uncertainty - which formula?
+When a pn junction is formed, why is a positive region of charge formed on the n side of the junction?
+Why doesn&#39;t the light get out?
+Why is the total energy of an orbiting system negative?
+Resolution in a Fourier transform spectroscopy setup
+Distinguishing between solid spheres and hollow spheres (equal mass)
+1 + 2 + 3 ... = -1/12 appears in bosonic string theory. Is this regularization method also used in superstring theories?
+How to find out how far a ball will travel after it&#39;s 3rd bounce?
+What exactly is quantum spin?
+What is spin as it relates to subatomic particles?
+How much is the gain of this Op Amp?
+Relativistic doppler effect in three dimensions
+Earth&#39;s direction in space
+How to calculate the Hamiltonian from the Lagrangian for a non-relativistic charged point particle in an EM field?
+Frequency difference of absorbed and emitted photons?
+Water Waves in the Wake of a Boat
+What are the implications for the AdS/Cft program if AdS is unstable?
+On Thermodynamics of Spontaneity of the Reduction-Oxidation Chemical Reactions
+Special relativity paradox and gravitation/acceleration equivalence
+What is many-body bound state?
+Magnetic field in a wire with constant current
+Work done in raising a rope at constant kinetic energy?
+Statistical significance in Z boson excess paper
+Need definition of symmetric and antisymmetric tensor representations of a Lie algebra
+Calculating electrodynamic momentum of a dumbbell (consisting of two point charges) in longitudinal motion
+When I change the rpm of a turntable, how long does the turntable to get to the new rpm?
+Apparent depth and virtual image position
+Landau theory of phase transation
+low energy mono pole applications
+Smallest Black hole nessesary to devour Earth?
+Chemical potentials for multicomponent solids
+How does potential energy work out for floating things?
+What&#39;s the next big goal of the Large Hadron Collider?
+Do all the emitted electron in photoelectric effect have same K.E
+Measurement of quantum state
+Coriolis deflection:- is it 4 times if the object is thrown up, compared to a drop?
+How does non-constant conductivity change surface charge on a wire?
+Does entanglement not immediately contradict the theory of special relativity?
+effective field theory of the projective semion model
+Why is moment of inertia dependent on $r^2$ and not on $r$ ? (physical reason)
+Won&#39;t the test charge disturb the electric field to be measured?
+Eddington-Finkelstein coordinates: Why $\ln(r-2m)$ instead of $\ln|r-2m|$?
+Can we have negative Electrostatic potential
+How to motivate this approach on Special Relativity?
+Lagrange equation and a force derivable from a generalized potential
+I would like to know what variables to consider when I experiment with pouring from bottles and the &quot;glug&quot; effect?
+Need help understanding a simple circuit in-depth
+Explaining induced emf: directions of lorentz force and electrostatic field in two reference frames
+Do non-Gaussian states always show negativity in phase space?
+What sort of operations can be applied on a Hilbert spaces?
+Sign convention for the Minkowski metric $\eta_{\mu\nu}$
+Refraction of light marching band analogy
+How to compute the normal ordered angular momentum of a Klein-Gordon real scalar in terms of ladder operators?
+Power radiated by a rotating annulus
+transformations between 1st and 2nd order formalism in pure gravity
+How to check the ohmic contact to the film?
+Movie airplanes and suction
+Options to correct rectangular laser beam profile?
+Full time derivative of the Frank-Oseen energy. Mathematical problem
+Hawking Radiation and Dark Energy
+What makes a collision superelastic?
+Is the quantum NOT operation similar to the classical NOT operation?
+QM: Why is there a minus sign on the Energy operator when using complex conjugate?
+Finding the total energy in centre of mass frame
+Using the boltzmann equation to find neutrino decoupling temperature
+Constant part of a photo taken
+How we can calculate the elements of the Mueller matrix?
+Kinematics of a differential drive robot
+Equilibrium between two water tanks
+Does GR reflect Aristotelian time?
+Why does lambertian surface reflection result in uniform radiance measured from every direction?
+Would the presence of B-modes in the CMB provide evidence for quantum gravity?
+Contact between two rigid bodies. How does contact force is distributed in the contact surface?
+Would this box on the floor rotate based on friction?
+Brachistochrone parametric equations
+Kirchoffs voltage law
+Interference of waves
+Resistor and voltage
+Inclined plane, circular motion and the friction
+Why do some materials follow Lambert&#39;s cosine law?
+Location of singularity in moving black hole
+Does the Abbe limit hold for a single lens?

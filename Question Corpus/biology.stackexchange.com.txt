@@ -1,6 +1,7 @@
+Can we knock out Cas-9 *and* avoid breast cancer phenotype in our mouse model?
+Could an action potential produce few or more neurotransmitters based on the stimulus received?
 What is this mushroom?
 Why asexual reproduction?
-Can we knock out Cas-9 *and* avoid breast cancer phenotype in our mouse model?
 How many traits can a multivariate breeders equation handle?
 How can (or did) Deinococcus radiodurans continue to evolve after developing resistance to mutation?
 Homology ratio comparison between different species
@@ -31,7 +32,6 @@ What&#39;s the proton concentration around a DNA helix?
 How is ATP involved in muscle contraction?
 Why are people unable to develop lasting immunity against Norovirus?
 Can a person&#39;s body produce enough electricity to break a wristwatch?
-Could an action potential produce few or more neurotransmitters based on the stimulus received?
 What is a complex?
 How to isolate host cell RNA (tRNA,mRNA,rRNA) from viral RNA?
 Retrovirus Production
@@ -48,9 +48,60 @@ Before Evolution was proposed by Charles Darwin, what were the leading secular t
 Definitions of robustness and canalization
 Why should or shouldn&#39;t we allow the human body to take its natural course?
 Best software for protein in electric field modeling?
+Do muscles still hold glycogen reserves if there is no carbohydrate input
+why are there no trees in Texas?
+Why do mushrooms grow in rings (sometimes called &quot;Fairy Rings&quot;)?
+Involuntary twitches and apnoea during early phases of sleep
+B-cell and T-cell activation by parasites
+What causes a small bump in the arterial pressure plot?
+Mosquito physics
+Why do body parts sometimes get a itching and tingling feeling when falling asleep?
+Brain Damage from Injury?
+Regarding cryonics, why can&#39;t you freeze a living body and then thaw it later, fully functional?
+What does saying a phylogenetic tree is &#39;well resolved&#39; mean?
+About post translational modifications
+Survival with only water but no food
+Can leukopenia in a person with an otherwise normal immune system lead to non-infectious diseases in the long-term?
+Question about epinephrine
+Are there good reference on applied control theory on the modeling biological or physiological processes?
+Why do people feel pleasure when using roller coasters / centrifuges?
+Is it true that oral sex exists in non-human animals?
+Is there a cellular mechanism that detects Ribosomal damage?
+What is &#39;refractile&#39; cell morphology?
+Cellular Immunity Response
+How does a cell create/gain its initial ribosomes for protein synthesis?
+When glucose production is low, the brain turns into keto acid as an energy source, how does this work?
+What is this arachnid?
+Regulation of V. cholerae virulence factors
+When do kinetochores attach?
+Online resources for entomology?
+Why do people in the scientific community use words such as renal, hepatic, cardiac instead of kidney, liver and heart?
+What is the difference between specific and nonspecific stress response?
+Can you feel cortisol release?
+Workspace preparation and cleanup for DNA work
+Why is 5S-rRNA is different from other rRNAs in place of transcription and usage of RNA polymerase?
+DIY storing family DNAs&#39; samples for future uses (eg medical)
+What is the so called &quot;hepatic glucose production&quot;
+Common Metrics of Assessing DNA Sequence Quality
+Why didn&#39;t a concept like &quot;pointers&quot; in Computer Science evolve in the genome?
+Given an EC50 value, how do I reproduce the sigmoidal curve from which this was calculated?
+Is it possible to insert DNA without cutting the recognition site with CRISPR/Cas9?
+which microscope and approach best for bacterial, fungal, yeast, mold research
+DNA content doubling in interphase
+Why is there only adrenoreceptors and no active adrenergic innervation in bronchus and uterus?
+Swapping genes?
+Where to find gene manipulation video (or photos)
+Replacing all eumelanin with phenomelanin, effects?
+Phylogenetic method to detect shift in mean of continuous variable
+Transformation efficiency
+Which of the cell types commonly found in mammals has the greatest number of mitochondria?
+Liver - Regeneration in Cirrhosis
+Wavelength(s) of color, if ALL the melanin in a person&#39;s hair was pheomelanin
+Is there any genome data-set which has related epigenetic data-sets?
+Can we knock out Cas-9 *and* avoid breast cancer phenotype in our mouse model?
+Could an action potential produce few or more neurotransmitters based on the stimulus received?
 What is this mushroom?
 Why asexual reproduction?
-Can we knock out Cas-9 *and* avoid breast cancer phenotype in our mouse model?
 How many traits can a multivariate breeders equation handle?
 How can (or did) Deinococcus radiodurans continue to evolve after developing resistance to mutation?
 Homology ratio comparison between different species
@@ -81,7 +132,6 @@ What&#39;s the proton concentration around a DNA helix?
 How is ATP involved in muscle contraction?
 Why are people unable to develop lasting immunity against Norovirus?
 Can a person&#39;s body produce enough electricity to break a wristwatch?
-Could an action potential produce few or more neurotransmitters based on the stimulus received?
 What is a complex?
 How to isolate host cell RNA (tRNA,mRNA,rRNA) from viral RNA?
 Retrovirus Production
@@ -199,3 +249,2254 @@ Why use creatine phosphate?
 Time required for RNA precipitation in ethanol
 How does the placement of it&#39;s motor domain affect the directionality of a motor protein?
 Why do apples taste sweeter at the bottom?
+Why doesn&#39;t the body optimize how many fatty acids it burns?
+Do you know of ways that help a plant to produce more flowers?
+What is the difference between sinew and tendon?
+NADH shuttles - Why cytosol?
+Non-harmful bacterial invasion of cells
+Does a neuron ever generate an action potential without stimuli?
+How does a microelectrode work?
+Atelectasis due to decreased surfactant in lungs
+Impact of man made laws on evolution nowadays
+What is the chemical composition / empirical formula of Herpes Simplex 1?
+Are all action potentials the same shape and amplitude when graphed with respect to time?
+Resilience to the neurotoxins of Indian King Cobra
+Horizontal Gene Transfer
+Formaldehyde turns plantar region of feet red?
+OCT-1 transport in Enterocytes
+What percentage of cells in the human body are infected during a non-fatal viral infection?
+Do nucleosomes ever completely unwrap during transcription?
+What physical force attracts the anti-codon on tRNA to the codon on mRNA during translation?
+Further progression with neuroscience education
+Why don&#39;t half of us have situs inversus?
+Why are 3 nucleotides used as codons for amino-acid mapping in DNA?
+How to do Sliding 80mer Window search against a database with fasta
+Richard Goldschmidt&#39;s “systemic mutations”?
+Markers for human genetic mapping
+Protein concentration in yeast cells
+Cholesterol&#39;s role in lipid uptake
+Where does the oxygen and water produced from the decomposition of hydrogen peroxide by catalase enzyme go?
+What kind of experiments could you do to see which end of a microtubule is most dynamic?
+Why do women live longer than men?
+What kind of bird species is this?
+Which one process is better for degradation of TNT,aerobic or anaerobic?
+What is the maximum number of babies a human woman can have?
+A question about symmetry structure
+How can I use this data to make a function?
+Bolyerine Snakes maxillary bone, split?
+Does urine therapy really work?
+What happens when someone is stung by a jellyfish?
+Where do amino acids get attached to tRNA and where is it synthesized?
+What is meant by nucleated in this context?
+Why introduction of an extra copy of a gene related to pigmentation causes RNA interference in Petunia?
+Solid mouse (C57BL/6) WT primers
+What is the statistical relationship between radioactivity and mutation rate?
+Myopia as a microscopic superpower?
+What are the typical values of probabilities for nonspecific binding to an antibody?
+Core Biological concepts explained to a Computer Scientist?
+Can a brown-eyed Native American mother and a blue-eyed Caucasian father give birth to a blue-eyed baby?
+Why do naked mole rats live in colonies with a queen?
+Why do men have nipples?
+Water soluble molecules
+What is the function of dendritic cell in immunity?
+What is the difference between meristem and bud?
+How do the homologous chromosomes pair up and position themselves along the center of the cell?
+Why does a &quot;cascade&quot; of events happen during signal transduction?
+How can haired mammals synthesize vitamin D?
+Why did humans evolved the scratch reflex?
+Splice in with CRISPR/Cas
+Circadian Clock During a Flight
+Why are triacylglycerols broken down before being absorbed?
+Is it possible for humans to digest and live on food that isn&#39;t based on DNA or RNA?
+X Linked Hardy Weinberg Equilibrium Problem
+Is it possible for a human to wake up in a wrong way?
+Selection Pressure on Orca Whale Coloration
+Mitotic crossover happens in G1?
+Epistasis Across Chromosomes and Individuals &#39;Homozygous for Interactions&#39;
+Alcohol and athletes?
+SNPs in DNase hypersensitive and histone marks sites
+What are evolutionary implications of contraception and reduced childhood mortality rates worldwide?
+Where to find E.coli gene expression data?
+What biological constraints are there on how large a spider can grow?
+Can Leptospirosis be spread through human urine
+Do sweat pores change diameter?
+Clarification on the &quot;orientation&quot; of chromosomal rearrangements
+Why can newborns swim?
+Is there a fundamental reason that plants cannot fix their own nitrogen?
+Difference between intervertebral and vertebral foramina
+Criteria for compound action potential thresholds
+Are nucleic acids found in cell membranes?
+Why do mitochondria fuse together?
+Membrane potential in gram negative bacteria
+How does de-myelination occur in multiple sclerosis?
+Why do cockroaches flip over when they die?
+Is probability for double crossing over included in distance cM? [task]
+Why we have just 2 teeth cycles, primary and secondary not more?
+Why aren&#39;t we ambidextrous?
+Does taking a shower have the same effect on muscles as warming up?
+Why do I see dreams upon closing my eyes?
+Difficulties understanding a pathway
+What is the mechanism by which lamins regulate gene expression?
+Enzyme Assay - pectinase
+How precisely can we sense temperature differences?
+How and where, in the human brain, are memories stored?
+What is the impact of stress on the human body?
+Effect of pupil responses on the electroretinogram
+How does a fertilized egg form 23 pairs of chromosomes?
+Why isn&#39;t a virus &quot;alive&quot;?
+What is the proper format for genus and species names in latin?
+What is the scientific name of this butterfly?
+Differences between Gradualism and Uniformitarianism
+Help with STRING database data
+What is this pink-flowering plant found in Shanghai, China in March?
+Why do humans stop growing?
+Pasteurization and Bioavailability of Antioxidants in Beet Juice
+Which sources can I use to study botany and horticulture?
+Why are there no wheeled animals?
+What is the relationship between radiation and evolution?
+Measuring a plants electric activity any instructions where to place electrodes?
+What features cause mechano sensory adaptation?
+Why is PEG important for efficient yeast transformation?
+Repair of cloning vector nicks digested with antarctic phosphatase and ligated with T4 enzyme
+Ways to cause membrane damage to microalgae and yeast?
+Do all kind of unicellular asexual reproductions let mutations happen, resulting in evolution?
+How does temperature influence the rate of protein degradation?
+Why proteins are not visible on my membrane after ponceau staining?
+Should we induce fever to assist healing?
+Is it possible that a set of functionally related proteins in a pathway fulfill different functions?
+What happens in the synapse when cocaine administration occurs in the human brain
+Why can all animals swim in water without learning to swim but humans cannot?
+Understanding recombination scoring in family pedigrees
+Cationic lipid mediated transfection optimization for 150mm dishes
+MHC restricted peptide
+How is excretion of metabolic wastes from a cell related to its size?
+How do animals handle light refraction in different media?
+Evolution theory - roses spikes - being more bulgy doesn&#39;t give you advantage
+Crossing white eyed Drosophila with sepia eye
+Help identifying what this is in Crayfish gills?
+What exactly is neuroplasticity, and can it be demonstrated with a simple experiment?
+What is a good source that will help me classify protists?
+The IQ of a frog may change after it is thawed?
+Naming convention of miRNAs
+Are mind and body really independent when falling asleep?
+Nucleosome wrapping direction
+Are there any mutagens that can undo the mutations they cause?
+Ethanol production by fermentation?
+Location of TFBS in genome
+What is most ancestral: isogamy or anisogamy?
+Is there a significant difference in sedentary calorie-burn between a thinker and non-thinker?
+Total number of pleura in the exoskeleton of cockroach
+Possible genotypes for blood types?
+Genetically improved *Leucaena leucocephala* seeds
+Paired-end mapping exercise
+CRISPR Knock in
+Inter-codon mutations statistical analysis
+Why does polyploidy give an evolutionary advantage?
+RNA polymerase question
+Any tool to align whole genome sequence data to another genome and give exon regions a higher mark?
+Is there a formula for determining the % of ligand bound to a given receptor in a mixture with multiple ligands and receptors?
+What are iPSC cells, and what are their applications?
+Are there mechanisms that limit the amounts of time conjugation and F-plasmid transfer can happen? If yes, what are they?
+Location of embryo development in angiosperms
+Understanding conclusions that functional regions are under negative selection?
+How to increase the shelf life of yogurt without refrigeration?
+How do BCAA&#39;s promote faster muscle recovery?
+How does the body respond to blood donation; are there any possible risks?
+Why do toenails grow much slower than fingernails?
+Incremental denaturation of protein mixtures
+Why are killer whales found in the Gulf of Mexico smaller than ones found in the Pacific?
+Why is living muscle tissue seemingly able to restore its shape under force, while dead tissue is not?
+How can I see that the human hand has 27 degrees of freedom?
+Expected time for a neutral allele to reach a frequency of $p_1$ when starting at frequency $p_0$
+What is the effect of persistent hypothermia on cardiac performance?
+Safe parameters for external nerve stimulation using electrical impulses
+Can bacterial RNA be degraded at -80⁰C in a SDS solution?
+What would happen if we had a device that produced oxygen inside of our lungs?
+Why does allele linkage cause disproportionate phenotypic ratios?
+Cysticercoids of Eucestoda
+Relative microRNA comparison from from TCGA data?
+Can bioluminescence be used for cancer or tumor detection?
+R Tool and analysis of Gene Expression data from NCBI GEO datasets
+Are there any disadvantages to HRP conjugated PRIMARY antibodies
+Can I use my extech pH60 meter to measure soil pH if so how?
+I included a link to the meter
+How can CI repressor both activate and repress $P_{RM}$ promoter found in $\lambda$ phage?
+Why don&#39;t all bacteria have F-plasmids by now?
+Do animals also dream?
+Structure of RAP Antibodies (Specifically RAP-5)
+Simplified molecular-input line-entry system
+Is greed an evolved trait?
+Any good website/book to understand protein folding and enzymes?
+Behavioral change in dolphins during different hemispheres activity periods?
+Proving time travel
+Are some facial features more important than others in human facial recognition?
+Is there any use of CO₂ in human body?
+Cytoplasmic determinants - protostomes and deuterostomes
+Will a store bought cabbage kill my Pieris brassicaes?
+Energy metabolism in Cancer cells
+Why is it important to study chromatin to understand cancer?
+Horns in animals and birds
+How to quantify the Abundance of a particular gene in Bacteria and Archaea?
+What R packages and software to use for multiple alignment and SNP calling on WGS .gb files?
+Hand-eye coordination in 3D space
+Change solvent of bacterial solution
+Is it possible that a woman possessing 1 mutated allele show attenuated color vision deficiency?
+Role of Calcium and Magnesium in capacitation/acrosome reaction
+Average dimensions of the human back (anthropometry)
+Sequence compression method / format
+Can the absorption of vitamins be enhanced?
+What physiological processes within a muscle cause the latent period in a muscle fiber?
+Why do home-grown fruits tend to taste better than mass-produced consumer fruits?
+Nutrition in Plants
+DNA polymerase in PCR (polymerase chain reaction)
+How to make &#181;g/ml concentrations of proteinase-K?
+Can encoding of miRNAs in introns not cause dysregulation of gene expression?
+Are free-nuclear division and endomitosis the same?
+Mathematical models of lineage selection
+Can other animals see black differently?
+Why does yawning impair hearing?
+How is menstruation not suicide in the wild?
+What color was the most recent common ancestor of all swans?
+Amino acid compatibility
+Is it possible to accurately measure micronutrient levels with the blood volume from a Dermal / Capillary puncture?
+Is this a legitimate teratoma for a human pluripotent stem cell assay?
+Using an analytical balance (0.0000 precision) to measure &#181;g (micrograms)?
+Steps in making mass/volume concentrations?
+How pain can stimulate the vagus nerve
+Why can&#39;t some organisms match miRNA perfectly to the target mRNA like in plants?
+Why don&#39;t birds in flocks fly into each other?
+Can silverfish climb and produce silk?
+Why didn&#39;t the polar bear change its color from white to black during evolution to absorb heat?
+What percentage of a cell&#39;s volume is occupied by protein?
+How do birds deal with their eyes drying out at high speeds?
+Can someone who cannot talk still whistle?
+Is the Klein&#39;s bottle a good analogy to the relation between T-tubule and sarcolemma?
+Why can good music raise goosebumps?
+Primer Designing
+Risk of autosomal dominant disorder
+How detachment/separation works in biology?
+Where does the &#39;C&#39; in exhaled CO₂ mostly come from?
+Examples of Vestigial Genes
+Similarity between a heart attack and a spasm
+Is there a biological neuron that spikes in response to hyperpolarizing currents?
+Contact Inhibition of Cell Division: Signaling Pathway
+Is there any way a human could whistle and be unable to speak?
+Do changes in an organism&#39;s cell modify the genetic information it uses for reproduction?
+How much of the biological research can be still run without high-cost high-precision instruments?
+How does an organism know when to stop growing, whether it is already on the outermost layer?
+Is it known how the first viruses formed?
+What is the blood ejection speed outward from human body vein?
+How to get only perfect matches with blastn?
+How to determine genotype?
+Genes-of-interest analysis between organisms
+Can dish soap really be used to kill ticks and fleas?
+What is the use of eye banks, if eyeball transplants do not exist at present?
+Why do we squint when tasting very sour things?
+Where is the aneurysm in this picture?
+Blood Type/Punnett Square
+Serious question about a piece of meat
+What factors, other than its homochirality, make our &quot;brand&quot; of biology unique?
+Why are skin tactile receptors considered to be phasic receptors?
+Why is cold water more refreshing than warm water?
+Does DNA Ligase look for complementarity in sticky ends?
+RNA migrating slower than DNA on Formaldehyde Gel?
+Is the &quot;concept of time&quot; coded into the genome?
+How to gauge the clinical significance of specific cell type presence?
+Is there a genomic code for nucleosome positioning?
+Medical Uses of toxic venom
+Why are fruits so large compared to their seeds?
+When contracting a muscle will the muscle spindle stretch or contract?
+Is using Hidden Markov Models to find homologues sensible in abstract, short sequences?
+What determines the size and shape of a cell?
+Congenital blindness due to retinitis pigmentosa - does it exist?
+Finding confidence level of miRNA disease associations
+What is the difference between myopia and hyperopia?
+How is color information transmitted from the eye to the brain?
+What is the mechanism behind tinnitus?
+Why can we use mouse-produced antibodies on mice tissues?
+Are there sterilisation methods that do not denature proteins as heat does?
+Can&#39;t resolve protein with native PAGE
+Oligonucleotide purification with desalting
+How are Stem Cells Produced for Stem Cell Based Therapies?
+Nomenclature of genes and proteins
+Why autosomal trisomy has more adverse effects than sex choromosome monosomy or trisomy?
+Obvious phenotypic inheritance markers in humans
+how to close a severed artery/vein?
+Should gene therapy safety protocol include isolation?
+DNA-DNA cross-linking with formaldehyde?
+Grapefruits and CYP3A4
+What is an apomorphy? What is a plesiomorphy? Can someone confirm these definitions?
+What does these $\Delta \Delta G$ numbers signify?
+Blast output - program to count the number of hits
+How did birds become so intelligent?
+Founders of Cnidarian colony
+Does mung bean nuclease cleave a phosphate group when it&#39;s chewing off 5&#39; or 3&#39; ssDNA ends?
+How can I reduce the background gradient in phase contrast microscopy?
+Why can&#39;t the human eye focus blue light?
+Are there any de-novo genome assembly programs for HADOOP?
+Are restriction enzymes active at −20&#160;&#176;C?
+Why do some vaccines last longer than others?
+Can molecular genetics make a boolean variable from a continuous variable?
+Local BLAST Copy Number per Hit
+Are unilaterally deaf people able to determine where sound comes from?
+What is a pA(2) value?
+What triggers the migration of robins?
+Edman method to identify peptides with Phenylisothiocyanate (PTH)
+Do plant-animal cross races exist?
+Why does gaining a hydrogen in biology considered reducing a molecule?
+Comparing gene expression levels between control and disease at different time points
+When is the second polar body extruded from the egg nucleus?
+Explaining natural selection in moth
+How well do we notice asynchronicity?
+Are sensory receptors neurons?
+How fast can a human run?
+What determines the perceived pitch (frequency) of tinnitus?
+Is the amount of blood that flows through every vein and artery per minute really a constant?
+What will happen if a scorpion pierces itself?
+Proteins folding
+What are the lower and upper hearing limits of the human ear?
+Why is Hydrofluoric Acid so dangerous if its a weak acid?
+How animals know which is carnivorous and herbivorous?
+Why did the sensitive plant (Mimosa pudica) evolve its leaf-closing mechanism?
+Are Whales More Intelligent Than Humans?
+Expression/Mechanism of ROR1 in healthy tissue
+Can humans perceive sounds above 20 kHz?
+How is Taq polymerase produced?
+What are the positive effects of wrongful antibiotic use on a viral infection?
+Barr body Giemsa staining
+How and why did mammals go back to the oceans?
+Advantage of opponent color?
+What are the functions and differences between axons and dendrites?
+How can I align more than 2 sequences locally?
+What level of cellular radiation is harmful for humans?
+How fast do cancer cells divide, compared to normal cells?
+What is the explanation for the smaller number of tRNA than codons?
+What allows Valonia ventricosa cells to get so big?
+Stretching and compressing bones
+Why are butterflies drinking blood?
+Are both (partial) copies of DNA transcribed in S and G2 phases of cell cycle?
+Can reptiles digest grains?
+Yeast absorption of different spectra of light
+Mechanism by which $lacI^{d}$ is a dominant mutation, impairing the function of normal copies of the Lac Repressor
+Is the relationship between terrestrial plants and mychorhizae facultative or obligate?
+C. elegans are either male or hermaphrodites, but why aren&#39;t there any females?
+Can anti-aging cream work?
+What are genome wide functional linkages?
+Immediate Early Genes during sleep
+What sample sizes are ideal for carrying out Bayesian Skyline Plots?
+Why, specifically, does each generation, on average, improve upon the design of the species rather than degrade it?
+Do transcription factors bind to both strands of DNA?
+Is there a database of known riboswitches?
+Do butterflies see behind?
+Can someone link me to resources on the efficiency of sticky end ligation?
+How does a sperm cell die?
+Proteins in Milk, Oat , Eggs and Soy
+Book recommendation on population/evolutionary genetics?
+Is hands-only CPR as effective as traditional CPR?
+By what mechanism does Risperidone swell breast tissue?
+Why does a human&#39;s field of view narrow when moving faster?
+Reconstruction of wildlife distribution based on poorly-sampled data
+What are the ESSs among hawks, doves, retaliators, bully and prober retaliators?
+Why is the opposite of plantar flexion called &quot;dorsiflexion&quot;?
+Are cell lines potentially dangerous?
+What happens to the precursor protein&#39;s signal sequence after it is cleaved?
+Do variant callers miss rare variants in reference?
+Telomerase as cancer target
+Hydrogen peroxide decomposition and catalase uses
+Do cows produce milk excessively?
+What is the role of RAGEs?
+How would you affect bulk DNA gene therapy for a human?
+What type of flask should I use to culture NTERA2 embryonic cancer stem cells?
+Is (are) there any crucial gene(s) for the formation of flower in flowering plants?
+Why are there no known photosynthetic archaea?
+Why did life not evolve to use radio?
+Choosing appropriate statistical test for ordinal data
+Is there a correlation between total neurons and intelligence?
+Do DNA repressors exist?
+Why do most organisms have negative supercoiled DNA?
+&quot;Enhancers&quot; of enhancers?
+Do women experience more bonding hormones than men after sex?
+books for beginners in research in mathematical biology
+Has any research lab done serious work to engineer new bacteria which assemble graphene wafers?
+How did bullying arise evolutionarily?
+Questions on DNA damage
+What happens during kefir fermentation process?
+Fixation rate at neutral loci
+How much pollen is needed to pollinate a flower?
+Balanced vs Maximized Codon Optimization
+How to correlate the pattern by which CAP activator from E.coli binds to DNA and its mechanism of action?
+Is there a specific mechanism for the delivery of pain medication?
+Is there a DNA analogue to ribozymes?
+Doubt on genomic code for nucleosome positioning?
+Is consuming proteins different vs. consuming amino-acids and how?
+What causes the line patterns in the palm of the hand?
+Why is E.coli used as a model?
+What are the advantages and disadvantages of using beta-galactosidase compared to luciferase as a reporter gene?
+Incubation time of Antarctic Phosphatase in lab
+Name two reasons why it is impossible to determine a gene&#39;s nucleotide sequence from the amino acid sequence of the polypeptide
+Do all organisms have to die?
+How long the homologous arms of the &quot;repair&quot; sequence must be to do homologous recombination?
+Are all mutagens carcinogens?
+Why is knowledge of bacterial pathogenesis important?
+What is the IC50 exactly?
+Why is acid alcohol used as a decorizer in the acid fast stain procedure, as opposed to a neutral alcohol?
+Why do contrasts during CT scans make the body feel warm?
+DNA sequencing problem
+(Why) are polar bears more common in Labrador than in southern Greenland?
+Relationship between leaf structure and Photosynthesis rate
+How does alternative splicing work?
+What are microRNA, siRNA and antisense RNA?
+Are gene variants at different loci also called alleles?
+Can human mRNA be translated in vitro by prokaryotes?
+RNA-Polymerase III transcribed genes
+What factors affect the likelihood of auditory stimuli causing arousal during sleep?
+How long can Cholera bacteria survive in a dead host?
+What&#39;s a protein pulldown assay?
+What are the roles of cadherins in epithelial mesenchymal transitions?
+Enzyme\Protein amounts in cancer
+Introducing novel genes to an adult multicellular organism?
+Is Norway spruce (Picea abies (L.) Karst.) isohydric or anisohydric species?
+Why do some bacteria have most genes on the leading strand of the genome?
+What is the viability of Intelligent Design as a supplement to chemical abiogenesis and Darwinian Evolution?
+What, if any, diseases do larder beetles carry?
+White/Gold vs Blue/Black dress
+Can anyone identify this mystery caterpillar?
+Monochromator in fluorescence microscopy
+Possible to remove accumulated haze on fluorescence interference filters?
+Is it possible to train allergic resistance by exposing yourself to allergens?
+Why do insects avoid being on their back?
+Which data format for mRNA expression matrix is necessary to run pathway analysis with Paradigm?
+What is the control level of activation in Paradigm?
+Help needed in fish identification
+What is the minimum functional biological light sensor?
+Enzymatic error rate
+Reasons why living fossils exist?
+Do people that don&#39;t feel pain shiver in the cold?
+enhancers in cell-type-specific signatures
+Why does cucumber skin kill ants?
+Is it possible to isolate and analyse intermediates of protein folding?
+How do parrots stabilize their field of view without moving their necks while walking?
+Effect of steroid hormone on specific cells?
+Why do restriction-modification systems work?
+Do other animals have different blood types?
+Reason for different color perception in left/right eyes?
+How big should the human population be, as predicted by body mass?
+The meaning of RNA-seq data
+How does optogenetics work?
+What is the minimum eye?
+What do trans-fats do when in human body?
+Why is an increase in the amount of oxygen in the atmosphere favorable for life?
+Does a mydriatic drug neutralize the action of a miotic?
+Why do antidepressants have a delayed onset of action?
+What proves that speciation is a pairwise process?
+What is NK-cell compartments?
+Does CPH4 exists?
+Why are there no organisms with metal body parts, like weapons, bones, and armour? (Or are there?)
+Why is amyloplast produced by some plant cells but not other cells?
+Retina Transplant Difficulties
+Protein PTM site prediction
+Can all biological processes be understood as computations and studied as such?
+How to calculate relatedness in haplodiploid organisms (mainly full sisters and full brothers)?
+How can E. coli proliferate so rapidly?
+Does the necessary Carbon Dioxide need to be in the atmosphere for mammals?
+Can medications or drugs damage oocytes?
+Mitochondria variability per tissue in humans?
+Divalent cation binding to calmodulin
+MTHFR recessive alleles and B-vitamins
+Why is leucine amino acid used the most in proteins and tryptophan the least?
+Why do people with Down syndrome get fewer cancers?
+Two mice heterozygote and black are reproduced. Find the probability of getting the filium dark and heterozygote
+Can life forms exist from simple structures not made of the four bases?
+How to safely sterilize urea-containing growth medium?
+Bacteria can resist topical antibiotics but not compounds?
+What worms devour the body?
+alternative ways to detach cells other than trypsin
+How to explain Genome, Genes, RNA and protein in one figure to non-biologist?
+What are host cellular factors?
+Are any biology research journals free to publish in?
+In which of the following diseases structure of haemoglobin produced is normal but their amount reduced?
+Are the irises an exact match in a human&#39;s set of eyes?
+Examples of extant animals in a submature morphologically unstable evolutionary state?
+How to predict the top microRNAs that bind to 3`UTR of a specific gene
+What is the nature of plasmids?
+Why vaccines do not cause bacterial resistance?
+DNA is charged negative. Where is all the positive charge in my body?
+Why mutations in genes involved in general processes like DNA repair increase the risk of developing specific types of cancer?
+How to find miRNA binding sites on a specific gene?
+explanation of meaning of high-throughput
+How can TMS induce enough depolarization to cause an action potential?
+Cellular Respiration/Fermentation Problem Leading to Lack of Energy
+Can you consider a human as alive, or is it the cells on the body that are alive?
+What sort of assay could be used to identify mutants with mutator phenotype?
+How does laughing gas (N₂O) work?
+How does the value of K determine number of local optima in NK model?
+What network motifs or other mechanisms can make the expression of a gene invariable to the environment?
+Stable transfection
+Are there grass or fiber eating birds?
+Sensitivity of eyes to flashing lights
+Does DNA have the equivalent of IF-statements, WHILE loops, or function calls? How about GOTO?
+Layman definition of genetic polymorphism?
+meaning of the &quot;reads&quot; keyword in terms of RNA-seq or next generation sequencing
+What&#39;s the maximum pressure inside a bombardier beetle?
+Telomere and its effect on aging
+Optical density machine name
+Time lapse between fresh blood&#39;s exposure to air and that same blood turning darker red-brown
+What is the maximal insert length for PCR based homologous recombination in S. cerevisae
+Do our ears or brains gradually adapt to noise pollution?
+If a gene is located on the X sex chromosome does that mean males are either Homozygous dominant or Homozygous recessive and are never Heterozygous?
+Can DNA &amp; RNA be considered as nature&#39;s programming language?
+What is our skin made up of?
+What mechanisms exist for the excision of specific sequences from DNA?
+What is Colloidal biology and does it have any scientific background?
+Why do Lapidaria margaretae look like stones?
+At what stage of meiosis does &quot;first meiotic arrest of oogenesis&quot; occur?
+The Ancient Kingdom of Monera
+can the face of a person be accurately predicted from DNA information?
+How Do White Blood Cells Learn? Or Do They?
+What are the total number of action potentials in the human brain?
+Why do eukaryotic organisms have introns in their DNA?
+Does malaria have a reservoir host?
+Find the probability of Filium (child) that are dark (and) heterozygote
+What makes substances allergenic?
+Why do human ears have a lower boundary for the lowest energy perceivable signal than eyes?
+How to tell if a beverage will hydrate or dehydrate?
+Why deoxyribose for DNA and ribose for RNA?
+What is the relationship between protein-protein interaction networks and metabolic networks?
+Book recommendations for evolutionary models
+Degree of dosage compensation in Drosophila melanogaster
+Are all dinosaur bones radioactive?
+How do I identify the protein with the highest Disulfide bond density? i.e protein with highest ratio of Disulphide bonds per Peptide bond?
+Electroporation of one-cell embryo?
+How are 23 chromosomes in human sperm chosen?
+What is the basic structure of the nuclear lamina
+Are there multiple meanings to &quot;clone&quot; as in &quot;clone a gene&quot;?
+Can virus resistance be acquired through generational exposure?
+Nutritious protein substance for vitamin enhanced crop?
+How do you determine if donated, stored blood is viable?
+Why do haemophillic females $X^hX^h$ die before birth?
+What is the probe that absorbs at 450nm in the presence of NADH in this assay?
+Mechanisms of genotype*sex interactions
+Chaos theory and population cycles of odd periodicity
+Biochemical coupling between two enzymatic reactions - Enzymes physically associated?
+Primer design for HLA locus
+Life without DNA?
+How would i describe a Cladogram as paragraph?
+Why AZT is selective towards HIV and doesn&#39;t impair human DNA replication?
+if the load is removed from an eccentrically contracting muscle, will it start contracting concentrically?
+How we share pain?
+Why sigmoid curves appear in quantitative analysis of many biological phenomena?
+Do cell membranes have more phospholipids in one layer than in the other?
+Are the proteolytic enzymes in syconiums and nettles identical to those in rennet?
+Why are there both stop and start codons?
+How to select genes before log2 ratio on a RNASeq gene expression matrix, based on signal median
+Why do humans need a heart?
+Two heterozygote mice for skin color are reproduced. Find the probability that in 3 children 2 will be dark and one white
+Are bacteria necessary for an individual&#39;s life, or, how long could a person live without bacteria?
+To which negatively charged components of the cell envelopes do the crystal violet complexes bind in gram staining?
+interpreting enhancer and promoter regions of a target gene
+Detailed mechanism of the cause of diabetes mellitus type 1?
+Normal ECG/EKG Measurement?
+Why is heart failure treated as more critical than kidney failure?
+Are there cats with black skin?
+how food moves in horizontal coils of small intestines
+Survival of streptococcus after my scarlet fever
+Plants and animals ability to survive polypoidy conditions
+Protein-Bound Drugs in Kwashiorkor
+Are Asians more genetically homogenous than other races?
+What (open) software there are for simulating behaviour of human (cortical) neurons?
+Are these cats calico?
+Complementarity Determining Regions (CDR)
+Why does high pH result in the denaturation of DNA?
+What&#39;s the (or some of the) minimum(s) amount of atmospheric carbon dioxide needed by plants?
+protein with highest affinity to lactose
+How do I use BEAST for divergence time estimation in this case?
+What is the chemical makeup of mealworm frass?
+What is the role of Aspartate Transaminase in gluconeogenesis?
+Common properties of herbs in creating anaphrodisiac effect?
+How to get chemical structures in PDB format?
+Which will produce more oxygen? Less number of (larger) trees or more number of (smaller) plants?
+Procedure for doing western blot
+What are pseudoknots?
+Why is the upper respiratory tract so vulnerable to infections?
+Strange Cordeyceps-looking Mushroom in Australia
+What is the role pyruvate carboxylase in lipogenesis?
+The human organism knows what we have to eat?
+Are codons that map to the same amino acids interchangeable?
+Are there anyother method under research for curing rabies?
+Alternative protocol for evaluating RNA integrity, using a bleach gel
+why plants cannot use atmospheric nitrogen?
+&quot;Gold standard&quot; for CNV detection methods?
+Why is it that heterozygous loci appear as two separate bands during gel electrophoresis while homozygous loci appear as one band?
+How does the size of insert affects the rate of Homologous Recombination in yeast?
+What is the difference between gene and CDS annotations?
+How does ANF increase GFR?
+How does HIV mutate into other strains while keeping their virulent phenotype?
+How much total RNA can be extracted from Drosophila brain
+Does all fungi has has N-Acetyl Glucosamine (Chitin) as the main component of their cell wall?
+Why are (some) cats attracted by bleach?
+Fish &quot;coming back to life&quot; after being frozen
+How does food intake affect medicine? Why pill instructions recommends taking them before (after) meal?
+Link between macro lncRNA and DNA looping
+How to store vegetables in the refrigerator: In plastic bags or not?
+Parasites with both plant and animal hosts?
+What are the white spots?
+About modern dating techniques
+What exactly are computers used for in DNA sequencing?
+How is it possible for the absolute fitness to be more than 1?
+Examples of how the presence or absence 2&#39;-hydroxyl groups influence physicochemical properties of DNA and RNA
+With humans, is being transgender innate, or caused by social factors?
+What is this fuzzy, black fungus that grew on my plates in the 4⁰C room?
+Using a Sphygmomanometer
+Baby birds hair and mammal hair is a convergent evolution?
+How did multicellular life evolve?
+Can cell exist without Ribosomes?
+Why are plasmid genes not already incorporated into bacterial chromosomes if necessary for stressful situations?
+Simple Mendelian Genetics Question
+Protein Structure Parameters
+Can the human brain be reduced to a binary system?
+Why crossing over don&#39;t happen in mitosis?
+how can bats achieve good resolution with wide beams?
+Are there any DNA sequences shared by all/most Viruses?
+Can your immune system&#39;s cells destroy you? (Critical thinking and Fictional sense)
+Why is carbonylation added as a fixed modification in mass spectrometry peptide analysis?
+What are the major causes of mutations in DNA?
+Which surfaces contain no epithelial tissues and which epithelial tissues are vascular?
+Why people fear GMOs? Can&#39;t we map a plant composition?
+Is it possible to process electrical signals from the brain and interpret the results as exact thoughts?
+Immediate stroke/seizure Therapy
+How does the ideal free distribution work?
+What does confluency mean?
+Does the use of a Thiazide diuretic affect the ability of a hair follicle to absorb substances?
+Can a portion of human skin cells be modified in some way to generate light?
+What do we use as baseline to determine what genetic segments are &quot;mutations&quot; (and what are not)
+How to differentiate between similar looking carps efficiently?
+HMMSearch full output
+Why have whales and dolphins not evolved to have gills?
+What percentage of human body&#39;s cells are contained in blood?
+Can ingesting substances that are produced by the body cause a permanent withering of the organs that produce the substance?
+How come all my family have brown eyes and I have blue eyes?
+Why is blood removed from meat?
+EMBOSS matcher and supermatcher - incongruent results?
+Can we harvest energy from plants?
+How does toluene inhalation damage the brain?
+Why HIS tag is not detected in WB or dot blot?
+Should hydrogen peroxide be applied on a bloody nose?
+Do men and women have parts of the brain that show different level of activities?
+How do Streptococcus thermophilus and Lactobacillus bulgaricus precipitate the curd of swiss cheese?
+How far can we go in engineering our own evolution?
+How does the Pectoralis Major work when doing a bench press?
+Arm at Heart Level when Measuring Blood Pressure
+Is any known plant magnetic?
+How can we know or measure pain in animals?
+What&#39;s keeping living species from rotting?
+Authority on Microbiological Definitions
+Can I use yogurt to prevent the growth of black mold?
+choice of negative stains in general
+Effects of lactic acid ingestion
+how to extract promoter regions given a TF binding site
+Reasons preirradiation of negatively stained and plastic embedded specimens with a low electron dose improve stability to electron irradiation
+Do both ends of a muscle contract?
+Demultiplexing symmetric PacBio reads
+Lyonization vs Genetic Imprinting
+Why is oxaloacetate made in the mitochondria?
+What does pain look like in wave form?
+How to increase contrast with only a top entry specimen holder
+What is the purpose of narwals&#39; tusks?
+DNA replacement: new species
+Pros/cons: linear vs. circular DNA
+A good textbook on GMO
+Determination of a chemical compound in a non-homogeneous sample
+a question about negative stains
+Can genetically engineering the DNA of a human zygote, make it a twin of another human in entirety?
+Is the six-layer cortex model of the mammalian cortex still the most accepted model?
+Do Penicillin based antibiotics affect birth control?
+What does it mean to have different &quot;metabolism&quot;?
+Superhuman eyesight
+If you are God, how would you create an efficient priming reaction?
+IPTG and lac operator with e coli for foreign gene question
+What creates the feeling of &#39;excess&#39; blood pressure to an area of the body?
+Why are there no artificial wombs yet?
+What is called the &quot;area size that an animal usually lives in&quot;?
+What is an auditory upward sweep?
+What is the difference between organelle membranes?
+How is the type of genetic manipulation determined in CRISPR-Cas9?
+Can siRNA induce DNA methylation in mammalian cells?
+Total dark deprivation at day-neutral plants
+Genetic abscence of backpain among teen girls?
+In cancer, why do cells duplicate themselves?
+Why oxLDL accumulate to form foam cells?
+mRNA Transcription from Nuclear DNA
+Does methanol fixation deform cultured cells?
+Perception of distant lights without glasses
+Core architecture of the body encoding
+Human leukocytes (re)circulation/migration in homeostatic state
+Is lemon water an alkalizing agent in the body?
+Is there a graph or ontology that maps diseases to its possible causes or causing diseases?
+Is a hard slap to the head a medical emergency?
+How does aging affect fingerprint?
+What happens to the umblical cord inside the mother?
+How does one calculate how to dilute a solution to working strength?
+why reptiles still stimulate even after the death?
+What is the expected number of children that need to be born for every possible point mutation to occur once?
+What species is this? Seashell from Indonesia
+Chromosome and chromatid numbers during cell cycle phases
+How can I classify Breast Cancer if I have incomplete receptor information?
+How close to Earth&#39;s core can organisms live?
+How does Hemocytoblast constantly get formed into so many blood cells and yet remains there in the bone marrow throughout the lifetime?
+What microscope/magnification would I need to observe P. Acnes bacteria?
+How does so many replicas of different kinds of blood corpuscles form from different cells in the bone marrow?
+How can action potentials be generated through thoughts?
+How can we measure cardiac output?
+What&#39;s Incomplete atrioventricular heart block (AV)?
+What’s the reason for isovolumic contraction and isovolumic relaxation?
+What is biological dark matter?
+I found these skulls in a old bottle in the woods. Can you tell me what they are?
+How does a baby retain a blood group different from it&#39;s mother, in her womb?
+Relationship between nerves and axons
+Why does a light object appear lighter in your peripheral vision when it&#39;s dark?
+Introductory books about evolution
+How well does the radius of a tree correlate with its age?
+what does Pro→Glu substitution mean?
+Do all sources supply all sinks on a plant?
+Why does an complete molar pregnancy not result in a clone?
+Why sudden stresses cause stuttering and/or other impairs in children?
+How does it make thermodynamic sense for photosynthesizers to turn CO₂ into O₂?
+Has the protein composition (with identification) in honey and other honeybee byproducts been studied?
+Could a sperm be altered to contain a female&#39;s genetics?
+Is it possible that weak memory is due to interference between signals in the brain?
+Why do plants produce so much more sugar than they use?
+Do plants need O₂ to consume energy they&#39;ve stored via sugar?
+Is it possible for a human to get rabies from a rabies vaccine meant for dogs?
+Is brain transplantation possible?
+G&gt;T transversion VS. T&gt;G transversion?
+Does coloring affect the perception of depth?
+What&#39;s a non-allelic gene?
+What are the requirements for a stable carbon cycle in sealed &quot;bottle gardens&quot;`?
+Why are there so many medicinal plants?
+Could someone entirely absorb smells by smelling?
+How much of what we eat ends up in the toilet?
+Why didn&#39;t animals evolve wheels for locomotion on land?
+Redheads and pain receptors
+Proteins: Post translational modification
+Biphasic T wave caused by digitalis toxicity
+Does Smartphone cause ear pain?
+How Many Generation We can Run a Mycelium of Pleurotus ostreatus/Pearl Oyster?
+In insects, does the Alanine repeat occur on the homeodomain sequence of the abdomen or does it occur on a different sequence?
+Which method would more accurately help to identify the unknown concentration of a protein sample between the A280 and the Bradford methods?
+Do trees really get a large share of their mass from the carbon in the air?
+Why did the Brain develop in the front in most organisms?
+Stem cells and if they can correct a lack of apoptosis
+What is the field of view for the human eyes?
+Will I grow taller? How can i tell?
+Why is pericardium muscle repolarizated earlier than endocardium?
+Metabolism of different saccharides
+Is there life on other planets and if so how frequent?
+Maximum RPM in zero-g before losing consciousness, spinning head-over-heels
+Why do human eyes glow red on a photo and dog&#39;s eyes green?
+What actually are thoughts?
+Why are fingerprints different even in identical twins?
+What are the units of Q10 (temperature sensitivity)?
+How do scientists decide which version of a polymorphism is the main one?
+What is the most condensed form of (stored) energy used in biology?
+Do humans perceive temperature or heat-flux? (or both?)
+Neural correlates of the function of the cardiovascular system?
+Peristaltic pumps in animal perfusion - how important are physiological flow parameters?
+What happens to our umbilical cord internally as we age?
+Human evolution: Where *exactly* did the first human come from, whose parents were not?
+DNA barcoding and real-time PCR
+What chemicals and structures control the *direction* of plant growth in leaves, stems and roots?
+Why do we experience temperatures below 37 degrees Celsius as &#39;hot&#39;?
+What mechanism is responsible for germinating in the right direction (root towards gravity)?
+Protein Design - Target Structure Specification
+Why aren&#39;t green eyes more prevalent?
+Visualising a subset of the tree of life
+How and why can cold inflict pain?
+Can you Identify this Creature?
+Can we artificially increase human growth using HGH?
+How can a drone be male?
+Why do living organisms replicate itself or procreate
+Why is iodine used for metabolic hormones?
+Are some virus loads introduced to human cell but never triggered?
+Clumping factor test
+What advantage does an enzyme serve over catalysis by the addition of heat energy?
+Where can I find mutation datasets for cancer (other than TCGA)?
+What is a triglyceride?
+Western Blot: Fischer ECL substrate 2:1 instead of 1:1?
+What is the present tense verb form of apoptosis?
+Stockholm format to dot-brackets format?
+What is a group of tortoises called?
+During famine, does the human body do anything to prioritize which organs receive nutrients?
+Do animals exist which have great vision, but see only grayscale?
+How can the directionality of a protein structure be defined?
+I photographed a couple of butterflies and birds in Argentina but can&#39;t identify them. What are my options?
+Weird gelatinous substance in highland bog
+Why can&#39;t there be fructification of mycelium in submerged culture?
+background extraction in microscope analysis
+How to characterise a protein family in a putative genome island?
+How does the molecular machinery choose where to cut a chromosome for recombination?
+Do these things contain amylase?
+Zinc and brewer&#39;s yeast
+What is Trypsin?
+Open protocol for Ligase Independent Cloning
+What are senescent cells doing in our bodies?
+Why are the fertility rates of large predators kept low?
+How does estrogen influence collagen synthesis?
+Is there a stem cell dye for education purposes?
+What is the gene regulation behind human adaptation to higher altitudes and therefore higher hemoglobin levels?
+Where do the phosphate units come from when EGF units dimerize?
+What is overdiagnosis?
+Why do endotherms need more food than ectotherms?
+What is the best way to orally administer a water insoluble powdered drug to macaque monkeys?
+What is the genome size of Saffron (Crocus sativus)?
+Why are neutral [sterile] female flowers present in inflorescences when they are reproductively incompatible?
+What is the fruit of Caf&#233; marron (Ramosmania rodriguesi) like?
+Why does a dog raise leg for urine, whereas for feces wont?
+Why are cell lines frozen in vapor phase?
+Can anyone identify the worm in this video clip?
+Female preference for males who are already in a relationship
+Why do we get &#39;bags under our eyes&#39;?
+What flower is this blue flower?
+How to preserve leaves between sampling (collection) and analysis?
+Why does uterus have to be prepared every month for fertilization?
+Pedigree Probability of Autosomal Recessive Trait
+Why cancer is not a communicable disease?
+How do biologists infer correct ORF of a DNA sequence?
+Has DNA communication/interaction at a distance been empirically demonstrated?
+What is the meaning of dots and dashes in clustalw?
+What temperature should mammalian B-Cells be stored at outside of the incubator?
+Is there a biological environment that we can we assume glutamate exists as glutamic acid?
+How to name such grouping behaviour?
+By what method do ants dissect and hold soil
+Why animals can move and plants cannot in general?
+What is some computer science technology that can help the development of biology?
+Does long term use of antibiotics in humans actually lead to a greater risk of infection?
+Growing E. coli at room temperature?
+Name (and meaning of the absence) of the white semicircle at the base of the fingernail?
+Why do eyes water in response to particular emotions?
+How do I find a protein from this DNA sequence?
+Is fever a disease or not?
+How to study the number of herbivores per type of tree and time of day?
+How do butterflies defend themselves from other creatures when they don&#39;t have the ability to sting or some other offensive/defensive mechanism?
+Why Does Salt Water Help Sore Throats?
+Premise of life cycle synchronization between predator and prey
+What prevents predator overpopulation?
+Is it a medical condition to not able to recall the word in a language while having a conversation
+Hot water bath and Infertility
+If Evolution Is In Progress, Why Fight Extinction?
+What&#39;s the difference between stabilizing selection and balancing selection?
+Why do birds move their heads abruptly?
+What is topological crossover?
+Why does death exist?
+How to decide if genes are linked in an unordered mapping problem?
+What do &quot;e&quot; &quot;-&quot; &quot;C&quot; and &quot;E&quot; mean in this output?
+What determines the autumn leaf color?
+Why do the proportion of predators increase at mass extinction events?
+How do cats survive falling from great heights?
+Why is the resting potential of a neuron so close to the equilibrium potential of K⁺?
+Human Species of Males/Females
+How can heart disease cause dizziness after eating?
+What is it about the housekeeping genes that makes them almost immune to gene regulation?
+Why do we age? or Do we have a theory of senescence?
+Are there U-rich transcriptional pause sites?
+Why aren&#39;t circadian rhythms exactly 24 hours long?
+How to engineer chromosomal duplications?
+All UniprotIDs of a cancer pathway
+How are we able to find the specific sites at which DNA binding proteins bind?
+SNPs and locations
+Receptors for red and far-red light in plants: Shade avoidance
+What evolutionary advantages are provided by ovoviviparity?
+Dimensions of an ulcer
+Explanation of sequence motif diagram given in wikipedia
+Why I have to pee more often in low temperature?
+First documented beneficial mutation?
+How does menstruation proceed during one period?
+How does Pothos grow in only water?
+What senses are active while sleeping?
+Why did humans become bipedal?
+Is there a standard formula/calculation for sexual dimorphism?
+How can I isolate live Wolbachia endosymbionts from Drosophila
+Blood circulation - How to expand blood capillaries?
+Phenotype choice for one of a MZ twin pair in a genetic association study
+What makes a gene dominant or recessive
+Was Earth&#39;s atmosphere more buoyant in the prehistoric era then today?
+How does beta branching stop alpha helices from forming?
+How do you convert mtDNA sequences in FASTA to FSTAT format?
+Why can white hairs get dark again?
+How to get a pdb file of a single atom?
+Agony, Hydrophobia and viruses in the light of evolutionary principles
+How to measure heat loss in Tardigrades
+What fish (and/or shellfish) species with a multi-year life-cycle, besides salmon, die after spawning?
+List of dinosaurs synonyms
+Thermodynamics of Forming Peptide Bonds
+How to retrieve full gene names list and Entrez gene IDs and other annotation information from HUGO gene name list (in R or any)?
+Is there anything that is completely non-toxic to humans at any dose?
+Why are fly not scared when landing on a monitor with changing graphics?
+Human vs animal feces as fertilizer
+How does Trifluralin kill newly germinating seeds, with almost no effects on established ones?
+Can canines communicate with each other using gaze direction?
+Heart Rate being normal when under treatment for the bends
+Are abrasions considered closed wounds?
+Can memory be improved with mental training?
+Alternative plant taxonomies to Linneaus
+Do Parasaurolophus have hands with fingers to grab?
+Up to date, extensive documentary about dinosaurs?
+How does Isoxaben kill newly germinating seeds, with almost no effects on established ones?
+Why doesn&#39;t Fenoxaprop-P-ethyl damage cool season lawns?
+Why scientific names of animals &amp; plants are made difficult to spell &amp; remember?
+Polychromatic Fur considered against Monochromatic Hair
+Does increased cell turnover cause cancerous mutations?
+Why doesn&#39;t Clopyralid damage cool season lawn grasses?
+Why did animals evolve genders?
+Why White Blood Cells (WBCs) do not react to foreign bodies like sperm?
+Why sperm count matter for pregnancy?
+Why are sperm cells not attacked by the female immune system?
+Why don&#39;t breast enlargements leave any marks of surgery on breasts?
+How does Halosulfuron-methyl kill nutsedge, while leaving lawn grass and most weeds undamaged?
+Why not use lactase to aid the break down of lactose when making biofuels?
+Diffusion of Hypotonic solution into solution with glucose and starch
+Would a plant need light if the chemicals gained by photosynthesis were given through the roots or as a foliar spray?
+How to measure Na/K channel activation at the membrane level?
+Biological age of grafted plants
+Are alleles passed down and shuffled randomly to the offspring during meiosis or fertilization?
+How long do zebra fishes remain transparent?
+dsRNA and immune response
+How to define &quot;Quasifixation&quot; in continuous approximation of finite population?
+Cannot conjugate Biotin-labeled DNA to Streptavidin-labeled solid surface
+Plasmid in the nucleus and gene expression
+Why is high fructose corn syrup unhealthy?
+Relation between a compound&#39;s toxicity and it&#39;s concentration level
+Which fruit compounds affect the speed of fructose absorption?
+What does it mean when a patient suffering from malignant tumor (cancer) has been declared cured?
+Why there are two rounds of cytosine de-methylation in mammalian development?
+Which biosynthetic pathways take place in the plastid and were are they located?
+Gender and age-specific mutation rate in plants
+How can a plant become resistant to glufosinate?
+What is a positive epitope fragment
+What is in the space between neurons in a brain?
+Why is hyper pigmentation the common aftermath of skin lesions and abrasions?
+What Websites Have Image Libraries for Bacteria and other Microorganisms
+What are the differences between a benign tumor and swelling?
+Basic Gene/Chromosome/Genome/Protein question.. which comes first?
+Is recombination suppressed in the males of all Drosophila species? Any other species?
+why male penis not considered as cartilage?
+What software/approach to use to build a graph based on microarray gene expression correlation?
+Are boat-tailed grackles efficient flyers?
+How was the origin of CTVT parasitic cancer determined?
+What does units/mg mean for Streptavidin
+What kinds of cells does human saliva contain?
+Gene expression for mouse feeder cells (inactivated MEFs)
+Is there tea allergy?
+Blood Pressure: Significance of difference between systolic and diastolic
+How does Haloxyfop control young grassy weeds in fields of broadleaved crops?
+Speed of effective lymphatic drainage?
+Swellings with Variegated consistency
+How does MSMA kill crabgrass with only minimal damage to lawn grasses?
+How can a plant resist glyphosate (Roundup) herbicide?
+Why doesn&#39;t the herbicide 2,4-D damage lawn grass?
+Can genetic engineering be performed without a laboratory setting?
+What is the most complex biological organism (or precursors) that we have been able to synthesize from raw materials?
+Dehydration from caffeine, alcohol and other
+Dehydration by a tea, coffee, beer etc
+Relationship Between Evolution and the Increase of Entropy of Earth
+Transfect Mammalian Cells with Single Stranded DNA?
+After how many generations descendant is not more related to ancestor, than to a random individual in an ancestral population?
+What are hot spots on human body?
+How long does it take to form a peptide bond?
+How can we calculate the minimum sustainable number of the panda population?
+How do C. elegans manage nutrition?
+Is there an organism which has a common English name which overlaps with another organism&#39;s scientific name (or vice versa?)
+Can an upper forearm amputee correctly control the Median and Ulnar nerves
+eradicating h.pylori naturally
+RNA isolation from Drosophila head
+Converting fmri data to association matrix
+More general usage of the term &#39;congener&#39;
+Organism identification, what is this?
+Are nutrients absorbed in human esophagus?
+How does DNA damage cause ageing in yeast?
+Kinetic Vs Potential Energy in Biochemical Contexts
+Conversion of glucose to glycogen
+Plural of &quot;dibamus&quot;
+Mechanism of Decorticate &amp; Decerebrate Posturing? Also why is only Decorticate Rigidity a misnomer?
+Repair wrong DNA pair after ending replication?
+Why can cones detect color but rods can&#39;t?
+How long can a human neuron cell live outside the body in a controlled environment?
+What equipment is needed to perform simple plant electrophysiology?
+What is the female equivalent of the morning erection that some men experience?
+Have there been studies done to test Immortality of Cancer Cells on culture?
+Can methylation of a promoter induce gene expression in some rare cases?
+Why do moths not die when they fly into a window?
+How often does bacterial transformation happen?
+Which of the two mitochondorial membranes relate to bacteria according to the endosymbiotic theory?
+Does Human Female Meiosis II occur after fertilization with sperm?
+Does enzyme Km comparisons make sense?
+What&#39;s the meaning of &#39;plasma&#39; in &#39;plasma membrane&#39;?
+Calcium levels and nerve hyperexcitation
+Why can I breathe true only One nostril
+why do some cells in the body prefer necrosis to apoptosis as a means of cell death?
+Can people with paralyzed eye muscles see?
+What are the differences between cancer and tumour?
+If someone were to die on the moon, would their body decay?
+What happens when the brain is no longer capable of co-ordinating or regulating the heart and breathing rates?
+Trying to differentiate between the three muscle tissues with small pictures
+Does Pseudomonas aeruginosa have any common name at all?
+What specific sensory nerves act as receptors for &quot;pins and needles&quot; (neuropathy)?
+How and where do nerves share pathways to the brain?
+Why does a tumour&#39;s genome change depending on the environment?
+Does the metabolic rate determine how fast the telomeres shorten?
+Why are nausea and dizziness such common side effects from medication?
+Why is sarcoma more prevalent and common in right heart?
+Largest direct ancestor of humans
+Why aren&#39;t animals diverse in phenotype?
+Why draw blood from veins rather than arteries?
+Is this a grass cell?
+Which came first in hominid evolution: language or bipedalism?
+On the genetics behind caste marriages
+What would happen to a body in an astronaut suit over time if floating free?
+Cockroaches and magnetic fields
+Mode of Enzymatic Inhibition via R-Allele
+Why do humans have eyebrows?
+Why are particular laser-related skin products not recommended for darker skin tones?
+How to determine if this blood disorder is recessive or dominant?
+How did people who were living far from the sea obtain iodine during the Middle Ages?
+The damage of cancer cells
+Species ID: Cape Town mystery insect
+Is it possible to estimate how much variation in common phenotypes is predicted by genetics?
+Cell evolution: immortality vs reproduction
+Identification of unknown bagworm (Singapore)
+Statistics on energy consumption breakdown per biological functions across organisms?
+Gradualism vs. Punctuationalism
+Question about clusters and populations
+Evolutionary reasons why you cannot tickle yourself but masturbate
+How can a brainless Cnidarian hunt and defend itself?
+Plant tissue culture
+Why do skin and nail go blue in cyanosis?
+How much mass does a person lose in a day through breathing and perspiration?
+How to measure chemical elements in soil?
+Why are riboswitches mostly present in bacteria and not in eukaryotes?
+Is there any tree or other plant that produces a new crop in fast cycles?
+Can protein sample be made 2% Triton X-100 free?
+True or false &amp; fill in the blanks
+What is the limit of time resolution in fMRI?
+How to measure metabolic rates of microscopically small animals?
+What has to duplicate before cell enters M phase?
+What species of Cerapoda lived during the Jurassic?
+Assessing probability from a pedigree
+What are the biological mechanisms of candy causing nausea?
+Model for fluctuating selection
+Could we engineer humans to behave like insects?
+Is there a known glucosepane cross-link breaker?
+What is Mendelian Segregation and how is it related to the Hardy-Weinberg equilibrium?
+How does vasoconstriction/vasodilation change blood pressure?
+How to maximize lung oxygen intake?
+What is the name of the condition where no pacemaker cells are active in the heart for a short-time?
+Almost philosophical question about controlling a pest/plague
+Are there any generic (not dependent on symptoms) ways to find parasite infections?
+Why don&#39;t stem cell therapies use viruses?
+Which of these components has C-H and COOH groups
+What are the effects of long-term liquid breathing?
+How do we look inside the cell?
+Pituitary giants - is the fusing of growth plates dependent on amount of growth hormone in blood?
+Known ways to modify the genetic structure of the 13 loci used in CODIS
+How can succinylcholine cause myorelaxation?
+Factors for sensitivity to electric shock
+Why can&#39;t ciliary muscles in the human eye relax like other muscles?
+What is the biological basis for tiredness after eating?
+What were the first neural systems like?
+How to prevent e coli from clumping (for FACS)?
+Hamilton&#39;s inclusive fitness approach
+Literature about putative epigenetic state changes in mammal sequences after cloning steps in Escherichia coli
+Why do adults lose hearing at high frequencies?
+Is the eyes&#39; movement discrete?
+Parallels between pixelized image and the human retina
+If we change our breathing rate so easily, then what is the point of measuring it?
+Death Psychology
+What are the advantages of blood&#39;s redness?
+What shows how healthy someone is by their heart rate?
+Glycerol 3-phosphate nomenclature
+Incestual Reproduction in Animals
+What triggers programmed cell death in humans (from outside the cell)?
+why is DNA antiparallel? Can it be parallel?
+Why is ATP the main nucleoside triphosphate used to exchange energy?
+What is the state-of-the-art algorithm for multiple sequence alignment?
+In a typical population, what might the percentage of plants be to predators and everything inbetween?
+Does the size or mass of a body affect the time it takes for rigor mortis to sets in?
+What&#39;s the minimum distance of focus for the lens of a human eye to reach maximum flatness?
+Multi-modal distribution for gene expression data
+Why is water a polar molecule?
+how do macrophages have the capacity to digest pathogen in opsonization
+Is there any disadvantage to having a really low adipocyte count in our times?
+How to do whole genome sequence alignment in R or Ruby/C++, any good language?
+What are the buoyancy control mechanisms of Chambered nautilus?
+How many different kinds of polypeptides, each composed of 12 amino acids, could be synthesized using the 20 common amino acids?
+How do you call that part of the muscle that connects directly to the bone?
+How semi-synthetic cell with artificial DNA works
+Mutation Rate in Multicellular Eukaryotes
+Is it dangerous to rub closed eyes?
+Sporophyte and gametophyte
+Why after physical activity I see flickering concentric circles?
+Do apes and humans share 99% of DNA or 99% of genes? What is the difference?
+What does to &quot;evolve&quot; exactly mean?
+How to build gene interaction network based on correlation between gene expression values using software like Cytoscape and R?
+Is it true that some organs &quot;sleep&quot; at certain times of the day and does this affect dieting or when to take medicine?
+What is the name of this plant? (found in a rock)
+Is the function of adjacent genes correlated?
+What effects does being cryogenically frozen have on a person&#39;s body?
+What effect does the Barr body have, in relation to female Turner syndrome?
+How much of the human body is processed sunlight?
+Does a man contain all the genes needed to make a woman?
+What is the most effective way to eliminate silverfish (g. Thysanura) from walls and floorboards?
+Can iGEM distribution parts be directly PCR&#39;d?
+What does x in &quot;Miscanthus &#215; giganteus&quot; name stand for?
+Are there any viruses that have infected all humans in the past or present?
+Are there any viruses that are part of all land animals?
+Expression of an ancestral gene
+Breaking a gene during recombination
+Expression of plasmid genes
+What is happening physically when I get sleepy and when I wake up?
+Do bacteria with multiple flagella move faster than bacteria with a single flagella?
+How is the reflectance spectrum of solids measured?
+Why do some animals try to imitate other animals?
+Which Papaya (Lechosa) plant (male or female) bears fruit?
+Chickens roosting, is it sleep or torpor?
+What is the human ear&#39;s temporal resolution?
+Mutation-Selection-Drift Equilibrium
+How long can the brain survive during ongoing cardiac arrest?
+Are large depth changes ever a barrier to gene flow in elasmobranchs?
+Is this description of etiology of celiac disease correct?
+Father with mutated gene for mtDNA- why isn&#39;t his offspring at risk?
+How much of the weight of yoghurt is due to bacteria?
+How much energy does a lion contain?
+What log transformation and normalization functions are most commonly used for microarray and how to select them?
+What to do if microarray t-test, ANOVA, SAM and LImma show various selected significant genes?
+Why can&#39;t we defibrillate the heart within 1 minute after ventricular fibrillation by electroshock?
+Does the nervous system have &quot;routers&quot;?
+Why do the size of the phase 1 notch vary among cardiac cells?
+Why do ion concentrations change with different secretion rates in pancreatic juice?
+Do all species have asymmetric female meiosis?
+Immunomic Microarray
+Is there any conclusive study relating the food consumed and the occurrence of acne?
+Gene Therapy for Cystic Fibrosis
+Why don&#39;t myopic people see the world upside-down?
+What does the gene name &quot;lexA&quot; stand for?
+Safety of using industrial water for hand washing
+Mean and standard deviation of human bone density?
+Relation between trigeminal and facial nerve in sympathetic response
+If higher levels of atmospheric oxygen can lead to larger animals, can it also lead to larger plants?
+Why do some cells like myofibrils have multiple nuclei?
+Is the molecule nitric oxide responsible for healing blood vessels?
+Can one die from pain?
+Why doesn&#39;t HDL cause diseases like LDL?
+Safety of cobalt-chromium and nickel-chromium dental implants
+How does trees know to balance themselves so that they never fall down
+Why don&#39;t we see turbulence in the aorta even in normal situations?
+About artificially induced processes that would normally cause a cell to self-destruct
+What does irregular heartbeat mean in simple language?
+Is a raised baseline between T and QRS normal in any ECG lead?
+DNA extraction from oil-containing seeds
+Fe(II) and Fe(III) transport from rhizosphere across plasma membrane
+Hypothalamic breakdown and effect of temperature on membrane lipids
+Do people grow shorter as they age, how common is it, and what triggers it?
+Circulating factors affecting human health/longevity
+Pasteurisation of orange juice and Vitamin C
+Is it biologically possible for an adult&#39;s eye color to change?
+Eye strain using 3D screens
+Are there ways to speed up the growth of plants?
+Why can&#39;t neurons undergo cell division?
+Why does our voice change when we get affected by cold or cough?
+Why isn&#39;t Rh disease present in other mammals?
+What&#39;s the smallest size a human eye can see?
+What virus transforms full grown plants?
+Does antibody staining / immunolabeling block or inhibit protein function?
+Does repolarization of muscle fibers mean that the muscle bundle is relaxed?
+Well to well variation in thermal cycler fluorescence?
+Do electromagnetic waves outside the visible spectrum have any role in photosynthesis?
+A colony of humans are sent to an alien world, at what point would the descendants evolve to be genetically incompatible with Earth humans?
+Ancestral Allele explanation
+Estimating RPM to RCF in Methods from Older Papers
+Real Time PCR Test Chemistry
+Do humans have enough biological differences to be grouped into races or subspecies?
+Using perceptual adaptation for enhancing realism of VR/other entertainment
+How does sodium in one&#39;s diet affect blood pressure?
+Which sex of trees bears fruit?
+Plant dependence on CO₂ levels
+Why do dog&#39;s eyes glow green on a photo?
+Why are most transcription factors enhancing the expression rather than repressing?
+Typical in-vivo protein concentration
+How to do a whole genome analysis of Multidrug-resistant Mycobacterium tuberculosis
+What&#39;s the meaning of this notation?
+Can humans live without their right atrium?
+Why can blood group O be given to all blood groups?
+Why are some genes dominant over others? What is the mechanism behind it?
+How to calculate the effective population size ($N_e$) with overlapping generations?
+Why do we have more male infant born?
+Can concentration of a protein be determined from a gel quantitatively (rough estimation)?
+Why can&#39;t we call dog breeds different species?
+Is there any knowledge of physics can be applied in to evolution?
+Why didn&#39;t we develop senses that allow us to sense radiation, magnetism or any other thing?
+What is Pan for in pan-caspase?
+Can you answer Ray Comfort&#39;s question on Biological Evolution?
+Why does human hair grow and behave differently depending on its location?
+What is this plant ...?
+How does most of lymph get back into the blood stream? (I don&#39;t mean the lymphatic system)
+Is a Ginkgo tree a conifer?
+What are the requirements for a spectrometer to be used in biological research?
+negatively charged albumin as major carrier of acidic/negative charged drugs in blood
+If body temperature is 37&#176;C (98.6&#176;F), why are most people more comfortable at around 21&#176;C (70&#176;F)?
+Why is an allele dominant or recessive?
+Voltage-gated Potassium channels in the action potential of cardiomyocyte?
+Why do flies &quot;rub&quot; their front legs when resting?
+Double stranded is more &#39;durable&#39; than single stranded stuff?
+Can a woman give birth to twins with different fathers?
+What&#39;s the maximum and minimum temperature a human can survive?
+What is atrial fibrillation?
+Why does hair grow after trimming but remains at a constant length after a while?
+Why is the Trendelenburg position used when placing and removing Central Venous Line catheters in the sub-clavian vein?
+Is there any scientific evidence that a human has ever grown a third set of teeth?
+Retinal eccentricity to colour sensitivity
+Hydrogen Peroxide on Open Wounds
+Could the proteome of E. coli be fluorescently labelled?
+Why can blood vessel contraction be described as a second order system?
+How far can birds see?
+What&#39;s the worst that can happen from too much sleep deprivation? Can you die?
+If what we eat can be seen in our hair, then to what degree can our food affect the &quot;look and feel&quot; of our hair?
+How is oxygen and carbon dioxide exchange mediated by hemoglobin?
+Whole genome sequence analysis software
+Chemical reactions at the synapse
+Which organs do cats not eat on their prey?
+Aligning multiple sequences in heterogeneous group
+Can someone identify this flowering bush from the US?
+Coniferous trees in temperare rain forests
+What controls leaf senescence in deciduous tree species, and how can I predict it?
+Why does the stomach ache if you take a brisk walk after lunch or dinner
+Do males of all sexual species have Y chromosomes?
+spinal cord lesion and result in somatic sensation
+Why are some fungi poisonous?
+Hill&#39;s function for translational regulation
+Single long axon vs serial neurons
+Why do we find some things disgusting and others delicious?
+Identifying whether ELISA kits are authentic or fake
+Do species other than humans have distinct daily feeding patterns?
+Vitamin and mineral contents of common fruits
+Grafting vegetables onto fruit-bearing trees
+Human disease and associated phenotype database?
+Why is dimethyltryptamine (DMT) being released during death?
+What do biologists mean when they use the term &quot;biological distance&quot;?
+When should endocytosis inhibitors be used in cell binding assays?
+Facultative Cannibalism?
+Using the IMGT/GENE-DB service to find RSS
+Is it possible to move your arms above your head when handcuffed in the back?
+Does transplanted heart have full sympaticus without medication?
+Does sample buffer require EDTA for protein separation on SDS PAGE?
+What physics knowledge can be applied to biology of organisms and ecosystems?
+Protocol for checking pipette calibrations using absorbance readings of a dye in solution?
+Formation of Life
+Prevent biofilm formation on moist surfaces
+Phylogenetics and the Tree of Life
+How to determine whether a newly discovered dinosaur is not a young one and not an entirely different species?
+Does the cellular response to every receptor work the same way?
+How does the population fitness changes after a change in mutation rate
+What is the importance of urea in mass spectrometry?
+Hair loss in a nuclear submarine?
+How do humans perceive time?
+How does the genetic material differ between dizygotic twins and ordinary siblings?
+Specificity of Protein Kinases in Signaling Pathways..?
+Are pulp cells (in oranges) normal plant cells?
+Why do we have butt hair?
+Are small CO₂ concentrations devastating to certain cognitive tasks?
+How many mosquitoes would it take to &quot;drain&quot; enough blood to put a person into shock?
+Kinetic binding / unbinding constants of protein + mRNA ⇌ mRNP
+DNA content in plant seeds vs. fruit flesh
+How much does sleeping correlate with daily activity?
+Hamilton&#39;s derivation of direct fitness from his 1970 paper
+Do the right-handed people tend to use the right side teeth of their jaw to chew food more often than the left-handed people?
+C1q attachment to antibodies
+Autoimmunity and central tolerance
+What is this vinca like vine?
+How many cells does the smallest animal have?
+Intuitive explanation for Kin- and Group- selection
+Blood cells penetration
+Species Identification (Insect)
+Why do we have five fingers?
+Why don&#39;t we breathe nitrogen when it makes most of the air?
+Are there known examples where an evolved mechanism &quot;echoes&quot; one originally provided by the environment?
+What is the second phase of photosynthesis?
+How did giraffes develop their rete mirabile failsafe?
+Does photosynthesis require only direct sunlight
+Do snakes get dizzy?
+How would real-time blood glucose monitoring work?
+Is there any way the food industry can benefit from biofilms?
+Medium for Pseudomonas?
+Do the eggs for larger litters come from the same meiosis events, or different ones?
+Neuroendocrinal mechanism of parturition
+Are There Rules for How Proteins Are Formed?
+What controls Fructose regulation in plants?
+Do we know if RHEB is more sensitive to some amino acids than other amino acids?
+Is there a consensus on whether or not race exists on a biological level?
+Exclusive microtubule minus-end labeling
+Miseq loading with low concentration library
+How does steroid dependence occur?
+Can I force evolution in a group of cells by removing all the smaller cells?
+Evolutionary history: did any organs start out as autonomous organisms?
+Why does rabies cause hydrophobia?
+When do the spindle fibers attach to the chromosome
+Production of processed Insulin in bacteria
+Can cfDNA testing distinguish results in the case of twins?
+Fab fragments of antibodies to fight viral infections
+Miscarriage in early humans
+How does mutation cause natural selection? and is it common in protists or prokaryotes?
+What term describes insects that must eat protein to reproduce?
+How fallible are DNA paternity tests?
+What is SDS PAGE gel polymerization time?
+What species of eagle pushes their young to teach them flying?
+Dopamine and other neurotransmitter release during music listening
+Supercomputer and undergraduates
+How can homosexuality evolve despite natural selection?
+Are there more true codes found in biology besides the central dogma?
+Why does renal artery stenosis lead to activation of Renin-Angiotensin system?
+What is the most recent well-attested common ancestor of chimpanzees and humans?
+Survival curve in early humans
+Fecundity per woman in early humans
+IgA complement activation
+Chromosome 2 fusion?
+Limb polarity such as writing handedness, golf handedness and natural football foot
+Identifying a tree with an image
+What is the evolutionary cause for various finger lengths?
+How come most animals never seem to evolve over millenia?
+basic programming and bioinformatics
+Are there any known health benefits / risks from milliampere current (0.1-2 mA) on forehead?
+How to measure concentrations of different metals from the environment?
+Taste of salt water
+Duplicity Vs. Singularity of Mammals Organs
+Molecular Cloning- Blunt end restriction endonucleases
+Why do we get runny noses in the cold?
+What is the evidence that australopithecines were bipedal?
+Can white eggs be considered as non-vegetarian?
+Distance matrix with different length sequences
+awakening effects of light
+Is there already discovered non-carbon form of life?
+What makes teeth feel sticky after drinking Coca-Cola?
+Dreadnoughtus: Why are new taxa named using Dog Latin?
+How many eukaryotes are there on Earth?
+Can the eye distinguish between pure and composite colours and how do we measure this?
+How do CO₂ and carbonic acid (H₂CO₃) work in buffering the blood?
+How is the growth of benign tumors suppressed?
+Terminology question: the scope of an allele in an organism
+Are There Exceptions to Animal Cells not Having Cell Walls?
+Are spiders part of the study of entomology?
+Advantages of bisexual reproduction over asexual one toward species promotion?
+Why do parasites sometimes kill their hosts?
+What if rB=C in hamilton&#39;s rule?
+Why would a single celled organism evolve to be multi-celled?
+Does one parent transmit more DNA to the offspring than the other one?
+Can excessive carbonated drink consumption lead to elevated red blood cell levels?
+Relative sweetness
+What is an operon?
+Why don&#39;t we have hair on palms?
+Why isn&#39;t the insertion of a single nucleotide destructive for DNA?
+Besides hemoglobin, what proteins are present in red blood cells?
+The origin of molecular machines
+Why is mRNA needed in the Protein translation?
+Can any other animal choke on food?
+Concentration of degenerate primers should you dilute to?
+Cloning and Telomeres
+Is there a risk of localised die-off when plants bud too early?
+how to reconcile PDB structures&#39; sequences via Uniprot references?
+Can plants grow under extreme (&gt;1%) carbon dioxide concentrations?
+Poisonous plants, animals, mushrooms: is this always a kind of defense?
+Why are canines not nauseated by similar foodstuffs/state of decay as human beings?
+What is the physiological difference between cortisone and cortisol?
+What genetic distance model should be used when calculating genetic differences in Arelquin?
+Organ cloning - possible to make a non-antigenic organ?
+what&#39;s the vascular cambium?
+Why do people feel extreme cold at different temperatures compared to other people of same body structure?
+The skin color of bonobos
+What is difference between breed, variant, subspecies and species?
+How organized is the inside of a cell?
+Superpatients for Cancer resistance
+Is funnel web spider venom poisonous?
+About the apoptosis mechanisms in a cell
+Can you hold your breath longer when scubadiving deep under water?
+Can someone help me analyze this article?
+Are we more/less resistant to infectious diseases during an allergic reaction?
+How does salinity affect the bonds of an enzyme?
+If ants have an antibiotic gland, how can they spread hospital infections?
+How do trees manage to grow equally in all directions?
+Is there an &#39;anti-virus&#39;?
+How much difference in genome is enough to prevent interbreeding?
+Elevated position effect on recovery times from upper respiratory infections at rest?
+What can cause the bloating in high protein diet of Whey proteins?
+Parallel Autonomic regulation of Cough and Runny Nose
+Hypersensitivity Simultaneously in Ear canals
+What are the mechanisms of disabling extrinsic control of heart?
+Can Omega 3 Fatty Acids prevent chest pain in periodic Atrial Fibrillation?
+What is the nature of action potentials in autonomic nervous system?
+Can non-carbonated energy drinks boost alcohol intoxication?
+What is the quality rate of intrinsic autoregulation in the heart?
+Are Purkinje Action Potentials Neuronal and Cardiac?
+How is Calcium regulated in myocardic AP and plateau phase?
+The Origin of Mitochondria
+What are some places where biofilms could develop?
+Can brain cells move?
+How are lesions in the RNA corrected?
+In what sense is the &quot;histone code&quot; a code?
+Need help in codon optimization
+How do catalase and other antioxidants neutralize free radicals?
+How does the body &quot;know&quot; how to metabolize foreign substances
+I brought a hibernating yellow jacket queen into my house accidentally. What will happen?
+Anatomy of nervous system&#39;s sensory pathways
+Specific location where nerves converge
+Cytochalasin B in cell movement
+When did our ancestors switch to a menstrual cycle instead of the estrous cycle?
+How much mechanical stress can a skeletal muscle bear?
+Why do we have two of some organs, but not all?
+Patch-Clamping Neurons Resources
+Circular mRNA to produce long proteins
+Where can I get numerical data for the PAR (photosynthetically active radiation) curve?
+How important is the womb&#39;s environment?
+Color perception vs shade perception demo
+Downloading specific yeast genes in an automated manner?
+About radiation therapy
+Why doesn&#39;t Sanger (fluorescent) DNA sequencing double count nucleotides?
+Download FunCat Database for Programmatic Access
+What are the main principles of the Bacteriological Code?
+Clustal Omega - convert from distance into # of substitutions
+Are there viruses that affect cells across different species?
+If two people look alike, is there probability that somewhere in their ancestry there was inter-breeding?
+Speciation and Phylogeny of Lactobacillus
+How does anxiety cause chest pain?
+Why do some internal organs regenerate?
+What does the empty space in the bamboo stem do?
+B cell receptor editing
+Double use of ATP in relaxing myosin &amp; active transportation of calcium?
+What causes muscles to generate heat on contraction?
+When are a female&#39;s eggs created?
+How to Design an siRNA Experiment?
+Why were dinosaurs not as smart as we are?
+Does pupil size affect image focus in persons with no lens?
+Potential to destroy viruses using prions?
+Why should a tumor look like a crab?
+Do blind people learn Braille equally fast as the sighted?
+Blood type frequency given probability
+How is DNA Read
+Why are some vegetables/fruits seasonal?
+Evolutionary chronology - if any, which species have evolved in the last 100 years
+Action of Ebola Viruses
+Do gibbons have a monogamous sexuality?
+Are domesticated animals really &quot;more intelligent,&quot; or is that a myth/misunderstanding?
+Mass spectrometry versus western blotting for validation
+Why do humans hear better between 2kHz and 5kHz?
+Sequencing rtPCR product
+Is there a rule for the annotation of the basepair or gene locus origin in bacterial genomes?
+Can dolphins actually communicate linguistically?
+Can anyone identify this chrysalis? (Identified)
+Hot water and bacteria
+Alternatives to commercially available flow cytometric analysis software for use in cell cycle analysis?
+Will gene mutations give rise to a protein that is shorter than the full length protein?
+What is the name of this plant (see pic)?
+Why do some people find vegetables so repellent when evolutionarily they should find them an attractive and thus tasty food?
+What kind of microscope for ML/biological research?
+Specialist evaluation for people aged under 40 years with stage 1 hypertension
+positive and negative feedback
+Skin porosity in glans penis when erect
+How is membrane capacitance related to the increased speed of saltatory conduction?
+Long term storage of agarose-ethidium bromide gels that have already been cast
+fastq-dump using mkfifo to stream data
+Did Darwin ever reach the conclusion that selection will remove variation?
+Action potential changes in low sodium concentrations but constant osmotic pressure
+Evolution: One big population vs. many small populations
+How do I import FASTA files into Haploview?
+Can human brain memory be removed by EMP?
+Deciduous trees in tropical rainforest
+What is the purpose of segments in citrus fruit?
+Ni-NTA purification, problem with the chaperone protein
+What is the science behind the inaccurate perception of colors?
+Persistency of botulinum toxin in environment
+Is there any evolutionary advantage of selection of L-amino acid over D-amino acid?
+RNA seq and using of Poly(A) or non-Poly(A) based amplification of RNA
+What is the biggest facultative anaerobic metazoan known to science?
+How do PER/CRY complexes accumulate in the cytoplasm?
+Are the Chromosomes organized in any meaningful way?
+STRING ID - allelic differences and splice variants
+Are there baby drinks closer to breast-milk?
+Are transgenders born physically different from others?
+What percentage of the (additive or not) genetic variance is explained by the &#39;n&#39;- most important loci?
+Additive genetic variance components from LMER in R
+Satisfication with irrelevant things
+Spironolactone&#39;s role with adrenergic agents in heart failure?
+Can a tumor produce something not currently found in our own bodies?
+Is it possible for any animals today to have more than one brain?
+On which strand does the promoter sit?
+Why are irises unique?
+Regarding tumors and their developement
+Names of nerves in hands, shins and face
+Can a single axon propagate multiple simultaneous action potentials?
+Is our color vision calibrated to sky, vegetation, and blood?
+Spinal cord injury bypass
+What&#39;s the difference between Ki and IC50?
+What&#39;s the biggest obligate anaerobic organism discovered till now?
+Regarding cellular self-destruction
+Binding of Multivalent Antibody to mutiple epitopes?
+Software for counting fly eggs
+What are the common methods to estimate additive genetic variance?
+How do I get recombinant proteins into the nucleus of mammal cells?
+Can I drink warm/hot tap water?
+How does an axon &quot;know&quot; it&#39;s not connecting to its own neuron?
+Nerves, Neurons, Axons and Dendrites by Example
+How can I purify RNA after gel electrophoresis to remove residual acrylamide?
+Why are urban birds still scared of humans?
+How could be the &quot;Eurasian magpie&quot; bird won the &quot;Mirror Test&quot; where Gorillas failed
+Why not use non-visual self-recognition to test for consciousness in an organism?
+How does anadromous fish physiology &quot;know&quot; to switch from salt to freshwater and back?
+How to validate the regulatory interactions inferred from gene expression data?
+Physiologically, how can stress/anxiety cause neuropathy?
+What is the evolutionary purpose of white spots in nails and how can they be characterised due to Leukonychia?
+Is it possible to dock multiple ligands with the target?
+What is the definition of a stringent/relaxed plasmid?
+Can signals travel &quot;backwards&quot; in the sensory pathway?
+X chromosome &quot;weight&quot;?
+Do distinctions between dry, tickly and chesty coughs have any medical basis?
+Use cases of RNA secondary structure prediction
+Cells scatter light in solution. Do they refract?
+Western blotting with multiple antibodies
+What is Environmental Robustness? Is it different from plasticity?
+What does &#39;pedigree information&#39; mean?
+Why do the major and minor groove exist in DNA?
+Would humans eventually evolve to fight off fatal diseases if we didn&#39;t treat/vaccinate for them?
+Why don&#39;t McDonald&#39;s fries decompose?
+Would blue light be effective to help average people when sunsets come much earlier in the day?
+Statistical method for characterizing the relationship between body mass and metabolic rate
+Native vs Immigrant plants
+Why does anxiety cause diarrhea or constipation?
+How is evolution possible in contemporary humans?
+Why does weight loss lower blood pressure?
+Why is the Krebs cycle considered a part of aerobic metabolism if molecular oxygen is not involved in any of the reactions in the cycle
+How many cells are there in the apical meristematic tissue?
+Mammal body density
+5,6-dihydrouracil and 5,6-dihydroxyuracil - how they arise in DNA?
+Do plants have preference for the form of nitrogen as nutrient?
+How to search for organisms by criteria such as growth substrate and overflow metabolites?
+Speciation of humans?
+Extreme examples of protein translation/use coupling/decoupling?
+Number of transcription factor genes in the human genome
+Long-term effects of antihistamines on mind and CNS
+How are bones growing, if bones are not connected to the brain?
+What causes feeling of feet falling asleep to be delayed?
+Why do we still have genetic disorders that show anticipation?
+How are arms different than legs?
+Body size, what are the evolutionary trade-offs?
+What governs the size of animal bodies?
+Studying effects of alcohol on cells
+What evolutionary adaptations cause trees to grow tall?
+Can plants directly use sulfuric acid?
+Does DNA analysis allow determining amount of chromosomes?
+Why do small fonts strain the eyes?
+Bug Identification: Is this small tubular, black bug a bed bug?
+Maximum heart rate increase/decrease while physically active
+Can rapid eye blinking induce epileptic seizures?
+Do T-cells express MHC molecules?
+Is there a PSI-BLAST for nucleotide sequences?
+Why is fructose not glucose the main energy source of sperm?
+More variation in proteins than genes. Why?
+How can site-directed mutagenesis be used to suppress the production of anti-antibodies?
+Anti-antibodies for preventing transplant rejection
+How was the cama&#39;s life expectancy computed?
+Differential Scanning Calorimetry for bacterial membranes
+What is the cause of muscle cramps?
+Fatty Acid Synthesis of Fats Longs than 16 C
+How to attract spiders to my house?
+Inbreeding depression and dominance
+Resource for finding Repressive/Inhibitory factors for a given gene?
+Effect of Western chicken and GH
+How can fresh cavities form at the margins of sliver amalgam fillings on teeth?
+Can juice have a higher sugar content after packaging?
+How is satiety measured?
+Can swallowed fingermails, hair, or skin get caught in your appendix?
+Western blot alternatives
+DIY extraction and long term storage of human DNA sample?
+Are there specific features of birds that cats/small predators are attracted to?
+Why does K+ have more concentration inside of the cell compared to outside of the cell? Why is Na+ and Cl- the opposite?
+Why estimate linear and full (linear, quadratic, and correlational) selection coefficients separately?
+Can an influenza virus carry other infectors with it?
+Would my hands sweat this much if I wasn&#39;t wearing gloves?
+What is the difference between &quot;lineage restriction&quot; and &quot;differentiated&quot; in terms of stem cell biology
+Can cats use ketone bodies as only source of energy?
+Why does DNA have its name?
+Do voltage-gated calcium channels affect neuronal conduction speeds?
+Why is uracil used in RNA rather than thymine?
+Would biotechnology in agriculture actually decrease biodiversity, as many people say? Does it have to?
+How to inhibit formation of specific antibodies (to antisera)?
+What is the efficacy of Pertussis booster vaccine among different age groups?
+Is there any kind of immortality in plants?
+Does our brain really &quot;flip&quot; images perceived by our eyes?
+Public Pacemaker database online?
+Hydrophobia Outside of Rabies?
+Should I dilute DNA with water or elution buffer?
+Why do we have to exhale (or inhale) in order to speak?
+Why does the stability of YAC increase with size?
+sex limited genome transmission
+What is meant by &quot;genes involved in the stress response&quot;?
+Cigarette consumption dose-response function WRT health outcomes
+Are there any examples where &#39;magic bullet&#39; drugs have worked in cancer treatment?
+How does air-liquid interface (ALI) culture work?
+Terrestrial Vertebrate Limbs
+Why don&#39;t mammals have more than 4 limbs?
+Reformulation of Hamilton&#39;s rule
+What is the appropriate blender speed to maximize nutrition and digestion of fruits and vegetables?
+Are more animal species edible than plants?
+How does Natural Selection shape Genetic Variation?
+Is sexual selection evolutionarily advantageous?
+Amphibian blood circulation
+Does a presence of ants on a plant mean that the plant has been infested by aphids?
+How was the resemblance between apes and humans explained in pre-Darwinian biology?
+What&#39;s the more abundant biopolymer: chitin or (ligno)cellulose?
+Deeper Learning in Physiology?
+What percent of the population has some form of synesthesia?
+Does physical exercise following lack of sleep increase the risk of sudden cardiac death (SCD)?
+Is this a carpenter ant?
+NaCl role in CTAB - DNA complex in DNA extraction
+Does Blood Loss Shorten Telomeres?
+Can a human acquire a memory of an animal?
+Increasing/decreasing signal intensity in Western blotting
+How long does it take for a cricket to die at subzero temperatures?
+PCR cycle problem
+Neuron Growth and Regeneration
+Why Is The Toughness Of Skin Different On Different Parts Of The Body?
+To measure potentials of peripheral nervous system
+Can a cell culture insert plate be used with a vacuum manifold?
+Why does the &#39;Positive-inside Rule&#39; exist?
+What&#39;s the mechanism of action of Levomepromazine&#39;s analgesic effects?
+Differences in Karr cell model and E-Cell
+How to make sure a stem cell culture is cancer free?
+How does the cornea breathe during sleep?
+Is &quot;Cisternal Twins&quot; an actual classification of twin types and if so, describe it
+Do memories have mass?
+Why should plants transform glucose into sucrose before transporting it to other parts?
+Carrying or packaging capacity of SAD B19 dG rabies virus
+Glutamine analysis
+Which classes of drugs (filed by their pharmacology) induce a release of β-endorphin?
+What is phenotyping of blood during transfusion process?
+Does a bird know it&#39;s different?
+Rosetta strain with chaperones for protein expression?
+Which three functional groups are found in the general structure of amino acids?
+Biopython error
+how to re-sequence a few Mb of genomic sequences?
+Effect of closed eyes on balance?
+What&#39;s up with all the vague protocols?
+Ebola immunosupression and infection
+Can a rotten egg actually hatches to a real life?
+PCR directly on DNA binds to Ampure XP
+What is the best way to perform ultra-deep targeted sequencing of few samples?
+How does the eye know whether to focus further out or nearer in order to bring a blurry object into focus?
+Examples of genes involved in plastic responses
+how to get truseq&#39;s gel size selection when preparing libraries for exome enrichment?
+Like size and colour constancy, why does the brain not maintain focus constancy?
+Separation of closely-sized isoforms
+Domains in cell membrane
+Are there any online resources one can use to access raw clinical trial data without having to contact those involved in the study?
+Intro Bio question: dihybrid punnet square
+General time reversible model of evolution and Felsenstein model
+Is eating cooked food an evolved behavior or rather an intelligent one, passed down via culture?
+How does a multicellular, eukaryotic body treat heat-resistant pathogenic bacteria?
+Why does some skin hold perfume longer than others
+Is a single x-ray photon capable of doing enough damage to the DNA of a cell to kill that cell?
+Why can&#39;t people talk while inhaling?
+What makes DNA sticky-ends sticky?
+What is the scientific opinion on plus lens therapy?
+To define the total Resistance of Systemic Blood Circulation
+Clonidine&#39;s adrenonergic nature?
+Fast standing and the heart&#39;s insufficient accommodation of the increased venous return
+Why does methylation not occur in viral DNA?
+Possibility of Human cloning
+What causes a polypeptide to fold into an Alpha helix over a Beta pleated sheet
+Do invasive species survive in the long run?
+Modified Mendelian Ratios Problem
+What is the distance between the 3&#39; 18s rRNA (the Kozak consensus sequence) and the A-site of eukaryotic ribosomes during protein translation?
+How significant is RNA degradation with removal of cap/polyA&#39;s in eukaryotes, or UTR&#39;s in prokaryotes?
+Degenerate primer design for DIG in situ hybridization
+A few questions regarding immunology
+To understand synthesis of e-NOS and n-NOS with respect to Ca and calmodulin
+Low copy numbers of plasmids
+Does amylolysis occur in vegetables if stored below 0⁰ Celsius?
+Energy flow in an ecosystem
+Fusion of neuron with a S phase cell
+Duration of selection and survival of the fittest
+If my brain lost all of its activity for a moment, would my memory be gone too?
+Anesthetics, specifically inhaled anesthetics
+What roles do cyclooxygenase, lipoxygenase, and epoxygenase have in signal transduction?
+What are limitations on the number of objects the eye determine at a glance?
+(how) is it possible to choose the biological sex of a child?
+How do you accurately measure anguiliform (eel) locomotion?
+If gene differs between chromosome pair does individual get a mixture of protein shapes?
+Purifying a linear plasmid after restriction digest?
+Are ipratropium and tolterodine parasympatholytic?
+PSI-BLAST website algorithm parameters
+What does &quot;chlorophyll photosynthesis peak&quot; mean in relation to photon wavelength?
+How to evolutionary explain menstrural cycles synchronization?
+Can the human eye distinguish colors in the periphery?
+Differentiation of norepinephrine and epinephrine in indications
+Is human vision sensitive to frequency or wavelength?
+How many centrioles/basal bodies are there in multi-ciliated cells throughout the cell cycle?
+Theranos blood test&#39;s Specificity and Accuracy?
+Molds and fungi usually found on book pages: identifying and preventing further spread
+Determining break/border of movement
+How was birth control realized in ancient days?
+Is there an online gene library?
+Presence of MHC on red blood cells
+Is there a stem cell/ biogel method exist for muscle and tendon lengthening?
+How does Humira work when injected into patients with rheumatoid arthritis?
+Amino acid characteristics that determine their chemical properties?
+How can Pyridostigmine have the indication of Myasthenia?
+Identical twins&#39; biological sexes
+allogeneic organ transplant and the immune response
+Sodium levels and blood pressure
+Do human cells contain only one copy of the genome?
+Classification of degree of infested areas by pine processionary moth on regions
+Ribosomal Turing Machines, DNA/RNA computation
+Why do physicians try to match HLA complexes for organ transplant?
+Where can I upload non-human Genotype data?
+Kinesin-5 / cytoplasmic dynein spatial density distribution in neurons
+How does anger relate to blood pressure?
+What is the difference between tonic and phasic firing?
+What mechanism prevent Colchicum Autumnale from being affected by Colchicine
+Reusable microarray chips
+Cloning a gene of an organism with an nonsequenced genome
+Problem on number of amino acids that an alien can use
+How is incomplete dominance different from codominance?
+List of Asymmetric Animals
+Suggestions for self-studying experimental techniques
+human anti-mouse antibody
+How to visualize the ECM?
+What causes fingerprints to form and why is the pattern formed unique?
+Why only female mammals have well developed mammary glands?
+What is the charge on oligonucleotide 5&#39; pGpGpApCpT 3&#39; at pH 7.00?
+To understand side-effects for nebivolol&#39;s beta1 selective pathway in PubChem?
+How to manage fat-gluten oxidation in celiac disease?
+More vectors for inducing neurodegeneration (reduction in synaptic plasticity) in D.melanogaster
+How common is complete heterochromia?
+Do any birds beside the family Columbidae (or any reptile or mammal) feed their young &quot;Crop Milk&quot;
+Modeling intracellular interactions between sender and receiver bacteria
+Has anyone used Crispr/Cas to induce a knock-in in MEF cells?
+Mouse meta-globin mRNA problem
+Are there any mammals whose males can feed with milk?
+Flicker fusion threshold for insect eyes
+Can the same protein be represented by primary,secondary,tertiary structure?
+Why do humans have only two nipples?
+Change in synthesis rate of a molecule changes equilibrium concentration
+T-cells Question
+What is the mechanism of action of lithium-induced polyuria?
+What initiates primase to add an RNA primer to a DNA strand and what makes it stop?
+Applying Constraint Programming to sequence alignment/analysis
+Does THC excretion increase if urine volume increases?
+Why are cats attracted to catnip?
+Crude oil contamination hazard
+After vasectomy, where does the sperm go?
+How do gory images lead to nausea?
+Why the scent of mouth gets dirty after not eating for a long time?
+Why does hair thicken and become more rough after a razor shave but not after one using a trimmer?
+Is there any research on how accurately people can follow a beat?
+Henrietta Lacks and HeLa cells
+What is actually systematics? What is the difference between it &amp; taxonomy?
+How are lysosomes formed?
+Optimization of E. coli growth in D₂O (heavy water)
+How Circumcision could reduce the chance for a HIV infection?
+Ways to measure effectiveness of a gene therapy trial?
+Is recognizing one&#39;s own mirror reflection a valid test of animal intelligence/self awareness?
+Viral Mutation Mechanism
+Mechanism of Muscle Growth
+Regarding the apoptosis mechanisms in cells and cancer
+What is the exact chemical composition of human body?
+What can myelination tell you about the evolution of sensory receptors?
+What is different between the pigment of giraffes and the pigment of flowers?
+Restriction Mapping - Homework question
+How to do an alanine scan using Rosetta?
+Do SSRIs downregulate or upregulate the 5-HT3 receptor?
+To Study Interactions of two molecules in PubChem
+Are there any similarities in the DNA of a humans and animals?
+Why do Sorghum Bicolor leaves roll up?
+Has it been enough time for evolution through simple natural selection?
+Why merkel cells are innervated by axon and not by dendrite end?
+What is it called when one human eye is seeing brighter color than the other?
+PCR processes number of amplicons produced
+Bigger animals needs bigger amount of oxygen?
+Is Norepinephrine beta2 adrenomimetic?
+Salbutamol&#39;s Pathways of Interaction and Classification
+How can oxygen production during photosynthesis be measured?
+What are possible reasons for a DNA template not giving amplification?
+What makes the amide bond the lowest energy pathway?
+Can different strains of Rhizobium share an infection thread or symbiosome?
+What&#39;s the composition of Actinobacteria&#39;s hyphae?
+How can natural selection occur at species level whilst not occuring at the individual level?
+In males, why it is difficult to control orgasm?
+RNAs arising from intergenic regions
+Ephedrine or pseudoephedrine indirectly central alpha2 mimetic?
+Can an organism process H₂O into H₂O₂?
+To what extent is immature eggs in insects (beetles) a good approximation for maximum fecundity?
+Why do the ants eat cockroaches&#39; head first?
+DNA polymerase I exonuclease activity
+MHC-I presentation during infection
+Any benefit to low dose radiation?
+Sensory adaptation regarding smell and hearing
+Do &quot;Giraffe Weevil&quot; males build Nests
+Interpretation of graph from evolutionary biology
+What is &#39;independent assortment&#39;?
+Why cytotoxic T cells don&#39;t kill dendritic cells when they present antigen?
+Providing small molecules to cells on a filter plate
+Is Zeiss Primo Start microscope worth the price for student use?
+Among xerophyte plants, which one grow faster and consume water the least?
+What is the difference between rheobase and threshold?
+Why does A pair with T and G with C?
+Exact location of E. coli in human body
+Large scale reverse transcription?
+Plotting metabolic networks?
+Substrate specificities of GPPS, FPPS and GGPPS (isoprenoid biosynthesis enzymes)
+Why is it better to drink room temperature water instead of cold water?
+Like other animals, why humans don&#39;t have species &amp; breeds?
+Bird identification
+Could we transmit smells electronically?
+Is there an association between environmental and mutational robustness?
+ECG of heart transplant patients
+Counting the number of hydrogen bonds of multiple PDB files
+What is possibly wrong in my gel electrophoresis when I didn&#39;t see bands of DNA ladder on gel?
+Function of Vermiform Appendix
+How to compare a camera and an eye
+Ants eating bark
+Looking for a gene in my raw genetic data. What are the possible causes for this?
+If human eyes watch an area, what&#39;s the shape of its capturing shape? Rectangular? Half spherical?
+Cross section of actin network in neurites
+Linkage disequilibrium with multiple alleles and loci
+Why are there no tree-like plants that grow in lakes?
+Quetiapine tolerance
+Why do people and animals stretch out their bodies and what is causing this behaviour?
+Publicly available resources for learning metagenomics
+Are bees positively phototropic
+C.elegans and antioxidants
+Testing monophyly from per site log-likelihoods without optimising branch lengths
+What&#39;s the max speed that humans could run?
+Why we do not use RNAi to control ebola?
+Time for rigor mortis to set in
+Why is the DNA codon table &quot;equal&quot; to the RNA codon table
+Do the phage repressors CI and Mnt exhibit crosstalk?
+What are parental antagonism &amp; parental conflict?
+Why do chameleons move back and forth?
+What type of insect is this?
+What is this insect I found in Russia?
+Why do humans have irregular teeth and impacting wisdom teeth?
+Why do plants fruit?
+Why can you not tickle yourself?
+Is excessive hydration a risk factor for cancer in humans?
+Why does a cockroach not die even after decapitation?
+Pollinator mating system in orchids
+Phage base Biosensor
+What are some difficulties animals had to overcome to reproduce on land?
+What are the &quot;stars&quot; we see after a bump on the head?
+Why does sex last so long?
+Does prolonged exposure to low pitch but low volume noise affect hearing or stress?
+Can Anyone Identify This Bug
+Safe level of chlorine in water
+Which virus capsids consist of only one type of capsid protein?
+Are there organisms that have incorporated plastic into their lives?
+Are there any known mutual symbiotic relationships that has more than two agents?
+What are the advantages and disadvantages of being ambidextrous?
+Calculating number of amino acids in mRNA
+During bridge amplification of DNA sequences, why aren&#39;t sequences amplified in both orientations?
+Why did many odd-toed ungulates become extinct?
+The suspended cat clavicle
+Any relevant knowledge/studies about voluntary goose bumps
+How did birds survive the KT impact?
+Does the Peptide bond produce water in our organism?
+Is pork poisonous?
+How to identify genes required for biofilm formation
+Effect of recombination on the rate of loss of genetic variation
+Can human organs be transplanted indefinitely?
+Identify the pink mold infecting refrigerated lemons
+Can we determine a person&#39;s age by dating methods or other means?
+Human longevity interventions ranked by effectiveness
+small RNA bioanalyzer traces showing miRNA enrichment for sRNA-seq
+Will genetically modified food affect our health?
+Why are there no marine birds?
+Predictive Single Nucleotide Polymorphisms (SNPs) for Bipolar Disorder
+How does rate of evolution/innovation scale with population size?
+What proportion of salt in water would make it not dehydrate nor hydrate someone?
+What is the biological basis of &quot;energy&quot; that extraverted humans draw from social engagements and introverts expend?
+At which temperature is the Tick-Borne Encephalitis Virus destroyed?
+Are fatty acids and glycerol lipids?
+what the best E-value cutoff in the miRNA homology search
+Do all Gram negative bacteria cause septic shock?
+Can we directly stimulate M cones in retina with current technology?
+How to determine externally that a whale is a mammal?
+What are the disadvantages of forbidding flights to and from the African Ebola region?
+which exact mechanism triggers the first cell differentiation after n divisions?
+Why do mammalian red blood cells lack a nucleus?
+Rosemary room temperature at winter
+Why was the Davson-Danielli model rejected?
+Do wolves bury food like dogs?
+Is there a command line molecular cloning tool?
+How does proximal centriole of human sperm function?
+Why do we need red blood cells?
+Which sex has higher variance of reproductive rate in modern societies - male or females?
+Loss in DNA band size extracted from polyacrylamide gel
+When writing about past research should I use the species name they employed or the modern version?
+Are brain cells replaced over time?
+Why are different lengths of nucleotides taken for structure prediction from an miRNA match area after BLAST analysis?
+How to inactivate trypsin permanently by boiling?
+Does myopia tend to decrease the risk for later hyperopia?
+regarding genetic disorders related to protein production
+Can inverted microscope also be phase contrast microscope?
+What are the physiological roles of Hydrogen sulfide?
+Can human survive falling from 30,000 ft without a chute?
+Does sour food cause sweating?
+How can eyeglasses improve vision beyond 100%?
+Why is drug clearance not affected by blood flow in case of low extraction ratios?
+Can one use a hemocytometer on a compound upright microscope?
+How to prepare sample for SDS PAGE?
+How does the body really react to exposure to the vacuum of space?
+Do mosquito repellent sprays work on all insects?
+What is this bizarre in-growth in this red bell pepper?
+What&#39;s the duration between the binding of adrenaline to β-AR and the first translated protein?
+When birds fly in V-formation, how is it decided which bird gets to be the &#39;lead bird&#39;?
+Basic question about multiplex PCR
+Why would an Eadie-Hofstee Plot be non-linear?
+How hot can a beverage get without burning the tongue?
+Why does a pacemaker have a negative pulse?
+Resource for finding what proteins bind?
+Which agricultural crops attract rodents?
+Find protein homologs with BLASTp
+Apoptosis vs necroptosis
+Clarification on BMI formula
+Difference between thylakoids and lamellae in a chloroplast?
+Book Recommendations: GRE Subject Test In Biochemistry, Cell And Molecular Biology
+What are the features on a microscope one needs in order to do lab work?
+What is the most common way of administering loop diuretics and what is their time course of action?
+What are some of the general characteristics of the DH5 alpha strain?
+Pink E.coli cell pellet. Reasons?
+Is it possible to genetically modify a plant at home?
+Gene Sequencing and Plasmapper
+Is genetic drift necessarily deleterious?
+Will eukaryotic RNA fold in the same way in prokaryotes?
+enzymes that stabilize DNA loops
+Need to make a library of mammalian coding sequences
+Recombination frequency as a function of genomic location in E coli?
+Paralogous genes in genome-wide association studies?
+Does muscle get bigger by increase in size of individual cells or increase in number?
+How small does a nanobot have to be to &quot;swim through the brain&quot; and access any neuron it wants to?
+Slicing cell cultures frozen in vitrified ice with a laser for CryoEM
+Centriole genes Knock-out Experiment in Common experimental animals?
+Ripening bananas artificially: What is the biological reason
+How does a person get AIDS?
+Where do I purchase a fly with the collagen tagged?
+Do human visual functions degenerate due to genetic factors or by external factors?
+Is the nuclear envelope present in G1 of interphase?
+Confusion over role of current/potential in Nervous system?
+How to translate a blood type used in Eastern Europe?
+human immune system
+Comparative leg sizes
+What is the fastest way to build an alanine scanning library?
+poor RNA quality from zebrafish embryos
+Does vitamin D form crystals in the blood with calcium and magnesium?
+Why was it so hard to decode the corn genome?
+Pancretic Acinar Cell - ATP, calcium concentration data
+Is there a difference between polarity and hydrophobicity?
+How does the cell regulate different metabolic pathways?
+Need of X or Y chromosome protein after meiosis
+How to separate peptide on SDS PAGE?
+Do hairs in the ear respond to things like shampoo?
+Was the mitochondrion or chloroplast first?
+How can I get brighter DNA bands?
+Ambidexterity Advantages and Disadvantages?
+Which is better against genetic mutations? Asexual or Sexual Reproduction?
+Do ants feel pain?
+Confusion regarding niches in evolution theory
+What kind of animal can do this?
+Why don&#39;t fish groom each other?
+What is the mechanism responsible for the &#39;delay&#39; in delayed rectifier potassium channels?
+How do fish communicate?
+Importance of Double Helix DNA Structure
+Why vivipary is not found in all mangrove plants?
+Why does the oxygen produced in the photosynthesis come from water and not CO$_2$?
+(Updated question) Problem with Fold-change mean compared to absolute data (in qPCR)
+What to look for when buying a light microscope?
+Will an 11W UVC lamp kill bacteria?
+Endemic plant families on islands?
+Regarding cancer cells and telomeres
+Word denoting genetic state
+Searching for comprehensive textbook
+What are the rules for plasmid names?
+Do metastatic cells still have their parent&#39;s identity?
+How are amino acids neutral at physiological pH?
+Photosynthesis: Splitting Water
+Question about what the liver does NOT do
+Can cracking fingers cause Arthritis?
+Tumour resistance: single-cell or population effect?
+How do insects survive the winter?
+Parazoa as part of sewage plant
+Hoechst or DAPI for nuclear staining?
+How do marine mammals control buoyancy?
+A website for identifying birds
+Why is the threshold between human embryo and human fetus defined as 8 weeks after fertilization?
+What does it mean for the signals for transcription and translation to be &quot;conserved&quot;?
+How does protein denaturation work?
+Is the poison from Stink Bugs dangerous?
+Where does crop biomass come from?
+Relieving pain by massage
+What could live inside a pillow?
+Does eating bananas help digestion?
+Imperfect dosage compensation
+Animal swimming styles
+What is the common diet of food-related IBS patients? Besides most patients being lactose intolerant, what other intolerances do they face?
+What are the costs associated with carrying lots of genetic material
+Insects or Birds covering least distance but most wing moves
+Results of a complete DNA sequencing - are they 100% reusable?
+What are the psychedelic effects of (stellar) anise and how many people are affected?
+A subtle test for color-blindness
+Why is LH level much higher than FSH level at ovulation?
+Is there a period after you have had a cold when you cannot get a cold again?
+Need for two oxygen sensors in E. coli
+How do diving marine mammals avoid decompression sickness?
+Double mutant analysis with null mutants
+Drake&#39;s Law. What is the genome-wide mutation rate and what are the estimates?
+Why is there a difference in the rotation of the tail fin in fish compared to marine mammals?
+Why does caffeine give you so much energy, while being so low on calories?
+Can you build muscles from watching point of view videos of people weightlifting?
+What is the difference between embryology and developmental biology?
+Is there biological evidence for self-awareness in animals?
+Food allergen-related skin reactions and intestinal inflammation?
+Cells with no apoptosis mechanism and their &#39;byproducts&#39;
+Why did humans lose their fur?
+Is there are practical lower limit to gene length in E. coli?
+Heterochromatin production limitations
+What are differences between formation of embryonic disc in chick and mammal embryo?
+Are all single-celled organisms Bacteria?
+Tracking of oxygen molecules in glucose oxidation
+Why are the genomes of some trees so large?
+What is the mechanism behind ventilatory acclimatization?
+Evidence &amp; discussions of hard polytomy
+Fermentation to acetic acid
+Ultra Pasteurization and Pasteurization
+What information can Uniprot give me about phosphorylated forms of proteins?
+Do the eyes play any role in producing the visual experiences you have during dreaming?
+Would constant light or fading light be registered as more wakefulness promoting by the Supra Chiasmatic Nucleus?
+Does the tannin level in plants go down or up after they die? Or does the tannin level stay the same regardless?
+Why is mammal coloration so dull?
+Hardy Weinberg problem help!
+Book suggestion on computational molecular evolution
+How do I calculate the change in allele frequency in a haploid population under selection?
+What is the minimum population size that Hardy-Weinberg calculations can be applied to?
+Hill-Roberston effects and effective population size
+Do men have a higher genetic variance than women?
+Why is the strength of genetic drift inversely proportional to the population size?
+How do prokaryotes perform cellular respiration without membrane-bound organelles?
+Can forensic DNA analysis be used to generate a visual approximation of a suspect?
+Can a carnivorous animal consume plants with no adverse effects?
+How is photosynthesis observed?
+Why the name coined for MARKUP LANGUAGE for SBML?
+Dawn simulation - does color change affect waking up?
+Synthesis of immunoglobulin Fab fragments: Where can I learn about Fab?
+How reversible is DAT upregulation from long-term ADHD medication use?
+Phospholipid movement in cell membranes
+Reasons why people say that AIDS/HIV doesn&#39;t exist
+Effect of flask position in shaking incubator affects growth kinetics
+Does sociality evolved before or after the ability of motility?
+Does our nose detect only if there is change in odor?
+How the conjunctivitis virus spread just by seeing a person&#39;s eye who is infected
+Physiological function of CFTR gene product?
+What bird species is this? (Heron-like waterfowl from China)
+Any databases with AAMI ECG and ECHO?
+Which came first: The Chicken or the Egg?
+Connect the inner and outer space of cell with a wire, will there be electricity?
+Are there any effects of elevated Cysteine levels on cognitive function?
+In which way would the yeast cell cope with the excess amount of methionine in the growth media? 
+What is the reaction mechanism of dopamine hydroxylase converting dopamine to norepinephrine?
+What is the length of anaerobic biodigestion stages?
+What is a coupled reaction and why do cells couple reactions?
+Is wiping with RNAse Zap enough to destroy RNAse activity?
+Why do grapes not shrink when placed in strong sugar solution?
+Pathway mediates nitroglycerin-induced relief from angina pectoris
+Why 22 amino acids instead of 64?
+NMR spectroscopy detection methods for proteins
+How do kidney cells excrete their own wastes?
+Why haven&#39;t land animals evolved beyond urination?
+What Biology topics are linked to the Nitrogen Cycle?
+Ill effects of urea and NH₃ on metabolism
+Why is Cysteine and Tyrosine used to calculate a sequence isoelectric point?
+Is this a valid definition of independent assortment?
+How can histidine be classified both as positively charged and hydrophobic?
+What are non-heritable changes to genomes?
+What impacts penetrance of Huntington&#39;s disease?
+Cells &quot;grown in LB broth to an OD600nm&quot;
+Does eating antacid (such as Magnesia) before meal have any impact on digestion?
+Why do I feel funny in my tummy when riding a virtual roller coaster?
+What is the progressive evolutionary advantage that leads to flying?
+What is the difference between a phosphotransferase, a phosphatase, a phosphorylase and a kinase?
+XXY (Klinefelter&#39;s) &amp; Trisomy 21 &amp; X-inactivation
+What are the structual differences between DNA and RNA?
+Book recommended for neurobiology
+The gender of offspring of Twins?
+Does &quot;Garbage Enzyme cleaner&quot; contain cleaning enzymes?
+Does too much Genetical Modification leads to formation of new species?
+Mechanisms of extracellular stimulation of neurons
+Could transfusion of a different blood type cure blood-based cancers?
+what is the role of ctab in plant dna extraction
+Why are there species instead of a continuum of various animals?
+Functions of the CFTR gene?
+What is the H+ gradient in mitochondria?
+What accounts for diversity in species?
+Are fish and reptilian scales homologous?
+Bacterial Cell Problem
+For how long can a raven stay airborne (a week or more)?
+Which part of the brain needs to be shut down to lose conciousness?
+How are our senses dimmed during sleep?
+Why would yeast grow but not produce alcohol?
+Is the Hypothalamus part of the Central Nervous System or Endocrine System
+How exactly can dsRNA be introduced to a cell?
+Where do migratory birds go when it rains?
+If hermaphrodite C. elegans can reproduce with females?
+Hamming distance between two DNA strings
+Is it possible to simulate the effects of high altitudes for plants?
+Why does replication require primers while transcription does not?
+What does 5&#39; and 3&#39; mean in DNA and RNA strands?
+Epitope annotated protein
+How do the quantities of ATP formed during aerobic and anaerobic respiration compare?
+Redundancy of the genetic code
+Does trypsin strip flask coating?
+Can connections between neurons be weakened?
+Are neural connections one-way?
+How can I label cryotubes in a way that eliminates the problem of legible hand-writing?
+Why Do Nerve Signals Get Crossed?
+Earliest and latest onset of Huntington&#39;s Disease(Chorea)?
+Sequencing a specific region of a genome
+DNA methylation on the forward vs reverse strand?
+How is it possible to even hope for an ebola epidemic of this current size to remain contained to a relatively small part of Africa?
+To what extent is Ebola airborne? (aerosols)
+How long does the Ebola virus remain infectious on contaminated items or surfaces?
+Is ebola non-contagious until symptoms appear? Why?
+How does the ebola virus attack?
+What are the reactions in the body that triggers dizziness after cigar(nicotine) smoking in non-smokers?
+The biology behind tree pruning and hedge trimming
+Is the quality of sleep dependent on sleep duration?
+Fate of erythrocytes after splenectomy
+Nature Scientific Reports vs. BMC Genomics
+What controls gut motility?
+Gastroenteritis virus causing mutation of the Enterochromaffin cells
+Please help me to identify this red worm
+Hardy Weinberg Equilibrium after 5 Generations
+How did aquatic dinosaurs go extinct?
+What are the risks of elevating the legs too regularly and when tired?
+Can a human cell live indefinetely in a controlled environment?
+Are added yogurt cultures harmful to the gut?
+How is Microenvironment strictly defined?
+Do male animals visually perceive females as more/less attractive?
+What about a bat&#39;s immune system protects them from Ebola?
+Are all functions of a human cell known?
+What does the root &quot;phyllum&quot; mean used botanical binomial nomenclature
+Can the negative afterimage appear only if there is light or is it possible in darkness?
+Is viral protein expression important for peptide vaccine?
+What kind of technology is required for plant seed DNA printing?
+Ideal lab glassware cleaner for molecular biologist
+What enables azacitidine to incorporate into both DNA and RNA?
+Concentration of caffeine in physiologically relevant setting
+What is the name of this plant with many purple blooms with orange inner parts?
+How prominent is the gene-centric view of evolution among professional researchers?
+How do ants transport water?
+More extreme phenotypes when parents are from diverged populations
+Physiology of benign eye twitching?
+How non-invasive blood glucose concentration measurement work?
+How non-invasive blood glucose concentration measurement work?
+Pipetting damage on cells
+Is there any complex organism that is both autotroph and heterotroph?
+Found a larva in my broccoli, is it a Small White (Pieris rapae)?
+Can Hepatitis be caused by Bacteria?
+Niche differentiation in birds of prey
+Do you produce more sperm after 1 week of abstinence vs 1 year of abstinence
+What are the sources of energy that alcohol provides?
+Are there birds with knees instead of elbows?
+Using Canonical Correspondence Analysis on matrices with missing data
+Can you find malaria parasites in saliva?
+What is this beetle? Found in heather in snowdonia
+What is the difference between eugenics and evolution by natural selection?
+Difference between medicinal caffeine and regular caffeine
+HIV and effectiveness of inhibitor cocktail over single inhibitor
+Forum on synthetic biology and hypothetical biology?
+Shortest strings not present in the human genome
+Can &quot;human exclusion zones&quot; in national parks for preserving Wolves and Grizzlies be a good idea?
+How reactive are reduced antioxidant molecules?
+Why are the largest land/air animals today smaller than in the Mesozoic?
+Burning fat transferred from one part of the body to another
+Is there any research paper which identifies left and right brained behavior?
+Alkaline Phosphatase
+What could cause hairs to gray at the tips but not the roots?
+Are there any scientifically based predictions or theories of future human evolution?
+Are there any strictly chloroplast/mitochondrion-residing ribozymes?
+Is there a maximum size for an insect?
+Dead skin cell decomposition
+What is the difference between the basal membrane and the basal lamina?
+How can I compare the STRIDE and DSSP output files of a particular pdb file?
+Is the activity of enzymes in the human body affected by the outer temperature?
+Why is the vermis of the cerebellum associated with speech?
+Are triglycerides fat?
+Help me understand my membrane potential assignment
+Which organs in the body are responsible for measuring temperature?
+How do you increase eumelanin but not pheomelanin?
+What determines the thickness of Cornea?
+Vaccination and population dynamics of an epidemic
+How to convert nanogram to picomole?
+What is the mechanism of reflex arcs?
+How does high-fidelity of DNA replication depend on the formation of hydrogen bonds?
+What is the name of the critter depicted in the attached image?
+Lateral corticospinal tract and termination
+What kind of fly is this?
+Are there multicellular isogamous species?
+Simulating substitution rate of neutral mutations
+Does adding milk to cereal make it harder for our body to absorb the vitamins and minerals from the cereal?
+Why do we like salt?
+Alternatives to trypsin for cell detachment?
+Which immunosuppression caused by long-term usage of these antibiotics in untreated celiac disease?
+How does non-homologous end joining (NHEJ) work?
+About the plight of Elephants and efforts to conserve them?
+Why isn&#39;t vomit corrosive?
+How are chickens affected by light?
+A good introductory book to histology?
+What are the genus and species name of different breeds of dog?
+Problems understanding membrane potential
+How do the pharmacodynamics of the NSAIDs differ and are there &quot;resistant&quot; COX phenotypes?
+Nystagmus drug FDA approval?
+peptide MHC microarray
+Regarding benign tumors and what &#39;stops&#39; them
+Does cooking or ripening reduce the concentration of solanine in nightshade?
+Why is gynodioecy common and androdioecy rare?
+The evolutionary process in bird wings, especially with regard to winglets
+Why do humans bury their dead?
+Somatic Mutations in meristem tissue in plants
+Ancestral states of sex determination system
+Are there any multicellular forms of life which exist without consuming other forms of life in some manner?
+Understanding the meaning of $s$ and $t$ in a population genetics equation
+Does DNA replication in 5&#39; to 3&#39; (leading strand) need RNA primase?
+Are Asian people shorter than Europeans?
+Book-recommendation: Biochemistry
+Exon skipping in mammals
+Understanding intra and extracelullar concentrations (membrane potential)
+What insect is this on the photos?
+Ebola: cleaning of protective suit
+Why do different pain killers have different effects on people?
+Does the Jungian notion of collective unconsciousness have any legitimacy in the light of modern neurobiology and epigenetics?
+NADH inhibits gluconeogenesis?
+Localization of Protein Kinase-A
+Cardiac Excitation Threshold - in C++ modelling
+What (if anything) about tuberculosis makes producing a highly effective vaccine difficult?
+Why can&#39;t we smell our own bad breath?
+How can ingesting a prion &quot;infect&quot; someone?
+Do plants absorb toxins from the soil?
+How isolated are different areas of the brain?
+Why is it called &quot;Ebola virus disease&quot;, not just &quot;Ebola&quot; or &quot;Ebola disease&quot;?
+How does the brain avoid feedback loops?
+Do you know of any disease where HLA / MHC association discovery has led to better treatment or management?
+Gene duplication and subfunctionalization
+What species is this large-ish spider?
+Why did abiogenesis only happen once?
+Why is the ebola virus so intense now?
+Is the brain functionally symmetrical?
+Why is coconut oil healthier when it has so much saturated fat?
+NADH vs. NADPH: Where is each one used and why that instead of the other?
+Can sealed epiphyseal growth plates theoretically be restored via epigenetic or genetic methods?
+How do colds and flu not infinitely recur?
+Is it possible for a child to grow taller than their tallest parent?
+Gibson assembly - primer design with A and T rich regions

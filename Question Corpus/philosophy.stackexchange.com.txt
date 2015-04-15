@@ -48,6 +48,56 @@ In formal logic, how is it possible for an argument with a contradictory conclus
 Can observers be particles?
 A proposition is non-falsifiable. So what?
 Does anyone argue that Karl Popper&#39;s theory of critical rationalism does not meet its own conditions?
+Why was Mill wrong to claim that Kant appealed to consequences?
+How do you refer to &#39;unthinkable thoughts&#39; in simple english?
+What is the inverse of solipsism?
+To which of Badiou&#39;s four conditions does religion belong?
+Is this description of &quot;universal systems&quot; with regards to Deconstruction valid?
+Is there a philosophical definition for &quot;difference&quot; and &quot;similarity&quot;? When are 2 logical arguments &quot;different&quot; or &quot;similar&quot;?
+How fatal is Rands error in tackling Humes is-ought distinction?
+Is Artificial Intelligence an Oxymoron?
+Which one matters the most? The journey or the destination.
+Who is an Innocent Person?
+People who think too much are considered genius or stupid?
+Is there a literature theory of science and math texts?
+Practicing Philosophy, and Relations Among Man
+What&#39;s a simple term for &quot;constructing the best instance of a concept in a situation&quot;?
+Infantilization as explanation for wide-spread fear in society?
+Belief Pathways (Social Doxology)
+Are there limits to freedom in a democratic society?
+Is Work the Root of All Evil?
+Logic: can I define a domain containing distinct names referring to the same object?
+Is Sacrifice a Hypocritical Self-Brainwashing Concept?
+Is this disproof of God&#39;s existence logical?
+Could &#39;cogito ergo sum&#39; possibly be false?
+discerning among ethics morality principles virtues, and etiquette
+Do thoughts exist? How about ideas?
+Enlightenment as the beginning of observation, examination and control
+Is God subject to logic?
+What is a Master-Signifier?
+In Descartes &quot;Meditations on First Philosophy&quot;, what does the title &quot;first philosophy&quot; mean?
+What basis do we have for certainty in current scientific theories?
+How to answer the common anti-deity existence argument involving a big rock
+Lecture about presocratic cosmology
+Can you prove anything in philosophy?
+Is &#39;guns don&#39;t kill people people kill people&#39; a good argument?
+Do questions about the ultimate truth make sense? Are we capable of understanding the system in which we live? (Looking for directions/references)
+Is there a theory in philosophy which holds that &quot;ignorance is bliss&quot;?
+What can be plausible justification for the judges&#39; subjectivity in interpreting some laws? (More questions below)
+Does one have a &#39;right&#39; to believe in anything?
+Negation type compound statement
+When did psychology separate from philosophy and become a science?
+What is it mean by &quot;to be meet with in space&quot; by Moore?
+What is the difference between metaphysics and ontology?
+Formalised logic equivalent of self fulfilling prophecy?
+How can teleological explanations not fit with modern science?
+Let A be a finite non-empty set and S a finite symbol set. Show that there are only finitely many S-structures with A as the domain
+Is there still any philosopher who supports the incompatibility thesis in the social sciences?
+The metaphor of the herd and prey in Nietzsche
+Christianity is not a religion. But christianity is one of the religions
+Micro-physics of power
+&quot;Ordering of rank&quot; in the Will to Power 287 of Nietzsche
+Can there be Creation Ex Nihilo?
 Thermodynamics of Occam&#39;s Razor
 Jan Narveson, “Feeding the Hungry.” imply that we do not have a negative and positive duty?
 Where can I find a rigorous and complete exposition of Plato&#39;s theory of Forms?
@@ -199,3 +249,2253 @@ Laws are made for humans, but does everyone classify as a human?
 what is an electron (classically)?
 Multiple quantifiers and negation
 If the universe has a beginning does that prove God exists?
+Moral responsibility of sovereign states
+What are the differences between morals and ethics?
+Was the reappraisal of time, space and motion by Einstein, in Kantian terms, a transcendental deduction?
+What is the name given to a false comparison
+Did Socrates Help or Hurt Athens by Submitting to Execution?
+How can you translate the mathematical statement 5=5 into a second order symbolic logic statement?
+Sigmund Freud related work to writer self empowerment by autobiography
+What&#39;s the point of &#39;dthat&#39;?
+Why doesn&#39;t Parmenides argument hold for fields - or does it?
+What is the meaning of Spinoza&#39;s first three definitions?
+Where does Derrida say that deconstruction and (the exitence of and belief in) God are incompatible?
+Is it possible to determine the soundness of the following argument?
+Can a priori principles be applied to deduce &#39;Principal Bundles&#39; as principles in Modern Physics?
+Is there another name for a philosophical analog to gestalt psychology?
+How can one justify Newton&#39;s third law?
+Should uniform motion be distinguished from rest?
+How does Hegel develop the notion of freedom in his metaphysics?
+are Wittgensteins propositions analytic or synthetic?
+How is &#39;rational capacity&#39; universal?
+How does capacity for reason &#39;exist undifferentiated in all of us&#39;?
+How do you treat retailers without using them as a means?
+Can a point of space be identified?
+Is a relativistic particle &#39;kantian&#39;?
+Faulty analogy and/or guilt by association
+How&#39;s this version of Kant&#39;s Categorical Imperative &#39;more humanistic&#39;?
+How does &#39;humanity&#39; &#39;reside undifferentiated in all of us&#39; ?
+Has there been an &#39;anthropological&#39; study of the Christian Theology?
+Where and how can I get started in contemporary philosophy?
+How does &#39;Is–ought&#39; &#39;subvert all the vulgar systems of morality&#39; ?
+Decreasing quantifiers and entailment in event semantics
+What do you think? A blogger&#39;s thought and Mine : Falsifying Test
+Are programmers evidence Artificial Intelligence is impossible?
+Does fallibilism carry an ontological commitment?
+Rawls and the Categorical Imperative
+The dissonance between our logic, and the origin of everything
+Claim that we shouldn&#39;t give homeless people money because they will &quot;spend it on drugs/alcohol&quot;?
+Is Machiavelli&#39;s &quot;The Prince&quot; an immoral book?
+Doubting media accusations is &#39;Genetic Fallacy&#39;?
+A theory of everything?
+What&#39;s &#39;hypothetical&#39; about &#39;hypothetical imperatives&#39;?
+What is the meaning of the Trinity in Catholicism?
+Why are cows sacred in Hinduism?
+Why Equal Rights?
+What does determinate negation mean?
+What is meant by the philosophy of juxtaposition?
+Can something come out of nothing or not? Why?
+Fruit of the Tree of Knowledge of Good and Evil
+Is the Body without Organs a phase space? Or an image of the actual body?
+What are real life examples that can be applied to formalism?
+Fundamental Truths in Philosophy
+Reincarnation confuses me
+About &#39;a law I give myself&#39;, what do &#39;cause and effect&#39; and &#39;laws of nature&#39; mean?
+How is killing someone (libertarian) self-possession?
+What did Poincar&#233; mean when he said &quot;Mathematicians do not deal in objects, but in relations among objects&quot;?
+Properly basic belief in God?
+Is atheism or agnosticism more rational?
+Equality Awareness (for minorities, LGBT, women, etc.)
+Contradictory Conclusions - Both cannot be valid
+What are the historic stances on the epistemological status of mathematics?
+Does claiming that strong AI is impossible imply a belief in substance dualism?
+Is perception presentational or representational?
+How does J.S. Mill&#39;s liberty principle encourage paternalistic intervention?
+Would a logical positivist consider a proposition about objects outside of the earth&#39;s light cone to be meaningful?
+How&#39;s it true that all mankind &#39;will but consult reason&#39;?
+What is there so much of, is his property? (Locke 1690)
+Why do Object Oriented Philosophers write so much about Kant?
+Is there a categorical impertaive against humour?
+What is the difference between Rule Utilitarianism and Act Utilitarianism?
+Is the question: why there is something rather than nothing?, the root of all philosophy?
+If universe is infinite and time is infinite, doesn&#39;t that mean that &quot;after-life&quot; exist?
+Meaning: &#39;A hallucination is a fact, not an error&#39; and the text around?
+Do messenger-based religions contradict an all wise God?
+Can we have a theory of the colour blue in a Popperian sense?
+Meno&#39;s paradox - Did Socrates contradict himself?
+How&#39;s &#39;Is Tom Brady a cheater?&#39; a &#39;straw-man expression...&#39;?
+Concerning the integrity of some logical syllogisms on moral subjectivism and ice-cream
+Which ontological commitments are embedded in a straightforward Turing machine model?
+The christian &quot;soul&quot;
+How to know if one has aesthetic observation &quot;artist-eye&quot;?
+If the atoms of a person&#39;s body change every x number of years, should the person be prosecuted today for a crime that he/she committed x years ago?
+Does the recent &quot;uproar&quot; against Philosophy have any historical roots?
+What is the purpose of answers to metaphysical questions?
+Can the Void have Being?
+Can there be a valid argument which has a tautology as a conclusion?
+Norms of Merton
+Reading Kant&#39;s Critique of Pure Reason in german or english
+Eventualities and their existence
+Arguments against eternal return
+Karl Marx&#39;s vision &quot;in the end&quot;
+Hierarchical Reductionism vs Emergentism
+The eternal return, as thought experiment: what are the consequences?
+Elizabeth Lloyd
+How should motives be ordered?
+What is the purpose of life? [mainly for non_believers]
+Is an Anarchosocialist a philosophical term or a political term?
+How does objectivism see altruism during an accident?
+&quot;The Logic of Emotion&quot; by Robert C. Solomon
+Ought we respect the privacy of the deceased?
+For any argument form in the language of propositional logic, the tree for that argument
+Davidson, events, and states
+Another name for &quot;non-events&quot;
+Do any other famous examples of synthetic a priori exist?
+How to approach or consider racist philosophers?
+How can ethics being subjective and relative be justified?
+What exactly is a bare particular
+&quot;→&quot; is the symbol for material implication. Is there such a thing as &quot;immaterial implication&quot;?
+Isn&#39;t human society always self-defeating and imbalanced?
+Any philosophy to the equality of zero and infinity
+Is the ideal speech community of Habermas universal?
+What does &quot;deliberation&quot; usually mean in John Rawls&#39; theory?
+Dialectic vs Logical positivism
+What underlying principles determine US parties&#39; stands on issues?
+Existential priority and modality
+What does *remediable* mean to philosophers? (Example and context provided)
+What&#39;s the difference between negative and indefinite judgment?
+Having a difficult time understanding ethical formalism
+Hume and free will
+What does a justified disbelief in theism imply?
+I and Thou, Martin Buber and Carl Rodgers
+What are the legitimate domains of humanitarian action?
+Is torture to prevent a killing an example of the paradox of deontological constraint?
+Is deconstruction not a method because methodologies are mechanistic?
+Is the consciousness currently in oneself the same the the consciousness that used to be or in the future will be in oneself?
+Levinas - God Death and Time
+Formal Modal Logic and Metaphysics
+If mathematics is the language of quantitative thinking, what exactly is the language of qualitative thinking? Please read
+Omnipotence: nothing that God is able to bring about due to a lack of power?
+Alternate axioms for relevant logic R
+What is the general relationship between Intelligence and Information?
+Are numbers real?
+What is meant by &#39;practical logic&#39; by Kant?
+Books to get started on philosophy
+What is Neoplatonism?
+Understanding symmetry
+Buddhism self, no-self and the middle path.
+Fallacious Argument Name
+Professional ethics - the relative ethics of paying into corruption for the &#39;greater good&#39;
+Is there an onus on the critic to povide an alternative solution?
+Quote about sacred and profane thoughts
+How to prove: (P v (P ^ Q)) iff P
+Is transubstantiation faithfully Aristotelian?
+Does a person have the freedom or the right to not work?
+Reward system of recognition
+What are some popular ways of trying to resolve the &quot;Hangman&#39;s Paradox&quot;?
+How to use Act-Utilitarianism
+Epistemological vs. Ontological claims
+Disjunctive Syllogism in a Fitch Style System
+Showing b=a from a=b in Fitch Style System
+What is Aristotle trying to say here?
+Identifying base/superstructure using Marxist theories in Coriolanus?
+Using natural deduction rules give a formal proof
+Invalid arguments with true premises and true conclusion
+Logical Consequence and Tarski&#39;s World
+Is there is no room in the 21st century for a purely “qualitative philosopher”?
+How much should I give to charity?
+Representation of Categorical Syllogism in Symbolic Logic
+Is graph theory a good model for Seven Bridges of Koenigsberg?
+Is this enough to conclude that G is false?
+Cherry Picking Fallacy (In a Social Media Debate)
+Meaning of &#39;per se&#39;: &#39;the literal meaning of the sentence per se&#39;
+Do all events end
+What&#39;s the force of Leibniz&#39; worry in &quot;The Ultimate Origin of Things&quot;?
+Conversion of Conditional Statement to Disjunctions
+will human do whatever they like if money is not human&#39;s objective?
+What are &quot;entanglements&quot; in &quot;feminist philosophy&quot;?
+Quantum immortality - why is my conscience the one surviving?
+What is the dimension of a curved plane?
+What does *substantive* in the term &#39;substantive normative claim&#39; mean?
+Relation between truth tables and trees
+Is there any philosophical value in &quot;atheistic theology&quot;
+Mathematical versus philosophical reasoning (and the mathematics of philosophical arguments)?
+Is time a physical factor or just a concept?
+What is the minimum number of axioms required for a system of axioms?
+Is it possible to argue that belief systems that are full of caveats about their own predictions tend to be false?
+Kant and free will
+Why are propositions about Hamlet false while propositions about Louis XIX meaningless?
+How to justify the use of logic?
+Are there differences between Kants Categories and Aristotles?
+Are there different levels/categories of falsehood?
+What does it mean to &quot;conditionalize a probability distrubition&quot;?
+Is Žižek usage of Psychoanalysis and Marxism considered transdisciplinary or interdisciplinary?
+Terminology for Dialectic
+What is the meaning of &quot;predicate&quot; in this definition?
+Why isn&#39;t existence a predicate?
+Material vs formal logic?
+Is hatred good for anything?
+Are ceteris paribus laws of nature tautologies?
+What is the principle (law) of identity and is it universal?
+What were some of Russell&#39;s arguments against Kant&#39;s system of thought?
+What is the name of the idea that humans are granted rights?
+What does &quot;moral agent&quot; and &quot;moral agency&quot; mean respectively?
+The paradox of oneness
+Truth and actuality
+How can I prove that any group of points created after just one point existing must exist in the same place?
+Theories in science that make claims that are not empirical in nature
+Modern works that apply axiomatic method to something other than mathematics
+Could you help me with this logic problem?
+A∧B-worlds and law of enrichment in Stalnaker semantics
+Popper, Nietzsche and knowledge
+What can we speak of
+A Neo-Kantian View on Causality?
+Aside from logical representations, what are other ways philosophers approach representing knowledge?
+How can Schelling’s philosophy as a whole be characterized?
+How objective can morality be?
+Is it better thing to kill animal not human. Whats the difference?
+Is it justified to assess the probability of a claim if the claim is unverifiable or do we have to say the probability is inconclusive?
+Are the experiences of the &quot;flow of time&quot; and of &quot;cause and effect&quot; qualia?
+McTaggart&#39;s infinite regress
+Tellers Thesis - particles aren&#39;t individuals
+Saussure and idealism
+How to begin logic?
+A Kantian view on modern physics
+Aquinas&#39; Third Way: Why Argue For Only One Necessary Entity?
+Belief in God in the context of modern science
+&quot;There are no facts, only interpretations&quot;?
+What is the name of the &quot;pizza argument&quot; against an all-powerful being?
+&quot;One achieves knowledge and indifference at the same time&quot; Andr&#233; Weil reference to the Gita. Source?
+Sentience vs. consciousness vs. awareness
+Lacan&#39;s distingushing &#39;between the two sides of the subject of the signifier&#39;?
+Very basic ways to start learning philosophy
+Semantic Fictionalism
+How many minds operate at once?
+Karl Popper critiques to historical relativism
+Meaning of this excerpt on &#39; distinction between &quot;designating&quot; and &quot;signifying&quot; &#39;?
+The belief that everything is expressible in mathematical terms?
+Nietzsche and abuses of power
+Annotations or explanations for difficult philosophy writing in English?
+Truth Tables and Venn Diagrams: Prove Contingent statement are consistent
+What, if any, are the differences between materialism and empiricism?
+What are the key differences between Plato&#39;s Republic and Zeno&#39;s?
+Can we trust Friedrich Nietzsche&#39;s perspective on isolationism?
+Is there a cogent argument for whether there are objective moral facts?
+Do malformed propositions have True/False values?
+Are there any philosophical arguments to disprove or weaken solipsism?
+Can someone be an atheist and subscribe to substance dualism at the same time?
+Thoughts about Feyerabend
+How Does Modern Science &#39;Know&#39; there is no God?
+The thermodynamic arrow of time and information asymmetry
+Peer reviewed guides for the Philosophy of Religion
+The difference between innatism and empricism
+To what degree are soldiers guilty, for diligently fighting for their corrupted countries?
+Does the imperfection of man imply the imperfection of God?
+How fallacious is tu quoque or look-who&#39;s-talking fallacy?
+Should I trust mathematics?
+Does time in GR reflect Aristotelian time?
+In what senses is immortality both possible and desirable?
+Any argument against determinism?
+fMRI prediction on decision making and implications on taking credit
+LPL Q6.26 without --&gt; or material implication
+What makes generalization of a mathematical notion correct?
+If &quot;God didn&#39;t play dice&quot;, would that imply superdeterminism?
+How does logocentrism entail metaphysics of presence?
+Philosophical justifications for the assumption of a non-empty domain in classical first-order logic?
+Where does Kant say that we are unable to understand God on the basis on his representation in the bible?
+Is it possible that things that are not alive possess conciousness?
+What kinds of logic or philosophy to improve comprehension of difficult writing?
+First book to self-learn logic, mainly to improve reading comprehension?
+Is this way of thinking about the differences between men and women valid?
+Where to begin Nietzsche?
+We know substances by means of their accidents?
+Is there a compendium of terse-but-devastating attempted refutations of religion?
+&quot;This sentence is true&quot;. Is there a word for this class of statement?
+Sentential Derivation: Derive ~(RvB) from ~R and ~B
+Can there be an argument without premises?
+Is it fair to say that Platos answer to Juvenals question &#39;who guards the guardians&#39; - is that they themselves do?
+If you invalidate evidence based on where it came from is that the genetic fallacy?
+Does a statement exist which is its own proof?
+Libertarian &quot;thought experiment&quot; about planned economy
+Is truth inherent in honesty?
+How would binding soldiers to war against their will, mock a legal system?
+Why is the &#39;problem of evil&#39; considered so difficult?
+A supposedly new argument for the existence of God?
+Why is the darapti syllogism invalid?
+Is there any consensus among philosophers on ethical systems?
+Is the indescribable a paradox?
+Modal logic and Boolean algebras
+Causation, Correlation, and the Scientific Method
+Why killing/death is more accepted (morally) than nudity on television/movies?
+Doesn&#39;t the upvote/downvote system just encourage the use of the &quot;ad populum&quot; fallacy?
+Context of &quot;one tongue but two ears&quot;
+How does the Hegels dialectic map onto the Parmenidian dialectic?
+Is the idea of a multiverse considered metaphysics?
+Plato&#39;s Ideas and Hegel&#39;s Idea
+Strong man of &quot;ressentiment&quot; and the ambiguity of Strength
+Source for (Stoic?) quote on death/(im)mortality
+Is knowledge a form of energy?
+How does Kripke lay out the epistemic argument?
+What&#39;re some solutions to the absurd?
+On a question of likeness as elaborated by Parmenides
+considering the line and circle as not just a contrary, but as a extremes on a continuum
+Is an &quot;R connection&quot; really all we care about in terms of personal identity?
+Causality in physics and Aristotles classification of causality
+If the Platonic world exists how would we know?
+Is an infinity of possibilities is not possible when God is involved?
+How is the sacrifice of Nakiketas in the Katha Upanishad understood in Indian Philosophy?
+Was the Communist Manifesto actually representative of Marx&#39;s ideology?
+If magic is &quot;fake,&quot; why is science real?
+Is the Deleuzian Concept Hegelian?
+Why are there so many religions?
+What are/were the main criticisms of logical positivism?
+Can the existance of consciousness be proven by refering to it?
+How does Nietzsche define and characterize &quot;freedom&quot; throughout his works?
+Philosophically (through logic and reason) how does one get to liberty, freedom, destiny from positivism--raw science?
+What is the purpose of life? Why should we live or even be created?
+How does negation operate in modal logic?
+Complacency and self hate
+What would Dawkins say about other minds?
+Does the internet exist?
+Can &#39;I think, therefore I am&#39; be reduced to &#39;I, therefore I am&#39;?
+Can computers be programmed to be &#39;creative&#39;?
+Help with a proof in CSL
+Counter argument to Nozick&#39;s counter to principle of fairness
+Who is the Big Other, and is there a little Other?
+Ontology and Moral Axioms
+Define Internal and external vs Essence and illusion
+Common fallacy of everything being its worst form
+Does Flatland exist according to modal realism?
+What is Brandom&#39;s notion of implicitness?
+Game theory: altruistic / selfish voting
+When talking about philosophical realism, how do philosophers define objects and their forms?
+What can science assert
+Is the following statement a fallacy?
+Political Philosophy - who to vote for
+Is it an ad hominem attack to call somebody a troll?
+Is the phrase &quot;logic and reason&quot; grammatically correct?
+Do numbers exist independently from observers?
+What are some answers besides besides Mallarm&#233; to Nietzsche&#39;s &#39;who is speaking?&#39;
+Would a clone of myself be a different person than myself?
+Time of Occurrence of Events
+Should I learn logic before learning philosophy?
+Who is really the father of Mind
+Why aren&#39;t creationism and natural science on the same level? (Or are they?)
+Has philosophy progressed since Kant?
+Deontology: Perfect vs. Imperfect Duties
+Is ethics anthropocentric?
+Transitive Incompleteness of Logical WFF&#39;s Due to Godel&#39;s Incompleteness Theorem
+Other terms for Popper&#39;s &quot;metaphysical research program&quot;
+Are there universally agreed masterpieces of art?
+Difference between Science and Arts
+What does Foucault mean by discursive practices or discursive constitutions in definition of discourse?
+Dreaming and Awakening: Both False?
+I&#39;m looking for texts and talks where Zizek talks about Mimetic Theory of Rene Girard
+Confusing name-dropping --- Is Socrates known to have walked in a garden with his &quot;pupils&quot;?
+Argumentum ab ignavia
+Is free will a third option aside from chance and necessity?
+Taoism and Christianity
+To use the limited to pursue the unlimited is foolish?
+Use-Mention distinction with letters
+Is the &quot;Continental Philosophy&quot; dependent on Marxism?
+Philosophical bravado in science
+Can one prove a negative existential claim?
+If a cone is divided in a plane parallel to its base, are the surfaces produced by the cut the same or different in size?
+How can one measure the quality of art?
+How to show non consequence / logical consistency?
+Why does Rand garner such an emotional response?
+What did Nietzsche mean by the words &quot; philosophizing with a hammer&quot;?
+What did Camus mean when he wrote &quot;All thoughts are anthropomorphic&quot;?
+The Critical Philosophy Critically Examined
+How to prove a theorem using Sentential Derivation
+Should the successful philosopher (one who &#39;does&#39; philosophy) be concerned with having a good reputation, not with being virtuous (correct)?
+Geometrodynamics in the 19th Century
+Is Socrates mocking Ion in Plato&#39;s dialogue?
+Could Science and Philosophy be focused too much on physical states and not enough on dynamic processes?
+Trouble understanding Chomsky&#39;s answers on the free will question
+What is the opposite of the reductionist approach?
+Can a thing be a thing for a thing?
+How to derive ( E v C ) using sentential derivations?
+Philosophy and religion
+What is it like to be a groundhog?
+Proof of a Conditional and Discharged Assumptions
+Discredited readings of Nietzsche
+Every argument is an instance of an invalid argument form
+Is to understand the nature of time considered metaphysics?
+Unambiguous Way of Stating a Biconditional in Plain English
+&quot;The&quot; before &quot;future&quot; means we believe in hard determinism?
+Which scholars argue that for art to be art, it must be for art&#39;s sake?
+&quot;How does an immaterial activity (eg thinking a thought) inform a material medium (eg the brain) in which it is manifested?&quot;
+Precedent for the idea of superluminal choice
+Can our universe be simulation without simulator?
+Why not web-space at Stack Exchange for discussion of great literature, literary history, theory and criticism?
+Resources for learning Indian Philosophy
+Can science remain objective when it is embedded in a world of politics?
+How do social sciences today tend to see the contributions of biology and other natural sciences?
+Two Wrongs Don&#39;t Make A Right
+What anthologies might offer introductions to moral philosophy?
+Logic Question: Symbolizing sentences that use &quot;some&quot;?
+An Argument for the Unity of Truth?
+&#39;Can&#39;t answer&#39; as a philosophical response to moral questions
+Is the belief &quot;I have Impostor Syndrome&quot; paradoxical?
+Mathematical Platonism vs Platonic Platonism
+Materialist Defense of Existence of Free Choice and Morality. Book rec?
+If logic is based on human reasoning, how can most people be so incoherent?
+Problem of old evidence
+What is the difference between a statement and a proposition?
+What should philosophers know about math and natural sciences?
+Is there anything that is totally random?
+Predicate logic proof
+When/How does an issue become &quot;Philosophical&quot; in nature?
+A Question about Negative Theology
+Does the Christian concept of eternal God and souls violate the Buddhist concept of Annica and Anatta?
+Do limits of human nature suggest that it could be principally understood?
+Is the inconsistent (or paraconsistent) line a possibility?
+Holism, reductionism and emergence
+What does &quot;speculative&quot; exactly mean in philosophy?
+What do necessity and possibility mean in Aquinas&#39; Third Way argument for God?
+The man who wants to die
+Subtly inconsistent axioms
+What are the second order virtues?
+Is time travel only possible if the world is deterministic?
+A contradiction in Kant&#39;s Universalizability Principle
+Does Karl Popper&#39;s work address the Principle of Uniformity of Nature?
+Logic and presentation
+Is mathematics as pure as originally thought?
+Who did Heidegger consider as the thinkers of Being in Antiquity?
+Speculative realism: Does changing law of nature collapse the ancestral argument?
+Can we intend anything that exists and must it exist partly in that intention
+Difference between experiencial beliefs and beliefs formed on religious experiences
+Why and how is Camus &quot;against nihilism&quot;?
+What is the Being in Being qua Being?
+What is the number 2?
+consciousness and the person who was born isolated
+Who postulates the inability of a system to describe a system larger than itself?
+Love and hate as a single principle?
+Who invented the notion of Philosophical Zombies?
+What makes a student good at philosophy?
+What is the difference between Aristotle&#39;s theory of categories and Russell&#39;s theory of types?
+Is a perfect chaos possible?
+Are analogical middle terms sufficient for a valid demonstration?
+Assuming P means the same as Q and Bob believes P and is aware that P means the same as Q, can we conclude he believes Q?
+Would creating a mind designed to feel free while achieving the wants of its creator be unethical?
+What determines individual experience?
+What logical fallacy is the argument &quot;I have a RACE_NAME friend, so I can&#39;t be racist&quot;?
+Should I send the money back?
+What could be a philosophical view on hallucinations and selfidentity?
+Is Realism an Aristotelian middle term?
+Can we add Pi to Pi
+How can telling the truth amount to a lie?
+Could it be possible that the universe doesn&#39;t exist?
+Is there a way to prove if something is self-aware?
+Human belief systems and reason
+Why is the M&#252;nchhausen trilemma an unsolved problem?
+In Jain Logic what &#39;is&#39; or &#39;can be&#39; asserted to be true and indescribable?
+Is it a fallacy to claim someone is committing a fallacy without explaining why?
+What exactly is it that G&#246;del is supposed to have done that an algorithm can&#39;t
+Did I correctly apply Ockham&#39;s razor?
+What is the appropriate English translation of the German terms &quot;Realit&#228;t&quot; and &quot;Wirklichkeit&quot;?
+How historically grounded is the standard narrative of the Irrationals in Antiquity?
+Mass and Density in De Rerum Natura
+Why do Famous Philosophers not provide bibliographies and references?
+How being unable to settle all disputes makes it possible to settle many disputes?
+Are passive observation and active experimentation the only ways of knowledge production?
+How has the philosophy of war changed since Sun Tzu&#39;s The Art of War?
+Is it possible to generate logically valid sentences made up of &quot;atomic contradictions&quot;?
+If all the premises of an argument are true, is the argument logically valid?
+Is Time? (more than just a memory of a series of events?)
+Input/output in &#39;mathematical&#39; programming languages
+Is &quot;mental illness&quot; really a disease, an illness?
+How does the camel, the lion and the child apply to everyday life?
+Does Priority (way of solving problem) come from Natural selection philosophy?
+The relation between abduction and induction
+Logic question: Is ~(P&amp;Q) equivalent to (~P&amp;~Q)?
+Logic problem in TOEFL book
+Do the laws of logic exist independently of human or animal consciousness?
+Might additional spacial dimensions provide higher processing efficiency in computing?
+Is it possible to appeal to emotion without commiting a fallacy?
+Real in Mathematics Vs Real in Philosophy
+Eastern/Western Thinking
+definition of and difference between living and non living
+Is it right to not believe someone simply because it is beyond our experience?
+Is the golden rule considered childish in philosophy?
+Is Galileo&#39;s argument about falling bodies logically flawed?
+Bayesian Confirmation - Justifying Bayes&#39;s Rule
+What is one divided by zero?
+field concept - historical and contemporay perspectives?
+Is believing in uncaused events akin to believing in magic?
+Can we doubt that we are conscious? That we are not dead?
+How can I learn about the philosophy of discovery?
+How would Kant decide whether a law is ethical?
+How can one determine, and justify, that something is infinite?
+Creativity in mathematics
+What is the point of Heidegger&#39;s authenticity
+What does Sartre mean with that existence precedes essence and how is it related to the earlier existential philosophers&#39; thoughts?
+The philosophy of the snob
+The three metamorphoses of spirit
+Secular argument for immortality
+Any philosophy in verse
+Is mathematical platonism compatible with Platonism?
+How is synthetic a priori knowledge possible?
+If all the premises are true and the conclusion is false, is it possible for the argument to be logically valid?
+What&#39;s the difference between Randian philosophy and Objectivism?
+Is Ayn Rand&#39;s objectivism incompatible with delayed gratification?
+What does Deleuze mean by &quot;the world can be regarded as a &#39;remainder&#39;&quot;?
+Who is the contemporary philosopher that believes a dictatorship can be built without controlling access to information?
+Isn&#39;t Nietzsche&#39;s &#220;bermensch idea self-contradictory?
+Is it possible to make non-fallacious argument?
+What valuable thought came out of Heidegger&#39;s Being and Time?
+What does it mean to be an eliminativist with regards to propositional attitudes?
+Why is knowing not a mental state?
+Should websites display our private information without asking us?
+Is atheism a requirement for a consistent existentialist philosophy?
+If something can happen, it does? Proof wrong!
+Is there a term for materialistic non-determinism?
+How does Kant tie the categorical imperative to its noumenal manifestation
+Is the Turing test a legitimate test to compare Robots to Human?
+How is philosophy useful? Examining the practical, impactful, real-life benefits of getting a degree in philosophy
+Evidence for beliefs
+The unity of opposites of the real and the ideal
+Logic Question: Can a logically valid argument have a logically false conclusion?
+Could Cultural/Epistemologial Biases Have Influenced the Evolutionary Concept of Behavioral Modernism?
+Are &quot;intelligent systems&quot; really intelligent?
+Suicidal fantasies as a means to overcome anxiety on death
+Is there any reason to believe that there are things which science cannot tell us?
+Bibliography on Ethics in Science
+In a way, isn&#39;t everyone biased somehow?
+What Philosopher Said This?
+If God existed, but there were no afterlife, would anybody obey?
+Must consciousness display intentionality?
+About determinism and any relevant views
+Does artificial intelligence necessarily mean a system can somehow &quot;freely&quot; vary its own behaviour?
+What are some articles that give reasons for trusting one&#39;s perceptions, memory, or reasoning?
+Why Would Security Ultimately Cost Freedom, Equality, Justice, and Liberty?
+Is Pi in Pi? And is 1/3 in Pi? And other numbers?
+German philosophers on (french) revolution
+To what degree is dreaming an aspect of consciousness
+Consciousness without thoughts or feelings?
+How can I explain the soundness of a rule with respect to the semantics of a truth table?
+Countable additivity
+Can There be no Justice and no Injustice at the Same Time?
+What is extension in Spinoza?
+What is a sign?
+What is it to will meaninglessness
+Hegel&#39;s measure as gauge
+What is science in the &#39;gay science&#39;?
+Is existentialism the &quot;practical&quot; nihilism?
+By what criteria would we recognise a theory of AI?
+Free Will and Rational Thought - Kant
+Quantum Mechanics and Radical Constructivism
+&#39;If P were true&#39; vs &#39;If P is the case&#39;
+Can Aristotles characterisation of courage be extended to include Paranoia and Euphoria
+What is the difference between events and propositions?
+What is the role of philosophy according to the Tractatus
+Is there a similarity between Justice in Plato&#39;s Republic and the definition of wealth in Judaism?
+convince me reality exists
+If something is non derivatively good then is it always good?
+Does veridical perception in Near death experiences prove the spiritual and supernatural to be true?
+Propositional and Other Forms of Knowledge
+Should multiverse theories be rebranded as meta physics?
+Kant and Paranoia
+Does evil cause evolution and a revolution reverses it?
+Is time neccessarily excluded from mathematical platonism?
+How do Modernity and Progress relate to one another?
+What would the situationists think of this rule?
+Is our tolerance for pain subjective or objective?
+What is meant by the field of Dharma in the Bhagavad Gita?
+Evidence for ~P vs evidence that P is very unlikely?
+How is &quot;time&quot; defined in modern philosophy?
+Convincing a brain in a vat of reality
+Predestination paradox
+Dreams inside dreams
+Could &#39;ought&#39; be defined as sentimentalism?
+&#39;Ought&#39; and the Principle of Generic Consistency?
+New Year&#39;s concept
+Kant&#39;s thing(s) in themselves and atomic physics
+Is there a modernist philosophy?
+How to self-learn legal arguments, logic, and reasoning?
+Biggest thing that can physically exist in this universe
+Is the word &quot;I&quot; a dangling linguistic pointer with no actual referent?
+Does consciousness depend on our five senses?
+English Sentence to Logical Proposition Doubt
+Is the last man a christian and if so what sort
+Would a conscious computer naturally hold a solipsistic philosophy?
+D+G on mental illness
+What unique ideas does speculative realism present?
+Would Deleuze affirm that Platos dialogues are a form of drama?
+Does being hypocritical or inconsistent invalidate an argument?
+How does one know one is not dreaming?
+Is there a set of basic moral &quot;rules&quot;, outside of religion or culture, that all intelligent life might theoretically agree on?
+Why is it that the hard problem of consciousness appear hard?
+On the foundations of physics
+Is it possible to measure speed directly?
+Is there a useful, nominally calculable, secular description of good?
+The stoic concept of Allotriosis
+Which writers might offer critical readings of Luhmann?
+Is there justification to jealousy (of another&#39;s abilities), or is it unreasonable?
+What is the intersection of Physics &amp; Philosophy?
+Tegmark conscious matter, Lucretious atoms of anima and qualia
+Metathinking impossible without ordinary language?
+Dual of identity relation?
+What is &#39;fence sitting&#39; in an essay context?
+Does the thermodynamic arrow of time really solve the arrow of time question?
+wavefunction and contextuality
+What&#39;s the difference between true statements and real information?
+Regarding free choice in a deterministic universe
+What makes a conversation fun/satisfying?
+What if we could only &quot;surmount&quot; propositions with lower order properties as their object
+Is there a logical fallacy that describes insulting an argument rather than addressing it?
+Infinity time divisibility: Can we observe it and would it disprove ideas of the universe being a simulation?
+What did Nietzsche mean by monsters and the abyss?
+Does a mind inherently gain understanding between &quot;right&quot; and &quot;wrong&quot; with the development of logical intelligence?
+Dual operator in justification logic
+What is the definition for &quot;Peace of Mind&quot;?
+Utilitarianism and liberty
+What&#39;s the difference between :=, =, and ≡?
+Universal instatiation and substitution
+Regarding the possibility of the mind as a real phenomenon
+Allegory of the Cave Free Will
+Is consciousness mediated?
+similarity between logical indiscernibles and qualia
+Does the existence of ethics(as a set of rules) imply lack of empathy in humans?
+What&#39;s the term for winning an argument using the elegance of manipulation?
+What is the quote on how we cannot not choose (existentialism)?
+Is the truth a privative?
+Truth in Aquinas metaphysics
+About A.I. systems and the possibility of one controlling a robot
+A joke on existentialism
+What is the difference between Derrida&#39;s Deconstruction and Heidegger&#39;s Destruktion?
+Is there an recommended text for the difference between what people say and what they do?
+Examples of universalizable maxims in Kantian ethics
+Introduction to Nihilism
+What does the &quot;meaning of Being&quot; mean in Being and Time?
+What does Kierkegaard mean by &quot;qualification of the psychical&quot;?
+Logical Positivism, Linguistic Philosophy, then came what?
+How would Kant respond?
+Can you infer a house exists from the proposition &quot;food cannot be found in any house&quot;?
+Which are the different possibles and what are their &quot;rules&quot;?
+Is there a name or category for these misleading propositions?
+Is Simmons a consequentialist while Rawls a non-consequentialist?
+What is going in our mind if we can not apply previous successes to current situations?
+Is there a philosophical term for this kind of error/mistake/fallacy?
+Kant&#39;s Refutation of Idealism
+Should it be, rather than God or Nature, Nature in God?
+I have some na&#239;ve ideas about utilitarianism. What should I read that might be related?
+What do optical illusions, or other illusions, say about our perceptions or senses in general?
+What could be a neural correlate for attending the phenomenal nature of experience?
+What would Nietzsche&#39;s response be to these claims?
+Why is it wrong to deduce determinism from a logical law?
+What is the entropy of the universe at the time of the Big Bang?
+Fungible Money Question
+Why do we value confidence so highly, or at all?
+Why does Aristotle suggest One is not a number?
+Regarding Atheism and skeptics
+Mildly interesting: is the number of objects in the universe at any given time finite?
+Wittgenstein on Math
+What does it mean to be responsible to the Other? How does our responsibility to the Other diminish an insistence on identity and self-hood?
+What are the most basic assumptions being held by humanity which serve as our foundation for thought?
+How do laws of nature enforce themselves?
+Why do we create?
+The &quot;point&quot; to an Atheists existence
+How does Kant go from good will to duty?
+Is property an absolute or utilitarian right?
+What, if anything, is the difference between ethics and moral philosophy?
+Is the science Physics allowed to ignore the rules of Philosophy of Science resp. the Scientific Method
+Moral Implications of Consensual Sex of Dementia Sufferers
+Why did Bertrand Russell say &quot;art is anarchic and resistant to organization?&quot;
+Is First Order Logic (FOL) the only fundamental logic?
+Why do we do what a police officer tells us to do?
+Why is Internet anonymity important?
+Are public trials ethical?
+How should people who don&#39;t follow the &quot;golden rule&quot; be treated?
+Middle finger and it&#39;s curse
+Do we dress for other people or ourselves?
+Arguments against the hard problem of conciousness
+Could philosophy still work as well or better as multiple isolated, clearly delineated deduction systems?
+God as in Pure act of being
+Can definitions be experimentally tested?
+Why do people become terrorists and will some kind of sperm or egg donation make the situation better?
+What is the Ontological Status of History?
+Aristotelian Analysis of Forgiveness?
+Double arrow elimination
+Are we being controlled and created by something or someone in the 4th dimension?
+Is autonomy or deduction the more primary component of intelligence?
+What is the definition of Derrida&#39;s term &quot;dissemination&quot;?
+What do the opening lines of Barthes&#39; &quot;A Lover&#39;s Discourse&quot; mean?
+Deleuzian finitism and Spinozian infinitism
+What are some criticisms of Epicurus&#39; &quot;death is nothing to us&quot;?
+Does Kant distinguish different types of &quot;pure reason&quot;?
+Why is violating &quot;the only x and y principle&quot; a problem in personal identity theory?
+What emotion corresponds to courage?
+What are the major research programmes in contemporary logic?
+Why does water appear to be a common creative principle across Indo-European culture?
+What average am I of the five people I spend most time with?
+Does anyone assert the real existence of p-zombies?
+Something, nothing, and death
+How does Parfit&#39;s &quot;brain division&quot; thought experiment refute the brain theory of personal identity?
+What are the necessary and sufficient conditions for something to be an adequate &quot;brute fact&quot;?
+Defining the stoic concept of Oikeiosis
+How can one differentiate nonexistent entities?
+What came first,  language or consciousness?
+Is being &quot;needless&quot; good?
+Is human consciousness encoded in DNA in an infinitely regressive way?
+Predicate Logic (Natural deduction &amp; transcription)
+Predicate logic and quantifiers
+Spinoza Ethics: if a thing could act in a different way, will it have a different essence?
+If intelligence maximizes future freedom of action, then are intelligent agents free?
+Is racism a moral judgement?
+Were there prominent secular philosophers in the European middle ages? If so, who?
+Is our general level of abstraction in ethics hypocritical?
+Is scientific progress an illusion?
+Does Santa Claus exist?
+How to interpret an &#39;if&#39; nested within another &#39;if&#39;?
+Burden of proof
+Are human feelings and emotions overrated?
+Is there freedom in determinism?
+New kalam cosmological argument
+Is it ethical to clear and clean the home of an extreme hoarder against his will?
+How to effectively undertake the study of a philosophical work?
+eternal universe vs. creation in greek phillosophy
+Translate quantifiers into senstance
+What is &quot;Under Erasure&quot;?
+Descartes Meditations: Clear and distinct perceptions
+Don&#39;t you think being &quot;God-like&quot; would be awfully boring?
+Virtue and Vices associated with Pleasures in daily life?
+Is arguing about &quot;death sentence&quot; in a dichotomic way a formal error?
+Descartes forth meditation: The role of god in the process of judgment making
+How can intuitions be infallible?
+Quine&#39;s Naturalized Epistemology
+Which limit for relativism?
+Kuhn&#39;s demarcation criterion
+Is homeopathy verifiable?
+How to prove the axiom is wrong?
+Can someone identify the fallacy based on the below example?
+Is the huge use of scientific changing the Philosophy?
+When does inference become overreaching?
+&quot;Saving&quot; Nietzsche?
+What is it like to be happy?
+Reading Hegel&#39;s `Phenomenology of Spirit`
+Does compatibilism imply that a chess program has free will?
+Reference suggestions - Contemporary Western Philosophy
+What is the term for this idea about thought relative to action?
+Did Friedrich Nietzsche believe in &quot;the truth&quot;?
+Should a skeptic consider anecdote as evidence?
+Overcoming procrastination &amp; the fear of making decision.
+Did time begin?
+Does information paradox in the Many Worlds interpretation cause a problem?
+Concepts of state and transition as used by Kierkegaard
+What would Socrates have said if the trolley problem was asked to him?
+Was Jesus a philosopher?
+Does quantum mechanics imply more than one observer, or can I get away with solipsism because of Occam&#39;s razor?
+Should philosophers care about the existence of emotions?
+Why isn&#39;t extreme solipsism the valid interpretation of quantum mechanics?
+What is the fallacy or bias that causes some to think &quot;fatwa&quot; means &quot;death sentence&quot; called?
+Might The Observer Effect be a result of simplification in a computer-simulated universe?
+Does anyone have a good answer to or deconstruction of the &#39;problem of other minds&#39;?
+What is the best order to read Aristotle in?
+Rape and non consensual sex
+Is medicine falsifiable?
+How to read Dante&#39;s Divine Comedy
+Is it correct to say that philosophy is not necessarily connected with the real world?
+Hegelian &quot;essence&quot; and Kantian &quot;concept&quot;
+Why isn&#39;t &quot;Philosophical Investigations&#39;&quot; style the norm?
+Are there any philosophy books for an intelligent nine-year-old?
+Moral sense theory / Meaning of life
+Passage of time on a superluminal vessel
+Believe in other Gods (like Odin?)
+Does there a unifying concept of sin that works for all religions?
+Does the “Lord&#39;s Prayer” increase corruption?
+Lying to donate blood
+How can the concept good and evil be defined in the context of decision awareness?
+Main meaning of the cave in Plato&#39;s republic
+An article by Jacob Pandian
+How to give proof for Q ∧ R with the premisse &#172;(&#172;&#172;&#172;P ∨ P)?
+Can one morally justify &quot;wants&quot;, as opposed to needs?
+Yhwh: Exodus 3, 14. &#171;I am that I am&#187; and relationship to Metaphysics as Ontology
+Is Theological Agnosticism a defensible position?
+How to know the exact meaning of the word?
+Is sophistry useful?
+Is there a correct or better order to read Aristotle, Plato, and Socrates?
+Does anxiety contradict trust?
+What is the philosophy behind the Copenhagen interpretation of quantum mechanics?
+Could I be accepted to a Graduate program in Philosophy with only a B.A. in Computer Science?
+Why does Zizek always jump to generalizations after describing a concrete example?
+What&#39;s the difference between superstition and religion?
+How does the modern notion of &#39;empiricism&#39; stack up against the Platonist and Neoplatonist concept of mind and understanding above sense and opinion?
+Shouldn&#39;t philosophy be replaced by neuroscience?
+What are the arguments in favor of scepticism today?
+My thoughts on time
+What if the tallest height is considered the most beautiful?
+Mathematical reductionism: senseless
+What if what is possible follows from logic alone
+Can deontic conditionals be indicative?
+Which physical phenomena are not objects?
+Major Themes in Plato&#39;s Republic
+Is this a logical fallacy?
+Would this morality be truly objective?
+How rigorous is the Dark Forest Postulate used to explain the fermi paradox?
+Kant - analytic/synthetic propositons
+Quantum Mechanics and Logic
+What are the main differences between Peirce, James, &amp; Dewey?
+In regards to Hume, do geometry, algebra and arithmetic form ideas that do not come from sense perceptions?
+Dark Forest Postulate used to explain the fermi paradox?
+What does &#171;the fieri of the effect&#187; mean?
+Should the easiness with which math is applied to the world be a surprise?
+Zombies and Occam&#39;s razor
+How materialism can be consistent in the context of qualia and simplicity?
+How does Goedel&#39;s theorem apply to daily life?
+Why does Sartre say one cannot be anything unless others recognize one as such?
+Ontological monism (in general) and physicalism (in particular) usefulness
+Is Mathematics considered a science?
+Is mathematics an art?
+What purpose do mathematics and philosophy serve epistemologically (compared to sciences)?
+The Queerness Argument
+Why happiness is induced by that which baffles us: What does laughter reveals about human nature?
+Propositional Logic - Best Way to Translate Complex Legal Statutes
+If materialism is true, then what accounts for pleasure and pain?
+What are the ways one can use to demonstrate that it&#39;s possible for something to exist?
+The speed of Time
+Propositional knowledge vs. Procedural knowledge vs Knowledge by acquaintance
+Should &quot;meaning&quot;, as we experience it, be considered qualia?
+What kind of philospher believes many philospical issues can be reduced to defining words?
+Did the early greek philosophers, including Plato and Aristotle make use of the Jewish scriptures just as much as writings from India and Egypt?
+Is it ok to exterminate species if it is &#39;invasive&#39;?
+Is there a word for a fallacy made by a listener instead of a speaker?
+Is there a boundary on &#39;physical&#39;?
+What is the name of the following logical fallacy?
+Is a posteriori analytic philosophy just science?
+How would Zizek explain his own popularity with contemporary media?
+Arguments for moral realism?
+Difference between subject and individual by Marx
+Is everyone considered a &quot;philosopher&quot;?
+How to credit this algorithm in my android app?
+Why must objects be moved by other objects in Aquinas&#39; First Way argument for God?
+soundness: how can one decide\know if premise is true or false
+Is the definition of God consistent?
+What does the statement &quot;Xs exist&quot; really mean?
+What exactly constitutes a good life?
+Could a finite time universe exist &quot;eternally&quot;?
+Is there some known problem that reflects the legitimacy of asking why infinitely many times?
+What is Intellectual Anarchism?
+What is it called when you disagree with a position on the basis that it doesn&#39;t fix everything?
+What is a modern particle in philosophical terms?
+What is the root of all relativity?
+How can we defend conservation on a species level?
+Don&#39;t waste your time with Aristotle
+Kant and punishment/ rights arbitrations
+Are there any naturally occuring non-embedded manifolds?
+An argument is valid if the premises CANNOT all be true without the conclusion being true as well
+birds of a feather flock together and guit by association
+About Supervenience and how it is used
+Is being logical for our Universe, is the only possible option?
+What kind of conditional does Nozick use in his theory of knowledge?
+does Gettier present cases of knowledge that are not cases of justified true belief?
+Can a &quot;real&quot; paradox exist?
+Assuming right and wrong aren&#39;t arbitrary
+How do we know if a mathematical proof is valid?
+Are Categorical Imperatives neccessarily deontological?
+Why is the &quot;brain in a vat&quot; scenario meaningful?
+What is the significance of Heidegger&#39;s concept of Gew&#246;rfenheit (AKA throwness)?
+Is it ever okay to break a promise?
+Was Kant right about space and time (and wrong about knowledge)?
+Which questions have philosophers answered more satisfyingly than mere common sense?
+possible conflict of interest by board members
+What does Kant think about non-corporeal, intelligent beings?
+Is abortion anything to do with choice?
+Is it possible to refute subjective reality?
+the method from descartes&#39; Rules for guiding one&#39;s intelligence rule 4
+Distinction between &#39;essence&#39;,&#39;substance&#39;, &#39;being&#39;, &#39;existence&#39; and &#39;entity&#39;?
+How do I use the &quot;Barbara, Celarent, … etc.&quot; mnemonic?
+An example - Fallacy of Strengthening the Antecedent
+What&#39;s this fallacy called, when &#39;we cannot clearly distinguish one thing&#39;?
+&quot;pleasure&quot; vs &quot;happiness&quot;
+Is it ethically correct to be proud of one&#39;s country?
+Philosophy and Psychology of Emotion
+Do Mobius Strips have a front and back?
+Philosophy of stress?
+How to prove you are an atheist?
+When are Counterfactuals transitive?
+Analysis of an example - Fallacy of Strengthening the Antecedent
+Intuition - The Fallacy of Transitivity (for Counterfactuals)
+Logically valid but fallacious?
+How and why is this an equivocation (logical fallacy)?
+Intuition - Fallacy of Strengthening the Antecedent
+Why is this an appeal to pity? Is it truly a fallacy?
+Is the gender divide a class divide?
+Similarities between philosophies of Zhuangzi (daoism) and Friedrich Nietzsche?
+Why do things have a front and a back?
+Does sapience require sentience?
+Why does Philosophy of Language matter?
+Do mathematician always agree at the end?
+What is value of a philosphical argument/theory when a conclusion can never be reached?
+How to start studying philosophical logic?
+Question regarding sound argument
+How to discharge an assumption?
+Why can&#39;t humans believe contradictions?
+What are the names, or arguments of the atomic sentence &quot;Max ate a cake&quot; and &quot;I ate a cake.&quot;
+In what way(s) does popular New Atheism fail to be philosophical?
+Help with a proof for the following arguments
+What logical fallacy is made in this statement?
+Zarathustra and the History of Western Philosophy
+Would it be correct or incorrect to interpret Aristotle&#39;s view of Tragedy as a ritual?
+Is it possible to provide a proof of the following arguments?
+logical form of the definition of validity
+Should I be content with short-term happiness and avoid thinking about long-term concerns?
+Can philosophy overcome &quot;the two cultures&quot; divide?
+Where does Quine say logic should have no ontological presuppositions?
+The existence of unknown propositions?
+Why are the laws of nature &#39;always and everywhere the same&#39;?
+Philosophy and History of Science in Lakatos
+Logic Riddle, need help answering
+The definition of morality in Divine Command theory?
+Must infinity involve repetitions?
+What&#39;s the difference between being in a simultion vs base reality
+Proof validity methods other than truth tables
+How much formal logic and mathematics would I have to study if I focused on continental philosophy?
+Regarding attempted proofs related to other religions
+About the philosophy of physicalism
+Is Aristotle&#39;s Mean exactly in the middle?
+Is the line between use and mention always defined?
+In Kant&#39;s ethics, is it allowed to be richer than other people?
+Does the lack of absurdities in our universe call into question the validity of multiverse theories?
+Did Nietzsche plagiarize Stirner?
+Moral nihilism?
+Climate change statement - is there a logical fallacy here?
+Good introductory reading to skepticism?
+The blur between proof and evidence
+Tricks like Loaded Questions
+Is there transformation of self through realization in Western Philosophy
+I am trying to translate this in to English sentence. Help needed
+How can we understand the Schematism of the Pure Concepts of the Understanding?
+regarding the authority of past philosophy writers
+Method to derive conclusions
+Did Wittgenstein say something about intuition for logic?
+Hegel&#39;s “the worse for the facts!”
+What is the logical connectives of Then?
+Hardwired Features of Interpretation
+Understanding why Quine thinks certain belief sentences are meaningless
+How come we recognize symmetrical objects as related (or even as the same)?
+Introductory Natural Deduction Question
+Accepted Interpretation of Machiavelli&#39;s &quot;the ends justify the means.&quot;?
+What justifies probability in the case of a onetime experiment?
+Is the age of Tristan Kurilla (10 year old charged with homicide) relevant to his trial
+Question about a proposition of Spinoza&#39;s Ethics
+What does Dawkins suggest, is the main flaw in Aquinas&#39;s these three arguments?
+Any evidence for the observer effect?
+Need help to identify fallacy and/or bias
+What does &#39;our own intrinsic moral value&#39; mean?
+What are some major breakthroughs in the field of philosophy?
+What are the necessary and sufficient constraints on the world-to-mind direction of fit?
+Philosophy of Chankya/Kautilya
+When is Mathematics not about counting?
+What exactly is the persuasive power behind Jackson&#39;s &quot;Mary&#39;s Room&quot; argument?
+What does &quot;I&quot; really mean?
+Does &#39;all the value that we associate with persons&#39; always hold true?
+How does one contradiction in argument makes the argument valid?
+What are the major criticisms of the Labour Theory of Value?
+Economics, State and Violence
+What is the concept of knowing one&#39;s own abilities?
+Logic - 3 Cannibals Riddle Reduced to 2 Steps
+Writing is never the same, yet we accept it as the same
+Why does the concept of the division of labour put forth by Adam Smith continue to be analytically significant?
+Does the analogy &quot;dog is to proximal environment as human is to Reality&quot; portend anything for a maximum theoretical level of intelligence?
+Who is the analog of this character in Anathem?
+Name the paradox which invalidates question when it&#39;s answered
+I&#39;ve confounded myself with this formal logic &quot;proof&quot;
+What did David Hume mean when he said that &quot;reason is a slave to the passions&quot;?
+Are there any recognized modern eastern or Asian philosophers out there? Is eastern philosophy taken seriously in the 21st century?
+Have professional philosophers contributed to other fields in the last 20 years?
+Defenses of Descartes&#39;s rationality in regards to &quot;cogito&quot; fallacy?
+What would it take in a book to convince a rational person that it had been written by or directly inspired by a god?
+Do animals know that they are going to die?
+Can political ideologies be logically undecidable? If so, what are the consequences of this?
+Logical consequence and material conditional - Are they the same?
+Dawkins&#39;s rebuttal to Aquinas&#39;s &quot;The Argument from Degree&quot;?
+What does it mean for an object to exist ?
+Audio lectures of Hubert Dreyfus&#39;s 2008 course on Being and Time, Division Two
+Is there a name for a &quot;You benefited therefore you did it&quot; fallacy?
+Is there an ethical case for Womens Colleges being publicly funded while other similar institutions are not?
+Does a beginning imply an ending? (In regards to the universe)
+Is it immoral to alienate yourself from society (e.g. by becoming a hermit)?
+is descartes theory wrong?
+Which philosophers have argued that a God cannot exist?
+Why is the Kochsche Curve and programming so similiar?
+Is Kant&#39;s noumenon Aristotle&#39;s prime matter?
+Descartes argument on animals
+what is descartes argument for machines?
+in light of shaffers analysis, what do you think is the best position for and against dualism and materialism?
+Is noumenon to phenomenon for Kant what substance is to accident for Aristotle?
+Are evolutionary characteristics impeding progression?
+What is the difference between knowledge and belief?
+Interpret Bayesian probability as frequentist probability?
+Basic question on nature of things
+Are people capable of generating a random number?
+Question about Kant&#39;s Categorical Imperative Test
+Answers to the ethics dilemmas of web comic artists
+If deduction does not exist in regards to the free will, is omniscience possible with omnipotence?
+What proves the law of non-contradiction true?
+Does anyone know of any essays on Adam&#39;s Thesis and Deontic Conditionals?
+Morality of God and Kant&#39;s Refutation of the Ontological Argument for God&#39;s Existence
+Was mathematics invented or discovered?
+Is the universe isomorphic to a universal turing machine?
+On Kant&#39;s Universalisability
+Computational counter-argument for solipsism
+Whats the difference between fixed and constant capital?
+Why is &quot;unless&quot; considered a conditional/disjunction rather than an equivalence/exclusive or?
+Delineation between prescriptive and descriptive ethics
+On Wittgenstein&#39;s &quot;grammatical jokes&quot;
+We are all unique...?
+Understanding Grice&#39;s Theory of (Non-Natural) Meaning
+Anyone can help me with natural deduction?
+Why are Popper&#39;s basic statements not justifiaible by experience?
+How can one derive naturalistic moral principles without referencing utility?
+What is mathematics?
+Does philosophy belong to empirical science or formal science?
+Are the laws of order and chaos in our universe unequal? How did that ratio come to be set? Can we scientifically measure that ratio/constant?
+How to stop thinking on reasoning?
+How to stop thinking philosophically?
+Are negated statements always false in Wittgenstein&#39;s &quot;logically perfect language&quot;?
+What are some good books that link quantum mechanics with concepts such as fate, coincidence and free will?
+Ethics in social encounter by individuals protected from low quality products
+Meaning of &quot;upgrading&quot; in quote by Confucius?
+How could our universe suddenly appear out of nothingness?
+Is a cyclical model of time and the universe logically valid, and which philosophers (if any) have proposed such a model?
+How does &quot;Process Reliabilism&quot; differ from Coherentism and Foundationalism?
+Modus Ponens and Modus Tollens Symbolic Proofs
+Recommend &quot;best&quot; (see description) English translation of Tao Te Ching
+What is the relation between Descartes&#39; &quot;lumen naturale&quot;, God and logic?
+How could it be that the following sentence is NOT a proposition?
+What is the Parable that states &quot;Everything (Probably) Happens for a Reason.&quot;?
+How to be a good critic?
+How many words for snow do the Inuits have?
+Conditional disjunction equivalence proof using FItch
+About atheism and secularism and what exactly they are
+Jorge Luis Borges suggests that using a lottery is an &quot;intensification of chance.&quot; Does this make sense?
+Is it possible that we have a branch of philosophy called philosophical finance in the future?
+Will there be any historical &quot;milestone&quot; anymore if we had achieve teaching philosophy and other knowledge
+What is the term for a statement that becomes true by being uttered?
+Transcendental ego
+How inaccurate is a History of Western Philosophy by Bertrand Russell
+An logical expression and its meaning
+What is a neat explanation?
+What is an example of human labour being the exclusive source of surplus value
+If a person is discriminated against, and they are not aware, is it truly discrimination and/or unjust?
+What are some praise of Buddhism in philosophy?
+Are there any other branch of mathematical philosophy?
+Is it impossible to completely understand the human brain using a human brain?
+Is there parallelism between mental acts and development of science?
+Does this count as a critique of Marxs Labour theory of value?
+Is God either immoral or not omnipotent?
+Could a scientific unification theory and scientific method itself be misleading?
+Am I morally obligated to pursue a career in medicine?
+Are infinities in physics (or in any other materalist philosophy) actually possible?
+Can mathematics be separated from the physical world?
+Is it ethical to make someone close to death reconsider their faith?
+Is the categorical syllogistic a formal system?
+Where did Machiavelli say that &quot;the ends justify the means&quot;?
+How does libertarian philosophy deal with voluntary cannibalism?
+How much can investigating three nested systems help interpreting probabilistic theories?
+What is wrong with the argument &quot;Had I not been born, I would not have done X, thus it is my mother&#39;s/father&#39;s fault&quot;
+The basics of anti-propositionalism
+Difficult sentence
+Philosophy on nonlocality outside of physics? (holism ≟ nonlocality?)
+Who owns the means of production?
+&quot;Proposition&quot; vs. &quot;The Meaning of a Proposition&quot;
+Immortality through technology?
+About existence and related terminology
+Is it unethical to pass unwanted unhealthy food to others while I want to consume only healthy food?
+How does free will defense of God&#39;s benevolence work?
+Language or idea? Which comes first? (language of thought hypothesis)
+premise and proposition
+Can a &quot;blood diamond&quot; ever be redeemed for morally good purposes?
+Books about mind–body philosophies
+Philosophical terms for the different kinds of acceptance of a rule
+Does a covert reward destroy the moral value of a moral action?
+Explaining Quine&#39;s dismissal of the circularity problem in naturalistic epistemology
+What is the Difference between Vagueness and Indeterminacy?
+Has the question of after-life been discussed in philosophy?
+Is anyone now writing philosophy in the style of Plato - the Dialogue?
+Can we distinguish physical from informational existence?
+Are we spending too much time asking hard to answer questions while we&#39;d be better off asking more productive ones?
+Is there any Philosophical significance to why Plato chose to present his work in the form of a dialogue?
+How is physical space inferred from sense data?
+Can a part of the universe be simulated in less space (and time) as the part?
+Rhetorical questions in argument
+Thought-experiment: pick a criminal from a lineup
+Is it effective, helpful, and safe to narrow a given topic?
+About a great canadian neurosurgeon
+How can death matter to the dead person? - About the argument
+How to rebut in this format of written argument under 550 words?
+Testing the validity of syllogism argument
+What makes a math problem &quot;difficult&quot;?
+Is Nozick&#39;s Criticism of Rawls correct?
+History before philosophy
+Equivocation Fallacy: When the context of similarity is not the context of the argument
+About &#39;morality&#39; related to a finite existence
+When is a simulation real?
+What is the proper name for the group comprising &quot;must&quot; and &quot;must not&quot; (see disambiguation below)
+Rationality of Suicide?
+What philosophical term lies behind locality?
+Two types of routines
+How did Aristotle or St. Thomas resolve the liar&#39;s paradox?
+How can there be order without intelligence to understand it?
+Are Societies as an Individual Entity, Aware?
+Syllogistic Logic: Negation of a Categorical Proposition?
+Counter-arguments for the Frankfurt cases
+Conception of duty based on utility as opposed to specific actions
+What is the lore of the ascription of divine attributes engendering the problem of evil
+Is there any exception to the law of &quot;Cause and Effect&quot;?
+Is it moral to kill a baby?
+What happend to the embracing of a particular schools of philosophy in Universities?
+Did Hume personally believe his own philosophy?
+Does phenomenology determine ontology?
+Why must we choose an intuitionistic explanation over a paraconsistent one, given they are dual?
+What triggered the philosophical movement in the ancient West?
+Why is existence not a true predicate with respect to Anselm&#39;s argument?
+what is the state of consciousness of inert objects?
+Can a machine, lacking reflection, be a Person?
+which philosopher was suspicious of the word &quot;natural&quot;?
+If &quot;the limits of my language are the limits of my world&quot;, then how can it be that &quot;what can be shown, cannot be said.&quot;
+Can we prove reality?
+Are we born with Kantian Categories?
+Can Frege coherently admit expressions that have a sense but lack a reference?
+Is there something in syllogism that is not covered by set theory?
+What is the difference between intensional and extensional logic?
+Is there still a place in modern philosophy for qualitative or non-mathematical philosophy?
+Why is Nietzsche so against Socrates?
+Was Plato using strawmen in his dialogues?
+Do Kierkegaard&#39;s non-pseudonymous writings enable one to understand Kierkegaard&#39;s philosophy much?
+What are the major branches of philosophy?
+Why do people believe a turing machine can be fully conscious?
+Doesn&#39;t slavery still exist?
+Are ordinal or cardinal infinities theories for real?
+Aristotle- Is a focus on virtue beneficial for individuals and society?
+Does mathematics apply to physics in one way or multiple ways?
+Rothschild&#39;s Claim against Propositionalism
+What exactly are the reasons for &quot;the road of excess leads to the palace of wisdom?&quot;
+How can anyone justify conspiracy theories / scietific skepticism
+Is it truly necessary to upgrade Tononi&#39;s criteria of consciousness in the Integrated Information theory?
+Why can/should we conclude that something is true without proving it?
+What does this quote from William Blake mean?
+How can one enjoy permanent well-being?
+Is it reasonable to believe that others have sentient minds?
+How is this &#39;implication&#39; valid, about chess for women?
+Can there be two infinite beings?
+Is loyalty an intention or a behavior or something else?
+Could/has technology somehow make/made communication more primal?
+Books on logical fallacies
+Exhaustive studies of states of conscious and how we know what we know?
+Structural Realism vs. Scientific Formalism?
+Could Secularism or Atheism or materialism be considered a religion?
+Concepts as Mental Representations
+Kant&#39;s antinomies and contemporary philosophy
+Abstractionism about Possible Worlds and the Contingently Non-Concrete
+Why isn&#39;t Cantor&#39;s diagonal argument just a paradox?
+What theory has its models exactly the boolean algebras?
+Reasons for believing in Monism
+How should we characterize the relationship between mathematics and philosophy of mathematics?
+How can a mathematician interested in the foundation of mathematics be satisfied by an always partial knowledge of the mathematics?
+The proper definition of atheism
+Are we born critically synthesising concepts?
+Does the ad hominem fallacy only apply when used against individuals, or is it also a fallacy when used against organizations?
+Is appeal to conspiracy a fallacy?
+Possible worlds and the worlds of Quantum Mechanics
+Attacking a rejected hypothesis
+What was the Central Belief Advocated by the Enlightenment Philosophers?
+Does this fallacy about laws and crimes have a name?
+The Fallacy of Instantaneouity?
+Is this a fallacy?
+The preface paradox and the psychology of belief
+Is Epicureanism a form of Hedonism?
+If supposing that a statement is false gives rise to a paradox, does this prove that the statement is true?
+What is the purpose of the universe?
+Not Turing reducible = non-physical?
+Does the concept of infinity mean we have already &#39;been&#39;?
+Regarding platonism, and the absurd applicability of mathematics to physics
+Is the study of logic a part of mathematics?
+Use and Mention, and Metavariables
+Are we are born with some innate sense of critical thinking or is this simply the product of an education?
+The death of dogma is the beginning of morality? (Kant)
+Why does Justice Breyer say himself that his is not a logical argument?
+What is the difference between free-will and randomness and or non-determinism?
+Why do cults thrive?
+Flawed argument involving anthropic principle?
+What would be the relation between logic and philosophy?
+Why to know how to multiply numbers does not mean to know the result?
+Did early analytic philosophers reject metaphysics?
+Understanding Rawls&#39; Justice as Fairness?
+Are there two different mathematics in philosophy?
+Scenario: is this moral?
+The categorical imperative vs The &#39;golden rule&#39;
+Are there real paradoxes?
+Propostions examples
+Is this question well posed?
+When is an opinion wrong and why exactly?
+Do two moral values exist, such that both imply the other?
+Are humans artifacts?
+Peirce&#39;s law, law of the excluded middle, and intuitionism.
+Intensity of experience and quickness of thought
+Analyzing a secular pro-life argument
+Are there any notable philosophical skeptics since Nietzsche, perhaps in the style of Nietzsche?
+Satan etc. and Nietzsche
+Was Jesus or Muhammed crazy?
+Why should atheists bother debating theists?
+Rebuttal for modus ponens
+A series and B series of time
+The unanswered questions
+How would Descartes respond to Wittgenstein&#39;s objection to radical doubt?
+What is the paradox of democracy?
+How is Saul Kripke said to have revive metaphysics again?
+How do res cogitans and res extensa interact?
+Can literacy + numeracy tests for voters improve democracy?
+If many people show positivity, is that irrefutable proof of no negativity?
+Is there any links between philosophy and programming or computer science
+About models of Human Cognition
+Truth is an opinion and not fact - Stoicism
+Kant&#39;s theory of perception
+&quot;But I&#39;m a good person!&quot; - What logical fallacy is this? And how to argue against it?
+Is &#39;Transcendental&#39; originally a philosophical concept or a theological one?
+What does it really mean for something to be tolerated?
+Property Possibilism on the Cheap?
+A variant on the burito microwaving God
+Is Kantian ethics arbitrary?
+Existence vs tertium non datur
+How to learn to read Guattari &amp; Deleuze?
+Is there an advantage of a theistic account in terms of being able to define goodness?
+Semantics and Ontology
+Why do we have a problem about understanding the concept of the &quot;empty set&quot;?
+A trivial response to Gettier problems
+Hippies. Flower children. What is pivot of this movement?
+difference between conception and theory
+Is it theoretically possible for a bottomless pits to exist in a finite universe?
+The culture industry and division of labour
+Nietzsche - crime, sin and punishments
+How does the doctrine of substantial forms differ from atomism?
+Whose major work was influenced by Descartes?
+Is it possible to assign an objective profundity to theorems in a formal system?
+Is &quot;time&quot; an abstract mental construct or is it something that exists independent of human consciousness?
+The reversed naturalistic fallacy
+How much is our understanding of Kant&#39;s Categorical Framework (published in German in 1781) obscured by translation and basic semantics?
+How does catuskoti apply to everyday life?
+Why is there something rather than nothing?
+How should we understand the oracle&#39;s dilemma in making a prediction?
+Schadenfreud as a way out of amorality
+What would be considered ethical behavior if decision making was devoid of emotional attachment?
+What is the name of the following logical fallacy ? Is it really a fallacy?
+Was Deleuze&#39;s understanding of the infinitesimal calculus primitive?
+In Spinoza&#39;s system what is the status of time and space?
+Is imagination limited to what we have already perceived with our five senses?
+Is there a school of informal logic that treats it as determining how to transcribe arguments into formal logic?
+The &#220;bermensch and the working class
+Cultural relativism - Test 1, Q19, by Mark Shepherd
+Does the alleged answer overinfer? - Test 2, Q21, p 113, by Mark Shepherd
+Can we add to PA a new predicate T such that for every sentence A of the old vocabulary the new theory proves T(Godel numeric number of A) iff A
+Can mathematics be sublime?
+Malthus&#39;s argument on population - Test 1, Q14, by Mark Shepherd
+Are humans capable of thinking of a series of random numbers?
+The problem of evil in secular philosophy
+Doesn&#39;t this passage state the word &#39;gay&#39; prevails? - Test 1, Q9, p 74, by Mark Shepherd
+Trying to understand koan, Buddhist philosophy
+Infinity and the universe
+Is it ethical to wipe someone&#39;s mind of a bad memory?
+What could be before Big Bang
+Sources for the aesthetics of mathematics
+Quantum immortality
+Can we justify anything without resorting to &#39;a priori&#39; truths?
+If qualia are &quot;something extra&quot; to explain, isn&#39;t it weird that the brain produces speech about qualia?
+What are the moral consequences of a Douglas Adams&#39; cow?
+Is this the most accepted definition of knowledge today?
+Autobiography of Roger Scruton?
+Is everything statistically describable?
+identity and self
+Conviction about a system from pseudo-proofs of its truths
+New and original philosophy
+What obligations, if any, still exist after all obligations of a contract are carried out?
+What&#39;s &#39;a loose kind of response&#39;?
+I have trouble formulating how to act rightly at all situations
+What a &quot;Bismarckian realist&quot;
+Non-modal approach to necessity and possibility
+Is it ever right to act contrary to your moral principles?
+What exactly is the value of completeness and decidability in logic?
+Language Logic and Proof Q. 6.26
+Formal systems and interpretations for numbers
+What are some examples of &quot;data&quot; in philosophy?
+Why should I believe my own conclusions?
+Was Bergson a physicalist?
+Ethics of &quot;Piracy as a trial/demo&quot;
+How is First Order Logic complete but not decidable?
+Why distrust our senses?
+Is fence sitting ever admirable and valuable?
+Why is it necessary to survive?
+Is a person responsible for his choices?
+What are some philosophical arguments for accepting absurdity?
+Is post-modernity liminal?
+What is Sorge (Care) in Heideggers thought?
+Semantics vs Deduction
+Is there any relation beetwen justification logic and type theory?
+The A series and instantaneous change
+Do we have an obligation to respect our teachers?
+Can someone give me a definition of a fractional matrix in Laruelle&#39;s non-philosophy?
+Resources on the ring of Gyges and mass surveillance?
+Is postmodernism pro or against abrahamic religion?
+Consciousness and its relationship to Category Theory
+help with deductive proof
+Does modal realism dispense with Occams razor or embodies it?
+Who does Wil Wheaton represent in &quot;Big Bang Theory&quot;?
+What is modal logic for?
+Avoiding McTaggert&#39;s infinite regress
+What would Kant say about an irrational person?
+Do durations really end?
+What sense does Pascal&#39;s wager take on after God has died?
+The criteron of manipulatability as un-reality
+What is an infintely small unit (of time)
+Why do humans desire and admire beauty?
+How can Beauty equal Terror?
+Tu quoque and scientific anti-philosophy
+Is Rilke an existentialist?
+Visciously circular arguments against philosophy
+How does the writing style of Spinoza&#39;s Ethics affect the reception of its meaning?
+Can anyone explain the very beginning of The Analysis of Matter to me?
+Is avoiding hypocrisy an impulse for philosophy?
+Why are homologies evidence for evolution instead of common design?
+What caused the cause (to the power of eternity)
+How have philosophers tried to argue for qualia?
+Has there been any philosophical investigation into the role of aesthetics in mathematics?
+Attribution of quote &quot;The apparent duck becomes an obvious rabbit&quot;?
+How does the Twin Earth illustration show that &quot;meanings just aren&#39;t in the head?&quot;
+Hypocricy and Nietzsche
+Mula madhyamaka karika part 7-3
+Does Nietsche discuss the greek notion of hubris in any of his works?
+Who are historical proponents of moral anti-realism?
+Does Descartes&#39; cogito require awareness of thinking?
+Hilbert Grand Hotel vs. Cantor: Can we postpone the solution into infinity?
+Failed states and Gramsci
+How did Bourdieu interpret the word &#39;class&#39;?
+Is it immoral to download music illegally?
+Are memes philosophically coherent?
+Can there be cause and effect without time?
+Word and image (in poetry)
+Is &quot;do as caesar does&quot; a fallacy?
+Nietzsche and miracles
+Is a loaded question a fallacy?
+What are the axioms for quantified modal logic?
+Which child is braver?
+Is there any reason for the heavy focus on binary relations in formal logic?
+Looking for introduction to aesthetics
+&#39;No one would go to Hitler’s funeral if he was alive today’
+Question regarding ethics of the human to the dog relationship
+Is it always wrong to deny the antecedent?
+Could the universe have a self-originated source?
+What if any inherent obstructions are there to scientific understanding?
+Feynman and scientific method
+Understanding Bertrand Russel on agnosticism and atheism as self-descriptions
+Is not sensing &quot;like&quot; something
+In regards to Rene Descartes meditations, if there existed an all powerful evil demon, why couldn&#39;t it trick you into believing you exist
+&quot;Because if you doubt that you&#39;re doubting, you&#39;re still doubting&quot; - What is the analogous mathematical/logical expression to this sentence?
+Literature similar to Cicero&#39;s &quot;On the Ideal Orator&quot;?
+Can someone clear up this semantic proof of quantification logic?
+How can &quot;tolerate&quot; not be considered a propositional attitude?
+If modality across some domain was such that anything is possible, then does modal logic entail that everything actual is necessary?
+How did Evolution create new information and the bio-diversity we see?
+Help understanding logical fallacies in this statment
+What are the philosophical implications of the Halting Problem?
+How can space be at rest?
+What&#39;s the difference between Pascal&#39;s wager and Pascal&#39;s mugging?
+Pessimism of strength and weakness
+Do some things not exist?
+How can I know that I am not immortal?
+How should the fair distribution of some goods depend on other-regarding preferences?
+How can something exist, but never be created?
+Is it possible to be truly unbiased?
+What does Kierkegaard mean by &quot;world-historical&quot;?
+Are there theories of arithmetic that are inconsistent with the natural numbers?
+Is there a sheaf-theoretic description of para-consistent logics?
+moral value of dairy products?
+Preventable and Non Preventable Crimes
+Is there a philosophy of things that could not be discovered?
+How do we deal with future extraterrestrial contacts and their cultures?
+Where can one get one&#39;s philosophy paper edited?
+Since any human language describes objects, does it therefore contain some knowledge of the Nature and laws of its development?
+Why isn&#39;t conceptual analysis considered part of logic?
+Can anyone correct my understanding of &quot;a priori conception&quot;
+Why are Free Will discussions always framed as a question of &quot;free will&quot; rather than &quot;free choice&quot; (of action)?
+Are miracles compatible with our belief in empirical predictions?
+How should you respond to criminal behavior if you believe in hard determinism?
+The logic of indefinable variables
+Circular nature of the cosmos. (π)
+Question re coexistence of Hellenism (revived during Renaissance) and Christianity in modern Western Culture
+Logic regarding conclusions
+Is Humankind just a stage in the chain of stages, of which evolution of Nature is comprised of?
+How is Maoism differentiated from classical Marxism Ideology?
+Can anyone help me find critical published responses to this paper?
+Philosophically, what are ways in which one can define &quot;intelligence&quot; in general?
+How does one become a philosopher, or what makes one a philosopher?
+Do you have a right to complain on things you didn&#39;t or hadn&#39;t taken action on that directly affects you?
+Is it possible to know something with absolute certainty
+What is purpose of Plato&#39;s forms?
+What is an epistemic norm?
+Are there counterarguments to chaos theory?
+Why should we believe other people, or scientists?
+Is the following explanation of existence of god is philosophically justified?
+How are rules of inference established as valid?
+What exactly is informal logic and is this what I&#39;m looking for?
+Is a filled hole still a hole?
+Consolation for failure or fear of failure?
+Generalize Article I of The Universal Declaration of Human Rights
+Ethics of Using an Experience Machine/Going Against Someone&#39;s Wishes for Their Own Good
+Proof Universe Came From Nothing?
+Did Husserl say that the tran. ego includes everything that is possible
+Does sentience need a minimally complex system
+Is There A Practical Limit On The Number Of &quot;Levels&quot; On Which Metaphilosophical Inquiry Can Be Conducted?
+If zombies are possible would that imply that physicalism is false?
+About Godel and Anselm
+Why and how personal philosophies of certain thinkers became recognized as &quot;classical&quot; main stream approaches?
+What does &quot;non-philosophy&quot; mean in the works of Laruelle (and scholars of Laruelle)?
+Is philosophical (total) skepticism compatible with the modern scientific world view?
+Is it ever appropriate or reasonable to use pejorative expletives in public discussion?
+Do people have the right to split off part of a sovereign state?
+Difference between math and physics in terms of describing the/a universe?
+Is our Philosophy, the Human Philosophy, the only possible Philosophy which can exist?
+Is there a limit on the intelligence of created beings
+Dialectical Relationships
+Are information carrying systems of the same complexity equivalent? (integrated information theory)
+Are non-human animals capable of fictional thought?
+Where is the universe?
+What are the standards for good and bad philosophy?
+How NOT to know everything? Or how to deal with it
+Functions vs Relations
+A bizarre question asked at a job interview about conditional probability
+Preservation of theoreticity under union
+Could a machine or an AI ever feel genuine human-like emotions?
+What is ethics really about? (the goal or the means)
+Could a philosophical zombie conclude &quot;cogito ergo sum&quot;?
+What does w ∈ V(p) mean?
+Proof of the reflexivity of the accessibility relation
+Regarding the Mind-brain conflict
+Abstract versus Concrete
+Is doing something that is beneficial for both parties an act of kindness?
+Are actions amoral?
+In what sense is atheism scientific?
+Universal quantifier in Russell&#39;s Theory of descriptions - Who is the UNIVERSE?
+What&#39;s the word for anything is true if the antecedent is false?
+Do human rights exist?
+What reason does an individual have to vote?
+Ethics/morality of file-sharing: Any noteworthy philosophers written on this?
+Why can&#39;t (or shouldn&#39;t) economists answer normative questions?
+Does &quot;subjective attractiveness&quot; have a place in philosophy?
+Is it possible to gain a lot without losing much?
+The manuscript Summa Logicae (William of Ockham)
+Is there a way to prove that God, if he were to exist, can intervene upon human lives?
+Can one ask for more than they deserve?
+Is it possible for a layperson to suitably evaluate scientific disputes?
+Perception vs Fact
+Regarding freedom of choice
+Does hypocrisy invalidate an argument?
+How to reconcile authority and knowledge?
+Classical and Medieval Scholars on Modal Logic
+Death penalty or isolation
+Is the origin of Dasein the same as that of image making?
+Why does human race has to survive and continue to exist?
+Which schools of ethics claim one has a duty to educate the uneducated?
+Do fundamental concepts in physics have any logical basis?
+Logical Form of an Appeal to Probability
+What is the title of Sarte&#39;s essay on eye/sight/vision?
+Who were the first philosophers against free will?
+what is the exact meaning of bedeutung for Frege?
+what if aliens had diffrent morals
+what is comparative philosophy?
+Why Bad Things (Habits/Pessimism) prevails automatically,But Good Things(Optimism) wont be adhered even if induced?
+What is a mathematical representation of the physical world?
+Shouldn&#39;t fallibilism be a reason to abandon science?
+Is there any logical connection between Plato&#39;s theory of forms and the savant syndrome?
+According to Wikipedia, science can be divided into empirical science (such as natpirical s
+Roko&#39;s Basilisk as Descartes&#39; evil genius?
+Are the truths of euclidean plane geometry contingent truths?
+Are mathematical statements necessary truths?
+Why do Conditional Semantics matter?
+Is &#39;with great power comes great responsibility&#39; true?
+Anti-Realism about Higher-Order Vagueness
+What could be the cause of the &quot;thinking about being aware state&quot;, and how can someone jolt out of that?
+What are the implications of Baudrillard&#39;s ideas to epistemology?
+Is it unethical for a person to become a doctor because it is a high income profession?
+Plz Answer this question that i have asked
+Where can I read about protection?
+Would it be good if everyone was good?
+What philosophical school does Raskolnikov belong to in Crime and Punishment?
+Gun Control vs. Drunk Driving
+What kinds of philosophy are described by these questions? How to self-learn them?
+Aristoi vs. Hoi Polloi - Was it a genuine division created by Heraclitus or was it somehow misinterpreted?(and its implications)
+Nietzsche and &quot;The death of God&quot;
+For Aristotle, is definition a kind of &quot;saying of&quot;?
+According to Marx and the Material Theory of History, what is the definition of consciousness?
+Why does the world of the happy man differ from the world of the unhappy man?
+&quot;I trust my senses&quot; — Why does this tend to be restricted to the external senses?
+How do I begin to understand Event &amp; Possibility?
+Platonic Forms and Deleuzian Ideas
+Why does human logic change with rate of change?
+Why do we want to be happy?
+How does Marxist Economics account for taxation?
+Is noise necessary so as to have music?
+is &quot;2+3=6, then 2+3+1=7&quot; an example of a fallacy fallacy?
+Is spacetime a compound substance in Liebnizs Monadology?
+Epistemic justification - &#39;turtles all the way down&#39;?
+About Thoughts &amp; Voices
+Could there ever be evidence for an infinite being?
+Where is philosophy today
+What is mathematical existence?
+Is this an Ad Hominem attack?
+Derrida-Searle debate - any information?
+Marc Lange&#39;s stability concept of laws of nature: how do disjunctive antecedents work?
+What do we mean by the term &quot;Number of things&quot;?
+Is there any philosophical controversies if a country is consist of all lawyers but one farmer as the king?
+Can I assume that &quot;Normative Ethics (Moral theory)&quot; all about &quot;Justice&quot;?
+What would falsify compatibilism?
+Is there a philosophical difference between consciousness and self-consciousness?
+&quot;Value&quot; of an individual in a complex situation
+Regarding Godel&#39;s theorems
+Does any ethical theory concern value prioritization?
+Viewpoints of how the law should apply to authorities
+Why does the average mind act to fulfill his desires?
+Are religious assertions as authentic as scientific ones?
+Is human exceptionalism justifiable?
+Is scientism a self defeating epistemology?
+Can we expand the notion of truth in Godels incompleteness theorem?
+Validity of arguments with respect to formal logic
+Is C.S. Lewis argument for absolute morality valid?
+How does abstraction/generalization in mathematics fit into inductive reasoning?
+Looking for specific term to describe those ideas which are commonly held without proper justification or questioning
+What are the implications of spreading stories that are fake solely because they support a opinion?
+How does S&#248;ren Kierkegaard use the word &quot;dialectic&quot; and how does his use of it differ from G.W.F. Hegel&#39;s?
+In Hinduism, what is an astral body?
+Do academic philosophers have a special duty to challenge their government?
+Supervaluationism and Theories of Truth
+Determinism vs the existence of God
+Is mathematics as a concept value-laden?
+Why is &#39;Omnibenovelance&#39; a trait of the Abrahamic god?
+How can someone have a free will if they act based on their experiences?
+Why has cynicism acquired a negative connotation?
+Is the hard problem of consciousness really an issue about its operationalization?
+Why is taxation opposed by libertarians?
+Did any specific philosophy contribute to the world wars?
+Estimating the &quot;goodness&quot; of a proposition
+What kind of math curriculum would one need to go through to understand Lacanian topology and knot theory?
+Is absolute ethical veganism an irrational position?
+What happens when a conscious, intelligent being interprets a deterministic model?
+Are there any comprehensive undergrad level philosophy books about definitions?
+Material Conditional Not Logically Equivalent?
+Why is this set {CqCpq, CCpCqrCCpqCpr, CCNpNqCqp} the most common set of axioms for propositional calculus?
+Unconscious Mental States and the Ontological Subjectivity of Reality
+thing and its properties
+Is the universe just a mathematical construct?
+Why is Tarski&#39;s semantic theory of truth formally correct and materially adequate?
+When does the philosophy of a newly created (academic) discipline typically arise?
+Philosophy of the lymphatic system
+Is there such a thing as a &#39;necessary truth&#39;?
+Can we have objective knowledge?
+Why is there something instead of nothing?
+Is (are) there a civic religion(s) in Western Europe?
+What is a miracle, and why should it influence our metaphysical beliefs?
+Is it possible to act unethically against oneself?
+How fundamental is logic?
+Why use a hadron collider to search for a“fundamental particle”?
+Current state of aesthetics
+How does Kant link the three subordinate formulations of the categorical imperative to the universal law?
+Saussure and structuralism
+Is the Ideal World a possible world?
+Need of source for the 2nd half of &quot;On sense and reference&quot;
+Which contemporary philosophers deal with the concept of honour without dismissing it out of hand?
+Can a dogmatic person engage in intellectually honest inquiry?
+Generalizing mathematical concepts
+Is there a point where it is ethically acceptable to let a person die on economic grounds?
+Thought experiment: Argument whose life is more valuable organic or mechanical?
+Could the assumption of materialism be a flaw in the scientific method?
+What is philsosophy when it is sutured to Music?
+What would be the philosophical implications of a solution to the Riemann hypothesis?
+What is the relation between the material conditional in logic and conditionals that we use every day?
+Was Marx a defender of capitalism?
+What social class was Socrates from?
+Why do many people derive comfort from the belief in an objective reality?
+Does racism towards racists count as racism?
+Is induction as a means to reach a conclusion rational?
+Does a thing being subtracted from ever disappear completely?
+What is *lost* and *gained* in repudiating the analytic/synthetic distinction?
+Whn Badiou asserts that mathematics is Ontology what does he mean by Ontology?
+(Where) did Leibniz write &quot;Sans les math&#233;matiques on ne p&#233;n&#232;tre point...&quot;?
+Can human consciousness be &quot;felt&quot; without complex emotions?
+The Truth-Falsehood Dichotomy and Logic
+Asked to analyse a contradictory quote that I don&#39;t agree with
+What did Plato mean when he used the word &quot;villian&quot;?
+What did Hegel mean with the world spirit?
+What would be the philosophical implications of a solution to the P versus NP problem?
+Explain Hilary Putnam&#39;s argument against Cartesian skepticism
+Should ever one ought to believe a proposition that he *knows* to be false?
+Is a work ethic, ethical?
+A metaphysical study on property, context, advantage and role?
+Should people feel bad when the laugh at the misfortunes of others?
+What might be some of the most significant philosophical implications of a technological singularity?
+Do we only believe statements when we think of them?
+Confusion about reasoning in science
+Are there *a priori* truths for a self-learning artificial intelligence system?
+Is Oedipus Rex as an encounter of reason with myth?
+Current philosophy of language
+Making Vacuous Material Conditionals False
+Practical applications of intelligent design
+What does it mean to deny consciousness is physical?
+Is patriotism ethical?
+Concrete Examples of Complex Term Analysis Using Predicate Logic
+Can I have thoughts about fictional characters?
+Are there any other things like &#39;Cogito ergo sum&#39; that we can be certain of?
+Does a negative claimant have a burden of proof?
+Why does the universe obey scientific laws?
+What are atheism and agnosticism?
+What should a rational person accept as a miracle?
+Ethical approach to the knowledge of suicide
+Help with a modal Hilbert-style proof of (□(a&gt;b)&amp;◊(a&amp;c))&gt;◊(b&amp;c)
+Who are the most prominent Christian philosophers of the 21st century?
+Why does everything exist?
+Help with simple deductive proof
+Lawyers and crimes: moral, work ethics, truth and culpability
+If there is anything that could behave like a god, is it then a real god?
+Existence of God
+Why the human mind can say stories that never happened?
+Is there a moral motivation?
+Why is orangutan meat not good to eat?
+Buridan&#39;s ass (and determinism)
+Is a violation of intellectual honesty unethical?
+Does Cartesian Doubt Depend on Cartesian Dualism?
+Is it incumbent upon humanity to look after our planet?
+Does the problem of &quot;Underspecified Conditional Antecedents&quot; imply that many (uttered) conditionals are false?
+What are the necessary conditions for an action to be regarded as a free choice?
+Composite truth tables for sentence relations (entailment, synonymy,etc.)
+How do empiricism, pragmatism and nominalism fit into one another?
+Justify Occam&#39;s Razor
+How well does the Direct Reference Theory (DRT) work for evidence reports?
+Belnaps four-valued relevance logic
+Is Marx&#39;s model of capitalist society no longer valid?
+Why are deontological and virtue ethics not viewed as a subset of consequentialism?
+What is an &quot;unarticulated background&quot;?
+Formal philosophy
+Object language versus Metalanguage
+Why are Objectivists against Socialism?
+What is the relationship of &quot;if A then B&quot; and &quot;A only if B&quot;?
+Do sentences that are &quot;selection violations&quot; have truth values?
+What did Hardy mean by &quot;ugly mathematics&quot;?
+Why is Propinquity included in Bentham&#39;s Hedonic Calculus?
+Is the Kuhnian paradigm shift (or sublation) materialistic or idealistic?
+Should a king be restrict to marry a queen that is also a philosopher in Plato&#39;s point of view?
+Why does Kierkegaard suggest indolence makes ressentiment dangerous?
+Evil thoughts without actions?
+Epicureanism and speed of light
+Understanding of Pride
+Epistemology and logic
+Why does it matter whether knowledge is synthetic or analytic?
+&quot;What don&#39;t you know?&quot; - A common question
+Can mathematics be political?
+The Irony of Rorty&#39;s Ethnocentrism and &quot;Lonely Provincialism&quot;
+Was Einstein a philosopher?
+What was Kant&#39;s view on lies by omission?
+Are concepts necessarily false even if useful?
+Discovering inter-atomic forces or taking Newtons law seriously
+What are the differences betweeen post-apocalyptic and anarchical or dystopic?
+On speaking of &#39;apparently&#39; non-physical things
+Conditions for Deduction
+Is always lying about everything a consistency?
+What must nature&#39;s uniformity be like in order for scientific induction to be (non-deductively) valid?
+A good critique of Popper&#39;s &quot;The Open Society and Its Enemies&quot;
+How does Kant respond to Humes problem of Induction?
+What is the difference between Fact and Truth?
+Can Elon Musk &amp; Stephen Hawking&#39;s Evil Robot theory be opposed by a loving robot theory?
+Could the Pyrrhonians be wrong?
+Can anyone recommend publications of Seneca&#39;s work?
+Was Socrates a fictional character invented by Plato?
+Who Invented the Modal Fallacy?
+Kant and categorical imperative dilemma?
+Can Euclid&#39;s Elements be used to rigorously prove 2+2=4?
+Could someone articulate why Kierkegaard would have us to be Christian?
+How does post-humanism deal with Kants Copernican turn?
+The many Utopias
+It is not your sin—it is your self-satisfaction that crieth unto heaven; your very sparingness in sin crieth unto heaven!
+Why statement &quot;either &quot;X is false&quot; or &quot;X is not false&quot;&quot; is not correct?
+The digital universe.
+Chrysippus and Strict Implicature
+Why do the Stoics Matter?
+Is there canonical terminology for logical connectives between more than two propositions?
+Is it paradoxical to simultaneously assert that a proposition is true and that the speaker does not know it?
+Who were the major innovators of new types of syllogisms?
+Is justice a zero-sum game?
+How does Plantinga&#39;s defense of free will align with omniscience
+Is there a solution to Newcomb&#39;s problem?
+What is the Frege-Sense of &quot;I am here&quot;
+Can conjectures be proven?
+Checking syntactic consistency during Hintikka set construction
+Is it an evolution or design that makes Math in Music so beautiful to our human ears?
+Works that tackle the question of vegetarianism
+Can something be actually possible yet logically impossible?
+Does Sartre imitate Kant in moral philosophy?
+How was arranging the trade of POW Sgt. Bowe Bergdahl for five detainees possible without &quot;negotiating with terrorists&quot;?
+What kind of paradoxes might result from applying the maximin principle in a scheme of distributive justice?
+Is calculus approximate?
+what lies beyond absurdity?
+Philosophical presuppositions and theoretical foundations of mathematics curriculum
+Critique of Korsgaard&#39;s polis-comparison?
+Can Rawls justify eugenics?
+What&#39;s the relevance of falsifiability in regards to logical arguments?
+What is a hybrid in Bruno Latour&#39;s theory?
+Explanation of the KK principle
+What is the difference between an Ordinal number and a Cardinal number?
+Why is argument by analogy invalid?
+What was Socrates/Plato&#39;s view on free-will?
+Is the number of universes finite, countably infinite or uncountably infinite (and what size of uncountable if so)?
+How should I understand the word corruption in this passage of the Bhagavad Gita?
+could an algorithm that writes algorithms be written?
+What is it that transforms mathematical equations into physical reality?
+Plagiarism problem
+Arguments against strong AI, given physcialism
+What is the meaning of Kant&#39;s category &#39;Community&#39;?
+Unsure of adequacy of a transcription from English to FOL
+Problems of political philosophy?
+Could a sentient machine suffer?
+Is there a modern, secular argument for the soul?
+If we would split my brain would there be two of me?
+If there are infinite realities, do realities exist in which there are no infinite realities?
+Answering difficult questions about the state of humanity
+Objectives of humanity?
+Why does Carnap say &#39;Caesar is a prime number&#39; is meaningless?
+What is the evidence that subjectivity is objectifiable?
+How did Anne Conway derive her notion of a monad from the Kabbalah?
+Actual infinite vs. Potential infinite
+What&#39;s an axial rotation?
+What is consider fake in the subject of philosophy?
+What does Epictetus mean when he says &quot;it is better for your slave to be bad than for you to be unhappy&quot;?
+Did Thales really argue this?
+Which contemporary philosophers are idealists?
+Where does philosopher work, and what does he do on a normal work day?
+Difference between learning and understanding information?
+Can we dispense with ontology in physics?
+Is there provably a largest cardinal consistent with ZF
+Assuming many-worlds interpretation of QM, do ethical obligations cross worlds&#39; boundaries?
+Was Kant successful in establishing the autonomy of the will?
+What counts as a talent for Kant?
+Does human existence have absolute worth?
+Have the implications of cybernetics on epistemology been studied?
+What do we mean by the symbolic representation of nothing?
+Kant on Positive Obligations (to children)
+Kant on Euthanasia
+Why do we formalize conceptions?
+Is for God (or religion) meme to survive it is bound to turn evil?
+Is Laurence Krauss&#39;s statement &quot;something can come from nothing&quot; a misleading statement?
+Law and The Formula of Humanity
+What were the &#39;costs&#39; in completeness in formulating ZFC in first-order logic?
+The inability to imagine general nonexistence
+Problem for The Categorical Imperative
+Does the word &#39;And&#39; refer?
+Is an infinite regress good logic?
+Should scientific realists reject knowledge obtained by psychology?
+Role of Science
+Are fundamental entities equivalent to fundamental forces and time + other dimensions?
+In postmodernism, is reason and logic an &quot;absolute truth&quot; to be jettisoned?
+Does necessary possibility entail actuality?
+What is the &#39;War on Terror&#39;?
+How to approach study of PPE for the, non-achedemic, layman?
+Kant &amp; Intentionality
+What does Nozick exactly say in his Demoktesis argument?
+Can logic be without time?
+Can an infinite be undifferentiated?
+What is John Locke&#39;s legacy today?
+Is this a ridiculous argument: &quot;If the land contains Chinese-made products many thousand years ago then that land belongs to China&#39;s territory&quot;?
+Why people feel time faster as they getting older?
+What did Einstein make of Bohmian Mechanics?
+Is composition more than the composite parts
+Which translation of Heidegger&#39;s &quot;Being and Time&quot; do you recommend?
+Is Poppers criticism of Kant valid?
+Why are minds not considered part of the external environment?
+In Kantian ethics, how does one choose a universalizable maxim?
+Can anyone ever state how things are not?
+authoritative answers
+Kierkegaard and &quot;the Essentially Christian&quot;
+Sartre and Existentialism
+Types of predicate and existence
+Concerning A.I. and Robots - Can they reach sentience and consciousness?
+How can you support the idea of qualia as distinct from neuronal firing when you only experience one thing?
+Is Nothing actually imaginable?
+What did Kierkegaard consider to be &quot;reflection&quot;?
+What are prominent attacks of Rawls&#39; &quot;veil of ignorance&quot; argument? Which liberal philosophers have advanced it?
+Is Horse a Concept?
+Understanding philosophy from a mathematicians perspective
+Difference between implication/conditional and logical entailment?
+Can definition be existence (in mathematics)?
+Opposite Universe
+Should attempted murder be a lesser crime than murder?
+Can empty universe have any significance?
+Why does one worry about the existence of a number but not of a dog?
+What school of thought is used in Wolfenstein: The New Order Tekla Monologue?
+Aren&#39;t rational thinkers falling a prey to a logical fallacy?
+Is there any justification for the existence of sets?
+How do Logical Positivists respond to the &quot;Positivism is self-defeating&quot; argument
+Epistemology of infinite sets
+Does Randomness depend on the observer?
+Definition of concept
+Concerning the first self-aware human
+What are the characteristics of an &#39;objective&#39; statement or argument?
+What is the meaning of &quot;meaning of life&quot; and why do people seek it?
+Why is always spoken of a &#39;game&#39; in sociologic subjects?
+A reference which justifies &quot;The use of Philosophy&quot;
+Does Sartre deny the existence of an excuse?
+Is it believed by the religious that God&#39;s values change over time, along with humans&#39;?
+Does a universal affirmation entail an existential affirmation?
+Should I use people&#39;s Facebook photos unauthorized and anonymously?
+Complete list of logical fallacies
+What is thinking the universe is made up called?
+the self as agency is a brain function or a kind of solid entity, a soul?
+Kant&#39;s refutation of empiricism
+What does Einstein&#39;s quote &quot;If the facts don&#39;t fit the theory, change the facts&quot; mean?
+Does self-awareness have a time span?
+Understanding Aristotle&#39;s &quot;Politics&quot;
+Which was the first philosopher to think of ET?
+Logical analysis of the following situation?
+Why are human beings and their creations not considered &quot;nature&quot; or &quot;natural&quot;?
+Defining the universe
+Existentialism in relation to Roberto Unger&#39;s Beyond Nihilism
+How can I develop my critical thinking skills?
+What are Gottfried Wilhelm Leibniz’s view of monads
+George Berkeley’s view that “to be, is to be perceived”
+Biology progress and bioethics
+Who was the earliest known philosopher?
+Is there a consistent definition of free will?
+Was Marcus Aurelius the first philosopher-king?
+Explanation on Descartes&#39; statement
+Classical possible worlds semantics
+Are Cybernetics and Artificial Intelligence merging together?
+How does induction relate to falsifiability?
+Where can I find a compendium of syllogistic summaries?
+Logic Notation Question: [[A]] vs. ⌈A⌉
+What is the precise definition of perfection
+How can you satisfy Pascal&#39;s Wager in the eyes of the greatest number of living people?
+What do we mean by the term &quot;Number of things&quot;?
+Logical analysis of &#39;She needs all the help she can get being a single parent&#39;
+Name of approaches of physics in terms of laws vs in terms of correlations?
+What is the role of common sense in logic?
+Can a proposition change its truth value?
+What were Cicero&#39;s original contributions to philosophy?
+Naturalism under a neo atheist definition
+Tarski&#39;s truth definition
+What exactly is metaphysical possibility?
+Thorough analysis of Kant&#39;s &quot;conditions of possibility&quot;
+If the universe came from &quot;nothing&quot;, why is it assumed that there is no life after death?
+Factors of a Utilitarian Calculation
+Is emptiness comparable to a switched off computer?
+Does the existence of colors give evidence against materialism?
+showing c=a v b=c from a=c v b=c?
+Is there any difference between Populism and Democracy ?
+Fear of failure
+Connectives, polarity and logical atoms in Linear logic
+Believing in god is same as not believing in yourself
+What are the rules of postulating?
+What&#39;s so fallacious about the Slippery Slope Fallacy?
+What kind of a fallacy or paradox is this?
+Fallacy in a Rhetorical Question? &quot;Why do you think...?&quot;
+How can a particle be at rest?
+Is the cogito analytic a priori?
+Why does an omnipotent God allow horrible evil to flood the earth?
+Who are some anti-existentialist philosophers and what were there arguments against it?
+Are axioms non-empty?
+Considering the universe has a limited timespan, how would god fit into this?
+I am not my body
+Why is Materialism central to Physics?
+Was G&#246;del the first person to bring up that truth always exceeds the grasp of proof?
+If the referent is the thing referred to, what is the thing referring?
+Whats the earliest documented instance of Buddhist Philosophy on European thought?
+Is there a third way, distinct from determinism and randomness?
+Is Chomskys universal grammar synthetic a priori?
+Does this reduction to the absurd bastardize the technique?
+Who is responsible for damages of automatic drones?
+Verification of scientific knowledge other than peer review?
+Time traveler&#39;s paradox
+What is the Difference Between Human Rights and Natural Rights?
+Is it Unethical to Use Sarcasm?
+Are we responsible to those who rely on us without our concent?
+Literature on ascetic philosophy
+Are areas of philosophy besides logic subjective?
+Assessing the Ethics of Building Unsafe Structures
+What are the biggest advances in formal philosophy?
+The future of my philosophical understanding and methods for getting there
+Does the fallacy in &quot;it&#39;s true because I would like it to be true&quot; have a name?
+Albert Camus on the meaning of life?
+What are some examples of solved philosophical problems?
+Why is intuitionistic negation nonconstructive?
+How is &#39;medical&#39; in &#39;medical man&#39; and &#39;medical instrument&#39; different?
+How might a modern defender of positivism classify a &quot;speech act&quot;?
+According to Wittgenstein, what is the relationship between &quot;concept&quot; and &quot;definition&quot;? What are the differences between the two?
+Can public funding panels properly represent the interests of the public?
+Questions about semantics for First-Order Logic
+How many legs does a dog have?
+Is the concept of an all-knowing being logically impossible?
+Dependency and Change
+Legitimacy of peer review
+Illegal immigration due to poverty - Is there a moral way to tackle it?
+Embryo stem cells and the concept of &quot;person&quot;
+Does the law of excluded middle follow the law of excluded middle?
+Illogical part of universe
+Are children moral agents?
+What Does Being Spiritual Mean?
+Explain Ramsey sentences in simple terms
+Can psychological factors be evaluated in the realm of philosophy without going too abroad?
+Using embryos in stem cell medicine
+Aristotle&#39;s Syllogistic and Proofs by Contradiction
+Should governments have the power to limit the citizen&#39;s rights during wartime?
+What are the prerequisites for studying modal logic?
+Examples of philosophers that are neither analytic nor continental
+The Truman Show Question
+Why do realists not define measurement?
+Is the world of Gods substance?
+Is it better to maximize my own happieness or maximising the happieness of others around me so that I can feel happy for and with them?
+Is work a virtual fable?
+How many colours are there for-us (as qualia)?
+What is the word for... human thinking / imagination / understanding is limited by human experience
+Does Risk Aversion cause Diminishing Marginal Utility, or vice versa?
+Suggestions for critical writing
+Greek political philosophy and theory?
+Are there clearly defined limits to philosophy?
+Does brevity justify using neologisms whose meaning is obvious (e.g. quality of being a dog = doghood) in philosophical writing
+is the answer contained in the question when it is well formulated?
+How do I start studying Mathematical Logic?
+Secular moral principles
+Why is Las Meninas is the representation of classical representation?
+How would anyone know if they saw the equation of everything?
+About a mind / brain analogy regarding computers
+Is it immoral for mosquitos to take blood from other living things without their consent?
+Death: A finite ending?
+How is thought, which has become the means of self-expansion, to act without giving sustenance to the ego, the cause of conflict and sorrow?
+Can an eternal universe be created?
+What is the analytic-synthetic dilemma concerning existence?
+Major Questions resolved or unresolved in Philosophy
+Does science need support from religion or philosophy to explain the creation?
+Did Putnam prove Hume wrong about the impossiblity of grounds for ethical claims?
+Propositions lacking referents, and their truth-values
+Should stealing one cent be considered immoral?
+What basic metaphysics should every philosophy student know?
+Nietzche&#39;s: We killed God... Who was he referring to?
+Are there philosophical theories about quality, not in the sense of &quot;attribute&quot; or &quot;property&quot;, but in &quot;being of high quality&quot;?
+The mass surveillance of price and the invisible hand?
+About an interpretation of implication
+Is State liable is a violent crime is committed because of the State laws?
+Why do Deleuze and Guattari say the race summoned forth by art or philosophy is bastard &amp; minor one?
+If one is presumed innocent until proven guilty beyond any reasonable doubt, why wrongful convictions are so common?
+Is Omnipotent a self contradictory term?
+Why don&#39;t we have consensus in more complicated areas of logic?
+Is &quot;Don&#39;t blame me; I voted for ___&quot; a bad argument?
+How to point out argumentation fallacy in &quot;real life&quot;
+Propositional Logic Problem - Identify the Truth Teller, the Liar and the unpredictable
+Is Not-Being identical with Nothing?
+Can we see our future?
+Is Aristotle referring to both Posterior Analytics and Prior Analytics when referring to simply &quot;Analytics&quot;?
+What is Hofstadter&#39;s ontology for symbols?
+What is a mathematical description of free will?
+Is there any sound argument for ethics being objective?
+If our perceptions are not &quot;real&quot;, how can common perceptions be explained?
+To what extent can the invention of zero in India as a number be tied to Buddhist philosophy, if at all?
+Is World Deterministic?
+Is the human mind immune to paradox?
+Relativist semantics for attitude ascriptions?
+Are all advanced civilizations are likely to have a religious phase?
+Could Watson be used to answer philosophical questions?
+Dualism appears in many places. Is there a theory why?
+History of determinism
+A question about large cardinal axioms in set theory
+Can &#39;Nothing Exist before we measure it&#39;?
+What do contemporary philosophers think of Kant&#39;s categories of the understanding?
+What is the &quot;profound lie&quot; in Dostoevsky&#39;s Crime and Punishment?
+Why does the eastern teaching of no-self be so difficult to accept, as an actuality and not as a weird claim, by western thought?
+How does eastern philosophy see the western concept of self?
+Singer&#39;s Principle of Sacrifice &amp; Miller&#39;s Principle of Sympathy
+The question of Being and Not-being - Plato&#39;s Sophist
+What is the relationship between the rhizome and the body without organs?
+Mass surveillance and the concealed subject of power
+Is parenthood permissible for a utilitarian?
+Was Augustine intentionally ambiguous? (Regarding free will)
+Quantified Modal Logic and Plantinga&#39;s Ontological Argument
+According to Mill, are the stand your ground laws ethical?
+Is it possible to construct falsifiable evolutionary hypotheses about behaviour?
+Stronger evidence for Feyerabend&#39;s critique of self-consistency
+Why should one study Philosophy?
+What is the difference between epistemic and ontological when it comes to special relativity?
+Cheap linguistic trick
+About Anselm&#39;s Ontological Argument and Bertrand Russell
+Utilitarian ethics: are consequences for yourself relevant?
+Where does Aristotle&#39;s Posterior Analytics disagree with modern philosophy of science?
+How much Help can I get for Free?
+Is there a difference between the concepts of reality and existence in Aristotle&#39;s philosophy?
+Does entelechy have a contrary?
+Why wouldn&#39;t a government be as tainted as ordinary people according to Hobbes?
+Weber and Marx - Modern Culture and Dominant Culture
+Regarding the Halting problem and the human mind
+A philosophy where technology is forsaken and nature embraced
+The Philosophy of Fear
+Platonic form of existence
+How many mirrors must a man look in before he becomes a man?
+Can homosexuality be discussed philosophically?
+What responses have there been to Mises&#39; theory of praxeology?
+Archaic mathematical reality as referred to by mathematician Alain Connes
+How can we have responsibility in the Stoic&#39;s deterministic universe?
+Three people sitting together of which two are truthful and one is a liar. Can the truthful detect the liar?
+Philosophical justification for giving certain animals rights of a person?
+How do you tell what are human rights?
+Whats the philosophical originary thought for the empirical category of the wave?
+Should we save endangered languages?
+How did Antiquity deal with the disappearance of the Transcendent?
+Does the notion of an all-powerful God conflict with the idea of free will?
+What does Spivak mean exactly in her paper &quot;can the subaltern speak&quot;?
+Why have philosophers historically defined God as omni-benevolent?
+What would Kant do when two categorical imperatives conflict? Could he ever justify lying?
+Who said &quot;we need to make more people happy, not more happy people&quot;
+A strange generalization of the square of opposition?
+Is that theory of descriptions able to describe non-unique objects?
+20th Century History of Philosophy
+What are the rebuttals (if any) to Berkeley&#39;s dismissal of &quot;primary qualities&quot;?
+Self determination in non atomistic time?
+Are there any large cardinals that are inconsistent with ZF?
+Dialectical materialism outside Marxism
+Is there a philosophy of stupidness?
+School Board Ethics
+Argument where premises cannot all be true
+Sartrian Freedom Compatible with Determinism?
+What will be the outcome of an open source project without the supervision of an expert group?
+Psychoanalysis and the ontologization of the self
+What do philosophers mean by &#39;conceivable&#39;?
+is knowledge an impediment for seeing things the way they are? is silent observation the true instrument of comprehension?
+Where online can I find arguments for preference utilitarianism?
+Is feeling the heaviness of something a quale?
+Does analytical political philosophy discuss both capitalism and communism as an inheritence of Christianity?
+Inductive argument for infinite number of cities
+Intuition as long term rational thinking
+What is a Horizon?
+What is the difference between The one, Buddha-nature, Brahman and Tao?
+Chinese Beliefs about God and the physical world
+What&#39;s the difference between cloning and metabolism in terms of affecting personal identity?
+On the Axiom of Infinity
+Existence of abstract objects for a physicalist
+Semantic vs syntactic consequence
+Non-Self-Referential Derivation of Inference rule
+Badiou, Deicide &amp; the return of the Transcendent
+What is the difference between intension and intention?
+Problems with backward time travel
+Is &quot;equality&quot; an virtue in itself or a derivative of envy?
+About philosophical questions
+How can we define &quot;sanity&quot; across cultures?
+Provable and contradictory?
+Rational irrationality of emotions and simulated annealing
+Is Deontic Logic applicable in Computer Science?
+Difference between ethical subjectivism and expressivism?
+Should journalistic ethics apply to anyone who publishes
+How not to judge?
+What could we call as mathematical intelligence?
+When translating universal affirmatives should we use implication or conjunction?
+Why we think that we thinking by ourselves, independent and free
+Is math independent of our sensory experience?
+Which signs indicate consciousness in other beings?
+Eastern philosophy for a Western audience
+Observation as a non-conscious state of matter?
+Deleuzian Desire
+Wittgenstein: Why is bipolarity necessary?
+Main differences between conventional and relative simultaneity?
+The difference between Philosophy and Cognitive science
+Provide an example of two sentences , the first formally implying the second, the second analytically(but not formally) implying the first
+Can a valid argument with formally consistent premises have an analytically impossible conclusion? What about the converse?
+What are the &quot;essential/core&quot; texts any student of philosophy should have read?
+What is the actual process of realization?
+If A: P implies Q and B: Q implies P, then A is the *what* of B?
+Tractatus 3.333 and Russell&#39;s paradox
+What is this special, general type of atomic sentence?
+Do humans have skills we haven&#39;t discovered yet?
+Are the following relations reflexive/irreflexive/neither? Symmetric/asymmetric/neither? Transitive/intransitive/neither?
+The selfless gene
+What &quot;driving forces&quot; have being introduced for human kind during history?
+Which of the following sentential operators are truth functional ? Why?
+Is democracy scalable?
+Would the prediction of scientific discoveries give credence to a holy book claiming to be inspired?
+What makes primitive cosmology primitive?
+What are the practical applications of formal logic, outside of math and computer programming?
+Judging the Logical Conclusion for this Epistemological Debate
+Is trance music cathartic?
+what are the limits of rigid designation?
+What are the useful outcomes of denying the Continuum Hypothesis?
+Are perfection, morality, sanity and beauty &quot;absolute&quot;?
+Is contemporary advertising a form of Rhetorics?
+What is the difference between Ethics and Social Contract
+What is the purpose of learning?
+Responses to the bricklayer critique of Dewey&#39;s definition of Inquiry
+Ad Hominem vs. Accountability
+If a brain in a vat never received any sensory input, could it still develop a consciousness? What would a functionalist say?
+What are the cons of a meritocratic education?
+Is not getting an incentive the same as being punished?
+What did Democritus talk about when he talked about &quot;atoms&quot;?
+Can Something Exist in Nothing (Outside the bounds of our Universe)?
+people&#39;s morals are &#39;sometimes&#39; or &#39;always&#39; socially accepted values
+The possibility of impossible
+Should I believe in truth?
+What empirical evidence would exclude the Intelligent Designer hypothesis?
+Which philosopher would agree with the theory of moral absolutism?
+To what extent is someone guilty of not taking action to prevent a crime?
+What is the difference between determinism and superdeterminism?
+Where do things come from?
+The only criterion of reality of individual moral judgments are socially accepted values​​
+References for intuitionistic meta-logic?
+The paradox of the raven and Kratzer&#39;s account of &quot;if-then&quot;
+Ethics of Genetically Modified Organisms
+Formalized monotheist religious system
+Qs about interpretations on Parmenides&#39;s claim
+Can a time-travel paradox prove self sustaining universe?
+Could our universe simply be abstract mathematical existence?
+What is this type of logical fallacy called?
+How do the meanings of *to exist*, *to be*, and *real* differ?
+Where did Nietzsche tell the story of the Master and His Emissary?
+What are the Main Objections to Being and Nothingness?
+Are religious beliefs inherently self-contradictory?
+Recommendations for reading in Russell&#39;s Mathematical Philosophy
+Is Graham&#39;s number bigger than the smallest inaccessible cardinal？
+What is the ontological status of information that is permanently inaccessible to any conceivable observer?
+Quantifying over an empty set: first-order logic
+Can encrypted information be sent back in time while avoiding the Unproven Theorem Paradox?
+Could someone expound upon this comment by Alvin Plantinga?
+Can our sense of touch deceive us?
+The Soil of Being and Time
+If I upload my brain into a computer is it still me?
+Is Tao a God? Or is it a God only in the Dao Jiao?
+Philosophy of Synergy and Collaboration
+How to Prove &quot;Possibly P if Necessarily P&quot; in Kripke Modal Logic?
+What&#39;s the difference between a contradiction and a paradox?
+What&#39;s the difference between &quot;not all&quot; and &quot;some&quot; in logic?
+How important are equality, functions and constants for first order logic?
+What were Peirce&#39;s trinary conception of logic?
+The Customer is not Always Right
+Logic as a (bad) model language
+In modal logic, why not &#39;possibly p&#39; → &#39;not necessarily p&#39;?
+Is the UNIVERSE trying to discover itself?
+If God had a bachelor&#39;s degree
+Were we born to believe?
+How is Bayesian reasoning related to the scientific method?
+What theory suggests that the world is an illusion?
+What authors differentiate between ability and freedom?
+Introduction to philosophy of science and metaphysics
+Can either individualism or diversity casuse a stall to progress in societies?
+Is something without a solution a problem?
+Are our desires driven by destiny?
+What is the difference between &#39;hegemony&#39; and &#39;interpellation&#39; in Marxism?
+Foucault&#39;s views on biopower
+What are some good texts to study the philosophy of self-reference?
+Does Cogito ergo sum need to be more specific?
+&quot;cogito ergo sum&quot; and then...?
+Element Earth in ancient Greece
+What are the arguments against the emergence of mind?
+What is the essence of Descartes Riddle?
+Question regarding proof of ❋3.47 in Principia Mathematica by Whitehead and Russell
+Is Plato&#39;s Socrates contradicting himself here? (Phaedo 75a)
+What is a &#39;Brain State?&#39;
+Is Suicide Courageous or Cowardliness?
+Deny the existence of infinities by philosophical means only
+When it&#39;s stated that human beings are equal, what kind of equality is usually implied?
+How does Nietzsche disprove the existence of God?
+Is Western Philosophy Inherently Patriarchal and Mono-racial?
+Question regarding the proof 3.3 in the Principia Mathematica
+Why are physicists debating the &quot;multiverse&quot; so detached from professional philosophy?
+Is it possible to logically derive moral statements from factual statements?
+What are the truth-values of intuitionistic logic?
+In modal logic what is the difference between: M,w |= p and M | q, w |= p
+How does logic reference fictional characters?
+Is the real number line actually real when we construct it?
+Is Morality an end in itself or a means to a higher end, and if the latter, what is the higher end?
+Has the Problem of Induction been solved?
+Motion and contradiction
+What kind of government did Aristotle consider the best?
+Does infinity exist in the real world,other than just in mathmatics?
+Does pragmatism view death as optional?
+can all concepts really explained by a language,for example,English?
+Is focus dependent upon time?
+Is infinite regress of logical causation possible? Is infinite regress of logical causation necessary?
+Truth is singular. Its &quot;versions&quot; are mistruths.
+Why did Heidegger (postmodernism) ignore Schelling&#39;s later thought?
+Do Nietzsches arguments against Christian morality also stand against the other main world religions?
+Irony in Friedrich Nietzsche?
+How can we represent &#39;nothing&#39; or &#39;nothingness&#39; in predicate logic?
+a problem of an infinite long running race
+Contradiction, and the Being and Becoming of Mathematics
+What distinguishes logical necessity, logical consequence, logical truth, and tautology from one another?
+Mathematics and the Peano Event, or the sign thereof
+Logical reasoning: What is the difference between NOT-elimination and False-introduction?
+Theseus Ship and Aristotle&#39;s cause
+Does existence precede quiddity?
+Nomenclatural/Semantic Question in re: Semiotics
+Dennett&#39;s view on the effect language has on the mind/brain
+Can moral philosophers settle moral questions?
+Why is chinese philosophy usually ignored in western philosophy courses?
+Describe the result of the xor of n logic variables with a sentence of everyday language
+Desirable features in an introductory logic textbook?
+About McGee objections to modus ponens
+Descartes&#39; Enlargement or Limitation of Cognition?
+Are there n-valent classical propositional logics?
+Are the Efforts to Fuse Philosophy and Pop Culture Superficial?
+Nomologically possible worlds and physicalism
+When society has reached Marloes higher development would there be any religion is superstition?
+Aristotle on the actuality of the soul - problem understanding &#39;de anima&#39;
+Free will thought experiment: what will I be thinking of exactly 5 minutes from now?
+Do humans have an obligation to ensure that death actually occurs when we think it does?
+GUT and TOE as Fallacies of Misplaced Concreteness?
+What fallacy/fallacies are present when a person discredits another person&#39;s arguments, by claiming they are not arguing for their own position?
+How are sortals different than types?
+What step in this argument is the least valid?
+Term for skepticism about whether a concept is meaningful
+What&#39;s the difference between being spatiotemporally isolated and causally isolated?
+Argument Analysis: Is this argument a slippery slope?
+Important differences between Tarski&#39;s 1933 and 1956 truth definitions
+Can mental experiences exist unperceived?
+Is Mathematics an art or a science?
+Theories on the origin(s) of evil
+Does Poppers theory of Falsification apply to mathematics?
+Who is inside and outside the bubble?
+How can free will in compatibilism be proven?
+Looking for an epistemology term
+Albert Einstein on Divining the Purpose of Life
+What is it that you don&#39;t know?
+What literary works discuss shifting one&#39;s morality for practicality impacting an objective?
+Isn&#39;t there an inherent contradiction in creating your own meaning in life?
+Is the Socratic Method is the best way to teach philosophy?
+When and why do we say that two things are the same
+Assuming a mind could be uploaded, how would we know if it worked?
+What responses are there to Singer&#39;s &quot;Should this be the last generation?&quot;
+What is an individual thing? Examples?
+What are Kant&#39;s critiques of Hume&#39;s and Descartes&#39;s conceptions of the self?
+Is materialism and idealism the most basic divergence in philosophy?
+In modern philosophy, what distinguishes a property from a qualty?
+Why the difference is measured in the absolute units (but not for time)?
+Is a couple living in symbiosis?
+Feyerabend&#39;s criticism against the fetishes of rationalism
+Is soul motion?
+Who else besides Spinoza has described how to resolve Descartes separation of thought and matter?
+&quot;God is Dead&quot; - Nietzsche
+How does one read Nietzsche &quot;properly&quot;?
+BHK Semantics and Homtopy Type Theory
+What branch(es) of philosophy use symbolic logic as a fundamental tool?
+Materialist Epistemology?
+What is Naive Set Theory?
+How does philosophy study the world?
+Assuming God is real, can the level of joy we desire exceed the amount He desires/can create?
+What does wisdom mean for a secular person?
+Recommendations for reading in Constructive Mathematics
+Have there been any studies on how Marxist philosophy interacted with Chinese philosophy in China?
+How might one counter this criticism of Stoicism by Bertrand Russell?
+Determinism vs Indeterminism debate
+&quot;Continental&quot; philosophers who have worked on the Philosophy of Mathematics?
+On the Nature of Truth
+What are some good resources for Analytically trained philosophers to get into more &quot;continental&quot; figures?
+Logic question and Venn diagram
+What is the justification for topological arguments in philosophy?
+Hume and Kant on causality: do their views really differ?
+Can three valued logic serve as an adequate basis for a (nontraditional) modal logic?
+Was there support for panpsychism among the Romantic poets?
+Is it irrational to not believe in the existence of irrational numbers?
+Valid and invalid arguments
+why we can&#39;t defeat evil with evil?
+Isn&#39;t a Gettier case just lack of adequate justification?
+Does something require its opposite in order to be defined?
+Asking a genie for more wishes
+How could one summarize Marx&#39;s quibble with Hegel over the merit of mysticism?
