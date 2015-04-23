@@ -1,4 +1,4 @@
-from enum import enum
+from enum import Enum
 
 #Li and Roth's question hierarchy
 class Coarse(Enum):
@@ -72,8 +72,8 @@ class Fine(Enum):
 	size = 49
 	weight = 50
 
-#Returns a question type tuple: (Coarse type, Fine type)
-def get_question_type(question):
+#Returns an answer type tuple: (Coarse type, Fine type)
+def get_answer_type(question):
 	return (Coarse.description, Fine.definition)
 
 #Search relevant stack exchange domains for potential answers to the question.
