@@ -1,0 +1,666 @@
+Afghani
+Akşa
+Angolar
+Argentino
+Ariary
+Austral
+Auksinas
+Baht
+Balboa
+Birr
+Bolívar
+Boliviano
+Budju
+Cedi
+Chervonets
+Colón
+Costa Rican colón
+Salvadoran colón
+Continental currency
+Conventionsthaler
+Córdoba
+Portuguese Cruzado
+Real
+Real
+Cruzeiro Real
+Cupon
+Cryptocurrency
+Customs gold unit
+Dalasi
+Daler
+Denar
+Denier
+Dime
+Dinar
+Algerian dinar
+Bahraini dinar
+Bosnia and Herzegovina dinar
+Croatian dinar
+Iraqi dinar
+Jordanian dinar
+Kelantanese dinar
+Krajina dinar
+Kuwaiti dinar
+Libyan dinar
+Republika Srpska dinar
+Serbian dinar
+South Yemeni dinar
+Sudanese dinar
+Swiss dinar
+Tunisian dinar
+Yugoslav dinar
+Diner
+Dinero
+Dinheiro
+Dirham
+Moroccan dirham
+United Arab Emirates dirham
+Dobra
+Dollar
+Antigua dollar
+Australian dollar
+Bahamian dollar
+Barbadian dollar
+Belize dollar
+Bermudian dollar
+British Columbia dollar
+British North Borneo dollar
+British West Indies dollar
+Brunei dollar
+Canadian dollar
+Cayman Islands dollar
+Continental dollar
+Cook Islands dollar
+Dominican dollar
+East Caribbean dollar
+Fijian dollar
+Grenadan dollar
+Guyanese dollar
+Hawaiian dollar
+Hong Kong dollar
+International dollar
+Jamaican dollar
+Kiautschou dollar
+Kiribatian dollar
+Liberian dollar
+Malaya and British Borneo dollar
+Malayan dollar
+Mauritian dollar
+Mongolian dollar
+Namibian dollar
+Nevisian dollar
+New Brunswick dollar
+New Zealand dollar
+Newfoundland dollar
+Nova Scotian dollar
+Prince Edward Island dollar
+Penang dollar
+Puerto Rican dollar
+Rhodesian dollar
+Saint Kitts dollar
+Saint Lucia dollar
+Saint Vincent dollar
+Sarawak dollar
+Sierra Leonean dollar
+Singapore dollar
+Solomon Islands dollar
+Straits dollar
+Sumatran dollar
+Surinamese dollar
+Old Taiwan dollar
+New Taiwan dollar
+Texan dollar
+Tobagan dollar
+Trinidadian dollar
+Trinidad and Tobago dollar
+Tuvaluan dollar
+Zimbabwean dollar
+Đồng
+North Vietnamese đồng
+South Vietnamese đồng
+Vietnamese đồng
+Drachma
+Dram
+Ekwele
+Escudo
+Angolan escudo
+Cape Verdean escudo
+Chilean escudo
+Mozambican escudo
+Portuguese escudo
+Portuguese Guinean escudo
+Portuguese Indian escudo
+Portuguese Timorese escudo
+São Tomé and Príncipe escudo
+Spanish escudo
+Euro
+Fanam
+Fiorino
+Florin
+Aruban florin
+Austrian florin
+East African florin
+Lombardy-Venetia florin
+Forint
+Franc
+Algerian franc
+Belgian franc
+Burundian franc
+Cambodian franc
+Central African CFA franc
+CFP franc
+Comorian franc
+Congolese franc
+Djiboutian franc
+French franc
+French Camerounian franc
+French Equatorial African franc
+French Guianan franc
+French Polynesian franc
+French West African franc
+Geneva franc
+Guadeloupe franc
+Guinean franc
+Katangan franc
+Luxembourgish franc
+Malagasy franc
+Malian franc
+Martinique franc
+Monegasque franc
+Moroccan franc
+New Caledonian franc
+New Hebrides franc
+Réunion franc
+Rwanda and Burundi franc
+Rwandan franc
+Saar franc
+Saint Pierre and Miquelon franc
+Swiss franc
+Togolese franc
+Tunisian franc
+US occupation franc
+West African CFA franc
+Vaud franc
+Franco
+Dominican franco
+Luccan franco
+Ticino franco
+Frange
+Frank
+Aargau Frank
+Appenzell Frank
+Basel Frank
+Berne Frank
+Fribourg Frank
+Glarus Frank
+Graubünden Frank
+Liechtenstein frank
+Luzern Frank
+Schaffhausen Frank
+Schwyz Frank
+Solothurn Frank
+St. Gallen Frank
+Thurgau Frank
+Unterwalden Frank
+Uri Frank
+Vlorë frank
+Westphalian frank
+Zürich Frank
+Gazeta
+Genevoise
+Gineih
+Gourde
+Grosz
+Guaraní
+Guilder
+Gulden
+Austro-Hungarian gulden
+Baden Gulden
+Bavarian Gulden
+Danzig Gulden
+Dutch gulden
+Fribourg Gulden
+Luzern Gulden
+Netherlands Antillean gulden
+Netherlands Indian gulden
+Neuchâtel gulden
+Schwyz Gulden
+South German Gulden
+Surinamese gulden
+West New Guinean gulden
+Württemberg Gulden
+Hryvnia
+Hwan
+Inca
+Inti
+Rupee
+Rupee
+Karbovanets
+Ukrainian karbovanets
+Keping
+Kelantan keping
+Trengganu keping
+Kina
+Kip
+Konvertibilna marka
+Kori
+Korona
+Koruna
+Bohemian and Moravian koruna
+Czech koruna
+Czechoslovak koruna
+Slovak koruna
+Koruuni
+Króna
+Faroese króna
+Icelandic króna
+Krona
+Krone
+Austro-Hungarian krone
+Danish krone
+Liechtenstein krone
+Norwegian krone
+Yugoslav krone
+Kronenthaler
+Austrian Netherlands kronenthaler
+Holy Roman Empire Kronenthaler
+Kroon
+Kuna
+Kuna
+Kwacha
+Malawian kwacha
+Zambian kwacha
+Kwanza
+Kyat
+Laari
+Lari
+Lats
+Lek
+Lempira
+Leone
+Leu
+Moldovan leu
+Romanian leu
+Lev
+Libra
+Lilangeni
+Lira
+Israeli lira
+Italian lira
+Italian East African lira
+Italian Somaliland lira
+Lebanese lira
+Luccan lira
+Maltese lira
+Neapolitan lira
+Papal States lira
+Parman lira
+Sammarinese lira
+Sardinian lira
+Tripolitanian lira
+Turkish lira
+Turkish new lira
+Tuscan lira
+Vatican lira
+Venetian lira
+Litas
+Livre
+French colonial livre
+French livre
+Guadeloupe livre
+Jersey livre
+French livre parisis
+French livre tournois
+Haitian livre
+New France livre
+Luxembourgish livre
+Saint Lucia livre
+Loti
+Manat
+Azerbaijani manat
+Turkmenistani manat
+Maneti
+Maravedí
+Mark
+Danzig Mark
+Estonian mark
+German Mark
+German Goldmark
+German Papiermark
+German Reichsmark
+German Rentenmark
+German South West African Mark
+East German Mark
+Hamburg Mark
+New Guinean Mark
+Saar Mark
+Marka
+Bosnia and Herzegovina konvertibilna marka
+Polish marka
+Markka
+Metica
+Metical
+Mohar
+Mon
+Mun
+Nahar
+Naira
+Nakfa
+New pence
+Ngultrum
+Nuevo Sol
+Obol
+Ora
+Ostmark
+Ostmark
+East German mark
+Ostruble
+Ouguiya
+Pa'anga
+Paisa
+Paise
+Pataca
+Macanese pataca
+Maltese pataca
+Portuguese Timorese pataca
+Pengő
+Penning
+Perper
+Serbian perper
+Montenegrin perper
+Perun
+Peseta
+Catalan peseta
+Equatorial Guinean peseta
+Peruvian peseta
+Spanish peseta
+Peso
+Argentine peso
+Argentine peso argentino
+Argentine peso ley
+Argentine peso moneda corriente
+Argentine peso moneda nacional
+Bolivian peso
+Chilean peso
+Colombian peso
+Costa Rican peso
+Cuban convertible peso
+Cuban peso
+Dominican peso
+Ecuadorian peso
+Guatemalan peso
+Guinea Bissau peso
+Honduran peso
+Fiat peso
+Malvinas Islands peso
+Mexican peso
+Nicaraguan peso
+Paraguayan peso
+Philippine peso
+Puerto Rican peso
+Salvadoran peso
+Uruguayan peso
+Venezuelan peso
+Phoenix
+Piastra
+Neapolitan piastra
+Sicilian piastra
+Two Sicilies piastra
+Piastre
+Piastre
+Ottoman Turkish piastre
+Pitis
+Pound
+Alderney pound
+Anglo-Saxon pound
+Australian pound
+Bahamian pound
+Bermudian pound
+Biafran pound
+British pound
+British West African pound
+Canadian pound
+Connecticut pound
+Cypriot pound
+Delaware pound
+Egyptian pound
+Falkland Islands pound
+Fijian pound
+Gambian pound
+Georgia pound
+Ghanaian pound
+Gibraltar pound
+Guernsey pound
+Israeli pound
+Jamaican pound
+Jersey pound
+Libyan pound
+Malawian pound
+Maltese pound
+Manx pound
+Maryland pound
+Massachusetts pound
+New Brunswick pound
+Newfoundland pound
+New Guinean pound
+New Hampshire pound
+New Jersey pound
+New York pound
+New Zealand pound
+Nigerian pound
+North Carolina pound
+Nova Scotian pound
+Oceanian pound
+Palestinian pound
+Pennsylvania pound
+Prince Edward Island pound
+Rhode Island pound
+Rhodesia and Nyasaland pound
+Rhodesian pound
+Saint Helena pound
+Pound Scots
+Solomon Islands pound
+South African pound
+South Carolina pound
+Southern Rhodesian pound
+Sudanese pound
+Syrian pound
+Tongan pound
+Virginia pound
+West Indian pound
+Western Samoan pound
+Zambian pound
+Pula
+Qiran
+Quetzal
+Riyal
+Rai stones
+Rand
+Reaal
+Real
+Angolan real
+Indian Bharrwa
+Argentine real
+Azorean real
+Brazilian real
+Cape Verde real
+Central American Republic real
+Colombian real
+Ecuadorian real
+Gibraltar real
+Honduran real
+Mexican real
+Mozambican real
+Paraguayan real
+Peruvian real
+Philippine real
+Portuguese Guinea real
+Portuguese real
+Santo Domingo real
+Salvadoran real
+São Tomé and Príncipe real
+Spanish colonial real
+Spanish real
+Venezuelan real
+Reichsmark
+Reichsthaler
+Renminbi
+Rentenmark
+Rial
+Moroccan rial
+North Yemeni rial
+Omani rial
+Tunisian rial
+Yemeni rial
+Riel
+Rigsdaler
+Danish West Indies rigsdaler
+Danish rigsdaler
+Greenlandic rigsdaler
+Norwegian rigsdaler
+Riksdaler
+Rijksdaalder
+Ringgit
+Malaysian ringgit
+Brunei ringgit
+Rixdollar
+Riyal
+Hejaz riyal
+Qatari riyal
+Saudi riyal
+Zanzibari riyal
+Roepiah
+Ruble
+Armenian ruble
+Azerbaijani ruble
+Belarusian ruble
+Russian ruble
+Tajikistani ruble
+Transcaucasian ruble
+Transnistrian ruble
+Rublis
+Rufiyah
+Rupee
+Afghan rupee
+Bhutanese rupee
+Burmese rupee
+Danish Indian rupee
+East African rupee
+French Indian rupee
+Gulf rupee
+Hyderabad rupee
+Hyrulian rupee
+Indian rupee
+Javan rupee
+Mauritian rupee
+Nepalese rupee
+Pakistani rupee
+Portuguese Indian rupia
+Seychellois rupee
+Sri Lankan rupee
+Travancore rupee
+Zanzibari rupee
+Rupiah
+Indonesian rupiah
+Italian Somaliland rupia
+Riau rupiah
+West New Guinea rupiah
+Rupie
+Ryō
+Schilling
+Scudo
+Bolivian scudo
+Lombardy-Venetia scudo
+Maltese scudo
+Milanese scudo
+Papal States scudo
+Piedmont scudo
+Sardinian scudo
+Shah
+Shekel
+New Shekel
+Shekel
+Shilling
+East African shilling
+Kenyan shilling
+Somali shilling
+Somaliland shilling
+Tanzanian shilling
+Ugandan shilling
+Skender
+Sol
+Som
+Kyrgyzstani som
+Uzbekistani som
+Somalo
+Somoni
+Speciedaler
+Speciethaler
+Srang
+Sucre
+Syli
+Tael
+Taka
+Tala
+Tallero
+Talonas
+Tangka
+Tenga
+Bukharan tenga
+Kokand tenga
+Khwarazmi tenga
+Tenge
+Thaler
+Basel Thaler
+Berne Thaler
+Bremen Thaler
+Danzig Thaler
+Geneva thaler
+Hannovarian Thaler
+Hesse-Kassel Thaler
+Mecklenburg Thaler
+Prussian Thaler
+St. Gallen Thaler
+Saxon Thaler
+Solothurn Thaler
+Valais thaler
+Westphalian Thaler
+Zürich Thaler
+Tical
+Tögrög
+Tolar
+Toman
+Trade dollar
+British trade dollar
+Japanese trade dollar
+United States trade dollar
+Vatu
+Venezolano
+Vereinsthaler
+Hanoverian vereinsthaler
+Hesse-Kassel vereinsthaler
+Mecklenburg vereinsthaler
+Prussian vereinsthaler
+Saxon vereinsthaler
+Wén
+Won
+Korean won
+North Korean won
+South Korean won
+Yang
+Yen
+Korean yen
+Japanese military yen
+Yen
+Taiwanese yen
+Yuan
+Yuan
+Chinese yuan
+Chinese renminbi yuan
+Manchukuo yuan
+Taiwanese old yuan
+Taiwanese new yuan
+Zaïre
+Złoty
+Kraków złoty
+Polish złoty
