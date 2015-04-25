@@ -1,6 +1,9 @@
 from enum import Enum
+from nltk import word_tokenize
 from nltk.corpus import names
+from nltk.corpus import wordnet as wn
 import re
+import os
 
 #Li and Roth's question hierarchy
 class Coarse(Enum):
@@ -50,7 +53,7 @@ class Fine(Enum):
 	group = 29
 	individual = 30
 	title = 31
-	description = 32
+	human_description = 32
 
 	# [Location]
 	city = 33
@@ -73,6 +76,50 @@ class Fine(Enum):
 	temp = 48
 	size = 49
 	weight = 50
+
+#Extract Class-Specific Relations from the question
+semCSR_dict = dict()
+for sem_class in os.listdir("data/SemCSR"):
+	infile = open("data/SemCSR/"+sem_class, 'r')
+	for line in infile:
+		if semCSR_dict.get(line) == None:
+			semCSR_dict[line] = [sem_class]
+		else:
+			semCSR_dict[line].append(sem_class)
+	infile.close()
+
+def question_features_SemCSR(tok_question):
+	global semCSR_dict
+	return_classes = []
+
+	for word in tok_question:
+		if semCSR_dict.get(word) != None:
+			return_classes += semCSR_dict[word]
+
+	return list(set(return_classes))
+
+#Extract WordNet synonyms, hyponyms, and hypernyms of all words in the question
+def question_features_WordNet(tok_question):
+	return_features = []
+
+	for word in tok_question:
+		synsets = wn.synsets(word.lower())
+		synonyms = [lemma for syn in synsets for lemma in syn.lemma_names()]
+		hyponyms = [lemma for syn in synsets for hypo in syn.hyponyms() for lemma in hypo.lemma_names()]
+		hypernyms = [lemma for syn in synsets for hyper in syn.hypernyms() for lemma in hyper.lemma_names()]
+		return_features += synonyms + hyponyms + hypernyms
+		#synonyms = [re.sub(r"\..+", "", syn.name()) for syn in synsets]
+		#return_features += synonyms
+
+	return list(set(return_features))
+
+#Extract POS Tags for all words in the question
+def question_features_POSTag(question):
+	return []
+
+#Extract POS Chunks from the question
+def question_features_POSChunk(question):
+	return []
 
 #Returns an answer type tuple: (Coarse type, Fine type)
 def get_answer_type(question):
