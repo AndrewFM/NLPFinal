@@ -107,13 +107,15 @@ def extract_answer(question, atype, passage):
 	answer_fragments = []
 	tok_passage = passage.split(' ')
 
-	pat_realnum = r"[0-9]+[.]*[0-9]*"
-	symbolic_date = r"(?:[0-9]+[\\/-])+[0-9]+"
-	written_date = r"(?:[Jj]anuary|[Ff]ebruary|[Mm]arch|[Aa]pril|[Mm]ay|[Jj]une|[Jj]uly|[Aa]ugust|[Ss]eptember|[Oo]ctober|[Nn]ovember|[Dd]ecember)\s[0-9]+(?:[\s\,]*[0-9]+)?"
+	pat_realnum = r"[0-9]+[.]*[0-9]*"	# 10, 50.2, 0.01, etc
+	pat_symbolic_date = r"(?:[0-9]+[\\/-])+[0-9]+"	# 10/21/1991, 2014-10-11, 04/01, etc
+	pat_written_date = r"(?:[Jj]anuary|[Ff]ebruary|[Mm]arch|[Aa]pril|[Mm]ay|[Jj]une|[Jj]uly|[Aa]ugust|[Ss]eptember|[Oo]ctober|[Nn]ovember|[Dd]ecember)\s[0-9]+(?:[\s\,]*[0-9]+)?" #ie: March 21, 2015
+	pat_year = r"[0-9]{4}"	# 4 digit numbers
+	pat_ancient_year = r"(?:[0-9]|\,)+\s*(?:AD|BC)" # "123 AD", "25,000,000 BC", etc
 
 	#Fine pass (Numeric)
 	if atype[1] == Fine.date:
-		answer_fragments = re.findall(written_date+r"|"+symbolic_date, passage)
+		answer_fragments = re.findall(pat_written_date+r"|"+pat_symbolic_date+r"|"+pat_year+r"|"+pat_ancient_year, passage)
 	elif atype[1] == Fine.money:
 		answer_fragments = re.findall(r"[\$£¥¢]"+pat_realnum, passage)
 	elif atype[1] == Fine.temp:
