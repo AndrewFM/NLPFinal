@@ -11,10 +11,6 @@ from sklearn.pipeline import Pipeline
 from sklearn.linear_model import SGDClassifier
 from sklearn.feature_extraction.text import HashingVectorizer, TfidfTransformer
 from time import time
-import logging
-
-# Display progress logs on stdout
-logging.basicConfig(level=logging.INFO, format='%(asctime)s %(message)s')
 
 #Print with only 2 decimal places
 def format_decimal(num):

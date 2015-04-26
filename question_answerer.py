@@ -1,7 +1,11 @@
 from enum import Enum
+from time import time
 from nltk import word_tokenize
 from nltk.corpus import names
 from nltk.corpus import wordnet as wn
+from nltk.corpus import conll2000
+import question_chunker
+import nltk
 import re
 import os
 
@@ -78,6 +82,7 @@ class Fine(Enum):
 	weight = 50
 
 #Extract Class-Specific Relations from the question
+print("Loading Class-Specific Relations dictionary...")
 semCSR_dict = dict()
 for sem_class in os.listdir("data/SemCSR"):
 	infile = open("data/SemCSR/"+sem_class, 'r')
@@ -113,13 +118,25 @@ def question_features_WordNet(tok_question):
 
 	return list(set(return_features))
 
-#Extract POS Tags for all words in the question
-def question_features_POSTag(question):
-	return []
+#Extract POS Tags and Chunks from the question
+print("Training Part-of-speech chunker...")
+t0 = time()
+chunker = question_chunker.PosChunker(conll2000.chunked_sents('train.txt', chunk_types=['NP','VP']))
+print("done in %0.3fs" % (time() - t0))	
+'''print("Evaluating Part-of-speech chunker...")
+t0 = time()
+print(chunker.evaluate(conll2000.chunked_sents('test.txt', chunk_types=['NP','VP'])))
+print("done in %0.3fs" % (time() - t0))	'''
 
-#Extract POS Chunks from the question
-def question_features_POSChunk(question):
-	return []
+def question_features_POS(tok_question):
+	tag_question = nltk.pos_tag(tok_question)
+	pos_tag_features = [tag[1] for tag in tag_question]
+
+	chunk_question = [((word, tag), chunk) for (word,tag,chunk) in nltk.chunk.tree2conlltags(chunker.parse(tag_question))]
+	print(chunk_question)
+	pos_chunk_features = []
+
+	return pos_tag_features + pos_chunk_features
 
 #Returns an answer type tuple: (Coarse type, Fine type)
 def get_answer_type(question):
