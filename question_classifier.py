@@ -68,14 +68,24 @@ print("\n")
 #Get questions from user
 while True:
 	user_question = get_question_features(input("Enter a question: "))
+	tok_question = word_tokenize(user_question)
 	predict_dist = classifier.predict_proba([user_question])
 	predict_dist = [(classifier.get_params()['clf'].classes_[i],predict_dist[0][i]) for i in range(len(predict_dist[0]))]
 	predict_dist.sort(key=operator.itemgetter(1), reverse=True)
-	print("Your question belongs to:", predict_dist[0][0], "(I'm", format_decimal(predict_dist[0][1]*100)+"% sure)")
-	print("(It could also be", predict_dist[1][0], "["+format_decimal(predict_dist[1][1]*100)+"%])")
-	print("(Or, perhaps,", predict_dist[2][0], "["+format_decimal(predict_dist[2][1]*100)+"%])\n")
+	print("Your question belongs to:", predict_dist[0][0].replace('.txt', ''))#, "(I'm", format_decimal(predict_dist[0][1]*100)+"% sure)")
+	#print("(It could also be", predict_dist[1][0], "["+format_decimal(predict_dist[1][1]*100)+"%])")
+	#print("(Or, perhaps,", predict_dist[2][0], "["+format_decimal(predict_dist[2][1]*100)+"%])\n")
 
-# From playing around with this a bit, it looks to me like...
-# 	Less than 4% certainty, the program is failing to classify the question
-# 	4-6% certainty, it's not entirely sure
-# 	6%+ certainty, it probably has the right answer
+	# From playing around with this a bit, it looks to me like...
+	# 	Less than 4% certainty, the program is failing to classify the question
+	# 	4-6% certainty, it's not entirely sure
+	# 	6%+ certainty, it probably has the right answer
+
+	#TODO: answers = QA.get_candidate_answers(...)
+	#TODO: passage = QA.extract_passage(...)
+
+	passage = "Not implemented yet"
+	atype = QA.get_answer_type(tok_question)
+	final_answer = QA.extract_answer(tok_question, atype, passage)
+	print("The answer is:", final_answer)
+	print("\n")

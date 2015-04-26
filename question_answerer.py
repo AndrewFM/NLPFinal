@@ -95,13 +95,13 @@ for sem_class in os.listdir("data/SemCSR"):
 
 def question_features_SemCSR(tok_question):
 	global semCSR_dict
-	return_classes = []
+	features = dict()
 
 	for word in tok_question:
 		if semCSR_dict.get(word) != None:
-			return_classes += semCSR_dict[word]
+			features["class_"+semCSR_dict[word]] = 1
 
-	return list(set(return_classes))
+	return features
 
 #Extract WordNet synonyms, hyponyms, and hypernyms of all words in the question
 def question_features_WordNet(tok_question):
@@ -121,7 +121,7 @@ def question_features_WordNet(tok_question):
 #Extract POS Tags and Chunks from the question
 print("Training Part-of-speech chunker...")
 t0 = time()
-chunker = question_chunker.PosChunker(conll2000.chunked_sents('train.txt', chunk_types=['NP','VP']))
+chunker = question_chunker.PosChunker(conll2000.chunked_sents('train.txt'))
 print("done in %0.3fs" % (time() - t0))	
 '''print("Evaluating Part-of-speech chunker...")
 t0 = time()
@@ -129,17 +129,54 @@ print(chunker.evaluate(conll2000.chunked_sents('test.txt', chunk_types=['NP','VP
 print("done in %0.3fs" % (time() - t0))	'''
 
 def question_features_POS(tok_question):
+	features = dict()
+	found_head_np = False
+	found_head_vp = False
+	cur_chunk = []
+	cur_type = None	#NP, VP, PP
+
 	tag_question = nltk.pos_tag(tok_question)
-	pos_tag_features = [tag[1] for tag in tag_question]
-
 	chunk_question = [((word, tag), chunk) for (word,tag,chunk) in nltk.chunk.tree2conlltags(chunker.parse(tag_question))]
-	print(chunk_question)
-	pos_chunk_features = []
+	chunk_question.append((('<END>', '.'), 'O')) #Need this in case the user forgets to end their question with a punctuation mark
+	for i in range(len(chunk_question)):
+		item = chunk_question[i]
+		if item[0][1] != '.':
+			features[item[0][0].lower()] = 1 #Word
+			features['tag_'+item[0][0].lower()] = item[0][1]  #Tag
 
-	return pos_tag_features + pos_chunk_features
+		#Chunks
+		chunk_tag = item[1]
+		if chunk_tag[0] != "I":
+			if len(cur_chunk) > 0:
+				if cur_type != None:
+					features['chunk_'+'_'.join(cur_chunk)] = cur_type
+				if cur_type == "NP" and found_head_np == False:
+					head_np = ' '.join(cur_chunk)
+					if head_np.lower() not in ['what', 'where', 'when', 'why', 'who', 'how']: #Don't count question words as head noun phrases
+						features["np_head"] = head_np
+						found_head_np = True
+				elif cur_type == "VP" and found_head_vp == False:
+					features["vp_head"] = ' '.join(cur_chunk)
+					found_head_vp = True
+			cur_chunk = []
+			if chunk_tag[0] == "O":
+				cur_type = None
+			else:
+				cur_type = chunk_tag[2:]
+		cur_chunk.append(item[0][0].lower())
+
+	return features
 
 #Returns an answer type tuple: (Coarse type, Fine type)
-def get_answer_type(question):
+#TODO: Build and train hierarchial classifier
+def get_answer_type(tok_question):
+	features = dict()
+	features.update(question_features_POS(tok_question))
+	features.update(question_features_SemCSR(tok_question))
+	print("features:")
+	print(features)
+	print()
+	#TODO: pass features to answer type classifier
 	return (Coarse.description, Fine.definition)
 
 #Search relevant stack exchange domains for potential answers to the question.
@@ -188,7 +225,7 @@ def extract_answer(question, atype, passage):
 		answer_fragments = re.findall(pat_realnum+r"\s*\%", passage)
 	elif atype[1] == Fine.weight or atype[1] == Fine.size or atype[1] == Fine.speed or atype[1] == Fine.distance: #Number with unit
 		answer_fragments = re.findall(pat_realnum+r"\s*\S+\s", passage)
-	elif atype[0] == Coarse.Numeric:
+	elif atype[0] == Coarse.numeric:
 		answer_fragments = re.findall(pat_realnum, passage)
 
 	#Fine pass (Human)
@@ -227,7 +264,7 @@ def extract_answer(question, atype, passage):
 
 	#Coarse pass
 	if len(answer_fragments) == 0:
-		if atype[0] == Coarse.Numeric:
+		if atype[0] == Coarse.numeric:
 			answer_fragments = re.findall(pat_realnum, passage) 
 		elif atype[0] == Coarse.human and (atype[1] == Fine.individual or atype[1] == Fine.group):
 			#I didn't find a name, let's become naive and just return any title-cased words

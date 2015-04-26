@@ -46,7 +46,6 @@ class ChunkTagger(nltk.TaggerI):
 				train_data.append(features)
 				train_targets.append(tag_question[i][1])
 
-		#self.classifier = nltk.MaxentClassifier.train(train_data, trace=0)
 		self.classifier = Pipeline([('vect', DictVectorizer()),										
                       				('clf', SGDClassifier(n_jobs=-1))])	
 		self.classifier.fit_transform(train_data, train_targets)		
