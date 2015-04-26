@@ -1,85 +1,23 @@
-from enum import Enum
 from time import time
 from nltk import word_tokenize
 from nltk.corpus import names
 from nltk.corpus import wordnet as wn
 from nltk.corpus import conll2000
+from sklearn.pipeline import Pipeline
+from sklearn.linear_model import SGDClassifier
+from sklearn.feature_extraction import DictVectorizer
 import question_chunker
 import nltk
 import re
 import os
 
 #Li and Roth's question hierarchy
-class Coarse(Enum):
-	abbreviation = 1
-	description = 2
-	entity = 3
-	human = 4
-	location = 5
-	numeric = 6
-
-class Fine(Enum):
-	# [Abbreviation]
-	abbreviation = 1
-	expression = 2
-
-	# [Description]
-	definition = 3
-	description = 4
-	manner = 5
-	reason = 6
-
-	# [Entity]
-	animal = 7
-	body = 8
-	color = 9
-	creative = 10
-	currency = 11
-	medicine = 12
-	event = 13
-	food = 14
-	instrument = 15
-	lang = 16
-	letter = 17
-	other_entity = 18
-	plant = 19
-	product = 20
-	religion = 21
-	sport = 22
-	substance = 23
-	symbol = 24
-	technique = 25
-	term = 26
-	vehicle = 27
-	word = 28
-
-	# [Human]
-	group = 29
-	individual = 30
-	title = 31
-	human_description = 32
-
-	# [Location]
-	city = 33
-	country = 34
-	mountain = 35
-	other_location = 36
-	state = 37
-
-	# [Numeric]
-	code = 38
-	count = 39
-	date = 40
-	distance = 41
-	money = 42
-	order = 43
-	other_numeric = 44
-	period = 45
-	percent = 46
-	speed = 47
-	temp = 48
-	size = 49
-	weight = 50
+question_hierarchy = [('ABBR',['exp', 'abb'])
+					 ,('DESC',['def', 'desc', 'manner', 'reason'])
+					 ,('NUM', ['code', 'count', 'date', 'dist', 'money', 'other', 'ord', 'period', 'perc', 'speed', 'temp', 'volsize', 'weight'])
+					 ,('ENTY',['animal', 'body', 'color', 'cremat', 'currency', 'dismed', 'event', 'food', 'instru', 'lang', 'letter', 'other', 'plant', 'product', 'religion', 'sport', 'substance', 'symbol', 'techmeth', 'termeq', 'veh', 'word'])
+					 ,('LOC', ['city', 'country', 'state', 'mount', 'other'])
+					 ,('HUM', ['ind', 'gr', 'title', 'desc'])]
 
 #Extract Class-Specific Relations from the question
 print("Loading Class-Specific Relations dictionary...")
@@ -99,7 +37,8 @@ def question_features_SemCSR(tok_question):
 
 	for word in tok_question:
 		if semCSR_dict.get(word) != None:
-			features["class_"+semCSR_dict[word]] = 1
+			for semclass in semCSR_dict[word]:
+				features["class_"+semclass] = 1
 
 	return features
 
@@ -167,17 +106,58 @@ def question_features_POS(tok_question):
 
 	return features
 
+#Build and train hierarchial classifier for answer type extraction
+def get_coarse_features(tok_question):
+	coarse_features = dict()
+	coarse_features.update(question_features_POS(tok_question))
+	coarse_features.update(question_features_SemCSR(tok_question))
+	return coarse_features
+
+print("Processing answer type features...")
+t0 = time()
+coarse_classifier = Pipeline([('vect', DictVectorizer()),('clf', SGDClassifier(loss='log', n_jobs=-1))])
+fine_classifier = Pipeline([('vect', DictVectorizer()),('clf', SGDClassifier(n_jobs=-1))])
+at_coarse_trdata = []
+at_fine_trdata = []
+at_coarse_trtargets = []
+at_fine_trtargets = []
+
+infile = open('data/train_1000.label', 'r')
+for line in infile:
+	tok_line = line.split(' ')
+	tok_class = tok_line[0].split(':')
+
+	at_coarse_trdata.append(get_coarse_features(tok_line[1:]))
+	at_coarse_trtargets.append(tok_class[0])
+
+	fine_features = dict()
+	for aclass in question_hierarchy:
+		if aclass[0] == tok_class[0]:
+			for fclass in aclass[1]:
+				fine_features[aclass[0]+":"+fclass] = 1
+	at_fine_trdata.append(fine_features)
+	at_fine_trtargets.append(tok_line[0])
+infile.close()
+print("done in %0.3fs" % (time() - t0))
+
+print("Training coarse answer type classifier...")
+t0 = time()
+coarse_classifier.fit_transform(at_coarse_trdata, at_coarse_trtargets)	
+print("done in %0.3fs" % (time() - t0))
+
+print("Training fine answer type classifier...")
+t0 = time()
+fine_classifier.fit_transform(at_fine_trdata, at_fine_trtargets)
+print("done in %0.3fs" % (time() - t0))
+
 #Returns an answer type tuple: (Coarse type, Fine type)
-#TODO: Build and train hierarchial classifier
 def get_answer_type(tok_question):
-	features = dict()
-	features.update(question_features_POS(tok_question))
-	features.update(question_features_SemCSR(tok_question))
-	print("features:")
-	print(features)
+	coarse_dist = coarse_classifier.predict_proba(get_coarse_features(tok_question))
+	coarse_dist = [(coarse_classifier.get_params()['clf'].classes_[i],coarse_dist[0][i]) for i in range(len(coarse_dist[0]))]
+	print(coarse_dist)
 	print()
 	#TODO: pass features to answer type classifier
-	return (Coarse.description, Fine.definition)
+	return ('DESC', 'DESC:def')
 
 #Search relevant stack exchange domains for potential answers to the question.
 def get_candidate_answers(question, domains):
@@ -215,21 +195,21 @@ def extract_answer(question, atype, passage):
 	pat_ancient_year = r"(?:[0-9]|\,)+\s*(?:AD|BC)" # "123 AD", "25,000,000 BC", etc
 
 	#Fine pass (Numeric)
-	if atype[1] == Fine.date:
+	if atype[1] == 'NUM:date':
 		answer_fragments = re.findall(pat_written_date+r"|"+pat_symbolic_date+r"|"+pat_year+r"|"+pat_ancient_year, passage)
-	elif atype[1] == Fine.money:
+	elif atype[1] == 'NUM:money':
 		answer_fragments = re.findall(r"[\$£¥¢]"+pat_realnum, passage)
-	elif atype[1] == Fine.temp:
+	elif atype[1] == 'NUM:temp':
 		answer_fragments = re.findall(pat_realnum+r"\s*°[A-Z]*", passage)
-	elif atype[1] == Fine.percent:
+	elif atype[1] == 'NUM:perc':
 		answer_fragments = re.findall(pat_realnum+r"\s*\%", passage)
-	elif atype[1] == Fine.weight or atype[1] == Fine.size or atype[1] == Fine.speed or atype[1] == Fine.distance: #Number with unit
+	elif atype[1] == 'NUM:weight' or atype[1] == 'NUM:volsize' or atype[1] == 'NUM:speed' or atype[1] == 'NUM:dist': #Number with unit
 		answer_fragments = re.findall(pat_realnum+r"\s*\S+\s", passage)
-	elif atype[0] == Coarse.numeric:
+	elif atype[0] == 'NUM':
 		answer_fragments = re.findall(pat_realnum, passage)
 
 	#Fine pass (Human)
-	elif atype[1] == Fine.individual:
+	elif atype[1] == 'HUM:ind':
 		name_list = set([name for name in names.words('male.txt')] + [name for name in names.words('female.txt')])
 		current_name = ""
 		for i in range(len(tok_passage)):
@@ -243,33 +223,33 @@ def extract_answer(question, atype, passage):
 				current_name = ""
 
 	#Fine pass (Location)
-	elif atype[1] == Fine.state:
+	elif atype[1] == 'LOC:state':
 		answer_fragments = intersect_with_file("data/states.txt", passage.lower())
-	elif atype[1] == Fine.country:
+	elif atype[1] == 'LOC:country':
 		answer_fragments = intersect_with_file("data/countries.txt", passage.lower())
-	elif atype[1] == Fine.city:
+	elif atype[1] == 'LOC:city':
 		answer_fragments = intersect_with_file("data/cities.txt", passage.lower())
-	elif atype[1] == Fine.mountain:
+	elif atype[1] == 'LOC:mount':
 		answer_fragments = intersect_with_file("data/mountains.txt", passage.lower())
 
 	#Fine pass (Entity)
-	elif atype[1] == Fine.instrument:
+	elif atype[1] == 'ENTY:instru':
 		answer_fragments = intersect_with_file("data/instruments.txt", passage.lower())
-	elif atype[1] == Fine.currency:
+	elif atype[1] == 'ENTY:currency':
 		answer_fragments = intersect_with_file("data/currencies.txt", passage.lower())
-	elif atype[1] == Fine.lang:
+	elif atype[1] == 'ENTY:lang':
 		answer_fragments = intersect_with_file("data/languages.txt", passage.lower())
-	elif atype[1] == Fine.religion:
+	elif atype[1] == 'ENTY:religion':
 		answer_fragments = intersect_with_file("data/religions.txt", passage.lower())
 
 	#Coarse pass
 	if len(answer_fragments) == 0:
-		if atype[0] == Coarse.numeric:
+		if atype[0] == 'NUM':
 			answer_fragments = re.findall(pat_realnum, passage) 
-		elif atype[0] == Coarse.human and (atype[1] == Fine.individual or atype[1] == Fine.group):
+		elif atype[0] == 'HUM' and (atype[1] == 'HUM:ind' or atype[1] == 'HUM:gr'):
 			#I didn't find a name, let's become naive and just return any title-cased words
 			answer_fragments = get_proper_nouns(tok_passage)
-		elif atype[0] == Coarse.location:
+		elif atype[0] == 'LOC':
 			#I didn't find the location, let's become naive and just return any title-cased words
 			answer_fragments = get_proper_nouns(tok_passage)
 
