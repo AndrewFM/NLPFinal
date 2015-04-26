@@ -12,12 +12,13 @@ import re
 import os
 
 #Li and Roth's question hierarchy
-question_hierarchy = [('ABBR',['exp', 'abb'])
-					 ,('DESC',['def', 'desc', 'manner', 'reason'])
-					 ,('NUM', ['code', 'count', 'date', 'dist', 'money', 'other', 'ord', 'period', 'perc', 'speed', 'temp', 'volsize', 'weight'])
-					 ,('ENTY',['animal', 'body', 'color', 'cremat', 'currency', 'dismed', 'event', 'food', 'instru', 'lang', 'letter', 'other', 'plant', 'product', 'religion', 'sport', 'substance', 'symbol', 'techmeth', 'termeq', 'veh', 'word'])
-					 ,('LOC', ['city', 'country', 'state', 'mount', 'other'])
-					 ,('HUM', ['ind', 'gr', 'title', 'desc'])]
+question_hierarchy_coarse = ['ABBR', 'DESC', 'NUM', 'ENTY', 'LOC', 'HUM']
+question_hierarchy_fine   = {'ABBR': ['exp', 'abb'],
+					 	     'DESC': ['def', 'desc', 'manner', 'reason'],
+					 	     'NUM':  ['code', 'count', 'date', 'dist', 'money', 'other', 'ord', 'period', 'perc', 'speed', 'temp', 'volsize', 'weight'],
+					 	     'ENTY': ['animal', 'body', 'color', 'cremat', 'currency', 'dismed', 'event', 'food', 'instru', 'lang', 'letter', 'other', 'plant', 'product', 'religion', 'sport', 'substance', 'symbol', 'techmeth', 'termeq', 'veh', 'word'],
+					 	     'LOC':  ['city', 'country', 'state', 'mount', 'other'],
+					 	     'HUM':  ['ind', 'gr', 'title', 'desc']}
 
 #Extract Class-Specific Relations from the question
 print("Loading Class-Specific Relations dictionary...")
@@ -131,10 +132,8 @@ for line in infile:
 	at_coarse_trtargets.append(tok_class[0])
 
 	fine_features = dict()
-	for aclass in question_hierarchy:
-		if aclass[0] == tok_class[0]:
-			for fclass in aclass[1]:
-				fine_features[aclass[0]+":"+fclass] = 1
+	for fclass in question_hierarchy_fine[tok_class[0]]:
+		fine_features[tok_class[0]+":"+fclass] = 1
 	at_fine_trdata.append(fine_features)
 	at_fine_trtargets.append(tok_line[0])
 infile.close()
@@ -154,10 +153,29 @@ print("done in %0.3fs" % (time() - t0))
 def get_answer_type(tok_question):
 	coarse_dist = coarse_classifier.predict_proba(get_coarse_features(tok_question))
 	coarse_dist = [(coarse_classifier.get_params()['clf'].classes_[i],coarse_dist[0][i]) for i in range(len(coarse_dist[0]))]
+	coarse_dist = sorted(coarse_dist, key=lambda x:(-x[1],x[0]))
 	print(coarse_dist)
-	print()
+	
+	#Grab coarse classes up to 95% total certainty, or 5 classes total, whichever comes first
+	coarse_collection = []
+	certainty_so_far = 0
+	for cclass in coarse_dist: 
+		coarse_collection.append(cclass[0])
+		certainty_so_far += cclass[1]
+
+		if certainty_so_far >= 0.95 or len(coarse_collection) >= 5:
+			break
+
+	#Decompose selected coarse classes into their associated fine classes
+	fine_features = dict()
+	for cclass in coarse_collection:
+		for fclass in question_hierarchy_fine[cclass]:
+			fine_features[cclass+":"+fclass] = 1
+
 	#TODO: pass features to answer type classifier
-	return ('DESC', 'DESC:def')
+	fine_predict = fine_classifier.predict(fine_features)[0]
+	print(fine_predict)
+	return (fine_predict.split(':')[0], fine_predict)
 
 #Search relevant stack exchange domains for potential answers to the question.
 def get_candidate_answers(question, domains):
