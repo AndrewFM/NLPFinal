@@ -1,5 +1,6 @@
 import stackexchange
 import time
+from question_settings import user_api_key
 
 #Sites we're interested in answering questions about
 site_list = [stackexchange.StackOverflow,
@@ -43,7 +44,6 @@ site_list = [stackexchange.StackOverflow,
 #This will be the training data for our site classification task.
 
 num_questions = 2500 #Number of questions per site to extract
-user_api_key = "I9AkihbZDuFtUu)8rxEi*A(("
 
 for s in site_list:
 	print("Collecting questions from "+s)

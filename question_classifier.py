@@ -6,6 +6,7 @@ import random
 import operator
 import question_answerer as QA
 import question_stemmer
+import question_settings as settings
 from nltk import word_tokenize
 from sklearn import metrics
 from sklearn.pipeline import Pipeline
@@ -22,13 +23,6 @@ def get_question_features(question):
 	#tok_question = word_tokenize(str(question))
 	#return str(question) + ' '.join(QA.question_features_WordNet(tok_question))
 
-#Settings
-SHOW_EVALUATION = False
-SHOW_DETAILED_METRICS = False
-KFOLD_CVALIDATION = False
-NUM_FOLDS = 5
-CATEGORY_LIMIT = 36
-
 #Gather together the data
 data = []
 
@@ -42,7 +36,7 @@ for site in os.listdir("Question Corpus"):
 		data.append((get_question_features(stemmed_line),site))
 	infile.close()
 	cat_so_far += 1
-	if cat_so_far >= CATEGORY_LIMIT:
+	if cat_so_far >= settings.CATEGORY_LIMIT:
 		break
 print("done in %0.3fs" % (time() - t0))	
 
@@ -51,10 +45,10 @@ random.shuffle(data)
 best_fold = 0
 classifier = None
 fold_range = 1
-if KFOLD_CVALIDATION:
-	fold_range = NUM_FOLDS
+if settings.KFOLD_CVALIDATION:
+	fold_range = settings.NUM_FOLDS
 for i in range(fold_range):
-	test_size = int(len(data)/NUM_FOLDS)
+	test_size = int(len(data)/settings.NUM_FOLDS)
 	train_size = len(data)-test_size
 
 	train_data, train_targets = zip(*(data[:test_size*i]+data[test_size*(i+1):]))
@@ -72,12 +66,12 @@ for i in range(fold_range):
 	classifier.fit_transform(train_data, train_targets)		
 	print("done in %0.3fs" % (time() - t0))					
 
-	if SHOW_EVALUATION:
+	if settings.SHOW_EVALUATION:
 		#Check accuracy of classifier
 		print("Testing classifier accuracy (Fold "+str(i+1)+")...")
 		t0 = time()
 		test_predictions = classifier.predict(test_data)	
-		if SHOW_DETAILED_METRICS:
+		if settings.SHOW_DETAILED_METRICS:
 			print(metrics.classification_report(test_targets, test_predictions))
 		accuracy = numpy.mean(test_predictions == test_targets)
 		if accuracy > best_fold:
@@ -85,7 +79,7 @@ for i in range(fold_range):
 		print("Classifier accuracy is: "+str(accuracy*100)+"%")
 		print("done in %0.3fs" % (time() - t0))	
 
-if SHOW_EVALUATION:
+if settings.SHOW_EVALUATION:
 	print("Best accuracy:", best_fold)
 print("\n")
 

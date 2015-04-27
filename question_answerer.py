@@ -6,8 +6,7 @@ from nltk.corpus import conll2000
 from sklearn.pipeline import Pipeline
 from sklearn.linear_model import SGDClassifier
 from sklearn.feature_extraction import DictVectorizer
-from question_classifier import SHOW_EVALUATION, SHOW_DETAILED_METRICS
-from question_harvester import user_api_key
+import question_settings as settings
 import pickle
 import question_chunker
 import numpy
@@ -68,7 +67,7 @@ print("Training Part-of-speech chunker...")
 t0 = time()
 chunker = question_chunker.PosChunker(conll2000.chunked_sents('train.txt'))
 print("done in %0.3fs" % (time() - t0))	
-if SHOW_EVALUATION:
+if settings.SHOW_EVALUATION:
 	print("Evaluating Part-of-speech chunker...")
 	t0 = time()
 	print(chunker.evaluate(conll2000.chunked_sents('test.txt', chunk_types=['NP','VP'])))
@@ -182,7 +181,7 @@ else:
 	print("done in %0.3fs" % (time() - t0))
 
 #Test Answer Type prediction
-if SHOW_EVALUATION:
+if settings.SHOW_EVALUATION:
 	print("Evaluating answer type classifiers...")
 	features = file_answer_type_features("data/TREC_10.label")
 
@@ -194,14 +193,14 @@ if SHOW_EVALUATION:
 #Returns an answer type tuple: (Coarse type, Fine type)
 def get_answer_type(tok_question):
 	coarse_features = get_coarse_features(tok_question)
-	if SHOW_DETAILED_METRICS:
+	if settings.SHOW_DETAILED_METRICS:
 		print("Question's featureset:")
 		print(coarse_features)
 		print()
 	coarse_dist = coarse_classifier.predict_proba(coarse_features)
 	coarse_dist = [(coarse_classifier.get_params()['clf'].classes_[i],coarse_dist[0][i]) for i in range(len(coarse_dist[0]))]
 	coarse_dist = sorted(coarse_dist, key=lambda x:(-x[1],x[0]))
-	if SHOW_DETAILED_METRICS:
+	if settings.SHOW_DETAILED_METRICS:
 		print("Coarse Class probabilities:")
 		print(coarse_dist)
 		print()
@@ -234,7 +233,7 @@ def get_candidate_answers(question, domains):
     similar_qs = []
     #grab all similar questions from all relevant domains
     for s in domains:
-        site = stackexchange.Site(s, impose_throttling=True, app_key=user_api_key)
+        site = stackexchange.Site(s, impose_throttling=True, app_key=settings.user_api_key)
         throttle = 0
         for q in site.similar(question):
             throttle += 1
