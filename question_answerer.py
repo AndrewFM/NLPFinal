@@ -28,10 +28,11 @@ semCSR_dict = dict()
 for sem_class in os.listdir("data/SemCSR"):
 	infile = open("data/SemCSR/"+sem_class, 'r')
 	for line in infile:
-		if semCSR_dict.get(line) == None:
-			semCSR_dict[line] = [sem_class]
+		clean_line = line.strip().lower()
+		if semCSR_dict.get(clean_line) == None:
+			semCSR_dict[clean_line] = [sem_class]
 		else:
-			semCSR_dict[line].append(sem_class)
+			semCSR_dict[clean_line].append(sem_class)
 	infile.close()
 
 def question_features_SemCSR(tok_question):
@@ -39,8 +40,8 @@ def question_features_SemCSR(tok_question):
 	features = dict()
 
 	for word in tok_question:
-		if semCSR_dict.get(word) != None:
-			for semclass in semCSR_dict[word]:
+		if semCSR_dict.get(word.lower()) != None:
+			for semclass in semCSR_dict[word.lower()]:
 				features["class_"+semclass] = 1
 
 	return features
@@ -189,6 +190,7 @@ print("Fine Classifier accuracy is: "+str(numpy.mean(predictions == features['fi
 #Returns an answer type tuple: (Coarse type, Fine type)
 def get_answer_type(tok_question):
 	coarse_features = get_coarse_features(tok_question)
+	print(coarse_features)
 	coarse_dist = coarse_classifier.predict_proba(coarse_features)
 	coarse_dist = [(coarse_classifier.get_params()['clf'].classes_[i],coarse_dist[0][i]) for i in range(len(coarse_dist[0]))]
 	coarse_dist = sorted(coarse_dist, key=lambda x:(-x[1],x[0]))
