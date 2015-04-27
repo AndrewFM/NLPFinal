@@ -78,7 +78,7 @@ for i in range(fold_range):
 		t0 = time()
 		test_predictions = classifier.predict(test_data)	
 		if SHOW_DETAILED_METRICS:
-			#print(metrics.classification_report(test_targets, test_predictions))
+			print(metrics.classification_report(test_targets, test_predictions))
 		accuracy = numpy.mean(test_predictions == test_targets)
 		if accuracy > best_fold:
 			best_fold = accuracy
