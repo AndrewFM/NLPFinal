@@ -70,7 +70,7 @@ print("done in %0.3fs" % (time() - t0))
 if settings.SHOW_EVALUATION:
 	print("Evaluating Part-of-speech chunker...")
 	t0 = time()
-	print(chunker.evaluate(conll2000.chunked_sents('test.txt', chunk_types=['NP','VP'])))
+	print(chunker.evaluate(conll2000.chunked_sents('test.txt')))
 	print("done in %0.3fs" % (time() - t0))
 
 def question_features_POS(tok_question):
@@ -271,7 +271,9 @@ def get_proper_nouns(tok_passage):
 	return [word for word in tok_passage if word.istitle() == True]
 
 #Extract the final answer to be output, from the summarized, relevant passages, using answer-type pattern extraction.
-def extract_answer(question, atype, passage):
+#fallback: Boolean parameter. If True, will return the original passage if no named entities are found.
+#		   					  If false, will return an empty list if no named entities are found.
+def extract_answer(question, atype, passage, fallback):
 	answer_fragments = []
 	tok_passage = passage.split(' ')
 
@@ -342,6 +344,9 @@ def extract_answer(question, atype, passage):
 
 	#Output
 	if len(answer_fragments) == 0: #Unhandled answer type, or failed to extract answer. Just return the entire passage.
-		return passage
+		if fallback:
+			return passage
+		else:
+			return []
 	else:
 		return ', '.join(set(answer_fragments))
