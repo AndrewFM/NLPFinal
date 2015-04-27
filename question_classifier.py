@@ -5,6 +5,7 @@ import numpy
 import random
 import operator
 import question_answerer as QA
+import question_stemmer
 from nltk import word_tokenize
 from sklearn import metrics
 from sklearn.pipeline import Pipeline
@@ -22,7 +23,7 @@ def get_question_features(question):
 	#return str(question) + ' '.join(QA.question_features_WordNet(tok_question))
 
 #Gather together the data
-category_size = 5
+category_size = 36
 train_size = 4500
 data = []
 
@@ -32,7 +33,8 @@ for site in os.listdir("Question Corpus"):
 	print("Processing", site)
 	infile = open("Question Corpus/"+site, 'rb')
 	for line in infile:
-		data.append((get_question_features(line),site))
+		stemmed_line = ' '.join(question_stemmer.porter_stem_question(word_tokenize(str(line))))
+		data.append((get_question_features(stemmed_line),site))
 	infile.close()
 	cat_so_far += 1
 	if cat_so_far >= category_size:
@@ -60,7 +62,7 @@ print("done in %0.3fs" % (time() - t0))
 print("Testing classifier accuracy...")
 t0 = time()
 test_predictions = classifier.predict(test_data)	
-print(metrics.classification_report(test_targets, test_predictions))
+#print(metrics.classification_report(test_targets, test_predictions))
 print("Classifier accuracy is: "+str(numpy.mean(test_predictions == test_targets)*100)+"%")
 print("done in %0.3fs" % (time() - t0))	
 print("\n")
