@@ -24,7 +24,7 @@ def get_question_features(question):
 
 #Gather together the data
 category_size = 36
-train_size = 4500
+folds = 10
 data = []
 
 t0 = time()
@@ -43,28 +43,39 @@ print("done in %0.3fs" % (time() - t0))
 
 random.seed(123)
 random.shuffle(data)
-train_data, train_targets = zip(*data[:train_size])
-test_data, test_targets = zip(*data[train_size:])
+best_fold = 0
+classifier = None
+for i in range(folds):
+	test_size = int(len(data)/folds)
+	train_size = len(data)-test_size
 
-#Train the classifier
-#	HashingVectorizer = Bag of Words (used HashingVectorizer instead of CountVectorizer for memory conservation)
-#	TfidfTransformer  = Proportional word counts
-#	SGDClassifier	  = SVM w/ Stochastic gradient descent
-print("Building classifier...")
-t0 = time()
-classifier = Pipeline([('vect', HashingVectorizer(input='content', strip_accents='unicode', ngram_range=(1,2), stop_words='english')),		
-                      ('tfidf', TfidfTransformer()),								
-                      ('clf', SGDClassifier(loss='log', n_jobs=-1))])	
-classifier.fit_transform(train_data, train_targets)		
-print("done in %0.3fs" % (time() - t0))					
+	train_data, train_targets = zip(*(data[:test_size*i]+data[test_size*(i+1):]))
+	test_data, test_targets = zip(*data[test_size*i:test_size*(i+1)])
 
-#Check accuracy of classifier
-print("Testing classifier accuracy...")
-t0 = time()
-test_predictions = classifier.predict(test_data)	
-#print(metrics.classification_report(test_targets, test_predictions))
-print("Classifier accuracy is: "+str(numpy.mean(test_predictions == test_targets)*100)+"%")
-print("done in %0.3fs" % (time() - t0))	
+	#Train the classifier
+	#	HashingVectorizer = Bag of Words (used HashingVectorizer instead of CountVectorizer for memory conservation)
+	#	TfidfTransformer  = Proportional word counts
+	#	SGDClassifier	  = SVM w/ Stochastic gradient descent
+	print("Building classifier (Fold "+str(i+1)+")...")
+	t0 = time()
+	classifier = Pipeline([('vect', HashingVectorizer(input='content', strip_accents='unicode', ngram_range=(1,2), stop_words='english')),		
+	                      ('tfidf', TfidfTransformer()),								
+	                      ('clf', SGDClassifier(loss='log', n_jobs=-1))])	
+	classifier.fit_transform(train_data, train_targets)		
+	print("done in %0.3fs" % (time() - t0))					
+
+	#Check accuracy of classifier
+	print("Testing classifier accuracy (Fold "+str(i+1)+")...")
+	t0 = time()
+	test_predictions = classifier.predict(test_data)	
+	#print(metrics.classification_report(test_targets, test_predictions))
+	accuracy = numpy.mean(test_predictions == test_targets)
+	if accuracy > best_fold:
+		best_fold = accuracy
+	print("Classifier accuracy is: "+str(accuracy*100)+"%")
+	print("done in %0.3fs" % (time() - t0))	
+
+print("Best accuracy:", best_fold)
 print("\n")
 
 #Get questions from user

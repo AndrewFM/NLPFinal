@@ -6,6 +6,7 @@ from nltk.corpus import conll2000
 from sklearn.pipeline import Pipeline
 from sklearn.linear_model import SGDClassifier
 from sklearn.feature_extraction import DictVectorizer
+from question_classifier import SHOW_EVALUATION, SHOW_DETAILED_METRICS
 import pickle
 import question_chunker
 import numpy
@@ -66,10 +67,11 @@ print("Training Part-of-speech chunker...")
 t0 = time()
 chunker = question_chunker.PosChunker(conll2000.chunked_sents('train.txt'))
 print("done in %0.3fs" % (time() - t0))	
-'''print("Evaluating Part-of-speech chunker...")
-t0 = time()
-print(chunker.evaluate(conll2000.chunked_sents('test.txt', chunk_types=['NP','VP'])))
-print("done in %0.3fs" % (time() - t0))	'''
+if SHOW_EVALUATION:
+	print("Evaluating Part-of-speech chunker...")
+	t0 = time()
+	print(chunker.evaluate(conll2000.chunked_sents('test.txt', chunk_types=['NP','VP'])))
+	print("done in %0.3fs" % (time() - t0))
 
 def question_features_POS(tok_question):
 	features = dict()
@@ -179,22 +181,29 @@ else:
 	print("done in %0.3fs" % (time() - t0))
 
 #Test Answer Type prediction
-'''print("Evaluating answer type classifiers...")
-features = file_answer_type_features("data/TREC_10.label")
+if SHOW_EVALUATION:
+	print("Evaluating answer type classifiers...")
+	features = file_answer_type_features("data/TREC_10.label")
 
-predictions = coarse_classifier.predict(features['coarse_data'])	
-print("Coarse Classifier accuracy is: "+str(numpy.mean(predictions == features['coarse_targets'])*100)+"%")
-predictions = fine_classifier.predict(features['fine_data'])	
-print("Fine Classifier accuracy is: "+str(numpy.mean(predictions == features['fine_targets'])*100)+"%")'''
+	predictions = coarse_classifier.predict(features['coarse_data'])	
+	print("Coarse Classifier accuracy is: "+str(numpy.mean(predictions == features['coarse_targets'])*100)+"%")
+	predictions = fine_classifier.predict(features['fine_data'])	
+	print("Fine Classifier accuracy is: "+str(numpy.mean(predictions == features['fine_targets'])*100)+"%")
 
 #Returns an answer type tuple: (Coarse type, Fine type)
 def get_answer_type(tok_question):
 	coarse_features = get_coarse_features(tok_question)
-	print(coarse_features)
+	if SHOW_DETAILED_METRICS:
+		print("Question's featureset:")
+		print(coarse_features)
+		print()
 	coarse_dist = coarse_classifier.predict_proba(coarse_features)
 	coarse_dist = [(coarse_classifier.get_params()['clf'].classes_[i],coarse_dist[0][i]) for i in range(len(coarse_dist[0]))]
 	coarse_dist = sorted(coarse_dist, key=lambda x:(-x[1],x[0]))
-	#print(coarse_dist)
+	if SHOW_DETAILED_METRICS:
+		print("Coarse Class probabilities:")
+		print(coarse_dist)
+		print()
 	
 	#Grab coarse classes up to 95% total certainty, or 5 classes total, whichever comes first
 	coarse_collection = []
