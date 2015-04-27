@@ -7,7 +7,9 @@ from sklearn.pipeline import Pipeline
 from sklearn.linear_model import SGDClassifier
 from sklearn.feature_extraction import DictVectorizer
 from question_harvester import user_api_key
+import pickle
 import question_chunker
+import numpy
 import nltk
 import re
 import os
@@ -27,10 +29,11 @@ semCSR_dict = dict()
 for sem_class in os.listdir("data/SemCSR"):
 	infile = open("data/SemCSR/"+sem_class, 'r')
 	for line in infile:
-		if semCSR_dict.get(line) == None:
-			semCSR_dict[line] = [sem_class]
+		clean_line = line.strip().lower()
+		if semCSR_dict.get(clean_line) == None:
+			semCSR_dict[clean_line] = [sem_class]
 		else:
-			semCSR_dict[line].append(sem_class)
+			semCSR_dict[clean_line].append(sem_class)
 	infile.close()
 
 def question_features_SemCSR(tok_question):
@@ -38,8 +41,8 @@ def question_features_SemCSR(tok_question):
 	features = dict()
 
 	for word in tok_question:
-		if semCSR_dict.get(word) != None:
-			for semclass in semCSR_dict[word]:
+		if semCSR_dict.get(word.lower()) != None:
+			for semclass in semCSR_dict[word.lower()]:
 				features["class_"+semclass] = 1
 
 	return features
@@ -115,47 +118,84 @@ def get_coarse_features(tok_question):
 	coarse_features.update(question_features_SemCSR(tok_question))
 	return coarse_features
 
-print("Processing answer type features...")
-t0 = time()
+def file_answer_type_features(filename):
+	t0 = time()
+	print("Processing answer type features in file "+filename+"...")
+	at_coarse_trdata = []
+	at_fine_trdata = []
+	at_coarse_trtargets = []
+	at_fine_trtargets = []
+
+	infile = open(filename, 'r')
+	for line in infile:
+		tok_line = line.split(' ')
+		tok_class = tok_line[0].split(':')
+
+		coarse_features = get_coarse_features(tok_line[1:])
+		at_coarse_trdata.append(coarse_features)
+		at_coarse_trtargets.append(tok_class[0])
+
+		fine_features = dict()
+		for fclass in question_hierarchy_fine[tok_class[0]]:
+			fine_features[tok_class[0]+":"+fclass] = 1
+		fine_features.update(coarse_features)
+		at_fine_trdata.append(fine_features)
+		at_fine_trtargets.append(tok_line[0])
+	infile.close()
+	print("done in %0.3fs" % (time() - t0))
+
+	return {'coarse_data':at_coarse_trdata, 'coarse_targets':at_coarse_trtargets, 'fine_data':at_fine_trdata, 'fine_targets':at_fine_trtargets}
+
+
 coarse_classifier = Pipeline([('vect', DictVectorizer()),('clf', SGDClassifier(loss='log', n_jobs=-1))])
 fine_classifier = Pipeline([('vect', DictVectorizer()),('clf', SGDClassifier(n_jobs=-1))])
-at_coarse_trdata = []
-at_fine_trdata = []
-at_coarse_trtargets = []
-at_fine_trtargets = []
 
-infile = open('data/train_1000.label', 'r')
-for line in infile:
-	tok_line = line.split(' ')
-	tok_class = tok_line[0].split(':')
+if os.path.isfile("dumps/coarse_atype_classifier.pkl") and os.path.isfile("dumps/fine_atype_classifier.pkl"):
+	print("Found pickled answer type classifiers... loading them.")
+	dump = open("dumps/coarse_atype_classifier.pkl", 'rb')
+	coarse_classifier = pickle.load(dump)
+	dump.close()
 
-	at_coarse_trdata.append(get_coarse_features(tok_line[1:]))
-	at_coarse_trtargets.append(tok_class[0])
+	dump = open("dumps/fine_atype_classifier.pkl", 'rb')
+	fine_classifier = pickle.load(dump)
+	dump.close()
+else:
+	features = file_answer_type_features("data/train_5500.label")
 
-	fine_features = dict()
-	for fclass in question_hierarchy_fine[tok_class[0]]:
-		fine_features[tok_class[0]+":"+fclass] = 1
-	at_fine_trdata.append(fine_features)
-	at_fine_trtargets.append(tok_line[0])
-infile.close()
-print("done in %0.3fs" % (time() - t0))
+	#Train Answer Type prediction
+	print("Training coarse answer type classifier...")
+	t0 = time()
+	coarse_classifier.fit_transform(features['coarse_data'], features['coarse_targets'])	
+	dump = open('dumps/coarse_atype_classifier.pkl', 'wb')
+	pickle.dump(coarse_classifier, dump)
+	dump.close()
+	print("done in %0.3fs" % (time() - t0))
 
-print("Training coarse answer type classifier...")
-t0 = time()
-coarse_classifier.fit_transform(at_coarse_trdata, at_coarse_trtargets)	
-print("done in %0.3fs" % (time() - t0))
+	print("Training fine answer type classifier...")
+	t0 = time()
+	fine_classifier.fit_transform(features['fine_data'], features['fine_targets'])
+	dump = open('dumps/fine_atype_classifier.pkl', 'wb')
+	pickle.dump(fine_classifier, dump)
+	dump.close()
+	print("done in %0.3fs" % (time() - t0))
 
-print("Training fine answer type classifier...")
-t0 = time()
-fine_classifier.fit_transform(at_fine_trdata, at_fine_trtargets)
-print("done in %0.3fs" % (time() - t0))
+#Test Answer Type prediction
+'''print("Evaluating answer type classifiers...")
+features = file_answer_type_features("data/TREC_10.label")
+
+predictions = coarse_classifier.predict(features['coarse_data'])	
+print("Coarse Classifier accuracy is: "+str(numpy.mean(predictions == features['coarse_targets'])*100)+"%")
+predictions = fine_classifier.predict(features['fine_data'])	
+print("Fine Classifier accuracy is: "+str(numpy.mean(predictions == features['fine_targets'])*100)+"%")'''
 
 #Returns an answer type tuple: (Coarse type, Fine type)
 def get_answer_type(tok_question):
-	coarse_dist = coarse_classifier.predict_proba(get_coarse_features(tok_question))
+	coarse_features = get_coarse_features(tok_question)
+	print(coarse_features)
+	coarse_dist = coarse_classifier.predict_proba(coarse_features)
 	coarse_dist = [(coarse_classifier.get_params()['clf'].classes_[i],coarse_dist[0][i]) for i in range(len(coarse_dist[0]))]
 	coarse_dist = sorted(coarse_dist, key=lambda x:(-x[1],x[0]))
-	print(coarse_dist)
+	#print(coarse_dist)
 	
 	#Grab coarse classes up to 95% total certainty, or 5 classes total, whichever comes first
 	coarse_collection = []
@@ -166,16 +206,18 @@ def get_answer_type(tok_question):
 
 		if certainty_so_far >= 0.95 or len(coarse_collection) >= 5:
 			break
+	#coarse_collection = [coarse_dist[0][0]]
 
 	#Decompose selected coarse classes into their associated fine classes
 	fine_features = dict()
 	for cclass in coarse_collection:
 		for fclass in question_hierarchy_fine[cclass]:
 			fine_features[cclass+":"+fclass] = 1
+	fine_features.update(coarse_features)
 
 	#TODO: pass features to answer type classifier
 	fine_predict = fine_classifier.predict(fine_features)[0]
-	print(fine_predict)
+	print("Predicted answer type is:", fine_predict)
 	return (fine_predict.split(':')[0], fine_predict)
 
 #Search relevant stack exchange domains for potential answers to the question.
@@ -208,10 +250,10 @@ def extract_passage(question, atype, answers):
 def intersect_with_file(filename, passage):
 	intersects = []
 
-	f = open(filename, 'r')
+	f = open(filename, 'rb')
 	for line in f:
-		if passage.find(line.lower()) != -1:
-			intersects.append(line)
+		if passage.find(str(line).lower()) != -1:
+			intersects.append(str(line))
 	f.close()
 
 	return intersects
