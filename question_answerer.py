@@ -7,6 +7,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.linear_model import SGDClassifier
 from sklearn.feature_extraction import DictVectorizer
 from question_classifier import SHOW_EVALUATION, SHOW_DETAILED_METRICS
+from question_harvester import user_api_key
 import pickle
 import question_chunker
 import numpy
@@ -230,7 +231,25 @@ def get_answer_type(tok_question):
 
 #Search relevant stack exchange domains for potential answers to the question.
 def get_candidate_answers(question, domains):
-	return [""]
+    similar_qs = []
+    #grab all similar questions from all relevant domains
+    for s in domains:
+        site = stackexchange.Site(s, impose_throttling=True, app_key=user_api_key)
+        throttle = 0
+        for q in site.similar(question):
+            throttle += 1
+            if throttle > 5:
+                break
+            similar_qs.append(q)    #Five questions/site to throttle results
+    answers = []
+    #grab best answer from each similar question
+    for q in similar_qs:
+        ans_list = site.answers(id=q.id, body=True)
+        if len(ans_list) > 0:
+            for ans in ans_list:
+                if ans.is_accepted: #only grab accepted answer
+                    answers.append(ans.body) #cluttered string
+    return answers
 
 #Get relevant sentence(s) and/or paragraph(s) from the returned answers.
 def extract_passage(question, atype, answers):
