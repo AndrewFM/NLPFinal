@@ -1,4 +1,6 @@
 import nltk
+import pickle
+import os
 from sklearn.pipeline import Pipeline
 from sklearn.linear_model import SGDClassifier
 from sklearn.feature_extraction import DictVectorizer
@@ -36,19 +38,28 @@ class ChunkTagger(nltk.TaggerI):
 
 	#Train set should be a list of chunk-tagged sentences in ((word, tag), chunk) IOB format.
 	def __init__(self, train_set):
-		train_data = []
-		train_targets = []
+		if os.path.isfile("dumps/chunker.pkl"):
+			print("Found pickled chunker... loading it.")
+			dump = open("dumps/chunker.pkl", 'rb')
+			self.classifier = pickle.load(dump)
+			dump.close()
+		else:
+			train_data = []
+			train_targets = []
 
-		for tag_question in train_set:
-			stripped_chunk_tags = nltk.tag.untag(tag_question)
-			for i in range(len(tag_question)):
-				features = chunk_features(stripped_chunk_tags, i)
-				train_data.append(features)
-				train_targets.append(tag_question[i][1])
-
-		self.classifier = Pipeline([('vect', DictVectorizer()),										
-                      				('clf', SGDClassifier(n_jobs=-1))])	
-		self.classifier.fit_transform(train_data, train_targets)		
+			for tag_question in train_set:
+				stripped_chunk_tags = nltk.tag.untag(tag_question)
+				for i in range(len(tag_question)):
+					features = chunk_features(stripped_chunk_tags, i)
+					train_data.append(features)
+					train_targets.append(tag_question[i][1])
+			
+			self.classifier = Pipeline([('vect', DictVectorizer()),										
+	                      				('clf', SGDClassifier(n_jobs=-1))])	
+			self.classifier.fit_transform(train_data, train_targets)
+			dump = open('dumps/chunker.pkl', 'wb')
+			pickle.dump(self.classifier, dump)
+			dump.close()		
 
 	#Given a POS tagged sentence, additionally tag the sentence with POS chunks
 	def tag(self, tag_question):

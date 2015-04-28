@@ -1,6 +1,5 @@
 #Takes a question as input, and soft-classifies it into the most likely stack-exchange sites in our corpus.
 import os
-import sys
 import numpy
 import random
 import operator
@@ -25,7 +24,7 @@ def get_question_features(question):
 
 #Gather together the data
 data = []
-
+classifier = None
 t0 = time()
 cat_so_far = 0
 for site in os.listdir("Question Corpus"):
@@ -43,7 +42,6 @@ print("done in %0.3fs" % (time() - t0))
 random.seed(123)
 random.shuffle(data)
 best_fold = 0
-classifier = None
 fold_range = 1
 if settings.KFOLD_CVALIDATION:
 	fold_range = settings.NUM_FOLDS
@@ -63,7 +61,7 @@ for i in range(fold_range):
 	classifier = Pipeline([('vect', HashingVectorizer(input='content', strip_accents='unicode', ngram_range=(1,2), stop_words='english')),		
 	                      ('tfidf', TfidfTransformer()),								
 	                      ('clf', SGDClassifier(loss='log', n_jobs=-1))])	
-	classifier.fit_transform(train_data, train_targets)		
+	classifier.fit_transform(train_data, train_targets)	
 	print("done in %0.3fs" % (time() - t0))					
 
 	if settings.SHOW_EVALUATION:
@@ -85,6 +83,7 @@ print("\n")
 
 #Get questions from user
 while True:
+	print()
 	user_question = get_question_features(input("Enter a question: "))
 	tok_question = word_tokenize(user_question)
 	predict_dist = classifier.predict_proba([user_question])
@@ -94,16 +93,16 @@ while True:
 	#print("(It could also be", predict_dist[1][0], "["+format_decimal(predict_dist[1][1]*100)+"%])")
 	#print("(Or, perhaps,", predict_dist[2][0], "["+format_decimal(predict_dist[2][1]*100)+"%])\n")
 
+	#TODO: Change subdomain searching behavior based on categorical certainty
 	# From playing around with this a bit, it looks to me like...
 	# 	Less than 4% certainty, the program is failing to classify the question
 	# 	4-6% certainty, it's not entirely sure
 	# 	6%+ certainty, it probably has the right answer
-
-	#TODO: answers = QA.get_candidate_answers(...)
-	#TODO: passage = QA.extract_passage(...)
-
-	passage = "Not implemented yet"
+	answers = QA.get_candidate_answers(user_question, [predict_dist[0][0].replace('.txt', '')])
+	
 	atype = QA.get_answer_type(tok_question)
-	final_answer = QA.extract_answer(tok_question, atype, passage)
+
+	passage = QA.extract_passage(user_question, atype, answers)
+	
+	final_answer = QA.extract_answer(tok_question, atype, passage, True)
 	print("The answer is:", final_answer)
-	print("\n")

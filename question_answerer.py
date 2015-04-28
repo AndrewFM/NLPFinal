@@ -7,12 +7,14 @@ from sklearn.pipeline import Pipeline
 from sklearn.linear_model import SGDClassifier
 from sklearn.feature_extraction import DictVectorizer
 import question_settings as settings
+import stackexchange
 import pickle
 import question_chunker
 import numpy
 import nltk
 import re
 import os
+import sys
 
 #Li and Roth's question hierarchy
 question_hierarchy_coarse = ['ABBR', 'DESC', 'NUM', 'ENTY', 'LOC', 'HUM']
@@ -151,6 +153,7 @@ def file_answer_type_features(filename):
 coarse_classifier = Pipeline([('vect', DictVectorizer()),('clf', SGDClassifier(loss='log', n_jobs=-1))])
 fine_classifier = Pipeline([('vect', DictVectorizer()),('clf', SGDClassifier(n_jobs=-1))])
 
+#Check if a pickled version of the Answer Type classifier exists on disk
 if os.path.isfile("dumps/coarse_atype_classifier.pkl") and os.path.isfile("dumps/fine_atype_classifier.pkl"):
 	print("Found pickled answer type classifiers... loading them.")
 	dump = open("dumps/coarse_atype_classifier.pkl", 'rb')
@@ -230,40 +233,41 @@ def get_answer_type(tok_question):
 
 #Search relevant stack exchange domains for potential answers to the question.
 def get_candidate_answers(question, domains):
-    similar_qs = []
-    #grab all similar questions from all relevant domains
-    for s in domains:
-        site = stackexchange.Site(s, impose_throttling=True, app_key=settings.user_api_key)
-        throttle = 0
-        for q in site.similar(question):
-            throttle += 1
-            if throttle > 5:
-                break
-            similar_qs.append(q)    #Five questions/site to throttle results
-    answers = []
-    #grab best answer from each similar question
-    for q in similar_qs:
-        ans_list = site.answers(id=q.id, body=True)
-        if len(ans_list) > 0:
-            for ans in ans_list:
-                if ans.is_accepted: #only grab accepted answer
-                    answers.append(ans.body) #cluttered string
-    return answers
+	answers = []
+	#grab all similar questions from all relevant domains, and find accepted answers
+	for s in domains:
+		site = stackexchange.Site(s, impose_throttling=True, app_key=settings.user_api_key)
+		q_throttle = 0
+		test_qoutput = 0
+		for q in site.similar(question, pagesize=25, sort="relevance", order="desc"):
+			get_answer = site.build('questions/'+str(q.id)+"/answers", stackexchange.Answer, "answers", kw={"sort":"votes", "order":"desc", "include_body":"true", "filter":"withbody"})
+			if len(get_answer) > 0:
+				answers.append(get_answer[0].body) #cluttered string
+				if test_qoutput == 0:
+					print(q.title)
+					test_qoutput = 1
+
+			q_throttle += 1
+			#Stop after finding 5 answers
+			if len(answers) > 5 or q_throttle > 20:
+				break
+
+	return answers
 
 #Get relevant sentence(s) and/or paragraph(s) from the returned answers.
 def extract_passage(question, atype, answers):
-	return ""
+	return answers[0] #TODO
 
 #Find matches between a file's contents and a passage
 def intersect_with_file(filename, passage, case_sensitive):
 	intersects = []
 
-	f = open(filename, 'rb')
+	f = open(filename, 'r', encoding='utf-8')
 	for line in f:
-		mod_line = str(line)
+		mod_line = str(line).strip()
 		if case_sensitive == False:
 			mod_line = mod_line.lower()
-		if passage.find(mod_line) != -1:
+		if len(re.findall(r'[\s\W]'+mod_line+r'[\s\W]', passage)) > 0:
 			intersects.append(mod_line)
 	f.close()
 
