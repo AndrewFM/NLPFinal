@@ -228,7 +228,8 @@ def get_answer_type(tok_question):
 
 	#TODO: pass features to answer type classifier
 	fine_predict = fine_classifier.predict(fine_features)[0]
-	print("Predicted answer type is:", fine_predict)
+	if settings.SHOW_PREDICTIONS:
+		print("Predicted answer type is:", fine_predict)
 	return (fine_predict.split(':')[0], fine_predict)
 
 #Search relevant stack exchange domains for potential answers to the question.
@@ -244,7 +245,8 @@ def get_candidate_answers(question, domains):
 			if len(get_answer) > 0:
 				answers.append(get_answer[0].body) #cluttered string
 				if test_qoutput == 0:
-					print(q.title)
+					if settings.SHOW_PREDICTIONS:
+						print(q.title)
 					test_qoutput = 1
 
 			q_throttle += 1
@@ -268,7 +270,7 @@ def intersect_with_file(filename, passage, case_sensitive):
 		if case_sensitive == False:
 			mod_line = mod_line.lower()
 		if len(re.findall(r'[\s\W]'+mod_line+r'[\s\W]', passage)) > 0:
-			intersects.append(mod_line)
+			intersects.append(line.strip())
 	f.close()
 
 	return intersects
