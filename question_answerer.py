@@ -256,7 +256,6 @@ def get_candidate_answers(question, domains):
 
 #Get relevant sentence(s) and/or paragraph(s) from the returned answers.
 def extract_passage(question, atype, answers):
-<<<<<<< HEAD
 	relevant_sent = []
 	for answer in answers:
 		name_entry = extract_answer(question, atype, answer)
@@ -267,9 +266,6 @@ def extract_passage(question, atype, answers):
 	#sort by ranking
 	#weight by subdomain
 	return relevant_sent 
-=======
-	return answers[0] #TODO
->>>>>>> 9555229ca343e51b44051417723567d9788d04f7
 
 #Find matches between a file's contents and a passage
 def intersect_with_file(filename, passage, case_sensitive):
