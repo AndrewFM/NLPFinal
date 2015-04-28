@@ -7,12 +7,14 @@ from sklearn.pipeline import Pipeline
 from sklearn.linear_model import SGDClassifier
 from sklearn.feature_extraction import DictVectorizer
 import question_settings as settings
+import stackexchange
 import pickle
 import question_chunker
 import numpy
 import nltk
 import re
 import os
+import sys
 
 #Li and Roth's question hierarchy
 question_hierarchy_coarse = ['ABBR', 'DESC', 'NUM', 'ENTY', 'LOC', 'HUM']
@@ -70,7 +72,7 @@ print("done in %0.3fs" % (time() - t0))
 if settings.SHOW_EVALUATION:
 	print("Evaluating Part-of-speech chunker...")
 	t0 = time()
-	print(chunker.evaluate(conll2000.chunked_sents('test.txt', chunk_types=['NP','VP'])))
+	print(chunker.evaluate(conll2000.chunked_sents('test.txt')))
 	print("done in %0.3fs" % (time() - t0))
 
 def question_features_POS(tok_question):
@@ -151,6 +153,7 @@ def file_answer_type_features(filename):
 coarse_classifier = Pipeline([('vect', DictVectorizer()),('clf', SGDClassifier(loss='log', n_jobs=-1))])
 fine_classifier = Pipeline([('vect', DictVectorizer()),('clf', SGDClassifier(n_jobs=-1))])
 
+#Check if a pickled version of the Answer Type classifier exists on disk
 if os.path.isfile("dumps/coarse_atype_classifier.pkl") and os.path.isfile("dumps/fine_atype_classifier.pkl"):
 	print("Found pickled answer type classifiers... loading them.")
 	dump = open("dumps/coarse_atype_classifier.pkl", 'rb')
@@ -230,28 +233,30 @@ def get_answer_type(tok_question):
 
 #Search relevant stack exchange domains for potential answers to the question.
 def get_candidate_answers(question, domains):
-    similar_qs = []
-    #grab all similar questions from all relevant domains
-    for s in domains:
-        site = stackexchange.Site(s, impose_throttling=True, app_key=settings.user_api_key)
-        throttle = 0
-        for q in site.similar(question):
-            throttle += 1
-            if throttle > 5:
-                break
-            similar_qs.append(q)    #Five questions/site to throttle results
-    answers = []
-    #grab best answer from each similar question
-    for q in similar_qs:
-        ans_list = site.answers(id=q.id, body=True)
-        if len(ans_list) > 0:
-            for ans in ans_list:
-                if ans.is_accepted: #only grab accepted answer
-                    answers.append(ans.body) #cluttered string
-    return answers
+	answers = []
+	#grab all similar questions from all relevant domains, and find accepted answers
+	for s in domains:
+		site = stackexchange.Site(s, impose_throttling=True, app_key=settings.user_api_key)
+		q_throttle = 0
+		test_qoutput = 0
+		for q in site.similar(question, pagesize=25, sort="relevance", order="desc"):
+			get_answer = site.build('questions/'+str(q.id)+"/answers", stackexchange.Answer, "answers", kw={"sort":"votes", "order":"desc", "include_body":"true", "filter":"withbody"})
+			if len(get_answer) > 0:
+				answers.append(get_answer[0].body) #cluttered string
+				if test_qoutput == 0:
+					print(q.title)
+					test_qoutput = 1
+
+			q_throttle += 1
+			#Stop after finding 5 answers
+			if len(answers) > 5 or q_throttle > 20:
+				break
+
+	return answers
 
 #Get relevant sentence(s) and/or paragraph(s) from the returned answers.
 def extract_passage(question, atype, answers):
+<<<<<<< HEAD
 	relevant_sent = []
 	for answer in answers:
 		name_entry = extract_answer(question, atype, answer)
@@ -262,47 +267,71 @@ def extract_passage(question, atype, answers):
 	#sort by ranking
 	#weight by subdomain
 	return relevant_sent 
+=======
+	return answers[0] #TODO
+>>>>>>> 9555229ca343e51b44051417723567d9788d04f7
 
 #Find matches between a file's contents and a passage
-def intersect_with_file(filename, passage):
+def intersect_with_file(filename, passage, case_sensitive):
 	intersects = []
 
-	f = open(filename, 'rb')
+	f = open(filename, 'r', encoding='utf-8')
 	for line in f:
-		if passage.find(str(line).lower()) != -1:
-			intersects.append(str(line))
+		mod_line = str(line).strip()
+		if case_sensitive == False:
+			mod_line = mod_line.lower()
+		if len(re.findall(r'[\s\W]'+mod_line+r'[\s\W]', passage)) > 0:
+			intersects.append(mod_line)
 	f.close()
 
 	return intersects
 
-#Find any title-cased words in the passage
 def get_proper_nouns(tok_passage):
-	return [word for word in tok_passage if word.istitle() == True]
+	#Criteria:
+	#	-Must be title-cased
+	#	-Must come after some other word (ie: ignore capitalized first words of sentences)
+	#	-Ignore special cases of "I", "I'm", "I'd", and "I'll"
+	proper_nouns = []
+	prevword = ""
+	ignore_prevwords = [".", "!", "?", "", "'", '"']
+	for word in tok_passage:
+		if word.istitle():
+			if prevword not in ignore_prevwords and word != "I":
+				proper_nouns.append(word)
+		prevword = word
+
+	return proper_nouns
 
 #Extract the final answer to be output, from the summarized, relevant passages, using answer-type pattern extraction.
-def extract_answer(question, atype, passage):
+#fallback: Boolean parameter. If True, will return the original passage if no named entities are found.
+#		   					  If false, will return an empty list if no named entities are found.
+def extract_answer(question, atype, passage, fallback):
 	answer_fragments = []
-	tok_passage = passage.split(' ')
+	tok_passage = word_tokenize(passage)
 
-	pat_realnum = r"[0-9]+[.]*[0-9]*"	# 10, 50.2, 0.01, etc
+	pat_realnum = r"[0-9][0-9,]*\.?[0-9]*"	# 10, 999,999.25, 0.01, etc
+	pat_largenum = r"[0-9]+\s(?:[Tt]housand|[a-zA-Z]+illion)" # ie: 150 Billion
+	pat_vague_largenum = r"(?:[Hh]undreds|[Tt]ens)\sof\s(?:[Tt]housands|[a-zA-Z]+illions)" # ie: hundreds of billions
+	pat_anynumber = pat_realnum + r'|' + pat_largenum + r'|' + pat_vague_largenum
 	pat_symbolic_date = r"(?:[0-9]+[\\/-])+[0-9]+"	# 10/21/1991, 2014-10-11, 04/01, etc
 	pat_written_date = r"(?:[Jj]anuary|[Ff]ebruary|[Mm]arch|[Aa]pril|[Mm]ay|[Jj]une|[Jj]uly|[Aa]ugust|[Ss]eptember|[Oo]ctober|[Nn]ovember|[Dd]ecember)\s[0-9]+(?:[\s\,]*[0-9]+)?" #ie: March 21, 2015
 	pat_year = r"[0-9]{4}"	# 4 digit numbers
 	pat_ancient_year = r"(?:[0-9]|\,)+\s*(?:AD|BC)" # "123 AD", "25,000,000 BC", etc
+	pat_symbols_nopunct = r"(?!(?:[A-Za-z0-9]|\s|[\.\?!\,\:;\"\'\(\)]))." #Uncommon symbols
 
 	#Fine pass (Numeric)
 	if atype[1] == 'NUM:date':
 		answer_fragments = re.findall(pat_written_date+r"|"+pat_symbolic_date+r"|"+pat_year+r"|"+pat_ancient_year, passage)
 	elif atype[1] == 'NUM:money':
-		answer_fragments = re.findall(r"[\$£¥¢]"+pat_realnum, passage)
+		answer_fragments = re.findall(r"[\$£¥¢]"+pat_anynumber, passage)
 	elif atype[1] == 'NUM:temp':
 		answer_fragments = re.findall(pat_realnum+r"\s*°[A-Z]*", passage)
 	elif atype[1] == 'NUM:perc':
 		answer_fragments = re.findall(pat_realnum+r"\s*\%", passage)
 	elif atype[1] == 'NUM:weight' or atype[1] == 'NUM:volsize' or atype[1] == 'NUM:speed' or atype[1] == 'NUM:dist': #Number with unit
-		answer_fragments = re.findall(pat_realnum+r"\s*\S+\s", passage)
+		answer_fragments = re.findall(pat_anynumber+r"\s*\S+\s", passage)
 	elif atype[0] == 'NUM':
-		answer_fragments = re.findall(pat_realnum, passage)
+		answer_fragments = re.findall(pat_anynumber, passage)
 
 	#Fine pass (Human)
 	elif atype[1] == 'HUM:ind':
@@ -320,37 +349,61 @@ def extract_answer(question, atype, passage):
 
 	#Fine pass (Location)
 	elif atype[1] == 'LOC:state':
-		answer_fragments = intersect_with_file("data/states.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/states.txt", passage.lower(), False)
 	elif atype[1] == 'LOC:country':
-		answer_fragments = intersect_with_file("data/countries.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/countries.txt", passage.lower(), False)
 	elif atype[1] == 'LOC:city':
-		answer_fragments = intersect_with_file("data/cities.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/cities.txt", passage.lower(), False)
 	elif atype[1] == 'LOC:mount':
-		answer_fragments = intersect_with_file("data/mountains.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/mountains.txt", passage.lower(), False)
 
 	#Fine pass (Entity)
 	elif atype[1] == 'ENTY:instru':
-		answer_fragments = intersect_with_file("data/instruments.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/instruments.txt", passage.lower(), False)
 	elif atype[1] == 'ENTY:currency':
-		answer_fragments = intersect_with_file("data/currencies.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/currencies.txt", passage.lower(), False)
 	elif atype[1] == 'ENTY:lang':
-		answer_fragments = intersect_with_file("data/languages.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/languages.txt", passage.lower(), False)
 	elif atype[1] == 'ENTY:religion':
-		answer_fragments = intersect_with_file("data/religions.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/religions.txt", passage.lower(), False)
+	elif atype[1] == 'ENTY:animal':
+		answer_fragments = intersect_with_file("data/animals.txt", passage.lower(), False)
+	elif atype[1] == 'ENTY:body':
+		answer_fragments = intersect_with_file("data/body.txt", passage.lower(), False)
+	elif atype[1] == 'ENTY:color':
+		answer_fragments = intersect_with_file("data/colors.txt", passage.lower(), False)
+	elif atype[1] == 'ENTY:food':
+		answer_fragments = intersect_with_file("data/foods.txt", passage.lower(), False)
+	elif atype[1] == 'ENTY:sport':
+		answer_fragments = intersect_with_file("data/sports.txt", passage.lower(), False)
+	elif atype[1] == 'ENTY:plant':
+		answer_fragments = intersect_with_file("data/plants.txt", passage.lower(), False)
+	elif atype[1] == 'ENTY:symbol':
+		answer_fragments = intersect_with_file("data/symbols.txt", passage, True)
+		answer_fragments += [re.findall(r'[A-Z]+', item)[0] for item in re.findall(r'\W[A-Z]+\W', passage)]
+		answer_fragments += re.findall(pat_symbols_nopunct, passage)
+
+	#Fine pass (Other)
+	elif atype[1] == 'ABBR:abb' or atype[1] == 'ENTY:letter':
+		#We can at least try to find acronyms...
+		answer_fragments = [re.findall(r'[A-Z]+', item)[0] for item in re.findall(r'\W[A-Z]+\W', passage)]
 
 	#Coarse pass
 	if len(answer_fragments) == 0:
 		if atype[0] == 'NUM':
-			answer_fragments = re.findall(pat_realnum, passage) 
+			answer_fragments = re.findall(pat_anynumber, passage) 
 		elif atype[0] == 'HUM' and (atype[1] == 'HUM:ind' or atype[1] == 'HUM:gr'):
-			#I didn't find a name, let's become naive and just return any title-cased words
+			#I didn't find a name, let's become naive and just return any potential proper nouns
 			answer_fragments = get_proper_nouns(tok_passage)
 		elif atype[0] == 'LOC':
-			#I didn't find the location, let's become naive and just return any title-cased words
+			#I didn't find the location, let's become naive and just return any potential proper nouns
 			answer_fragments = get_proper_nouns(tok_passage)
 
 	#Output
 	if len(answer_fragments) == 0: #Unhandled answer type, or failed to extract answer. Just return the entire passage.
-		return passage
+		if fallback:
+			return passage
+		else:
+			return []
 	else:
 		return ', '.join(set(answer_fragments))
