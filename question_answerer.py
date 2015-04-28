@@ -252,7 +252,16 @@ def get_candidate_answers(question, domains):
 
 #Get relevant sentence(s) and/or paragraph(s) from the returned answers.
 def extract_passage(question, atype, answers):
-	return ""
+	relevant_sent = []
+	for answer in answers:
+		name_entry = extract_answer(question, atype, answer)
+		if name_entry != "":
+			relevant_sent.append(name_entry)
+	if len(relevant_sent) == 0:
+		#fill this in here
+	#sort by ranking
+	#weight by subdomain
+	return relevant_sent 
 
 #Find matches between a file's contents and a passage
 def intersect_with_file(filename, passage):
