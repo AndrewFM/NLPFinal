@@ -273,18 +273,33 @@ def intersect_with_file(filename, passage, case_sensitive):
 
 	return intersects
 
-#Find any title-cased words in the passage
 def get_proper_nouns(tok_passage):
-	return [word for word in tok_passage if word.istitle() == True]
+	#Criteria:
+	#	-Must be title-cased
+	#	-Must come after some other word (ie: ignore capitalized first words of sentences)
+	#	-Ignore special cases of "I", "I'm", "I'd", and "I'll"
+	proper_nouns = []
+	prevword = ""
+	ignore_prevwords = [".", "!", "?", "", "'", '"']
+	for word in tok_passage:
+		if word.istitle():
+			if prevword not in ignore_prevwords and word != "I":
+				proper_nouns.append(word)
+		prevword = word
+
+	return proper_nouns
 
 #Extract the final answer to be output, from the summarized, relevant passages, using answer-type pattern extraction.
 #fallback: Boolean parameter. If True, will return the original passage if no named entities are found.
 #		   					  If false, will return an empty list if no named entities are found.
 def extract_answer(question, atype, passage, fallback):
 	answer_fragments = []
-	tok_passage = passage.split(' ')
+	tok_passage = word_tokenize(passage)
 
-	pat_realnum = r"[0-9]+[.]*[0-9]*"	# 10, 50.2, 0.01, etc
+	pat_realnum = r"[0-9][0-9,]*\.?[0-9]*"	# 10, 999,999.25, 0.01, etc
+	pat_largenum = r"[0-9]+\s(?:[Tt]housand|[a-zA-Z]+illion)" # ie: 150 Billion
+	pat_vague_largenum = r"(?:[Hh]undreds|[Tt]ens)\sof\s(?:[Tt]housands|[a-zA-Z]+illions)" # ie: hundreds of billions
+	pat_anynumber = pat_realnum + r'|' + pat_largenum + r'|' + pat_vague_largenum
 	pat_symbolic_date = r"(?:[0-9]+[\\/-])+[0-9]+"	# 10/21/1991, 2014-10-11, 04/01, etc
 	pat_written_date = r"(?:[Jj]anuary|[Ff]ebruary|[Mm]arch|[Aa]pril|[Mm]ay|[Jj]une|[Jj]uly|[Aa]ugust|[Ss]eptember|[Oo]ctober|[Nn]ovember|[Dd]ecember)\s[0-9]+(?:[\s\,]*[0-9]+)?" #ie: March 21, 2015
 	pat_year = r"[0-9]{4}"	# 4 digit numbers
@@ -295,15 +310,15 @@ def extract_answer(question, atype, passage, fallback):
 	if atype[1] == 'NUM:date':
 		answer_fragments = re.findall(pat_written_date+r"|"+pat_symbolic_date+r"|"+pat_year+r"|"+pat_ancient_year, passage)
 	elif atype[1] == 'NUM:money':
-		answer_fragments = re.findall(r"[\$£¥¢]"+pat_realnum, passage)
+		answer_fragments = re.findall(r"[\$£¥¢]"+pat_anynumber, passage)
 	elif atype[1] == 'NUM:temp':
 		answer_fragments = re.findall(pat_realnum+r"\s*°[A-Z]*", passage)
 	elif atype[1] == 'NUM:perc':
 		answer_fragments = re.findall(pat_realnum+r"\s*\%", passage)
 	elif atype[1] == 'NUM:weight' or atype[1] == 'NUM:volsize' or atype[1] == 'NUM:speed' or atype[1] == 'NUM:dist': #Number with unit
-		answer_fragments = re.findall(pat_realnum+r"\s*\S+\s", passage)
+		answer_fragments = re.findall(pat_anynumber+r"\s*\S+\s", passage)
 	elif atype[0] == 'NUM':
-		answer_fragments = re.findall(pat_realnum, passage)
+		answer_fragments = re.findall(pat_anynumber, passage)
 
 	#Fine pass (Human)
 	elif atype[1] == 'HUM:ind':
@@ -363,12 +378,12 @@ def extract_answer(question, atype, passage, fallback):
 	#Coarse pass
 	if len(answer_fragments) == 0:
 		if atype[0] == 'NUM':
-			answer_fragments = re.findall(pat_realnum, passage) 
+			answer_fragments = re.findall(pat_anynumber, passage) 
 		elif atype[0] == 'HUM' and (atype[1] == 'HUM:ind' or atype[1] == 'HUM:gr'):
-			#I didn't find a name, let's become naive and just return any title-cased words
+			#I didn't find a name, let's become naive and just return any potential proper nouns
 			answer_fragments = get_proper_nouns(tok_passage)
 		elif atype[0] == 'LOC':
-			#I didn't find the location, let's become naive and just return any title-cased words
+			#I didn't find the location, let's become naive and just return any potential proper nouns
 			answer_fragments = get_proper_nouns(tok_passage)
 
 	#Output
