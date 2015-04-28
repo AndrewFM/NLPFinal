@@ -257,14 +257,13 @@ def get_candidate_answers(question, domains):
 #Get relevant sentence(s) and/or paragraph(s) from the returned answers.
 #Returns 0 if there are no named entities
 def extract_passage(question, atype, answers):
-	relevant_sent = []
+	relevant_sent, name_entries = [], []
 	for answer in answers:
-		name_entry = extract_answer(question, atype, answer)
-		if name_entry != "":
-			relevant_sent.append(name_entry)
-	if len(relevant_sent) == 0:
+		name_entries.append(extract_answer(question, atype, answer))
+	if len(names_entries) == 0:
 		return 0
 	#sort by ranking
+	
 
 	#weight by subdomain
 	return relevant_sent 
