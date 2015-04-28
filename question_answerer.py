@@ -255,13 +255,16 @@ def extract_passage(question, atype, answers):
 	return ""
 
 #Find matches between a file's contents and a passage
-def intersect_with_file(filename, passage):
+def intersect_with_file(filename, passage, case_sensitive):
 	intersects = []
 
 	f = open(filename, 'rb')
 	for line in f:
-		if passage.find(str(line).lower()) != -1:
-			intersects.append(str(line))
+		mod_line = str(line)
+		if case_sensitive == False:
+			mod_line = mod_line.lower()
+		if passage.find(mod_line) != -1:
+			intersects.append(mod_line)
 	f.close()
 
 	return intersects
@@ -282,6 +285,7 @@ def extract_answer(question, atype, passage, fallback):
 	pat_written_date = r"(?:[Jj]anuary|[Ff]ebruary|[Mm]arch|[Aa]pril|[Mm]ay|[Jj]une|[Jj]uly|[Aa]ugust|[Ss]eptember|[Oo]ctober|[Nn]ovember|[Dd]ecember)\s[0-9]+(?:[\s\,]*[0-9]+)?" #ie: March 21, 2015
 	pat_year = r"[0-9]{4}"	# 4 digit numbers
 	pat_ancient_year = r"(?:[0-9]|\,)+\s*(?:AD|BC)" # "123 AD", "25,000,000 BC", etc
+	pat_symbols_nopunct = r"(?!(?:[A-Za-z0-9]|\s|[\.\?!\,\:;\"\'\(\)]))." #Uncommon symbols
 
 	#Fine pass (Numeric)
 	if atype[1] == 'NUM:date':
@@ -313,23 +317,44 @@ def extract_answer(question, atype, passage, fallback):
 
 	#Fine pass (Location)
 	elif atype[1] == 'LOC:state':
-		answer_fragments = intersect_with_file("data/states.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/states.txt", passage.lower(), False)
 	elif atype[1] == 'LOC:country':
-		answer_fragments = intersect_with_file("data/countries.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/countries.txt", passage.lower(), False)
 	elif atype[1] == 'LOC:city':
-		answer_fragments = intersect_with_file("data/cities.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/cities.txt", passage.lower(), False)
 	elif atype[1] == 'LOC:mount':
-		answer_fragments = intersect_with_file("data/mountains.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/mountains.txt", passage.lower(), False)
 
 	#Fine pass (Entity)
 	elif atype[1] == 'ENTY:instru':
-		answer_fragments = intersect_with_file("data/instruments.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/instruments.txt", passage.lower(), False)
 	elif atype[1] == 'ENTY:currency':
-		answer_fragments = intersect_with_file("data/currencies.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/currencies.txt", passage.lower(), False)
 	elif atype[1] == 'ENTY:lang':
-		answer_fragments = intersect_with_file("data/languages.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/languages.txt", passage.lower(), False)
 	elif atype[1] == 'ENTY:religion':
-		answer_fragments = intersect_with_file("data/religions.txt", passage.lower())
+		answer_fragments = intersect_with_file("data/religions.txt", passage.lower(), False)
+	elif atype[1] == 'ENTY:animal':
+		answer_fragments = intersect_with_file("data/animals.txt", passage.lower(), False)
+	elif atype[1] == 'ENTY:body':
+		answer_fragments = intersect_with_file("data/body.txt", passage.lower(), False)
+	elif atype[1] == 'ENTY:color':
+		answer_fragments = intersect_with_file("data/colors.txt", passage.lower(), False)
+	elif atype[1] == 'ENTY:food':
+		answer_fragments = intersect_with_file("data/foods.txt", passage.lower(), False)
+	elif atype[1] == 'ENTY:sport':
+		answer_fragments = intersect_with_file("data/sports.txt", passage.lower(), False)
+	elif atype[1] == 'ENTY:plant':
+		answer_fragments = intersect_with_file("data/plants.txt", passage.lower(), False)
+	elif atype[1] == 'ENTY:symbol':
+		answer_fragments = intersect_with_file("data/symbols.txt", passage, True)
+		answer_fragments += [re.findall(r'[A-Z]+', item)[0] for item in re.findall(r'\W[A-Z]+\W', passage)]
+		answer_fragments += re.findall(pat_symbols_nopunct, passage)
+
+	#Fine pass (Other)
+	elif atype[1] == 'ABBR:abb' or atype[1] == 'ENTY:letter':
+		#We can at least try to find acronyms...
+		answer_fragments = [re.findall(r'[A-Z]+', item)[0] for item in re.findall(r'\W[A-Z]+\W', passage)]
 
 	#Coarse pass
 	if len(answer_fragments) == 0:
