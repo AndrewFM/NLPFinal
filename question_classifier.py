@@ -89,7 +89,8 @@ while True:
 	predict_dist = classifier.predict_proba([user_question])
 	predict_dist = [(classifier.get_params()['clf'].classes_[i],predict_dist[0][i]) for i in range(len(predict_dist[0]))]
 	predict_dist.sort(key=operator.itemgetter(1), reverse=True)
-	print("Your question belongs to:", predict_dist[0][0].replace('.txt', ''))#, "(I'm", format_decimal(predict_dist[0][1]*100)+"% sure)")
+	if settings.SHOW_PREDICTIONS:
+		print("Your question belongs to:", predict_dist[0][0].replace('.txt', ''))#, "(I'm", format_decimal(predict_dist[0][1]*100)+"% sure)")
 	#print("(It could also be", predict_dist[1][0], "["+format_decimal(predict_dist[1][1]*100)+"%])")
 	#print("(Or, perhaps,", predict_dist[2][0], "["+format_decimal(predict_dist[2][1]*100)+"%])\n")
 
