@@ -6,6 +6,7 @@ from nltk.corpus import conll2000
 from sklearn.pipeline import Pipeline
 from sklearn.linear_model import SGDClassifier
 from sklearn.feature_extraction import DictVectorizer
+from collections import OrderedDict
 import question_settings as settings
 import stackexchange
 import pickle
@@ -255,17 +256,23 @@ def get_candidate_answers(question, domains):
 	return answers
 
 #Get relevant sentence(s) and/or paragraph(s) from the returned answers.
+#Returns 0 if there are no named entities
 def extract_passage(question, atype, answers):
-	relevant_sent = []
-	for answer in answers:
-		name_entry = extract_answer(question, atype, answer)
-		if name_entry != "":
-			relevant_sent.append(name_entry)
-	if len(relevant_sent) == 0:
-		#fill this in here
 	#sort by ranking
-	#weight by subdomain
-	return relevant_sent 
+	name_entries = []
+	num_keywords = []
+	keyword = atype.split(':')[1]
+	for answer in answers:
+		name_entries.append(extract_answer(question, atype, answer))
+		num_keywords.append(len(intersect_with_file('/data/SemCSR/' + keyword, answer.lower(), False)))
+	if len(names_entries) == 0:
+		return 0
+	name_entries.sort(key=lambda key: len(key))	
+	num_keywords.sort()
+
+	ranked = dict(zip(answers:name_entries + num_keywords + [reversed(i for i in range(len(answers)))]))
+	ranked =  OrderedDict(sorted(ranked.items(), key=lambda kv: kv[1], reverse=True))
+	return ranked
 
 #Find matches between a file's contents and a passage
 def intersect_with_file(filename, passage, case_sensitive):
