@@ -79,7 +79,6 @@ for i in range(fold_range):
 
 if settings.SHOW_EVALUATION:
 	print("Best accuracy:", best_fold)
-print("\n")
 
 #Get questions from user
 while True:
@@ -100,10 +99,7 @@ while True:
 	# 	4-6% certainty, it's not entirely sure
 	# 	6%+ certainty, it probably has the right answer
 	answers = QA.get_candidate_answers(user_question, [predict_dist[0][0].replace('.txt', '')])
-	
 	atype = QA.get_answer_type(tok_question)
+	final_answer = QA.extract_passage(user_question, atype, answers)
 
-	passage = QA.extract_passage(user_question, atype, answers)
-	
-	final_answer = QA.extract_answer(tok_question, atype, passage, True)
 	print("The answer is:", final_answer)

@@ -6,7 +6,6 @@ from nltk.corpus import conll2000
 from sklearn.pipeline import Pipeline
 from sklearn.linear_model import SGDClassifier
 from sklearn.feature_extraction import DictVectorizer
-from collections import OrderedDict
 import question_settings as settings
 import stackexchange
 import pickle
@@ -240,15 +239,10 @@ def get_candidate_answers(question, domains):
 	for s in domains:
 		site = stackexchange.Site(s, impose_throttling=True, app_key=settings.user_api_key)
 		q_throttle = 0
-		test_qoutput = 0
 		for q in site.similar(question, pagesize=25, sort="relevance", order="desc"):
 			get_answer = site.build('questions/'+str(q.id)+"/answers", stackexchange.Answer, "answers", kw={"sort":"votes", "order":"desc", "include_body":"true", "filter":"withbody"})
 			if len(get_answer) > 0:
-				answers.append(get_answer[0].body) #cluttered string
-				if test_qoutput == 0:
-					if settings.SHOW_PREDICTIONS:
-						print(q.title)
-					test_qoutput = 1
+				answers.append((get_answer[0].body, q.title)) #Append the question title too, for debug purposes.
 
 			q_throttle += 1
 			#Stop after finding 5 answers
@@ -260,21 +254,30 @@ def get_candidate_answers(question, domains):
 #Get relevant sentence(s) and/or paragraph(s) from the returned answers.
 #Returns 0 if there are no named entities
 def extract_passage(question, atype, answers):
+	if len(answers) == 0:
+		return "I don't know the answer to that question."
+
 	#sort by ranking
 	name_entries = []
 	num_keywords = []
-	keyword = atype.split(':')[1]
+	keyword = atype[1].split(':')[1]
 	for answer in answers:
-		name_entries.append(extract_answer(question, atype, answer))
-		num_keywords.append(len(intersect_with_file('/data/SemCSR/' + keyword, answer.lower(), False)))
-	if len(names_entries) == 0:
-		return 0
-	name_entries.sort(key=lambda key: len(key))	
-	num_keywords.sort()
+		name_entries.append(extract_answer(question, atype, answer[0], False))
+		num_keywords.append(len(intersect_with_file('data/SemCSR/' + keyword, answer[0].lower(), False)))
 
-	ranked = dict(zip(answers:name_entries + num_keywords + [reversed(i for i in range(len(answers)))]))
-	ranked =  OrderedDict(sorted(ranked.items(), key=lambda kv: kv[1], reverse=True))
-	return ranked
+	entry_penalty = []
+	for ent in name_entries:
+		if len(ent) == 0:
+			entry_penalty.append(99)
+		else:
+			entry_penalty.append(len(ent))
+	best_index = numpy.argmax([-entry_penalty[i] + num_keywords[i] + len(answers)-i for i in range(len(answers))])
+	if settings.SHOW_PREDICTIONS:
+		print(answers[best_index][1])
+	if len(name_entries[best_index]) > 0:
+		return ', '.join(set(name_entries[best_index]))
+	else:
+		return answers[best_index][0]
 
 #Find matches between a file's contents and a passage
 def intersect_with_file(filename, passage, case_sensitive):
@@ -411,4 +414,4 @@ def extract_answer(question, atype, passage, fallback):
 		else:
 			return []
 	else:
-		return ', '.join(set(answer_fragments))
+		return answer_fragments
