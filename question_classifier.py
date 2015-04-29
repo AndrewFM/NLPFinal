@@ -85,21 +85,30 @@ while True:
 	print()
 	user_question = get_question_features(input("Enter a question: "))
 	tok_question = word_tokenize(user_question)
+	atype = QA.get_answer_type(tok_question)
 	predict_dist = classifier.predict_proba([user_question])
 	predict_dist = [(classifier.get_params()['clf'].classes_[i],predict_dist[0][i]) for i in range(len(predict_dist[0]))]
 	predict_dist.sort(key=operator.itemgetter(1), reverse=True)
-	if settings.SHOW_PREDICTIONS:
-		print("Your question belongs to:", predict_dist[0][0].replace('.txt', ''))#, "(I'm", format_decimal(predict_dist[0][1]*100)+"% sure)")
-	#print("(It could also be", predict_dist[1][0], "["+format_decimal(predict_dist[1][1]*100)+"%])")
-	#print("(Or, perhaps,", predict_dist[2][0], "["+format_decimal(predict_dist[2][1]*100)+"%])\n")
 
-	#TODO: Change subdomain searching behavior based on categorical certainty
-	# From playing around with this a bit, it looks to me like...
-	# 	Less than 4% certainty, the program is failing to classify the question
-	# 	4-6% certainty, it's not entirely sure
-	# 	6%+ certainty, it probably has the right answer
-	answers = QA.get_candidate_answers(user_question, [predict_dist[0][0].replace('.txt', '')])
-	atype = QA.get_answer_type(tok_question)
-	final_answer = QA.extract_passage(user_question, atype, answers)
+	final_answer = "I don't know the answer to that question."
+
+	#Very Certain
+	if predict_dist[0][1] >= 0.06:
+		if settings.SHOW_PREDICTIONS:
+			print("Your question belongs to:", predict_dist[0][0].replace('.txt', ''))
+		answers = QA.get_candidate_answers(user_question, [predict_dist[0][0].replace('.txt', '')])
+		final_answer = QA.extract_passage(user_question, atype, answers)
+
+	#Partially Certain
+	elif predict_dist[0][1] >= 0.04:
+		subdomains = []
+		for i in range(3):
+			if predict_dist[i][1] >= 0.04:
+				subdomains.append(predict_dist[i][0].replace('.txt', ''))
+
+		if settings.SHOW_PREDICTIONS:
+			print("Your question belongs to one of:", ', '.join(subdomains))				
+		answers = QA.get_candidate_answers(user_question, subdomains)
+		final_answer = QA.extract_passage(user_question, atype, answers)
 
 	print("The answer is:", final_answer)
