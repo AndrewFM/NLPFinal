@@ -6,6 +6,7 @@ from nltk.corpus import conll2000
 from sklearn.pipeline import Pipeline
 from sklearn.linear_model import SGDClassifier
 from sklearn.feature_extraction import DictVectorizer
+from bs4 import BeautifulSoup
 import question_settings as settings
 import stackexchange
 import pickle
@@ -232,9 +233,14 @@ def get_answer_type(tok_question):
 		print("Predicted answer type is:", fine_predict)
 	return (fine_predict.split(':')[0], fine_predict)
 
+def parse_html(answer):
+    soup = BeautifulSoup(answer)
+    return soup.get_text()
+
 #Search relevant stack exchange domains for potential answers to the question.
 def get_candidate_answers(question, domains):
 	answers = []
+    parsed_answers = []
 	#grab all similar questions from all relevant domains, and find accepted answers
 	for s in domains:
 		site = stackexchange.Site(s, impose_throttling=True, app_key=settings.user_api_key)
@@ -248,8 +254,10 @@ def get_candidate_answers(question, domains):
 			#Stop after finding 5 answers
 			if len(answers) > 5 or q_throttle > 20:
 				break
+    for answer in answers:
+        parsed_answers.append(parse_html(answer))
 
-	return answers
+	return parsed_answers
 
 #Get relevant sentence(s) and/or paragraph(s) from the returned answers.
 #Returns 0 if there are no named entities
