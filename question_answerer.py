@@ -234,13 +234,13 @@ def get_answer_type(tok_question):
 	return (fine_predict.split(':')[0], fine_predict)
 
 def parse_html(answer):
-    soup = BeautifulSoup(answer)
-    return soup.get_text()
+	soup = BeautifulSoup(answer)
+	return soup.get_text()
 
 #Search relevant stack exchange domains for potential answers to the question.
 def get_candidate_answers(question, domains):
 	answers = []
-    parsed_answers = []
+	parsed_answers = []
 	#grab all similar questions from all relevant domains, and find accepted answers
 	for s in domains:
 		site = stackexchange.Site(s, impose_throttling=True, app_key=settings.user_api_key)
@@ -254,8 +254,8 @@ def get_candidate_answers(question, domains):
 			#Stop after finding 5 answers
 			if len(answers) > 5 or q_throttle > 20:
 				break
-    for answer in answers:
-        parsed_answers.append(parse_html(answer))
+	for answer in answers:
+		parsed_answers.append(parse_html(answer))
 
 	return parsed_answers
 
